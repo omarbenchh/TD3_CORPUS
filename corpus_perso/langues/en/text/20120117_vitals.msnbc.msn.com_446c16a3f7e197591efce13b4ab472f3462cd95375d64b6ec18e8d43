@@ -1,0 +1,1743 @@
+
+  
+
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,700|PT+Sans:400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="http://s-pt.ppstatic.pl/www/merge/?typ=css&amp;p=/o/css/cookies.css,/p/css/nanoScroller.css,/p/css/rwd/foundation5mod.css,/p/css/serwisy/regionalne.css&amp;v=11140890&amp;w=75dda511140890_e4bdda11140890_f9b66611140890_1a6bde11140890" type="text/css" >
+
+    
+    <script type="text/javascript">var czyMobilne = !1, czyTablet = !1;</script><script type="text/javascript">if(!GR) { var GR = function() { return; }; }var oG_OSA = {"serwis":"polskatimes", "sUrl":"http://s-pt.ppstatic.pl","debug":false, "iframeReklama":"http://gratka.pl/reklama/", "tracking": [], "vat":{"stawka":0.23,"procent":23,"brutto":1.23}, "trybReklamy": "new", "czyBot": false, "adOceanEmiter":"ad.adocean.pl", "adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77", "kodowanie":"utf-8", "wersja_serwisu":"11140890", "typAnalytics":"GA"};</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/jquery/1.8.3/jquery.min.js?20150630"></script>
+<script type="text/javascript">if (GR && !GR.DOM) {jQuery=jQuery.noConflict(true);}</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/osnowa.js?c836e611140890"></script>
+<script type="text/javascript" src="//ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/reklama.js?95712311140890"></script>
+<script type="text/javascript">var adMiejsce = {"dol1":"adoceanadxmglkldrin","fiszka":"adoceanadunnrninfrm","gora1":"adoceanadroeibwgkxh","gora2":"adoceanadoploetqowc","layer":"adoceanadladfiqktnx","okazjon":"adoceanadyakllneiww","prawa1":"adoceanadvbrrokomvr","prawa2":"adoceanadsciiciirmm","prawa3":"adoceanadpdpofvrfkl","prawa4":"adoceanadmegfjslkqg","srodek1":"adoceanadzenlmpfppb","srodek2":"adoceanadwfespmptzw","srodek3":"adoceanadtglidkjipv","srodek4":"adoceanadqhcpgxsmoq","tapeta":"adoceanadnijfkumrjl","verboomInterText":"adoceanadkjqlnrggdk"};
+
+  var adO = {"keys":["gazetawspolczesna,stronaglowna"],"vars":[],"minSzerokosc":1000,"kodMaster":"yRemiFGx8sv4AKUK.SbEwNcvDhAAINt01zCebD55Qv7.87","adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"};
+
+  var hasFlash = (
+    (navigator.plugins !== "undefined" && typeof navigator.plugins["Shockwave Flash"] === "object")
+    || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) !== false)
+  );
+
+  if (hasFlash) {
+    adO.keys.push('flash');
+  }
+
+  var ciastkoCriteo = GR('pobierzCookie', 'crtg_rta');
+
+  if (ciastkoCriteo && ';' == ciastkoCriteo.charAt(ciastkoCriteo.length-1)) {
+    ciastkoCriteo = ciastkoCriteo.substring(0, ciastkoCriteo.length-1);
+  }
+
+  if (ciastkoCriteo) {
+    var kluczeIWartosci = unescape(ciastkoCriteo).split(";");
+    var dlugosc = kluczeIWartosci.length;
+
+    for (var i = 0; i < dlugosc; i++) {
+      var kluczIWartosc = kluczeIWartosci[i].split("=");
+      adO.vars[kluczIWartosc[0]] = parseInt(kluczIWartosc[1]);
+    }
+  }
+    GR('wywolajReklamy', 1, adO);
+  
+</script>
+<script type="text/javascript" src="//connect.facebook.net/pl_PL/sdk.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/www/merge/?typ=js&amp;p=/p/js/regionalne/boks_region.js,/o/jquerytools/jquery.cookie.js,/p/js/regionalne/menu_gorne.js,/p/js/regionalne/stopka.js,/p/js/regionalne/naglowek_skrocony.js,/o/jquerytools/jquery.lazyload-1.9.3.js,/o/jquerytools/jquery.appear-1.1.1.min.js,/p/js/cgr/polskatimes.js,/p/js/rwd/modernizr.foundation.js,/p/js/rwd/foundation5.js,/p/js/rwd/foundation.tooltip.js,/p/js/rwd/foundation.reveal.js,/p/js/rwd/jquery.inview.js,/p/js/rwd/jquery.localscroll-1.2.7-min.js,/p/js/rwd/jquery.scrollTo-1.4.3.1-min.js,/o/jquerytools/jquery.nanoscroller.js,/p/js/regionalne/kategorie_wiecej.js,/p/js/regionalne/rozwin_boks.js,/p/js/rwd/material_spolecznosci.js,/o/js/cgr/track.js&amp;v=11140890&amp;w=ae40ec11140890_89ebf411140890_ffbedf11140890_01240011140890_ada0ac11140890_4b6e9d11140890_72e1d911140890_e042a311140890_9177d511140890_07c27111140890_54a3f911140890_e3446211140890_4ac5fe11140890_8996ad11140890_c4dff611140890_150c7211140890_c36bd511140890_674f9611140890_59ce5711140890_f0dc1511140890"></script>
+
+    
+    <script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/criteo.js?6c3c0811140890"></script>
+
+
+                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                    <title>Gazeta Współczesna - Białystok, Łomża, Suwałki, Ełk, Ostrołęka - informacje, artykuły, wydarzenia</title>
+                            <meta name="description" content="Gazeta Współczesna - portal regionalny">
+                                <meta name="keywords" content="białystok,podlasie,informacje,wydarzenia,łomża,suwałki,ostrołęka,bielsk,sokółka,mońki,hajnówka,siemiatycze,augustów,ełk,olecko,gołdap,giżycko">
+                                <meta name="robots" content="index, follow">
+                                                                <meta name="google-site-verification" content="MPIycD3dFVAVCjaOyqsCFI2-ps1FUShEUgJL8nP7sKU">
+                                                                                                                                                                                                                                                                                                                                                                                                                <meta name="rating" content="general">
+                                <meta name="revisit-after" content="1 day">
+                                                                                <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                                <meta name="fragment" content="!">
+                                                                                <meta name="thumbnail" content="http://s-pt.ppstatic.pl/g/logo_naglowek/gazetawspolczesna.png">
+            
+
+
+            <meta property="og:image" content="http://s-pt.ppstatic.pl/g/logo_naglowek/facebook/gazetawspolczesna.png?20151016">
+                <meta property="og:title" content="Gazeta Współczesna - Białystok, Łomża, Suwałki, Ełk, Ostrołęka - informacje, artykuły, wydarzenia">
+                <meta property="og:description" content="Gazeta Współczesna - portal regionalny">
+                <meta property="og:site_name" content="wspolczesna.pl">
+                <meta property="og:type" content="website">
+                <meta property="og:url" content="//www.wspolczesna.pl/">
+    
+    <link rel="apple-touch-icon" href="http://s-pt.ppstatic.pl/g/favicon/mobilne/gazeta_wspolczesna.png?1">
+
+
+
+<link href="http://s-pt.ppstatic.pl/g/favicon/gazeta_wspolczesna.ico" rel="shortcut icon">
+      <!--[if IE]>
+    <meta http-equiv="imagetoolbar" content="no">
+<![endif]-->
+
+      <script type="text/javascript">
+  GR('oTrackGettracker', { prefix: '', account: 'UA-791515-2', domain: '.wspolczesna.pl', setAllowAnchor: true });
+      GR('oTrackGettracker', { prefix: 'b', account: 'UA-2770843-19', domain: '.wspolczesna.pl' });
+    </script>
+
+  
+<script type="text/javascript">
+  jQuery(function() {
+    jQuery("img.lazy").appear(function() { }); // hac
+    jQuery("img.lazy").removeClass('lazy').lazyload({
+      effect:"fadeIn",
+      threshold : 10,
+      failure_limit : 100
+    });
+    // inicjalizacja obsługi boksów asynchronicznych
+    GR('o_async_inicjalizuj_pt', '/', '', 'html', '//www.wspolczesna.pl/ajax/laduj_asynchronicznie/', '', 1);
+  });
+</script>
+
+  <script><!--
+(function(){
+  var images = [];
+
+  images[0] = new Image();
+  images[0].src = "//mreg.hit.gemius.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=zCg7YHhOsJtjE6VokPRvTvU57H8Fg1CHYpw2HlADJcH.z7&et=view";
+
+  images[1] = new Image();
+  images[1].src =  "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=ciI1xEcaVW5n8SYdF3KOItU77Ok1EDiTYtK0XgK_zen.u7&et=view";
+})();
+//--></script>
+
+    <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  var pp_gemius_identifier = 'nAg1jYgnHX0u7Pmk62gIcJYlXkFRGQc7fVu5HkIMFyf.i7';
+  function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+  gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+  (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+  gt.setAttribute('defer','defer'); gt.src=l+'://pro.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+  //--><!]]>
+  
+  </script>
+  <script>
+    var gfkSstConf = {
+      "url": "config.sensic.net/pl1-sst-w.js",
+      "media" : "wspolczesnaPL",
+      "content" : "wsp_strona_glowna_2394"
+    };
+    
+      (function (w, d, c, s, id) {
+        if (d.getElementById(id)) {return;}
+          w[id] = w[id] || function () {
+            if ("undefined" == typeof gfkSstApi) {w[id].queue.push(arguments[0]);
+      } else {gfkSstApi.impression(arguments[0]);}
+          };
+        w[id].queue = w[id].queue || [];
+        var tag = d.createElement(s); var el = d.getElementsByTagName(s)[0];
+        tag.id = id; tag.async = true; tag.src = '//' + c.url;
+        el.parentNode.insertBefore(tag, el);
+      })(window, document, gfkSstConf, 'script', 'gfkSst');
+    
+  </script>
+
+ 
+  </head>
+  <!--[if lt IE 9 ]>    <body class="lt-ie9 regionalne stronaGlowna wspolczesna widokDesktop"> <![endif]-->
+  <!--[if IE 9]> <body class="ie9 regionalne stronaGlowna wspolczesna widokDesktop"> <![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <body class="regionalne stronaGlowna wspolczesna widokDesktop">
+  <!--<![endif]-->
+      <script>
+  dataLayer = [{
+      }];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MJXCHG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MJXCHG');</script>
+  <!-- End Google Tag Manager -->
+
+         <div id="piano-root"></div><script type="text/javascript">
+var pianoVariables = {
+  service_id: '306',
+  mode: 'bar_normal',
+  method_verify: true
+};
+var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+
+  var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+})();
+</script><div id="pasek-media-statyczny" class="pasekMediaPlus hide-for-medium-down">
+  <div class="row">
+    <ul class="columns small-6 medium-7">
+              <li><a href="http://www.podlaskie.strefabiznesu.pl" target="_blank" data-tracker="naglowek/Biznes">Biznes</a></li>
+              <li><a href="http://podlaskie.strefaagro.pl" target="_blank" data-tracker="naglowek/Agro">Agro</a></li>
+              <li><a href="http://ekstraklasa.net" target="_blank" data-tracker="naglowek/Piłka-nożna">Piłka nożna</a></li>
+              <li><a href="http://www.motofakty.pl" target="_blank" data-tracker="naglowek/Motoryzacja">Motoryzacja</a></li>
+              <li><a href="http://regiodom.pl/" target="_blank" data-tracker="naglowek/regioDom">regioDom</a></li>
+              <li><a href="http://www.regiopraca.pl/" target="_blank" data-tracker="naglowek/regioPraca">regioPraca</a></li>
+              <li><a href="http://gratka.pl" target="_blank" data-tracker="naglowek/Ogłoszenia">Ogłoszenia</a></li>
+          </ul>
+    <ul class="columns small-6 medium-5 logowanie">
+        <li class="zaloguj"><a class="loginWarstwa" data-tracker="naglowek/zaloguj" title="Zaloguj się do serwisu Gazeta Współczesna" href="http://www.wspolczesna.pl/logowanie/" rel="nofollow" id="naglowek-link-login">Zaloguj się</a></li>
+      </ul>
+  </div>
+</div>
+
+<div id="ad-gora1" class="adSrodek hide-for-medium-down naglowekTlo"></div>
+
+
+<div class="blok winieta hide-for-medium-down">
+  <div class="row">
+    <div>
+            <h1 class="columns small-4 medium-4">
+        <a href="http://www.wspolczesna.pl" data-tracker="naglowek/Gazeta-Współczesna">
+            <img src="http://s-pt.ppstatic.pl/g/logo_naglowek/gazetawspolczesna.png?11140890.png" alt="Gazeta Współczesna">
+
+        </a>
+      </h1>
+              <div class="columns hide-for-medium-down large-3 rekomendacje skrocone typArtykul">
+          <div>
+            <a href="http://www.wspolczesna.pl/komentarze-i-opinie/art/9292951,cmentarz-dla-zwierzat-moze-byc-wszedzie,id,t.html" data-tracker="naglowek/polecamy/1">
+              <figure>
+                <figcaption>
+                  <p>Cmentarz dla zwierząt może być wszędzie</p>
+                  <p class="autor"> Tomasz Kubaszewski</p>
+                </figcaption>
+                                  <img src="http://d-pt.ppstatic.pl/k/r/1/c1/f3/5698a80157d25.jpg" alt="Cmentarz dla zwierząt może być wszędzie">
+                              </figure>
+            </a>
+          </div>
+          <a href="http://www.wspolczesna.pl/komentarze-i-opinie/art/9292951,cmentarz-dla-zwierzat-moze-byc-wszedzie,id,t.html" class="nawigacjaSlajdu"></a>
+        </div>
+                    <ul class="ikony columns hide-for-medium-down medium-6 large-5 end">
+                    <li><a class="pogoda" href="http://www.wspolczesna.pl/pogoda/" data-tracker="naglowek/pogoda"><span>Pogoda</span></a></li>          <li><a class="telemagazyn" target="_blank" href="http://telemagazyn.pl/" data-tracker="naglowek/telemagazyn"><span>Program TV</span></a></li>
+                    <li><a class="forum" href="http://forum.wspolczesna.pl" data-tracker="naglowek/forum"><span>Forum</span></a></li>          <li><a class="moto" target="_blank" href="http://moto.gratka.pl" data-tracker="naglowek/moto"><span>Moto</span></a></li>
+          <li><a class="dom" target="_blank" href="http://dom.gratka.pl" data-tracker="naglowek/dom"><span>Dom</span></a></li>
+          <li><a class="praca" target="_blank" href="http://praca.gratka.pl" data-tracker="naglowek/praca"><span>Praca</span></a></li>
+        </ul>
+          </div>
+  </div>
+</div>
+    <div id="pasek-media-plywajacy" class="pasekMediaPlus skrocony przyklejony" style="display:none">
+    <div class="row">
+      <header class="columns">
+        <span id="menu-mobilne-przycisk" class="show-for-medium-down" title="Menu">Menu</span>        <h1>
+          <a href="http://www.wspolczesna.pl" data-tracker="/nowa_karta/naglowek/gazetawspolczesna">
+              <img src="http://s-pt.ppstatic.pl/g/logo_naglowek/gazetawspolczesna.png?11140890.png" alt="Gazeta Współczesna">
+
+          </a>
+        </h1>
+                        <ul class="kategorieNaglowek schowaj"></ul>
+      </header>
+      <ul class="columns logowanie">
+                  <li class="zaloguj"><a class="loginWarstwa" data-tracker="naglowek/zaloguj" title="Zaloguj się do serwisu Gazeta Współczesna" href="http://www.wspolczesna.pl/logowanie/" rel="nofollow" id="naglowek-link-login">Zaloguj się</a></li>
+                <li class="szukaj schowaj">
+          <div>
+            <a title="szukaj" href="http://www.wspolczesna.pl/szukaj/">Szukaj</a>
+            <form action="http://www.wspolczesna.pl/wyszukiwanie/" method="post" id="wyszukiwarka-mobile">
+              <input type="search" name="szukaj_slowo" placeholder="Wpisz czego szukasz" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+<div id="ad-gora1" class="adSrodek hide-for-medium-down naglowekTlo"></div>
+<div id="logo-serwisu"></div>
+
+    <script type="text/javascript">
+        (function () {
+            GR('wstawReklame', {
+                nazwa: 'gora1',
+                rodzic: '#ad-gora1',
+            });
+        })();
+    </script>
+
+<script><!--
+(function(){
+  try{
+    var adrequest = new XMLHttpRequest();
+    var hitrequest = new XMLHttpRequest();
+ 
+    adrequest.open("GET", "//myao.adocean.pl/_" + new Date().getTime() + "/ad.js?id=nJpB5gBsvEYqjNEhFhRQd_sR3A.T7LA9bTdPlUvbjW7.47", true);
+    adrequest.withCredentials = true;
+    adrequest.send(null);
+  
+    hitrequest.open("GET", "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.js?l=71&id=p301ZHcRQYCaGuv9TDX3pvUI.D5REaSbzAnb3DaDtQL.f7&et=view", true);
+    hitrequest.withCredentials = true;
+    hitrequest.send(null);
+  } catch (e) {}
+})();
+//--></script>
+
+
+<script>
+    (function(){
+      var czyZainicjalizowany =  oG_OSA['facebookZainicjalizowany'] || false;
+      if(!czyZainicjalizowany) {
+          FB.init({
+            appId: '1596040583954317',
+            xfbml: true,
+            cookie: true,
+            oauth: true,
+            version: 'v2.2'
+          });
+          oG_OSA['facebookZainicjalizowany'] = true;
+      }
+    })();
+</script>
+
+     <div class="blok menu" id="LinkArea:men">
+  <div class="row">
+    <div class="columns large-12" id="LinkArea:menMob">
+            <ul id="menu-mobilne" style="display: none;">
+                  <li>
+            <a href="http://www.wspolczesna.pl/wiadomosci/" class="ellipsis menu1Poziom" id="LinkArea:menuMob1">Wiadomości</a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/sport/" class="ellipsis menu1Poziom" id="LinkArea:menuMob2">Sport </a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/magazyn/" class="ellipsis menu1Poziom" id="LinkArea:menuMob3">Magazyn</a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/plebiscyty/" class="ellipsis menu1Poziom" id="LinkArea:menuMob4">Plebiscyty</a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/wypadek/" class="ellipsis menu1Poziom" id="LinkArea:menuMob5">Wypadek</a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/styl-zycia/" class="ellipsis menu1Poziom" id="LinkArea:menuMob6">Styl życia</a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/prawo/" class="ellipsis menu1Poziom" id="LinkArea:menuMob7">Prawo</a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/edukacja/" class="ellipsis menu1Poziom" id="LinkArea:menuMob8">Edukacja</a>
+          </li>
+                            <li>
+            <a href="http://www.wspolczesna.pl/aktualnosci/" class="ellipsis menu1Poziom" id="LinkArea:menuMob9">Aktualności</a>
+          </li>
+                                  <li id="horoskopy-mobilne">
+          <a href="http://www.wspolczesna.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+        </li>
+                  <li id="biznes-mobilne">
+            <a href="http://www.podlaskie.strefabiznesu.pl" class="menu1Poziom" target="_blank">Biznes</a>
+          </li>
+                                    <li id="agro-mobilne">
+            <a href="http://podlaskie.strefaagro.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+                                    <li class="zaloguj"><a class="loginWarstwa" title="Zaloguj się do serwisu" href="http://www.wspolczesna.pl/logowanie/" rel="nofollow">Zaloguj</a></li>
+              </ul>
+    </div>
+    <div class="columns large-12" id="LinkArea:menGl">
+      <ul id="menu-glowne" class="hide-for-medium-down">
+                  <li>
+            <a href="http://www.wspolczesna.pl/wiadomosci/" class="menu1Poziom" id="LinkArea:menuGl1">Wiadomości</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo11">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/bialystok/" id="LinkArea:menGlPo111">Białystok</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/lomza/" id="LinkArea:menGlPo112">Łomża</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/suwalki/" id="LinkArea:menGlPo113">Suwałki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/augustow/" id="LinkArea:menGlPo114">Augustów</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/bielsk-podlaski/" id="LinkArea:menGlPo115">Bielsk Podlaski</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/elk/" id="LinkArea:menGlPo116">Ełk</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/grajewo/" id="LinkArea:menGlPo117">Grajewo</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/hajnowka/" id="LinkArea:menGlPo118">Hajnówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/kolno/" id="LinkArea:menGlPo119">Kolno</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo12">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/warmia-i-mazury/" id="LinkArea:menGlPo121">Warmia i Mazury</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/monki/" id="LinkArea:menGlPo122">Mońki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/powiat-bialostocki/" id="LinkArea:menGlPo123">Powiat białostocki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/region/" id="LinkArea:menGlPo124">Region</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/sejny/" id="LinkArea:menGlPo125">Sejny</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/siemiatycze/" id="LinkArea:menGlPo126">Siemiatycze</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/sokolka/" id="LinkArea:menGlPo127">Sokółka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/wysokie-maz/" id="LinkArea:menGlPo128">Wysokie Maz.</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/wiadomosci/zambrow/" id="LinkArea:menGlPo129">Zambrów</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294286,bialystok-pobicie-krzysztofa-kononowicza-chcieli-mnie-zabic-wideo,id,t.html" id="LinkArea:menGlM11">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/1a/56/5698f3e40a84a_o,size,380x238,q,71,h,bb8059.jpg" class="lazy schowaj">
+                                                    <h3 >Pobicie Krzysztofa Kononowicza. "Chcieli mnie zabić" (wideo)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294526,slubowanie-30-nowych-policjantow-zdjecia,id,t.html" id="LinkArea:menGlM12">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e9/91/5698fda82c771_o,size,380x238,q,71,h,9fdccb.jpg" class="lazy schowaj">
+                                                    <h3 >Nowi policjanci przyjęci do służby (zdjęcia)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/sport/" class="menu1Poziom" id="LinkArea:menuGl2">Sport </a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo21">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/sport/jagiellonia/" id="LinkArea:menGlPo211">Jagiellonia</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/sport/pilka-nozna/" id="LinkArea:menGlPo212">Piłka nożna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/sport/koszykowka/" id="LinkArea:menGlPo213">Koszykówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/sport/siatkowka/" id="LinkArea:menGlPo214">Siatkówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/sport/wyniki-sportowe/" id="LinkArea:menGlPo215">Wyniki sportowe</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/sport/inne-dyscypliny/" id="LinkArea:menGlPo216">Inne dyscypliny</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/sport/art/9292941,pojedynek-trenerow-zamiast-ligowego-boju,id,t.html" id="LinkArea:menGlM21">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e7/cb/56989e6bc2c29_o,size,380x238,q,71,h,392bcd.jpg" class="lazy schowaj">
+                                                    <h3 >Pojedynek trenerów zamiast ligowego boju   </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/sport/pilka-nozna/art/9291382,w-polskim-sporcie-rzadzi-slaskie-podlaskie-ostatnie,id,t.html" id="LinkArea:menGlM22">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a8/1f/5697d9c426bb5_o,size,380x238,q,71,h,9e8dfa.jpg" class="lazy schowaj">
+                                                    <h3 >W polskim sporcie rządzi Ślaskie. Podlaskie ostatnie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/sport/inne-dyscypliny/art/9291686,szpilka-vs-wilder-bojka-przed-walka-transmisja-na-zywo-online-w-internecie-16012016-youtube,id,t.html" id="LinkArea:menGlM23">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d7/4b/5697f082d99fb_o,size,380x238,q,71,h,0cae70.jpg" class="lazy schowaj">
+                                                    <h3 >Bójka Szpilki i Wildera (YouTube)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/magazyn/" class="menu1Poziom" id="LinkArea:menuGl3">Magazyn</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/magazyn/art/9266577,podchodza-z-brzytwa-do-klienta-bo-brody-staly-sie-seksowne,id,t.html" id="LinkArea:menGlM31">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/38/aa/568f8d48c3013_o,size,380x238,q,71,h,df9a4f.jpg" class="lazy schowaj">
+                                                    <h3  class="platny">Podchodzą z brzytwą do klienta, bo brody stały się seksowne</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/magazyn/art/9266587,dzielnik-oznacza-pracownika-a-prawdzik-mowiacego-prawde,id,t.html" id="LinkArea:menGlM32">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/be/f2/568f8e0a1daf7_o,size,380x238,q,71,h,78e1d7.jpg" class="lazy schowaj">
+                                                    <h3 >Dzielnik oznacza pracownika, a Prawdzik - mówiącego prawdę</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/magazyn/art/9266473,najglosniej-smieja-sie-gimnazjalisci,id,t.html" id="LinkArea:menGlM33">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/73/e2/568f8a5b4ab1f_o,size,380x238,q,71,h,1f1a73.jpg" class="lazy schowaj">
+                                                    <h3  class="platny">Najgłośniej śmieją się gimnazjaliści</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/magazyn/art/9266439,na-przescieradlach-uczcili-burego-zolnierza-wykletego-i-morderce,id,t.html" id="LinkArea:menGlM34">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ae/54/568f87b3596b7_o,size,380x238,q,71,h,200508.jpg" class="lazy schowaj">
+                                                    <h3  class="platny">Na prześcieradłach uczcili Burego - żołnierza wyklętego i mordercę</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/plebiscyty/" class="menu1Poziom" id="LinkArea:menuGl4">Plebiscyty</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo41">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/plebiscyty/strazak-jednostka-osp-bohater-roku-2015/" id="LinkArea:menGlPo411">Strażak, Jednostka OSP, Bohater Roku 2015</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="http://www.wspolczesna.pl/plebiscyt/najpopularniejszy-sportowiec-wojewodztwa-podlaskiego-2015,30406,t,id.html" id="LinkArea:menGlM41">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/5d/8f/563c8aacdb4dc_o,size,380x238,q,71,h,219658.jpg" class="lazy schowaj">
+                                                    <h3 >Najpopularniejszy Sportowiec Woj. Podlaskiego 2015. GŁOSOWANIE</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="http://www.wspolczesna.pl/plebiscyt/nauczycieltrener-sportu-2015-glosowanie,30410,t,id.html" id="LinkArea:menGlM42">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/08/cc/563c80dce9456_o,size,380x238,q,71,h,8edd43.jpg" class="lazy schowaj">
+                                                    <h3 >Nauczyciel i Trener Sportu 2015. GŁOSOWANIE</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="http://www.wspolczesna.pl/plebiscyt/najpopularniejszy-uczen-sportowiec-2015-glosowanie,30408,t,id.html" id="LinkArea:menGlM43">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/c9/3e/5660cfa1edf0b_o,size,380x238,q,71,h,ee24de.jpg" class="lazy schowaj">
+                                                    <h3 >Uczeń Sportowiec 2015. GŁOSOWANIE</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/wypadek/" class="menu1Poziom" id="LinkArea:menuGl5">Wypadek</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/grajewo/art/9291606,popowo-tragiczny-wypadek-fiat-zderzyl-sie-z-cysterna-zginal-39latek-film-z-wypadku,id,t.html" id="LinkArea:menGlM51">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/1a/8e/5697ec190828a_o,size,380x238,q,71,h,0cf4c3.jpg" class="lazy schowaj">
+                                                    <h3 >Sprawca może wyjść na wolność po wpłaceniu poręczenia</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/warmia-i-mazury/art/9284877,ukta-58latek-wtargnal-na-jezdnie-wprost-pod-kola-opla,id,t.html" id="LinkArea:menGlM52">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e3/79/56962e04792ab_o,size,380x238,q,71,h,7412d1.jpg" class="lazy schowaj">
+                                                    <h3 >58-latek wtargnął na jezdnię wprost pod koła opla</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/augustow/art/9283069,pijany-dyrektor-szkoly-wjechal-w-radiowoz-pil-i-jechal-kary-nie-bedzie,id,t.html" id="LinkArea:menGlM53">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/47/49/56954ed331bb3_o,size,380x238,q,71,h,43d3f1.jpg" class="lazy schowaj">
+                                                    <h3 >Pijany dyrektor szkoły wjechał w radiowóz. Kary nie będzie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/warmia-i-mazury/art/9281279,slepie-tir-przewrocil-sie-na-bok-i-zatarasowal-jezdnie-zdjecia,id,t.html" id="LinkArea:menGlM54">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/8a/16/5694e638668c8_o,size,380x238,q,71,h,d0fb56.jpg" class="lazy schowaj">
+                                                    <h3 >Tir przewrócił się na bok i zatarasował jezdnię (zdjęcia)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/styl-zycia/" class="menu1Poziom" id="LinkArea:menuGl6">Styl życia</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo61">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/styl-zycia/galerie/" id="LinkArea:menGlPo611">Galerie</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/styl-zycia/moda/" id="LinkArea:menGlPo612">Moda</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/styl-zycia/plotki-i-ciekawostki/" id="LinkArea:menGlPo613">Plotki i ciekawostki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.wspolczesna.pl/styl-zycia/zdrowie-i-uroda/" id="LinkArea:menGlPo614">Zdrowie i uroda</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/styl-zycia/art/9292831,hity-telewizyjne-na-piatek-15012016-sprawdz-co-obejrzec-w-tv,id,t.html" id="LinkArea:menGlM61">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/46/37/56988f307b1a9_o,size,380x238,q,71,h,214c16.jpg" class="lazy schowaj">
+                                                    <h3 >Hity telewizyjne na piątek, 15.01.2016! Sprawdź, co obejrzeć w tv!</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/styl-zycia/art/9290716,moje-corki-krowy-wspolna-modlitwa-nad-urna-jednoczy-recenzja,id,t.html" id="LinkArea:menGlM62">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a7/f8/5697c127276bb_o,size,380x238,q,71,h,5324df.jpg" class="lazy schowaj">
+                                                    <h3 >"Moje córki krowy". Wspólna modlitwa nad urną jednoczy [RECENZJA]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/styl-zycia/art/9288527,hity-telewizyjne-na-czwartek-14012016-sprawdz-co-obejrzec-w-tv,id,t.html" id="LinkArea:menGlM63">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ea/13/569743031ebf9_o,size,380x238,q,71,h,6e3ffb.jpg" class="lazy schowaj">
+                                                    <h3 >Hity telewizyjne na czwartek, 14.01.2016! Sprawdź, co obejrzeć w tv!</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/prawo/" class="menu1Poziom" id="LinkArea:menuGl7">Prawo</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/prawo/art/9290988,czy-i-kiedy-mozna-odstapic-od-umowy-odpowiada-rzecznik-praw-konsumenta,id,t.html" id="LinkArea:menGlM71">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/2b/47/5697d20d4f3c5_o,size,380x238,q,71,h,d1c7df.jpg" class="lazy schowaj">
+                                                    <h3 >Nowy telefon przestał działać. Czy można odstąpić od umowy?</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/prawo/art/9261856,porady-prawne-wynagrodzenie-moze-odbierac-zona,id,t.html" id="LinkArea:menGlM72">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a8/a5/568e0ed1c9d37_o,size,380x238,q,71,h,790900.jpg" class="lazy schowaj">
+                                                    <h3 >Żona może przejąć pensję męża</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/prawo/art/9257440,lapy-choroszcz-michalowo-darmowe-porady-prawne-lista-punktow-w-powiecie-bialostockim,id,t.html" id="LinkArea:menGlM73">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/59/8e/568be4d70a662_o,size,380x238,q,71,h,128827.jpg" class="lazy schowaj">
+                                                    <h3 >Darmowe porady prawne w powiecie białostockim</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/suwalki/art/9229359,bezplatne-porady-prawne-w-suwalkach-lista-punktow,id,t.html" id="LinkArea:menGlM74">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/cd/ee/567ece8b546c8_o,size,380x238,q,71,h,4ab439.jpg" class="lazy schowaj">
+                                                    <h3 >Bezpłatne porady prawne (lista punktów)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/edukacja/" class="menu1Poziom" id="LinkArea:menuGl8">Edukacja</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/edukacja/art/9290854,najlepsze-szkoly-ponadgimnazjalne-ranking-2016,id,t.html" id="LinkArea:menGlM81">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/6d/b3/5697ca53dc929_o,size,380x238,q,71,h,032018.jpg" class="lazy schowaj">
+                                                    <h3 >Ranking najlepszych szkół w regionie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/test-szostoklasisty/art/9282162,probny-egzamin-szostoklasisty-z-operon-2016-wyniki-odpowiedzi-arkusze-wideo,id,t.html" id="LinkArea:menGlM82">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/02/fc/569521af39d85_o,size,380x238,q,71,h,e31cdd.jpg" class="lazy schowaj">
+                                                    <h3 >Próbny test szóstoklasisty. Nie zabrakło zadań z geometrii i ułamków</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/test-szostoklasisty/art/9278495,sprawdzian-szostoklasisty-operon-2016-test-arkusze-odpowiedzi-wyniki,id,t.html" id="LinkArea:menGlM83">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/14/25/5693e2cc60348_o,size,380x238,q,71,h,418e50.jpg" class="lazy schowaj">
+                                                    <h3 >Sprawdzian szóstoklasisty Operon 2016 już dziś</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/edukacja/art/9279023,zmiany-w-ustawie-o-systemie-oswiaty-piontkowski-maja-ulatwic-zycie-a-nie-utrudnic,id,t.html" id="LinkArea:menGlM84">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/2b/89/5693f9cc3a5b2_o,size,380x238,q,71,h,feee8c.jpg" class="lazy schowaj">
+                                                    <h3 >Piontkowski: Zmiany w ustawie o systemie oświaty ułatwią życie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.wspolczesna.pl/aktualnosci/" class="menu1Poziom" id="LinkArea:menuGl9">Aktualności</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294286,bialystok-pobicie-krzysztofa-kononowicza-chcieli-mnie-zabic-wideo,id,t.html" id="LinkArea:menGlM91">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/1a/56/5698f3e40a84a_o,size,380x238,q,71,h,bb8059.jpg" class="lazy schowaj">
+                                                    <h3 >Pobicie Krzysztofa Kononowicza. "Chcieli mnie zabić" (wideo)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294526,slubowanie-30-nowych-policjantow-zdjecia,id,t.html" id="LinkArea:menGlM92">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e9/91/5698fda82c771_o,size,380x238,q,71,h,9fdccb.jpg" class="lazy schowaj">
+                                                    <h3 >Nowi policjanci przyjęci do służby (zdjęcia)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/augustow/art/9294476,augustow-pokaz-ratowania-osob-pod-ktorymi-zalamal-sie-lod-zdjecia,id,t.html" id="LinkArea:menGlM93">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/f2/29/5698f8f4d0f4c_o,size,380x238,q,71,h,a026e7.jpg" class="lazy schowaj">
+                                                    <h3 >Policjanci ratowali swojego kolegę (zdjęcia)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.wspolczesna.pl/wiadomosci/suwalki/art/9293600,suwalki-tragedia-na-przejsciu-policja-szuka-swiadkow,id,t.html" id="LinkArea:menGlM94">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/7e/4d/5698c721813e8_o,size,380x238,q,71,h,dbacc0.jpg" class="lazy schowaj">
+                                                    <h3 >Śmiertelne potrącenie. Policja szuka świadków wypadku</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                                  <li id="biznes-menu" class="bezPodmenu">
+            <a href="http://www.podlaskie.strefabiznesu.pl" class="menu1Poziom" target="_blank">Biznes</a>
+                      </li>
+                          <li id="agro-menu" class="bezPodmenu">
+            <a href="http://podlaskie.strefaagro.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+        
+        <li id="ogloszenia-menu">
+          <a href="http://www.wspolczesna.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+                      <div class="rozwijane">
+              <a href="http://www.gratka.pl/ogloszenia/dodaj.html" target="_blank">Zamów ogłoszenie w gratce</a>
+              <a href="http://nadaj.pl" target="_blank">Zamów ogłoszenie w prasie</a>
+            </div>
+                  </li>
+        <li id="wyszukaj-menu" class="bezPodmenu">
+          <a class="menu1Poziom">Szukaj</a>
+          <div class="wyszukiwarka">
+            <form action="http://www.wspolczesna.pl/wyszukiwanie/" method="post">
+              <input type="search" placeholder="Wpisz czego szukasz" name="szukaj_slowo" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div><div class="adSrodek row hide-for-medium-down" id="gora2">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "gora2", pokazUkryjRodzica: true, rodzic: '#gora2', cssClass: "marginD" });</script>
+</div>          
+    
+          <div class="blok">
+        <div class="row">
+          <div class="columns large-12">
+                                  </div>
+        </div>
+      </div>
+    
+          <div class="blok jedynka doPrawegoMenu" id="LinkArea:jedynka" data-nazwa="Wiadomości dnia" data-klasa="linkJedynka">
+  <div class="row">
+    <div class="columns small-12 medium-6 large-6 lewaKolumna">
+      
+                      <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294286,bialystok-pobicie-krzysztofa-kononowicza-chcieli-mnie-zabic-wideo,id,t.html"  class="tekst galeria wideo" id="LinkArea:jedynka1" data-tracker="jedynka/1">
+                      <h3>
+              Pobicie Krzysztofa Kononowicza. "Chcieli mnie zabić" (wideo)
+            </h3>
+                    <div class="kontenerZdjecia">
+                          <img src="http://d-pt.ppstatic.pl/kadry/k/r/1/1a/56/5698f3e40a84a_o,size,603x454,q,71,h,311de6.jpg" alt="Białystok. Pobicie Krzysztofa Kononowicza. &quot;Chcieli mnie zabić&quot; (wideo)">
+                                          <ul class="oznaczenieTresci obecnaFlaga">
+              <li class="oznaczenie flaga">Tylko u nas</li>
+                    <li class="oznaczenie galeria">galeria</li>
+                    <li class="oznaczenie wideo">wideo</li>
+          </ul>
+  
+          </div>
+          <p class="zajawka show-for-large-up">
+                      Wziął młotek. "Włóż tu łapy, dawaj kopyta” – mówił. "Nauczymy cię skur...". Ukląkłem, płakałem. Prosiłem, żeby mnie tylko przy życiu zostawili – relacjonował pokrzywdzony 52-latek.
+                    </p>
+        </a>
+        
+          </div>
+    <div class="columns small-12 medium-3 large-2 srodkowaKolumna mniejszeFlagi">
+                      <a href="//www.wspolczesna.pl/wiadomosci/suwalki/art/9293692,studniowka-ii-lo-w-suwalkach-zdjecia,id,t.html"  id="LinkArea:jedynka2" data-tracker="jedynka/2">
+          <div class="kontenerZdjecia">
+                          <img src="http://d-pt.ppstatic.pl/kadry/k/r/1/07/1a/5698cd1fea7d1_o,size,445x270,q,71,h,730380.jpg" alt="Studniówka II LO w Suwałkach (zdjęcia)">
+                                          <ul class="oznaczenieTresci">
+                    <li class="oznaczenie galeria">galeria</li>
+                </ul>
+  
+          </div>
+                      <h3>
+              Szampańska zabawa na studniówce (zdjęcia)
+            </h3>
+                  </a>
+                              <a href="//www.wspolczesna.pl/wiadomosci/sejny/art/9290406,sejny-matka-znecala-sie-psychicznie-nad-wlasna-corka-grozila-ze-uwiezi-ja-na-lancuchu,id,t.html"  id="LinkArea:jedynka3" data-tracker="jedynka/3">
+          <div class="kontenerZdjecia">
+                          <img src="http://d-pt.ppstatic.pl/kadry/k/r/1/b9/72/5697b260ea28c_o,size,445x270,q,71,h,0c10d8.jpg" alt="Ona nie panuje nad swoimi emocjami, bardzo łatwo wpada w gniew - mówią we wsi. - Nawet dba o ubranie, lekarstwa, czy jedzenie dla córki. Tyle tylko,">
+                                      
+          </div>
+                      <h3>
+              33-latka groziła córce, że uwięzi ją na łańcuchu
+            </h3>
+                  </a>
+                              <a href="//www.wspolczesna.pl/wiadomosci/elk/art/9293754,prostki-plaga-kradziezy-we-wsi,id,t.html"  id="LinkArea:jedynka4" data-tracker="jedynka/4">
+          <div class="kontenerZdjecia">
+                          <img src="http://d-pt.ppstatic.pl/kadry/k/r/1/82/a2/5698d26c3d289_o,size,445x270,q,71,h,86d2dc.jpg" alt="Prostki. Plaga kradzieży we wsi">
+                                      
+          </div>
+                      <h3>
+              Plaga kradzieży we wsi
+            </h3>
+                  </a>
+                  </div>
+    <div class="columns small-12 medium-3 large-4 prawaKolumna">
+                      <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294526,slubowanie-30-nowych-policjantow-zdjecia,id,t.html" class="powiekszone tekst galeria"  id="LinkArea:jedynka5" data-tracker="jedynka/5">
+          <div class="kontenerZdjecia">
+                          <img src="http://d-pt.ppstatic.pl/kadry/k/r/1/e9/91/5698fda82c771_o,size,445x270,q,71,h,db7013.jpg" alt="Ślubowanie 30 nowych policjantów">
+                                          <ul class="oznaczenieTresci">
+                    <li class="oznaczenie galeria">galeria</li>
+                </ul>
+  
+          </div>
+                      <h3>
+              Nowi policjanci przyjęci do służby (zdjęcia)
+            </h3>
+                  </a>
+                              <a href="//www.wspolczesna.pl/wiadomosci/suwalki/art/9293600,suwalki-tragedia-na-przejsciu-policja-szuka-swiadkow,id,t.html" class="powiekszone tekst"  id="LinkArea:jedynka6" data-tracker="jedynka/6">
+          <div class="kontenerZdjecia">
+                          <img src="http://d-pt.ppstatic.pl/kadry/k/r/1/7e/4d/5698c721813e8_o,size,445x270,q,71,h,532a21.jpg" alt="Suwałki. Tragedia na przejściu. Policja szuka świadków">
+                                      
+          </div>
+                      <h3>
+              Śmiertelne potrącenie. Policja szuka świadków wypadku
+            </h3>
+                  </a>
+                  </div>
+  </div>
+</div><div class="blok region doPrawegoMenu" id="LinkArea:region" data-nazwa="Region" data-klasa="linkRegion">
+  <div class="row">
+    <div class="columns large-8">
+      <section class="kolumnaSrodkowa kreska">
+        <header>
+  <a href="http://www.wspolczesna.pl/wiadomosci/" data-tracker="region/naglowek"><h2>Region</h2></a>
+</header>
+<div class="kategorie bezJs" id="LinkArea:regionKa">
+      <ul>
+                        <li><a href="http://www.wspolczesna.pl/wiadomosci/bialystok/" id="LinkArea:regionKa1" data-tracker="kategoria/region/wiadomosci/bialystok/">Białystok</a></li>
+                  <li><a href="http://www.wspolczesna.pl/wiadomosci/lomza/" id="LinkArea:regionKa2" data-tracker="kategoria/region/wiadomosci/lomza/">Łomża</a></li>
+                  <li><a href="http://www.wspolczesna.pl/wiadomosci/suwalki/" id="LinkArea:regionKa3" data-tracker="kategoria/region/wiadomosci/suwalki/">Suwałki</a></li>
+                  <li><a href="http://www.wspolczesna.pl/wiadomosci/augustow/" id="LinkArea:regionKa4" data-tracker="kategoria/region/wiadomosci/augustow/">Augustów</a></li>
+                  <li><a href="http://www.wspolczesna.pl/wiadomosci/bielsk-podlaski/" id="LinkArea:regionKa5" data-tracker="kategoria/region/wiadomosci/bielsk-podlaski/">Bielsk Podlaski</a></li>
+                                      <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/elk/" id="LinkArea:regionKa5" data-tracker="kategoria/region//wiadomosci/elk/">Ełk</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/grajewo/" id="LinkArea:regionKa6" data-tracker="kategoria/region//wiadomosci/grajewo/">Grajewo</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/hajnowka/" id="LinkArea:regionKa7" data-tracker="kategoria/region//wiadomosci/hajnowka/">Hajnówka</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/kolno/" id="LinkArea:regionKa8" data-tracker="kategoria/region//wiadomosci/kolno/">Kolno</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/warmia-i-mazury/" id="LinkArea:regionKa9" data-tracker="kategoria/region//wiadomosci/warmia-i-mazury/">Warmia i Mazury</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/monki/" id="LinkArea:regionKa10" data-tracker="kategoria/region//wiadomosci/monki/">Mońki</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/powiat-bialostocki/" id="LinkArea:regionKa11" data-tracker="kategoria/region//wiadomosci/powiat-bialostocki/">Powiat białostocki</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/region/" id="LinkArea:regionKa12" data-tracker="kategoria/region//wiadomosci/region/">Region</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/sejny/" id="LinkArea:regionKa13" data-tracker="kategoria/region//wiadomosci/sejny/">Sejny</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/siemiatycze/" id="LinkArea:regionKa14" data-tracker="kategoria/region//wiadomosci/siemiatycze/">Siemiatycze</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/sokolka/" id="LinkArea:regionKa15" data-tracker="kategoria/region//wiadomosci/sokolka/">Sokółka</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/wysokie-maz/" id="LinkArea:regionKa16" data-tracker="kategoria/region//wiadomosci/wysokie-maz/">Wysokie Maz.</a></li>
+                  <li class="schowaj"><a href="http://www.wspolczesna.pl/wiadomosci/zambrow/" id="LinkArea:regionKa17" data-tracker="kategoria/region//wiadomosci/zambrow/">Zambrów</a></li>
+                    <li class="wiecej schowaj"><span>Więcej</span><ul class="schowaj"></ul></li>
+    </ul>
+  </div>
+<div class="row materialy">
+  <div class="columns small-12 medium-6 mniejszeFlagiMobile">
+    
+                <a href="//www.wspolczesna.pl/wiadomosci/augustow/art/9294476,augustow-pokaz-ratowania-osob-pod-ktorymi-zalamal-sie-lod-zdjecia,id,t.html" class="tekst galeria" id="LinkArea:region1" data-tracker="region/1">
+        <div class="kontenerZdjecia">
+                      <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/f2/29/5698f8f4d0f4c_o,size,445x270,q,71,h,511b0c.jpg" alt="Policjanci posiadający przeszkolenie z zakresu ratownictwa lodowego pokazywali sposób ratowania poszkodowanego przy pomocy rzutki ratunkowej oraz boi">
+                                    <ul class="oznaczenieTresci">
+                    <li class="oznaczenie galeria">galeria</li>
+                </ul>
+  
+        </div>
+                  <h3>Policjanci ratowali swojego kolegę (zdjęcia)</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9293380,bialystok-wpadl-z-kradzionym-drzewem-podawal-sie-za-swojego-brata,id,t.html" class="tekst" id="LinkArea:region2" data-tracker="region/2">
+        <div class="kontenerZdjecia">
+                      <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/7c/af/5698bf966805f_o,size,445x270,q,71,h,658578.jpg" alt="Podejrzany o paserstwo trafił do aresztu">
+                                
+        </div>
+                  <h3>Wpadł z kradzionym drzewem. Podawał się za swojego brata</h3>
+              </a>
+      
+      </div>
+  <div class="columns small-12 medium-3 srodek mniejszeFlagi">
+                <a href="//www.wspolczesna.pl/zdrowie/art/9285803,zwolnienia-od-lekarza-juz-nie-tylko-na-papierze,id,t.html" class="tekst" id="LinkArea:region3" data-tracker="region/3">
+        <div class="kontenerZdjecia">
+                      <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/58/f3/56966b8213047_o,size,445x270,q,71,h,3010b1.jpg" alt="Zdaniem ZUS, e-zwolnienia to same korzyści.">
+                                
+        </div>
+                  <h3>Zwolnienia od lekarza już nie tylko na papierze</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/wiadomosci/suwalki/art/9291434,lotnisko-w-suwalkach-miasto-musi-zaplacic-2-mln-zl-podatku,id,t.html" class="tekst" id="LinkArea:region4" data-tracker="region/4">
+        <div class="kontenerZdjecia">
+                      <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ff/0f/5697e327650c4_o,size,445x270,q,71,h,e3851c.jpg" alt="Suwalskich władz nie przerażają informacje o deficytowości wielu polskich lotnisk. Liczą, że do utrzymania samego pasa za wiele dopłacać nie będzie">
+                                
+        </div>
+                  <h3>Lotnisko ma kosztować 15 mln złotych</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9293320,primacol-lowlanders-the-urban-tribe-druzyna-promuje-miasto-bialystok-wideo,id,t.html" class="tekst wideo" id="LinkArea:region5" data-tracker="region/5">
+        <div class="kontenerZdjecia">
+                      <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/89/6a/5698bd247b89a_o,size,445x270,q,71,h,92bc5f.jpg" alt="Primacol Lowlanders. The Urban Tribe. Drużyna promuje miasto Białystok (wideo)">
+                                    <ul class="oznaczenieTresci">
+                          <li class="oznaczenie wideo">wideo</li>
+          </ul>
+  
+        </div>
+                  <h3>Twardzi zawodnicy promują miasto (wideo)</h3>
+              </a>
+      
+      </div>
+  <div class="columns small-12 medium-3 informacje">
+    <header>
+      <a href="http://www.wspolczesna.pl/aktualnosci/" data-tracker="region-informacje/naglowek"><h4>Informacje</h4></a>Najnowsze wiadomości
+    </header>
+    <div id="informacje-nano" class="hide-for-small-down">
+      <div class="content">
+              <a href="//www.wspolczesna.pl/wiadomosci/sokolka/art/9294622,dwoch-pijanych-mezczyzn-wlamalo-sie-do-marketu,id,t.html" id="LinkArea:region6D" data-tracker="region-informacje/6">
+          <time datetime="2016-01-15 16:00:02">16:00</time>
+                      <h3>Dwóch pijanych mężczyzn włamało się do marketu</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294526,slubowanie-30-nowych-policjantow-zdjecia,id,t.html" id="LinkArea:region7D" data-tracker="region-informacje/7">
+          <time datetime="2016-01-15 15:12:32">15:12</time>
+                      <h3>Nowi policjanci przyjęci do służby (zdjęcia)</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/polska-i-swiat/art/9293160,dramatyczny-apel-zgwalconej-kasi-z-bedzina-twierdzi-ze-zgwalcil-ja-policjant-z-kpp-bedzin,id,t.html" id="LinkArea:region8D" data-tracker="region-informacje/8">
+          <time datetime="2016-01-15 14:13:00">14:13</time>
+                      <h3   class="show-for-medium-up"
+>Dramatyczny apel zgwałconej Kasi z Będzina. Twierdzi, że...</h3>
+            <h3   class="show-for-small-down"
+>Dramatyczny apel zgwałconej Kasi z Będzina. Twierdzi, że zgwałcił ją policjant z KPP Będzin</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294286,bialystok-pobicie-krzysztofa-kononowicza-chcieli-mnie-zabic-wideo,id,t.html" id="LinkArea:region9D" data-tracker="region-informacje/9">
+          <time datetime="2016-01-15 14:07:00">14:07</time>
+                      <h3>Pobicie Krzysztofa Kononowicza. "Chcieli mnie zabić" (wideo)</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/polska-i-swiat/art/9293908,sejm-przyjal-ustawe-o-policji-zdjecia-video,id,t.html" id="LinkArea:region10D" data-tracker="region-informacje/10">
+          <time datetime="2016-01-15 12:40:00">12:40</time>
+                      <h3>Sejm przyjął ustawę o policji [ZDJĘCIA] [VIDEO]</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/wiadomosci/elk/art/9293754,prostki-plaga-kradziezy-we-wsi,id,t.html" id="LinkArea:region11D" data-tracker="region-informacje/11">
+          <time datetime="2016-01-15 12:08:58">12:08</time>
+                      <h3>Plaga kradzieży we wsi</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/wiadomosci/suwalki/art/9293692,studniowka-ii-lo-w-suwalkach-zdjecia,id,t.html" id="LinkArea:region12D" data-tracker="region-informacje/12">
+          <time datetime="2016-01-15 11:48:00">11:48</time>
+                      <h3>Szampańska zabawa na studniówce (zdjęcia)</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/wiadomosci/suwalki/art/9293600,suwalki-tragedia-na-przejsciu-policja-szuka-swiadkow,id,t.html" id="LinkArea:region13D" data-tracker="region-informacje/13">
+          <time datetime="2016-01-15 11:18:05">11:18</time>
+                      <h3>Śmiertelne potrącenie. Policja szuka świadków wypadku</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/sport/art/9292941,pojedynek-trenerow-zamiast-ligowego-boju,id,t.html" id="LinkArea:region14D" data-tracker="region-informacje/14">
+          <time datetime="2016-01-15 10:00:02">10:00</time>
+                      <h3>Pojedynek trenerów zamiast ligowego boju   </h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/komentarze-i-opinie/art/9292951,cmentarz-dla-zwierzat-moze-byc-wszedzie,id,t.html" id="LinkArea:region15D" data-tracker="region-informacje/15">
+          <time datetime="2016-01-15 09:00:04">09:00</time>
+                      <h3>Cmentarz dla zwierząt może być wszędzie</h3>
+                  </a>
+        
+              <a href="http://www.poranny.pl/wiadomosci/aglomeracja-bialostocka/art/9292813,kudrycze-duzy-pozar-pali-sie-budynek-wypelniony-drewnem,id,t.html" id="LinkArea:region16D" data-tracker="region-informacje/16">
+          <time datetime="2016-01-15 08:00:04">08:00</time>
+                      <h3>Pali się budynek wypełniony drewnem</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/sport/pilka-nozna/art/9291382,w-polskim-sporcie-rzadzi-slaskie-podlaskie-ostatnie,id,t.html" id="LinkArea:region17D" data-tracker="region-informacje/17">
+          <time datetime="2016-01-15 07:00:03">07:00</time>
+                      <h3>W polskim sporcie rządzi Ślaskie. Podlaskie ostatnie</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/wiadomosci/sejny/art/9290406,sejny-matka-znecala-sie-psychicznie-nad-wlasna-corka-grozila-ze-uwiezi-ja-na-lancuchu,id,t.html" id="LinkArea:region18D" data-tracker="region-informacje/18">
+          <time datetime="2016-01-15 05:00:00">05:00</time>
+                      <h3>33-latka groziła córce, że uwięzi ją na łańcuchu</h3>
+                  </a>
+        
+              <a href="http://www.podlaskie.strefaagro.pl/artykul/spekulanci-juz-nie-zarobia-na-gruntach-ziemia-tylko-dla-rolnikow" id="LinkArea:region19D" data-tracker="region-informacje/19">
+          <time datetime="2016-01-14 22:00:03">22:00</time>
+                      <h3>Spekulanci już nie zarobią na gruntach</h3>
+                  </a>
+        
+              <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9291640,wjechal-w-slup-i-uciekl-ale-zostawil-rejestracje,id,t.html" id="LinkArea:region20D" data-tracker="region-informacje/20">
+          <time datetime="2016-01-14 21:15:02">21:15</time>
+                      <h3>Wjechał w słup i uciekł, ale zostawił rejestrację</h3>
+                  </a>
+        
+            </div>
+    </div>
+
+    <div id="informacje-slick" class="show-for-small-down">
+      <div>
+                        <a href="//www.wspolczesna.pl/wiadomosci/sokolka/art/9294622,dwoch-pijanych-mezczyzn-wlamalo-sie-do-marketu,id,t.html" id="LinkArea:region231M">
+            <time datetime="2016-01-15 16:00:02">16:00</time>
+                          <h3>Dwóch pijanych mężczyzn włamało się do marketu</h3>
+                      </a>
+          
+                                <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294526,slubowanie-30-nowych-policjantow-zdjecia,id,t.html" id="LinkArea:region232M">
+            <time datetime="2016-01-15 15:12:32">15:12</time>
+                          <h3>Nowi policjanci przyjęci do służby (zdjęcia)</h3>
+                      </a>
+          
+                                <a href="//www.wspolczesna.pl/polska-i-swiat/art/9293160,dramatyczny-apel-zgwalconej-kasi-z-bedzina-twierdzi-ze-zgwalcil-ja-policjant-z-kpp-bedzin,id,t.html" id="LinkArea:region233M">
+            <time datetime="2016-01-15 14:13:00">14:13</time>
+                          <h3   class="show-for-medium-up"
+>Dramatyczny apel zgwałconej Kasi z Będzina. Twierdzi, że...</h3>
+              <h3   class="show-for-small-down"
+>Dramatyczny apel zgwałconej Kasi z Będzina. Twierdzi, że zgwałcił ją policjant z KPP Będzin</h3>
+                      </a>
+          
+                                <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9294286,bialystok-pobicie-krzysztofa-kononowicza-chcieli-mnie-zabic-wideo,id,t.html" id="LinkArea:region234M">
+            <time datetime="2016-01-15 14:07:00">14:07</time>
+                          <h3>Pobicie Krzysztofa Kononowicza. "Chcieli mnie zabić" (wideo)</h3>
+                      </a>
+          
+                                <a href="//www.wspolczesna.pl/polska-i-swiat/art/9293908,sejm-przyjal-ustawe-o-policji-zdjecia-video,id,t.html" id="LinkArea:region235M">
+            <time datetime="2016-01-15 12:40:00">12:40</time>
+                          <h3>Sejm przyjął ustawę o policji [ZDJĘCIA] [VIDEO]</h3>
+                      </a>
+          
+                                                                                                                                                                </div>
+      <a href="http://www.wspolczesna.pl/aktualnosci/" class="show-for-small-down zobaczWiecej"><span>Zobacz więcej</span></a>
+    </div>
+  </div>
+<div class="linkiSponsorowane reklamaMarketing pojedynczy">
+            <a data-tracker="link-reklamowy/Region" href="http://www.wspolczesna.pl/artykuly-sponsorowane/art/9281954,abc-poprawnego-demakijazu,id,t.html" rel="nofollow">ABC poprawnego demakijażu <span class="wewnetrzny">REKLAMA</span></a>
+        </div>
+
+      </section>
+    </div>
+    <div class="columns large-4 hide-for-medium-down">
+      <section class="kolumnaPrawa">
+          <div class="adSrodek hide-for-medium-down">
+      <div id="prawa1">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa1", cssStyle: "margin-bottom: 5px", rodzic: '#prawa1', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+      </section>
+    </div>
+  </div>
+</div><div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__AGREGATOR__MULTIMEDIA" data-k="0fda13089087b8e92727ad3a3e805565"></div>
+      </div>
+<div class="blok">
+  <div class="row">
+    <div class="columns large-12">
+      <section class="kolumnaSrodkowa">
+          <div id="srodek2" class="row textC hide-for-medium-down">
+    
+      <script type="text/javascript">
+        GR("wstawReklame", {nazwa: "srodek2", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek2', szerokosc: 985, mierzOkno: true});
+      </script>
+    
+  </div>
+      </section>
+    </div>
+  </div>
+</div><div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__MEDIA_PLUS" data-k="6a24250098e492670838de883d3a89bd"></div>
+      </div>
+<div class="blok sport doPrawegoMenu" data-nazwa="Sport" data-klasa="linkSport">
+  <div class="row">
+    <div class="columns large-8" id="LinkArea:sport">
+      <section class="kolumnaSrodkowa">
+        <div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__MATERIAL__SPORT" data-k="bffe1f7a9be951479304c9660615e87f"></div>
+      </div>
+      </section>
+    </div>
+    <div class="columns large-4 show-for-large-up">
+      <section class="kolumnaPrawa">
+          <div class="adSrodek hide-for-medium-down">
+      <div id="prawa2">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa2", cssStyle: "margin-bottom: 5px", rodzic: '#prawa2', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+
+        <div class="kreska"><header>
+      <a href="http://www.wspolczesna.pl" data-tracker="autopromocja/gora/naglowek" title="Polecamy">
+    <h2>Polecamy</h2>
+      </a>
+  </header>
+<div class="autopromocja gora" id="LinkArea:promSgBg">
+            <a class="autopromoLink" data-tracker="autopromocja/gora/1"  target="_blank"  href="http://www.telemagazyn.pl/" id="LinkArea:promSgBg1">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/38/79/565d76c7360e5_k27.jpg?1451396773" alt="Sprawdź ramówkę oraz najciekawsze informacje filmowe">
+        <p>Sprawdź ramówkę oraz najciekawsze informacje filmowe</p>
+      </a>
+                <a class="autopromoLink" data-tracker="autopromocja/gora/2"  target="_blank"  href="http://www.kupbilecik.pl/impreza-9480-12.tenorow.bialystok.html" id="LinkArea:promSgBg2">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/15/cf/564c947565246_k27.jpg?1451396773" alt="12 Tenorów w Białymstoku. Bilety już w sprzedaży">
+        <p>12 Tenorów w Białymstoku. Bilety już w sprzedaży</p>
+      </a>
+                <a class="autopromoLink" data-tracker="autopromocja/gora/3"  href="http://www.wspolczesna.pl/prenumerata/art/4931405,zamow-prenumerate-gazety-wspolczesnej-na-2016-rok,id,t.html" id="LinkArea:promSgBg3">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/d2/8f/568287141b628_k27.jpg?1451396773" alt="Zamów prenumeratę Gazety Współczesnej na 2016 rok">
+        <p>Zamów prenumeratę Gazety Współczesnej na 2016 rok</p>
+      </a>
+      </div>
+</div>
+      </section>
+    </div>
+  </div>
+</div><div class="blok strefaBiznesu doPrawegoMenu" id="LinkArea:strBiz" data-nazwa="Strefa Biznesu" data-klasa="linkStrefaBiznesu">
+  <div class="row">
+    <div class="columns large-8">
+      <section class="kolumnaSrodkowa kreska">
+        <div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__STREFA_BIZNESU" data-k="7432fc523d6751010073aba32bcc8ec5"></div>
+      </div>
+      </section>
+    </div>
+    <div class="columns large-4 hide-for-medium-down">
+      <section class="kolumnaPrawa kreska">
+        <div><div class="clear">
+      <div class="async" id="modul_asynchroniczny_NAJCZESCIEJ_CZYTANE" data-k="c4aa3ef86cdda65550453a5e4ba509ab"></div>
+      </div>
+</div>
+          <div class="adSrodek hide-for-medium-down">
+      <div id="prawa3">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa3", cssStyle: "margin-bottom: 5px", rodzic: '#prawa3', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+
+      </section>
+    </div>
+  </div>
+</div><div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__AGREGATOR__POLSKA_I_SWIAT" data-k="fc140c73baa9a635fabcf1da7a666002"></div>
+      </div>
+<div class="blok" id="LinkArea:boksEl">
+  <div class="row boksTlo">
+    <div class="columns large-8">
+      <section class="kolumnaSrodkowa row elastyczne">
+        <div class="columns medium-6 lewy blok"><div class="boksElastyczny kreska" id="LinkArea:bokElP">
+  <header>
+    <a href="http://www.wspolczesna.pl/rolnictwo/" data-tracker="elastyczne/boks_elastyczny_lewy1/naglowek"><h2>Rolnictwo</h2></a>
+    
+  </header>
+  <div class="materialy">
+                <a href="http://www.podlaskie.strefaagro.pl/artykul/krus-oglosil-juz-nowe-stawki" rel="external" class="tekst duzy" id="LinkArea:bokElP1" data-tracker="elastyczne/boks_elastyczny_lewy1/1">
+                  <div class="kontenerZdjecia">
+            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/4e/98/5697bd5fd2d6b_o,size,445x270,q,71,h,c89cfd.jpg" alt="KRUS ogłosił już nowe stawki">
+                          
+          </div>
+                          <h3>KRUS ogłosił już nowe stawki</h3>
+              </a>
+      
+                <a href="http://www.podlaskie.strefaagro.pl/artykul/spekulanci-juz-nie-zarobia-na-gruntach-ziemia-tylko-dla-rolnikow" rel="external" class="tekst maly" id="LinkArea:bokElP2" data-tracker="elastyczne/boks_elastyczny_lewy1/2">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/0a/5a/5697b58dc2c38_o,size,445x270,q,71,h,4ad2e8.jpg" alt="Spekulanci już nie zarobią na gruntach">
+                                      
+          </div>
+                          <h3>Spekulanci już nie zarobią na gruntach</h3>
+              </a>
+      
+                <a href="http://www.podlaskie.strefaagro.pl/artykul/cena-mleka-zaczela-rosnac-tendencja-ta-powinna-sie-utrzymac" rel="external" class="tekst maly" id="LinkArea:bokElP3" data-tracker="elastyczne/boks_elastyczny_lewy1/3">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e4/2e/5697b6613b647_o,size,445x270,q,71,h,aa487d.jpg" alt="Cena mleka zaczęła rosnąć">
+                                      
+          </div>
+                          <h3>Cena mleka zaczęła rosnąć</h3>
+              </a>
+      
+                <a href="http://www.podlaskie.strefaagro.pl/artykul/daniel-obajtek-juz-nie-po-prezes-arimr" rel="external" class="tekst maly" id="LinkArea:bokElP4" data-tracker="elastyczne/boks_elastyczny_lewy1/4">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/cc/55/56978ca9aa084_o,size,445x270,q,71,h,917c68.jpg" alt="Daniel Obajtek prezesem ARIMR">
+                                      
+          </div>
+                          <h3>Daniel Obajtek prezesem ARIMR</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/rolnictwo/art/9282987,minister-rolnictwa-chce-zawiesic-egzekucje-komornicze-w-stosunku-do-rolnikow,id,t.html"  class="tekst maly" id="LinkArea:bokElP5" data-tracker="elastyczne/boks_elastyczny_lewy1/5">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/9f/d7/569546b6e6de1_o,size,445x270,q,71,h,b45be9.jpg" alt="Zawieszenie egzekucji miałoby trwać pół roku - na czas powstania nowych przepisów. Na zdjęciu Minister Rolnictwa - Krzysztof Jurgiel.">
+                                      
+          </div>
+                          <h3>Komornik może rolnikowi odpuścić</h3>
+              </a>
+      
+        
+    <a class="zobaczWiecej show-for-small-down" href="http://www.wspolczesna.pl/rolnictwo/" data-tracker="elastyczne/boks_elastyczny_lewy1/wiecej"><span>Zobacz więcej</span></a>
+  </div>
+</div></div>        <div class="columns medium-6 prawy blok"><div class="boksElastyczny kreska" id="LinkArea:boksElL">
+  <header>
+    <a href="http://www.wspolczesna.pl/wypadek/" data-tracker="elastyczne/boks_elastyczny_lewy2/naglowek"><h2>Wypadki w regionie</h2></a>
+    
+  </header>
+  <div class="materialy">
+                <a href="//www.wspolczesna.pl/wiadomosci/grajewo/art/9291606,popowo-tragiczny-wypadek-fiat-zderzyl-sie-z-cysterna-zginal-39latek-film-z-wypadku,id,t.html"  class="tekst wideo duzy" id="LinkArea:boksElL1" data-tracker="elastyczne/boks_elastyczny_lewy2/1">
+                  <div class="kontenerZdjecia">
+            <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/1a/8e/5697ec190828a_o,size,445x270,q,71,h,4fb070.jpg" alt="Popowo. Tragiczny wypadek. Fiat zderzył się z cysterną. Zginął 39-latek (film z wypadku)">
+                              <ul class="oznaczenieTresci">
+                          <li class="oznaczenie wideo">wideo</li>
+          </ul>
+  
+          </div>
+                          <h3>Sprawca może wyjść na wolność po wpłaceniu poręczenia</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/wiadomosci/warmia-i-mazury/art/9284877,ukta-58latek-wtargnal-na-jezdnie-wprost-pod-kola-opla,id,t.html"  class="tekst maly" id="LinkArea:boksElL2" data-tracker="elastyczne/boks_elastyczny_lewy2/2">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e3/79/56962e04792ab_o,size,445x270,q,71,h,ca82f3.jpg" alt="Ukta. 58-latek wtargnął na jezdnię wprost pod koła opla">
+                                      
+          </div>
+                          <h3>58-latek wtargnął na jezdnię wprost pod koła opla</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/wiadomosci/augustow/art/9283069,pijany-dyrektor-szkoly-wjechal-w-radiowoz-pil-i-jechal-kary-nie-bedzie,id,t.html"  class="tekst maly" id="LinkArea:boksElL3" data-tracker="elastyczne/boks_elastyczny_lewy2/3">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/47/49/56954ed331bb3_o,size,445x270,q,71,h,6627e3.jpg" alt="Policjanci zbadali trzeźwość dyrektora i okazało się, że ma 1,4 promila alkoholu w wydychanym powietrzu. Wiesław J., tuż po zdarzeniu zapewniał nas,">
+                        <span class="liczbaKomentarzy" title="Liczba komentarzy">10</span>              
+          </div>
+                          <h3>Pijany dyrektor szkoły wjechał w radiowóz. Kary nie będzie</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/wiadomosci/warmia-i-mazury/art/9281279,slepie-tir-przewrocil-sie-na-bok-i-zatarasowal-jezdnie-zdjecia,id,t.html"  class="tekst galeria maly" id="LinkArea:boksElL4" data-tracker="elastyczne/boks_elastyczny_lewy2/4">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/8a/16/5694e638668c8_o,size,445x270,q,71,h,8c5971.jpg" alt="Ślepie. Tir przewrócił się na bok i zatarasował jezdnię (zdjęcia)">
+                                          <ul class="oznaczenieTresci">
+                    <li class="oznaczenie galeria">galeria</li>
+                </ul>
+  
+          </div>
+                          <h3>Tir przewrócił się na bok i zatarasował jezdnię (zdjęcia)</h3>
+              </a>
+      
+                <a href="//www.wspolczesna.pl/wypadek/art/9282100,pisanica-cinquecento-wpadlo-w-poslizg-i-uderzylo-w-szkolny-autobus,id,t.html"  class="tekst maly" id="LinkArea:boksElL5" data-tracker="elastyczne/boks_elastyczny_lewy2/5">
+                  <div class="kontenerZdjecia show-for-small-down">
+                          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a3/a3/56951d0870e74_o,size,445x270,q,71,h,021c29.jpg" alt="Dzieciom nic się nie stało. Lekkie rany odniósł kierowca cinquecento.">
+                                      
+          </div>
+                          <h3>Cinquecento wpadło w poślizg i uderzyło w szkolny autobus</h3>
+              </a>
+      
+        
+    <a class="zobaczWiecej show-for-small-down" href="http://www.wspolczesna.pl/wypadek/" data-tracker="elastyczne/boks_elastyczny_lewy2/wiecej"><span>Zobacz więcej</span></a>
+  </div>
+</div></div>      </section>
+    </div>
+    <div class="columns large-4 show-for-large-up">
+      <section class="kolumnaPrawa">
+          <div class="adSrodek hide-for-medium-down">
+      <div id="prawa4">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa4", cssStyle: "margin-bottom: 5px", rodzic: '#prawa4', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+
+        <div class="kreska"><header>
+  <h2>Najczęściej komentowane</h2>
+</header>
+<div id="najczesciej-komentowane" class="ranking row">
+  <ol class="columns" id="LinkArea:najKom">
+                        <li>
+              <a href="http://forum.wspolczesna.pl/knyszyn-oddal-mnostwo-litrow-krwi-a-lekarka-nie-poswiecila-mu-nawet-kilku-minut-t82304/" id="LinkArea:najKom1" data-tracker="najczesciejkomentowane/1">
+                <span>Knyszyn. Oddał mnóstwo litrów krwi. A lekarka nie poświęciła mu...</span>
+              </a>
+            </li>
+                    <li>
+              <a href="http://forum.wspolczesna.pl/wysoki-stoczek-policjant-poturbowal-mezczyzn-ktorzy-go-napadli-sad-uznal-ze-jest-niewinny-t82229/" id="LinkArea:najKom2" data-tracker="najczesciejkomentowane/2">
+                <span>Wysoki Stoczek. Policjant poturbował mężczyzn, którzy go napadli....</span>
+              </a>
+            </li>
+                    <li>
+              <a href="http://forum.wspolczesna.pl/demonstracja-kod-w-bialymstoku-protestowaly-setki-osob-zdjecia-wideo-t82466/" id="LinkArea:najKom3" data-tracker="najczesciejkomentowane/3">
+                <span>Demonstracja KOD w Białymstoku. Protestowały setki osób (zdjęcia,...</span>
+              </a>
+            </li>
+                    <li>
+              <a href="http://forum.wspolczesna.pl/miliony-zlotych-miasta-topia-w-plywalniach-t82396/" id="LinkArea:najKom4" data-tracker="najczesciejkomentowane/4">
+                <span>Miliony złotych miasta topią w pływalniach</span>
+              </a>
+            </li>
+                    <li>
+              <a href="http://forum.wspolczesna.pl/podlascy-samorzadowcy-i-politycy-o-kod-andruszkiewicz-komus-zalezy-aby-ten-sejm-byl-krotki-t82264/" id="LinkArea:najKom5" data-tracker="najczesciejkomentowane/5">
+                <span>Podlascy samorządowcy i politycy o KOD. Andruszkiewicz: Komuś...</span>
+              </a>
+            </li>
+              </ol>
+</div>
+</div>
+      </section>
+    </div>
+  </div>
+</div><div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__AGREGATOR__POLECAMY" data-k="92efd8d85960d6408786a79f86b396ba"></div>
+      </div>
+<div id="srodek4" class="row textC adBoks hide-for-medium-down">
+  
+    <script type="text/javascript">
+      GR("wstawReklame", {nazwa: "srodek4", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek4', szerokosc: 1200, mierzOkno: true});
+    </script>
+  
+</div><div class="clear">
+      <div class="async" id="modul_asynchroniczny_ZOBACZ_KONIECZNIE" data-k="b1ff28a06c849e1a9939831c8b4eac81"></div>
+      </div>
+<div class="blok alarm24 doPrawegoMenu" data-nazwa="Nasze sprawy" data-klasa="linkAlarm24">
+  <div class="row">
+    <div class="columns large-8">
+      <section class="kolumnaSrodkowa kreska">
+        <header>
+  <a data-tracker="alarm24/naglowek" href="http://www.wspolczesna.pl/alarm24/"><h2>Alarm24</h2></a>
+</header>
+
+<div class="row materialy" id="LinkArea:alarm">
+  <div class="pierwsza columns medium-6">
+                <a href="//www.wspolczesna.pl/wiadomosci/hajnowka/art/9283221,szpital-w-hajnowce-czytelniczka-dodzwonienie-sie-do-poradni-graniczy-z-cudem,id,t.html"  class="tekst" id="LinkArea:alarm1" data-tracker="alarm24/1">
+        <div class="kontenerZdjecia">
+          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/82/82/569553f734446_o,size,445x270,q,71,h,58525c.jpg" alt="Szpital stara się wprowadzać rozwiązania, które wpłyną na poprawę komfortu pacjenta. M.in. w rejestracji uruchomiono dodatkowy numer, zwiększono też">
+          <span class="liczbaKomentarzy" title="ilość komentarzy">2</span>            
+        </div>
+        <h3   class="show-for-medium-up"
+>Czytelniczka: Dodzwonienie się do poradni graniczy z cudem</h3>
+        <h3   class="show-for-small-down"
+>Czytelniczka: Dodzwonienie się do poradni graniczy z cudem</h3>
+      </a>
+      
+        <div class="daneKontaktowe show-for-medium-up">
+          <span><b>[t]:</b> +48 85 748 74 42</span>
+              <span><b>[@]:</b> <a href="mailto:online@wspolczesna.pl">online@wspolczesna.pl</a></span>
+              <a href="mailto:online@wspolczesna.pl">Zadaj pytanie</a>
+              </div>
+  </div>
+  <div class="srodek columns medium-3 mniejszeFlagi">
+                <a href="//www.wspolczesna.pl/wiadomosci/sejny/art/9283205,klejwy-stanislaw-gibas-wchodzil-do-domu-przez-okno-firma-obiecala-ze-naprawi-drzwi-za-miesiac,id,t.html"  class="tekst" id="LinkArea:alarm2" data-tracker="alarm24/2">
+        <div class="kontenerZdjecia">
+          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/64/8f/569552adbc451_o,size,445x270,q,71,h,ac43a8.jpg" alt="Przyjechali i w pół godziny zrobili - mówił we wtorek Gibas. - Bardzo jestem wdzięczny gazecie za pomoc.">
+                      
+        </div>
+        <h3   class="show-for-medium-up"
+>Wchodził do domu przez okno. Naprawa drzwi miała trwać miesiąc</h3>
+        <h3   class="show-for-small-down"
+>Wchodził do domu przez okno. Naprawa drzwi miała trwać miesiąc</h3>
+      </a>
+      
+                <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9289127,bialystok-znaleziono-aparat-sluchowy-czeka-na-wlasciciela,id,t.html"  class="tekst" id="LinkArea:alarm3" data-tracker="alarm24/3">
+        <div class="kontenerZdjecia">
+          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/1e/f2/5697712166d71_o,size,445x270,q,71,h,40ea83.jpg" alt="Białystok. Znaleziono aparat słuchowy. Czeka na właściciela">
+                      
+        </div>
+        <h3   class="show-for-medium-up"
+>Znaleziono aparat słuchowy. Czeka na właściciela</h3>
+        <h3   class="show-for-small-down"
+>Znaleziono aparat słuchowy. Czeka na właściciela</h3>
+      </a>
+      
+      </div>
+  <div class="prawa columns medium-3">
+          <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9278277,kawalki-miesa-nafaszerowane-iglami-zwyrodnialec-poluje-na-psy,id,t.html"  id="LinkArea:alarm4" data-tracker="alarm24/4">
+        <span class="show-for-medium-up">Urszula Krutul</span>
+        <div class="kontenerZdjecia show-for-small-down">
+          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/bc/16/5693d0077fa7b_o,size,445x270,q,71,h,993795.jpg" alt="- To bestialstwo - mówi Michalina Kuźma. - Sonia ma mnie, ale bezdomny pies, który by to zjadł, umierałby gdzieś w męczarniach. Brak słów na takich">
+                          <ul class="oznaczenieTresci obecnaFlaga">
+              <li class="oznaczenie flaga">Ważne</li>
+                    <li class="oznaczenie galeria">galeria</li>
+                </ul>
+  
+        </div>
+        <h3   class="show-for-medium-up"
+>Uważajcie na swoje psy. Ktoś chce, żeby konały w męczarniach</h3>
+        <h3   class="show-for-small-down"
+>Uważajcie na swoje psy. Ktoś chce, żeby konały w męczarniach</h3>
+      </a>
+      
+          <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9277314,bialystok-ul-liniarskiego-1a-zburzyli-kamienice-w-kilka-godzin-zdjecia-wideo,id,t.html"  id="LinkArea:alarm5" data-tracker="alarm24/5">
+        <span class="show-for-medium-up">dd</span>
+        <div class="kontenerZdjecia show-for-small-down">
+          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/df/5d/5693942799528_o,size,445x270,q,71,h,ca96d1.jpg" alt="Białystok: ul. Liniarskiego 1a. Zburzyli kamienicę w kilka godzin (zdjęcia, wideo)">
+                          <ul class="oznaczenieTresci">
+                    <li class="oznaczenie galeria">galeria</li>
+                    <li class="oznaczenie wideo">wideo</li>
+          </ul>
+  
+        </div>
+        <h3   class="show-for-medium-up"
+>Zburzyli kamienicę w kilka godzin (wideo)</h3>
+        <h3   class="show-for-small-down"
+>Zburzyli kamienicę w kilka godzin (wideo)</h3>
+      </a>
+      
+          <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9265989,maniak-poluje-na-psy-rozrzuca-mieso-nadziane-iglami-internauci-alarmuja-zdjecia,id,t.html"  id="LinkArea:alarm6" data-tracker="alarm24/6" class="show-for-medium-up">
+        <span class="show-for-medium-up">(mck)</span>
+        <div class="kontenerZdjecia show-for-small-down">
+          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/5e/9d/568f63e1b8e9f_o,size,445x270,q,71,h,4f0901.jpg" alt="Maniak poluje na psy. Rozrzuca mięso nadziane igłami. Internauci alarmują (zdjęcia)">
+          <span class="liczbaKomentarzy" title="Liczba komentarzy">16</span>                <ul class="oznaczenieTresci">
+                    <li class="oznaczenie galeria">galeria</li>
+                </ul>
+  
+        </div>
+        <h3   class="show-for-medium-up"
+>Mięso z igłami na ulicach. Ktoś poluje na psy (zdjęcia)</h3>
+        <h3   class="show-for-small-down"
+>Mięso z igłami na ulicach. Ktoś poluje na psy (zdjęcia)</h3>
+      </a>
+      
+          <a href="//www.wspolczesna.pl/wiadomosci/bialystok/art/9257150,kupil-3-kg-miesa-twierdzi-ze-po-wyjeciu-z-lodowki-swiecilo-wczesniej-zjadl-obiad,id,t.html"  id="LinkArea:alarm7" data-tracker="alarm24/7" class="show-for-medium-up">
+        <span class="show-for-medium-up">Izabela Krzewska</span>
+        <div class="kontenerZdjecia show-for-small-down">
+          <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAb0AAAEOAQMAAAAnvlvcAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJklEQVRo3u3BAQ0AAADCoPdPbQ43oAAAAAAAAAAAAAAAAAAAgA8DPB4AAYYo73IAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/4f/0a/568e82bd17dbe_o,size,445x270,q,71,h,631798.jpg" alt="Mięso badane jest w kierunku bakterii, która może wywoływać efekt świecenia.">
+          <span class="liczbaKomentarzy" title="Liczba komentarzy">15</span>            
+        </div>
+        <h3   class="show-for-medium-up"
+>Wieprzowina niczym choinka. Zaświeciła</h3>
+        <h3   class="show-for-small-down"
+>Wieprzowina niczym choinka. Zaświeciła</h3>
+      </a>
+      
+      </div>
+  <div class="daneKontaktowe show-for-small-down">
+          <span><b>[t]:</b> +48 85 748 74 42</span>
+              <span><b>[@]:</b> <a href="mailto:online@wspolczesna.pl">online@wspolczesna.pl</a></span>
+              <a href="mailto:online@wspolczesna.pl">Zadaj pytanie</a>
+            </div>
+  <a class="show-for-small-down zobaczWiecej" href="http://www.wspolczesna.pl/alarm24/" data-tracker="alarm24/zobaczwiecej"><span>Zobacz więcej</span></a>
+</div>
+      </section>
+    </div>
+    <div class="columns large-4 show-for-large-up">
+      <section class="kolumnaPrawa kreska">
+        <div><section class="blok"><header>
+  <h2>Sonda</h2>
+</header>
+  <div id="sonda-modul" class="sonda">
+
+  <p class="pytanie">Czy masz jakieś postanowienie noworoczne?</p>
+
+      <form name="glosowanie" method="post" action="#sonda-modul">
+              <p class="opcja">
+          <input type="radio" name="odpowiedz" value="56738" id="odp-56738" checked="checked">
+          <label class="radio" for="odp-56738" title="Tak">Tak</label>
+        </p>
+              <p class="opcja">
+          <input type="radio" name="odpowiedz" value="56740" id="odp-56740" >
+          <label class="radio" for="odp-56740" title="Nie">Nie</label>
+        </p>
+            <p id="sonda-10480-submit" class="textC">
+        <input type="hidden" name="id_sonda" value="10480">
+        <input type="hidden" name="sonda_glosuj" value="1">
+        <input data-tracker="sonda/glosuj" type="submit" name="sonda_glosuj" value="Głosuj" class="button">
+      </p>
+    </form>
+      
+  </div>
+</section></div>
+      </section>
+    </div>
+  </div>
+</div><div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__MATERIAL__STYL_ZYCIA" data-k="d62a5ec8766a412e5663f75e10e60521"></div>
+      </div>
+<div id="srodek3" class="row textC adSrodek hide-for-medium-down">
+  <script type="text/javascript">
+    GR("wstawReklame", {nazwa: "srodek3", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek3', szerokosc: 1200, mierzOkno: true});
+  </script>
+</div>
+<div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__SERWISY_TEMATYCZNE" data-k="d0921d442ee91b896ad95059d13df618"></div>
+      </div>
+<div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__GRY" data-k="d41d8cd98f00b204e9800998ecf8427e"></div>
+      </div>
+<div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__CHMURA_TAGOW" data-k="116520396fb6fb85adc18c7dd3bd0e80"></div>
+      </div>
+<div class="clear">
+      <div class="async" id="modul_asynchroniczny_REGIONALNE__NEKROLOGI" data-k="7afe5fb79448085de62a98266b569c9f"></div>
+      </div>
+<div class="blok show-for-large-up">
+  <div class="row">
+    <div class="small-12 columns">
+      <section class="kolumnaPelna">
+          <div id="okazjon" class="row textC">
+    <script type="text/javascript">
+      GR("wstawReklame", {nazwa: "okazjon", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#okazjon', szerokosc: 1200, mierzOkno: true});
+    </script>
+  </div>
+
+      </section>
+    </div>
+  </div>
+</div><div class="adSrodek row" id="dol1">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "dol1", pokazUkryjRodzica: true, rodzic: '#dol1', szerokosc: 1000, cssClass: "marginD" });</script>
+</div>
+    
+    
+          <footer>
+        <div class="adSrodek" id="tapeta">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "tapeta", pokazUkryjRodzica: true, rodzic: '#tapeta', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div id="LinkArea:stopka">
+  <div id="stopka-zwijane">
+    <div class="row zwinRozwin"><a class="zwijak show-for-medium-up">SERWISY PARTNERSKIE</a><a class="zwijak hide-for-medium-up">SERWISY REGIONALNE</a></div>
+    <div class="stopkaZakladka redakcja" id="LinkArea:stopkaRed">
+      <div class="row">
+        <div class="columns medium-4 kontakt">
+          <h4>KONTAKT Z REDAKCJĄ:</h4>
+          <p>tel.: <b><a href="tel:+48 85 748 74 42">+48 85 748 74 42</a></b>
+          <b><a href="mailto:online@wspolczesna.pl">online@wspolczesna.pl</a></b></p>
+                  <h4>KONTAKT Z REKLAMĄ:</h4>
+                      <p>tel.: <b><a href="tel:+48 85 748 96 07">+48 85 748 96 07</a></b>
+                              <b><a href="mailto:reklama@wspolczesna.pl">reklama@wspolczesna.pl</a></b></p>
+                          </div>
+        <div class="columns large-2 medium-4 socialMedia">
+          <h4>JESTEŚMY RÓWNIEŻ NA:</h4>
+          <a href="https://www.facebook.com/gazeta.wspolczesna" target="_blank" data-tracker="stopka/facebook" title="Gazeta Współczesna na Facebooku">Facebook</a>          <a href="https://twitter.com/wspolczesna" target="_blank" data-tracker="stopka/twitter" title="Gazeta Współczesna na Twitterze">Twitter</a>          <a href="https://plus.google.com/+wspolczesna" target="_blank" data-tracker="stopka/google" title="Gazeta Współczesna na Google +">Google+</a>        </div>
+        <div class="columns large-4 show-for-large-up">
+          <h4>SERWISY POWIATOWE:</h4>
+          <ul>
+                          <li><a href="/wiadomosci/augustow" data-tracker="stopka/powiatowe//wiadomosci/augustow">Augustów</a></li>
+                          <li><a href="/wiadomosci/bialystok" data-tracker="stopka/powiatowe//wiadomosci/bialystok">Białystok</a></li>
+                          <li><a href="/wiadomosci/bielsk-podlaski" data-tracker="stopka/powiatowe//wiadomosci/bielsk-podlaski">Bielsk Podlaski</a></li>
+                          <li><a href="/wiadomosci/elk" data-tracker="stopka/powiatowe//wiadomosci/elk">Ełk</a></li>
+                          <li><a href="/wiadomosci/grajewo" data-tracker="stopka/powiatowe//wiadomosci/grajewo">Grajewo</a></li>
+                          <li><a href="/wiadomosci/hajnowka" data-tracker="stopka/powiatowe//wiadomosci/hajnowka">Hajnówka</a></li>
+                          <li><a href="/wiadomosci/kolno" data-tracker="stopka/powiatowe//wiadomosci/kolno">Kolno</a></li>
+                          <li><a href="/wiadomosci/lomza" data-tracker="stopka/powiatowe//wiadomosci/lomza">Łomża</a></li>
+                          <li><a href="/wiadomosci/monki" data-tracker="stopka/powiatowe//wiadomosci/monki">Mońki</a></li>
+                          <li><a href="/wiadomosci/powiat-bialostocki" data-tracker="stopka/powiatowe//wiadomosci/powiat-bialostocki">Powiat białostocki</a></li>
+                          <li><a href="/wiadomosci/sejny" data-tracker="stopka/powiatowe//wiadomosci/sejny">Sejny</a></li>
+                          <li><a href="/wiadomosci/siemiatycze" data-tracker="stopka/powiatowe//wiadomosci/siemiatycze">Siemiatycze</a></li>
+                          <li><a href="/wiadomosci/sokolka" data-tracker="stopka/powiatowe//wiadomosci/sokolka">Sokółka</a></li>
+                          <li><a href="/wiadomosci/suwalki" data-tracker="stopka/powiatowe//wiadomosci/suwalki">Suwałki</a></li>
+                          <li><a href="/wiadomosci/warmia-i-mazury" data-tracker="stopka/powiatowe//wiadomosci/warmia-i-mazury">Warmia i Mazury</a></li>
+                          <li><a href="/wiadomosci/wysokie-maz" data-tracker="stopka/powiatowe//wiadomosci/wysokie-maz">Wysokie Mazowieckie</a></li>
+                          <li><a href="/wiadomosci/zambrow" data-tracker="stopka/powiatowe//wiadomosci/zambrow">Zambrów</a></li>
+                      </ul>
+        </div>
+        <div class="columns large-2 medium-4">
+          <p>Gazeta Współczesna jest częścią:<br>
+          <a href="http://polskapress.pl"><img src="http://s-pt.ppstatic.pl/g/regionalne/polskapress.png" alt="Grupa Wydawnicza Polska Press Sp. z o.o."></a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="stopkaZakladka serwisy ukryta">
+      <div class="row">
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaOgl">
+          <h4>SERWISY OGŁOSZENIOWE:</h4>
+          <ul>
+                      <li><a href="http://www.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/www.gratka.pl">Ogłoszenia</a></li>
+                      <li><a href="http://dom.gratka.pl/mieszkania/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/mieszkania/warszawa/">Mieszkania Warszawa</a></li>
+                      <li><a href="http://dom.gratka.pl/domy/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/domy/warszawa/">Domy Warszawa</a></li>
+                      <li><a href="http://moto.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl">Motoryzacja</a></li>
+                      <li><a href="http://moto.gratka.pl/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl/warszawa/">Samochody Warszawa</a></li>
+                      <li><a href="http://praca.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl">Praca</a></li>
+                      <li><a href="http://praca.gratka.pl/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl/warszawa/">Oferty pracy Warszawa</a></li>
+                      <li><a href="http://alegratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/alegratka.pl">Ogłoszenia drobne</a></li>
+                    </ul>
+        </div>
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaPar">
+          <h4>SERWISY PARTNERSKIE:</h4>
+          <ul>
+                          <li><a href="http://www.telemagazyn.pl" data-tracker="stopka/partnerskie/http://www.telemagazyn.pl" target="_blank">Program TV - Telemagazyn</a></li>
+                          <li><a href="http://ekstraklasa.net" data-tracker="stopka/partnerskie/http://ekstraklasa.net" target="_blank">Piłka nożna - Ekstraklasa.net</a></li>
+                          <li><a href="http://www.polskatimes.pl" data-tracker="stopka/partnerskie/http://www.polskatimes.pl" target="_blank">Polskatimes</a></li>
+                          <li><a href="http://www.wiadomosci24.pl/" data-tracker="stopka/partnerskie/http://www.wiadomosci24.pl/" target="_blank">Wiadomości - Wiadomości24</a></li>
+                          <li><a href="http://regiodom.pl/" data-tracker="stopka/partnerskie/http://regiodom.pl/" target="_blank">Dom nieruchomości - regioDom</a></li>
+                          <li><a href="http://www.motofakty.pl" data-tracker="stopka/partnerskie/http://www.motofakty.pl" target="_blank">Motoryzacja - Motofakty</a></li>
+                          <li><a href="http://www.regiopraca.pl/" data-tracker="stopka/partnerskie/http://www.regiopraca.pl/" target="_blank">Praca - regioPraca</a></li>
+                          <li><a href="http://naszemiasto.pl" data-tracker="stopka/partnerskie/http://naszemiasto.pl" target="_blank">Informacje lokalne - Nasze Miasto</a></li>
+                          <li><a href="http://gra.pl" data-tracker="stopka/partnerskie/http://gra.pl" target="_blank">Gry - Gra.pl</a></li>
+                      </ul>
+        </div>
+        <div class="columns medium-6 small-12" id="LinkArea:stopkaReg">
+          <h4>SERWISY REGIONALNE:</h4>
+          <ul class="kolumny">
+                          <li><a href="http://www.dziennikbaltycki.pl" data-tracker="stopka/regionalne/http://www.dziennikbaltycki.pl" target="_blank">Dziennik Bałtycki</a></li>
+                          <li><a href="http://www.dziennikzachodni.pl" data-tracker="stopka/regionalne/http://www.dziennikzachodni.pl" target="_blank">Dziennik Zachodni</a></li>
+                          <li><a href="http://www.dzienniklodzki.pl" data-tracker="stopka/regionalne/http://www.dzienniklodzki.pl" target="_blank">Dziennik Łódzki</a></li>
+                          <li><a href="http://www.echodnia.eu" data-tracker="stopka/regionalne/http://www.echodnia.eu" target="_blank">Echo Dnia</a></li>
+                          <li><a href="http://www.gazetakrakowska.pl" data-tracker="stopka/regionalne/http://www.gazetakrakowska.pl" target="_blank">Gazeta Krakowska</a></li>
+                          <li><a href="http://www.gazetalubuska.pl" data-tracker="stopka/regionalne/http://www.gazetalubuska.pl" target="_blank">Gazeta Lubuska</a></li>
+                          <li><a href="http://www.pomorska.pl" data-tracker="stopka/regionalne/http://www.pomorska.pl" target="_blank">Gazeta Pomorska</a></li>
+                          <li><a href="http://www.gazetawroclawska.pl" data-tracker="stopka/regionalne/http://www.gazetawroclawska.pl" target="_blank">Gazeta Wrocławska</a></li>
+                          <li><a href="http://www.wspolczesna.pl" data-tracker="stopka/regionalne/http://www.wspolczesna.pl" target="_blank">Gazeta Współczesna</a></li>
+                          <li><a href="http://www.gk24.pl" data-tracker="stopka/regionalne/http://www.gk24.pl" target="_blank">Głos Koszaliński - GK24.pl</a></li>
+                          <li><a href="http://www.gp24.pl" data-tracker="stopka/regionalne/http://www.gp24.pl" target="_blank">Głos Pomorza - GP24.pl</a></li>
+                          <li><a href="http://www.gs24.pl" data-tracker="stopka/regionalne/http://www.gs24.pl" target="_blank">Głos Szczeciński - GS24.pl</a></li>
+                          <li><a href="http://www.gloswielkopolski.pl" data-tracker="stopka/regionalne/http://www.gloswielkopolski.pl" target="_blank">Głos Wielkopolski</a></li>
+                          <li><a href="http://www.kurierlubelski.pl" data-tracker="stopka/regionalne/http://www.kurierlubelski.pl" target="_blank">Kurier Lubelski</a></li>
+                          <li><a href="http://www.poranny.pl" data-tracker="stopka/regionalne/http://www.poranny.pl" target="_blank">Kurier Poranny</a></li>
+                          <li><a href="http://www.nto.pl" data-tracker="stopka/regionalne/http://www.nto.pl" target="_blank">Nowa Trybuna Opolska</a></li>
+                          <li><a href="http://www.nowiny24.pl" data-tracker="stopka/regionalne/http://www.nowiny24.pl" target="_blank">Nowiny</a></li>
+                          <li><a href="http://www.to.com.pl" data-tracker="stopka/regionalne/http://www.to.com.pl" target="_blank">Tygodnik Ostrołęcki</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      <div id="stopka-aplikacje" class="show-for-small-down">
+      <div class="row">
+        <div class="columns">
+          Nasze Aplikacje:
+          <ul>
+                          <li class="android"><a href="https://play.google.com/store/apps/details?id=com.mecom.wspolczesna.pl">Android</a></li>
+                                      <li class="ios"><a href="https://itunes.apple.com/pl/app/wspolczesna.pl/id463262728?mt=8">iOS</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    <div id="stopka-pasek">
+    <ul class="row" id="LinkArea:stopkaPas">
+      <li><a data-tracker="stopka/glowna" href="/" class="show-for-small-down">Strona Główna</a></li>
+      <li><a data-tracker="stopka/mapaserwisu" href="http://www.wspolczesna.pl/mapa_serwisu/" class="hide-for-small-down">Mapa serwisu</a></li>
+      <li><a data-tracker="stopka/indeks" href="http://indeks.wspolczesna.pl" class="hide-for-small-down">Indeks</a></li>
+      <li><a data-tracker="stopka/dlaprasy" href="http://www.polskatimes.pl/213,dla-prasy,id,t.html" target="_blank" class="hide-for-small-down">Dla prasy</a></li>
+      <li><a data-tracker="stopka/kontakt" href="http://www.wspolczesna.pl/artykul/6552233,gazeta-wspolczesna-redakcja,id,t.html" class="show-for-small-down">Kontakt</a></li>
+      <li><a data-tracker="stopka/onas" href="http://www.wspolczesna.pl/artykul/6552233,gazeta-wspolczesna-redakcja,id,t.html" class="hide-for-small-down">O nas</a></li>
+      <li><a data-tracker="stopka/regulamin" href="http://www.wspolczesna.pl/regulamin/">Regulamin</a></li>
+      <li><a data-tracker="stopka/prywatnosc" href="http://www.polskatimes.pl/stronaglowna/243942,polityka-prywatnosci,id,t.html" class="hide-for-small-down">Prywatność</a></li>
+      <li><a data-tracker="stopka/reklama" href="http://www.wspolczesna.pl/redakcja/art/9149613,reklama,id,t.html" class="hide-for-small-down">Reklama</a></li>
+      <li><a data-tracker="stopka/egazety" href="http://prasa24.pl" target="_blank" rel="nofollow" class="hide-for-small-down">eGazety</a></li>
+      <li><a data-tracker="stopka/newsletter" href="http://www.wspolczesna.pl/newsletter/">Newsletter</a></li>
+      <li><a data-tracker="stopka/notawydawnicza" href="/artykuly-archiwalne/art/5885645,nota-wydawnicza,id,t.html" class="notaWydawnicza">Nota wydawnicza</a></li>
+              <li><a data-tracker="stopka/logowanie" href="/logowanie">Logowanie</a></li>
+            <li class="powrot"><a data-tracker="stopka/powrotGora" href="#" class="show-for-small-down">Powrót do góry</a></li>
+    </ul>
+  </div>
+
+  <div class="row" id="stopka-dol">
+    <div id="LinkArea:stopkaDol">
+      <p class="columns medium-8">
+                  <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a>
+                 informuje, że wszystkie treści ukazujące się w serwisie Gazeta Współczesna podlegają ochronie.
+        <a href="http://www.wspolczesna.pl/artykuly-archiwalne/art/5886227,sprzedaz-licencji-na-wykorzystanie-materialow-publikowanych-w-portalu-wspolczesnapl,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.<br>
+        Jesteś zainteresowany kupnem treści? <a href="http://www.polskatimes.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapressepl,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.
+      </p>
+      <p class="columns medium-4">&copy; 2000 - 2016 <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a></p>
+    </div>
+  </div>
+</div>
+    <div class="cookieContainer">
+  <div class="cookieTooltip">
+    <span class="tooltipZamknij" title="Zamknij"></span>
+    <div class="cookieTekst">
+      <p class="cookieTytul">Korzystamy z cookies i local storage.</p>
+      <p>Bez zmiany ustawień pliki są zapisywane na urządzeniu. Więcej przeczytasz <a href="/artykul/243942,polityka-prywatnosci,id,t.html" rel="external">tutaj</a>.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  
+      (function ($) {
+        $('.tooltipZamknij').click(function () {
+          var data = new Date();
+          data.setDate(data.getDate() + 365);
+          data = data.toUTCString();
+          document.cookie = 'polityka_prywatnosci_cookies=true; expires=' + data + '; path = /';
+          $('.cookieTooltip').fadeOut(400);
+        });
+      })(jQuery);
+  
+</script>
+
+      </footer>
+    
+    
+          <div id="poza-gridem"><script type="text/javascript">
+    oG_OSA.onclick_id = 'inne';
+      GR('oTrackEvents', oG_OSA.tracking);
+  </script>
+<script type="text/javascript">GR('oAnonimid');</script>
+</div>
+    
+  </body>
+</html>

@@ -1,0 +1,1963 @@
+
+  
+
+
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,700|PT+Sans:400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="http://s-pt.ppstatic.pl/www/merge/?typ=css&amp;p=/o/css/cookies.css,/p/css/serwisy/regionalne_artykul.css,/p/css/rwd/slick.css,/p/css/nanoScroller.css,/p/css/rwd/foundation5mod.css,/p/css/serwisy/regionalne.css&amp;v=11140890&amp;w=75dda511140890_9b3f5811140890_739c2a11140890_e4bdda11140890_f9b66611140890_1a6bde11140890" type="text/css" >
+
+    
+    <script type="text/javascript">var czyMobilne = !1, czyTablet = !1;</script><script type="text/javascript">if(!GR) { var GR = function() { return; }; }var oG_OSA = {"serwis":"polskatimes", "sUrl":"http://s-pt.ppstatic.pl","debug":false, "iframeReklama":"http://gratka.pl/reklama/", "tracking": [], "vat":{"stawka":0.23,"procent":23,"brutto":1.23}, "trybReklamy": "new", "czyBot": false, "adOceanEmiter":"ad.adocean.pl", "adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77", "kodowanie":"utf-8", "wersja_serwisu":"11140890", "typAnalytics":"GA"};</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/jquery/1.8.3/jquery.min.js?20150630"></script>
+<script type="text/javascript">if (GR && !GR.DOM) {jQuery=jQuery.noConflict(true);}</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/osnowa.js?c836e611140890"></script>
+<script type="text/javascript" src="//ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/reklama.js?95712311140890"></script>
+<script type="text/javascript">var adMiejsce = {"dol1":"adoceanadnfqtpvpgzv","fiszka":"adoceanadkghkdtjlqq","gora1":"adoceanadxgoqgqdqpl","gora2":"adoceanaduhfhknnukg","layer":"adoceanadrimnnkhjef","okazjon":"adoceanadojdebirnka","prawa1":"adoceanadlkkkevksjv","prawa2":"adoceanadykrqhsehsu","prawa3":"adoceanadvlihlpolnp","prawa4":"adoceanadsmpnomiqxk","srodek1":"adoceanadpngecksudf","srodek2":"adoceanadmonkfxljme","srodek3":"adoceanadzoeriufowz","srodek4":"adoceanadwplhmrpsgu","tapeta":"adoceanadtadopojhwt","verboomInterText":"adoceanadqbkedmdmco","link1":"adoceanadrcqoduhpjl","link2":"adoceanadodhfhrrteg","link3":"adoceanadleolkoliyf","link4":"adoceanadyefsnlfnia","prawa5":"adoceanadvfmibjprdv"};
+
+  var adO = {"keys":["gloswielkopolski,artykul,ros,material,wiadomosci,sport,strona_glowna,aktualnosci,lechpoznan,poznan,wielkopolska,material_490508,Lech Pozna\u0144,umowa,Ekstraklasa,kontrakt,semir stili\u0107,Galatasaray,pi\u0142karz Lecha,zawodnik Lecha"],"vars":[],"minSzerokosc":1000,"kodMaster":"udf1KJEvjTbngX9Jm.RO3XeaciXAk34QhDiNGXXNI7L.s7","adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"};
+
+  var hasFlash = (
+    (navigator.plugins !== "undefined" && typeof navigator.plugins["Shockwave Flash"] === "object")
+    || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) !== false)
+  );
+
+  if (hasFlash) {
+    adO.keys.push('flash');
+  }
+
+  var ciastkoCriteo = GR('pobierzCookie', 'crtg_rta');
+
+  if (ciastkoCriteo && ';' == ciastkoCriteo.charAt(ciastkoCriteo.length-1)) {
+    ciastkoCriteo = ciastkoCriteo.substring(0, ciastkoCriteo.length-1);
+  }
+
+  if (ciastkoCriteo) {
+    var kluczeIWartosci = unescape(ciastkoCriteo).split(";");
+    var dlugosc = kluczeIWartosci.length;
+
+    for (var i = 0; i < dlugosc; i++) {
+      var kluczIWartosc = kluczeIWartosci[i].split("=");
+      adO.vars[kluczIWartosc[0]] = parseInt(kluczIWartosc[1]);
+    }
+  }
+    GR('wywolajReklamy', 1, adO);
+  
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fba07d53bd07def&async=1?201601"></script>
+<script type="text/javascript" src="//connect.facebook.net/pl_PL/sdk.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/www/merge/?typ=js&amp;p=/o/jquerytools/jquery.cookie.js,/p/js/regionalne/menu_gorne.js,/p/js/regionalne/stopka.js,/p/js/regionalne/naglowek_skrocony.js,/o/jquerytools/jquery.lazyload-1.9.3.js,/o/jquerytools/jquery.appear-1.1.1.min.js,/p/js/cgr/polskatimes.js,/p/js/rwd/modernizr.foundation.js,/p/js/rwd/foundation5.js,/p/js/rwd/foundation.tooltip.js,/p/js/rwd/foundation.reveal.js,/p/js/rwd/jquery.inview.js,/p/js/rwd/jquery.localscroll-1.2.7-min.js,/p/js/rwd/jquery.scrollTo-1.4.3.1-min.js,/o/jquerytools/jquery.nanoscroller.js,/p/js/regionalne/kategorie_wiecej.js,/p/js/regionalne/rozwin_boks.js,/p/js/rwd/material_spolecznosci.js,/o/js/cgr/track.js&amp;v=11140890&amp;w=89ebf411140890_ffbedf11140890_01240011140890_ada0ac11140890_4b6e9d11140890_72e1d911140890_e042a311140890_9177d511140890_07c27111140890_54a3f911140890_e3446211140890_4ac5fe11140890_8996ad11140890_c4dff611140890_150c7211140890_c36bd511140890_674f9611140890_59ce5711140890_f0dc1511140890"></script>
+
+    
+    <script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/criteo.js?6c3c0811140890"></script>
+
+
+                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                    <title>Semir Stilić w Galatasaray Stambuł? To plotka! - Gloswielkopolski.pl</title>
+                            <meta name="description" content="Semir Stilić niemal na pewno nie odejdzie do Galatasaray Stambuł, mimo że polskie i tureckie media informowały o zainteresowaniu ze strony Turków. &amp;quot;Turecki">
+                                <meta name="keywords" content="Wiadomości, Głos Wielkopolski, Lech Poznań, umowa, Ekstraklasa, kontrakt, semir stilić, Galatasaray, piłkarz Lecha, zawodnik Lecha">
+                                <meta name="robots" content="index, follow">
+                                                                <meta name="google-site-verification" content="DDGUZ0nu6Zj_WdWiV4QqUaCpccHLIaYpt73fxA5LbFI">
+                        <link rel="canonical" href="http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html">
+                                                                                                                                                                                                                                                                                                                                                                                            <meta name="rating" content="general">
+                                <meta name="revisit-after" content="1 day">
+                                                                                <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                                <meta name="fragment" content="!">
+                                                                <meta name="news_keywords" content="Lech Poznań, umowa, Ekstraklasa, kontrakt, semir stilić,Galatasaray,piłkarz Lecha,zawodnik Lecha">
+                                <meta name="thumbnail" content="http://d-pt.ppstatic.pl/k/r/11/21/0b/4f04bd8405721_m.jpg?1353384594">
+            
+
+
+            <meta property="article:publisher" content="http://www.facebook.com/GlosWielkopolski">
+                <meta property="article:author" content="http://www.facebook.com/GlosWielkopolski">
+                <meta property="og:image" content="http://d-pt.ppstatic.pl/k/r/11/21/0b/4f04bd8405721_o.jpg?1353384594">
+                <meta property="og:title" content="Semir Stilić w Galatasaray Stambuł? To plotka!">
+                <meta property="og:url" content="http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html">
+                <meta property="og:type" content="article">
+                <meta property="og:site_name" content="Gloswielkopolski.pl">
+                <meta property="og:description" content="Semir Stilić niemal na pewno nie odejdzie do Galatasaray Stambuł, mimo że polskie i tureckie media informowały o zainteresowaniu ze strony Turków. &amp;quot;Turecki">
+    
+    <link rel="apple-touch-icon" href="http://s-pt.ppstatic.pl/g/favicon/mobilne/glos_wielkopolski.png?1">
+
+    <link href="https://plus.google.com/105718175225189465100/" rel="publisher">
+
+
+<link href="http://s-pt.ppstatic.pl/g/favicon/glos_wielkopolski.ico" rel="shortcut icon">
+      <!--[if IE]>
+    <meta http-equiv="imagetoolbar" content="no">
+<![endif]-->
+
+      <script type="text/javascript">
+  GR('oTrackGettracker', { prefix: '', account: 'UA-2770843-10', domain: '.gloswielkopolski.pl', setAllowAnchor: true });
+      GR('oTrackGettracker', { prefix: 'b', account: 'UA-2770843-19', domain: '.gloswielkopolski.pl' });
+    </script>
+
+  
+<script type="text/javascript">
+  jQuery(function() {
+    jQuery("img.lazy").appear(function() { }); // hac
+    jQuery("img.lazy").removeClass('lazy').lazyload({
+      effect:"fadeIn",
+      threshold : 10,
+      failure_limit : 100
+    });
+    // inicjalizacja obsługi boksów asynchronicznych
+    GR('o_async_inicjalizuj_pt', '/artykul/', '490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t', 'html', '//www.gloswielkopolski.pl/ajax/laduj_asynchronicznie/', '', 0);
+  });
+</script>
+
+  <script><!--
+(function(){
+  var images = [];
+
+  images[0] = new Image();
+  images[0].src = "//mreg.hit.gemius.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=zCg7YHhOsJtjE6VokPRvTvU57H8Fg1CHYpw2HlADJcH.z7&et=view";
+
+  images[1] = new Image();
+  images[1].src =  "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=ciI1xEcaVW5n8SYdF3KOItU77Ok1EDiTYtK0XgK_zen.u7&et=view";
+})();
+//--></script>
+
+    <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  var pp_gemius_identifier = 'bQA1lgMTOesXI8.5jqe4habSLQWssxumh3qkEAyhYCj.e7';
+  function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+  gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+  (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+  gt.setAttribute('defer','defer'); gt.src=l+'://pro.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+  //--><!]]>
+  
+  </script>
+  <script>
+    var gfkSstConf = {
+      "url": "config.sensic.net/pl1-sst-w.js",
+      "media" : "gloswielkopolskiPL",
+      "content" : "gwlk_artykul_wiadomosci_46"
+    };
+    
+      (function (w, d, c, s, id) {
+        if (d.getElementById(id)) {return;}
+          w[id] = w[id] || function () {
+            if ("undefined" == typeof gfkSstApi) {w[id].queue.push(arguments[0]);
+      } else {gfkSstApi.impression(arguments[0]);}
+          };
+        w[id].queue = w[id].queue || [];
+        var tag = d.createElement(s); var el = d.getElementsByTagName(s)[0];
+        tag.id = id; tag.async = true; tag.src = '//' + c.url;
+        el.parentNode.insertBefore(tag, el);
+      })(window, document, gfkSstConf, 'script', 'gfkSst');
+    
+  </script>
+
+ 
+  </head>
+  <!--[if lt IE 9 ]>    <body class="lt-ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if IE 9]> <body class="ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <body class="regionalne stronaMaterialu widokDesktop">
+  <!--<![endif]-->
+      <script>
+  dataLayer = [{
+      }];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T9P8J6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T9P8J6');</script>
+  <!-- End Google Tag Manager -->
+
+        <div id="piano-root"></div><script type="text/javascript">
+var pianoVariables = {
+  service_id: '259',
+  mode: 'bar_normal',
+  method_verify: true
+};
+var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+
+  var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+})();
+</script>  <div id="kontener-static">  <div id="pasek-media-plywajacy" class="pasekMediaPlus skrocony przyklejony" style="display:none">
+    <div class="row">
+      <header class="columns">
+        <span id="menu-mobilne-przycisk" class="show-for-medium-down" title="Menu">Menu</span>        <h1>
+          <a href="http://www.gloswielkopolski.pl" data-tracker="/nowa_karta/naglowek/gloswielkopolski">
+              <img src="http://s-pt.ppstatic.pl/g/logo_naglowek/jubileusz/gloswielkopolski.png?11140890.png" alt="Głos Wielkopolski">
+
+          </a>
+        </h1>
+                          <h2>
+            <a href="http://www.gloswielkopolski.pl/wiadomosci/" data-tracker="/nowa_karta/naglowek/kategoria_mat/ /wiadomosci/">
+                              <span>Wiadomości</span>
+                          </a>
+          </h2>
+                <ul class="kategorieNaglowek schowaj"></ul>
+      </header>
+      <ul class="columns logowanie">
+                  <li class="zaloguj"><a class="loginWarstwa" data-tracker="naglowek/zaloguj" title="Zaloguj się do serwisu Głos Wielkopolski" href="http://www.gloswielkopolski.pl/logowanie/" rel="nofollow" id="naglowek-link-login">Zaloguj się</a></li>
+                <li class="szukaj schowaj">
+          <div>
+            <a title="szukaj" href="http://www.gloswielkopolski.pl/szukaj/">Szukaj</a>
+            <form action="http://www.gloswielkopolski.pl/wyszukiwanie/" method="post" id="wyszukiwarka-mobile">
+              <input type="search" name="szukaj_slowo" placeholder="Wpisz czego szukasz" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</div><div id="ad-gora1" class="adSrodek hide-for-medium-down naglowekTlo"></div>
+<div id="logo-serwisu"></div>
+
+    <script type="text/javascript">
+        (function () {
+            GR('wstawReklame', {
+                nazwa: 'gora1',
+                rodzic: '#ad-gora1',
+            });
+        })();
+    </script>
+
+<script><!--
+(function(){
+  try{
+    var adrequest = new XMLHttpRequest();
+    var hitrequest = new XMLHttpRequest();
+ 
+    adrequest.open("GET", "//myao.adocean.pl/_" + new Date().getTime() + "/ad.js?id=nJpB5gBsvEYqjNEhFhRQd_sR3A.T7LA9bTdPlUvbjW7.47", true);
+    adrequest.withCredentials = true;
+    adrequest.send(null);
+  
+    hitrequest.open("GET", "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.js?l=71&id=p301ZHcRQYCaGuv9TDX3pvUI.D5REaSbzAnb3DaDtQL.f7&et=view", true);
+    hitrequest.withCredentials = true;
+    hitrequest.send(null);
+  } catch (e) {}
+})();
+//--></script>
+
+
+<script>
+    (function(){
+      var czyZainicjalizowany =  oG_OSA['facebookZainicjalizowany'] || false;
+      if(!czyZainicjalizowany) {
+          FB.init({
+            appId: '341840722547110',
+            xfbml: true,
+            cookie: true,
+            oauth: true,
+            version: 'v2.2'
+          });
+          oG_OSA['facebookZainicjalizowany'] = true;
+      }
+    })();
+</script>
+
+    <div class="blok menu" id="LinkArea:men">
+  <div class="row">
+    <div class="columns large-12" id="LinkArea:menMob">
+            <ul id="menu-mobilne" style="display: none;">
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/studniowki/" class="ellipsis menu1Poziom" id="LinkArea:menuMob1">Studniówki</a>
+          </li>
+                            <li>
+            <a href="http://www.gloswielkopolski.pl/wiadomosci/" class="ellipsis menu1Poziom" id="LinkArea:menuMob2">Wiadomości</a>
+          </li>
+                            <li>
+            <a href="http://www.gloswielkopolski.pl/sport/" class="ellipsis menu1Poziom" id="LinkArea:menuMob3">Sport</a>
+          </li>
+                            <li>
+            <a href="http://www.gloswielkopolski.pl/edukacja/" class="ellipsis menu1Poziom" id="LinkArea:menuMob4">Edukacja</a>
+          </li>
+                            <li>
+            <a href="http://www.gloswielkopolski.pl/kultura/" class="ellipsis menu1Poziom" id="LinkArea:menuMob5">Kultura</a>
+          </li>
+                            <li>
+            <a href="http://www.gloswielkopolski.pl/porady/" class="ellipsis menu1Poziom" id="LinkArea:menuMob6">Porady</a>
+          </li>
+                            <li>
+            <a href="http://www.gloswielkopolski.pl/naszeakcje/" class="ellipsis menu1Poziom" id="LinkArea:menuMob7">Nasze akcje</a>
+          </li>
+                            <li>
+            <a href="http://www.gloswielkopolski.pl/kryminalnawielkopolska/" class="ellipsis menu1Poziom" id="LinkArea:menuMob8">Kryminalna Wielkopolska</a>
+          </li>
+                                  <li id="horoskopy-mobilne">
+          <a href="http://www.gloswielkopolski.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+        </li>
+                  <li id="biznes-mobilne">
+            <a href="http://www.strefabiznesu.gloswielkopolski.pl" class="menu1Poziom" target="_blank">Biznes</a>
+          </li>
+                                    <li id="agro-mobilne">
+            <a href="http://strefaagro.gloswielkopolski.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+                                    <li class="zaloguj"><a class="loginWarstwa" title="Zaloguj się do serwisu" href="http://www.gloswielkopolski.pl/logowanie/" rel="nofollow">Zaloguj</a></li>
+              </ul>
+    </div>
+    <div class="columns large-12" id="LinkArea:menGl">
+      <ul id="menu-glowne" class="hide-for-medium-down">
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/studniowki/" class="menu1Poziom" id="LinkArea:menuGl1">Studniówki</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo11">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/studniowki/studniowkipremium/" id="LinkArea:menGlPo111">Studniówki premium</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9290900,studniowka-2016-xxxiii-lo-w-poznaniu-zdjecia,id,t.html" id="LinkArea:menGlM11">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/6c/3c/5697e8213aea4_o,size,380x238,q,71,h,a3d620.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka 2016 XXXIII LO w Poznaniu [ZDJĘCIA]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9272471,studniowka-szkoly-baletowej-w-poznaniu-zdjecia,id,t.html" id="LinkArea:menGlM12">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/df/e5/569212e94956e_o,size,380x238,q,71,h,35f4b7.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka Szkoły Baletowej w Poznaniu [ZDJĘCIA]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9272459,studniowka-xxviii-lo-w-poznaniu-i-technikum-budowlanodrzewnego-zdjecia,id,t.html" id="LinkArea:menGlM13">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/aa/b4/5691768159759_o,size,380x238,q,71,h,71cfc6.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka XXVIII LO w Poznaniu i Technikum Budowlano-Drzewnego [ZDJĘCIA]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/wiadomosci/" class="menu1Poziom" id="LinkArea:menuGl2">Wiadomości</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo21">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/wielkopolska/" id="LinkArea:menGlPo211">Wielkopolska</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/poznan/" id="LinkArea:menGlPo212">Poznań</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/gniezno/" id="LinkArea:menGlPo213">Gniezno</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/kalisz/" id="LinkArea:menGlPo214">Kalisz</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/konin/" id="LinkArea:menGlPo215">Konin</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/leszno/" id="LinkArea:menGlPo216">Leszno</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/pila/" id="LinkArea:menGlPo217">Piła</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/wiadomosci/wynikilotto/" id="LinkArea:menGlPo218">Wyniki Lotto</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9294398,rowerowa-droga-szybkiego-ruchu-poznan-wroclaw,id,t.html" id="LinkArea:menGlM21">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/5c/8a/5698f36a8dda5_o,size,380x238,q,71,h,14e912.jpg" class="lazy schowaj">
+                                                    <h3 >Rowerowa droga szybkiego ruchu Poznań - Wrocław?</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9294310,poznan-czesc-ul-gdynskiej-i-chartowo-zostanie-zamknieta,id,t.html" id="LinkArea:menGlM22">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/9a/66/5698f04ab6b47_o,size,380x238,q,71,h,1ae8b4.jpg" class="lazy schowaj">
+                                                    <h3 >Poznań: Część ul. Gdyńskiej i Chartowo zostanie zamknięta</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9293932,wybierz-najpiekniej-oswietlone-miasto-w-polsce-i-zdecyduj-do-kogo-trafi-warta-50-tys-zl-pomoc,id,t.html" id="LinkArea:menGlM23">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d9/7b/5698db9b092fc_o,size,380x238,q,71,h,76f53c.jpg" class="lazy schowaj">
+                                                    <h3 >Wybierz najpiękniej oświetlone miasto w Polsce i zdecyduj do kogo trafi warta 50 tys. zł pomoc!</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/sport/" class="menu1Poziom" id="LinkArea:menuGl3">Sport</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo31">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/lechpoznan/" id="LinkArea:menGlPo311">Lech Poznań</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/poznanmaraton/" id="LinkArea:menGlPo312">Poznań Maraton</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/zuzel/" id="LinkArea:menGlPo313">Żużel</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/kibicelechapoznan/" id="LinkArea:menGlPo314">Kibice Lecha Poznań</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/sportamatorski/" id="LinkArea:menGlPo315">Sport amatorski</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/koszykowka/" id="LinkArea:menGlPo316">Koszykówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/redbox/" id="LinkArea:menGlPo317">Red Box</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/tmobileekstraklasa/" id="LinkArea:menGlPo318">T-Mobile Ekstraklasa</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo32">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/kksmistrzemjest/" id="LinkArea:menGlPo321">KKS mistrzem jest</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/siatkowka/" id="LinkArea:menGlPo322">Siatkówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/pilkareczna/" id="LinkArea:menGlPo323">Piłka ręczna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/wioslarstwo/" id="LinkArea:menGlPo324">Wioślarstwo</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/kajakarstwo/" id="LinkArea:menGlPo325">Kajakarstwo</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/pilkanozna/" id="LinkArea:menGlPo326">Piłka nożna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/mundial2014/" id="LinkArea:menGlPo327">Mundial 2014</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/sport/soczi2014/" id="LinkArea:menGlPo328">Soczi 2014</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9288827,mistrzostwa-europy-w-pilce-recznej-2016-z-kim-zagra-polska-gdzie-ogladac-transmisje-bilety,id,t.html" id="LinkArea:menGlM31">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b0/d4/56976952d4fe2_o,size,380x238,crop,0.0033x0.0630x0.9753x0.9160,q,71,h,b4dc00.jpg" class="lazy schowaj">
+                                                    <h3 >Mistrzostwa Europy w piłce ręcznej 2016: Z kim zagra Polska? Gdzie oglądać? [TRANSMISJE, BILETY]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9293210,zuzel-liga-bez-startu-i-ostrovii-pila-sie-wzmacnia,id,t.html" id="LinkArea:menGlM32">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/9b/35/5698b8978de1c_o,size,380x238,q,71,h,c4935e.jpg" class="lazy schowaj">
+                                                    <h3 >Żużel: Liga bez Startu i Ostrovii. Piła się wzmacnia</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/edukacja/" class="menu1Poziom" id="LinkArea:menuGl4">Edukacja</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo41">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/matura2016/" id="LinkArea:menGlPo411">Matura 2016</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/sprawdzian2015/" id="LinkArea:menGlPo412">Sprawdzian 2015</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/egzamingimnazjalny/" id="LinkArea:menGlPo413">Egzamin gimnazjalny</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/matura2015/" id="LinkArea:menGlPo414">Matura 2015</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/przedszkole/" id="LinkArea:menGlPo415">Przedszkole</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/szkolapodstawowa/" id="LinkArea:menGlPo416">Szkoła podstawowa</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/3klasa/" id="LinkArea:menGlPo417">3 klasa</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/6klasa/" id="LinkArea:menGlPo418">6 klasa</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo42">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/gimnazjum/" id="LinkArea:menGlPo421">Gimnazjum</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/liceum/" id="LinkArea:menGlPo422">Liceum</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/szkolyzzawodem/" id="LinkArea:menGlPo423">Szkoły z zawodem</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/matura/" id="LinkArea:menGlPo424">Matura</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/korepetycje/" id="LinkArea:menGlPo425">Korepetycje</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/studia/" id="LinkArea:menGlPo426">Studia</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/polekcjach/" id="LinkArea:menGlPo427">Po lekcjach</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/edukacja/olimpijczycy/" id="LinkArea:menGlPo428">Olimpijczycy</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9285631,matura-2016-terminy-egzaminow-sprawdz-kiedy-zdajesz,id,t.html" id="LinkArea:menGlM41">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/42/4f/56967778f34eb_o,size,380x238,q,71,h,7832b6.jpg" class="lazy schowaj">
+                                                    <h3 >Matura 2016 - terminy egzaminów. Sprawdź, kiedy zdajesz!</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9287949,perspektywy-2016-w-wielkopolsce-najlepsze-i-lo-w-swarzedzu-i-technikum-komunikacji-w-poznaniu,id,t.html" id="LinkArea:menGlM42">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/cb/ee/5696f373009d2_o,size,380x238,crop,0.0000x0.0000x0.9958x0.8362,q,71,h,402b26.jpg" class="lazy schowaj">
+                                                    <h3 >Perspektywy 2016: W Wielkopolsce najlepsze I LO w Swarzędzu i Technikum Komunikacji w Poznaniu</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/kultura/" class="menu1Poziom" id="LinkArea:menuGl5">Kultura</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo51">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/film/" id="LinkArea:menGlPo511">Film</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/muzyka/" id="LinkArea:menGlPo512">Muzyka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/teatr/" id="LinkArea:menGlPo513">Teatr</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/transatlantyk/" id="LinkArea:menGlPo514">Transatlantyk</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/jarocin2013/" id="LinkArea:menGlPo515">Jarocin 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/maltafestival/" id="LinkArea:menGlPo516">Malta Festival</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo52">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/glosrockfestiwal/" id="LinkArea:menGlPo521">Głos Rock Festiwal</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/literatura/" id="LinkArea:menGlPo522">Literatura</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/glosnawieniawskiego/" id="LinkArea:menGlPo523">Głos na Wieniawskiego</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/medalemlodejsztuki/" id="LinkArea:menGlPo524">Medale Młodej Sztuki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/clubbing/" id="LinkArea:menGlPo525">Clubbing</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/kultura/recenzje/" id="LinkArea:menGlPo526">Recenzje</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9293119,samuel-l-jackson-malo-brakowalo-i-nie-zagralbym-w-nienawistnej-osemce-wywiad,id,t.html" id="LinkArea:menGlM51">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/15/2f/5698af92d4761_o,size,380x238,crop,0.0020x0.0000x0.9907x0.9310,q,71,h,ae0c2d.jpg" class="lazy schowaj">
+                                                    <h3 >Samuel L. Jackson: Mało brakowało i nie zagrałbym w "Nienawistnej Ósemce" [WYWIAD]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9293776,urodzinowy-koncert-wilczego-pajaka,id,t.html" id="LinkArea:menGlM52">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/34/6f/5698d40c053e4_o,size,380x238,q,71,h,269781.jpg" class="lazy schowaj">
+                                                    <h3 >Urodzinowy koncert Wilczego Pająka</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/porady/" class="menu1Poziom" id="LinkArea:menuGl6">Porady</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo61">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/dyzurynaszychspecjalistow/" id="LinkArea:menGlPo611">Dyżury naszych specjalistów</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/twojeprawo/" id="LinkArea:menGlPo612">Twoje Prawo</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/ustawasmieciowa2013/" id="LinkArea:menGlPo613">Ustawa śmieciowa 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/podatkifinanseubezpieczenia/" id="LinkArea:menGlPo614">Podatki, Finanse, Ubezpieczenia</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/emeryturyrentyzasilki/" id="LinkArea:menGlPo615">Emerytury, Renty, Zasiłki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/domogrodmieszkanie/" id="LinkArea:menGlPo616">Dom, ogród, mieszkanie</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/zdrowiemodaurodahobby/" id="LinkArea:menGlPo617">Zdrowie, moda, uroda, hobby</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/autamotocykleirowery/" id="LinkArea:menGlPo618">Auta, motocykle i rowery</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/porady/aktywni50/" id="LinkArea:menGlPo619">Aktywni 50</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9289628,ferie-zimowe-2016-ubezpieczenie,id,t.html" id="LinkArea:menGlM61">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ab/bb/5697873ee231e_o,size,380x238,q,71,h,99ee5a.jpg" class="lazy schowaj">
+                                                    <h3 >Ferie zimowe 2016: Ubezpieczenie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9277348,prawo-jazdy-2016-nowe-przepisy-testy-pytania-i-egzamin,id,t.html" id="LinkArea:menGlM62">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/77/6d/56939b984d665_o,size,380x238,q,71,h,dd1d93.jpg" class="lazy schowaj">
+                                                    <h3 >Prawo jazdy 2016: Nowe przepisy, testy, pytania i egzamin</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9286161,seniorzy-poznan-co-warto-wiedziec-dokad-sie-wybrac-w-nadchodzacym-tygodniu,id,t.html" id="LinkArea:menGlM63">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/30/8a/5696828c75e2c_o,size,380x238,q,71,h,08770c.jpg" class="lazy schowaj">
+                                                    <h3 >Seniorzy Poznań: co warto wiedzieć? dokąd się wybrać w nadchodzącym tygodniu?</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/naszeakcje/" class="menu1Poziom" id="LinkArea:menuGl7">Nasze akcje</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo71">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/czlowiekroku/" id="LinkArea:menGlPo711">Człowiek Roku</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/sportowiecamator/" id="LinkArea:menGlPo712">Sportowiec Amator</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/eskulap2015/" id="LinkArea:menGlPo713">Eskulap 2015</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/superrolnikwielkopolski2015/" id="LinkArea:menGlPo714">Superrolnik Wielkopolski 2015</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/ikonypoznania/" id="LinkArea:menGlPo715">Ikony Poznania</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/ratujzycie/" id="LinkArea:menGlPo716">Ratuj życie!</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/uczelniawartawyboru2015/" id="LinkArea:menGlPo717">Uczelnia Warta Wyboru 2015</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/superglina2014/" id="LinkArea:menGlPo718">SuperGlina 2014</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/narzeczonapara2015/" id="LinkArea:menGlPo719">Narzeczona Para 2015</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo72">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/eskulap2014/" id="LinkArea:menGlPo721">Eskulap 2014</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/poradnikekowielkopolanina/" id="LinkArea:menGlPo722">Poradnik Eko-Wielkopolanina</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/juniormedia/" id="LinkArea:menGlPo723">Junior Media</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/naszedobrewielkopolskie/" id="LinkArea:menGlPo724">Nasze Dobre Wielkopolskie</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/jakonirzadzili/" id="LinkArea:menGlPo725">Jak oni rządzili?</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/szkolabezprzemocy/" id="LinkArea:menGlPo726">Szkoła bez przemocy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/ranking100/" id="LinkArea:menGlPo727">Ranking100</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/czerwiec56/" id="LinkArea:menGlPo728">Czerwiec56</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/pilkarzamator/" id="LinkArea:menGlPo729">Piłkarz Amator</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo73">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/naszepatronaty/" id="LinkArea:menGlPo731">Nasze patronaty</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/ipnzagadkowezdjecia/" id="LinkArea:menGlPo732">IPN: Zagadkowe Zdjęcia</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/poznanskiklubroku/" id="LinkArea:menGlPo733">Poznański Klub Roku</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/kolejorzkontratwojklub/" id="LinkArea:menGlPo734">Kolejorz kontra Twój Klub</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/atlaswielkopolski/" id="LinkArea:menGlPo735">Atlas Wielkopolski</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/misspoloniawielkopolski2013/" id="LinkArea:menGlPo736">Miss Polonia Wielkopolski 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/motorniczyroku2013/" id="LinkArea:menGlPo737">Motorniczy Roku 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/supersoltys/" id="LinkArea:menGlPo738">Supersołtys</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/dumaprzedsiebiorcy/" id="LinkArea:menGlPo739">Duma przedsiębiorcy</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo74">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/asbiznesu/" id="LinkArea:menGlPo741">As Biznesu</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/narzeczonapara2013/" id="LinkArea:menGlPo742">Narzeczona Para 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/jezdzimyzklasa/" id="LinkArea:menGlPo743">Jeździmy z klasą</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/kolekcjamapparkowkrajobrazowych/" id="LinkArea:menGlPo744">Kolekcja map parków krajobrazowych</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/sportowiecamator2013/" id="LinkArea:menGlPo745">Sportowiec Amator 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/czlowiekroku2013/" id="LinkArea:menGlPo746">Człowiek roku 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/twojsasiad/" id="LinkArea:menGlPo747">Twój sąsiad</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/kobietaprzedsiebiorcza2013/" id="LinkArea:menGlPo748">Kobieta Przedsiębiorcza 2013</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gloswielkopolski.pl/naszeakcje/uczelniawartawyboru/" id="LinkArea:menGlPo749">Uczelnia warta wyboru</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                    </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gloswielkopolski.pl/kryminalnawielkopolska/" class="menu1Poziom" id="LinkArea:menuGl8">Kryminalna Wielkopolska</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9290030,ekshibicjonista-przed-szkola-podstawowa-i-przedszkolem,id,t.html" id="LinkArea:menGlM81">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/8e/f3/56979e47600e8_o,size,380x238,q,71,h,e4cd60.jpg" class="lazy schowaj">
+                                                    <h3 >Ekshibicjonista przed szkołą podstawową i przedszkolem? </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9263150,podpalil-choinke-zeby-zabic-zone,id,t.html" id="LinkArea:menGlM82">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/af/e8/568e641078480_o,size,380x238,q,71,h,10c377.jpg" class="lazy schowaj">
+                                                    <h3 >Podpalił choinkę, żeby zabić żonę?</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9259831,byly-komornik-przywlaszczyl-3-mln-zl-do-wiezienia-nie-pojdzie,id,t.html" id="LinkArea:menGlM83">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/16/de/568d300eacdab_o,size,380x238,q,71,h,5adad0.jpg" class="lazy schowaj">
+                                                    <h3 >Były komornik przywłaszczył 3 mln zł. Do więzienia nie pójdzie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gloswielkopolski.pl/artykul/9256964,17-osob-oskarzonych-ws-gangu-sutenerow-kobiety-byly-bite-glodzone-i-wywozone-do-domow-publicznych,id,t.html" id="LinkArea:menGlM84">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/f5/d2/568c0f2921f56_o,size,380x238,q,71,h,8fd779.jpg" class="lazy schowaj">
+                                                    <h3 >17 osób oskarżonych ws. gangu sutenerów. Kobiety były bite, głodzone i wywożone do domów publicznych</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                                  <li id="biznes-menu" class="bezPodmenu">
+            <a href="http://www.strefabiznesu.gloswielkopolski.pl" class="menu1Poziom" target="_blank">Biznes</a>
+                      </li>
+                          <li id="agro-menu" class="bezPodmenu">
+            <a href="http://strefaagro.gloswielkopolski.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+        
+        <li id="ogloszenia-menu">
+          <a href="http://www.gloswielkopolski.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+                      <div class="rozwijane">
+              <a href="http://www.gratka.pl/ogloszenia/dodaj.html" target="_blank">Zamów ogłoszenie w gratce</a>
+              <a href="http://ogloszenia.gratka.pl/widget.html" target="_blank">Zamów ogłoszenie w prasie</a>
+            </div>
+                  </li>
+        <li id="wyszukaj-menu" class="bezPodmenu">
+          <a class="menu1Poziom">Szukaj</a>
+          <div class="wyszukiwarka">
+            <form action="http://www.gloswielkopolski.pl/wyszukiwanie/" method="post">
+              <input type="search" placeholder="Wpisz czego szukasz" name="szukaj_slowo" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div><div class="adSrodek row hide-for-medium-down" id="gora2">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "gora2", pokazUkryjRodzica: true, rodzic: '#gora2', cssClass: "marginD" });</script>
+</div>      <div class="row">
+                  <div id="nawigator" class="twelve columns">  <div id="lokalizator" class="row hide-for-small-down">
+    <div class="twelve columns">
+                            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+            <a href="http://www.gloswielkopolski.pl/" title="Głos Wielkopolski" itemprop="url"><span itemprop="title">Głos Wielkopolski</span></a>
+          </div>
+                                <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+          <a href="http://www.gloswielkopolski.pl/wiadomosci/" title="Wiadomości" itemprop="url"><span itemprop="title">Wiadomości</span></a>
+        </div>
+                        Semir Stilić w Galatasaray Stambuł? To plotka!
+              </div>
+  </div>
+</div>
+              </div>
+          
+    
+    <div class="kontener">
+      
+      
+                  <div class="row">
+        <div class="columns">
+          <h1>Semir Stilić w Galatasaray Stambuł? To plotka!</h1>
+        </div>
+      </div>
+            <div class="row">
+        <div id="glowna-kolumna" class="columns large-8">
+          
+                     <script type="text/javascript">
+    
+    aktualnaStrona = 0;
+</script>
+    
+
+
+
+<script type="text/javascript">
+  GR("zaladujPlikJS", "http://s-pt.ppstatic.pl/p/js/akcja.js", "plik");
+</script>
+<div class="row">
+  <article id="material" class="columns">
+      
+<header class="materialSzczegoly">
+  
+            
+      <p class="nazwisko autorPT">
+        <b>Hubert Mackowiak</b>
+              </p>
+      
+              <p class="zrodlo show-for-small-down">
+                                          <span title="Źródło materiału: Głos Wielkopolski">
+              <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/gloswielkopolski.gif?11140890123" alt="Głos Wielkopolski" >
+            </span>
+                  </p>
+      
+        
+  
+      <p class="aktualizacja">
+      <time class="show-for-medium-up" datetime="2012-01-05T08:10:02+01:00">
+        5 stycznia 2012 
+              </time>
+      <time class="show-for-small-down" datetime="2012-01-05T08:10:02+01:00">
+        05.01.2012
+              </time>
+              Aktualizacja: 
+        <time class="show-for-medium-up" datetime="2012-01-05T09:25:33+01:00">5 stycznia 2012 09:25</time>
+        <time class="show-for-small-down" datetime="2012-01-05T09:25:33+01:00">05.01.2012 09:25</time>
+          </p>
+    
+  
+      <p class="zrodlo show-for-medium-up">
+                          <span title="Źródło materiału: Głos Wielkopolski">
+          <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/gloswielkopolski.gif?11140890123" alt="Głos Wielkopolski" >
+        </span>
+          </p>
+    
+</header>
+
+  <ul id="narzedzia" data-url="http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html">
+    <li class="facebook wyzsze opis popup" data-tracker="artykul/klikniecie/fb-gora">
+      <a data-url="https://www.facebook.com/sharer/sharer.php?u=http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html&amp;title=Semir Stilić w Galatasaray Stambuł? To plotka!" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">
+          <iframe src="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href=http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;share=true&amp;width=200&amp;height=20" scrolling="no" width="200" height="20"></iframe>
+        </span>
+      </a>
+    </li>
+    <li class="twitter wyzsze opis popup">
+      <a data-url="http://twitter.com/home?status=Semir Stilić w Galatasaray Stambuł? To plotka!+http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Twitterze</span>
+      </a>
+    </li>
+    <li class="googleplus wyzsze opis popup">
+      <a data-url="https://plus.google.com/share?url=http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Google+</span>
+      </a>
+    </li>
+    
+    <li class="przeslij bezTekstu">
+      <a rel="nofollow" id="narzedzia-przeslij">Prześlij</a>
+      <div>
+        
+        <form id="form-polec" method="post">
+          <fieldset>
+            <legend>Poleć znajomemu ten artykuł</legend>
+            <label for="email">Adres email:</label>
+            <input id="email" type="text" name="email">
+            <span class="blad">Niepoprawny adres email</span>
+            <button type="submit" name="wyslij">Wyślij</button>
+          </fieldset>
+        </form>
+      </div>
+    </li>
+    <li class="drukuj opis">
+      <a href="#drukuj_dol" rel="nofollow" id="narzedzia-drukuj" onclick="window.open('/drukuj/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html', '', 'width=780,height=500,scrollbars=1');">
+        <span class="ukryty">Drukuj artykuł</span>
+      </a>
+    </li>
+    <li class="wielkosc bezTekstu">
+      <a rel="nofollow">Zmień wielkość czcionki</a>
+      <div>
+        <div class="pomniejsz" onclick="Czcionka.pomniejsz();" title="Mniejsza czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_pomniejsz.png">Mniejsza czcionka</div>
+        <div class="powieksz" onclick="Czcionka.powieksz();" title="Większa czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_powieksz.png">Większa czcionka</div>
+      </div>
+    </li>
+    <li class="komentarze wyzsze opis">
+              <a href="#dodaj-komentarz" data-tracker="artykul/klikniecie/komentarze-gora" rel="nofollow" title="3 Komentarze">
+              <div class="wartosc">3</div>
+        <span class="ukryty">Komentarze</span>
+      </a>
+    </li>
+  </ul>
+  <script>
+    
+      jQuery("#form-polec").submit(function() {
+          var wyrazenie = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+          if(wyrazenie.test(jQuery(this).find("#email").val())) {
+              jQuery(this).find("span.blad").removeClass("widoczny");
+              jQuery(this).find("#email").removeClass("blad");
+              return true;
+          } else {
+              jQuery(this).find("#email").addClass("blad");
+              jQuery(this).find("span.blad").addClass("widoczny");
+              return false;
+          }
+      });
+
+      jQuery("#narzedzia .facebook").hover(
+        function() {
+          jQuery(this).toggleClass("hover");
+          jQuery(this).click();
+        },
+        function() {
+          jQuery(this).toggleClass("hover");
+      });
+
+      var Czcionka = {
+          aktualnie : 3,
+          
+          zmien : function () {
+              jQuery("#material").attr("data-rozmiar", this.aktualnie);
+          },
+          
+          powieksz : function () {
+              if (this.aktualnie < 6) this.aktualnie++;
+              this.zmien();
+              return false;
+          },
+
+          pomniejsz : function () {
+              if (this.aktualnie > 0) this.aktualnie--;
+              this.zmien();
+              return false;
+          }
+      }
+      
+      function Pozycjonuj() {
+          var poz = jQuery("#material").offset(),
+              scrollTop = jQuery(window).scrollTop(),
+              przesuniecie = jQuery("#pasek-media-plus").outerHeight(true) + 30,
+              doWysokosci = jQuery("#material footer").offset().top - 25,
+              narzedzia = jQuery("#narzedzia");
+              
+          if(poz.top <= scrollTop + przesuniecie) {
+              if(scrollTop + przesuniecie + narzedzia.outerHeight(true) < doWysokosci) {
+                  narzedzia.css({
+                      "top": przesuniecie + 20,
+                      "position": "fixed",
+                      "left": poz.left - narzedzia.outerWidth(true),
+                  });
+              } else {
+                  narzedzia.css({
+                      "top": jQuery('#material footer').offset().top - poz.top - narzedzia.outerHeight(true) + 20,
+                      "position": "absolute",
+                      "left": -narzedzia.outerWidth(true),
+                  });
+              }
+          } else {
+              narzedzia.css({
+                  "top": 35,
+                  "position": "absolute",
+                  "left": -narzedzia.outerWidth(true),
+              });
+          }
+      }
+      
+      jQuery(window).on("scroll resize load", function(){
+          Pozycjonuj();
+      });
+      liczbySpolecznosciRegionalne();
+    
+  </script>
+      <section class="zajawka">
+      Semir Stilić niemal na pewno nie odejdzie do Galatasaray Stambuł, mimo że polskie i tureckie media informowały o zainteresowaniu ze strony Turków. &amp;quot;Turecki klub zamierza jeszcze tej zimy wykupić bośniackiego pomocnika z Lecha Poznań i jest skłonny zapłacić nawet 2,5 miliona euro&amp;quot; - taką informację jako pierwszy podał w środę portal futbolnews.pl, powołując się na wiadomości opublikowane w tureckich mediach.
+    </section>
+    
+    <div class="fotoK2 ramka">
+      <img src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/11/21/0b/4f04bd8405721_o,size,250x400,q,71,h,e91d44.jpg" alt="O ofertach dla Semira Stilica krążą legendy, ale cały czas Bośniak gra w Lechu" class="k2 lazy">
+              <p class="zdjeciePodpis">
+          O ofertach dla Semira Stilica krążą legendy, ale cały czas Bośniak gra w Lechu           <span>&copy;Fot. Marek Zakrzewski</span>        </p>
+          </div>
+  
+
+            <section id="tresc" >
+                        Według informacji portalu  www.ajansspor.com  Semir Stilić to tylko jeden z kandydatów do gry w słynnym Galatasaray Stambuł. Inni to: Australijczyk Tim Cahill z Evertonu, Czech <a href="http://wroclaw.naszemiasto.pl/artykul/1439927,euro-2012-rosicky-nie-zagra-w-meczu-z-polska,id,t.html#utm_medium=alz&utm_source=gloswielkopolski.pl&utm_campaign=artykul" target="_blank" class="alz" data-alz="tomas-rosicky">Tomas Rosicky</a> z Arsenalu Londyn, Szwajcar Xherdan Shaqiri z <a href="http://www.gloswielkopolski.pl/tag/fc-basel.html#utm_medium=alw&utm_source=gloswielkopolski.pl&utm_campaign=artykul" class="alw" data-alw="fc-basel">FC Basel</a>. <br><br><b>PRZECZYTAJ TAKŻE:</b><br><b><a href="http://www.gloswielkopolski.pl/artykul/486544,lech-poznan-wojtkowiak-i-stilic-negocjuja-kontrakty,id,t.html" title="Lech Poznań: Wojtkowiak i Stilić negocjują kontrakty">Lech Poznań: Wojtkowiak i Stilić negocjują kontrakty</a></b><br><b><a href="http://www.gloswielkopolski.pl/artykul/481768,semir-stilic-sporo-punktow-do-odrobienia,id,t.html" title="Semir Stilić: Sporo punktów do odrobienia">Semir Stilić: Sporo punktów do odrobienia</a></b><br><b><a href="http://www.gloswielkopolski.pl/artykul/481710,semir-stilic-pozegna-sie-z-lechem-poznan,id,t.html" title="Semir Stilić pożegna się z Lechem Poznań? ">Semir Stilić pożegna się z Lechem Poznań? </a></b><br><div id="reklama_srodtekst_0" class="adSrodekSzeroki reklama_srodtekst"><div class="pt_srodtekst"><div class="clear">
+              <script type="text/javascript">
+                GR("wstawReklame","srodek1");
+              </script></div></div></div><br>Jak udało nam się dowiedzieć, na razie jednak Stilić nie odejdzie do Galatasaray Stambuł. Podana przez tureckie i polskie media wiadomość o propozycji ze strony słynnego tureckiego klubu nie jest prawdziwa. <br><br>- Często jest tak, że jedna gazeta poda informację, a inne także je zamieszczają. Tak jest w tym przypadku - powiedział nam w środę Christian Hauser, reprezentujący interesy Semira Stilicia. Jak zaznaczył, sytuacja wygląda podobnie do tej, która miała miejsce latem. - Wtedy też dziennikarze i kibice widzieli Semira w klubach Bundesligi i niemal oficjalnie go żegnali. W czerwcu i lipcu były jakieś zapytania. Teraz o transferze nic mi nie wiadomo - ucina te spekulacje Christian Hauser.<br><br>Co się stanie ze Stiliciem w najbliższych dniach?  - Obecnie Semir ma urlop i odpoczywa od piłki. Z tego co mi wiadomo, to nawet nie interesuje się tymi spekulacjami. Zresztą będziemy go informować tylko o prawdziwych ofertach z zagranicy. Takie nieprawdziwe wiadomości tylko psują negocjacje z klubami, które naprawdę mogłyby zaproponować przenosiny naszego piłkarza - zaznacza agent pracujący dla Lian Sports GmbH, firmy, z którą podpisaną umowę ma Stilić.  <br><br>Warto zauważyć, że Galatasaray stawia raczej na zawodników ligi tureckiej albo na uznane nazwiska z zachodniej Europy. Piłkarze spoza Turcji, podpisujący kontrakty, wcześniej grali w takich klubach, jak <a href="http://www.gloswielkopolski.pl/tag/atletico-madryt.html#utm_medium=alw&utm_source=gloswielkopolski.pl&utm_campaign=artykul" class="alw" data-alw="atletico-madryt">Atletico Madryt</a>, Lazio Rzym, Juventus Turyn, czy Olympique Lyon. Kupienie Stilicia byłoby nie w stylu tureckiego potentata.<br><br>Bośniacki piłkarz nie podpisał nowej umowy z Lechem. Obecna wygasa w czerwcu. <br><br>- Mogę zapewnić, że Semir w Poznaniu nie czuje się źle i nie gra w Lechu  za karę. Ma jeszcze ważny kontrakt, więc będzie jak najlepiej reprezentował barwy klubu. Dokładnie za tydzień wraca do Polski i będzie przygotowywał się ze swoim klubem do rundy wiosennej.  To pewne - twierdzi nasz informator. <br>- Semirowi przedstawiliśmy swoją ofertę i daliśmy czas do namysłu. Po jego powrocie wrócimy do rozmów - powiedział Andrzej Dawidziuk, dyrektor sportowy Lecha. <br><br>Latem bośniackie media, a za nimi też polskie, pisały o zainteresowaniu Borussii Moenchengladbach i FSV Mainz. Piłkarz sam zaznaczał, że miał propozycję z Rosji, ale ten kierunek go nie interesował.<br>
+                                                                    </section>
+
+    <footer class="row">
+                    <div id="nota-wydawnicza" class="columns">
+          <div class="right">
+            <p class="chmurka" >Rozpowszechnianie niniejszego artykułu możliwe jest tylko i&nbsp;wyłącznie
+              zgodnie z postanowieniami <a href="http://www.gloswielkopolski.pl/artykul/3712146,nota-wydawnicza,id,t.html">&bdquo;Regulaminu korzystania z&nbsp;artykułów prasowych&rdquo;</a> i&nbsp;po wcześniejszym uiszczeniu należności, zgodnie z&nbsp;<a href="http://www.gloswielkopolski.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapresse,id,t.html">cennikiem</a>.
+            </p>
+          </div>
+        </div>
+      
+        
+      <div class="columns">
+          <div id="material-tagi">
+      Tagi:
+      <ul>
+                  <li><a data-tracker="nowa_karta/tag/1" href="/tag/lech-poznan.html">Lech Poznań</a></li>
+                  <li><a data-tracker="nowa_karta/tag/2" href="/tag/umowa.html">umowa</a></li>
+                  <li><a data-tracker="nowa_karta/tag/3" href="/tag/ekstraklasa.html">Ekstraklasa</a></li>
+                  <li><a data-tracker="nowa_karta/tag/4" href="/tag/kontrakt.html">kontrakt</a></li>
+                  <li><a data-tracker="nowa_karta/tag/5" href="/tag/semir-stilic.html">semir stilić</a></li>
+                  <li><a data-tracker="nowa_karta/tag/6" href="/tag/galatasaray.html">Galatasaray</a></li>
+                  <li><a data-tracker="nowa_karta/tag/7" href="/tag/pilkarz-lecha.html">piłkarz Lecha</a></li>
+                  <li><a data-tracker="nowa_karta/tag/8" href="/tag/zawodnik-lecha.html">zawodnik Lecha</a></li>
+              </ul>
+  </div>
+
+      </div>
+
+      <div class="waskiAddthis columns"><div addthis:url="http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html" class="addthis_toolbox addthis_default_style  "><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_button_tweet" ></a></div><script type="text/javascript">GR("dodajOnload", function() { addthis.init(); } );</script></div>        </footer>
+    <div id="sonda-mobile" class="row"></div>
+              <div class="row">
+        <div class="columns">
+          <div class="contentStream kd_ns_placement" data-ns-type="simplePlacement4" data-ns-hash="78210614feda98e437332652166d8c2b">
+            <script src="http://emisja.contentstream.pl/aldente/kd_process_function.js" async="async" ></script>
+          </div>
+        </div>
+      </div>
+      </article>
+</div>
+
+
+
+<script type="text/javascript">
+(function() {
+var strona = 1, strony = false;
+(function(d){var c=1,b,f=$("material-tagi").getElementsByTagName("a"),a=f.length;for(b=0;b<a;b++){var e=f[b].innerHTML.replace(" ","-").toLowerCase();d.push({elements:[f[b]],href:"/onclick/tag/"+e})}GR("$$","materialZrodlo",$("material"),"",function(g){d.push({elements:[g],href:"/onclick/zrodlo/link"})});d.push({elements:[GR("$","zmniejszTekst")],href:"/onclick/narzedzia/tekst-zmniejsz"});d.push({elements:[GR("$","powiekszTekst")],href:"/onclick/narzedzia/tekst-powieksz"});d.push({elements:[GR("$","narzedzia-komentarze")],href:"/onclick/narzedzia/komentarze"});d.push({elements:[GR("$","narzedzia-przeslij")],href:"/onclick/narzedzia/przeslij"});d.push({elements:[GR("$","narzedzia-drukuj")],href:"/onclick/narzedzia/drukuj"});d.push({elements:[$("zmniejszTekst")],href:"/onclick/material/zmniejsz-tekst"});d.push({elements:[$("powiekszTekst")],href:"/onclick/material/powieksz-tekst"});d.push({elements:[$("narzedziaWyslijZnajomym")],href:"/onclick/material/wyslij-znajomym"});d.push({elements:[$("drukuj_gora")],href:"/onclick/material/drukuj-gora"});jQuery("#mat-podobne a").each(function(){d.push({elements:[this],href:"/onclick/boks-podobne/link-"+c++})})})(oG_OSA.tracking);(function(){var e=GR("$","sm-sa"),c=GR("pobierzPozycje",e),a=40;if(jQuery("#sm-sa").attr("data-odstep")){a=parseInt(jQuery("#sm-sa").attr("data-odstep"))}function b(){if(c==undefined){return}var f=GR("pobierzPozycjeScroll");if(f[1]>c.y-a){e.style.position="fixed";e.style.top=a+"px"}else{e.style.position="absolute";e.style.top=0+"px"}}GR("dodajOnload",function(){setTimeout(function(){c=GR("pobierzPozycje",e);Zdarzenia.zaczep(window,"scroll",b);Zdarzenia.zaczep(window,"resize",b);b()},1000)});var d="medium";przesunSondeNaDol=function(f){var h,g=typeof f=="undefined"||f.matches;if(g&&d!="small"){h=jQuery("#sonda-mobile");if(h){h.append(jQuery(".sondaMaterial aside:visible"));d="small"}}},przeniesSondeDoTresci=function(f){var g=typeof f=="undefined"||f.matches;if(g&&d=="small"){jQuery(".sondaMaterial:visible").append(jQuery("#sonda-mobile aside"));d="medium"}},obsluzZmianeRozmiaru=function(){var f=jQuery(window).width();if(f<480){przesunSondeNaDol()}else{przeniesSondeDoTresci()}};if(window.matchMedia){smallCheck=window.matchMedia("(max-width: 479px)");fullCheck=window.matchMedia("(min-width: 480px)");smallCheck.addListener(przesunSondeNaDol);fullCheck.addListener(przeniesSondeDoTresci)}else{jQuery(window).resize(obsluzZmianeRozmiaru);obsluzZmianeRozmiaru()}obsluzZmianeRozmiaru()}());(function(){if(!!window.chrome){for(var a=0;a<strony;a++){if((strona-1)!==a){jQuery("#tresc_"+a).empty()}}}jQuery(document).ready(function(){jQuery("#tresc .pokazMiniatury").toggle(function(){jQuery(this).addClass("rozwiniete").html("Ukryj miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").show();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").hide()},function(){jQuery(this).removeClass("rozwiniete").html("Pokaż miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").hide();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").show()})})})();
+})();
+</script>
+
+  <script type="text/javascript">
+GR('wywolajReklamy', 1, 'WajrcbEjiE5NjjhWT.F9hszEw4SmgtKB.na2_lQK19n.L7', function() {
+    if ('function' === typeof adoceangratkaplrfdfgrfhgt) {
+        adoceangratkaplrfdfgrfhgt();
+    }
+});
+GR('wstawReklame', 'verboomInterText');
+</script>
+
+  <script type="text/javascript">
+      (function($) {
+          if (!$.browser.opera) {
+              GR('pDodajdozaznaczenia', {
+                  pole: $('#material')
+              });
+          };
+      })(jQuery);
+</script>
+  <div id="srodek2" class="row textC hide-for-medium-down">
+    
+      <script type="text/javascript">
+        GR("wstawReklame", {nazwa: "srodek2", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek2', szerokosc: 985, mierzOkno: true});
+      </script>
+    
+  </div>
+<section id="material-komentarze" class="row">
+  <header class="columns">
+    <h2>Komentarze</h2>
+          <div class="sortowanie">
+                  <a href="490508,semir-stilic-w-galatasaray-stambul-to-plotka,-1,id,t,so.html#art-komentarze" class="wybrane">najnowsze</a>
+                  <a href="490508,semir-stilic-w-galatasaray-stambul-to-plotka,1,id,t,so.html#art-komentarze">najstarsze</a>
+              </div>
+      </header>
+
+  
+            <div id="dodaj-komentarz" class="columns">
+        <form id="form-komentarz" class="formKomentarz row" action="#material-komentarze" method="post">
+          <div class="medium-2 columns avatar">
+                          <img width="120" height="120" src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="">
+                      </div>
+          <div class="medium-10 columns">
+            <p class="autor">Dodajesz komentarz jako: <b>Gość</b></p>
+            <p>
+              <input type="hidden" name="dodaj_komentarz" value="1">
+              <input type="hidden" name="id_post_rodzic" value="0">
+              <input type="hidden" name="id_post_korzen" value="0">
+              <input type="hidden" id="zwin-rozwin-wszystkie" value="1">
+              <input type="hidden" name="regulamin" value="1">            </p>
+            <p>
+              <label for="komentarz-temat">Tytuł komentarza</label>
+              <input type="text" name="temat" id="komentarz-temat" value="">
+            </p>
+                          <p>
+                <label for="komentarz-podpis">Podpis</label>
+                <input type="text" name="autor" id="komentarz-podpis" value="">
+              </p>
+                        <p class="tresc">
+              <label for="komentarz-tresc">Komentarz</label>
+              <textarea name="tresc" rows="4" cols="96" id="komentarz-tresc"></textarea>
+            </p>
+
+            <p class="regulamin medium-6 columns">
+              Dodając komentarz, akceptujesz <a class="regulaminLink" target="_blank" href="http://www.gloswielkopolski.pl/regulamin/">regulamin forum</a>
+            </p>
+
+            <p class="pozostalo medium-6 columns">
+              <span id="komentarz-tresc-limit">Liczba znaków do wpisania: <b></b></span>
+            </p>
+
+            <p class="right">
+              <input type="submit" name="dodaj_komentarz" value="Dodaj komentarz" class="button">
+              <a href="http://www.gloswielkopolski.pl/logowanie/" class="loginWarstwa button">zaloguj się</a>            </p>
+          </div>
+        </form>
+      </div>
+      
+  <div id="dodaj-odpowiedz" class="columns" style="display:none;">
+              <form class="formKomentarz" action="#dodaj-odpowiedz" method="post">
+        <p class="autor">Dodajesz komentarz jako: <b>Gość</b></p>
+        <p>
+          <input type="hidden" name="dodaj_komentarz" value="1">
+          <input type="hidden" name="id_post_rodzic" id="id-post-rodzic" value="">
+          <input type="hidden" name="id_post_korzen" id="id-post-korzen" value="">
+          <input type="hidden" name="strona" id="id-post-strona" value="">
+          <input type="hidden" name="regulamin" value="1">        </p>
+        <p>
+          <label for="odpowiedz-temat">Tytuł komentarza</label>
+          <input class="inputText" type="text" name="temat" id="odpowiedz-temat" placeholder="Tytuł" value="">
+        </p>
+        <p>
+                      <label for="odpowiedz-podpis">Podpis</label>
+            <input class="inputText" type="text" name="autor" id="odpowiedz-podpis" value="" placeholder="Podpis">
+                 </p>
+        <p>
+          <label for="odpowiedz-tresc">Komentarz</label>
+          <textarea name="tresc" rows="4" cols="96" id="odpowiedz-tresc" placeholder="Treść komentarza"></textarea>
+        </p>
+        <p class="left">
+           Dodając komentarz, akceptujesz <a class="regulaminLink" href="http://www.gloswielkopolski.pl/regulamin/" target="_blank">regulamin forum</a>
+        </p>
+        <p class="right">
+          <input type="submit" name="dodaj_komentarz" value="dodaj" class="button">
+          <a href="http://www.gloswielkopolski.pl/logowanie/" class="loginWarstwa button">zaloguj się</a>        </p>
+      </form>
+      </div>
+
+  <div class="forumZglos" id="zglos-naruszenie" style="display: none; ">
+    <b>Uzasadnij naruszenie regulaminu:</b>
+    <form class="formUsunOdp" method="post" id="form-zglos-naruszenie">
+      <p>
+        <input type="hidden" name="zglos_post" id="zglos-post" value="">
+        <textarea name="komunikat"></textarea>
+      </p>
+      <p class="przyciskUsun right"><input type="submit" class="button" name="zglos_watek" value="Zgłoś naruszenie"></p>
+    </form>
+  </div>
+  
+    <div id="art-komentarze" class="columns">
+            
+    <div id="komentarz-1909086" data-id="1909086" data-id-watek="136679" data-id-material="490508" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>Przecież mówił, że nie chce do Turcji i Rosji, nie interesuje go żaden z tych kierunków...</h4>
+            <p class="metryka">
+                              <b>bl2</b> (gość)
+                            <time datetime="2012-01-05T18:46:41+01:00">05.01.12,&nbsp;18:46:41</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1909086); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1909086" class="kciuki">
+                                <a href="?id_post=1909086&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1909086-136679-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>19</span> </a>
+                <a href="?id_post=1909086&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1909086-136679-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>17</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">To jest ambitny facet, więc czeka na sensowną ofertę. Cierpliwość się opłaca, więc myślę, że jemu też się opłaci i przyszłość przyniesie mu coś dobrego. I nie tylko jemu, innym chłopakom z Lecha...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">To jest ambitny facet, więc czeka na sensowną ofertę. Cierpliwość się opłaca, więc myślę, że jemu też się opłaci i przyszłość przyniesie mu coś dobrego. I nie tylko jemu, innym chłopakom z Lecha też.<br />
+<br />
+Zresztą dajcie chociaż na chwilę spokój Stiliciowi, niech sobie odpocznie od mediów, dużo mu dały w kość w ostatnich tygodniach, zwłaszcza klubowe i Głos. <br />
+<br />
+Napiszcie na jakim etapie są negocjacje z Tomkiem Bandrowskim, Wojtkowiakiem, kiedy będą z Injacem, Kikutem, co dalej ze Ślusarzem, z Ubiparipem, czy mają jakieś plany w związku z Djuką, Kotorem, bo też czekamy na wiadomości co do tych zawodników. <span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1909086">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1909086, 1909086, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1909086"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1907577" data-id="1907577" data-id-watek="136679" data-id-material="490508" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>heh..:)</h4>
+            <p class="metryka">
+                              <b>MKS</b> (gość)
+                            <time datetime="2012-01-05T12:53:49+01:00">05.01.12,&nbsp;12:53:49</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1907577); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1907577" class="kciuki">
+                                <a href="?id_post=1907577&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1907577-136679-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>21</span> </a>
+                <a href="?id_post=1907577&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1907577-136679-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>7</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p>a co jeszcze "twierdzi wasz informator"..:)???? o której kończy zmianę na portierni...:)?</p>
+                                    </div>
+                                <div id="zwin-rozwin-1907577">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1907577, 1907577, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1907577"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1906933" data-id="1906933" data-id-watek="136679" data-id-material="490508" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>Haha</h4>
+            <p class="metryka">
+                              <b>Widze ciemność</b> (gość)
+                            <time datetime="2012-01-05T10:19:18+01:00">05.01.12,&nbsp;10:19:18</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1906933); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1906933" class="kciuki">
+                                <a href="?id_post=1906933&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1906933-136679-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>7</span> </a>
+                <a href="?id_post=1906933&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1906933-136679-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>22</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p>Nikt nie chce wykładać kasy za zawodników rozleniowych przez trenerów i zarząd Lecha. </p>
+                                    </div>
+                                <div id="zwin-rozwin-1906933">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1906933, 1906933, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1906933"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+      
+  </div>
+  
+ 
+
+</section>
+<script type="text/javascript">
+  GR('zaladujPlikJS', 'http://s-pt.ppstatic.pl/p/js/komentarze.js?11140890');
+
+
+  jQuery('#art-komentarze input[name="usun_watek"]').click(function() {
+      if (confirm("Czy na pewno chcesz usunąć wątek?")) {
+          return true;
+      }
+      return false;
+  });
+    
+  jQuery('#material-komentarze input[name="dodaj_komentarz"]').click(function() {
+      var submit = jQuery(this);
+      if (submit.data('wyslane') === true) {
+          return false;
+      } else {
+          submit.data('wyslane', true);
+      }
+  });
+    
+  GR("o_formularz_inicjalizuj", "form-komentarz", {multi: "fK", "plik": sUrl + "/p/js/komentarze_formularz.js"});
+  
+  jQuery(document).ready(function(){
+    var max = 4000;
+    
+    function przelicz_znaki() {
+      var self = jQuery('#komentarz-tresc');
+      if (self.length == 0) {
+        return;
+      }
+      if (jQuery(self).val().length > max){
+        jQuery(self).val(jQuery(self).val().substr(0, max));
+      }
+
+      ilosc_znakow = max - jQuery(self).val().length;
+      ilosc_enterow = jQuery(self).val().split(/\\n/).length - 1;
+      ilosc_znakow = ilosc_znakow + ilosc_enterow - ilosc_enterow*100;
+      jQuery('#komentarz-tresc-limit > b').html(''+(ilosc_znakow)+'');
+    }
+  
+    przelicz_znaki();
+    jQuery('#komentarz-tresc').keyup(function() {
+      przelicz_znaki();
+    });
+  });
+  podepnij_kciuki = function(idx, self) {
+    var tmp = jQuery(self).attr('id').split('-'), id_post = tmp[1], ocena = tmp[0] == 'plus' ? 1 : -1, 
+      id_watek = tmp[2], strona = tmp[3], sortowanie = tmp[4];
+    jQuery(self).click(function(event) {
+      event.preventDefault();
+      ocen(id_post, ocena, id_watek, strona, sortowanie, jQuery(this).find('span'));
+    });
+  };
+  
+  jQuery('.kciukGora, .kciukDol').each(podepnij_kciuki);
+  
+  
+  (function(){
+    var dane_kontroler = {
+      katalog : "/artykul/",
+      wartosc : "490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t",
+      rozszerzenie : "html",
+      strona : 1,
+      async: 1,
+      regionalne: 1
+    };
+    id_modul = 1000;
+    liczba_stron = 1;
+
+    function pokaz_formularz_z_bledami() {
+      odpowiedz(0, 0, 1);
+    }
+
+    
+    
+
+    var wiecej = jQuery(document.createElement('input')).attr('id', 'komentarze-wiecej').attr('type', 'button')
+      .val('Pokaż więcej komentarzy').addClass('button').click(function() {
+        pobierz_nastepna_strone(false);
+
+        if (liczba_stron <= dane_kontroler.strona) {
+          jQuery('#komentarze-wiecej').remove();
+        }
+      });
+      
+      function pobierz_nastepna_strone(wszystkie) {
+          dane_kontroler.strona++;
+          jQuery.get('/ajax/laduj_asynchronicznie/'+id_modul+'.html', dane_kontroler, function(data) {
+            jQuery('#art-komentarze').append(data).find('.kciukGora, .kciukDol').each(podepnij_kciuki);
+            if (wszystkie && dane_kontroler.strona < liczba_stron) {
+                pobierz_nastepna_strone(wszystkie);
+            }
+          });
+      }
+      
+      var wszystkie = jQuery(document.createElement('input')).attr('id', 'komentarze-wszystkie').attr('type', 'button')
+      .val('Pokaż wszystkie komentarze').addClass('button').click(function() {
+        jQuery('#komentarze-wiecej').remove();
+        jQuery(this).hide();
+        pobierz_nastepna_strone(true);
+      });
+    jQuery('#art-komentarze .stronicowanie').remove();
+
+    if (liczba_stron > dane_kontroler.strona) {
+      jQuery('#art-komentarze').after(wiecej);
+      
+            
+      tr = [];
+      
+    }
+    
+    tr = [];
+    tr.push({elements: GR('$$', 'regulaminLink', $('dodaj-komentarz')), href: '/onclick/komentarze/dodaj-komentarz-regulamin-link'});
+    tr.push({elements: GR('$$', 'regulaminLink', $('dodaj-odpowiedz')), href: '/onclick/komentarze/dodaj-odpowiedz-regulamin-link'});
+    tr.push({elements: GR('$$', 'przyciskWyslij', $('dodaj-komentarz')), href: '/onclick/komentarze/dodaj-komentarz-wyslij'});
+    tr.push({elements: GR('$$', 'przyciskWyslij', $('dodaj-odpowiedz')), href: '/onclick/komentarze/dodaj-odpowiedz-wyslij'});
+    tr.push({elements: [$('link-zwin-rozwin-wszystkie')], href: '/onclick/komentarze/zwin-wszystkie'});
+    tr.push({elements: GR('$$', 'kciukGora', $('art-komentarze')), href: '/onclick/komentarze/kciuk-gora'});
+    tr.push({elements: GR('$$', 'kciukDol', $('art-komentarze')), href: '/onclick/komentarze/kciuk-dol'});
+    tr.push({elements: GR('$$', 'komentarzOdpowiedz', $('art-komentarze')), href: '/onclick/komentarze/odpowiedz'});
+    GR('$$', 'ikonaNarzedzia', $('art-komentarze'), '', function(e) {
+      var nazwa = e.innerHTML.replace(" ", "-");
+      tr.push({elements: [e], href: '/onclick/komentarze/' + nazwa.trim()});
+    });
+    tr.push({elements: [$('komentarze-wiecej')], href: '/onclick/komentarze/pokaz-wiecej'});
+    GR('oTrackEvents', tr);
+    
+  })();
+
+
+    (function($){
+        $(document).on('click', '#art-komentarze .koment .wiecej', function() {
+            $(this).parents('.tresc').find('.pelnaTresc').removeClass('schowaj');
+            $(this).parents('.krotkaTresc').addClass('schowaj');
+        });
+        $(document).on('click', '#art-komentarze .koment .mniej', function(){
+            $(this).parents('.pelnaTresc').addClass('schowaj');
+            $(this).parents('.tresc').find('.krotkaTresc').removeClass('schowaj');
+        });
+        if (window.location.hash && window.location.hash.match(/komentarz-\d/)) {
+            $(window).load(function() {
+                setTimeout(function() {
+                    window.scrollTo(0, $(window.location.hash).offset().top - 50);
+                }, 1000);
+            });
+        }
+    })(jQuery)
+</script>
+<div id="srodek3" class="row textC adSrodek hide-for-medium-down">
+  <script type="text/javascript">
+    GR("wstawReklame", {nazwa: "srodek3", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek3', szerokosc: 1200, mierzOkno: true});
+  </script>
+</div>
+  <div id="okazjon" class="row textC">
+    <script type="text/javascript">
+      GR("wstawReklame", {nazwa: "okazjon", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#okazjon', szerokosc: 1200, mierzOkno: true});
+    </script>
+  </div>
+         </div>
+        <div id="prawa-kolumna" class="columns show-for-large-up large-4">
+           <section class="blok aktualnosci">
+  <header>
+    <a data-tracker="nowa_karta/aktualnosci/naglowek" href="http://www.gloswielkopolski.pl/aktualnosci/">
+      <h2>Najnowsze wiadomości</h2>
+    </a>
+  </header>
+  <ul>
+          <li>
+        <time datetime="2016-01-15T16:09:00+01:00">16:09</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/1" href="//www.gloswielkopolski.pl/artykul/9284791,targi-slubne-2016-najladniejsze-modelki-w-sukniach-slubnych-i-bieliznie,id,t.html">
+            <span>Targi Ślubne 2016: Najładniejsze modelki w sukniach ślubnych i bieliźnie</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T15:01:02+01:00">15:01</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/2" href="//www.gloswielkopolski.pl/artykul/9286435,zkzl-nagrodzony-za-najlepsza-inwestycje,id,t.html">
+            <span>ZKZL nagrodzony za  najlepszą inwestycję</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T15:00:04+01:00">15:00</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/3" href="//www.gloswielkopolski.pl/artykul/9294310,poznan-czesc-ul-gdynskiej-i-chartowo-zostanie-zamknieta,id,t.html">
+            <span>Poznań: Część ul. Gdyńskiej i Chartowo zostanie zamknięta</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T14:29:00+01:00">14:29</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/4" href="//www.gloswielkopolski.pl/artykul/9294398,rowerowa-droga-szybkiego-ruchu-poznan-wroclaw,id,t.html">
+            <span>Rowerowa droga szybkiego ruchu Poznań - Wrocław?</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T14:00:00+01:00">14:00</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/5" href="//www.gloswielkopolski.pl/artykul/9293932,wybierz-najpiekniej-oswietlone-miasto-w-polsce-i-zdecyduj-do-kogo-trafi-warta-50-tys-zl-pomoc,id,t.html">
+            <span>Wybierz najpiękniej oświetlone miasto w Polsce i zdecyduj do kogo trafi warta 50 tys. zł pomoc!</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T13:47:16+01:00">13:47</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/6" href="//www.gloswielkopolski.pl/artykul/9294150,zdm-poznan-uwaga-na-zamkniecia-ulic-i-chodnikow,id,t.html">
+            <span>ZDM Poznań: Uwaga na zamknięcia ulic i chodników</span>
+          </a>
+          
+        </p>
+      </li>
+            <script type="text/javascript">GR("wstawReklame","link1", '', '', '', false);</script>
+  </ul>
+  <a class="zobaczWiecej" href="http://www.gloswielkopolski.pl/aktualnosci/" data-tracker="nowa_karta/aktualnosci/zobacz_wiecej"><span>Zobacz więcej</span></a>
+</section>
+  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa1">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa1", cssStyle: "margin-bottom: 5px", rodzic: '#prawa1', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+  <h2>Najczęściej czytane</h2>
+</header>
+<div id="najczesciej-czytane" class="row ranking">
+  <ol class="columns" id="LinkArea:najCzyt">
+                  <li>
+          <a href="//www.gloswielkopolski.pl/artykul/9287949,perspektywy-2016-w-wielkopolsce-najlepsze-i-lo-w-swarzedzu-i-technikum-komunikacji-w-poznaniu,id,t.html" id="LinkArea:najCzyt1" data-tracker="nowa_karta/najczesciejczytane/1">
+            <span>Perspektywy 2016: W Wielkopolsce najlepsze I LO w Swarzędzu i...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gloswielkopolski.pl/artykul/9278243,poznan-spor-o-lampy-moze-opoznic-otwarcie-kaponiery,id,t.html" id="LinkArea:najCzyt2" data-tracker="nowa_karta/najczesciejczytane/2">
+            <span>Poznań: Spór o lampy może opóźnić otwarcie Kaponiery?</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gloswielkopolski.pl/artykul/9278323,wielkopolska-imgw-znowu-ostrzega-tym-razem-przed-mgla,id,t.html" id="LinkArea:najCzyt3" data-tracker="nowa_karta/najczesciejczytane/3">
+            <span>Wielkopolska: IMGW znowu ostrzega - tym razem przed mgłą!</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gloswielkopolski.pl/artykul/9278443,hamalainen-kua-stara-kibice-lecha-wywiesili-transparent-na-boisku-treningowym-zdjecia,id,t.html" id="LinkArea:najCzyt4" data-tracker="nowa_karta/najczesciejczytane/4">
+            <span>"Hamalainen ku..a stara". Kibice Lecha wywiesili transparent na...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gloswielkopolski.pl/artykul/9279223,minister-finansow-w-poznaniu-wiek-emerytalny-musi-poczekac,id,t.html" id="LinkArea:najCzyt5" data-tracker="nowa_karta/najczesciejczytane/5">
+            <span>Minister finansów w Poznaniu: Wiek emerytalny musi poczekać</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gloswielkopolski.pl/artykul/9291934,alarm-w-allegro-policja-postawiona-na-nogi-na-miejscu-osiem-radiowozow,id,t.html" id="LinkArea:najCzyt6" data-tracker="nowa_karta/najczesciejczytane/6">
+            <span>Alarm w Allegro! Policja postawiona "na nogi" - na miejscu osiem...</span>
+          </a>
+          
+        </li>
+            </ol>
+</div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa2">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa2", cssStyle: "margin-bottom: 5px", rodzic: '#prawa2', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+      <a href="http://www.gloswielkopolski.pl/wiadomosci/" data-tracker="nowa_karta/autopromocja/gora/naglowek" title="Gorący temat">
+    <h2>Gorący temat</h2>
+      </a>
+  </header>
+<div class="autopromocja gora" id="LinkArea:promArBg">
+            <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/1"  href="http://www.gloswielkopolski.pl/studniowki/" id="LinkArea:promArBg1">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/3f/7a/569395b6ac419_k27.jpg?1452771729" alt="Studniówki 2016 w Poznaniu. Znajdź się na zdjęciach!">
+        <p>Studniówki 2016 w Poznaniu. Znajdź się na zdjęciach!</p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/2"  href="http://www.gloswielkopolski.pl/edukacja/matura2016/" id="LinkArea:promArBg2">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/7c/0b/569788beb8fe0_k27.jpg?1452771729" alt="Próbna matura 2016">
+        <p>Próbna matura 2016</p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/3"  target="_blank"  href="http://www.motofakty.pl/" id="LinkArea:promArBg3">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/20/c4/5665797d7ae78_k27.jpg?1452771729" alt="Motofakty.pl">
+        <p>Motofakty.pl</p>
+      </a>
+      </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa3">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa3", cssStyle: "margin-bottom: 5px", rodzic: '#prawa3', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok wideoMaterial">
+  <header>
+    <h2>Wideo</h2>
+  </header>
+  <div class="materialy">
+          <a href="//www.gloswielkopolski.pl/artykul/9284791,targi-slubne-2016-najladniejsze-modelki-w-sukniach-slubnych-i-bieliznie,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt1" data-tracker="nowa_karta/wideo_artykul/1">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/67/c6/5696297b4a5e2_o,size,445x270,crop,0.0300x0.1360x0.9400x0.8560,q,71,h,2b5670.jpg" alt="Targi Ślubne, Najładniejsze modelki - Legnica 2009">
+            <h3>Targi Ślubne 2016: Najładniejsze modelki w sukniach...</h3>
+    </a>
+    
+          <a href="//www.gloswielkopolski.pl/artykul/9293119,samuel-l-jackson-malo-brakowalo-i-nie-zagralbym-w-nienawistnej-osemce-wywiad,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt2" data-tracker="nowa_karta/wideo_artykul/2">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/15/2f/5698af92d4761_o,size,445x270,crop,0.0000x0.0010x0.9960x0.9060,q,71,h,ff9649.jpg" alt="Samuel L. Jackson w &amp;quot;Nienawistnej Ósemce&amp;quot;">
+            <h3>Samuel L. Jackson: Mało brakowało i nie zagrałbym w...</h3>
+    </a>
+    
+          <a href="//www.gloswielkopolski.pl/artykul/9293500,zamachy-w-paryzu-zidentyfikowano-kolejnego-zamachowca-to-marokanczyk-chakib-akrough,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt3" data-tracker="nowa_karta/wideo_artykul/3">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d0/14/5698c5bc79853_o,size,445x270,q,71,h,90240b.jpg" alt="Chakib Akrough">
+            <h3>Zamachy w Paryżu: Zidentyfikowano kolejnego zamachowca....</h3>
+    </a>
+    
+          <a href="//www.gloswielkopolski.pl/artykul/9288827,mistrzostwa-europy-w-pilce-recznej-2016-z-kim-zagra-polska-gdzie-ogladac-transmisje-bilety,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt4" data-tracker="nowa_karta/wideo_artykul/4">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b0/d4/56976952d4fe2_o,size,445x270,crop,0.0000x0.0610x0.9960x0.9060,q,71,h,937bf5.jpg" alt="Reprezentacja Polski rozegra swoje mecze w Krakowie">
+            <h3>Mistrzostwa Europy w piłce ręcznej 2016: Z kim zagra...</h3>
+    </a>
+    
+    </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa4">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa4", cssStyle: "margin-bottom: 5px", rodzic: '#prawa4', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section id="Plista">
+  <div data-widget="plista_widget_sidebar"></div>
+  <script type="text/javascript">
+  if (!window.PLISTA || !PLISTA.publickey) {
+      window.PLISTA = {
+          publickey: '517cbc4f5940e8e8cf97046c',
+          item:           {
+              objectid: '490508',//unique ID, alphanumeric
+              title: 'Semir Stilić w Galatasaray Stambuł? To plotka!',//max 255 characters
+              text: 'Semir Stilić niemal na pewno nie odejdzie do Galatasaray Stambuł, mimo że polskie i tureckie media informowały o zainteresowaniu ze strony Turków. &quot;Turecki klub zamierza jeszcze tej zimy wykupić bośniackiego pomocnika z Lecha Poznań i jest skłonny zapłacić...',//max 255 characters
+              url: 'http://www.gloswielkopolski.pl/artykul/490508,semir-stilic-w-galatasaray-stambul-to-plotka,id,t.html',//max 1024 characters
+              img: 'http://d-pt.ppstatic.pl/k/r/11/21/0b/4f04bd8405721_p.jpg?1353384594',//max 255 characters
+              created_at: '1325747402'//UNIX timestamp
+          }
+                };
+      (function(){
+          var n='script',d=document,s=d.createElement(n),s0=d.getElementsByTagName(n)[0];
+          s.async='async';
+          s.type='text/javascript';
+          s.src=(d.location.protocol==='https:'?'https:':'http:')+'//static.plista.com/async.js';
+          s0.parentNode.insertBefore(s,s0);
+      }());
+  }
+  //if possible place this script tag just before the closing body tag
+  </script>
+</section>
+         </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="twelve columns" id="reklama-dol1">
+        <script type="text/javascript">GR("wstawReklame",{nazwa: "dol1", rodzic: '#reklama-dol1', szerokosc: 970, mierzOkno: true,pokazUkryjRodzica: true});</script>
+      </div>
+    </div>
+
+          <footer>
+        <div class="adSrodek" id="tapeta">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "tapeta", pokazUkryjRodzica: true, rodzic: '#tapeta', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div class="adSrodek" id="layer">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "layer", pokazUkryjRodzica: true, rodzic: '#layer', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div id="LinkArea:stopka">
+  <div id="stopka-zwijane">
+    <div class="row zwinRozwin"><a class="zwijak show-for-medium-up">SERWISY PARTNERSKIE</a><a class="zwijak hide-for-medium-up">SERWISY REGIONALNE</a></div>
+    <div class="stopkaZakladka redakcja" id="LinkArea:stopkaRed">
+      <div class="row">
+        <div class="columns medium-4 kontakt">
+          <h4>KONTAKT Z REDAKCJĄ:</h4>
+          <p>tel.: <b><a href="tel:61 860 60 82">61 860 60 82</a></b>
+          <b><a href="mailto:wydawca@glos.com">wydawca@glos.com</a></b></p>
+                </div>
+        <div class="columns large-2 medium-4 socialMedia">
+          <h4>JESTEŚMY RÓWNIEŻ NA:</h4>
+          <a href="https://www.facebook.com/GlosWielkopolski" target="_blank" data-tracker="stopka/facebook" title="Głos Wielkopolski na Facebooku">Facebook</a>          <a href="https://twitter.com/gl_wielkopolski" target="_blank" data-tracker="stopka/twitter" title="Głos Wielkopolski na Twitterze">Twitter</a>          <a href="https://plus.google.com/105718175225189465100" target="_blank" data-tracker="stopka/google" title="Głos Wielkopolski na Google +">Google+</a>        </div>
+        <div class="columns large-4 show-for-large-up">
+          <h4>SERWISY POWIATOWE:</h4>
+          <ul>
+                          <li><a href="/wiadomosci/poznan/" data-tracker="stopka/powiatowe//wiadomosci/poznan/">Poznań</a></li>
+                          <li><a href="/wiadomosci/gniezno/" data-tracker="stopka/powiatowe//wiadomosci/gniezno/">Gniezno</a></li>
+                          <li><a href="/wiadomosci/kalisz/" data-tracker="stopka/powiatowe//wiadomosci/kalisz/">Kalisz</a></li>
+                          <li><a href="/wiadomosci/konin/" data-tracker="stopka/powiatowe//wiadomosci/konin/">Konin</a></li>
+                          <li><a href="/wiadomosci/leszno/" data-tracker="stopka/powiatowe//wiadomosci/leszno/">Leszno</a></li>
+                          <li><a href="/wiadomosci/pila/" data-tracker="stopka/powiatowe//wiadomosci/pila/">Piła</a></li>
+                      </ul>
+        </div>
+        <div class="columns large-2 medium-4">
+          <p>Głos Wielkopolski jest częścią:<br>
+          <a href="http://polskapress.pl"><img src="http://s-pt.ppstatic.pl/g/regionalne/polskapress.png" alt="Grupa Wydawnicza Polska Press Sp. z o.o."></a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="stopkaZakladka serwisy ukryta">
+      <div class="row">
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaOgl">
+          <h4>SERWISY OGŁOSZENIOWE:</h4>
+          <ul>
+                      <li><a href="http://www.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/www.gratka.pl">Ogłoszenia</a></li>
+                      <li><a href="http://dom.gratka.pl/mieszkania/poznan/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/mieszkania/poznan/">Mieszkania Poznań</a></li>
+                      <li><a href="http://dom.gratka.pl/domy/poznan/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/domy/poznan/">Domy Poznań</a></li>
+                      <li><a href="http://moto.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl">Motoryzacja</a></li>
+                      <li><a href="http://moto.gratka.pl/poznan/" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl/poznan/">Samochody Poznań</a></li>
+                      <li><a href="http://praca.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl">Praca</a></li>
+                      <li><a href="http://praca.gratka.pl/poznan/" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl/poznan/">Oferty pracy Poznań</a></li>
+                      <li><a href="http://alegratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/alegratka.pl">Ogłoszenia drobne</a></li>
+                    </ul>
+        </div>
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaPar">
+          <h4>SERWISY PARTNERSKIE:</h4>
+          <ul>
+                          <li><a href="http://www.telemagazyn.pl" data-tracker="stopka/partnerskie/http://www.telemagazyn.pl" target="_blank">Program TV - Telemagazyn</a></li>
+                          <li><a href="http://ekstraklasa.net" data-tracker="stopka/partnerskie/http://ekstraklasa.net" target="_blank">Piłka nożna - Ekstraklasa.net</a></li>
+                          <li><a href="http://www.polskatimes.pl" data-tracker="stopka/partnerskie/http://www.polskatimes.pl" target="_blank">Polskatimes</a></li>
+                          <li><a href="http://www.wiadomosci24.pl/" data-tracker="stopka/partnerskie/http://www.wiadomosci24.pl/" target="_blank">Wiadomości - Wiadomości24</a></li>
+                          <li><a href="http://regiodom.pl/" data-tracker="stopka/partnerskie/http://regiodom.pl/" target="_blank">Dom nieruchomości - regioDom</a></li>
+                          <li><a href="http://www.motofakty.pl" data-tracker="stopka/partnerskie/http://www.motofakty.pl" target="_blank">Motoryzacja - Motofakty</a></li>
+                          <li><a href="http://www.regiopraca.pl/" data-tracker="stopka/partnerskie/http://www.regiopraca.pl/" target="_blank">Praca - regioPraca</a></li>
+                          <li><a href="http://naszemiasto.pl" data-tracker="stopka/partnerskie/http://naszemiasto.pl" target="_blank">Informacje lokalne - Nasze Miasto</a></li>
+                          <li><a href="http://gra.pl" data-tracker="stopka/partnerskie/http://gra.pl" target="_blank">Gry - Gra.pl</a></li>
+                      </ul>
+        </div>
+        <div class="columns medium-6 small-12" id="LinkArea:stopkaReg">
+          <h4>SERWISY REGIONALNE:</h4>
+          <ul class="kolumny">
+                          <li><a href="http://www.dziennikbaltycki.pl" data-tracker="stopka/regionalne/http://www.dziennikbaltycki.pl" target="_blank">Dziennik Bałtycki</a></li>
+                          <li><a href="http://www.dziennikzachodni.pl" data-tracker="stopka/regionalne/http://www.dziennikzachodni.pl" target="_blank">Dziennik Zachodni</a></li>
+                          <li><a href="http://www.dzienniklodzki.pl" data-tracker="stopka/regionalne/http://www.dzienniklodzki.pl" target="_blank">Dziennik Łódzki</a></li>
+                          <li><a href="http://www.echodnia.eu" data-tracker="stopka/regionalne/http://www.echodnia.eu" target="_blank">Echo Dnia</a></li>
+                          <li><a href="http://www.gazetakrakowska.pl" data-tracker="stopka/regionalne/http://www.gazetakrakowska.pl" target="_blank">Gazeta Krakowska</a></li>
+                          <li><a href="http://www.gazetalubuska.pl" data-tracker="stopka/regionalne/http://www.gazetalubuska.pl" target="_blank">Gazeta Lubuska</a></li>
+                          <li><a href="http://www.pomorska.pl" data-tracker="stopka/regionalne/http://www.pomorska.pl" target="_blank">Gazeta Pomorska</a></li>
+                          <li><a href="http://www.gazetawroclawska.pl" data-tracker="stopka/regionalne/http://www.gazetawroclawska.pl" target="_blank">Gazeta Wrocławska</a></li>
+                          <li><a href="http://www.wspolczesna.pl" data-tracker="stopka/regionalne/http://www.wspolczesna.pl" target="_blank">Gazeta Współczesna</a></li>
+                          <li><a href="http://www.gk24.pl" data-tracker="stopka/regionalne/http://www.gk24.pl" target="_blank">Głos Koszaliński - GK24.pl</a></li>
+                          <li><a href="http://www.gp24.pl" data-tracker="stopka/regionalne/http://www.gp24.pl" target="_blank">Głos Pomorza - GP24.pl</a></li>
+                          <li><a href="http://www.gs24.pl" data-tracker="stopka/regionalne/http://www.gs24.pl" target="_blank">Głos Szczeciński - GS24.pl</a></li>
+                          <li><a href="http://www.gloswielkopolski.pl" data-tracker="stopka/regionalne/http://www.gloswielkopolski.pl" target="_blank">Głos Wielkopolski</a></li>
+                          <li><a href="http://www.kurierlubelski.pl" data-tracker="stopka/regionalne/http://www.kurierlubelski.pl" target="_blank">Kurier Lubelski</a></li>
+                          <li><a href="http://www.poranny.pl" data-tracker="stopka/regionalne/http://www.poranny.pl" target="_blank">Kurier Poranny</a></li>
+                          <li><a href="http://www.nto.pl" data-tracker="stopka/regionalne/http://www.nto.pl" target="_blank">Nowa Trybuna Opolska</a></li>
+                          <li><a href="http://www.nowiny24.pl" data-tracker="stopka/regionalne/http://www.nowiny24.pl" target="_blank">Nowiny</a></li>
+                          <li><a href="http://www.to.com.pl" data-tracker="stopka/regionalne/http://www.to.com.pl" target="_blank">Tygodnik Ostrołęcki</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      <div id="stopka-aplikacje" class="show-for-small-down">
+      <div class="row">
+        <div class="columns">
+          Nasze Aplikacje:
+          <ul>
+                          <li class="android"><a href="https://market.android.com/details?id=pl.gratka.technologie.android.czytnik.gloswielkopolski&amp;feature=search_result">Android</a></li>
+                                      <li class="ios"><a href="http://itunes.apple.com/pl/app/id374490791?mt=8">iOS</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    <div id="stopka-pasek">
+    <ul class="row" id="LinkArea:stopkaPas">
+      <li><a data-tracker="stopka/glowna" href="/" class="show-for-small-down">Strona Główna</a></li>
+      <li><a data-tracker="stopka/mapaserwisu" href="http://www.gloswielkopolski.pl/mapa_serwisu/" class="hide-for-small-down">Mapa serwisu</a></li>
+      <li><a data-tracker="stopka/indeks" href="http://indeks.gloswielkopolski.pl" class="hide-for-small-down">Indeks</a></li>
+      <li><a data-tracker="stopka/dlaprasy" href="http://www.polskatimes.pl/213,dla-prasy,id,t.html" target="_blank" class="hide-for-small-down">Dla prasy</a></li>
+      <li><a data-tracker="stopka/kontakt" href="/onas/" class="show-for-small-down">Kontakt</a></li>
+      <li><a data-tracker="stopka/onas" href="/onas/" class="hide-for-small-down">O nas</a></li>
+      <li><a data-tracker="stopka/regulamin" href="http://www.gloswielkopolski.pl/regulamin/">Regulamin</a></li>
+      <li><a data-tracker="stopka/prywatnosc" href="http://www.polskatimes.pl/stronaglowna/243942,polityka-prywatnosci,id,t.html" class="hide-for-small-down">Prywatność</a></li>
+      <li><a data-tracker="stopka/reklama" href="http://reklama.polskapresse.pl/dzienniki/127,pid,polska_glos_wielkopolski.html" class="hide-for-small-down">Reklama</a></li>
+      <li><a data-tracker="stopka/egazety" href="http://prasa24.pl" target="_blank" rel="nofollow" class="hide-for-small-down">eGazety</a></li>
+      <li><a data-tracker="stopka/newsletter" href="http://www.gloswielkopolski.pl/newsletter/">Newsletter</a></li>
+      <li><a data-tracker="stopka/notawydawnicza" href="/artykul/3712146,nota-wydawnicza,id,t.html" class="notaWydawnicza">Nota wydawnicza</a></li>
+              <li><a data-tracker="stopka/logowanie" href="/logowanie">Logowanie</a></li>
+            <li class="powrot"><a data-tracker="stopka/powrotGora" href="#" class="show-for-small-down">Powrót do góry</a></li>
+    </ul>
+  </div>
+
+  <div class="row" id="stopka-dol">
+    <div id="LinkArea:stopkaDol">
+      <p class="columns medium-8">
+                  <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a>
+                 informuje, że wszystkie treści ukazujące się w serwisie Głos Wielkopolski podlegają ochronie.
+        <a href="http://www.gloswielkopolski.pl/artykul/561785,prawa-autorskie,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.<br>
+        Jesteś zainteresowany kupnem treści? <a href="http://www.polskatimes.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapressepl,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.
+      </p>
+      <p class="columns medium-4">&copy; 2000 - 2016 <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a></p>
+    </div>
+  </div>
+</div>
+    <div class="cookieContainer">
+  <div class="cookieTooltip">
+    <span class="tooltipZamknij" title="Zamknij"></span>
+    <div class="cookieTekst">
+      <p class="cookieTytul">Korzystamy z cookies i local storage.</p>
+      <p>Bez zmiany ustawień pliki są zapisywane na urządzeniu. Więcej przeczytasz <a href="/artykul/243942,polityka-prywatnosci,id,t.html" rel="external">tutaj</a>.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  
+      (function ($) {
+        $('.tooltipZamknij').click(function () {
+          var data = new Date();
+          data.setDate(data.getDate() + 365);
+          data = data.toUTCString();
+          document.cookie = 'polityka_prywatnosci_cookies=true; expires=' + data + '; path = /';
+          $('.cookieTooltip').fadeOut(400);
+        });
+      })(jQuery);
+  
+</script>
+
+      </footer>
+    
+    
+          <div id="poza-gridem"><script type="text/javascript">GR("wstawReklame", "fiszka", "fb-slider-reklama");</script><script type="text/javascript">
+    oG_OSA.onclick_id = 'inne';
+      GR('oTrackEvents', oG_OSA.tracking);
+  </script>
+<script type="text/javascript">GR('oAnonimid');</script>
+</div>
+      </body>
+</html>

@@ -1,0 +1,5196 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+
+
+
+
+
+
+    
+
+
+
+<link rel="canonical" href="http://www.forbes.pl/investor/gpw/artykuly/analizy-gpw/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1"/>
+
+
+    
+
+
+
+<link rel="alternate" href="http://m.forbes.pl/investor/gpw/artykuly/analizy-gpw/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1"/>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<script type="text/javascript" src="http://www.forbes.pl/jsb/52778315/bundles/jQueryMain.js" ></script>
+<script type="text/javascript" src="http://www.forbes.pl/jsb/52778315/bundles/commonScript.js" ></script>
+
+<script type="text/javascript">
+    $(function() {
+        $("img.lazy").lazyload({
+            failure_limit : 999,
+            threshold : 400,
+            skip_invisible : true,
+            appear : function() {
+                $(this).css("height", "auto");
+            },
+            data_attribute: "src"
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<link rel="dns-prefetch" href="http://www.forbes.pl" />
+<link rel="dns-prefetch" href="http://www.googletagmanager.com" />
+<link rel="dns-prefetch" href="http://onet.hit.gemius.pl" />
+<link rel="dns-prefetch" href="http://lib.onet.pl" />
+<link rel="dns-prefetch" href="http://stats.asp24.pl" />
+<link rel="dns-prefetch" href="http://authorisation.grupaonet.pl" />
+<link rel="dns-prefetch" href="http://www.google-analytics.com" />
+<link rel="dns-prefetch" href="http://ls.hit.gemius.pl" />
+<link rel="dns-prefetch" href="http://kropka.onet.pl" />
+<link rel="dns-prefetch" href="http://stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="http://csr.onet.pl" />
+<link rel="dns-prefetch" href="http://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="http://googleads.g.doubleclick.net" />
+<link rel="dns-prefetch" href="http://ocdn.eu" />
+<link rel="dns-prefetch" href="http://sensic.net" />
+
+
+<link href='http://lib.onet.pl' rel='preconnect'>
+<link href='http://config.sensic.net' rel='preconnect'>
+<link href='http://ocdn.eu' rel='preconnect'>
+<link href='http://events.ocdn.eu' rel='preconnect'>
+<link href='http://kropka.onet.pl' rel='preconnect'>
+<link href='http://fonts.gstatic.com' rel='preconnect'>
+<link href='http://onet.hit.gemius.pl' rel='preconnect'>
+<link href='http://stats.g.doubleclick.net' rel='preconnect'>
+<link href='http://cookies.forbes.pl' rel='preconnect'>
+<link href='http://connect.facebook.net' rel='preconnect'>
+<link href='http://pl.bar.pianomedia.eu' rel='preconnect'>
+<link href='http://fonts.gstatic.com' rel='preconnect'>
+<link href='http://ls.hit.gemius.pl' rel='preconnect'>
+<link href='http://events.onet.pl' rel='preconnect'>
+<link href='http://rtax.criteo.com' rel='preconnect'>
+<link href='http://stats.asp24.pl' rel='preconnect'>
+<link href='http://csr.onet.pl' rel='preconnect'>
+<link href='http://staticxx.facebook.com' rel='preconnect'>
+
+<link href='https://authorisation.grupaonet.pl' rel='preconnect'>
+<link href='https://googleads.g.doubleclick.net' rel='preconnect'>
+<link href='http://stats.asp24.pl' rel='preconnect'>
+
+
+<script type="text/javascript">
+    WebFontConfig = {
+        google: { families: [ 'Roboto+Slab:300:latin','Open+Sans+Condensed:300:latin,latin-ext','Titillium+Web:400,300,600:latin,latin-ext' ] }
+    };
+    (function() {
+        var wf = document.createElement('script');
+        wf.src = '/resources/front/js/importfonts.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+    })();
+</script>
+
+<script type="text/javascript" src="http://www.forbes.pl/jsb/52778315/bundles/specificScript.js" ></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        
+        
+        
+        jCMS_loginBox();
+        jCMS_subscriptionBox();
+    });
+</script>
+
+<link rel="stylesheet"
+      href='http://www.forbes.pl/resources/front/style.52860446.css' type="text/css"
+      media="screen">
+<!--[if lte IE 11]>
+<script type="text/javascript" src='http://www.forbes.pl/resources/common-resources/js/html5shiv.52860446.js' async></script>
+<script type="text/javascript" src='http://www.forbes.pl/resources/common-resources/js/selectivizr.52860446.js' async></script>
+<![endif]-->
+<script type="text/javascript">
+    jCMS_domainName = 'http://www.forbes.pl';
+//    jCMS_ssoCookiesChecker();
+//    jCMS_setHighChartGradient();
+
+    $(document).ready(function () {
+        jCMS_mainMenuHangings($("nav[class=Top-Menu]"));
+    });
+
+    //funkcja wywołująca lazy load poprzez hover lub kliknięcie
+    function customLazy(id,event,contId){
+
+        /*
+        * id - element wywołujący funkcję
+        * event - rodzaj eventu wywołania (hover lub click)
+        * contId - id bloczka do przeładowania zdjęć
+        */
+
+        if(event=="click"){
+            $(id).click(function() {
+                $(contId + " img.lazy").lazyload({
+                    chainable: false,
+                    bind: "event",
+                    effect : "fadeIn"
+                });
+            });
+        }
+        if(event=="hover"){
+            $(id).hover(function() {
+                $(contId + " img.lazy").lazyload({
+                    chainable: false,
+                    bind: "event",
+                    effect : "fadeIn"
+                });
+            },function(){});
+        }
+    };
+
+    function isiPhone(){
+
+        return (
+            //Detect iPhone
+                (navigator.platform.indexOf("iPhone") != -1) ||
+            //Detect iPod
+                (navigator.platform.indexOf("iPod") != -1) ||
+            //Detect iPad
+                (navigator.platform.indexOf("iPad") != -1)
+                );
+    }
+
+    function foriPad(){
+        $(window).scroll(function(){
+            var fromTop = $(document).scrollTop();
+            if(fromTop > 50){
+                if(fromTop > 500){
+                    $(".flexMenu-viewMore").removeClass("under500");
+                }
+                else{
+                    $(".flexMenu-viewMore").addClass("under500");
+
+                }
+            }
+            else{
+            }
+        });
+    };
+
+    if(isiPhone()){
+        foriPad();
+    }
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+    
+    
+    
+    
+
+    
+</script>
+
+
+
+
+
+    <title>Słaby rok na GPW: dwie spółki z WIG20 na plusie</title>
+    
+    <!--
+        <PageMap>
+            <DataObject type=ARTICLE>
+            </DataObject>
+        </PageMap>
+        -->
+    
+
+
+
+
+    <!-- META TAGS -->
+    
+        
+            
+                <meta property="og:type" content="article"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+                
+                <meta name="title" content="Słaby rok na GPW: dwie spółki z WIG20 na plusie"/>
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="keywords" content="PBG, PGNiG, podsumowanie roku 2011, spadki na giełdzie, spadki na GPW, TPSA, WIG20, wyniki spółek"  />
+            
+        
+    
+        
+            
+                <meta property="og:title" content="Słaby rok na GPW: dwie spółki z WIG20 na plusie"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="decorator" content="front"  />
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="description" content="Podsumowanie roku 2011 na GPW: większość spółek z WIG20 zanotowało straty. Tylko PGNiG i TPSA na plusie. Słaby rok spółek z WIG20"  />
+            
+        
+    
+        
+            
+                <meta property="og:description" content="Wśród dwudziestu największych spółek notowanych na warszawskiej giełdzie tylko dwie w ciągu minionych dwunastu miesięcy dały zarobić inwestorom. Rekordzistą wzrostu jest PGNiG, którego akcje podrożały o 15 proc. Rekordzistą spadków - PBG, którego akcje potaniały o 66 procent"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+            
+
+            
+            
+                <meta name="esbTI" content=""  />
+            
+        
+    
+        
+            
+                <meta property="og:url" content="http://www.forbes.pl/investor/gpw/artykuly/analizy-gpw/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1"/>
+            
+            
+
+            
+            
+        
+    
+        
+            
+                <meta property="og:image" content="http://www.forbes.pl/resources/front/images/logo.png"/>
+            
+            
+
+            
+            
+        
+    
+
+
+
+
+    
+        <script type="text/javascript" src="http://ads.businessclick.com/master_1.1"></script>
+    
+    
+
+
+
+    <meta property="fb:admins" content="1053607216" />
+    <meta property="fb:admins" content="100003322283389" />
+    
+
+
+
+
+
+    
+        
+    
+    
+
+
+
+<script type="text/javascript">/* <![CDATA[ */
+if ($.cookies.get('autoRefresh') == null) {
+    
+    
+    
+    var pp_gemius_identifier = 'ogia2.reNxRo6VYXBNatPZeCDiDU_wO676S8DO_qP1D.n7';
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    onetAds = {
+        'sgn_cookie': 1,
+        'cookieInfo': 0,
+        
+            
+            
+                'target': 'rasp_forbes/exclusive:investor',
+            
+        
+
+        'autoslot': 1,
+        'async': 1
+        ,
+        'keywords': ['artykul','target1','Aktualnosci','Investor-GPW-analizy','Aktualnosci---Respect-Index','PBG','PGNiG','TPSA','WIG20','podsumowanie_roku_2011','spadki_na_GPW','spadki_na_gieldzie','wyniki_spolek']
+        
+        
+        ,
+        'keyvalues': {'ci': 22907}
+        
+        
+        
+        ,
+        'kropka': {
+            'DX': 'PV,lamur,22907_1,2,a,1,22907'
+            
+        }
+        
+        
+
+    };
+} else {
+    var pp_gemius_nhit = 1;
+
+
+    onetAds = {
+        'sgn_cookie': 1,
+        'noDot': 1,
+        'cookieInfo': 0,
+        
+            
+            
+                'target': 'rasp_forbes/exclusive:investor',
+            
+        
+        'autoslot': 1,
+        'async': 1
+        ,
+        'keywords': ['artykul','target1','Aktualnosci','Investor-GPW-analizy','Aktualnosci---Respect-Index','PBG','PGNiG','TPSA','WIG20','podsumowanie_roku_2011','spadki_na_GPW','spadki_na_gieldzie','wyniki_spolek']
+        
+        
+        ,
+        'keyvalues': {'ci': 22907}
+        
+        
+        
+        ,
+        'kropka': {
+            'DX': 'PV,lamur,22907_1,2,a,1,22907'
+            
+        }
+        
+        
+
+
+    };
+}
+document.write('<scr' + 'ipt type="text/javascript" src="http://lib.onet.pl/s.csr/init/init.js?v=' + (new Date()).getFullYear() + (new Date()).getMonth() + '"></scr' + 'ipt>');
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+    function renderLinkSpons(id, name, url, blank) {
+        $("#onet-ad-flat-link1").html('\x3ca href="' + url + '" ' + (blank ? ' target="_blank"' : "") + '>' + name + '\x3c/a>&nbsp;&nbsp;\x3cspan class="ad_adInfo">REKLAMA\x3c/span>');
+    }
+</script>
+
+
+    <link rel="icon" href='http://www.forbes.pl/raspFavicon.ico' type="image/x-icon">
+
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href='http://www.forbes.pl/resources/front/ie8_style.52860446.css' type="text/css" media="screen">
+    <![endif]-->
+    
+
+
+<script type="text/javascript">
+    function loadPopupHTML() {
+        
+        
+        
+        
+        var html = '<div class="in"><span id="closeMark"></span><span class="logo"></span><p>Do&#322;&#261;cz do nas na<br />Facebooku i otrzymuj<br />najlepsze artyku&#322;y<br />z Forbesa</p><a class="likepopup" href="https://www.facebook.com/ForbesPolska"></a><span class="footer">Je&#380;eli nie chcesz polubi&#263; strony, zamknij komunikat.</span></div>';
+        
+        
+        var e = document.createElement("div");
+        e.id = "popup";
+        e.className = "popup1"
+        e.style.display = "none";
+        e.innerHTML = html;
+        document.body.appendChild(e);
+    }
+
+    function loadNLPopupHTML() {
+        var e1 = document.createElement("div");
+        e1.id = "popupOverlay";
+        document.body.appendChild(e1);
+
+        var html = '<a id="closeMark" class="zamknij" href="#"><img src="/resources/front/images/zamknij.png" width="50" height="50" alt="zamknij" /></a> <img src="/resources/front/images/forbes_newsletter_logo.png" width="161" height="58" alt="newsletter" /><div class="content"><h2>Zapisz się do newslettera</h2><span>Otrzymuj najlepsze teksty z Forbesa<br />prosto na swojego e-maila.</span><form action="newsletter.html"><input id="subscribe_email_pop" type="text" class="mail" name="email" onfocus="if(this.value == \'wpisz e-mail\'){this.value = \'\';}" onblur="if(this.value == \'\'){this.value=\'wpisz e-mail\';}"><input class="zapiszButton" type="submit" value="zapisz"></form></div>';
+        var e = document.createElement("div");
+        e.id = "popupNL";
+        e.style.display = "none";
+        e.innerHTML = html;
+
+        document.body.appendChild(e);
+    }
+
+    $(document).ready(function () {
+        var val = document.domain;
+        if (val == 'undefined') {
+            return;
+        }
+        if (val.indexOf("pierwszymilion") >= 0 || val.indexOf("life") >= 0 || val.indexOf("www") >= 0) {
+            if(! /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+                if ($.cookies.get('forbes_popup') == 0) {
+                    var exdate = new Date();
+                    exdate.setDate(exdate.getDate() + 365);
+                    var val = "forbes_popup=1;path=/;expires=" + exdate.toUTCString();
+                    document.cookie = val;
+
+                    exdate = new Date();
+                    exdate.setDate(exdate.getDate() + 1);
+                    var val2 = "forbes_nl_popup=1;path=/;expires=" + exdate.toUTCString();
+                    document.cookie = val2;
+                    loadPopupHTML();
+                    $('#popup.popup1').show();
+                    $('.popup1 #closeMark').click(function () {
+                        $('#popup.popup1').hide();
+                    });
+                }
+
+                if ($.cookies.get('forbes_nl_popup') == null && $.cookies.get('forbes_nl_popup_disp') == null) {
+                    exdate = new Date();
+                    exdate.setMonth(exdate.getMonth() + 3);
+                    var val3 = "forbes_nl_popup_disp=1;path=/;expires=" + exdate.toUTCString() + ";";
+                    document.cookie = val3;
+                    loadNLPopupHTML();
+                    $('#popupNL').show();
+                    $('#popupNL #closeMark').click(function () {
+                        $('#popupNL').hide();
+                        $('#popupOverlay').hide();
+                    });
+                }
+            }
+        }
+    });
+
+
+</script>
+
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var refer = document.referrer;
+            if (refer.indexOf("onet.pl") >= 0) {
+                $(".menuLogo .inner").prepend("<a id=\"goOnet\" href=\"http://www.onet.pl\" style=\"font-family:Arial;font-size:13px;color:#999;text-decoration:none;display:block;border-radius:5px;padding:0 0 0 5px;position:absolute;right:0;top:3px;\"><span style=\"display:block;padding-top:8px;float:left;\">wróć na</span> <img src=\"/resources/front/images/u6.png\" style=\"width:60px;height:28px;display:block;float:right;margin:0 0 0 7px;\" /></a>");
+            }
+        });
+    </script>
+
+</head>
+
+
+<body id="Forbes" class="Website-Homepage">
+
+
+
+
+<noscript><img height="1" width="1" src="http://kropka.onet.pl/_s/kropka/1?DV=rasp_forbes/investor" alt="" /></noscript>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+
+    _gaq.push(['_setAccount', 'UA-15407476-1']);
+    _gaq.push(['_setDomainName', 'forbes.pl']);
+    _gaq.push(['_setAllowAnchor', true]);
+
+    if ($.cookies.get('autoRefresh') == null) {
+        _gaq.push(['_trackPageview']);
+    } else {
+        _gaq.push(['_trackEvent', 'AutoRefresh', $.cookies.get('autoRefresh')]);
+    }
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+//        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+    $.cookies.del('autoRefresh');
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = "http://stats.asp24.pl/js/click.4.js";
+        document.body.appendChild(script);
+    });
+</script>
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+            
+                
+                
+            
+        
+    
+
+
+<div id="piano-root"></div>
+<script type="text/javascript">
+  var pianoVariables = {
+    service_id:208,
+    
+    
+    
+    mode:'bar_normal'
+    
+    
+  };
+  var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+  (function () {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+    var p = document.getElementsByTagName('script')[0];
+    p.parentNode.insertBefore(s, p);
+  })();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="" id="UPPER_MENU" class="Region Rgn_6821 ">
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner54600">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-flat-belkagorna"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+<div class="menuStripe">
+    <div class="inner">
+        <ul>
+            
+                
+                    
+                    
+                        <li id="item_636">
+                            <a href="http://www.forbes.pl/o-marki-mowia,statyczny,162128,1,1.html" >Marki Mówią</a>
+                        </li>
+                    
+                
+
+
+            
+                
+                    
+                        <li class="theresMore" id="item_533">
+                            
+                            
+
+
+
+    
+        <a href="/" >Eventy</a>
+        <ul class="subMenu">
+            
+                <li id="item_536">
+                    <a href="http://diamenty.forbes.pl" >Diamenty Forbesa</a>
+                </li>
+            
+                <li id="item_539">
+                    <a href="http://dfr.forbes.pl" >Dyrektor Finansowy Roku</a>
+                </li>
+            
+                <li id="item_542">
+                    <a href="http://csr.forbes.pl/liderzy-zrownowazonego-rozwoju,kategoria,173,1.html" >Liderzy Zrównoważonego Rozwoju</a>
+                </li>
+            
+        </ul>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+                
+                    
+                    
+                        <li id="item_524">
+                            <a href="http://www.forbes.pl/dossier,kategoria,117,1.html" >Raporty</a>
+                        </li>
+                    
+                
+
+
+            
+                
+                    
+                    
+                        <li id="item_527">
+                            <a href="http://www.forbes.pl/video-forbes-pl,kategoria,217,1.html" >Video</a>
+                        </li>
+                    
+                
+
+
+            
+                
+                    
+                    
+                        <li id="item_530">
+                            <a href="http://www.forbes.pl/autorzy,1.html" >Autorzy Forbesa</a>
+                        </li>
+                    
+                
+
+
+            
+            <li>
+                <ul class="roundIcons">
+                    <li><a href="http://www.forbes.pl/kontakt/80" class="contact"></a></li>
+                    <li><a href="http://www.facebook.com/ForbesPolska" class="facebook"></a></li>
+                    <li><a href="https://twitter.com/ForbesPolska" class="twitter"></a></li>
+                    <li><a href="https://plus.google.com/+ForbesPolska" class="googleplus"></a></li>
+                </ul>
+            </li>
+
+            
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+
+<div class="menuLogo">
+    <div class="inner">
+        <a href="http://www.forbes.pl" class="logotype"></a>
+        
+
+
+
+
+
+
+
+<div style="" id="MAIN_MENU" class="Region Rgn_6440 ">
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item39356'>
+    
+        
+        
+            <script type="text/javascript">
+       if(document.location.pathname=='/redirect.html'){
+           var s =document.location.search;
+           var c = s.indexOf("url=");
+           s= decodeURIComponent(s.substr(c+4));
+           var a = s.split('&');
+           document.location=a[0];
+       }
+    </script>
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+    
+        
+
+
+
+    <script type="text/javascript" language="JavaScript">
+        
+
+        $(document).ready(function () {
+            prepareAsyncMenuItems('/front/article/list.partial?header=none&url=none&sortOrder=ZERO&sortColumn=date&paginatorEnabled=NO_PAGINATION&statisticFactorId=1&partial=false&subType=ZERO&onlyWithPhoto=false&itemShift=0&firstPageOnly=false&isHiddenEnabled=false&photoPosition=0&specialMarkItemsCount=0&specialMarkFactorId=18&specialMarkDistribution=ORIGINAL_DISTRIBUTION&ignoreDuplicateContent=false&onlyMainCategory=false&imageLazyLoading=false&filterByAuthor=false&filterByTag=false&isAsync=false&inSourceOnStart=false&categoryIds=-1&skipArticlesInDuplicateContentList=false&theme_id=view%2fregionitems%2farticlelist%2flist_most_popular&regionItemId=48170');
+        });
+    </script>
+
+    <nav>
+        <ul class="mainlevel">
+            
+                
+                    
+                    
+                        <li id="item_579" class="menuItem">
+                            <input type="hidden" id="hidden_579" value="174">
+                            
+                            
+
+
+
+    
+
+    
+        <a class="mainLnk" href="http://www.forbes.pl/opinie,kategoria,174,1.html" ><span>Komentarze</span></a>
+        <div class="subMenus">
+            
+                
+                    
+
+
+
+
+
+
+
+<div style="" id="MENU_CONTAINER_OPINIE" class="Region Rgn_8382 ">
+
+    
+        
+
+
+
+
+
+
+<ul class="authorsStripe authorsStripe19648170" id='aSarticleList48170'>
+    <!-- item1 -->
+    
+    
+
+
+
+
+
+
+    <li class="t_ARTICLE ">
+        <a href="http://forbes.onet.pl/jaroslaw-niedzielewski,autor,5611,1.html" >
+            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635201091386887498.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Jarosław Niedzielewski"
+                title="Jarosław Niedzielewski" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635201091386887498.jpg"
+                         class="" alt="Jarosław Niedzielewski" title="Jarosław Niedzielewski" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+            <span class="name">Jarosław Niedzielewski</span>
+        </a>
+    </li>
+
+    <li class="t_ARTICLE ">
+        <a href="http://www.forbes.pl/rafal-brzoska,autor,5653,1.html" >
+            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635246925065088868.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Rafał Brzoska"
+                title="Rafał Brzoska" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635246925065088868.jpg"
+                         class="" alt="Rafał Brzoska" title="Rafał Brzoska" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+            <span class="name">Rafał Brzoska</span>
+        </a>
+    </li>
+
+    <li class="t_ARTICLE ">
+        <a href="http://www.forbes.pl/adam-goral,artykuly,169147,1,1.html" >
+            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635249541041748139.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Adam Góral"
+                title="Adam Góral" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635249541041748139.jpg"
+                         class="" alt="Adam Góral" title="Adam Góral" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+            <span class="name">Adam Góral</span>
+        </a>
+    </li>
+
+    <li class="t_ARTICLE ">
+        <a href="http://www.forbes.pl/miroslaw-barszcz,autor,5659,1.html" >
+            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635247103634196569.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Mirosław Barszcz"
+                title="Mirosław Barszcz" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635247103634196569.jpg"
+                         class="" alt="Mirosław Barszcz" title="Mirosław Barszcz" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+            <span class="name">Mirosław Barszcz</span>
+        </a>
+    </li>
+
+    <li class="t_ARTICLE ">
+        <a href="http://www.forbes.pl/robert-gwiazdowski,autor,5656,1.html" >
+            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635678138600606699.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Robert Gwiazdowski"
+                title="Robert Gwiazdowski" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635678138600606699.jpg"
+                         class="" alt="Robert Gwiazdowski" title="Robert Gwiazdowski" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+            <span class="name">Robert Gwiazdowski</span>
+        </a>
+    </li>
+
+    <li class="t_ARTICLE ">
+        <a href="http://www.forbes.pl/jozef-wojciechowski,autor,5640,1.html" >
+            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635227869439824473.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Józef Wojciechowski"
+                title="Józef Wojciechowski" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635227869439824473.jpg"
+                         class="" alt="Józef Wojciechowski" title="Józef Wojciechowski" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+            <span class="name">Józef Wojciechowski</span>
+        </a>
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    $("#item_579").hover(function() {
+        $(".subMenus img.lazy").lazyload().trigger("appear");
+    });
+</script>
+
+    <!-- item2 -->
+    
+    
+
+
+
+
+
+
+    
+        <li>
+            <a href="http://www.forbes.pl/krzysztof-domaradzki,autor,5348,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552526098.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Krzysztof Domaradzki"
+                title="Krzysztof Domaradzki" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552526098.jpg"
+                         class="" alt="Krzysztof Domaradzki" title="Krzysztof Domaradzki" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                <span class="name">Krzysztof Domaradzki</span>
+            </a>
+        </li>
+    
+        <li>
+            <a href="http://www.forbes.pl/wojciech-maroszek,autor,6321,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635509716324967308.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Wojciech Maroszek"
+                title="Wojciech Maroszek" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635509716324967308.jpg"
+                         class="" alt="Wojciech Maroszek" title="Wojciech Maroszek" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                <span class="name">Wojciech Maroszek</span>
+            </a>
+        </li>
+    
+        <li>
+            <a href="http://www.forbes.pl/mateusz-kasperski,autor,5796,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635463853131718849.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Mateusz Kasperski"
+                title="Mateusz Kasperski" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635463853131718849.jpg"
+                         class="" alt="Mateusz Kasperski" title="Mateusz Kasperski" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                <span class="name">Mateusz Kasperski</span>
+            </a>
+        </li>
+    
+        <li>
+            <a href="http://www.forbes.pl/piotr-karnaszewski,autor,5326,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552682358.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Piotr Karnaszewski"
+                title="Piotr Karnaszewski" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552682358.jpg"
+                         class="" alt="Piotr Karnaszewski" title="Piotr Karnaszewski" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                <span class="name">Piotr Karnaszewski</span>
+            </a>
+        </li>
+    
+        <li>
+            <a href="http://www.forbes.pl/filip-kowalik,autor,5327,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552682361.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Filip Kowalik"
+                title="Filip Kowalik" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552682361.jpg"
+                         class="" alt="Filip Kowalik" title="Filip Kowalik" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                <span class="name">Filip Kowalik</span>
+            </a>
+        </li>
+    
+        <li>
+            <a href="http://www.forbes.pl/aleksander-kobylka,autor,5342,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552682360.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Aleksander Kobyłka"
+                title="Aleksander Kobyłka" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635108856552682360.jpg"
+                         class="" alt="Aleksander Kobyłka" title="Aleksander Kobyłka" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                <span class="name">Aleksander Kobyłka</span>
+            </a>
+        </li>
+    
+        <li>
+            <a href="http://www.forbes.pl/natalia-szewczak,autor,6562,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/crop/59/59/forbes/635828559421541355.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Natalia Szewczak"
+                title="Natalia Szewczak" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/crop/59/59/forbes/635828559421541355.jpg"
+                         class="" alt="Natalia Szewczak" title="Natalia Szewczak" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                <span class="name">Natalia Szewczak</span>
+            </a>
+        </li>
+    
+
+
+
+
+
+
+
+
+
+
+    <!-- item3 -->
+    
+    
+
+
+
+
+
+
+
+<li class="last"><a href="http://www.forbes.pl/autorzy,1.html">Wszyscy autorzy <span class="count">[<span class="nr">215</span>]</span></a></li>
+
+
+
+
+
+
+
+
+
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+    <ul class="articesList">
+        
+            <li>
+                <a href="http://kariera.forbes.pl/10-najbardziej-perspektywicznych-zawodow,artykuly,197244,1,1.html" >
+                    <span>
+                        
+                        10 najbardziej perspektywicznych zawodów 
+                    </span>
+                    <p>
+                        
+                        Już dawno minęły czasy, gdy o karierze decydował skończony kierunek studiów. Wręcz przeciwnie, dziś większą szansę na pracę mogą zyskać ci, którzy o ...
+                    </p>
+                </a>
+            </li>
+        
+            <li>
+                <a href="http://www.forbes.pl/podatek-bankowy-w-polsce-a-podatek-bankowy-na-wegrzech,artykuly,197858,1,1.html" >
+                    <span>
+                        
+                        Podatek bankowy w Polsce? Nie naśladujmy Węgier
+                    </span>
+                    <p>
+                        
+                        Co zmienił podatek finansowy na Węgrzech? Ujemnie wpłynął na wzrost gospodarczy, podkopał fundamenty stabilności finansowej oraz zaufanie inwestorów. ...
+                    </p>
+                </a>
+            </li>
+        
+            <li>
+                <a href="http://www.forbes.pl/szef-wirtualnej-polski-donosi-na-onet,artykuly,201634,1,1.html" >
+                    <span>
+                        
+                        Szef Wirtualnej Polski donosi na Onet
+                    </span>
+                    <p>
+                        
+                        Donos Jacka Świderskiego, szefa Wirtualnej Polski, na jej głównego konkurenta czyli Onet i jego właściciela. Wzmożony patriotycznie p. Jacek, ...
+                    </p>
+                </a>
+            </li>
+        
+            <li>
+                <a href="http://www.forbes.pl/podatek-bankowy-pis-duszac-banki-dusimy-gospodarke,artykuly,199939,1,1.html" >
+                    <span>
+                        
+                        Podatek bankowy? Dusząc banki, dusimy gospodarkę
+                    </span>
+                    <p>
+                        
+                        Realizując populistyczne projekty społeczne, PiS rozpocznie niebezpieczną grę, która może doprowadzić do wykolejenia gospodarki
+                    </p>
+                </a>
+            </li>
+        
+    </ul>
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+                
+                
+            
+        </div>
+    
+
+                        </li>
+                    
+                
+
+
+            
+                
+                    
+                    
+                        <li id="item_389" class="menuItem">
+                            <input type="hidden" id="hidden_389" value="41">
+                            
+                            
+
+
+
+    
+
+    
+        <a class="mainLnk" href="http://www.forbes.pl/wydarzenia,kategoria,41,1.html" ><span>Wiadomości</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <ul class="subMenuBig" id="asyncContainer_389"></ul>
+                
+            
+        </div>
+    
+
+                        </li>
+                    
+                
+
+
+            
+                
+                    
+                        <li id="item_392" class="menuItem">
+                            <input type="hidden" id="hidden_392" value="37">
+                            
+                            
+
+
+
+    
+        <a class="mainLnk" href="http://life.forbes.pl" ><span>Life</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <div class="grayZone"></div>
+                    <ul class="subMenuTwo">
+                        
+                            <li id="item_395" class="menuItem">
+                                <input type="hidden" id="hidden_395" value="1177">
+                                <a href="http://life.forbes.pl/travel,kategoria,1177,1.html" >Travel</a>
+                            </li>
+                        
+                            <li id="item_398" class="menuItem">
+                                <input type="hidden" id="hidden_398" value="1169">
+                                <a href="http://life.forbes.pl/wydarzenia-forbes-life,kategoria,1169,1.html" >Wydarzenia</a>
+                            </li>
+                        
+                            <li id="item_401" class="menuItem">
+                                <input type="hidden" id="hidden_401" value="227">
+                                <a href="http://life.forbes.pl/styl,kategoria,227,1.html" >Styl</a>
+                            </li>
+                        
+                            <li id="item_404" class="menuItem">
+                                <input type="hidden" id="hidden_404" value="288">
+                                <a href="http://life.forbes.pl/moto,kategoria,288,1.html" >Moto</a>
+                            </li>
+                        
+                            <li id="item_407" class="menuItem">
+                                <input type="hidden" id="hidden_407" value="1174">
+                                <a href="http://life.forbes.pl/sztuka,kategoria,1174,1.html" >Sztuka</a>
+                            </li>
+                        
+                            <li id="item_410" class="menuItem">
+                                <input type="hidden" id="hidden_410" value="1171">
+                                <a href="http://life.forbes.pl/ludzie,kategoria,1171,1.html" >Ludzie</a>
+                            </li>
+                        
+                            <li id="item_413" class="menuItem">
+                                <input type="hidden" id="hidden_413" value="221">
+                                <a href="http://life.forbes.pl/wino,kategoria,221,1.html" >Wino</a>
+                            </li>
+                        
+                    </ul>
+                    <ul class="subMenuBig" id="asyncContainer_392"></ul>
+                
+            
+        </div>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+                
+                    
+                        <li id="item_476" class="menuItem">
+                            <input type="hidden" id="hidden_476" value="28">
+                            
+                            
+
+
+
+    
+        <a class="mainLnk" href="http://www.forbes.pl/rankingi,kategoria,28,1.html" ><span>Rankingi</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <div class="grayZone"></div>
+                    <ul class="subMenuTwo">
+                        
+                            <li id="item_479" class="menuItem">
+                                <input type="hidden" id="hidden_479" value="">
+                                <a href="http://100najbogatszychpolakow.forbes.pl" >Najbogatsi Polacy 2015</a>
+                            </li>
+                        
+                            <li id="item_482" class="menuItem">
+                                <input type="hidden" id="hidden_482" value="">
+                                <a href="http://najbogatsiludzieswiata.forbes.pl/" >Najbogatsi ludzie świata 2015</a>
+                            </li>
+                        
+                            <li id="item_485" class="menuItem">
+                                <input type="hidden" id="hidden_485" value="">
+                                <a href="http://www.forbes.pl/najwieksze-firmy-swiata-2015,artykuly,194099,1,1.html" >Największe firmy na świecie 2015</a>
+                            </li>
+                        
+                            <li id="item_488" class="menuItem">
+                                <input type="hidden" id="hidden_488" value="">
+                                <a href="http://www.forbes.pl/najbardziej-wplywowe-kobiety-swiata-2015,artykuly,195071,1,1.html" >Najbardziej wpływowe kobiety świata 2015</a>
+                            </li>
+                        
+                            <li id="item_491" class="menuItem">
+                                <input type="hidden" id="hidden_491" value="">
+                                <a href="http://www.forbes.pl/najlepiej-zarabiajacy-pilkarze-2015,artykuly,194103,1,1.html" >Najlepiej zarabiający piłkarze 2015</a>
+                            </li>
+                        
+                    </ul>
+                    <ul class="subMenuBig" id="asyncContainer_476"></ul>
+                
+            
+        </div>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+                
+                    
+                        <li id="item_419" class="menuItem">
+                            <input type="hidden" id="hidden_419" value="19">
+                            
+                            
+
+
+
+    
+        <a class="mainLnk" href="http://pierwszymilion.forbes.pl" ><span>Pierwszy Milion</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <div class="grayZone"></div>
+                    <ul class="subMenuTwo">
+                        
+                            <li id="item_434" class="menuItem">
+                                <input type="hidden" id="hidden_434" value="1384">
+                                <a href="http://pierwszymilion.forbes.pl/wiadomosci,kategoria,1384,1.html" >Wiadomości</a>
+                            </li>
+                        
+                            <li id="item_437" class="menuItem">
+                                <input type="hidden" id="hidden_437" value="1387">
+                                <a href="http://pierwszymilion.forbes.pl/kalendarium-pm,kategoria,1387,1.html" >Kalendarium</a>
+                            </li>
+                        
+                            <li id="item_428" class="menuItem">
+                                <input type="hidden" id="hidden_428" value="26">
+                                <a href="http://pierwszymilion.forbes.pl/od-zera-do-milionera,kategoria,26,1.html" >Od zera do milionera</a>
+                            </li>
+                        
+                            <li id="item_422" class="menuItem">
+                                <input type="hidden" id="hidden_422" value="25">
+                                <a href="http://pierwszymilion.forbes.pl/milion-pomyslow,kategoria,25,1.html" >Milion Pomysłów</a>
+                            </li>
+                        
+                            <li id="item_425" class="menuItem">
+                                <input type="hidden" id="hidden_425" value="21">
+                                <a href="http://pierwszymilion.forbes.pl/miliona-brak,kategoria,21,1.html" >Miliona Brak</a>
+                            </li>
+                        
+                            <li id="item_431" class="menuItem">
+                                <input type="hidden" id="hidden_431" value="20">
+                                <a href="http://pierwszymilion.forbes.pl/e-milion,kategoria,20,1.html" >E-milion</a>
+                            </li>
+                        
+                    </ul>
+                    <ul class="subMenuBig" id="asyncContainer_419"></ul>
+                
+            
+        </div>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+                
+                    
+                        <li id="item_440" class="menuItem">
+                            <input type="hidden" id="hidden_440" value="1411">
+                            
+                            
+
+
+
+    
+        <a class="mainLnk" href="http://auto.forbes.pl" ><span>Auto</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <div class="grayZone"></div>
+                    <ul class="subMenuTwo">
+                        
+                            <li id="item_443" class="menuItem">
+                                <input type="hidden" id="hidden_443" value="1491">
+                                <a href="http://auto.forbes.pl/zarzadzanie-flota,kategoria,1491,1.html" >Zarządzanie flotą</a>
+                            </li>
+                        
+                            <li id="item_446" class="menuItem">
+                                <input type="hidden" id="hidden_446" value="1458">
+                                <a href="http://auto.forbes.pl/wydarzenia,kategoria,1458,1.html" >Wydarzenia</a>
+                            </li>
+                        
+                            <li id="item_449" class="menuItem">
+                                <input type="hidden" id="hidden_449" value="1454">
+                                <a href="http://auto.forbes.pl/auta,kategoria,1454,1.html" >Auta</a>
+                            </li>
+                        
+                            <li id="item_452" class="menuItem">
+                                <input type="hidden" id="hidden_452" value="1460">
+                                <a href="http://auto.forbes.pl/pieniadze,kategoria,1460,1.html" >Pieniądze</a>
+                            </li>
+                        
+                            <li id="item_455" class="menuItem">
+                                <input type="hidden" id="hidden_455" value="1461">
+                                <a href="http://auto.forbes.pl/auto-portrety,kategoria,1461,1.html" >Ludzie</a>
+                            </li>
+                        
+                    </ul>
+                    <ul class="subMenuBig" id="asyncContainer_440"></ul>
+                
+            
+        </div>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+                
+                    
+                        <li id="item_458" class="menuItem">
+                            <input type="hidden" id="hidden_458" value="1523">
+                            
+                            
+
+
+
+    
+        <a class="mainLnk" href="http://csr.forbes.pl" ><span>CSR</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <div class="grayZone"></div>
+                    <ul class="subMenuTwo">
+                        
+                            <li id="item_461" class="menuItem">
+                                <input type="hidden" id="hidden_461" value="173">
+                                <a href="http://csr.forbes.pl/liderzy-zrownowazonego-rozwoju,kategoria,173,1.html" >Liderzy Zrównoważonego Rozwoju</a>
+                            </li>
+                        
+                            <li id="item_464" class="menuItem">
+                                <input type="hidden" id="hidden_464" value="1526">
+                                <a href="http://csr.forbes.pl/ekologia,kategoria,1526,1.html" >Ekologia</a>
+                            </li>
+                        
+                            <li id="item_467" class="menuItem">
+                                <input type="hidden" id="hidden_467" value="1527">
+                                <a href="http://csr.forbes.pl/etyka-i-prawo,kategoria,1527,1.html" >Etyka i prawo</a>
+                            </li>
+                        
+                            <li id="item_470" class="menuItem">
+                                <input type="hidden" id="hidden_470" value="1532">
+                                <a href="http://csr.forbes.pl/energia-i-klimat,kategoria,1532,1.html" >Energia i klimat</a>
+                            </li>
+                        
+                            <li id="item_473" class="menuItem">
+                                <input type="hidden" id="hidden_473" value="1535">
+                                <a href="http://csr.forbes.pl/spoleczenstwo,kategoria,1535,1.html" >Społeczeństwo</a>
+                            </li>
+                        
+                    </ul>
+                    <ul class="subMenuBig" id="asyncContainer_458"></ul>
+                
+            
+        </div>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+                
+                    
+                        <li id="item_494" class="menuItem">
+                            <input type="hidden" id="hidden_494" value="150">
+                            
+                            
+
+
+
+    
+        <a class="mainLnk" href="http://kariera.forbes.pl" ><span>Kariera</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <div class="grayZone"></div>
+                    <ul class="subMenuTwo">
+                        
+                            <li id="item_497" class="menuItem">
+                                <input type="hidden" id="hidden_497" value="1014">
+                                <a href="http://kariera.forbes.pl/szukanie-pracy,kategoria,1014,1.html" >Szukanie pracy</a>
+                            </li>
+                        
+                            <li id="item_500" class="menuItem">
+                                <input type="hidden" id="hidden_500" value="1029">
+                                <a href="http://kariera.forbes.pl/wzory-i-pytania,kategoria,1029,1.html" >Wzory dokumentów</a>
+                            </li>
+                        
+                            <li id="item_503" class="menuItem">
+                                <input type="hidden" id="hidden_503" value="1004">
+                                <a href="http://kariera.forbes.pl/rozwoj-zawodowy,kategoria,1004,1.html" >Rozwój zawodowy</a>
+                            </li>
+                        
+                            <li id="item_506" class="menuItem">
+                                <input type="hidden" id="hidden_506" value="1024">
+                                <a href="http://kariera.forbes.pl/w-pracy,kategoria,1024,1.html" >W pracy</a>
+                            </li>
+                        
+                            <li id="item_509" class="menuItem">
+                                <input type="hidden" id="hidden_509" value="1119">
+                                <a href="http://kariera.forbes.pl/wynagrodzenia,kategoria,1119,1.html" >Wynagrodzenia</a>
+                            </li>
+                        
+                            <li id="item_512" class="menuItem">
+                                <input type="hidden" id="hidden_512" value="998">
+                                <a href="http://kariera.forbes.pl/hr,kategoria,998,1.html" >HR</a>
+                            </li>
+                        
+                    </ul>
+                    <ul class="subMenuBig" id="asyncContainer_494"></ul>
+                
+            
+        </div>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+                
+                    
+                        <li id="item_515" class="menuItem">
+                            <input type="hidden" id="hidden_515" value="648">
+                            
+                            
+
+
+
+    
+        <a class="mainLnk" href="http://www.forbes.pl/finanse,kategoria,648,1.html" ><span>Finanse</span></a>
+        <div class="subMenus">
+            
+                
+                
+                    <div class="grayZone"></div>
+                    <ul class="subMenuTwo">
+                        
+                            <li id="item_639" class="menuItem">
+                                <input type="hidden" id="hidden_639" value="1651">
+                                <a href="http://www.forbes.pl/nieruchomosci,kategoria,1651,1.html" >Nieruchomości</a>
+                            </li>
+                        
+                            <li id="item_518" class="menuItem">
+                                <input type="hidden" id="hidden_518" value="166">
+                                <a href="http://www.forbes.pl/investor,kategoria,166,1.html" >Investor</a>
+                            </li>
+                        
+                            <li id="item_521" class="menuItem">
+                                <input type="hidden" id="hidden_521" value="42">
+                                <a href="http://www.forbes.pl/podatki,kategoria,42,1.html" >Podatki</a>
+                            </li>
+                        
+                    </ul>
+                    <ul class="subMenuBig" id="asyncContainer_515"></ul>
+                
+            
+        </div>
+    
+
+    
+
+                        </li>
+                    
+                    
+                
+
+
+            
+        </ul>
+    </nav>
+    <span class="searchButton"></span>
+    <script type="text/javascript">$(document).ready(function () { $(".searchButton").click(function() {$("#serchEngine").toggle();}); });</script>
+    <form id="serchEngine" action="http://www.forbes.pl/view/main/searchResult.do"
+          method="get">
+        <input type="hidden" name="cx" value="/view/main/searchResult.do"/>
+        <input type="hidden" name="ie" value="UTF-8"/>
+        <input type="text" name="q" value="wpisz słowo"
+               class="Search-Text" onclick="jCMS_deleteText(this)" onblur="jCMS_addText(this, 'wpisz słowo')">
+    </form>
+</nav>
+
+<script  type="text/javascript">
+    $(document).ready(function () {
+        markSelectedMenu("");
+        markSelectedSubMenu("");
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+    </div>
+</div>
+
+<div id="Area-Wrap">
+    <div id="Page-Wrap">
+        
+
+
+        <ul id="bannertop" class="Block-Node">
+            <li>
+                <ul class="Block-Holder">
+                    
+
+
+
+
+
+
+
+<div style="" id="BANNER_TOP" class="Region Rgn_6425 ">
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner38558">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-top"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+                </ul>
+            </li>
+        </ul>
+
+        <div id="Column-Wrap">
+
+
+
+
+
+
+
+<div style="" id="UNDER_MENU_HEADER" class="Region Rgn_6824 ">
+
+<div class="Clear-Block"></div>
+</div>
+            <div id="biography-navigation"></div>
+            <div class="JRegion" id="column-top-middle"></div>
+            <div class="JRegion" id="Column-Left"></div>
+            <div class="JRegion" id="Column-Middle">
+                
+
+
+<ul class="Bread-Crumb-Navigator">
+    
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+
+            
+                
+                    <a itemprop="url" href='/'><span itemprop="title">Strona główna</span></a>
+                
+                
+            
+
+        </li>
+    
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+
+            
+                
+                    <a itemprop="url" href='http://www.forbes.pl/investor,kategoria,166,1.html'><span itemprop="title">Investor</span></a>
+                
+                
+            
+
+        </li>
+    
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+
+            
+                
+                    <a itemprop="url" href='http://www.forbes.pl/investor-analizy,kategoria,193,1.html'><span itemprop="title">Investor analizy</span></a>
+                
+                
+            
+
+        </li>
+    
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+
+            
+                
+                    <a itemprop="url" href='http://www.forbes.pl/investor-gpw-analizy,kategoria,196,1.html'><span itemprop="title">Investor GPW analizy</span></a>
+                
+                
+            
+
+        </li>
+    
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+
+            
+                
+                    <a itemprop="url" href='http://www.forbes.pl/investor/gpw/artykuly/analizy-gpw/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1'><span itemprop="title">Słaby rok na GPW: dwie spółki z WIG20 na plusie</span></a>
+                
+                
+            
+
+        </li>
+    
+</ul>
+                
+
+
+
+
+
+
+
+
+<div class="Block-Node Content-Article ">
+
+<div id="ARTICLE_OVER_HEADER" class="Block-Node Region Rgn_6602">
+    
+</div>
+
+<h1 class="Styled">Słaby rok na GPW: dwie spółki z WIG20 na plusie</h1>
+
+
+
+<h6 class="datetime">
+    
+        30.12.2011 00:00
+        , ostatnia aktualizacja
+            
+                
+                    30.12.2011 13:09
+                
+                
+            
+        
+    
+</h6>
+
+
+
+
+
+
+
+
+
+<div style="" id="ARTICLE_BRANDVOICE_DESCRIPTION" class="Region Rgn_6599 ">
+
+<div class="Clear-Block"></div>
+</div>
+
+
+
+
+<div class="Clear-Block"></div>
+
+<cite class="Styled"><strong>Wśród dwudziestu największych spółek notowanych na warszawskiej giełdzie tylko dwie w ciągu minionych dwunastu miesięcy dały zarobić inwestorom. Rekordzistą wzrostu jest PGNiG, którego akcje podrożały o 15 proc. Rekordzistą spadków - PBG, którego akcje potaniały o 66 procent</strong></cite>
+
+<div class="Social-Area-Article">
+    <div class="Social-Container-Top">
+        <div class="Cell-Facebook">
+            <div class="fb-like" data-href="http://www.forbes.pl/investor/gpw/artykuly/analizy-gpw/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1" data-width="200" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+
+        </div>
+        <div class="Cell-Twitter"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a></div>
+        <div class="Cell-GooglePlus">
+            <!-- Place this tag where you want the +1 button to render. -->
+            <div class="g-plusone" data-size="medium"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                window.___gcfg = {lang: 'pl'};
+
+                (function () {
+                    var po = document.createElement('script');
+                    po.type = 'text/javascript';
+                    po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+        </div>
+        <!--<div class="Cell-LinkedIn">
+            <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+            <script type="IN/Share" data-counter="right"></script>
+        </div>-->
+        <div class="Clear-Block"></div>
+    </div>
+
+
+    
+
+    <div id="fb-root"></div>
+
+    <script type="text/javascript">
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.3&appId=260859193942272";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+        window.___gcfg = {lang: 'pl'};
+        (function () {
+            var po = document.createElement('script');
+            po.type = 'text/javascript';
+            po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(po, s);
+        })();
+
+        !function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (!d.getElementById(id)) {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, "script", "twitter-wjs");
+    </script>
+
+</div>
+<div class="Article-Entry Styled">
+
+    
+        
+        
+            <div class="Article-Block-Inner Block-Inner-Left">
+                
+                
+
+
+
+
+
+
+
+<div style="" id="CONTENT_LIST_ARTICLE" class="Region Rgn_6449 ">
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+            </div>
+
+        
+
+    
+
+
+    <div id="article-body-wrapper">
+        <div class="3917dc34e07c9c7180df2ea9ef103361b48d33edf1f93c593e3abf72c44bd75d">
+            <p>Mijający rok nie był najlepszy dla warszawskiej giełdy. Wśród największych spółek notowanych na warszawskim parkiecie w ciągu ostatnich dwunastu miesięcy akcje zaledwie dwóch zyskały na wartości. Na plus wyróżnił się gazowy gigant PGNiG, którego stopa zwrotu przekroczyła 15 proc. Zyskały, choć znacznie mniej (+3,36 proc.) akcje Telekomunikacji Polskiej.</p><p><strong>Główny analityk CDM Pekao Wojciech Białek ocenił, że gdyby na początku 2011 r. typować listę spółek, które mają szanse na wzrosty, to PGNiG i TPSA znalazłby się w tym gronie</strong>. - Rynek bojąc się, że znajdujemy się w początkowej fazie dłuższego spowolnienia, kryzysu wybierał spółki o maksymalnie defensywnym charakterze, czyli o niskiej wrażliwości na cykliczne wahania na rynku. Branża telekomunikacyjna jest branżą najmniej podatną na te wahania, podobnie jak PGNiG - powiedział Białek.</p>
+        </div>
+
+        <div class="Block-Node Content-Article">
+        </div>
+
+
+        
+            
+            
+
+            
+        
+
+        <div class="Block-Node Content-Article">
+        </div>
+
+        <div class="3917dc34e07c9c7180df2ea9ef103361b48d33edf1f93c593e3abf72c44bd75d">
+            <p><a href="http://www.forbes.pl/investor/gpw/artykuly/analizy-gpw/10-gieldowych-rozczarowan-2011-roku,22749,1" target="_blank"><strong>Przeczytaj o 10 giełdowych rozczarowaniach 2011 roku »</strong></a></p><p>Pozostałe największe spółki notowane na GPW straciły na wartości. <strong>Rekordzistą spadków był spółka z branży budowlanej - PBG</strong>. Jej akcje potaniały w ciągu roku o ponad 66 proc., do 71 zł (z 213 zł).</p><p>Mocno przecenione zostały też akcje innej spółki z branży budowlanej - GTC. Jej papiery potaniały przez rok o ponad 61 proc., do ok. 9 zł.</p><p><strong>- To może być zaskoczeniem, bo koniunktura w budownictwie nie jest najgorsza</strong>. Mogły tu jednak odgrywać rolę wspomnienia z lat 2007-2009, kiedy budownictwo było sektorem, który poległ na całej linii. Inwestorzy, którzy zakładali, że kryzys w strefie euro stanowi preludium do katastrofy podobnej do tej z lat 2007-2009 pozbywali się aktywów, które wtedy mocno traciły - powiedział analityk CDM Pekao.</p>
+        </div>
+
+        <div class="Block-Node Content-Article">
+        </div>
+
+        <div>
+            
+
+
+
+
+
+
+
+<div style="" id="ARTICLE_INNER_RELATED_GALLERY" class="Region Rgn_6632 ">
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+        </div>
+
+
+        <div class="Block-Node Content-Article">
+        </div>
+
+
+        <div id="Article-Inner-Content" class="Block-Node Content-List">
+            
+
+
+
+
+
+
+
+<div style="" id="ARTICLE_INNER_CONTENT" class="Region Rgn_6473 ">
+
+    
+        
+
+
+
+
+
+
+    
+        <span class="twoElHeader">Reklama</span>
+        <div class="twoElemental reklama">
+    
+    
+
+
+    
+  <div class="twoElleq">
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+<div id='region-item39302'>
+    
+        
+
+            
+                <div style="text-align:left;max-width:620px;max-height:300px;">
+	<div style="width:300px;float:left;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1641094773980998";
+/* Forbes - artyku≥  lewo */
+google_ad_slot = "6717818120";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</div>
+</div>
+            
+        
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+  </div>
+    
+
+    <div class="twoElreq">
+    
+    
+    
+    
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner48123">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-left"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+
+
+</div>
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+        </div>
+
+        
+        <div class="3917dc34e07c9c7180df2ea9ef103361b48d33edf1f93c593e3abf72c44bd75d">
+            <p>W tym roku słabo radziły sobie też spółki z branży finansowej. Akcje Banku Handlowego potaniały o ponad 26 proc., BRE Banku o przeszło 17 proc., Getin Holding - o 38 proc., Pekao SA - o 21 proc., a PKO BP - o 25 proc. Wojciech Białek ocenił, że powodem przeceny akcji banków należy doszukiwać się poza granicami Polski. Kryzys w strefie euro odbił się bowiem negatywnie na kondycji europejskich banków, które są właścicielami polskich spółek córek.</p><p><strong>- Choroba zachodnioeuropejskich banków, spółek-matek, tłumaczy przeceny akcji polskich banków</strong>. Nasz sektor bankowy prezentuje się wyjątkowo dobrze na tle tego, co się dzieje w Europie. Mimo to obawy inwestorów, że słabe spółki-matki będą ciągnąć w dół spółki-córki pewnie zaważyły na ostrożności inwestorów w stosunku do polskich banków - ocenił analityk.</p>
+            <p>Podobnego zdania jest Michał Konarski, analityk sektora bankowego z Wood&amp;Company, który powiedział, że inwestorzy reagowali negatywnie na polski sektor finansowy, mimo że kondycja polskich banków jest dobra. - Polska nie jest odizolowaną wyspą, inwestorzy reagowali na to, co się działo na Zachodzie, stąd przeceny - powiedział analityk.</p><p>Konarski dodał, że przyszłym roku spodziewane jest spowolnienie gospodarki, które będzie miało wpływ na sytuację sektora finansowego, co może nadal odbijać się na notowaniach banków.</p><p><strong>Pod kreską rok kończą też spółki wydobywcze</strong>. Jastrzębska Spółka Węglowa od debiutu w lipcu potaniała o 38 proc., akcje KGHM zostały przecenione przez 12 miesięcy o niemal 34 proc., a Bogdanka potaniała o 5,4 proc.</p><p>W przypadku spółek energetycznych: akcje PGE potaniały o 8,6 proc., Tauronu - o 19 proc.</p><p><strong>Potaniały też papiery spółek paliwowych: akcje PKN Orlen zostały przecenione o 28 proc., a Grupy Lotos - o 36 proc.</strong></p>
+        </div>
+
+        
+    </div>
+
+    
+        
+
+
+
+
+  
+      <p style="text-align: right;" class="logo-pap">
+        <img src="/resources/images/logo_PAP.jpeg" alt="">
+      </p>
+  
+
+  
+
+  
+
+  
+  
+
+
+    
+
+    
+        <h5 class="Keywords Styled topicWords">
+            
+                <a href="http://www.forbes.pl/pgnig,firma,194876,1,1.html" >
+                    
+                        
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/crop/26/26/forbes/635672011864439384.jpg"
+                class=""
+            
+        
+                alt="PGNiG"
+                title="PGNiG" border="0" />
+        
+        
+    
+    
+
+
+                    
+                    PGNiG
+                </a>
+            
+                <a href="/tagi/2379/spadki-na-gieldzie/1/" >
+                    
+                    spadki na giełdzie
+                </a>
+            
+                <a href="/tagi/13082/podsumowanie-roku-2011/1/" >
+                    
+                    podsumowanie roku 2011
+                </a>
+            
+                <a href="/tagi/10823/tpsa/1/" >
+                    
+                    TPSA
+                </a>
+            
+                <a href="/tagi/11076/spadki-na-gpw/1/" >
+                    
+                    spadki na GPW
+                </a>
+            
+                <a href="/tagi/136/wig20/1/" >
+                    
+                    WIG20
+                </a>
+            
+                <a href="/tagi/758/pbg/1/" >
+                    
+                    PBG
+                </a>
+            
+                <a href="/tagi/4117/wyniki-spolek/1/" >
+                    
+                    wyniki spółek
+                </a>
+            
+        </h5>
+    
+
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+    <div class="Clear-Block"></div>
+</div>
+</div>
+
+<div id="Article-Middle-Content" class="Block-Node Content-List">
+    
+
+
+
+
+
+
+
+<div style="" id="ARTICLE_MIDDLE_CONTENT" class="Region Rgn_6467 ">
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner39839">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-flat-boxright5"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item54552'>
+    
+        
+        
+            <script type="text/javascript">
+var _r = document.referrer ? encodeURIComponent(document.referrer) : '';
+var _w = encodeURIComponent(document.location.href);
+var _e = document.inputEncoding ? document.inputEncoding : document.charset;
+document.write('<script type="text/javascript" src="http://ads.businessclick.com/awrapper?data=3917dc34e07c9c7180df2ea9ef10336117797fdd81e91481e33d0b08d684fdf1&ref2='+_w+'&ref1='+_r+'&referer='+_r+'&webpage='+_w+'&v=2&encoding='+_e+'&oid=3917dc34e07c9c7180df2ea9ef103361"><\/script>');
+</script>
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item54557'>
+    
+        
+        
+            <!--<script type="text/javascript" data-key="5FD0-56A7-7B28-1735-1VJ3Du">
+  var __nc_widgets = __nc_widgets || [];
+  var __nc_j = __nc_j || null;
+
+  __nc_widgets.push(['5FD0-56A7-7B28-1735-1VJ3Du', 'forbes.pl', 'recommendation', 1, 1]);
+
+  (function() {
+    var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';
+    __nc.src = 'http://nextclick.pl/widget/widget.recommendation.1.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);
+  })();
+</script>
+-->
+
+<!--<div data-widget="plista_widget_belowArticle"></div>
+ 
+<script type="text/javascript">
+if (!window.PLISTA) {
+     window.PLISTA = {
+        publickey: 'c92eab64f5bb51324d2942a1',
+        item: {
+            objectid: "1137092b50", //unique ID, alphanumeric
+            title: "Lorem ipsum", //max 255 characters
+            text: "dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.", //max 255 characters
+            url: "http://example.net/newsticker/artikel.html", //max 1024 characters
+            img: "http://example.net/images/artImg_1137092b50.jpg", //max 255 characters
+            category: 'News',
+            published_at: 1400000000 //UNIX timestamp
+        }
+    };
+    (function(){var n='script',d=document,s=d.createElement(n),s0=d.getElementsByTagName(n)[0];s.async='async';s.type='text/javascript';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//static.plista.com/async.js';s0.parentNode.insertBefore(s,s0)}());
+}
+</script> -->
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+    
+        
+
+
+
+<script type="text/javascript" src='http://www.forbes.pl/resources/common-resources/js/jQuery/jquery-migrate-1.2.1.min.52860446.js'></script>
+
+<div class="Comments " style="overflow:hidden">
+    ﻿
+
+
+
+
+
+
+			<script type="text/javascript">
+			<!--
+			
+			if(!OF){var OF = {};};
+			
+			OF.abTesting = 0;
+			//-->
+		</script>
+		  <link href="http://ocdn.eu/files/deploy/NTk7MDA_/4b147ff3c59cd1da4fabebd5cf76b129.css"   media="all" rel="stylesheet" type="text/css" />
+  <link href="http://ocdn.eu/files/deploy/NzI7MDA_/81df8a2ce748311cc07ae3d5b06b4b17.css"   media="all" rel="stylesheet" type="text/css" />
+  <link href="http://ocdn.eu/files/deploy/NTI7MDA_/73a7f1f801402b37c2bee7a2e5104c16.css"   media="all" rel="stylesheet" type="text/css" />
+  <link href="http://ocdn.eu/files/deploy/ZjY7MDA_/e2f8e4c09f35fc282674c66c0d615a49.css"   media="all" rel="stylesheet" type="text/css" />
+
+	<script src="http://ocdn.eu/files/deploy/OWI7MDA_/d7ff7ee4e71738789a188d58bfec9b28.js" type="text/javascript" ></script>
+<script>(!window.Native || !window.ApplicationFacade) && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FNDU7MDA_%2F74163d3187c60276ff0cc4048d8fdf09.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>!window.InitCommentatorCommand && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FMmU7MDA_%2F5f4960d2a7632947e6cb091b63829deb.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>(!window.OF || !OF.Loader) && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FMjE7MDA_%2F68b329da9893e34099c7d8ad5cb9c940.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>!window.$.fn.tooltip && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FZTU7MDA_%2Fa261ce35623740a672cf04078ef89f7d.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>(!window.JSON || !JSON.parse) && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FNjM7MDA_%2Fe57f7524f55748a60baa667c4d5dd5c5.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>!window.InitReaderCommand && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FNTE7MDA_%2F3a0a964a294de366c01fcfc8fbe1ab06.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>!window.ForumCloudComponent && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FOTI7MDA_%2F147eda12644195f87763a96f7db75190.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>!window.galvatar && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FZWE7MDA_%2F365ab8578274462603f21006f96a36c9.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script><script>!window.easyXDM && document.write(unescape('%3Cscript%20src%3D%22http%3A%2F%2Focdn.eu%2Ffiles%2Fdeploy%2FOTA7MDA_%2Fbe73e201317c571319942717d3c30ec0.js%22%20type%3D%22text%2Fjavascript%22%20%3E%3C%2Fscript%3E'))</script>
+<!--[if lt IE 9]><script src="http://ocdn.eu/files/deploy/Y2Y7MDA_/0f499e63fd8b442fef4925b8e627f32f.js"></script><![endif]-->
+
+			<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['PF._setAccount', 'UA-21605888-30']);
+		_gaq.push(['PF._trackPageview']);
+		//_gaq.push(['PF._trackEvent', 'Forum Page Module Events', 'show', document.location.href]);
+	</script>
+
+<script type="text/javascript">
+	
+		var _gaq = _gaq || [];
+		
+		$(function() {
+			if($('.k_nForum_Vote').length){
+				$('.k_nForum_MarkDownIco').click(function(){
+					_gaq.push(['PF._trackEvent', 'Forum Common Page Events', 'vote', 'down' ]);
+				});
+				$('.k_nForum_MarkUpIco').click(function(){
+					_gaq.push(['PF._trackEvent', 'Forum Common Page Events', 'vote', 'up']);
+				});
+			}
+		});
+		
+		
+</script>
+	<div id="forum-out-commentator"></div>
+<div id="forum-o-mainbox" class="forum-o-mainbox">
+	
+    		<script type="text/javascript">
+			<!--
+			
+			if(!OF){var OF = {};};
+			
+			OF.available_packages = {"base-default.css":{"hash":"9d1aa5450f060b16150935ed1f026426","time":1452858519,"url":"http:\/\/ocdn.eu\/files\/deploy\/MzE7MDA_\/90a408e70b0be0431e25c982f3e47844.css","type":"stylesheets"},"dBoard-default.css":{"hash":"9b166d104f391ddeb366640a0cf4ed59","time":1452858520,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZWE7MDA_\/40f1e1072e652d2d20e22739b2b17863.css","type":"stylesheets"},"dBoard-commentator.css":{"hash":"6c5d3af483bc44c6f55f9012fe1036b9","time":1452858522,"url":"http:\/\/ocdn.eu\/files\/deploy\/OWY7MDA_\/d68a43425a62bd819b902c4cfa7c604f.css","type":"stylesheets"},"fplatform-global.css":{"hash":"6d7bb9f3625658c06d09e33f720aa409","time":1452858524,"url":"http:\/\/ocdn.eu\/files\/deploy\/Yjg7MDA_\/99ae97876d4415068f71fa6b4c9a00de.css","type":"stylesheets"},"fplatform-topButton.css":{"hash":"8ac016927ce0a2404cab7db723ef3887","time":1452858525,"url":"http:\/\/ocdn.eu\/files\/deploy\/MTA7MDA_\/9bad8fe62459a08ad42a9ec4acecc9a1.css","type":"stylesheets"},"fplatform-xhr-detail.css":{"hash":"addabd697f6752cf3e721d3a39cf6d0e","time":1452858525,"url":"http:\/\/ocdn.eu\/files\/deploy\/N2M7MDA_\/0e8d259db8e08e0f2df7b886bf19ad6a.css","type":"stylesheets"},"fplatform-detail.css":{"hash":"2bb8b901f71595b63463228f7c899bd7","time":1452858526,"url":"http:\/\/ocdn.eu\/files\/deploy\/NWI7MDA_\/c0517cd772ab6e6a7eceeec83b8b337d.css","type":"stylesheets"},"fplatform-common.css":{"hash":"b4345fd05a2eb48038a9b20a70bae822","time":1452858527,"url":"http:\/\/ocdn.eu\/files\/deploy\/NTI7MDA_\/73a7f1f801402b37c2bee7a2e5104c16.css","type":"stylesheets"},"fplatform-nforum-topcomments.css":{"hash":"e6dc90f306aeee9f974ce4e6fb28a0f2","time":1452858528,"url":"http:\/\/ocdn.eu\/files\/deploy\/NTk7MDA_\/81241229709ee33f3718e2a7dd42ffc2.css","type":"stylesheets"},"fplatform-nforum-newcomments.css":{"hash":"dac2189e0b9a14b4f446ac5b30f50487","time":1452858529,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZTA7MDA_\/8880130a0267326bf4d882644bef686b.css","type":"stylesheets"},"fplatform-nforum-search.css":{"hash":"a974775983b85002975ca3f7d83f9836","time":1452858529,"url":"http:\/\/ocdn.eu\/files\/deploy\/YjE7MDA_\/c577c722856ec7ff45b029a9f277c42d.css","type":"stylesheets"},"fplatform-nforum-commentator.css":{"hash":"07cffaffa18f8b34d6cb587de9da70ca","time":1452858530,"url":"http:\/\/ocdn.eu\/files\/deploy\/NTk7MDA_\/4b147ff3c59cd1da4fabebd5cf76b129.css","type":"stylesheets"},"fplatform-nforum-reader.css":{"hash":"8a2dc43162c332b807cfe39e0ac89430","time":1452858531,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZjY7MDA_\/e2f8e4c09f35fc282674c66c0d615a49.css","type":"stylesheets"},"fplatform-local.css":{"hash":"b8d05848be9f1f96e3966743686ae1d0","time":1452858532,"url":"http:\/\/ocdn.eu\/files\/deploy\/NmM7MDA_\/d2e051fae9debd81fc8cb24d8c931330.css","type":"stylesheets"},"fplatform-topusers.css":{"hash":"55d4f4f690700f2827ea13c957bf75af","time":1452858533,"url":"http:\/\/ocdn.eu\/files\/deploy\/YzQ7MDA_\/ffa8c6c9acfac953e913831629ec0d01.css","type":"stylesheets"},"fplatform-nforum.css":{"hash":"57e09ea20c35eeeecd91d926efe3d5f4","time":1452858534,"url":"http:\/\/ocdn.eu\/files\/deploy\/NzI7MDA_\/81df8a2ce748311cc07ae3d5b06b4b17.css","type":"stylesheets"},"fplatform-forum_mob.css":{"hash":"e644e978b9f53c730eea6b0be94cf2e8","time":1452858537,"url":"http:\/\/ocdn.eu\/files\/deploy\/MGY7MDA_\/db4c87952ce47d50db59e38da6acecb7.css","type":"stylesheets"},"service-local-fakt.css":{"hash":"71b9805b690a93b11d50eb6bb842ec23","time":1452858539,"url":"http:\/\/ocdn.eu\/files\/deploy\/YzM7MDA_\/0fac0db80e76af1b111dc5aab3669849.css","type":"stylesheets"},"fplatform-mobile-css.css":{"hash":"da0302acf6560b4be96a274045dd0c64","time":1452858540,"url":"http:\/\/ocdn.eu\/files\/deploy\/MGQ7MDA_\/03c5dd4b4aa8d11db127af834ed947af.css","type":"stylesheets"},"empty.css":{"hash":"0f99693facb9d1fdbb4edf1de89f7521","time":1452858542,"url":"http:\/\/ocdn.eu\/files\/deploy\/N2Y7MDA_\/0f99693facb9d1fdbb4edf1de89f7521.css","type":"stylesheets"},"fplatform-galvatar-excanvas.js":{"hash":"4a9eaf2a4bee92d2db6a1251bece3982","time":1452858542,"url":"http:\/\/ocdn.eu\/files\/deploy\/Y2Y7MDA_\/0f499e63fd8b442fef4925b8e627f32f.js","type":"javascripts"},"pack-nforumnotifications.js":{"hash":"36e3707f22caf9d215641d60ae3f500e","time":1452858548,"url":"http:\/\/ocdn.eu\/files\/deploy\/YjI7MDA_\/f1263e8a68a34b6cdd46afbe39487238.js","type":"javascripts"},"fplatform-datepicker-js.js":{"hash":"2907c0ae062859ccc05ac3b7974035ad","time":1452858552,"url":"http:\/\/ocdn.eu\/files\/deploy\/MGM7MDA_\/950f687b7463e8035bee296220788cef.js","type":"javascripts"},"fplatform-loader-js.js":{"hash":"f9d44bacc3506c2cd297b3db0cbeaa94","time":1452858562,"url":"http:\/\/ocdn.eu\/files\/deploy\/MjE7MDA_\/68b329da9893e34099c7d8ad5cb9c940.js","type":"javascripts"},"fplatform-puremvc-core.js":{"hash":"80f5182942d1577e7d28c51d64ec3139","time":1452858566,"url":"http:\/\/ocdn.eu\/files\/deploy\/NDU7MDA_\/74163d3187c60276ff0cc4048d8fdf09.js","type":"javascripts"},"fplatform-core-js.js":{"hash":"ca368f14919977bef0e971170220c9cb","time":1452858571,"url":"http:\/\/ocdn.eu\/files\/deploy\/NjM7MDA_\/e57f7524f55748a60baa667c4d5dd5c5.js","type":"javascripts"},"fplatform-outside-easyXDM.js":{"hash":"e817a1092069db64d265c10000f4382f","time":1452858586,"url":"http:\/\/ocdn.eu\/files\/deploy\/OTA7MDA_\/be73e201317c571319942717d3c30ec0.js","type":"javascripts"},"fplatform-plugins-js.js":{"hash":"428dd804fec257927c83cf75f5e881f0","time":1452858594,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZTU7MDA_\/a261ce35623740a672cf04078ef89f7d.js","type":"javascripts"},"fplatform-nforum-common.js":{"hash":"b1b2a2116c904e89d7123e216ec31917","time":1452858613,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZWE7MDA_\/365ab8578274462603f21006f96a36c9.js","type":"javascripts"},"fplatform-nforum-reader-app.js":{"hash":"70a8c06960f5b037b1008f028a681622","time":1452858619,"url":"http:\/\/ocdn.eu\/files\/deploy\/NTE7MDA_\/3a0a964a294de366c01fcfc8fbe1ab06.js","type":"javascripts"},"fplatform-nforum-cloud.js":{"hash":"413aa3482c3b33194d0a221d020a162d","time":1452858628,"url":"http:\/\/ocdn.eu\/files\/deploy\/OTI7MDA_\/147eda12644195f87763a96f7db75190.js","type":"javascripts"},"fplatform-nforum-app.js":{"hash":"5f4960d2a7632947e6cb091b63829deb","time":1452858633,"url":"http:\/\/ocdn.eu\/files\/deploy\/MmU7MDA_\/5f4960d2a7632947e6cb091b63829deb.js","type":"javascripts"},"fplatform-newsdetail.js":{"hash":"c3fb77b55ab6a307f39523e76e1f0222","time":1452858637,"url":"http:\/\/ocdn.eu\/files\/deploy\/M2M7MDA_\/088d4fb08403c1ae60cfb07572b8cb28.js","type":"javascripts"},"dBoard-jq.js":{"hash":"c311c5e04fd53319d2d1956450cbf245","time":1452858655,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZmY7MDA_\/c3bdb39053fd6a99863023fea2943701.js","type":"javascripts"},"dBoard-extlibs.js":{"hash":"715843f7b8c066859b2113ad1c03d807","time":1452858678,"url":"http:\/\/ocdn.eu\/files\/deploy\/NjU7MDA_\/fda6193cc60422f177928cc04b0de062.js","type":"javascripts"},"dBoard-commentator.js":{"hash":"650dd2ecee002407ae1514e10cd92e60","time":1452858690,"url":"http:\/\/ocdn.eu\/files\/deploy\/OWM7MDA_\/8d0aec1a58db32ffb3b4ea02d36d1ad1.js","type":"javascripts"},"dBoard-topic.js":{"hash":"f341f3bfc9ec0015c0bfbc6000e50edb","time":1452858702,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZDE7MDA_\/d63d36f5958d3aafb41fdc1fbd14540e.js","type":"javascripts"},"translatejs-En.js":{"hash":"5138d734528e6959c5405d753d3135e2","time":1452858709,"url":"http:\/\/ocdn.eu\/files\/deploy\/YzM7MDA_\/08b49ee8ce830e80130079c5267e305d.js","type":"javascripts"},"translatejs-Pl.js":{"hash":"a0b2d603ec428c41f7db3ab446f1b461","time":1452858713,"url":"http:\/\/ocdn.eu\/files\/deploy\/OWI7MDA_\/d7ff7ee4e71738789a188d58bfec9b28.js","type":"javascripts"},"fplatform-jq-js.js":{"hash":"8ee6d5a38a99a69cd29293005484258f","time":1452858717,"url":"http:\/\/ocdn.eu\/files\/deploy\/ZGE7MDA_\/ca67a53325ff15ca60e5272334a72d89.js","type":"javascripts"},"fplatform-mobile-js.js":{"hash":"e6d9324dff3ba7d969fae4d4c0f5fd9d","time":1452858739,"url":"http:\/\/ocdn.eu\/files\/deploy\/YjE7MDA_\/e6d9324dff3ba7d969fae4d4c0f5fd9d.js","type":"javascripts"},"translatejs-Hu.js":{"hash":"63bd2d9326ec61e0d9c679ce5f251af4","time":1452858746,"url":"http:\/\/ocdn.eu\/files\/deploy\/NGM7MDA_\/d60e6584aad6108bd8e9de5d08e98e20.js","type":"javascripts"},"translatejs-Rs.js":{"hash":"279e541ad5823c54718b1dd76b93a75e","time":1452858751,"url":"http:\/\/ocdn.eu\/files\/deploy\/MWY7MDA_\/66f82da7dadbf028939226bc93bb1e8f.js","type":"javascripts"},"empty-app.js":{"hash":"6994ab59a5046d48e7d028f8efec474e","time":1452858756,"url":"http:\/\/ocdn.eu\/files\/deploy\/YWI7MDA_\/29b72bfaf43636dca4ed50b96d1e9280.js","type":"javascripts"}}
+						//-->
+		</script>
+					
+
+			<script>
+			//<![CDATA[
+
+			var forumCss = '';	
+				//baseTxt
+				forumCss+='div.forum-o-mainbox .k_nForum_ReaderContentFrame,\n\
+							div.forum-o-mainbox h2.k_nForum_Header2,\n\
+							div.forum-o-mainbox .k_nForum_Header1,\n\
+							div.onetforum .k_nForum_ReaderContentFrame,\n\
+							div.onetforum .k_nForum_ReaderV2Header h2.k_nForum_Header2.specialMenu ul li b,\n\
+							div.onetforum .k_nForum_ReaderV2Header h2.k_nForum_Header2.specialMenu ul li a,\n\
+							div.onetforum .k_nForum_Header2,\n\
+							div.onetforum .k_nForum_Header1{\n\
+								color:#555; \n\
+				}';
+
+				//infoTxt
+				forumCss+='div.forum-o-mainbox .k_nForum_readerTools,\n\
+						div.forum-o-mainbox .k_nForum_readerTools .k_nForum_Actions .k_nForum_VoteUp,\n\
+						div.forum-o-mainbox .k_nForum_readerTools .k_nForum_Actions .k_nForum_VoteDown,\n\
+						div.forum-o-mainbox .k_nForum_readerTools .k_nForum_VoteTipDesc,\n\
+						div.forum-o-mainbox .k_nForum_Header1 span,\n\
+						div.forum-o-mainbox .k_nForum_MoreActionsShareInfo,\n\
+						div.onetforum .k_nForum_readerTools,\n\
+						div.onetforum .k_nForum_readerTools .k_nForum_Actions .k_nForum_VoteUp,\n\
+						div.onetforum .k_nForum_readerTools .k_nForum_Actions .k_nForum_VoteDown,\n\
+						div.onetforum .k_nForum_readerTools .k_nForum_VoteTipDesc,\n\
+						div.onetforum .k_nForum_Header1 span,\n\
+						div.onetforum .k_nForum_MoreActionsShareInfo\n\
+								{color:#aaaaaa; }';
+
+				//lines
+				forumCss+='div.forum-o-mainbox .k_nForum_readerTools .k_nForum_Actions .k_nForum_MoreAction,\n\
+						   div.onetforum .k_nForum_readerTools .k_nForum_Actions .k_nForum_MoreAction\n\
+							{border-right: 1px solid #eeeeee;}';
+				forumCss+='div.forum-o-mainbox .k_nForum_MoreActionsAbuse,\n\
+							div.forum-o-mainbox .k_nForum_readerTools,\n\
+							div.forum-o-mainbox .k_nForum_ReaderHeader,\n\
+							div.onetforum .k_nForum_MoreActionsAbuse,\n\
+							div.onetforum .k_nForum_readerTools,\n\
+							div.onetforum .k_nForum_ReaderHeader\n\
+							{border-color: #eeeeee;}';
+				//link
+				forumCss+='div.forum-o-mainbox a,\n\
+							div.forum-o-mainbox .k_nForum_Commentator form.mUploader .uploader .action,\n\
+							div.k_nForum_Commentator form.mUploader .uploader .action,\n\
+							div.k_nForum_ReaderDiscInfo a,\n\
+							div.forum-o-mainbox .k_author,\n\
+							div.forum-o-mainbox .k_parentAuthor,\n\
+							div.forum-o-mainbox .k_nForum_readerNote .k_author, \n\
+							div.forum-o-mainbox .k_nForum_readerNote .k_parentAuthor, \n\
+							div.forum-o-mainbox .k_nForum_CommentPreview .k_author, \n\
+							div.forum-o-mainbox .k_nForum_readerPathNavigation .k_author, \n\
+							div.forum-o-mainbox .k_nForum_readerPathNavigation .k_parentAuthor,\n\
+							div.forum-o-mainbox .k_nForum_Commentator a, \n\
+							div.onetforum a,\n\
+							div.k_nForum_Commentator a,\n\
+							div.onetforum .k_nForum_Commentator form.mUploader .uploader .action,\n\
+							div.onetforum .k_author,\n\
+							div.onetforum .k_parentAuthor,\n\
+							div.onetforum .k_nForum_readerNote .k_author, \n\
+							div.onetforum .k_nForum_readerNote .k_parentAuthor, \n\
+							div.onetforum .k_nForum_CommentPreview .k_author, \n\
+							div.onetforum .k_nForum_readerPathNavigation .k_author, \n\
+							div.onetforum .k_nForum_readerPathNavigation .k_parentAuthor,\n\
+							div.onetforum .k_nForum_Commentator a \n\
+							{color:#ef1c23; }';
+				//buttons
+				forumCss+='#nForum_commentatorButtons button, \n\
+							#nForum_commentatorButtons input, \n\
+							#nForum_commentButtons button,\n\
+							#nForum_commentSentInfoButtons button, \n\
+							div.forum-o-mainbox .k_nForum_ReaderHeader a.k_makeComment, \n\
+							div.forum-o-mainbox .k_nForum_ReaderShortHeader a.k_makeComment, \n\
+							div.forum-o-mainbox input.k_makeComment,\n\
+							div.forum-o-mainbox .dboard_topic_commentOptions a.dboard_topicButtons,\n\
+							div.onetforum .k_nForum_ReaderHeader a.k_makeComment, \n\
+							div.onetforum .k_nForum_ReaderShortHeader a.k_makeComment, \n\
+							div.onetforum input.k_makeComment,\n\
+							div.onetforum .dboard_topic_commentOptions a.dboard_topicButtons{\n\
+								background-image:none;\n\
+								background-color:#ef1c23;\n\
+								opacity:0.8;\n\
+								color:#fff;\n\
+							}';
+				forumCss+='#nForum_moreButton #forumButton.v_uploadVideoButton.mobile,\n\
+						   .m_forum #k_nForum_Reader_GetMore.v_uploadVideoButton {\n\
+								background-image:none;\n\
+								background-color:#ef1c23;\n\
+								color:#fff;\n\
+							}';
+				//hovery link�w
+				forumCss+='div.forum-o-mainbox a:hover,\n\
+							div.forum-o-mainbox .k_nForum_Commentator a:hover,\n\
+							div.forum-o-mainbox #uniform-mUploaderFile:hover span, \n\
+							div.onetforum a:hover,\n\
+							div.onetforum .k_nForum_Commentator a:hover,\n\
+							div.k_nForum_ReaderDiscInfo a:hover,\n\
+							div.k_nForum_Commentator a:hover,\n\
+							div.onetforum #uniform-mUploaderFile:hover span, \n\
+							div.k_nForum_ReaderDiscInfo a:hover,\n\
+							div.k_nForum_Commentator #uniform-mUploaderFile:hover span \n\
+							{color:#ef1c23; }';
+				// hoverybuttons
+				forumCss+='div.onetforum .dboard_topic_commentOptions a.dboard_topicButtons:hover,\n\
+						   div.forum-o-mainbox .dboard_topic_commentOptions a.dboard_topicButtons:hover{\n\
+								background-color:#ef1c23; \n\
+								opacity:0.8;\n\
+							}';
+				// regulamin kolor
+				forumCss+='div.k_newsDetail.kopyto .regClassColor{\n\
+								color:#555; \n\
+							}';
+				
+							
+				// zasady kolor
+				forumCss+='div.k_newsDetail.kopyto .zasadyClassColor{\n\
+								color:#555; \n\
+							}';
+							
+										
+
+				var styleElement = document.createElement("style");
+				styleElement.type = "text/css";
+				if (styleElement.styleSheet) {
+					styleElement.styleSheet.cssText = forumCss;
+				} else {
+					styleElement.appendChild(document.createTextNode(forumCss));
+				}
+				
+				var body = document.getElementsByTagName("body")[0];
+				if(body){
+					body.appendChild(styleElement); 
+				}
+			//]]>
+
+			</script>
+
+		
+	
+
+
+
+
+	
+
+
+
+			
+
+			
+							
+
+			
+ 
+
+				
+
+	<script type="text/javascript">
+		var galvatarDark = 0;
+	</script>
+
+
+
+
+<script type="text/javascript">
+	notesData = {};
+	notesAttachmentData = {};
+</script>
+
+	
+
+
+
+
+	            <div id="forum" class="onetforum k_nForum_Reader kopyto default ">
+    		 
+		<div class="k_nForum_ReaderShortHeader"> 
+			<h2 class="k_nForum_Header2">
+									<a rel="nofollow" href="http://platforma.forum.onetapi.pl/forum/slaby-rok-na-gpw-dwie-spolki-z-wig20-na-plusie,-991248232,komentuj.html?x-onet-app=notices.front.forum.onetapi.pl&content-type=&service_code=forbes&s=c14b119e6f2ad0a815425d29b62a5f55" target="_blank" onclick="			OF.Tools.commentatorOpen('http://platforma.forum.onetapi.pl/forum/slaby-rok-na-gpw-dwie-spolki-z-wig20-na-plusie,-991248232,komentuj.html?x-onet-app=notices.front.forum.onetapi.pl&content-type=&service_code=forbes&s=c14b119e6f2ad0a815425d29b62a5f55','0');return false;
+		">
+						Co o tym sądzisz? Wypowiedz się na forum!
+					</a>
+							</h2>
+							<a rel="nofollow" class="k_makeComment" href="http://platforma.forum.onetapi.pl/forum/slaby-rok-na-gpw-dwie-spolki-z-wig20-na-plusie,-991248232,komentuj.html?x-onet-app=notices.front.forum.onetapi.pl&content-type=&service_code=forbes&s=c14b119e6f2ad0a815425d29b62a5f55" target="_blank" onclick="			OF.Tools.commentatorOpen('http://platforma.forum.onetapi.pl/forum/slaby-rok-na-gpw-dwie-spolki-z-wig20-na-plusie,-991248232,komentuj.html?x-onet-app=notices.front.forum.onetapi.pl&content-type=&service_code=forbes&s=c14b119e6f2ad0a815425d29b62a5f55','0');return false;
+		">Napisz komentarz<span class="icon"></span></a>
+					</div>
+				
+				
+				<div class="k_nForum_ReaderEmpty">
+		<div>
+			<p>
+				<a class="beFirst" rel="nofollow" href="http://platforma.forum.onetapi.pl/forum/slaby-rok-na-gpw-dwie-spolki-z-wig20-na-plusie,-991248232,komentuj.html?x-onet-app=notices.front.forum.onetapi.pl&content-type=&service_code=forbes&s=c14b119e6f2ad0a815425d29b62a5f55" target="_blank" onclick="			OF.Tools.commentatorOpen('http://platforma.forum.onetapi.pl/forum/slaby-rok-na-gpw-dwie-spolki-z-wig20-na-plusie,-991248232,komentuj.html?x-onet-app=notices.front.forum.onetapi.pl&content-type=&service_code=forbes&s=c14b119e6f2ad0a815425d29b62a5f55','0');return false;
+		">
+                    Bądź pierwszy!<br/>
+                    Wyraź swoją opinię!
+				</a>
+			</p>
+		</div>
+		</div>
+		
+	
+	</div>
+<div id="addthis-root"></div>
+<div id="fb-root"></div>
+
+</div>
+<script type="text/javascript">ApplicationFacadeInstance = ApplicationFacade.getInstance();
+ApplicationFacadeInstance.sendNotification(ApplicationFacade.OF_INIT_READER_STARTAPP, {"ticket":null,"cloud":"1","is_proxy":"0","ajaxPath":"\/forum\/","has_newSession":0,"GFC_siteId":"07636431494722404141","FB_appId":"1415149388701232","avatars":1,"kForumConfig":{"_config":{"mapping":[]},"is_board":0,"is_logged_thread":0,"forum_grey":0,"is_flat":0,"disc_id":-991248232,"category_settings":{"is_allow_to_change_type":1,"is_email_notify":1,"is_added_to_search":1,"is_web_notify":1,"is_boards_included":0,"is_visible_ip":0},"is_closed":0,"slot":0,"is_logged_entry":0,"disc_subject":"S\u0142aby rok na GPW: dwie sp\u00f3\u0142ki z WIG20 na plusie","type":"default","is_votes":1,"is_visible_ip":0,"is_attachments":1,"note_count":0,"is_avatars":1,"is_anonymous":1,"disclaimers":[],"disc_url":"http:\/\/www.forbes.pl\/investor\/gpw\/artykuly\/analizy-gpw\/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1","flags":11,"logged_method_list":[],"source_id":"rasp:forbes-22907","emailNotify":1,"onetLogin":0,"fbLogin":0,"gfcLogin":0,"biznesplLogin":0,"kontoLogin":0,"jesLogin":0,"grayScale":0},"category_code":"forbes","portal_code":"onet","disc_id":-991248232,"disc_subject":"S\u0142aby rok na GPW: dwie sp\u00f3\u0142ki z WIG20 na plusie","disc_url":"http:\/\/www.forbes.pl\/investor\/gpw\/artykuly\/analizy-gpw\/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1","fb_publish_url":"http:\/\/www.forbes.pl\/investor\/gpw\/artykuly\/analizy-gpw\/slaby-rok-na-gpw--dwie-spolki-z-wig20-na-plusie,22907,1","disc_type":null,"source_id":"rasp:forbes-22907","reply":"0","onetSocialReaderIntegration":0,"cloudPositionRelative":1,"topCommentsDynamicList":0,"slicePoint":300,"outside":1,"serviceCode":"forbes"});
+</script>
+
+		
+
+</div>
+<div class="Clear-Block"></div>
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner54659">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-flat-boxright6"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item54681'>
+    
+        
+        
+            <div id="przeswietlWidgetBig" data-tags=""></div>
+<script>
+(function () {
+    var metas = document.getElementsByTagName('meta');
+    var metaKeywords;
+    for(i = 0; i < metas.length; i++){
+        if(metas[i].getAttribute('name') == 'keywords'){
+            metaKeywords = metas[i].getAttribute('content');
+        }
+    }
+    var widget = document.getElementById('przeswietlWidgetBig');
+    widget.setAttribute('data-tags', metaKeywords);
+})();
+
+(function () {
+var l = document.getElementById('przeswietlWidgetBig');
+var x = window.attachEvent, y = window.addEventListener; if (!!x) x('onmessage', z); if (!!y) y('message', z, false);
+l.innerHTML = '<iframe src="https://przeswietl.pl/widget/forbes/type/big/?tags=' + l.getAttribute("data-tags") + '" frameborder="0" scrolling="no" seamless style="border: 0; width: 100%; height: 0;"></iframe>';
+function z(e) { try { l.children[0].style.height = JSON.parse(e.data).przeswietlForbesBigWidgetHeight } catch (f) {} };
+})();
+</script> 
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+</div>
+<div id="Column-Middle">
+    <div id="content" class="Block-Node Content-List">
+        
+
+
+
+
+
+
+
+<div style="" id="ARTICLE_BOTTOM_CONTENT" class="Region Rgn_6464 ">
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" data-key="E1EA-EF70-0B40-E757-1T4o9Z">
+    var __nc_widgets = __nc_widgets || [];
+    var __nc_j = __nc_j || null;
+
+    __nc_widgets.push(['E1EA-EF70-0B40-E757-1T4o9Z', 'forbes.pl', 'floating', 1, 1]);
+
+    (function () {
+        var __nc = document.createElement('script');
+        __nc.type = 'text/javascript';
+        __nc.async = true;
+        __nc.id = 'Nextclick_Manager';
+        __nc.src = 'http://nextclick.pl/widget/widget.floating.1.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(__nc, s);
+    })();
+</script>
+
+            </div>
+            <div class="JRegion" id="Column-Right">
+                <ul id="content right" class="Block-Node">
+                    <li>
+                        <ul class="Block-Holder">
+                            
+
+
+
+
+
+
+
+<div style="" id="RIGHT_SIDEBAR_ARTICLE" class="Region Rgn_6668 ">
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner40139">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-right"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+  
+
+<!-- Blok / Najnowszy numer -->
+<div class="Block-List Block-Holder Right-List-Wydarzenia">
+    <div class="headerh4">
+        
+
+
+
+
+  
+  
+  
+    <a href="http://www.forbes.pl/" >Polecamy</a>
+  
+  
+  
+
+    </div>
+  <!-- Rozbudowany element listy -->
+  <div class="First-Listed-Photo">
+    <a href="http://www.forbes.pl/david-bowie-muzyczny-wizjoner-i-finansowy-pionier-,artykuly,201742,1,1.html" >
+      
+      
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/300/0/forbes/635882086786363528.jpg"
+                class="Shady imgCover"
+            
+        
+                alt="David Bowie. Wizjoner muzyczny i pionier finansowy?"
+                title="David Bowie. Wizjoner muzyczny i pionier finansowy?" border="0" />
+        
+        
+    
+    
+
+
+    </a>
+    <h2 class="Styled"><a href='http://www.forbes.pl/david-bowie-muzyczny-wizjoner-i-finansowy-pionier-,artykuly,201742,1,1.html'>David Bowie. Wizjoner muzyczny i pionier finansowy?</a></h2>
+  </div>
+  <ul class="Simple-View">
+    
+      <li class="t_ARTICLE ">
+          <a class="imgLnk" href="http://www.forbes.pl/junak-wrocil-do-kraju-z-korei,artykuly,201295,1,1.html" >
+                  
+              
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635884689269449638.jpg"
+                class="Shady imgCover"
+            
+        
+                alt="Polska legenda wraca z Korei"
+                title="Polska legenda wraca z Korei" border="0" />
+        
+        
+    
+    
+
+
+          </a>
+        <h2><a href='http://www.forbes.pl/junak-wrocil-do-kraju-z-korei,artykuly,201295,1,1.html'>Polska legenda wraca z Korei</a></h2>
+      </li>
+    
+      <li class="t_ARTICLE ">
+          <a class="imgLnk" href="http://www.forbes.pl/rozwijanie-handlu-to-bylo-niezle-szalenstwo,artykuly,201235,1,1.html" >
+                  
+              
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635880992065623756.png"
+                class="Shady imgCover"
+            
+        
+                alt="Marzena Gradecka: Rozwijanie handlu to było niezłe szaleństwo"
+                title="Marzena Gradecka: Rozwijanie handlu to było niezłe szaleństwo" border="0" />
+        
+        
+    
+    
+
+
+          </a>
+        <h2><a href='http://www.forbes.pl/rozwijanie-handlu-to-bylo-niezle-szalenstwo,artykuly,201235,1,1.html'>Marzena Gradecka: Rozwijanie handlu to było niezłe szaleństwo</a></h2>
+      </li>
+    
+      <li class="t_ARTICLE ">
+          <a class="imgLnk" href="http://www.forbes.pl/piotr-voelkel-polacy-stworza-meblarskie-marki,artykuly,201248,1,1.html" >
+                  
+              
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635883780838628179.jpg"
+                class="Shady imgCover"
+            
+        
+                alt="Polacy stworzą meblarskie marki"
+                title="Polacy stworzą meblarskie marki" border="0" />
+        
+        
+    
+    
+
+
+          </a>
+        <h2><a href='http://www.forbes.pl/piotr-voelkel-polacy-stworza-meblarskie-marki,artykuly,201248,1,1.html'>Polacy stworzą meblarskie marki</a></h2>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner54609">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-flat-boxright1"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner54612">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-flat-boxright2"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+    
+
+    <div class="Authors-ListRC Block-Holder">
+
+        <h4>
+            
+
+
+
+
+  
+  
+    <a href="http://www.forbes.pl/investor-gpw-analizy,kategoria,196,1.html" >Najpopularniejsi autorzy - 24 godziny</a>
+  
+  
+  
+  
+
+        </h4>
+
+        <ul>
+            
+                <li>
+                    <span class="authNr">1</span>
+                    <a href="http://www.forbes.pl/krzysztof-domaradzki,autor,5348,1.html"  class="authLink">
+                        
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/78/78/forbes/635108856552526098.jpg"
+                class=""
+            
+        
+                alt="Krzysztof Domaradzki"
+                title="Krzysztof Domaradzki" border="0" />
+        
+        
+    
+    
+
+
+                        <span class="auth">
+                            <span class="authName">Krzysztof Domaradzki</span><br />
+                            <span class="authPosition">
+
+
+
+
+
+    
+        
+        
+        
+  
+  <span class="pstn">Redakcja</span>
+        
+    
+</span>
+                        </span>
+                    </a>
+
+                    
+
+                        
+
+                        <ul>
+                            
+                                <li>
+                                    <a href="http://www.forbes.pl/illumina-firma-ktora-chce-zrewolucjonizowac-walke-z-rakiem,artykuly,201763,1,1.html" >
+                                        Illumina. Firma, która może odmienić walkę z rakiem
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                                <li>
+                                    <a href="http://www.forbes.pl/youtube-2015-ranking-najlepiej-zarabiajacych-youtuberow,artykuly,199726,1,1.html" >
+                                        Najlepiej zarabiający youtuberzy 2015
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                                <li>
+                                    <a href="http://kariera.forbes.pl/praca-w-2016-najbardziej-pozadane-kompetencje,artykuly,201538,1,1.html" >
+                                        10 najbardziej pożądanych kompetencji w 2016 roku
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                        </ul>
+                    
+                    
+
+                </li>
+            
+                <li>
+                    <span class="authNr">2</span>
+                    <a href="http://www.forbes.pl/wojciech-maroszek,autor,6321,1.html"  class="authLink">
+                        
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/78/78/forbes/635509716324967308.jpg"
+                class=""
+            
+        
+                alt="Wojciech Maroszek"
+                title="Wojciech Maroszek" border="0" />
+        
+        
+    
+    
+
+
+                        <span class="auth">
+                            <span class="authName">Wojciech Maroszek</span><br />
+                            <span class="authPosition">
+
+
+
+
+
+    
+        
+        
+        
+  
+  <span class="pstn">Redakcja</span>
+        
+    
+</span>
+                        </span>
+                    </a>
+
+                    
+
+                        
+
+                        <ul>
+                            
+                                <li>
+                                    <a href="http://pierwszymilion.forbes.pl/jak-technologiczne-start-upy-zmieniaja-swiat-finansow,artykuly,201746,1,1.html" >
+                                        Jak technologiczne start-upy zmieniają świat finansów
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                                <li>
+                                    <a href="http://pierwszymilion.forbes.pl/w-co-inwestuja-najbogatsi-gates-branson-cook-zdziwisz-sie,artykuly,198674,1,1.html" >
+                                        W co inwestują najbogatsi – Gates, Branson, Cook?
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                                <li>
+                                    <a href="http://pierwszymilion.forbes.pl/branze-przyszlosci-w-jakie-start-upy-wierza-inwestorzy-,artykuly,198554,1,1.html" >
+                                        Branże przyszłości. W jakie start-upy wierzą inwestorzy?
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                        </ul>
+                    
+                    
+
+                </li>
+            
+                <li>
+                    <span class="authNr">3</span>
+                    <a href="http://www.forbes.pl/mateusz-kasperski,autor,5796,1.html"  class="authLink">
+                        
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/78/78/forbes/635463853131718849.jpg"
+                class=""
+            
+        
+                alt="Mateusz Kasperski"
+                title="Mateusz Kasperski" border="0" />
+        
+        
+    
+    
+
+
+                        <span class="auth">
+                            <span class="authName">Mateusz Kasperski</span><br />
+                            <span class="authPosition">
+
+
+
+
+
+    
+        
+        
+        
+  
+  <span class="pstn">Redakcja</span>
+        
+    
+</span>
+                        </span>
+                    </a>
+
+                    
+
+                        
+
+                        <ul>
+                            
+                                <li>
+                                    <a href="http://life.forbes.pl/33-niesamowite-budynki-tak-wyglada-przyszlosc-architektury,artykuly,198553,1,1.html" >
+                                        33 budynki, które pokazują, jak wygląda przyszłość architektury
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                                <li>
+                                    <a href="http://www.forbes.pl/najbardziej-zadluzone-kraje-swiata,artykuly,196910,1,1.html" >
+                                        Nie tylko Grecja. Najbardziej zadłużone kraje świata
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                                <li>
+                                    <a href="http://kariera.forbes.pl/rozmowa-kwalifikacyjna-u-miliardera-o-co-pytaja-ludzie-sukcesu-,artykuly,200707,1,1.html" >
+                                        Rozmowa kwalifikacyjna u miliardera. O co pytają ludzie sukcesu?
+                                    </a>
+
+                                    
+
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                </li>
+                            
+                        </ul>
+                    
+                    
+
+                </li>
+            
+        </ul>
+    </div>
+    
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner40142">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-right2"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+    <div class="pmHPrc Block-Holder" id="articleList40259">
+        <div class="inner">
+            <a href="http://pierwszymilion.forbes.pl/" class="pm_lnk"></a>
+            <h4>
+                
+                    
+                        
+                        
+                        <a title="Od zera do milionera"
+                           href="http://pierwszymilion.forbes.pl/od-zera-do-milionera,kategoria,26,1.html"
+                                >
+                            Od zera do milionera
+                        </a>
+                    
+                
+                    
+                
+                    
+                
+            </h4>
+            <a href="http://pierwszymilion.forbes.pl/lukasz-jakobiak-wielki-show-biznes-w-malej-kawalerce,artykuly,198749,1,1.html" >
+                
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/crop/277/167/forbes/635772683139347521.png"
+                class=""
+            
+        
+                alt="Łukasz Jakóbiak. Wielki show-biznes w małej kawalerce"
+                title="Łukasz Jakóbiak. Wielki show-biznes w małej kawalerce" border="0" />
+        
+        
+    
+    
+
+
+                <p>Łukasz Jakóbiak. Wielki show-biznes w małej kawalerce</p>
+            </a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+    <ul class="Article-List-Whole Section-List Variant-List Variant-1" id='articleList40145'>
+        <div class="Content-List Expanded-List-View">
+            
+                <h4>
+                    
+
+
+
+
+  
+  
+  
+    <a href="/rankingi,kategoria,28,1.html" >Rankingi</a>
+  
+  
+  
+
+                </h4>
+            
+            <ul class="Section-List Variant-List Variant-1">
+                
+                    
+                    
+
+                    <li id="native_40145_92396" class="t_RANK ">
+                        <a class="companyImg" href="http://wplywowiludziesportu.forbes.pl" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635856811595330481.jpg"
+                class=""
+            
+        
+                alt="50 najbardziej wpływowych ludzi w polskim sporcie 2015"
+                title="50 najbardziej wpływowych ludzi w polskim sporcie 2015" border="0" />
+        
+        
+    
+    
+
+
+                        </a>
+
+                        <h2 class="Styled"><a href="http://wplywowiludziesportu.forbes.pl" >50 najbardziej wpływowych ludzi w polskim sporcie 2015</a>
+                            <span class="Follow"></span>
+                        </h2>
+                        <h4 class="Styled">
+                            <span class="Item-Description"></span>
+                            <span class="Publish-Date"><span class="Publish-Time"></span></span>
+                        </h4>
+
+                        
+                    </li>
+                
+                    
+                    
+                        
+                    
+
+                    <li id="native_40145_91111" class="t_ARTICLE ">
+                        <a class="companyImg" href="http://www.forbes.pl/youtube-2015-ranking-najlepiej-zarabiajacych-youtuberow,artykuly,199726,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635805100562999271.jpeg"
+                class=""
+            
+        
+                alt="Najlepiej zarabiający youtuberzy 2015"
+                title="Najlepiej zarabiający youtuberzy 2015" border="0" />
+        
+        
+    
+    
+
+
+                        </a>
+
+                        <h2 class="Styled"><a href="http://www.forbes.pl/youtube-2015-ranking-najlepiej-zarabiajacych-youtuberow,artykuly,199726,1,1.html" >Najlepiej zarabiający youtuberzy 2015</a>
+                            <span class="Follow"></span>
+                        </h2>
+                        <h4 class="Styled">
+                            <span class="Item-Description"></span>
+                            <span class="Publish-Date"><span class="Publish-Time"></span></span>
+                        </h4>
+
+                        
+                    </li>
+                
+                    
+                    
+                        
+                    
+
+                    <li id="native_40145_90791" class="t_ARTICLE ">
+                        <a class="companyImg" href="http://www.forbes.pl/najbogatsi-amerykanie-2015-ranking-magazynu-forbes,artykuly,199406,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635791453778887111.jpg"
+                class=""
+            
+        
+                alt="Najbogatsi Amerykanie 2015"
+                title="Najbogatsi Amerykanie 2015" border="0" />
+        
+        
+    
+    
+
+
+                        </a>
+
+                        <h2 class="Styled"><a href="http://www.forbes.pl/najbogatsi-amerykanie-2015-ranking-magazynu-forbes,artykuly,199406,1,1.html" >Najbogatsi Amerykanie 2015</a>
+                            <span class="Follow"></span>
+                        </h2>
+                        <h4 class="Styled">
+                            <span class="Item-Description"></span>
+                            <span class="Publish-Date"><span class="Publish-Time"></span></span>
+                        </h4>
+
+                        
+                    </li>
+                
+                    
+                    
+
+                    <li id="native_40145_90347" class="t_RANK ">
+                        <a class="companyImg" href="http://www.forbes.pl/najlepszy-bank-dla-firm-2015,ranking,198962,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635786752489715919.jpg"
+                class=""
+            
+        
+                alt="Najlepszy Bank dla Firm 2015"
+                title="Najlepszy Bank dla Firm 2015" border="0" />
+        
+        
+    
+    
+
+
+                        </a>
+
+                        <h2 class="Styled"><a href="http://www.forbes.pl/najlepszy-bank-dla-firm-2015,ranking,198962,1,1.html" >Najlepszy Bank dla Firm 2015</a>
+                            <span class="Follow"></span>
+                        </h2>
+                        <h4 class="Styled">
+                            <span class="Item-Description"></span>
+                            <span class="Publish-Date"><span class="Publish-Time"></span></span>
+                        </h4>
+
+                        
+                    </li>
+                
+                    
+                    
+
+                    <li id="native_40145_90412" class="t_ARTICLE ">
+                        <a class="companyImg" href="http://life.forbes.pl/najlepiej-zarabiajace-modelki-2015-anja-rubik-wsrod-gwiazd-modelingu,artykuly,199027,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img 
+            
+            
+                src="http://www.forbes.pl/g/i.aspx/100/0/forbes/635781135928154640.jpg"
+                class=""
+            
+        
+                alt="Najlepiej zarabiające modelki 2015. Wśród nich Polka"
+                title="Najlepiej zarabiające modelki 2015. Wśród nich Polka" border="0" />
+        
+        
+    
+    
+
+
+                        </a>
+
+                        <h2 class="Styled"><a href="http://life.forbes.pl/najlepiej-zarabiajace-modelki-2015-anja-rubik-wsrod-gwiazd-modelingu,artykuly,199027,1,1.html" >Najlepiej zarabiające modelki 2015. Wśród nich Polka</a>
+                            <span class="Follow"></span>
+                        </h2>
+                        <h4 class="Styled">
+                            <span class="Item-Description"></span>
+                            <span class="Publish-Date"><span class="Publish-Time"></span></span>
+                        </h4>
+
+                        
+                    </li>
+                
+            </ul>
+        </div>
+    </ul>
+    
+ 
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner54614">
+        <script type="text/javascript">
+
+                
+                    document.write('<div class="onet-ad" id="onet-ad-flat-boxright3"></div>');
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+                        </ul>
+                        <div class="Clear-Block"></div>
+                    </li>
+                </ul>
+            </div>
+            <div class="Clear-Block"></div>
+
+            <ul id="bottom" class="Block-Node Content-List">
+                <li>
+                    <ul class="Block-Holder">
+                        
+
+
+
+
+
+
+
+<div style="" id="CONTENT_BOTTOM" class="Region Rgn_6437 ">
+
+    
+        
+
+
+
+
+
+
+
+<!-- Blok bannera -->
+
+
+
+    <li class="Block-Banner" id="banner38618">
+        <script type="text/javascript">
+
+                
+
+        </script>
+    </li>
+    
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+    <div id="Forbes-Reco">
+        <div class="inReco">
+            <span class="header">
+                
+
+
+
+
+  
+    
+      
+        Forbes rekomenduje
+      
+      
+    
+  
+  
+  
+  
+  
+
+            </span>
+
+            <ul class="bigList">
+                <li class="t_ARTICLE ">
+                    <a class="imgLink" href="http://www.forbes.pl/tomasz-zaboklicki-pesa-produkuje-najwiecej-tramwajow-na-swiecie,artykuly,199858,1,1.html" >
+                        
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/446/0/forbes/635810256619614538.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Tomasz Zaboklicki: produkujemy najwięcej tramwajów na świecie"
+                title="Tomasz Zaboklicki: produkujemy najwięcej tramwajów na świecie" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/446/0/forbes/635810256619614538.jpg"
+                         class="" alt="Tomasz Zaboklicki: produkujemy najwięcej tramwajów na świecie" title="Tomasz Zaboklicki: produkujemy najwięcej tramwajów na świecie" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                    </a>
+                    <h2><a href="http://www.forbes.pl/tomasz-zaboklicki-pesa-produkuje-najwiecej-tramwajow-na-swiecie,artykuly,199858,1,1.html" >Tomasz Zaboklicki: produkujemy najwięcej tramwajów na świecie</a></h2>
+                </li>
+            </ul>
+
+
+            <ul class="normalList">
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/uberowa-wojna-swiatowa-uber-staje-do-walki-o-chiny-i-indie,artykuly,199864,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635827753162280066.png" class=" lazy"
+        
+            
+            
+        
+                alt="Uberowa wojna światowa"
+                title="Uberowa wojna światowa" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635827753162280066.png"
+                         class="" alt="Uberowa wojna światowa" title="Uberowa wojna światowa" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/uberowa-wojna-swiatowa-uber-staje-do-walki-o-chiny-i-indie,artykuly,199864,1,1.html" >Uberowa wojna światowa</a></h2>
+                    </li>
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/narzedzia-inwestycyjne-szyte-na-miare,artykuly,201719,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635510805410051291.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Narzędzia inwestycyjne szyte na miarę"
+                title="Narzędzia inwestycyjne szyte na miarę" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635510805410051291.jpg"
+                         class="" alt="Narzędzia inwestycyjne szyte na miarę" title="Narzędzia inwestycyjne szyte na miarę" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/narzedzia-inwestycyjne-szyte-na-miare,artykuly,201719,1,1.html" >Narzędzia inwestycyjne szyte na miarę</a></h2>
+                    </li>
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/jak-ryby-wyzywia-swiat-hodowla-ryb-na-swiecie,artykuly,199163,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635302950883456352.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Jak ryby wyżywią świat"
+                title="Jak ryby wyżywią świat" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635302950883456352.jpg"
+                         class="" alt="Jak ryby wyżywią świat" title="Jak ryby wyżywią świat" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/jak-ryby-wyzywia-swiat-hodowla-ryb-na-swiecie,artykuly,199163,1,1.html" >Jak ryby wyżywią świat</a></h2>
+                    </li>
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/jak-rodzina-zarajczykow-wskrzesila-ursusa,artykuly,198389,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635762013949549909.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Jak rodzina Zarajczyków wskrzesiła Ursusa"
+                title="Jak rodzina Zarajczyków wskrzesiła Ursusa" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/205/0/forbes/635762013949549909.jpg"
+                         class="" alt="Jak rodzina Zarajczyków wskrzesiła Ursusa" title="Jak rodzina Zarajczyków wskrzesiła Ursusa" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/jak-rodzina-zarajczykow-wskrzesila-ursusa,artykuly,198389,1,1.html" >Jak rodzina Zarajczyków wskrzesiła Ursusa</a></h2>
+                    </li>
+                
+            </ul>
+
+            <ul class="miniList">
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/najlepiej-zarabiajace-aktorki-2015-jennifer-lawrence-na-szczycie,artykuly,198268,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635757488749892666.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Najlepiej zarabiające aktorki 2015"
+                title="Najlepiej zarabiające aktorki 2015" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635757488749892666.jpg"
+                         class="" alt="Najlepiej zarabiające aktorki 2015" title="Najlepiej zarabiające aktorki 2015" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/najlepiej-zarabiajace-aktorki-2015-jennifer-lawrence-na-szczycie,artykuly,198268,1,1.html" >Najlepiej zarabiające aktorki 2015</a></h2>
+                    </li>
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/kim-jest-sundar-pichai-poznajcie-nowego-szefa-google-a,artykuly,198182,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635755099802471844.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Kim jest Sundar Pichai? Poznajcie szefa Google&#039;a"
+                title="Kim jest Sundar Pichai? Poznajcie szefa Google&#039;a" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635755099802471844.jpg"
+                         class="" alt="Kim jest Sundar Pichai? Poznajcie szefa Google&#039;a" title="Kim jest Sundar Pichai? Poznajcie szefa Google&#039;a" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/kim-jest-sundar-pichai-poznajcie-nowego-szefa-google-a,artykuly,198182,1,1.html" >Kim jest Sundar Pichai? Poznajcie szefa Google'a</a></h2>
+                    </li>
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/najlepiej-zarabiajace-sportsmenki-2015-wielkie-zarobki-radwanskiej,artykuly,198049,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635750005914328345.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Radwańska wśród najlepiej zarabiających sportsmenek"
+                title="Radwańska wśród najlepiej zarabiających sportsmenek" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635750005914328345.jpg"
+                         class="" alt="Radwańska wśród najlepiej zarabiających sportsmenek" title="Radwańska wśród najlepiej zarabiających sportsmenek" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/najlepiej-zarabiajace-sportsmenki-2015-wielkie-zarobki-radwanskiej,artykuly,198049,1,1.html" >Radwańska wśród najlepiej zarabiających sportsmenek</a></h2>
+                    </li>
+                
+                    <li class="t_ARTICLE ">
+                        <a class="imgLink" href="http://www.forbes.pl/jak-powstala-platforma-pokerstars,artykuly,198298,1,1.html" >
+                            
+
+
+
+
+    
+    
+        
+        
+        
+        
+        <img  src="/resources/front/images/blank.png"
+            data-src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635760050365605216.jpg" class=" lazy"
+        
+            
+            
+        
+                alt="Jak twórca PokerStars zbudował karciane imperium"
+                title="Jak twórca PokerStars zbudował karciane imperium" border="0" />
+        
+            
+                <noscript>
+                    <img src="http://www.forbes.pl/g/i.aspx/83/0/forbes/635760050365605216.jpg"
+                         class="" alt="Jak twórca PokerStars zbudował karciane imperium" title="Jak twórca PokerStars zbudował karciane imperium" border="0" />
+                </noscript>
+            
+        
+        
+    
+    
+
+
+                        </a>
+                        <h2><a href="http://www.forbes.pl/jak-powstala-platforma-pokerstars,artykuly,198298,1,1.html" >Jak twórca PokerStars zbudował karciane imperium</a></h2>
+                    </li>
+                
+            </ul>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="Clear-Block"></div>
+    </div>
+
+    <div id="Footer-Wrap">
+        
+
+
+
+
+
+
+
+<div style="" id="FOOTER" class="Region Rgn_6470 ">
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item39746'>
+    
+        
+        
+            <div id="bottomfooter">
+<div id="linki">
+<ul id="lbottom1">
+    <li><a title="Informacje o tytule" href="/o-nas/79">O nas</a></li>
+    <li><a title="Kontakt" href="/kontakt/80">Kontakt</a></li>
+    <li><a title="Reklama" href="/forbes-reklama/81">Reklama</a></li>
+    <li><a title="Prenumerata" href="/prenumerata/3836">Prenumerata</a></li>
+<li><a href="/artykuly/sekcje/strona_glowna/regulamin-serwisu-www-forbes-pl,31378,1">Regulamin</a></li>
+<li><a title="Cookies" href="http://cookies.asp24.pl/" TARGET="_blank">Cookies</a></li>
+</ul>
+</div>
+<div id="lbottom4">
+<a title="Ringier Axel Springer Polska" href="http://www.axelspringer.pl/"><img alt="Ringier Axel Springer Polska" src="http://static.forbes.pl/2013/11/07/635194200622130000.png"></a> &copy; 2013 Ringier Axel Springer Polska. Wszelkie Prawa Zastrzeżone.
+</div>
+</div>
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item39275'>
+    
+        
+        
+            <script type="text/javascript" src="http://cookies.forbes.pl/resources/js/min.cookies.js"></script>
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item39341'>
+    
+        
+        
+            <!-- RTA2 Script - Axel Springer - PL - RTA2 -->
+
+<script type='text/javascript'>
+var crtg_nid="2276";
+var crtg_cookiename="cto_rtt";
+var crtg_varname="crtg_content";
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);}}return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);crtg_url+='&cookieName='+escape(crtg_cookiename);crtg_url+='&rnd='+crtg_rnd;crtg_url+='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);</script>
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item39923'>
+    
+        
+        
+            <style>
+.Featured-Normal-Right #Block-Featured-Polecamy .SeoLink {position: relative; float: right; width: 145px; padding: 0px;}
+</style>
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+    
+        
+
+
+
+
+
+
+
+<div id='region-item64033'>
+    
+        
+        
+            <style>
+#popup.popup1 {display:none !important}
+</style>
+        
+    
+    
+
+
+
+
+
+
+
+
+</div>
+
+    
+    
+
+<div class="Clear-Block"></div>
+</div>
+    </div>
+    
+
+
+
+
+
+    <script type="text/javascript">
+        jCMS_loadAsyncBlocks();
+    </script>
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+

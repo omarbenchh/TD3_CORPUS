@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIOVVBWGwAGVlRXBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"130b0776b5","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"MQEDYUNZWUUDUBAMDQhLJ0BfW0NfDV1LBBIWShJAU1lHRhEdFxEQEwcVQENdGUALVhMWTAAWDltFXVlSWGMRBw4PBwBBWFdZYAtWE0sFAxA=","applicationID":"3625501","errorBeacon":"bam.nr-data.net","applicationTime":40}</script>
+
+	<title>
+	Prognozy zaczynają się sprawdzać. &#34;To politycy i bankierzy  ludziom zgotowali ten los. Pamiętajcie o tym i nie zabijajcie posłańca&#34;
+</title>
+	<meta name="description" content="
+	
+		&#34;No to mamy początek roku, który za 365 dni będziemy najpierw przeklinać, a za kolejne 365 dni będziemy całkiem mile wspominać, po tym co nas spotka w 2013&#34;.
+	
+">
+	<link rel="canonical" href="http://wpolityce.pl/polityka/124710-prognozy-zaczynaja-sie-sprawdzac-to-politycy-i-bankierzy-ludziom-zgotowali-ten-los-pamietajcie-o-tym-i-nie-zabijajcie-poslanca">
+
+	<script>
+		var html = document.getElementsByTagName('html')[0];
+		setTimeout(function() {
+			html.className = html.className.replace('wf-loading', '');
+		}, 4000);
+
+		WebFontConfig = {
+			google: {
+				families: ['PT Sans:400,700:latin-ext', 'PT Serif:400,700,400italic,700italic:latin,latin-ext']
+			}
+		};
+
+		(function() {
+			document.getElementsByTagName("html")[0].className += " wf-loading";
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+				'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'true';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+		})();
+	</script>
+	<style type="text/css">
+		.wf-loading * { opacity: 0; }
+		.wf-loading h1, .wf-loading h2, .wf-loading h3,
+		.wf-fontfamilyname-n7-loading h1, .wf-fontfamilyname-n7-loading h2, .wf-fontfamilyname-n7-loading h3 { font-weight: 400; font-family: Georgia, serif; }
+		.wf-loading p, .wf-fontfamilyname-n4-loading p { font-weight: 400; font-family: Arial, sans-serif; }
+	</style>
+
+	<link rel="stylesheet" href="http://static.wpolityce.pl/CACHE/css/b1895c4461c2.css" type="text/css" />
+	<!--[if lt IE 10]>
+		<style>
+			.adunit-holder:before, .fcb:before, .box-1col.fog-bottom:after, .box-2col.fog-bottom:after, .area-1col.fog-bottom:after {
+				background: url(http://static.wpolityce.pl/img/gradient.png) repeat-x 0 0;
+				display: block;
+			}
+
+			.box-1col.holder-1col.fog-bottom:after, .box-2col.fog-bottom:after {
+				bottom: -42px;
+			}
+
+			.box-1col-light.fog-bottom:after {
+				background: none;
+			}
+		</style>
+	<![endif]-->
+
+	<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="http://static.wpolityce.pl/js/vendor/jquery-1.11.3.min.js">\x3C/script>')</script>
+
+	<script type="text/javascript" src="http://static.wpolityce.pl/CACHE/js/26180990b0ae.js"></script>
+
+	<script type="application/ld+json">
+		{
+			"@context" : "http://schema.org",
+			"@type" : "WebSite",
+			"name" : "wPolityce.pl",
+			"url" : "http://wpolityce.pl/polityka/124710-prognozy-zaczynaja-sie-sprawdzac-to-politycy-i-bankierzy-ludziom-zgotowali-ten-los-pamietajcie-o-tym-i-nie-zabijajcie-poslanca"
+		}
+	</script>
+
+	
+	<meta property="og:title" content="Prognozy zaczynają się sprawdzać. &#34;To politycy i bankierzy  ludziom zgotowali ten los. Pamiętajcie o tym i nie zabijajcie posłańca&#34;" />
+	<meta property="og:url" content="http://wpolityce.pl/polityka/124710-prognozy-zaczynaja-sie-sprawdzac-to-politycy-i-bankierzy-ludziom-zgotowali-ten-los-pamietajcie-o-tym-i-nie-zabijajcie-poslanca" />
+	<meta property="og:description" content="&#34;No to mamy początek roku, który za 365 dni będziemy najpierw przeklinać, a za kolejne 365 dni będziemy całkiem mile wspominać, po tym co nas spotka w 2013&#34;." />
+	<meta property="og:image" content="http://media.wplm.pl/pictures/wp/photo/2012-01/640/396/iran_rakieta_pap_epa.jpg" />
+	<meta property="og:type" content="article" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@wPolityce_pl" />
+	<meta name="fb:app_id" content="286165648231957" />
+	
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [{
+				"@type": "ListItem",
+				"position": 1,
+				"item": {
+					"@id": "http://wpolityce.pl/Polityka",
+					"name": "Polityka"
+				}
+			}]
+		}
+	</script>
+
+
+	
+		
+	<!-- (C)2000-2013 Gemius SA - gemiusAudience / pp.wpolityce.pl / podstrony -->
+	<script type="text/javascript">
+	<!--//--><![CDATA[//><!--
+	var pp_gemius_identifier = 'bQBLosrFvMm8SBOWpPGb_ZQ5DtXG05tyHfzrz8gzki..g7';
+	// lines below shouldn't be edited
+	function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+	gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+	(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+	gt.setAttribute('defer','defer'); gt.src=l+'://gapl.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+	//--><!]]>
+	</script>
+
+	
+</head>
+
+<body class=" no-right-col js-url-scroller" data-static-url="http://static.wpolityce.pl/">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.3";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	
+	
+		
+	
+		<div class="ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+					<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+					<script type="text/javascript">
+						_A4A.construct("//delivery.clickonometrics.pl");
+						_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [599767]);
+					</script>
+
+	
+				-->
+			</script>
+	
+	</div>
+
+	
+
+
+	
+	
+		<div class="ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+
+					<script type="text/javascript" language="JavaScript">
+						var cb = new Date().getTime();
+						var asiPqTag = false;
+						try {
+							document.write("<sc" + "ript src='//pq-direct.revsci.net/pql?placementIdList=kmg2nH,9vsCng,suPwPJ,L6ZGQj&cb=" + cb + "'></sc" + "ript>");
+						} catch(err) { }
+					</script>
+					<script src="//cdn.behavioralengine.com/oan"></script>
+					<script>
+						sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+						function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+							if ('undefined' != typeof BETags && BETags) sas_target += ';betag=' + BETags;
+							if (sas_masterflag==1){
+								sas_masterflag=0;sas_master='M';
+							} else {sas_master='S';};
+							if ('undefined' != typeof asiPlacements) {
+								for (var p in asiPlacements) {
+									var t='';
+									for (var key in asiPlacements[p].data)
+										t += ';PQ_' + p + '=' + key;
+									sas_target+=';'+t;
+								}
+							}
+							document.write('<scr'+'ipt src="//www6.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+						}
+					</script>
+
+	
+				-->
+			</script>
+		</div>
+	
+
+
+
+<div class="part">
+	<div class="wrap">
+		<div class="user-belt">
+			<section class="welcome">
+				<p class="news-bar">
+	<a href="http://wpolityce.pl/tag/TrybunalKonstytucyjny">Sprawa Trybunału Konstytucyjnego zakończona! Postępowanie TK umorzone. SPRAWDŹ jak przebiegał proces</a>
+</p>
+			</section>
+			<section class="social-nav">
+				<ul class="social-nav-menu">
+					<li class="socialmenu-facebook"><a href="https://www.facebook.com/wPolityce" target="_blank" title="Facebook">&#xf082;</a></li>
+					<li class="socialmenu-twitter"><a href="https://twitter.com/wPolityce_pl" target="_blank" title="Twitter">&#xf099;</a></li>
+					<li class="socialmenu-youtube"><a href="https://www.youtube.com/channel/UC5fx1amwIwyXG7qdhDjXcKw" target="_blank" title="YouTube">&#xf16a;</a></li>
+					<li class="socialmenu-googleplus"><a href="https://plus.google.com/103936519040655398213" rel="publisher" target="_blank" title="Google Plus">&#xf0d5;</a></li>
+					<li class="socialmenu-rss"><a href="http://feeds.feedburner.com/wPolitycepl" target="_blank" title="RSS">&#xf09e;</a></li>
+					
+					
+						<li class="usermenu">
+							<a href="/czytelnicy/logowanie?next=/polityka/124710-prognozy-zaczynaja-sie-sprawdzac-to-politycy-i-bankierzy-ludziom-zgotowali-ten-los-pamietajcie-o-tym-i-nie-zabijajcie-poslanca" rel="nofollow" title="Zaloguj się">
+								Zaloguj
+								<span>&#xf007;</span>
+							</a>
+						</li>
+					
+				</ul>
+			</section>
+		</div>
+	</div>
+</div>
+
+<div class="part">
+
+	
+		<div class="page-new-header-bg"></div>
+
+		<div class="wrap">
+
+			<header class="page-new-header js-logo-header">
+
+				<section class="page-header-logo">
+					<a href="/"><h1>wPolityce<small>.pl</small></h1></a>
+					
+						<div class="page-header-search">
+							<form method="get" action="/szukaj">
+								<input type="text" placeholder="Szukaj" name="q">
+								<input type="submit" value="&#xf002;">
+							</form>
+						</div>
+					
+				</section>
+
+				<section class="page-header-utils">
+					<ul class="page-header-utilsmenu">
+						<li class="utilsmenu-pogoda"><a href="/pogoda" title="Prognoza pogody">Pogoda</a></li>
+						<li class="utilsmenu-tv"><a href="/tv" title="Program TV">Program TV</a></li>
+						<li class="utilsmenu-forum"><a href="/forum" title="Forum dyskusyjne">Forum</a></li>
+						<li class="utilsmenu-kontakt"><a href="/kontakt" title="Kontaktownia">Kontakt</a></li>
+						<li class="utilsmenu-sklep"><a href="http://wsklepiku.pl" title="Nasz sklep" target="_blank">wSklepiku.pl</a></li>
+					</ul>
+				</section>
+
+			</header>
+
+		</div>
+	
+
+</div>
+
+<div class="part stick fixed">
+
+	<section id="page-header-nav" class="fixed-header js-fixed-header">
+		<nav>
+			<ul>
+				<li class="nav-logo"><a href="/">wPolityce.<small>pl</small></a></li>
+				<li><a href="/polityka">Polityka</a></li>
+				<li><a href="/gospodarka">Gospodarka</a></li>
+				<li><a href="/spoleczenstwo">Społeczeństwo</a></li>
+				<li><a href="/swiat">Świat</a></li>
+				<li><a href="/smolensk">Smoleńsk</a></li>
+				<li><a href="/kosciol">Kościół</a></li>
+				<li><a href="/historia">Historia</a></li>
+				<li><a class="wsumie" href="/sport">Sport</a></li>
+				<li><a class="wsumie" href="/media">Media</a></li>
+				<li><a class="wsumie" href="/gwiazdy">Gwiazdy</a></li>
+				<li><a class="wsumie" href="/lifestyle">Lifestyle</a></li>
+				<li><a class="wsumie" href="/kultura">Kultura</a></li>
+				<li><a class="wsumie" href="/kryminal">Kryminał</a></li>
+				<li><a class="wsumie" href="/fronda">Fronda</a></li>
+			</ul>
+		</nav>
+	</section>
+
+</div>
+<div class="part">
+
+	<div class="wrap">
+		
+	
+		<div class="adunit billboard ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+					<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+					<script type="text/javascript">
+						_A4A.construct("//delivery.clickonometrics.pl");
+						_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [516079]);
+					</script>
+	
+				-->
+			</script>
+	
+		</div>
+
+	</div>
+
+	
+
+</div>
+
+	<div class="content clearfix">
+		
+
+<div class="part">
+
+	<div class="wrap">
+
+		<div class="section">
+
+			<header class="section-header red">
+				<section class="section-title">
+					<a href="/polityka" title="Zobacz najnowsze artykuły z działu Polityka">Polityka</a>
+				</section>
+			</header>
+
+			<div class="area-clear fog-bottom-wide">
+
+				
+				<div class="area-3col uncut first js-truncate-related-to-my-size">
+
+					<article class="full-article">
+
+						<header>
+							<h1>Prognozy zaczynają się sprawdzać. "To politycy i bankierzy  ludziom zgotowali ten los. Pamiętajcie o tym i nie zabijajcie posłańca"</h1>
+							<p class="article-meta">
+								opublikowano: <strong><time class="js-relative-date" data-datetime="2012-01-02 12:58:34+01:00" title="2012-01-02 12:58:34+01:00">2012-01-02 12:58:34+01:00</time></strong>
+
+								
+									&middot; aktualizacja: <strong><time class="js-relative-date" data-datetime="2012-01-02 13:08:03+01:00" title="2012-01-02 13:08:03+01:00">2012-01-02 13:08:03+01:00</time></strong>
+								
+							</p>
+						</header>
+
+						
+						
+							<figure class="primary-picture">
+									<img src="http://media.wplm.pl/pictures/835x460/crop_center/upscale_True/path/wp/photo/2012-01/640/396/iran_rakieta_pap_epa.jpg" alt="PAP / EPA" height="460" width="835">
+								<figcaption>PAP / EPA</figcaption>
+							</figure>
+						
+
+						
+							<div class="article-body intext-ads">
+								<div class="fb-like"><strong> </strong></div>
+<div class="post-content">
+<p><strong>Niektórzy czytelnicy bloga sugerowali, że w prognozach na 2012 rok wykraczam poza moją specjalizację przewidując konflikt w Iranie i pandemię</strong> (ptasia grypa, SARS, albo coś jeszcze nieznanego). Tymczasem jeszcze 2011 rok nie zdążył się skończyć a już mamy przypadek ptasiej grypy w Shenzhen (graniczącym z Hong Kongiem). W miastach w bardzo wysokiej gęstości zaludnienia takie przypadki są bardzo groźne, chociaż przypadek zarażenia się człowieka od człowieka miał miejsce tylko w laboratorium, to z czasem dojdzie do tego również w realu. Przypomnę moją tezę, Ziemia nie będzie tolerować gatunku którego liczebność przekroczyła 7 mld i który zagraża ekosystemowi.</p>
+<p> </p>
+<p>Zaczyna się sprawdzać też moja druga prognoza, Iran <a href="http://www.ft.com/cms/s/1e1939ee-347a-11e1-aed6-00144feabdc0,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F1e1939ee-347a-11e1-aed6-00144feabdc0.html&amp;_i_referer=http%3A%2F%2Fwww.rybinski.eu%2F%3Fp%3D3562%26lang%3Dpl%26lang%3Dpl">przeprowadził ćwiczenia wojskowe</a> podczas  których wystrzelił nową rakietę średniego zasięgu, USA nałożyło sankcje  gospodarcze na Iran, który zapowiedział że zablokuje cieśninę Ormuz   (przez którą płynie 40% światowej ropy) jeżeli sankcje zostaną nałożone,  na to Piąta Flota USA zapowiedziała że cieśninę odblokuje jak będzie  trzeba. Na to Iran powiedział, że maj już pręty do reaktora, co zapewne  wkurzy Izrael, który rozważy różne opcje. A jak Izrael zaatakuje, to …  wtedy sprawdzi się moja prognoza.</p>
+<p>No  to mamy początek roku, który za 365 dni będziemy najpierw przeklinać, a  za kolejne 365 dni będziemy całkiem mile wspominać, po tym co nas  spotka w 2013. To politycy i bankierzy  ludziom zgotowali ten los.  Pamiętajcie o tym i nie zabijajcie posłańca.</p>
+</div>
+							</div>
+						
+
+						<div class="article-author">
+							
+
+								
+								<img src="http://media.wplm.pl/pictures/120x120/crop_center/upscale_True/path/authors/avatar/2015-01/900/1070/rybinski-krzysztof-glowka-rs.jpg" alt="Zdjęcie None" height="120" width="120">
+
+								<h3>
+									autor:
+									
+										<a href="/autorzy/219-krzysztof-rybinski">Krzysztof Rybiński</a>
+									
+								</h3>
+								<p>Doktor habilitowany nauk ekonomicznych. Absolwent Uniwersytetu Warszawskiego. Były wiceprezes Narodowego Banku Polskiego, pracownik sektora prywatnego, był także profesorem nadzwyczajnym w Szkole Głównej Handlowej. Obecnie rektor Uczelni Vistula w Warszawie. W młodości ćwiczył karate.
+Pod adresem www.rybinski.eu prowadzi swój popularny blog.</p>
+
+							
+
+						</div>
+
+						<div class="article-social">
+
+							<p>Interesujący artykuł?</p>
+
+							<div class="twitter">
+
+								<a href="https://twitter.com/share" class="twitter-share-button" data-lang="pl">Tweetnij</a>
+								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+							</div>
+
+							<div class="plusone">
+
+								<div class="g-plusone" data-size="medium" data-href="http%3A//wpolityce.pl/polityka/124710-prognozy-zaczynaja-sie-sprawdzac-to-politycy-i-bankierzy-ludziom-zgotowali-ten-los-pamietajcie-o-tym-i-nie-zabijajcie-poslanca"></div>
+								<script>
+									window.___gcfg = {lang: 'pl'};
+									(function() {
+										var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+										po.src = 'https://apis.google.com/js/plusone.js';
+										var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+									})();
+								</script>
+
+							</div>
+
+							<div class="facebook">
+								<div class="fb-like" data-href="http://wpolityce.pl/polityka/124710-prognozy-zaczynaja-sie-sprawdzac-to-politycy-i-bankierzy-ludziom-zgotowali-ten-los-pamietajcie-o-tym-i-nie-zabijajcie-poslanca" data-layout="button_count" data-action="like" data-show-faces="false" data-width="120" data-colorscheme="light"></div>
+							</div>
+
+							<div class="wykop">
+
+									<script language="javascript">
+										var wykop_url=location.href;
+										var wykop_title=encodeURIComponent(document.title);
+										var wykop_desc=encodeURIComponent('"No to mamy początek roku, który za 365 dni będziemy najpierw przeklinać, a za kolejne 365 dni będziemy całkiem mile wspominać, po tym co nas spotka w 2013".');
+										var widget_bg='FFFFFF';
+										var widget_type='compact2';
+										var widget_bold=false;
+										var widget_url='http://www.wykop.pl/dataprovider/diggerwidget/?url='+encodeURIComponent(wykop_url)+'&title='+(wykop_title)+'&desc='+(wykop_desc)+'&bg='+(widget_bg)+'&type='+(widget_type)+'&bold='+(widget_bold);
+										document.write('<div><iframe src="'+widget_url+'" style="border:none;width:100px;height:20px;overflow:hidden;margin:0;padding:0;" frameborder="0" border="0"></iframe></div>');
+									</script>
+
+							</div>
+
+						</div>
+
+						
+	
+		<div class="adunit pixad-835x400 ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+					<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+					<script type="text/javascript">
+						_A4A.construct("//delivery.clickonometrics.pl");
+						_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [737239]);
+					</script>
+	
+				-->
+			</script>
+	
+		</div>
+
+
+						
+
+					</article>
+
+					
+						
+	<header class="area-header"><h2>Studio TV</h2></header>
+	
+		<div class="adunit pixad-835x480 ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+
+			<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+			<script type="text/javascript">
+				_A4A.construct("//delivery.clickonometrics.pl");
+				_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [829668]);
+			</script>
+
+	
+				-->
+			</script>
+	
+	</div>
+
+						
+	
+		<div class="ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+			<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+			<script type="text/javascript">
+				_A4A.construct("//delivery.clickonometrics.pl");
+				var settings = {
+					'events_ad': 'scroll',
+					'volume': 0
+				};
+				_A4A.handle(_A4A.CODE_PLACEMENT_VIDEO, [880123,settings]);
+			</script>
+
+	
+				-->
+			</script>
+	
+		</div>
+
+					
+					
+
+					
+						
+						
+					
+
+					
+
+					<div id="article-related-from-division">
+						
+							<header class="area-header"><h2>Polecane</h2></header>
+
+							
+								<div class="kd_ns_placement ad" data-ns-hash="896ff9e184b495940b65738c2bfac314" data-ns-type="simplePlacement4" data-lazyad>
+									<script type="text/lazyad">
+										<!--
+							
+
+									<script async="async" src="http://emisja.contentstream.pl/aldente/kd_process_function.js"></script>
+
+							
+										-->
+									</script>
+							
+								</div>
+
+						
+					</div>
+
+					<div class="adcontainer double-rectangle">
+
+						
+	
+		<div class="adunit rectangle in-double ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+
+			<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+			<script type="text/javascript">
+				_A4A.construct("//delivery.clickonometrics.pl");
+				_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [516080]);
+			</script>
+
+	
+				-->
+			</script>
+	
+	</div>
+
+						
+	
+		<div class="adunit rectangle in-double ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+
+			<script type="text/javascript">
+				sas_pageid='65648/506211';
+				sas_formatid=17460;
+				sas_target='';
+				SmartAdServer(sas_pageid,sas_formatid,sas_target);
+			</script>
+			<noscript>
+				<a href="http://www6.smartadserver.com/call/pubjumpi/65648/506211/17460/S/[timestamp]/?" target="_blank">
+				<img src="http://www6.smartadserver.com/call/pubi/65648/506211/17460/S/[timestamp]/?" border="0" alt="" /></a>
+			</noscript>
+
+	
+				-->
+			</script>
+	
+	</div>
+
+
+					</div>
+
+				</div>
+
+				
+				<div class="box-1col holder-1col area-1col last js-related-publications-container">
+					
+						<header class="area-header"><h2>Prognoza pogody</h2></header>
+						<div id="article-weather-rc">
+							<a href="/pogoda/warszawa" id="page-header-weather">
+	<h4>Warszawa</h4>
+	<div class="weather-day">
+		<span class="weather-day-when">dziś</span>
+		<span class="weather-day-temp">
+			
+				-1
+			
+			<small>°C</small>
+		</span>
+		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg" class="weather-day-icon">
+	</div>
+	<div class="weather-day">
+		<span class="weather-day-when">jutro</span>
+		<span class="weather-day-temp">
+			
+				-4
+			
+			<small>°C</small>
+		</span>
+		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg" class="weather-day-icon">
+	</div>
+</a>
+
+<aside id="old-weather-tag">
+	<h3><a href="/pogoda">Pogoda <span>Sprawdź prognozę na kolejne dni</span></a></h3>
+	<h4>&rsaquo; <a href="/pogoda/warszawa">Warszawa</a></h4>
+
+	<div>
+		<h5>dziś</h5>
+		<strong>
+			
+				-1
+			
+		</strong>
+		<small>°C</small>
+		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg">
+	</div>
+	<div>
+		<h5>jutro</h5>
+		<strong>
+			
+				-4
+			
+		</strong>
+		<small>°C</small>
+		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg">
+	</div>
+</aside>
+						</div>
+					
+
+					<div class="element-light promo-kontaktownia">
+						
+	
+		<div class="adunit pixad-265x150 ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+
+					<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+					<script type="text/javascript">
+						_A4A.construct("//delivery.clickonometrics.pl");
+						_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [676425]);
+					</script>
+
+	
+				-->
+			</script>
+	
+		</div>
+
+					</div>
+
+					
+						<header class="area-header"><h2>Zobacz również</h2></header>
+						<div id="related-publications" data-publication-id="124710">
+							<div class="loading">
+								<img src="http://static.wpolityce.pl/img/loading.svg">
+							</div>
+						</div>
+					
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+	<div class="part">
+		<div class="wrap">
+
+			<div class="section">
+
+				<div class="area-clear fog-bottom-wide area-newsize">
+
+					<div class="area-3col uncut first js-comments-container">
+
+						<div class="js-article-comments article-comments">
+							
+								<header class="js-comments-form-header area-header"><h2>Dodaj komentarz</h2></header>
+								<input type="hidden" name="csrfmiddlewaretoken" value="AokQGOEWUpz41IVNmbLw4julPJ14xvNW">
+								<div class="comment-form"></div>
+								<div class="loading js-load-comments-waypoint">
+									<img src="http://static.wpolityce.pl/img/loading.svg">
+								</div>
+							
+						</div>
+
+					</div>
+
+					<div class="area-1col last js-hot-topics-container">
+						<header class="area-header"><h2>Gorące dyskusje</h2></header>
+						
+<div id="article-comments-forum-mostactive">
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141216-i-czym-oni-sie-roznia-komorowski-ujawnia-kulisy-negocjacji-miala-byc-wspolna-lista-po-nowoczesnej-i-psl-bylo-bardzo-blisko-zaluje-bardzo-tego-komentarze-publikacji">
+				<h3>I czym oni się różnią?! Komorowski ujawnia kulisy negocjacji: miała być wspólna lista PO, Nowoczesnej i PSL! &#34;Było bardzo blisko, żałuję bardzo tego...&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141208-po-doniesie-na-wlasny-kraj-w-pe-juz-nawet-nie-stwarzaja-pozorow-neumann-nie-bedziemy-szkalowac-polski-w-sposob-nieuprawniony-ale-nie-bedziemy-tez-mowic-ze-wszystko-jest-ok-komentarze-publikacji">
+				<h3>PO doniesie na własny kraj w PE? Już nawet nie stwarzają pozorów... Neumann: &#34;Nie będziemy szkalować Polski w sposób nieuprawniony, ale nie będziemy też mówić, że wszystko jest OK&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141218-przezabawne-kijowski-u-mazurka-nie-protestowalem-piec-lat-temu-bo-nie-wpadlem-na-taki-pomysl-to-jak-pytac-czemu-nie-pilem-herbaty-najlepszym-prezydentem-byl-komorowski-komentarze-publikacji">
+				<h3>Przezabawne! Kijowski u Mazurka: Nie protestowałem pięć lat temu, bo nie wpadłem na taki pomysł. &#34;To jak pytać, czemu nie piłem herbaty. (...) Najlepszym prezydentem był Komorowski&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141245-bienkowska-boi-sie-przyjechac-do-polski-fakt-obawia-sie-pytan-o-debate-w-brukseli-komentarze-publikacji">
+				<h3>Bieńkowska boi się przyjechać do Polski? „Fakt”: Obawia się pytań o debatę w Brukseli - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/media/70-dyskusje-pod-publikacjami-dzialu-media/tematy/141222-czy-oni-mysla-ze-polacy-maja-az-tak-krotka-pamiec-hanna-lis-telewizja-propagandowa-ruszyla-pelna-para-komentarze-publikacji">
+				<h3>Czy oni myślą, że Polacy mają aż tak krótką pamięć? Hanna Lis: „Telewizja Propagandowa ruszyła pełną parą” - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141198-histeria-opozycji-nie-zmienia-ukladu-sil-pis-nadal-liderem-sondazu-blisko-nowoczesna-platforma-daleko-z-tylu-komentarze-publikacji">
+				<h3>Histeria opozycji nie zmienia układu sił. PiS nadal liderem sondażu. Blisko Nowoczesna. Platforma daleko z tyłu - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141177-zyczenie-walesy-spelnione-ipn-zorganizuje-debate-o-przeszlosci-bylego-prezydenta-i-sprawie-bolka-komentarze-publikacji">
+				<h3>Życzenie Wałęsy spełnione. IPN zorganizuje debatę o przeszłości byłego prezydenta i sprawie &#34;Bolka&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/spoleczenstwo/22-dyskusje-pod-publikacjami-dzialu-spoleczenstwo/tematy/141165-najnowoczesniejszy-na-wiejskiej-najwyrazniej-posel-mieszkowski-niektorych-polaczen-nie-moze-ignorowac-internauci-zartuja-z-polityka-nowoczesnej-zobacz-wideo-i-memy-komentarze-publikacji">
+				<h3>Najnowocześniejszy na Wiejskiej. Najwyraźniej poseł Mieszkowski niektórych połączeń nie może ignorować - internauci żartują z polityka Nowoczesnej. ZOBACZ WIDEO i MEMY - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141167-majatek-mateusza-morawieckiego-czyli-klopot-wizerunkowy-i-systemowy-rzadu-pis-czy-wicepremier-moze-byc-gieldowym-graczem-komentarze-publikacji">
+				<h3>Majątek Mateusza Morawieckiego, czyli kłopot – wizerunkowy i systemowy – rządu PiS. Czy wicepremier może być giełdowym graczem? - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141186-prof-wolniewicz-targowica-wraz-z-miedzynarodowym-lewactwem-probuje-zorganizowac-w-polsce-interwencje-nasz-wywiad-komentarze-publikacji">
+				<h3>Prof. Wolniewicz: Targowica, wraz z międzynarodowym lewactwem, próbuje zorganizować w Polsce interwencję. NASZ WYWIAD - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141237-szef-komisji-europejskiej-nie-chce-by-polacy-mieli-wrazenie-ze-europa-jest-przeciwko-nim-komentarze-publikacji">
+				<h3>Szef Komisji Europejskiej: nie chcę, by Polacy mieli wrażenie, że Europa jest przeciwko nim - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/kultura/18-dyskusje-pod-publikacjami-dzialu-kultura/tematy/141158-wina-wlasna-bylem-przekonany-ze-mnie-to-nie-dotyczy-ze-mnie-to-nie-dotknie-komentarze-publikacji">
+				<h3>Wina własna. Byłem przekonany, że mnie to nie dotyczy, że mnie to nie dotknie - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141188-kownacki-powinnismy-budowac-dobra-atmosfere-wokol-polski-tymczasem-politycy-po-realizuja-scenariusz-ktorym-sa-zainteresowani-niemcy-i-ue-nasz-wywiad-komentarze-publikacji">
+				<h3>Kownacki: Powinniśmy budować dobrą atmosferę wokół Polski. Tymczasem politycy PO realizują scenariusz, którym są zainteresowani Niemcy i UE. NASZ WYWIAD - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141154-jakubiak-polska-gospodarka-pracuje-na-rzecz-niemiec-my-nie-mozemy-byc-bogatym-krajem-bogate-sa-niemcy-i-to-wystarczy-nasz-wywiad-komentarze-publikacji">
+				<h3>Jakubiak: Polska gospodarka pracuje na rzecz Niemiec. My nie możemy być bogatym krajem. Bogate są Niemcy. I to  wystarczy... NASZ WYWIAD - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141236-co-naprawde-dzieje-sie-w-niemczech-marek-cichocki-o-kulisach-medialnej-cenzury-ws-imigrantow-poruszenie-tematu-uchodzcow-prowadzaca-stwierdzila-ze-w-takim-razie-rozmowa-sie-nie-odbedzie-komentarze-publikacji">
+				<h3>Co naprawdę dzieje się w Niemczech? Marek Cichocki o kulisach medialnej cenzury ws. imigrantów: &#34;Poruszenie tematu uchodźców? Prowadząca stwierdziła, że w takim razie rozmowa się nie odbędzie...&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141262-skad-mu-sie-biora-takie-porownania-lis-porownuje-pis-do-meza-bijacego-zone-pan-henio-chce-zafundowac-malzonce-kolejne-manto-a-jak-bedzie-dostep-do-zbioru-zastrzezonego-komentarze-publikacji">
+				<h3>Skąd mu się biorą takie porównania? Lis porównuje PiS do... męża bijącego żonę. &#34;Pan Henio chce zafundować małżonce kolejne manto, a jak będzie dostęp do zbioru zastrzeżonego...&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141162-angela-merkel-zlamala-konstytucje-byli-sedziowie-trybunalu-konstytucyjnego-ostro-krytykuja-kanclerz-niemiec-fiasko-panstwa-prawa-ciekawe-czy-komisja-europejska-sie-tym-zajmie-komentarze-publikacji">
+				<h3>Angela Merkel złamała konstytucję? Byli sędziowie Trybunału Konstytucyjnego ostro krytykują kanclerz Niemiec. „Fiasko państwa prawa”. Ciekawe czy Komisja Europejska się tym zajmie.. - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141187-premier-szydlo-nie-pozostawia-zludzen-opozycji-polskie-sprawy-powinnismy-rozwiazywac-w-polskim-domu-komentarze-publikacji">
+				<h3>Premier Szydło nie pozostawia złudzeń opozycji: &#34;Polskie sprawy powinniśmy rozwiązywać w polskim domu&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141239-doczekalismy-sie-komorowski-zainicjowal-dzialalnosc-swego-instytutu-to-jest-chec-przeciwstawienia-sie-skrajnie-niemadrej-tezie-o-polsce-w-ruinie-komentarze-publikacji">
+				<h3>Doczekaliśmy się… Komorowski zainicjował działalność swego instytutu: „To jest chęć przeciwstawienia się skrajnie niemądrej tezie o Polsce w ruinie” - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141200-zaskakujace-tlumaczenie-jana-dworaka-prezydent-byl-tylko-swiadkiem-a-nie-podejrzanym-w-mojej-ocenie-proces-nie-byl-istotny-z-punktu-widzenia-politycznego-komentarze-publikacji">
+				<h3>Zaskakujące tłumaczenie Jana Dworaka: Prezydent był tylko świadkiem, a nie podejrzanym. W mojej ocenie proces nie był istotny z punktu widzenia politycznego - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141175-doigrala-sie-starosta-z-bawarii-wyslal-autokar-z-uchodzcami-do-siedziby-merkel-komentarze-publikacji">
+				<h3>Doigrała się. Starosta z Bawarii wysłał autokar z uchodźcami do siedziby Merkel - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141206-jaki-swietny-wizerunek-polski-w-ostatnim-26-leciu-jesli-juz-to-wizerunek-naiwniaka-i-popychadla-komentarze-publikacji">
+				<h3>Jaki świetny wizerunek Polski w ostatnim 26-leciu? Jeśli już, to wizerunek naiwniaka i popychadła - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141170-wiceszef-mswia-ujawnia-bizancjum-panujace-w-kgp-pod-rzadami-po-psl-nie-jestesmy-za-panstwem-bizantyjskim-ale-europejskim-komentarze-publikacji">
+				<h3>Wiceszef MSWiA ujawnia &#34;Bizancjum&#34; panujące w KGP pod rządami PO-PSL. &#34;Nie jesteśmy za państwem bizantyjskim, ale europejskim!&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141223-poruszajaca-relacja-holenderskiego-urzednika-co-dali-nam-imigranci-wzbogacili-kraj-o-nowe-przestepstwa-wiekszosc-muzulmanow-gardzi-europejskim-sposobem-zycia-komentarze-publikacji">
+				<h3>Poruszająca relacja holenderskiego urzędnika: &#34;Co dali nam imigranci? Wzbogacili kraj o nowe przestępstwa. (...) Większość muzułmanów gardzi europejskim sposobem życia&#34; - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+		<article class="forum-mostactive-topic">
+			<a href="/forum/gospodarka/16-dyskusje-pod-publikacjami-dzialu-gospodarka/tematy/141243-prezydencki-projekt-dla-frankowiczow-przewalutowanie-po-kursie-sprawiedliwym-raty-nizsze-nawet-o-kilkaset-zlotych-komentarze-publikacji">
+				<h3>Prezydencki projekt dla frankowiczów: przewalutowanie po „kursie sprawiedliwym”, raty niższe nawet o kilkaset złotych! - komentarze publikacji</h3>
+			</a>
+		</article>
+	
+</div>
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+
+<script type="text/javascript" src="http://static.wpolityce.pl/CACHE/js/151d30b79e02.js"></script>
+
+
+	<script type="text/javascript">$(function(){loadCommentsWithAJAX(124710, 1, 200, 2000)})</script>
+
+
+
+	<script src="http://incontext.pl/rewords.js?cid=5281"></script>
+
+
+
+	</div>
+
+	<div class="part">
+
+		<div class="wrap">
+
+			
+				
+					<div class="adunit billboard with-margin ad" data-lazyad>
+						<script type="text/lazyad">
+							<!--
+				
+
+						<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+						<script type="text/javascript">
+							_A4A.construct("//delivery.clickonometrics.pl");
+							_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [568391]);
+						</script>
+
+				
+							-->
+						</script>
+				
+					</div>
+			
+
+			
+	<div class="area-clear">
+	<div class="wrap nav-holder">
+		
+			<section class="section-mobile">
+				<a href="?wersja=mobilna">Wersja mobilna</a>
+			</section>
+		
+		<section class="section-nav">
+			<a href="#top">do góry</a>
+		</section>
+	</div>
+</div>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('a[href=#top]').click(function(){
+			$('html, body').animate({scrollTop:0}, 'slow');
+			return false;
+		});
+	});
+</script>
+
+
+			 <footer class="page-footer-col">
+    <p><big>wPolityce.pl</big></p>
+    <p><a href="/pogoda"><strong>Prognoza pogody</strong> dla kraju i Twojego miasta</a></p>
+    <p><a href="/tv"><strong>Program TV</strong> dla najpopularniejszych stacji</a></p>
+    <p><a href="/forum">Ważne tematy poruszane przez czytelników na <strong>forum dyskusyjnym</strong></a></p>
+</footer>
+
+<footer class="page-footer-col">
+    <p>Redaktor Naczelny: <strong>Marzena Nykiel</strong></p>
+    <p>Zespół: <strong>Łukasz Adamski, Alicja Czajkowska, Marcin Fijołek, Jacek Karnowski, Michał Karnowski, Jerzy Kubrak, Aleksander Majewski, Marta Milczarska, Agnieszka Ponikiewska, Bogusław Rąpała, Aleksandra Rybińska, Anna Sarzyńska, Sławomir Sieradzki, Marcin Wikło, Piotr Zaremba, Stanisław Żaryn.</strong></p>
+    <p>Autorzy: <strong>Piotr Cywiński, Krzysztof Feusette, Grzegorz Kostrzewa-Zorbas, Krystyna Grzybowska, Jerzy Jachowicz, Stanisław Janecki, Grzegorz Górny, Dorota Łosiewicz, Maja Narbutt, Maciej Pawlicki, Andrzej Potocki, Marek Pyza, Wiktor Świetlik, Łukasz Warzecha.</strong></p>
+</footer>
+
+<footer class="page-footer-col">
+    <p>Kontakt: <strong>redakcja@wpolityce.pl</strong></p>
+    <p>Wydawca: <strong>Fratria Sp. z o.o.</strong></p>
+    <p>Adres do korespodencji: <strong>ul. Finlandzka 10, 03-903 Warszawa</strong></p>
+    <p>Kontakt do biura reklamy: <strong>reklama@fratria.pl</strong></p>
+    <p><a href="/kontakt">Kontakt</a> &middot; <a href="http://feeds.feedburner.com/wPolitycepl" target="_blank">RSS</a> &middot; <a href="/regulamin">Regulamin serwisu</a> &middot; <a href="/polityka-prywatnosci">Polityka prywatności</a></p>
+</footer>
+
+		</div>
+
+	</div>
+
+	<script type="text/javascript" src="http://static.wpolityce.pl/CACHE/js/c8f58f0c607e.js"></script>
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-13100868-5']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	
+	<!-- Facebook Conversion Code for Piksel główny - serwisy -->
+	<script type="text/javascript">
+		(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', '6020249374411', {'value':'0.00','currency':'PLN'}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020249374411&amp;cd[value]=0.00&amp;cd[currency]=PLN&amp;noscript=1" /></noscript>
+
+
+	
+	
+		
+	
+		<div class="ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+
+			<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+			<script type="text/javascript">
+				var settings = {
+					prefferedImage: '.primary-picture img',
+					updatePosition: false
+				};
+				_A4A.construct("//delivery.clickonometrics.pl");
+				_A4A.handle(_A4A.CODE_PLACEMENT_ADIMAGE_PIXAD, [516082, settings]);
+			</script>
+
+	
+				-->
+			</script>
+	
+		</div>
+
+	
+
+
+	<div id="old-ie-info" class="js-old-ie-info box-information">
+		<div class="inner-box-info">
+			<span class="close"><i class="fa fa-close"></i></span>
+			<p><strong>Używasz przestarzałej wersji przeglądarki</strong> Internet Explorer posiadającej ograniczoną funkcjonalność i luki bezpieczeństwa. Tracisz możliwość skorzystania z pełnych możliwości serwisu.</p>
+			<p>Zaktualizuj przeglądarkę lub skorzystaj z alternatywnej.</p>
+		</div>
+	</div>
+
+	<div id="cookie-info" class="js-cookie-info box-information">
+		<div class="inner-box-info">
+			<span class="close"><i class="fa fa-close"></i></span>
+			<p><strong>Ta strona używa cookie.</strong> Dowiedz się <a target="_blank" href="/cookies">więcej</a> o celu ich używania i możliwości zmiany ustawień cookie w przeglądarce. Korzystając ze strony wyrażasz zgodę na używanie cookie, zgodnie z aktualnymi ustawieniami przeglądarki.</p>
+		</div>
+	</div>
+
+	
+		
+	
+
+</body>
+</html>

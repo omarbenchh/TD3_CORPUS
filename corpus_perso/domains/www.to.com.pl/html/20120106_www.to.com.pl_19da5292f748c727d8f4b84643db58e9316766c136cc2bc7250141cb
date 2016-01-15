@@ -1,0 +1,1488 @@
+
+  
+
+
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,700|PT+Sans:400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="http://s-pt.ppstatic.pl/www/merge/?typ=css&amp;p=/o/css/cookies.css,/p/css/serwisy/regionalne_artykul.css,/p/css/rwd/slick.css,/p/css/nanoScroller.css,/p/css/rwd/foundation5mod.css,/p/css/serwisy/regionalne.css&amp;v=11140890&amp;w=75dda511140890_9b3f5811140890_739c2a11140890_e4bdda11140890_f9b66611140890_1a6bde11140890" type="text/css" >
+
+    
+    <script type="text/javascript">var czyMobilne = !1, czyTablet = !1;</script><script type="text/javascript">if(!GR) { var GR = function() { return; }; }var oG_OSA = {"serwis":"polskatimes", "sUrl":"http://s-pt.ppstatic.pl","debug":false, "iframeReklama":"http://gratka.pl/reklama/", "tracking": [], "vat":{"stawka":0.23,"procent":23,"brutto":1.23}, "trybReklamy": "new", "czyBot": false, "adOceanEmiter":"ad.adocean.pl", "adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77", "kodowanie":"utf-8", "wersja_serwisu":"11140890", "typAnalytics":"GA"};</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/jquery/1.8.3/jquery.min.js?20150630"></script>
+<script type="text/javascript">if (GR && !GR.DOM) {jQuery=jQuery.noConflict(true);}</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/osnowa.js?c836e611140890"></script>
+<script type="text/javascript" src="//ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/reklama.js?95712311140890"></script>
+<script type="text/javascript">var adMiejsce = {"dol1":"adoceanadwfnpkjfmgo","fiszka":"adoceanadtgegowoqqj","gora1":"adoceanadqhlmbuifvi","gora2":"adoceanadnictersjfd","layer":"adoceanadkjjjiomoay","okazjon":"adoceanadxjqpllgtzt","prawa1":"adoceanadukhgpiqhes","prawa2":"adoceanadrlomcwjmon","prawa3":"adoceanadomftftdrji","prawa4":"adoceanadlnmjjqnfdh","srodek1":"adoceanadyndqmnhknc","srodek2":"adoceanadvokgqkroxx","srodek3":"adoceanadsprmdiltss","srodek4":"adoceanadpajtgveixr","tapeta":"adoceanadmbqjksomhm","verboomInterText":"adoceanadzbhqnpirrh"};
+
+  var adO = {"keys":["tygodnikostrolecki,artykul,ros,material,wyszkow,wiadomosci,material_6385034,18plus,gmina,o\u015brodek,zasi\u0142ek,pijak,Pomocy,Spo\u0142ecznej\",D\u0142ugosiod\u0142o,Wyszk\u00f3"],"vars":[],"minSzerokosc":1000,"kodMaster":"xGD1MRzYjW3ch6BaSezbnDCkPAnfpnBuw0fMp1M_DN7.J7","adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"};
+
+  var hasFlash = (
+    (navigator.plugins !== "undefined" && typeof navigator.plugins["Shockwave Flash"] === "object")
+    || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) !== false)
+  );
+
+  if (hasFlash) {
+    adO.keys.push('flash');
+  }
+
+  var ciastkoCriteo = GR('pobierzCookie', 'crtg_rta');
+
+  if (ciastkoCriteo && ';' == ciastkoCriteo.charAt(ciastkoCriteo.length-1)) {
+    ciastkoCriteo = ciastkoCriteo.substring(0, ciastkoCriteo.length-1);
+  }
+
+  if (ciastkoCriteo) {
+    var kluczeIWartosci = unescape(ciastkoCriteo).split(";");
+    var dlugosc = kluczeIWartosci.length;
+
+    for (var i = 0; i < dlugosc; i++) {
+      var kluczIWartosc = kluczeIWartosci[i].split("=");
+      adO.vars[kluczIWartosc[0]] = parseInt(kluczIWartosc[1]);
+    }
+  }
+    GR('wywolajReklamy', 1, adO);
+  
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fba07d53bd07def&async=1?201601"></script>
+<script type="text/javascript" src="//connect.facebook.net/pl_PL/sdk.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/www/merge/?typ=js&amp;p=/o/jquerytools/jquery.cookie.js,/p/js/regionalne/menu_gorne.js,/p/js/regionalne/stopka.js,/p/js/regionalne/naglowek_skrocony.js,/o/jquerytools/jquery.lazyload-1.9.3.js,/o/jquerytools/jquery.appear-1.1.1.min.js,/p/js/cgr/polskatimes.js,/p/js/rwd/modernizr.foundation.js,/p/js/rwd/foundation5.js,/p/js/rwd/foundation.tooltip.js,/p/js/rwd/foundation.reveal.js,/p/js/rwd/jquery.inview.js,/p/js/rwd/jquery.localscroll-1.2.7-min.js,/p/js/rwd/jquery.scrollTo-1.4.3.1-min.js,/o/jquerytools/jquery.nanoscroller.js,/p/js/regionalne/kategorie_wiecej.js,/p/js/regionalne/rozwin_boks.js,/p/js/rwd/material_spolecznosci.js,/o/js/cgr/track.js&amp;v=11140890&amp;w=89ebf411140890_ffbedf11140890_01240011140890_ada0ac11140890_4b6e9d11140890_72e1d911140890_e042a311140890_9177d511140890_07c27111140890_54a3f911140890_e3446211140890_4ac5fe11140890_8996ad11140890_c4dff611140890_150c7211140890_c36bd511140890_674f9611140890_59ce5711140890_f0dc1511140890"></script>
+
+    
+    <script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/criteo.js?6c3c0811140890"></script>
+
+
+                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                    <title>Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę - to.com.pl</title>
+                            <meta name="description" content="Naszą Czytelniczkę zbulwersował fakt, że stały zasiłek z pomocy społecznej przyznano dwóm braciom, alkoholikom, którzy zamiast pracować, wystają pod sklepem z">
+                                <meta name="keywords" content="Wyszków, Wiadomości, Tygodnik Ostrołęcki, gmina, ośrodek, zasiłek, pijak, Pomocy, Społecznej&quot;, Długosiodło, Wyszkó">
+                                <meta name="robots" content="index, follow">
+                                                                <meta name="google-site-verification" content="jsT4MXqBK8qSBUm6pqDkWp_CRy_WE50VD5X5YhX4tBw">
+                        <link rel="canonical" href="http://www.to.com.pl/wiadomosci/wyszkow/art/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html">
+                                                                                                                                                                                                                                                                                                                                                                                            <meta name="rating" content="general">
+                                <meta name="revisit-after" content="1 day">
+                                                                                <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                                <meta name="fragment" content="!">
+                                                                <meta name="news_keywords" content="gmina, ośrodek, zasiłek, pijak, Pomocy,Społecznej&quot;,Długosiodło,Wyszkó">
+                                <meta name="thumbnail" content="http://d-pt.ppstatic.pl/k/r/1/ac/e8/55de3b364dca1_m.jpg?1441352470">
+            
+
+
+            <meta property="article:publisher" content="http://www.facebook.com/TygodnikOstrolecki">
+                <meta property="article:author" content="http://www.facebook.com/TygodnikOstrolecki">
+                <meta property="og:image" content="http://d-pt.ppstatic.pl/k/r/1/ac/e8/55de3b364dca1_o.jpg?1441352470">
+                <meta property="og:title" content="Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę">
+                <meta property="og:url" content="http://www.to.com.pl/wiadomosci/wyszkow/art/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html">
+                <meta property="og:type" content="article">
+                <meta property="og:site_name" content="to.com.pl">
+                <meta property="og:description" content="Naszą Czytelniczkę  zbulwersował fakt, że stały zasiłek z pomocy społecznej przyznano dwóm braciom, alkoholikom, którzy zamiast pracować, wystają pod sklepem z ">
+    
+    <link rel="apple-touch-icon" href="http://s-pt.ppstatic.pl/g/favicon/mobilne/tygodnik_ostrolecki.png?1">
+
+
+
+<link href="http://s-pt.ppstatic.pl/g/favicon/tygodnik_ostrolecki.ico" rel="shortcut icon">
+      <!--[if IE]>
+    <meta http-equiv="imagetoolbar" content="no">
+<![endif]-->
+
+      <script type="text/javascript">
+  GR('oTrackGettracker', { prefix: '', account: 'UA-929274-1', domain: '.to.com.pl', setAllowAnchor: true });
+      GR('oTrackGettracker', { prefix: 'b', account: 'UA-2770843-19', domain: '.to.com.pl' });
+    </script>
+
+  
+<script type="text/javascript">
+  jQuery(function() {
+    jQuery("img.lazy").appear(function() { }); // hac
+    jQuery("img.lazy").removeClass('lazy').lazyload({
+      effect:"fadeIn",
+      threshold : 10,
+      failure_limit : 100
+    });
+    // inicjalizacja obsługi boksów asynchronicznych
+    GR('o_async_inicjalizuj_pt', '/artykul/', '6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t', 'html', '//www.to.com.pl/ajax/laduj_asynchronicznie/', '', 0);
+  });
+</script>
+
+  <script><!--
+(function(){
+  var images = [];
+
+  images[0] = new Image();
+  images[0].src = "//mreg.hit.gemius.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=zCg7YHhOsJtjE6VokPRvTvU57H8Fg1CHYpw2HlADJcH.z7&et=view";
+
+  images[1] = new Image();
+  images[1].src =  "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=ciI1xEcaVW5n8SYdF3KOItU77Ok1EDiTYtK0XgK_zen.u7&et=view";
+})();
+//--></script>
+
+    <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  var pp_gemius_identifier = 'ogI7K7bA_ERGISHkc_6UzMR77DR_5CvlYnVMcZCTqnv.m7';
+  function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+  gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+  (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+  gt.setAttribute('defer','defer'); gt.src=l+'://pro.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+  //--><!]]>
+  
+  </script>
+  <script>
+    var gfkSstConf = {
+      "url": "config.sensic.net/pl1-sst-w.js",
+      "media" : "toComPL",
+      "content" : "to_artykul_wyszkow_3828"
+    };
+    
+      (function (w, d, c, s, id) {
+        if (d.getElementById(id)) {return;}
+          w[id] = w[id] || function () {
+            if ("undefined" == typeof gfkSstApi) {w[id].queue.push(arguments[0]);
+      } else {gfkSstApi.impression(arguments[0]);}
+          };
+        w[id].queue = w[id].queue || [];
+        var tag = d.createElement(s); var el = d.getElementsByTagName(s)[0];
+        tag.id = id; tag.async = true; tag.src = '//' + c.url;
+        el.parentNode.insertBefore(tag, el);
+      })(window, document, gfkSstConf, 'script', 'gfkSst');
+    
+  </script>
+
+ 
+  </head>
+  <!--[if lt IE 9 ]>    <body class="lt-ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if IE 9]> <body class="ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <body class="regionalne stronaMaterialu widokDesktop">
+  <!--<![endif]-->
+      <script>
+  dataLayer = [{
+      }];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W26ZPP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-W26ZPP');</script>
+  <!-- End Google Tag Manager -->
+
+        <div id="piano-root"></div><script type="text/javascript">
+var pianoVariables = {
+  service_id: '315',
+  mode: 'bar_normal',
+  method_verify: true
+};
+var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+
+  var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+})();
+</script>  <div id="kontener-static">  <div id="pasek-media-plywajacy" class="pasekMediaPlus skrocony przyklejony" style="display:none">
+    <div class="row">
+      <header class="columns">
+        <span id="menu-mobilne-przycisk" class="show-for-medium-down" title="Menu">Menu</span>        <h1>
+          <a href="http://www.to.com.pl" data-tracker="/nowa_karta/naglowek/tygodnikostrolecki">
+              <img src="http://s-pt.ppstatic.pl/g/logo_naglowek/tygodnikostrolecki.png?11140890.png" alt="Tygodnik Ostrołęcki">
+
+          </a>
+        </h1>
+                          <h2>
+            <a href="http://www.to.com.pl/wiadomosci/wyszkow/" data-tracker="/nowa_karta/naglowek/kategoria_mat/ /wiadomosci/wyszkow/">
+                              <span>Wyszków</span>
+                          </a>
+          </h2>
+                <ul class="kategorieNaglowek schowaj"></ul>
+      </header>
+      <ul class="columns logowanie">
+                  <li class="zaloguj"><a class="loginWarstwa" data-tracker="naglowek/zaloguj" title="Zaloguj się do serwisu Tygodnik Ostrołęcki" href="http://www.to.com.pl/logowanie/" rel="nofollow" id="naglowek-link-login">Zaloguj się</a></li>
+                <li class="szukaj schowaj">
+          <div>
+            <a title="szukaj" href="http://www.to.com.pl/szukaj/">Szukaj</a>
+            <form action="http://www.to.com.pl/wyszukiwanie/" method="post" id="wyszukiwarka-mobile">
+              <input type="search" name="szukaj_slowo" placeholder="Wpisz czego szukasz" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</div><div id="ad-gora1" class="adSrodek hide-for-medium-down naglowekTlo"></div>
+<div id="logo-serwisu"></div>
+
+    <script type="text/javascript">
+        (function () {
+            GR('wstawReklame', {
+                nazwa: 'gora1',
+                rodzic: '#ad-gora1',
+            });
+        })();
+    </script>
+
+<script><!--
+(function(){
+  try{
+    var adrequest = new XMLHttpRequest();
+    var hitrequest = new XMLHttpRequest();
+ 
+    adrequest.open("GET", "//myao.adocean.pl/_" + new Date().getTime() + "/ad.js?id=nJpB5gBsvEYqjNEhFhRQd_sR3A.T7LA9bTdPlUvbjW7.47", true);
+    adrequest.withCredentials = true;
+    adrequest.send(null);
+  
+    hitrequest.open("GET", "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.js?l=71&id=p301ZHcRQYCaGuv9TDX3pvUI.D5REaSbzAnb3DaDtQL.f7&et=view", true);
+    hitrequest.withCredentials = true;
+    hitrequest.send(null);
+  } catch (e) {}
+})();
+//--></script>
+
+
+<script>
+    (function(){
+      var czyZainicjalizowany =  oG_OSA['facebookZainicjalizowany'] || false;
+      if(!czyZainicjalizowany) {
+          FB.init({
+            appId: '749669925057160',
+            xfbml: true,
+            cookie: true,
+            oauth: true,
+            version: 'v2.2'
+          });
+          oG_OSA['facebookZainicjalizowany'] = true;
+      }
+    })();
+</script>
+
+    <div class="blok menu" id="LinkArea:men">
+  <div class="row">
+    <div class="columns large-12" id="LinkArea:menMob">
+            <ul id="menu-mobilne" style="display: none;">
+                  <li>
+            <a href="http://www.to.com.pl/wiadomosci/" class="ellipsis menu1Poziom" id="LinkArea:menuMob1">Wiadomości</a>
+          </li>
+                            <li>
+            <a href="http://www.to.com.pl/sportowiec-roku-2015/" class="ellipsis menu1Poziom" id="LinkArea:menuMob2">Sportowiec roku 2015</a>
+          </li>
+                            <li>
+            <a href="http://www.to.com.pl/studniowki/" class="ellipsis menu1Poziom" id="LinkArea:menuMob3">Studniówki</a>
+          </li>
+                            <li>
+            <a href="http://www.to.com.pl/motofakty/" class="ellipsis menu1Poziom" id="LinkArea:menuMob4">Motofakty</a>
+          </li>
+                            <li>
+            <a href="http://www.to.com.pl/kronika-policyjna/" class="ellipsis menu1Poziom" id="LinkArea:menuMob5">Kronika policyjna</a>
+          </li>
+                            <li>
+            <a href="http://www.to.com.pl/sport/" class="ellipsis menu1Poziom" id="LinkArea:menuMob6">Sport</a>
+          </li>
+                            <li>
+            <a href="http://www.to.com.pl/informator-miejski/" class="ellipsis menu1Poziom" id="LinkArea:menuMob7">Informator miejski</a>
+          </li>
+                                  <li id="horoskopy-mobilne">
+          <a href="http://www.to.com.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+        </li>
+                  <li id="biznes-mobilne">
+            <a href="http://www.strefabiznesu.to.com.pl" class="menu1Poziom" target="_blank">Biznes</a>
+          </li>
+                                            <li class="zaloguj"><a class="loginWarstwa" title="Zaloguj się do serwisu" href="http://www.to.com.pl/logowanie/" rel="nofollow">Zaloguj</a></li>
+              </ul>
+    </div>
+    <div class="columns large-12" id="LinkArea:menGl">
+      <ul id="menu-glowne" class="hide-for-medium-down">
+                  <li>
+            <a href="http://www.to.com.pl/wiadomosci/" class="menu1Poziom" id="LinkArea:menuGl1">Wiadomości</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo11">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/ostroleka/" id="LinkArea:menGlPo111">Ostrołęka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/wyszkow/" id="LinkArea:menGlPo112">Wyszków</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/ostrow-mazowiecka/" id="LinkArea:menGlPo113">Ostrów Mazowiecka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/makow-mazowiecki/" id="LinkArea:menGlPo114">Maków Mazowiecki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/przasnysz/" id="LinkArea:menGlPo115">Przasnysz</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/myszyniec/" id="LinkArea:menGlPo116">Myszyniec</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/chorzele/" id="LinkArea:menGlPo117">Chorzele</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/wiadomosci/region/" id="LinkArea:menGlPo118">Region</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/aktualnosci/gal/9293980,specjalny-osrodek-szkolnowychowawczy-po-remoncie-zdjecia,16685284,id,t,zid.html" id="LinkArea:menGlM11">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/90/ef/5698de62a7a51_o,size,380x238,q,71,h,4dd4d2.jpg" class="lazy schowaj">
+                                                    <h3 >Specjalny Ośrodek Szkolno-Wychowawczy po remoncie (zdjęcia)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/ostroleka/art/9293684,ostroleka-awantura-o-wlosy-klientka-i-fryzjerka-spotkaja-sie-w-sadzie,id,t.html" id="LinkArea:menGlM12">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b0/aa/5698ccba4db03_o,size,380x238,q,71,h,76a843.jpg" class="lazy schowaj">
+                                                    <h3 >Ostrołęka. Awantura o włosy. Klientka i fryzjerka spotkają się w sądzie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/ostroleka/art/9281924,czyje-to-swinie-zwierzeta-blakaja-sie-w-lawach,id,t.html" id="LinkArea:menGlM13">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/31/93/569513be8bf4d_o,size,380x238,q,71,h,0e33e1.jpg" class="lazy schowaj">
+                                                    <h3 >Czyje to świnie? Zwierzęta błąkają się w Ławach</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.to.com.pl/sportowiec-roku-2015/" class="menu1Poziom" id="LinkArea:menuGl2">Sportowiec roku 2015</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/sportowiec-roku-2015/gal/9293023,pilkarze-walcza-o-miano-sportowca-roku-2015-poznaj-ich-blizej,16683161,id,t,zid.html" id="LinkArea:menGlM21">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/18/97/5698a94c86b89_o,size,380x238,q,71,h,822381.jpg" class="lazy schowaj">
+                                                    <h3 >Piłkarze walczą o miano Sportowca Roku 2015. Poznaj ich bliżej</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/sport/pilka-nozna/art/9290420,mateusz-peltak-to-filar-defensywy-korony-ostroleka,id,t.html" id="LinkArea:menGlM22">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e9/73/5697b1996aca2_o,size,380x238,q,71,h,6123bc.jpg" class="lazy schowaj">
+                                                    <h3 >Mateusz Pełtak to filar defensywy Korony Ostrołęka</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/sport/pilka-nozna/art/9290410,lukasz-balazy-to-wazna-postac-ks-ck-troszyn,id,t.html" id="LinkArea:menGlM23">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/96/8a/5697b0ef84f17_o,size,380x238,q,71,h,f2d47d.jpg" class="lazy schowaj">
+                                                    <h3 >Łukasz Bałazy to ważna postać KS CK Troszyn</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/sport/pilka-nozna/art/9290398,marek-kaliszewski-to-lider-druzyny-tecza-jbb-lyse,id,t.html" id="LinkArea:menGlM24">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/0f/5c/5697b015a3b06_o,size,380x238,q,71,h,db7f25.jpg" class="lazy schowaj">
+                                                    <h3 >Marek Kaliszewski to lider drużyny Tęcza JBB Łyse</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.to.com.pl/studniowki/" class="menu1Poziom" id="LinkArea:menuGl3">Studniówki</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo31">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.to.com.pl/studniowki/studniowki-2016/" id="LinkArea:menGlPo311">Studniówki 2016</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/studniowki/studniowki-2015/" id="LinkArea:menGlPo312">Studniówki 2015</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/studniowki/studniowki-2014/" id="LinkArea:menGlPo313">Studniówki 2014</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/studniowki/studniowki-2011/" id="LinkArea:menGlPo314">Studniówki 2011</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/studniowki/studniowki-2010/" id="LinkArea:menGlPo315">Studniówki 2010</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/studniowki/studniowki-2016/gal/9274470,studniowka-2016-ceziu-w-wyszkowie-zobacz-zdjecia-z-balu,16639150,id,t,zid.html" id="LinkArea:menGlM31">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ed/8d/56928f7d63222_o,size,380x238,q,71,h,2a1b9b.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka 2016 CEZiU w Wyszkowie. Zobacz ZDJĘCIA z balu</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/studniowki/studniowki-2016/gal/9273017,studniowka-2016-zsz-nr-1-w-ostrolece-zdjecia-wideo,16627851,id,t,zid.html" id="LinkArea:menGlM32">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/7e/fd/5691aef66f831_o,size,380x238,q,71,h,448f9b.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka 2016 ZSZ nr 1 w Ostrołęce (ZDJĘCIA, WIDEO)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/studniowki/studniowki-2016/gal/9273015,studniowka-2016-zsz-nr-3-w-ostrolece-zdjecia-wideo,16627781,id,t,zid.html" id="LinkArea:menGlM33">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/be/51/5691a9cb9c071_o,size,380x238,q,71,h,80d96e.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka 2016 ZSZ nr 3 w Ostrołęce (ZDJĘCIA, WIDEO)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.to.com.pl/motofakty/" class="menu1Poziom" id="LinkArea:menuGl4">Motofakty</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo41">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.to.com.pl/motofakty/aktualnosci/" id="LinkArea:menGlPo411">Aktualności</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/motofakty/na-drogach/" id="LinkArea:menGlPo412">Na drogach</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/wyszkow/art/9290424,pijany-kierowca-bmw-uciekal-przed-policja,id,t.html" id="LinkArea:menGlM41">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/02/6c/5697b1ec1ddd6_o,size,380x238,q,71,h,2fcab0.jpg" class="lazy schowaj">
+                                                    <h3 >Pijany kierowca BMW uciekał przed policją</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/motofakty/na-drogach/art/9284603,powiat-przasnyski-na-drogach-kolizja-za-kolizja,id,t.html" id="LinkArea:menGlM42">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ac/85/569618b03cfe0_o,size,380x238,q,71,h,e06135.jpg" class="lazy schowaj">
+                                                    <h3 >Powiat przasnyski. Na drogach kolizja za kolizją</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/wyszkow/art/9277404,zajechal-mu-droge-i-zabral-kluczyki,id,t.html" id="LinkArea:menGlM43">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b1/6c/56939ad3edf64_o,size,380x238,q,71,h,56b702.jpg" class="lazy schowaj">
+                                                    <h3 >Zajechał mu drogę i zabrał kluczyki</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.to.com.pl/kronika-policyjna/" class="menu1Poziom" id="LinkArea:menuGl5">Kronika policyjna</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/makow-mazowiecki/art/9283551,makow-maz-radny-miejski-odmowil-mandatu-bedzie-sad,id,t.html" id="LinkArea:menGlM51">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d2/02/569570dd2926f_o,size,380x238,q,71,h,53a9df.jpg" class="lazy schowaj">
+                                                    <h3 >Maków Maz. Radny miejski odmówił mandatu, będzie sąd</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/myszyniec/gal/9283675,w-nocy-splonal-doszczetnie-disco-club-w-myszyncu-zdjecia,16665311,id,t,zid.html" id="LinkArea:menGlM52">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e4/35/56958ce721355_o,size,380x238,q,71,h,1785ed.jpg" class="lazy schowaj">
+                                                    <h3 >W nocy spłonął doszczętnie Disco Club w Myszyńcu (zdjęcia)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/ostrow-mazowiecka/art/9284737,papierosy-bez-akcyzy-policjanci-odkryli-w-hondzie-przy-targowisku,id,t.html" id="LinkArea:menGlM53">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b5/1e/569623818b10b_o,size,380x238,q,71,h,ba39cc.jpg" class="lazy schowaj">
+                                                    <h3 >Papierosy bez akcyzy policjanci odkryli w hondzie przy targowisku</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/wyszkow/art/9277404,zajechal-mu-droge-i-zabral-kluczyki,id,t.html" id="LinkArea:menGlM54">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b1/6c/56939ad3edf64_o,size,380x238,q,71,h,56b702.jpg" class="lazy schowaj">
+                                                    <h3 >Zajechał mu drogę i zabrał kluczyki</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.to.com.pl/sport/" class="menu1Poziom" id="LinkArea:menuGl6">Sport</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo61">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/pilka-nozna/" id="LinkArea:menGlPo611">Piłka nożna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/siatkowka/" id="LinkArea:menGlPo612">Siatkówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/lekkoatletyka/" id="LinkArea:menGlPo613">Lekkoatletyka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/plywanie/" id="LinkArea:menGlPo614">Pływanie</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/sporty-walki/" id="LinkArea:menGlPo615">Sporty walki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/koszykowka/" id="LinkArea:menGlPo616">Koszykówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/pilka-reczna/" id="LinkArea:menGlPo617">Piłka ręczna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/tenis-ziemny-i-stolowy/" id="LinkArea:menGlPo618">Tenis ziemny i stołowy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/sport/inne-dyscypliny/" id="LinkArea:menGlPo619">Inne dyscypliny</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/sport/pilka-nozna/art/9294552,seria-sparingowych-meczow-przed-pilkarzami-ostrovii,id,t.html" id="LinkArea:menGlM61">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/5a/14/5698fe8cb545e_o,size,380x238,q,71,h,21edab.jpg" class="lazy schowaj">
+                                                    <h3 >Seria sparingowych meczów przed piłkarzami Ostrovii</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/sport/sporty-walki/gal/9294436,piec-medali-karatekow-ostrowskiego-kkk-zobacz-zdjecia,16686994,id,t,zid.html" id="LinkArea:menGlM62">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b1/67/5698f56fd6adf_o,size,380x238,q,71,h,3323ca.jpg" class="lazy schowaj">
+                                                    <h3 >Pięć medali karateków Ostrowskiego KKK. Zobacz zdjęcia</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/sport/pilka-nozna/art/9290236,tecza-jbb-z-planem-przygotowan-do-rundy-wiosennej,id,t.html" id="LinkArea:menGlM63">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/be/c3/5697a93384d78_o,size,380x238,q,71,h,e6d17c.jpg" class="lazy schowaj">
+                                                    <h3 >Tęcza JBB z planem przygotowań do rundy wiosennej</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.to.com.pl/informator-miejski/" class="menu1Poziom" id="LinkArea:menuGl7">Informator miejski</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo71">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.to.com.pl/informator-miejski/ostroleka/" id="LinkArea:menGlPo711">Ostrołęka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/informator-miejski/wyszkow/" id="LinkArea:menGlPo712">Wyszków</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/informator-miejski/ostrow-mazowiecka/" id="LinkArea:menGlPo713">Ostrów Mazowiecka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/informator-miejski/makow-mazowiecki/" id="LinkArea:menGlPo714">Maków Mazowiecki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.to.com.pl/informator-miejski/przasnysz/" id="LinkArea:menGlPo715">Przasnysz</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.to.com.pl/wiadomosci/wyszkow/art/9067524,wyszkow-prawnicy-pomoga-bezplatnie-ale-nie-kazdemu,id,t.html" id="LinkArea:menGlM71">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/11/67/563db61abbc42_o,size,380x238,q,71,h,c6b6af.jpg" class="lazy schowaj">
+                                                    <h3 >Wyszków. Prawnicy pomogą bezpłatnie, ale nie każdemu</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="http://www.mdkprzasnysz.pl/index.php?option=com_content&amp;amp;view=section&amp;amp;layout=blog&amp;amp;id=10&amp;amp;Itemid=79" id="LinkArea:menGlM72">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/86/f0/5626a2123f483_o,size,380x238,q,71,h,2baad0.jpg" class="lazy schowaj">
+                                                    <h3 >Repertuar kina</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="http://mdkmakow.pl/kino-mazowsze-w-makowie-mazowieckim/repertuar-2/" id="LinkArea:menGlM73">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/56/b2/5626a1b780118_o,size,380x238,q,71,h,784651.jpg" class="lazy schowaj">
+                                                    <h3 >Repertuar kina</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                                  <li id="biznes-menu" class="bezPodmenu">
+            <a href="http://www.strefabiznesu.to.com.pl" class="menu1Poziom" target="_blank">Biznes</a>
+                      </li>
+                
+        <li id="ogloszenia-menu">
+          <a href="http://www.to.com.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+                      <div class="rozwijane">
+              <a href="http://www.gratka.pl/ogloszenia/dodaj.html" target="_blank">Zamów ogłoszenie w gratce</a>
+              <a href="http://nadaj.pl" target="_blank">Zamów ogłoszenie w prasie</a>
+            </div>
+                  </li>
+        <li id="wyszukaj-menu" class="bezPodmenu">
+          <a class="menu1Poziom">Szukaj</a>
+          <div class="wyszukiwarka">
+            <form action="http://www.to.com.pl/wyszukiwanie/" method="post">
+              <input type="search" placeholder="Wpisz czego szukasz" name="szukaj_slowo" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div><div class="adSrodek row hide-for-medium-down" id="gora2">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "gora2", pokazUkryjRodzica: true, rodzic: '#gora2', cssClass: "marginD" });</script>
+</div>      <div class="row">
+                  <div id="nawigator" class="twelve columns">  <div id="lokalizator" class="row hide-for-small-down">
+    <div class="twelve columns">
+                            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+            <a href="http://www.to.com.pl/" title="Tygodnik Ostrołęcki" itemprop="url"><span itemprop="title">Tygodnik Ostrołęcki</span></a>
+          </div>
+                                <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+          <a href="http://www.to.com.pl/wiadomosci/" title="Wiadomości" itemprop="url"><span itemprop="title">Wiadomości</span></a>
+        </div>
+                        <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+          <a href="http://www.to.com.pl/wiadomosci/wyszkow/" title="Wyszków" itemprop="url"><span itemprop="title">Wyszków</span></a>
+        </div>
+                        Pijakowi zasiłek się należy? To zbulwersowało naszą...
+              </div>
+  </div>
+</div>
+              </div>
+          
+    
+    <div class="kontener">
+      
+      
+                  <div class="row">
+        <div class="columns">
+          <h1>Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę</h1>
+        </div>
+      </div>
+            <div class="row">
+        <div id="glowna-kolumna" class="columns large-8">
+          
+                     <script type="text/javascript">
+    
+    aktualnaStrona = 0;
+</script>
+    
+
+
+
+<script type="text/javascript">
+  GR("zaladujPlikJS", "http://s-pt.ppstatic.pl/p/js/akcja.js", "plik");
+</script>
+<div class="row">
+  <article id="material" class="columns">
+      
+<header class="materialSzczegoly">
+  
+            
+      <p class="nazwisko autorPT">
+        <b>yaymicro.com</b>
+              </p>
+      
+              <p class="zrodlo show-for-small-down">
+                                          <span title="Źródło materiału: Tygodnik Ostrołęcki">
+              <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/tygodnikostrolecki.gif?11140890123" alt="Tygodnik Ostrołęcki" >
+            </span>
+                  </p>
+      
+        
+  
+      <p class="aktualizacja">
+      <time class="show-for-medium-up" datetime="2011-12-27T22:01:00+01:00">
+        27 grudnia 2011 
+              </time>
+      <time class="show-for-small-down" datetime="2011-12-27T22:01:00+01:00">
+        27.12.2011
+              </time>
+              Aktualizacja: 
+        <time class="show-for-medium-up" datetime="2011-12-28T08:27:24+01:00">28 grudnia 2011 08:27</time>
+        <time class="show-for-small-down" datetime="2011-12-28T08:27:24+01:00">28.12.2011 08:27</time>
+          </p>
+    
+  
+      <p class="zrodlo show-for-medium-up">
+                          <span title="Źródło materiału: Tygodnik Ostrołęcki">
+          <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/tygodnikostrolecki.gif?11140890123" alt="Tygodnik Ostrołęcki" >
+        </span>
+          </p>
+    
+</header>
+
+  <ul id="narzedzia" data-url="http://www.to.com.pl/artykul/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html">
+    <li class="facebook wyzsze opis popup" data-tracker="artykul/klikniecie/fb-gora">
+      <a data-url="https://www.facebook.com/sharer/sharer.php?u=http://www.to.com.pl/artykul/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html&amp;title=Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">
+          <iframe src="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href=http://www.to.com.pl/artykul/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;share=true&amp;width=200&amp;height=20" scrolling="no" width="200" height="20"></iframe>
+        </span>
+      </a>
+    </li>
+    <li class="twitter wyzsze opis popup">
+      <a data-url="http://twitter.com/home?status=Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę+http://www.to.com.pl/artykul/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Twitterze</span>
+      </a>
+    </li>
+    <li class="googleplus wyzsze opis popup">
+      <a data-url="https://plus.google.com/share?url=http://www.to.com.pl/artykul/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Google+</span>
+      </a>
+    </li>
+    
+    <li class="przeslij bezTekstu">
+      <a rel="nofollow" id="narzedzia-przeslij">Prześlij</a>
+      <div>
+        
+        <form id="form-polec" method="post">
+          <fieldset>
+            <legend>Poleć znajomemu ten artykuł</legend>
+            <label for="email">Adres email:</label>
+            <input id="email" type="text" name="email">
+            <span class="blad">Niepoprawny adres email</span>
+            <button type="submit" name="wyslij">Wyślij</button>
+          </fieldset>
+        </form>
+      </div>
+    </li>
+    <li class="drukuj opis">
+      <a href="#drukuj_dol" rel="nofollow" id="narzedzia-drukuj" onclick="window.open('/drukuj/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html', '', 'width=780,height=500,scrollbars=1');">
+        <span class="ukryty">Drukuj artykuł</span>
+      </a>
+    </li>
+    <li class="wielkosc bezTekstu">
+      <a rel="nofollow">Zmień wielkość czcionki</a>
+      <div>
+        <div class="pomniejsz" onclick="Czcionka.pomniejsz();" title="Mniejsza czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_pomniejsz.png">Mniejsza czcionka</div>
+        <div class="powieksz" onclick="Czcionka.powieksz();" title="Większa czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_powieksz.png">Większa czcionka</div>
+      </div>
+    </li>
+    <li class="komentarze wyzsze opis">
+              <a href="#material-komentarze" data-tracker="artykul/klikniecie/komentarze-gora" rel="nofollow" title="Komentarze">
+              <div class="wartosc">0</div>
+        <span class="ukryty">Komentarze</span>
+      </a>
+    </li>
+  </ul>
+  <script>
+    
+      jQuery("#form-polec").submit(function() {
+          var wyrazenie = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+          if(wyrazenie.test(jQuery(this).find("#email").val())) {
+              jQuery(this).find("span.blad").removeClass("widoczny");
+              jQuery(this).find("#email").removeClass("blad");
+              return true;
+          } else {
+              jQuery(this).find("#email").addClass("blad");
+              jQuery(this).find("span.blad").addClass("widoczny");
+              return false;
+          }
+      });
+
+      jQuery("#narzedzia .facebook").hover(
+        function() {
+          jQuery(this).toggleClass("hover");
+          jQuery(this).click();
+        },
+        function() {
+          jQuery(this).toggleClass("hover");
+      });
+
+      var Czcionka = {
+          aktualnie : 3,
+          
+          zmien : function () {
+              jQuery("#material").attr("data-rozmiar", this.aktualnie);
+          },
+          
+          powieksz : function () {
+              if (this.aktualnie < 6) this.aktualnie++;
+              this.zmien();
+              return false;
+          },
+
+          pomniejsz : function () {
+              if (this.aktualnie > 0) this.aktualnie--;
+              this.zmien();
+              return false;
+          }
+      }
+      
+      function Pozycjonuj() {
+          var poz = jQuery("#material").offset(),
+              scrollTop = jQuery(window).scrollTop(),
+              przesuniecie = jQuery("#pasek-media-plus").outerHeight(true) + 30,
+              doWysokosci = jQuery("#material footer").offset().top - 25,
+              narzedzia = jQuery("#narzedzia");
+              
+          if(poz.top <= scrollTop + przesuniecie) {
+              if(scrollTop + przesuniecie + narzedzia.outerHeight(true) < doWysokosci) {
+                  narzedzia.css({
+                      "top": przesuniecie + 20,
+                      "position": "fixed",
+                      "left": poz.left - narzedzia.outerWidth(true),
+                  });
+              } else {
+                  narzedzia.css({
+                      "top": jQuery('#material footer').offset().top - poz.top - narzedzia.outerHeight(true) + 20,
+                      "position": "absolute",
+                      "left": -narzedzia.outerWidth(true),
+                  });
+              }
+          } else {
+              narzedzia.css({
+                  "top": 35,
+                  "position": "absolute",
+                  "left": -narzedzia.outerWidth(true),
+              });
+          }
+      }
+      
+      jQuery(window).on("scroll resize load", function(){
+          Pozycjonuj();
+      });
+      liczbySpolecznosciRegionalne();
+    
+  </script>
+              <div class="zdjecieGlowne show-for-medium-up" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="thumbnail" content="http://d-pt.ppstatic.pl/k/r/1/ac/e8/55de3b364dca1_o.jpg?1441352470">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAGkAQMAAAAiwoCVAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPElEQVR42u3BgQAAAADDoPlTH+ECVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8A5VMAAHYnuRmAAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ac/e8/55de3b364dca1_o,size,969x565,q,71,h,5a2538.jpg" alt="Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę" class="lazy">
+                      <p class="zdjeciePodpis">
+                            <span>&copy;yaymicro.com</span>            </p>
+                  </div>
+        <section class="zajawka">
+      Naszą Czytelniczkę  zbulwersował fakt, że stały zasiłek z pomocy społecznej przyznano dwóm braciom, alkoholikom, którzy zamiast pracować, wystają pod sklepem z wódką. 
+    </section>
+    
+            <div class="zdjecieGlowne show-for-small-down" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="thumbnail" content="http://d-pt.ppstatic.pl/k/r/1/ac/e8/55de3b364dca1_o.jpg?1441352470">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGQAQAAAAAWiOyIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAACKSURBVHja7MwxAQAACAOgaf/OWmInBGAuXRuhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUFvwAYv0EH9Z9tOkAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ac/e8/55de3b364dca1_o,size,640x400,q,71,h,6f0202.jpg" alt="Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę" class="lazy">
+                      <p class="zdjeciePodpis">
+                            <span>&copy;yaymicro.com</span>            </p>
+                  </div>
+      
+
+            <section id="tresc" >
+                        <div class="wstawka waska hide-for-medium-down dodatekTresc">
+  <div class="materialyPodobne">
+    <h3>Materiały podobne</h3>
+    <ul>
+              <li>
+                   <a href="http://www.gs24.pl/apps/pbcs.dll/article?AID=/20111219/REGION/128236445" data-tracker="nowa_karta/podobne/1">
+            <h4>Przyjechał pijany na policję, chciał do więzienia bo... dziewczyna go nie kocha</h4>
+          </a>
+        </li>
+          </ul>
+  </div>
+</div>- Nie ma znaczenia, jaki tryb życia ktoś prowadził, jak dbał o swoje zdrowie. My nie oceniamy takich sytuacji, tylko stan zdrowia w chwili składania wniosku o orzeczenie stopnia niepełnosprawności - mówi Tomasz Cudny, przewodniczący Powiatowego Zespołu ds. Orzekania o Niepełnosprawności, odpowiadając na list naszej Czytelniczki. <br><br>Sprawa, którą opisała w liście nasza Czytelniczka, rzeczywiście może bulwersować: <br>- "Jestem mieszkanką gminy Długosiodło.<div id="reklama_srodtekst_0" class="adSrodekSzeroki reklama_srodtekst"><div class="pt_srodtekst"><div class="clear">
+              <script type="text/javascript">
+                GR("wstawReklame","srodek1");
+              </script></div></div></div> Dowiedziałam się ostatnio o sprawie, która mnie zbulwersowała. Chodzi o to, że wydarzył się wypadek (tak to można nazwać). Pijany mężczyzna po prostu rozwalił sobie głowę. Podobno nasz Gminny Ośrodek Pomocy Społecznej przyjechał z pogotowiem i zajęli się nim, wzięto go do szpitala, aż podobno do Warszawy, porobiono mu wszystkie badania i zajęto się nim bardzo troskliwie - tak bym to ujęła. Ale chodzi mi jeszcze o to, że - z tego co mówią ludzie - nasz GOPS pomógł mu i jego bratu załatwić renty socjalne, mimo, że całymi dniami wystają pod sklepem i piją alkohol, nigdy nie pracowali i nie pracują i jeszcze mało tego, (GOPS ) kupili im węgiel. Nie rozumiem tego, jak takim ludziom należy się wszystko, a tam gdzie jest choroba to nic się nie należy. Jest w naszej miejscowości kobieta, która ma raka i z tego co wiem była w GOPS-ie z <a href="http://www.wiadomosci24.pl/artykul/oliwka_wiesniuk_ma_10_miesiecy_118064.html#utm_medium=alz&utm_source=to.com.pl&utm_campaign=artykul" target="_blank" class="alz" data-alz="prosba-o-pomoc">prośbą o pomoc</a> w leczeniu. Powiedziano jej, że nie należy się jej pomoc. Jestem wściekła i nie mogę pojąć, jak to jest możliwe. Miałabym prośbę, żeby Państwo sprawdzili, czy taka sytuacja mogła zaistnieć?". <br>Niestety, mogła zaistnieć i zaistniała, z tą różnicą, że to nie renty socjalne, a stały zasiłek z pomocy społecznej otrzymali wspomniani bracia - alkoholicy. Z pewnością też Gminny Ośrodek Pomocy Społecznej w Długosiodle niczego im nie "załatwił". <br><br>- Panowie ci przedstawili nam orzeczenia, z których wynika, że mają umiarkowany stopień niepełnosprawności i musimy im wypłacać zasiłek. Tak nakazuje ustawa - wyjaśnia Zofia Szymańska, szefowa GOPS w Długosiodle.   <br><br>Zofia Szymańska kojarzy sprawę dwóch ciotecznych braci. Z jednym z nich pracownicy socjalni zmagali się latami.<br>- Staraliśmy się jakoś go wyprowadzić z tego nałogu, skierować na właściwe tory. Kierowaliśmy na leczenie odwykowe, raz nawet odbył terapię w ośrodku, ale wrócił i znowu zaczął pić - opowiada pani kierownik.<br><br>Nieoczekiwanie w  tym roku mężczyzna przedstawił w GOSP dokumenty, z których wynika, że jest <a href="http://www.dziennikzachodni.pl/artykul/4859353,wakacyjny-poradnik-pasazer-na-wozku-tez-moze-latac-nasze-sprawy,id,t.html#utm_medium=alz&utm_source=to.com.pl&utm_campaign=artykul" target="_blank" class="alw" data-alw="osoba-niepelnosprawna">osoba niepełnosprawna</a> w stopniu umiarkowanym. <br>- Po prostu ustalił sobie stopień niepełnosprawności, dostał umiarkowany i należy mu się zasiłek stały z pomocy społecznej. To jest poza nami. Jeśli lekarz uznał, że on nie nadaje się do pracy, to kryterium zdrowotne jest w takich przypadkach decydujące - mówi Zofia Szymańska. (...)<br><br>Tomasz Cudny, przewodniczący Powiatowego Zespołu ds. Orzekania o Niepełnosprawności, przyznaje, że decyzja o stopniu niepełnosprawności wydawana jest przede wszystkim na podstawie dostarczonej przez wnioskodawcę dokumentacji medycznej oraz w razie potrzeby badań, jakie można wykonać podczas komisji.<br>- Komisja ocenia dokumentację medyczną, która wskazuje na stan zdrowia w chwili, kiedy dana osoba składa do nas wniosek. Nie oceną zespołu orzekającego jest <a href="http://www.gazetalubuska.pl/artykul/8983663,rafal-maslak-bielizna-musi-pobudzac-wyobraznie-wideo,id,t.html#utm_medium=alz&utm_source=to.com.pl&utm_campaign=artykul" target="_blank" class="alw" data-alw="styl-zycia">styl życia</a> danej osoby.<br><br>Więcej w najnowszym, papierowym wydaniu Głosu Wyszkowa.<br>
+                                                                    </section>
+
+    <footer class="row">
+                    <div id="nota-wydawnicza" class="columns">
+          <div class="right">
+            <p class="chmurka" >Rozpowszechnianie niniejszego artykułu możliwe jest tylko i&nbsp;wyłącznie
+              zgodnie z postanowieniami <a href="http://www.to.com.pl/artykuly-archiwalne/art/6553949,nota-wydawnicza,id,t.html">&bdquo;Regulaminu korzystania z&nbsp;artykułów prasowych&rdquo;</a> i&nbsp;po wcześniejszym uiszczeniu należności, zgodnie z&nbsp;<a href="http://www.to.com.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapresse,id,t.html">cennikiem</a>.
+            </p>
+          </div>
+        </div>
+      
+        
+      <div class="columns">
+          <div id="material-tagi">
+      Tagi:
+      <ul>
+                  <li><a data-tracker="nowa_karta/tag/1" href="/tag/gmina.html">gmina</a></li>
+                  <li><a data-tracker="nowa_karta/tag/2" href="/tag/osrodek.html">ośrodek</a></li>
+                  <li><a data-tracker="nowa_karta/tag/3" href="/tag/zasilek.html">zasiłek</a></li>
+                  <li><a data-tracker="nowa_karta/tag/4" href="/tag/pijak.html">pijak</a></li>
+                  <li><a data-tracker="nowa_karta/tag/5" href="/tag/pomocy.html">Pomocy</a></li>
+                  <li><a data-tracker="nowa_karta/tag/6" href="/tag/spolecznej.html">Społecznej"</a></li>
+                  <li><a data-tracker="nowa_karta/tag/7" href="/tag/dlugosiodlo.html">Długosiodło</a></li>
+                  <li><a data-tracker="nowa_karta/tag/8" href="/tag/wyszko.html">Wyszkó</a></li>
+              </ul>
+  </div>
+
+      </div>
+
+      <div class="waskiAddthis columns"><div addthis:url="http://www.to.com.pl/wiadomosci/wyszkow/art/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html" class="addthis_toolbox addthis_default_style  "><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_button_tweet" ></a></div><script type="text/javascript">GR("dodajOnload", function() { addthis.init(); } );</script></div>        </footer>
+    <div id="sonda-mobile" class="row"></div>
+              <div class="row">
+        <div class="columns">
+          <div class="contentStream kd_ns_placement" data-ns-type="simplePlacement4" data-ns-hash="016f5081d9b38e15e922e6af570ead9c">
+            <script src="http://emisja.contentstream.pl/aldente/kd_process_function.js" async="async" ></script>
+          </div>
+        </div>
+      </div>
+      </article>
+</div>
+
+
+
+<script type="text/javascript">
+(function() {
+var strona = 1, strony = false;
+(function(d){var c=1,b,f=$("material-tagi").getElementsByTagName("a"),a=f.length;for(b=0;b<a;b++){var e=f[b].innerHTML.replace(" ","-").toLowerCase();d.push({elements:[f[b]],href:"/onclick/tag/"+e})}GR("$$","materialZrodlo",$("material"),"",function(g){d.push({elements:[g],href:"/onclick/zrodlo/link"})});d.push({elements:[GR("$","zmniejszTekst")],href:"/onclick/narzedzia/tekst-zmniejsz"});d.push({elements:[GR("$","powiekszTekst")],href:"/onclick/narzedzia/tekst-powieksz"});d.push({elements:[GR("$","narzedzia-komentarze")],href:"/onclick/narzedzia/komentarze"});d.push({elements:[GR("$","narzedzia-przeslij")],href:"/onclick/narzedzia/przeslij"});d.push({elements:[GR("$","narzedzia-drukuj")],href:"/onclick/narzedzia/drukuj"});d.push({elements:[$("zmniejszTekst")],href:"/onclick/material/zmniejsz-tekst"});d.push({elements:[$("powiekszTekst")],href:"/onclick/material/powieksz-tekst"});d.push({elements:[$("narzedziaWyslijZnajomym")],href:"/onclick/material/wyslij-znajomym"});d.push({elements:[$("drukuj_gora")],href:"/onclick/material/drukuj-gora"});jQuery("#mat-podobne a").each(function(){d.push({elements:[this],href:"/onclick/boks-podobne/link-"+c++})})})(oG_OSA.tracking);(function(){var e=GR("$","sm-sa"),c=GR("pobierzPozycje",e),a=40;if(jQuery("#sm-sa").attr("data-odstep")){a=parseInt(jQuery("#sm-sa").attr("data-odstep"))}function b(){if(c==undefined){return}var f=GR("pobierzPozycjeScroll");if(f[1]>c.y-a){e.style.position="fixed";e.style.top=a+"px"}else{e.style.position="absolute";e.style.top=0+"px"}}GR("dodajOnload",function(){setTimeout(function(){c=GR("pobierzPozycje",e);Zdarzenia.zaczep(window,"scroll",b);Zdarzenia.zaczep(window,"resize",b);b()},1000)});var d="medium";przesunSondeNaDol=function(f){var h,g=typeof f=="undefined"||f.matches;if(g&&d!="small"){h=jQuery("#sonda-mobile");if(h){h.append(jQuery(".sondaMaterial aside:visible"));d="small"}}},przeniesSondeDoTresci=function(f){var g=typeof f=="undefined"||f.matches;if(g&&d=="small"){jQuery(".sondaMaterial:visible").append(jQuery("#sonda-mobile aside"));d="medium"}},obsluzZmianeRozmiaru=function(){var f=jQuery(window).width();if(f<480){przesunSondeNaDol()}else{przeniesSondeDoTresci()}};if(window.matchMedia){smallCheck=window.matchMedia("(max-width: 479px)");fullCheck=window.matchMedia("(min-width: 480px)");smallCheck.addListener(przesunSondeNaDol);fullCheck.addListener(przeniesSondeDoTresci)}else{jQuery(window).resize(obsluzZmianeRozmiaru);obsluzZmianeRozmiaru()}obsluzZmianeRozmiaru()}());(function(){if(!!window.chrome){for(var a=0;a<strony;a++){if((strona-1)!==a){jQuery("#tresc_"+a).empty()}}}jQuery(document).ready(function(){jQuery("#tresc .pokazMiniatury").toggle(function(){jQuery(this).addClass("rozwiniete").html("Ukryj miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").show();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").hide()},function(){jQuery(this).removeClass("rozwiniete").html("Pokaż miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").hide();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").show()})})})();
+})();
+</script>
+
+  <script type="text/javascript">
+GR('wywolajReklamy', 1, 'WajrcbEjiE5NjjhWT.F9hszEw4SmgtKB.na2_lQK19n.L7', function() {
+    if ('function' === typeof adoceangratkaplrfdfgrfhgt) {
+        adoceangratkaplrfdfgrfhgt();
+    }
+});
+GR('wstawReklame', 'verboomInterText');
+</script>
+
+  <script type="text/javascript">
+      (function($) {
+          if (!$.browser.opera) {
+              GR('pDodajdozaznaczenia', {
+                  pole: $('#material')
+              });
+          };
+      })(jQuery);
+</script>
+  <div id="srodek2" class="row textC hide-for-medium-down">
+    
+      <script type="text/javascript">
+        GR("wstawReklame", {nazwa: "srodek2", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek2', szerokosc: 985, mierzOkno: true});
+      </script>
+    
+  </div>
+<section id="material-komentarze" class="row ipboard">
+  <header class="columns">
+    <h2><a href="http://forum.to.com.pl">Komentarze</a></h2>
+  </header>
+  <div id="art-komentarze" class="columns">
+            <div class="koment row">
+        <div class="komentarzWiersz">
+          <div class="tresc columns">
+            <header>
+              <p class="metryka">
+                <b>Elżbieta</b>                <time>19 listopada, 10:55</time>              </p>
+            </header>
+            <div>
+              <p>
+                <a href="http://forum.to.com.pl/pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke-t17341/?view=findpost&p=279685">                Ja jestem osobą po dwóch udarach i mi przysługuje zasiłek w wysokości 30 zł. A mój sąsiad dużo młodszy ode mnie otrzymuje 600 zł. I gdzie tu sprawiedliwość.                  </a>              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="koment row">
+        <div class="komentarzWiersz">
+          <div class="tresc columns">
+            <header>
+              <p class="metryka">
+                <b>baba254</b>                <time>25 stycznia, 17:02</time>              </p>
+            </header>
+            <div>
+              <p>
+                <a href="http://forum.to.com.pl/pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke-t17341/?view=findpost&p=265241">                   Najlepiej zrobić z takiego wariata gdyż nękanie oraz przemoc fizyczna i psychiczna są przestępstwami, a więc zagraża zdrowiu i życiu innych. To radykalne rozwiązanie, jednak warte uwagi, skoro przed osobami, chcącymi wyrwać się z uzależnienia, stawia się przeszkody i ciężary nie [...]                </a>              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="koment row">
+        <div class="komentarzWiersz">
+          <div class="tresc columns">
+            <header>
+              <p class="metryka">
+                <b>młody</b>                <time> 6 stycznia, 22:16</time>              </p>
+            </header>
+            <div>
+              <p>
+                <a href="http://forum.to.com.pl/pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke-t17341/?view=findpost&p=264475">                Po mojemu alkoholik taką chorobe ma na własne życzenie. Jak taki chce się nachlać to niech pójdzie i zarobi a nie my ludzie uczciwi będziemy oddawać podatki na takie patologie                </a>              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="koment row">
+        <div class="komentarzWiersz">
+          <div class="tresc columns">
+            <header>
+              <p class="metryka">
+                <b>ssdpl</b>                <time>28 marca, 11:45</time>              </p>
+            </header>
+            <div>
+              <p>
+                <a href="http://forum.to.com.pl/pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke-t17341/?view=findpost&p=250570">                Mam brata który jest chory od 15 lat , ma chorobę natury psychologicznej dwubiegunową jakoś tak, podobno na 100 osób 3 się zaleczą. Nie pił, nie ćpał, po prostu ma facet pecha. jego życie to koszmar ciągłe lęki, psychozy itd. i tak prawie każdego dnia. Niestety nasze państwo nie [...]                </a>              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+          <div class="koment row">
+        <div class="komentarzWiersz">
+          <div class="tresc columns">
+            <header>
+              <p class="metryka">
+                <b>Boski Karol</b>                <time>21 września, 23:15</time>              </p>
+            </header>
+            <div>
+              <p>
+                <a href="http://forum.to.com.pl/pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke-t17341/?view=findpost&p=201737">                PICIE TO RZYCIE                </a>              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+        </div>
+  <div id="dodaj-komentarz" class="columns">
+    <form action="http://forum.to.com.pl/index.php?act=sxo_post&amp;do=new_post" method="post">
+      <input type="hidden" name="category" value="/wiadomosci/wyszkow/" />
+      <input type="hidden" name="sxoid" value="6385034" />
+      <input type="hidden" name="sxolink" value="/wiadomosci/wyszkow/art/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html" />
+      <input type="hidden" name="sxotitle" value="Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę" />
+      <input type="submit" value="Dodaj komentarz"  class="komentarzOdpowiedz button" />
+    </form>
+    <div class="linkiForum">
+              <a href="http://forum.to.com.pl/pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke-t17341/" title="Zobacz wszystkie komentarze" class="wszystkieKomentarze">
+          Wszystkie komentarze (19)
+        </a>
+        <script>
+          jQuery('.komentarze .wartosc').text('19');
+        </script>
+            <a href="http://forum.to.com.pl" title="forum.to.com.pl" class="right">
+        forum.to.com.pl
+      </a>
+    </div>
+  </div>
+</section><div id="srodek3" class="row textC adSrodek hide-for-medium-down">
+  <script type="text/javascript">
+    GR("wstawReklame", {nazwa: "srodek3", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek3', szerokosc: 1200, mierzOkno: true});
+  </script>
+</div>
+  <div id="okazjon" class="row textC">
+    <script type="text/javascript">
+      GR("wstawReklame", {nazwa: "okazjon", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#okazjon', szerokosc: 1200, mierzOkno: true});
+    </script>
+  </div>
+         </div>
+        <div id="prawa-kolumna" class="columns show-for-large-up large-4">
+           <section class="blok aktualnosci">
+  <header>
+    <a data-tracker="nowa_karta/aktualnosci/naglowek" href="http://www.to.com.pl/aktualnosci/">
+      <h2>Najnowsze wiadomości</h2>
+    </a>
+  </header>
+  <ul>
+          <li>
+        <time datetime="2016-01-15T12:56:00+01:00">12:56</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/1" href="//www.to.com.pl/aktualnosci/gal/9293980,specjalny-osrodek-szkolnowychowawczy-po-remoncie-zdjecia,16685284,id,t,zid.html">
+            <span>Specjalny Ośrodek Szkolno-Wychowawczy po remoncie (zdjęcia)</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-13T11:21:39+01:00">11:21</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/2" href="//www.to.com.pl/motofakty/na-drogach/art/9284603,powiat-przasnyski-na-drogach-kolizja-za-kolizja,id,t.html">
+            <span>Powiat przasnyski. Na drogach kolizja za kolizją</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-13T11:15:37+01:00">11:15</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/3" href="//www.to.com.pl/wiadomosci/ostrow-mazowiecka/art/9284737,papierosy-bez-akcyzy-policjanci-odkryli-w-hondzie-przy-targowisku,id,t.html">
+            <span>Papierosy bez akcyzy policjanci odkryli w hondzie przy targowisku</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-13T11:06:49+01:00">11:06</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/4" href="//www.to.com.pl/wiadomosci/przasnysz/art/9284467,przasnysz-czy-zima-zaskoczyla-drogowcow,id,t.html">
+            <span>Przasnysz. Czy zima zaskoczyła drogowców?</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-13T10:20:00+01:00">10:20</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/5" href="//www.to.com.pl/aktualnosci/art/9284597,chodnik-na-moscie-grozi-wypadkiem-przejscie-tylko-jedna-strona,id,t.html">
+            <span>Chodnik na moście grozi wypadkiem. Przejście tylko jedną stroną</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-13T10:02:00+01:00">10:02</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/6" href="//www.to.com.pl/wiadomosci/makow-mazowiecki/art/9284487,wyprowadzil-sasiada-z-plonacego-domu-dostal-nagrode-od-starosty,id,t.html">
+            <span>Wyprowadził sąsiada z płonącego domu - dostał nagrodę od starosty</span>
+          </a>
+          
+        </p>
+      </li>
+            <script type="text/javascript">GR("wstawReklame","link1", '', '', '', false);</script>
+  </ul>
+  <a class="zobaczWiecej" href="http://www.to.com.pl/aktualnosci/" data-tracker="nowa_karta/aktualnosci/zobacz_wiecej"><span>Zobacz więcej</span></a>
+</section>
+  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa1">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa1", cssStyle: "margin-bottom: 5px", rodzic: '#prawa1', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+  <h2>Najczęściej czytane</h2>
+</header>
+<div id="najczesciej-czytane" class="row ranking">
+  <ol class="columns" id="LinkArea:najCzyt">
+                  <li>
+          <a href="//www.to.com.pl/wiadomosci/ostroleka/art/9293684,ostroleka-awantura-o-wlosy-klientka-i-fryzjerka-spotkaja-sie-w-sadzie,id,t.html" id="LinkArea:najCzyt1" data-tracker="nowa_karta/najczesciejczytane/1">
+            <span>Ostrołęka. Awantura o włosy. Klientka i fryzjerka spotkają się w...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.to.com.pl/wiadomosci/wyszkow/art/9282467,zobacz-jak-bily-sie-w-klatce-paulina-i-natalia-cala-walka,id,t.html" id="LinkArea:najCzyt2" data-tracker="nowa_karta/najczesciejczytane/2">
+            <span>Zobacz jak biły się w klatce Paulina i Natalia (CAŁA WALKA)</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.to.com.pl/wiadomosci/ostroleka/art/9283541,najpopularniejsze-imiona-dla-dzieci-w-2015-roku-zobacz-jakie,id,t.html" id="LinkArea:najCzyt3" data-tracker="nowa_karta/najczesciejczytane/3">
+            <span>Najpopularniejsze imiona dla dzieci w 2015 roku - zobacz jakie</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.to.com.pl/wiadomosci/makow-mazowiecki/art/9283551,makow-maz-radny-miejski-odmowil-mandatu-bedzie-sad,id,t.html" id="LinkArea:najCzyt4" data-tracker="nowa_karta/najczesciejczytane/4">
+            <span>Maków Maz. Radny miejski odmówił mandatu, będzie sąd</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.to.com.pl/wiadomosci/ostroleka/art/9289970,doktor-adas-pozostanie-niezastapiony-wspomnienie-o-doktorze-ziebie,id,t.html" id="LinkArea:najCzyt5" data-tracker="nowa_karta/najczesciejczytane/5">
+            <span>"Doktor Adaś pozostanie niezastąpiony" - wspomnienie o doktorze...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.to.com.pl/wiadomosci/ostroleka/art/9285337,ostroleka-dr-adam-zieba-nie-zyje-zmarl-dzis-nagle,id,t.html" id="LinkArea:najCzyt6" data-tracker="nowa_karta/najczesciejczytane/6">
+            <span>Ostrołęka. Dr Adam Zięba nie żyje. Zmarł dziś nagle</span>
+          </a>
+          
+        </li>
+            </ol>
+</div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa2">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa2", cssStyle: "margin-bottom: 5px", rodzic: '#prawa2', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+    <h2>Polecamy</h2>
+  </header>
+<div class="autopromocja gora" id="LinkArea:promArBg">
+            <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/1"  href="http://www.to.com.pl/studniowki/studniowki-2016/gal/9274470,studniowka-2016-ceziu-w-wyszkowie-zobacz-zdjecia-z-balu,16639150,id,t,zid.html" id="LinkArea:promArBg1">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/a3/ec/56949057be0a6_k27.jpg?1452576858" alt="Studniówka 2016 CEZiU w Wyszkowie. Zobacz ZDJĘCIA z balu">
+        <p>Studniówka 2016 CEZiU w Wyszkowie. Zobacz ZDJĘCIA z balu</p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/2"  href="http://www.to.com.pl/studniowki/studniowki-2016/gal/9273015,studniowka-2016-zsz-nr-3-w-ostrolece-zdjecia-wideo,16627781,id,t,zid.html" id="LinkArea:promArBg2">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/f1/bf/5694905a23901_k27.jpg?1452576860" alt="Studniówka 2016 ZSZ nr 3 w Ostrołęce (ZDJĘCIA, WIDEO)">
+        <p>Studniówka 2016 ZSZ nr 3 w Ostrołęce (ZDJĘCIA, WIDEO)</p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/3"  href="http://www.to.com.pl/studniowki/studniowki-2016/gal/9273017,studniowka-2016-zsz-nr-1-w-ostrolece-zdjecia-wideo,16627851,id,t,zid.html" id="LinkArea:promArBg3">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/d2/d4/5694905c96259_k27.jpg?1452576862" alt="Studniówka 2016 ZSZ nr 1 w Ostrołęce (ZDJĘCIA, WIDEO)">
+        <p>Studniówka 2016 ZSZ nr 1 w Ostrołęce (ZDJĘCIA, WIDEO)</p>
+      </a>
+      </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa3">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa3", cssStyle: "margin-bottom: 5px", rodzic: '#prawa3', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok wideoMaterial">
+  <header>
+    <h2>Wideo</h2>
+  </header>
+  <div class="materialy">
+          <a href="//www.to.com.pl/polska-i-swiat/art/9290788,szpilka-wilder-walka-za-darmo-online-transmisja-na-zywo-live-stream-w-internecie-gdzie-obejrzec,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt1" data-tracker="nowa_karta/wideo_artykul/1">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d2/43/5697c4b2d80af_o,size,445x270,q,71,h,d70bcf.jpg" alt="Szpilka Wilder [WALKA za darmo ONLINE transmisja NA ŻYWO live stream w Internecie GDZIE OBEJRZEĆ]">
+            <h3>Szpilka Wilder [WALKA za darmo ONLINE transmisja NA ŻYWO...</h3>
+    </a>
+    
+          <a href="//www.to.com.pl/sport/pilka-nozna/art/9294512,przasnysz-najlepszy-w-rzekuniu-zobacz-zdjecia-i-wideo,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt2" data-tracker="nowa_karta/wideo_artykul/2">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/95/28/5698fb14dabe2_o,size,445x270,q,71,h,28835c.jpg" alt="Piłkarze MKS Przasnysz w komplecie">
+            <h3>Przasnysz najlepszy w Rzekuniu. Zobacz zdjęcia i wideo</h3>
+    </a>
+    
+          <a href="//www.to.com.pl/wiadomosci/wyszkow/art/9282467,zobacz-jak-bily-sie-w-klatce-paulina-i-natalia-cala-walka,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt3" data-tracker="nowa_karta/wideo_artykul/3">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/97/12/56952e946f315_o,size,445x270,q,71,h,23e83b.jpg" alt="Zobacz jak biły się w klatce Paulina i Natalia (CAŁA WALKA)">
+            <h3>Zobacz jak biły się w klatce Paulina i Natalia (CAŁA WALKA)</h3>
+    </a>
+    
+          <a href="//www.to.com.pl/polska-i-swiat/art/9288905,seria-eksplozji-i-strzelanina-w-stolicy-indonezji-nie-zyje-co-najmniej-6-osob,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt4" data-tracker="nowa_karta/wideo_artykul/4">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e5/51/56976677cfe55_o,size,445x270,q,71,h,9361f0.jpg" alt="Seria eksplozji i strzelanina w stolicy Indonezji. Nie żyje co najmniej 6 osób">
+            <h3>Seria eksplozji i strzelanina w stolicy Indonezji. Nie...</h3>
+    </a>
+    
+    </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa4">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa4", cssStyle: "margin-bottom: 5px", rodzic: '#prawa4', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section id="Plista">
+  <div data-widget="plista_widget_sidebar"></div>
+  <script type="text/javascript">
+  if (!window.PLISTA || !PLISTA.publickey) {
+      window.PLISTA = {
+          publickey: '6ed8156d802d8cbf574e862b',
+          item:           {
+              objectid: '6385034',//unique ID, alphanumeric
+              title: 'Pijakowi zasiłek się należy? To zbulwersowało naszą Czytelniczkę',//max 255 characters
+              text: 'Naszą Czytelniczkę  zbulwersował fakt, że stały zasiłek z pomocy społecznej przyznano dwóm braciom, alkoholikom, którzy zamiast pracować, wystają pod sklepem z wódką. ',//max 255 characters
+              url: 'http://www.to.com.pl/wiadomosci/wyszkow/art/6385034,pijakowi-zasilek-sie-nalezy-to-zbulwersowalo-nasza-czytelniczke,id,t.html',//max 1024 characters
+              img: 'http://d-pt.ppstatic.pl/k/r/1/ac/e8/55de3b364dca1_p.jpg?1441352470',//max 255 characters
+              created_at: '1325019660'//UNIX timestamp
+          }
+                };
+      (function(){
+          var n='script',d=document,s=d.createElement(n),s0=d.getElementsByTagName(n)[0];
+          s.async='async';
+          s.type='text/javascript';
+          s.src=(d.location.protocol==='https:'?'https:':'http:')+'//static.plista.com/async.js';
+          s0.parentNode.insertBefore(s,s0);
+      }());
+  }
+  //if possible place this script tag just before the closing body tag
+  </script>
+</section>
+         </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="twelve columns" id="reklama-dol1">
+        <script type="text/javascript">GR("wstawReklame",{nazwa: "dol1", rodzic: '#reklama-dol1', szerokosc: 970, mierzOkno: true,pokazUkryjRodzica: true});</script>
+      </div>
+    </div>
+
+          <footer>
+        <div class="adSrodek" id="tapeta">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "tapeta", pokazUkryjRodzica: true, rodzic: '#tapeta', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div class="adSrodek" id="layer">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "layer", pokazUkryjRodzica: true, rodzic: '#layer', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div id="LinkArea:stopka">
+  <div id="stopka-zwijane">
+    <div class="row zwinRozwin"><a class="zwijak show-for-medium-up">SERWISY PARTNERSKIE</a><a class="zwijak hide-for-medium-up">SERWISY REGIONALNE</a></div>
+    <div class="stopkaZakladka redakcja" id="LinkArea:stopkaRed">
+      <div class="row">
+        <div class="columns medium-4 kontakt">
+          <h4>KONTAKT Z REDAKCJĄ:</h4>
+          <p>tel.: <b><a href="tel:(29) 764-22-82, 764-30-64, 510 026 840">(29) 764-22-82, 764-30-64, 510 026 840</a></b>
+          <b><a href="mailto:online@to.com.pl, redakcja@tygodnikostrolecki.pl">online@to.com.pl, redakcja@tygodnikostrolecki.pl</a></b></p>
+                </div>
+        <div class="columns large-2 medium-4 socialMedia">
+          <h4>JESTEŚMY RÓWNIEŻ NA:</h4>
+          <a href="https://www.facebook.com/TygodnikOstrolecki" target="_blank" data-tracker="stopka/facebook" title="Tygodnik Ostrołęcki na Facebooku">Facebook</a>                    <a href="https://plus.google.com/107764088579555285714/posts" target="_blank" data-tracker="stopka/google" title="Tygodnik Ostrołęcki na Google +">Google+</a>        </div>
+        <div class="columns large-4 show-for-large-up">
+          <h4>SERWISY POWIATOWE:</h4>
+          <ul>
+                          <li><a href="/wiadomosci/makow-mazowiecki" data-tracker="stopka/powiatowe//wiadomosci/makow-mazowiecki">Maków Mazowiecki</a></li>
+                          <li><a href="/wiadomosci/ostroleka" data-tracker="stopka/powiatowe//wiadomosci/ostroleka">Ostrołęka</a></li>
+                          <li><a href="/wiadomosci/ostrow-mazowiecka" data-tracker="stopka/powiatowe//wiadomosci/ostrow-mazowiecka">Ostrów Mazowiecka</a></li>
+                          <li><a href="/wiadomosci/przasnysz" data-tracker="stopka/powiatowe//wiadomosci/przasnysz">Przasnysz</a></li>
+                          <li><a href="/wiadomosci/wyszkow" data-tracker="stopka/powiatowe//wiadomosci/wyszkow">Wyszków</a></li>
+                      </ul>
+        </div>
+        <div class="columns large-2 medium-4">
+          <p>Tygodnik Ostrołęcki jest częścią:<br>
+          <a href="http://polskapress.pl"><img src="http://s-pt.ppstatic.pl/g/regionalne/polskapress.png" alt="Grupa Wydawnicza Polska Press Sp. z o.o."></a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="stopkaZakladka serwisy ukryta">
+      <div class="row">
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaOgl">
+          <h4>SERWISY OGŁOSZENIOWE:</h4>
+          <ul>
+                      <li><a href="http://www.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/www.gratka.pl">Ogłoszenia</a></li>
+                      <li><a href="http://dom.gratka.pl/mieszkania/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/mieszkania/warszawa/">Mieszkania Warszawa</a></li>
+                      <li><a href="http://dom.gratka.pl/domy/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/domy/warszawa/">Domy Warszawa</a></li>
+                      <li><a href="http://moto.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl">Motoryzacja</a></li>
+                      <li><a href="http://moto.gratka.pl/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl/warszawa/">Samochody Warszawa</a></li>
+                      <li><a href="http://praca.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl">Praca</a></li>
+                      <li><a href="http://praca.gratka.pl/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl/warszawa/">Oferty pracy Warszawa</a></li>
+                      <li><a href="http://alegratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/alegratka.pl">Ogłoszenia drobne</a></li>
+                    </ul>
+        </div>
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaPar">
+          <h4>SERWISY PARTNERSKIE:</h4>
+          <ul>
+                          <li><a href="http://www.telemagazyn.pl" data-tracker="stopka/partnerskie/http://www.telemagazyn.pl" target="_blank">Program TV - Telemagazyn</a></li>
+                          <li><a href="http://ekstraklasa.net" data-tracker="stopka/partnerskie/http://ekstraklasa.net" target="_blank">Piłka nożna - Ekstraklasa.net</a></li>
+                          <li><a href="http://www.polskatimes.pl" data-tracker="stopka/partnerskie/http://www.polskatimes.pl" target="_blank">Polskatimes</a></li>
+                          <li><a href="http://www.wiadomosci24.pl/" data-tracker="stopka/partnerskie/http://www.wiadomosci24.pl/" target="_blank">Wiadomości - Wiadomości24</a></li>
+                          <li><a href="http://regiodom.pl/" data-tracker="stopka/partnerskie/http://regiodom.pl/" target="_blank">Dom nieruchomości - regioDom</a></li>
+                          <li><a href="http://www.motofakty.pl" data-tracker="stopka/partnerskie/http://www.motofakty.pl" target="_blank">Motoryzacja - Motofakty</a></li>
+                          <li><a href="http://www.regiopraca.pl/" data-tracker="stopka/partnerskie/http://www.regiopraca.pl/" target="_blank">Praca - regioPraca</a></li>
+                          <li><a href="http://naszemiasto.pl" data-tracker="stopka/partnerskie/http://naszemiasto.pl" target="_blank">Informacje lokalne - Nasze Miasto</a></li>
+                          <li><a href="http://gra.pl" data-tracker="stopka/partnerskie/http://gra.pl" target="_blank">Gry - Gra.pl</a></li>
+                      </ul>
+        </div>
+        <div class="columns medium-6 small-12" id="LinkArea:stopkaReg">
+          <h4>SERWISY REGIONALNE:</h4>
+          <ul class="kolumny">
+                          <li><a href="http://www.dziennikbaltycki.pl" data-tracker="stopka/regionalne/http://www.dziennikbaltycki.pl" target="_blank">Dziennik Bałtycki</a></li>
+                          <li><a href="http://www.dziennikzachodni.pl" data-tracker="stopka/regionalne/http://www.dziennikzachodni.pl" target="_blank">Dziennik Zachodni</a></li>
+                          <li><a href="http://www.dzienniklodzki.pl" data-tracker="stopka/regionalne/http://www.dzienniklodzki.pl" target="_blank">Dziennik Łódzki</a></li>
+                          <li><a href="http://www.echodnia.eu" data-tracker="stopka/regionalne/http://www.echodnia.eu" target="_blank">Echo Dnia</a></li>
+                          <li><a href="http://www.gazetakrakowska.pl" data-tracker="stopka/regionalne/http://www.gazetakrakowska.pl" target="_blank">Gazeta Krakowska</a></li>
+                          <li><a href="http://www.gazetalubuska.pl" data-tracker="stopka/regionalne/http://www.gazetalubuska.pl" target="_blank">Gazeta Lubuska</a></li>
+                          <li><a href="http://www.pomorska.pl" data-tracker="stopka/regionalne/http://www.pomorska.pl" target="_blank">Gazeta Pomorska</a></li>
+                          <li><a href="http://www.gazetawroclawska.pl" data-tracker="stopka/regionalne/http://www.gazetawroclawska.pl" target="_blank">Gazeta Wrocławska</a></li>
+                          <li><a href="http://www.wspolczesna.pl" data-tracker="stopka/regionalne/http://www.wspolczesna.pl" target="_blank">Gazeta Współczesna</a></li>
+                          <li><a href="http://www.gk24.pl" data-tracker="stopka/regionalne/http://www.gk24.pl" target="_blank">Głos Koszaliński - GK24.pl</a></li>
+                          <li><a href="http://www.gp24.pl" data-tracker="stopka/regionalne/http://www.gp24.pl" target="_blank">Głos Pomorza - GP24.pl</a></li>
+                          <li><a href="http://www.gs24.pl" data-tracker="stopka/regionalne/http://www.gs24.pl" target="_blank">Głos Szczeciński - GS24.pl</a></li>
+                          <li><a href="http://www.gloswielkopolski.pl" data-tracker="stopka/regionalne/http://www.gloswielkopolski.pl" target="_blank">Głos Wielkopolski</a></li>
+                          <li><a href="http://www.kurierlubelski.pl" data-tracker="stopka/regionalne/http://www.kurierlubelski.pl" target="_blank">Kurier Lubelski</a></li>
+                          <li><a href="http://www.poranny.pl" data-tracker="stopka/regionalne/http://www.poranny.pl" target="_blank">Kurier Poranny</a></li>
+                          <li><a href="http://www.nto.pl" data-tracker="stopka/regionalne/http://www.nto.pl" target="_blank">Nowa Trybuna Opolska</a></li>
+                          <li><a href="http://www.nowiny24.pl" data-tracker="stopka/regionalne/http://www.nowiny24.pl" target="_blank">Nowiny</a></li>
+                          <li><a href="http://www.to.com.pl" data-tracker="stopka/regionalne/http://www.to.com.pl" target="_blank">Tygodnik Ostrołęcki</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      <div id="stopka-aplikacje" class="show-for-small-down">
+      <div class="row">
+        <div class="columns">
+          Nasze Aplikacje:
+          <ul>
+                          <li class="android"><a href="https://play.google.com/store/apps/details?id=com.mecom.to.com.pl">Android</a></li>
+                                      <li class="ios"><a href="http://itunes.apple.com/pl/app/to.com.pl/id463261880?mt=8">iOS</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    <div id="stopka-pasek">
+    <ul class="row" id="LinkArea:stopkaPas">
+      <li><a data-tracker="stopka/glowna" href="/" class="show-for-small-down">Strona Główna</a></li>
+      <li><a data-tracker="stopka/mapaserwisu" href="http://www.to.com.pl/mapa_serwisu/" class="hide-for-small-down">Mapa serwisu</a></li>
+      <li><a data-tracker="stopka/indeks" href="http://indeks.to.com.pl" class="hide-for-small-down">Indeks</a></li>
+      <li><a data-tracker="stopka/dlaprasy" href="http://www.polskatimes.pl/213,dla-prasy,id,t.html" target="_blank" class="hide-for-small-down">Dla prasy</a></li>
+      <li><a data-tracker="stopka/kontakt" href="http://www.to.com.pl/wiadomosci/ostroleka/art/7229428,redakcja-tygodnik-ostrolecki,id,t.html" class="show-for-small-down">Kontakt</a></li>
+      <li><a data-tracker="stopka/onas" href="http://www.to.com.pl/wiadomosci/ostroleka/art/7229428,redakcja-tygodnik-ostrolecki,id,t.html" class="hide-for-small-down">O nas</a></li>
+      <li><a data-tracker="stopka/regulamin" href="http://www.to.com.pl/regulamin/">Regulamin</a></li>
+      <li><a data-tracker="stopka/prywatnosc" href="http://www.polskatimes.pl/stronaglowna/243942,polityka-prywatnosci,id,t.html" class="hide-for-small-down">Prywatność</a></li>
+      <li><a data-tracker="stopka/reklama" href="http://www.to.com.pl/wiadomosci/ostroleka/art/7229054,reklama-tygodnik-ostrolecki-i-glos-wyszkowa,id,t.html" class="hide-for-small-down">Reklama</a></li>
+      <li><a data-tracker="stopka/egazety" href="http://prasa24.pl" target="_blank" rel="nofollow" class="hide-for-small-down">eGazety</a></li>
+      <li><a data-tracker="stopka/newsletter" href="http://www.to.com.pl/newsletter/">Newsletter</a></li>
+      <li><a data-tracker="stopka/notawydawnicza" href="/artykuly-archiwalne/art/6553949,nota-wydawnicza,id,t.html" class="notaWydawnicza">Nota wydawnicza</a></li>
+              <li><a data-tracker="stopka/logowanie" href="/logowanie">Logowanie</a></li>
+            <li class="powrot"><a data-tracker="stopka/powrotGora" href="#" class="show-for-small-down">Powrót do góry</a></li>
+    </ul>
+  </div>
+
+  <div class="row" id="stopka-dol">
+    <div id="LinkArea:stopkaDol">
+      <p class="columns medium-8">
+                  <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a>
+                 informuje, że wszystkie treści ukazujące się w serwisie Tygodnik Ostrołęcki podlegają ochronie.
+        <a href="" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.<br>
+        Jesteś zainteresowany kupnem treści? <a href="http://www.polskatimes.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapressepl,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.
+      </p>
+      <p class="columns medium-4">&copy; 2000 - 2016 <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a></p>
+    </div>
+  </div>
+</div>
+    <div class="cookieContainer">
+  <div class="cookieTooltip">
+    <span class="tooltipZamknij" title="Zamknij"></span>
+    <div class="cookieTekst">
+      <p class="cookieTytul">Korzystamy z cookies i local storage.</p>
+      <p>Bez zmiany ustawień pliki są zapisywane na urządzeniu. Więcej przeczytasz <a href="/artykul/243942,polityka-prywatnosci,id,t.html" rel="external">tutaj</a>.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  
+      (function ($) {
+        $('.tooltipZamknij').click(function () {
+          var data = new Date();
+          data.setDate(data.getDate() + 365);
+          data = data.toUTCString();
+          document.cookie = 'polityka_prywatnosci_cookies=true; expires=' + data + '; path = /';
+          $('.cookieTooltip').fadeOut(400);
+        });
+      })(jQuery);
+  
+</script>
+
+      </footer>
+    
+    
+          <div id="poza-gridem"><script type="text/javascript">GR("wstawReklame", "fiszka", "fb-slider-reklama");</script><script type="text/javascript">
+    oG_OSA.onclick_id = 'inne';
+      GR('oTrackEvents', oG_OSA.tracking);
+  </script>
+<script type="text/javascript">GR('oAnonimid');</script>
+</div>
+      </body>
+</html>

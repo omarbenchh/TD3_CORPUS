@@ -1,0 +1,670 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<title>VOCM.COM| | Article</title>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<meta property="og:title" content="VOCM.com | " />
+<meta property="og:type" content="website" />
+
+<meta property="og:image" content="http://vocm.com/photos/987596_Needle 1.JPG" />
+
+<meta property="og:url" content="http://vocm.com/newsarticle.asp?mn=2&id=20124" />
+<meta property="og:site_name" content="VOCM.COM | Local News Now" />
+<meta property="og:description" content="" />
+<meta property="fb:admins" content="100000667012706"/>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="description" Content="VOCM Newfoundland Radio, 590 VOCM, News, Local News, VOCM, Newfoundland, Labrador, 590, AM, Radio">
+<META NAME="keywords" Content="VOCM Newfoundland Radio, 590 VOCM, News, St. John's, Local News, VOCM, Newfoundland, Labrador, 590, AM, Radio, St. John's News, Newfoundland News">
+<META NAME="ROBOTS" CONTENT="NOODP"> 
+<Meta Name="robots" Content="all">
+
+
+<meta name="application-name" content="VOCM.COM | Local News Now"/>
+<meta name="msapplication-TileColor" content="#db1414"/>
+<meta name="msapplication-square70x70logo" content="http://www.vocm.com/docs/tiles/tiny.png"/>
+<meta name="msapplication-square150x150logo" content="http://www.vocm.com/docs/tiles/square.png"/>
+<meta name="msapplication-wide310x150logo" content="http://www.vocm.com/docs/tiles/wide.png"/>
+<meta name="msapplication-square310x310logo" content="http://www.vocm.com/docs/tiles/large.png"/>
+<LINK href="styles.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://www.vocm.com/favicon.ico">
+<!--Apple Thumbnails-->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144x144-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-precomposed.png" />
+<!-- Desktop -->
+
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/62207815/VOCM_Weather_Full_Banner', [468, 60], 'vocm-gtag-weatherfullbanner').addService(googletag.pubads());
+    googletag.defineSlot('/62207815/VOCM_Weather_Box', [110, 110], 'vocm-gtag-weatherbox').addService(googletag.pubads());
+    googletag.defineSlot('/62207815/VOCM_BigBox', [300, 250], 'vocm-gtag-medrec').addService(googletag.pubads());
+    googletag.defineSlot('/62207815/VOCM_Leaderboard', [728, 90], 'vocm-gtag-leaderboard').addService(googletag.pubads());
+    googletag.defineSlot('/62207815/VOCM_Full_Banner', [468, 60], 'vocm-gtag-fullbanner').addService(googletag.pubads());
+    googletag.defineSlot('/62207815/VOCM_Bottom_Full_Banner', [468, 60], 'vocm-gtag-bottomfullbanner').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /Desktop -->
+</head>
+</head>
+<body bgcolor="#070707" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!--Mobile bar Start-->
+
+<!--Mobilebar  End--><div id="topbar">
+	<div id="topbarholder">
+        <div id="topbarleft">
+            <div id="weatherblock">
+            	<div id="weatherday">Friday</div>
+                <div id="weathericon"><img src="weather/smallimages/cloudy.jpg"></div>
+                <div id="weathertemp">-5.1&nbsp;&deg;C</div>
+                <p class="clear"></p>
+            </div>
+            <div id="timeblock">
+           	    <div id="nltimetext">NF Time: </div>
+            	<div id="nltime"> </div>
+                <p class="clear"></p>
+            </div>
+            <div id="timeblock2">
+           	    <div id="labtimetext">LAB Time: </div>
+            	<div id="labtime"> </div>
+                <p class="clear"></p>
+            </div>
+        </div><!--Topbar left-->
+		 <div id="topbarright">
+            <div id="makehomeblock">
+                <a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.vocm.com');" title="Make VOCM Your Homepage" border="0"><img src="images/homepagebutton.png" border="0"/></a>
+            </div>
+            <div id="facebooklikeblock">
+					<div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=107645789367249";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-like" data-href="https://www.facebook.com/590VOCM" data-width="150" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+            </div>
+            <div id="tweetblock">
+            </div>
+             <p class="clear"></p>
+        </div> <!--Topbar right-->
+         <p class="clear"></p>
+      </div><!--Topbarholder-->
+</div><!--Topbar-->
+<Center class="clickable">
+<table id="Table_01" width="1001" height="1238" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td rowspan="5" background="images/vocm_02.jpg" width="1" height="1144"></td>
+	<td colspan="3" width="999" height="140" id="vocmtopheader2011">
+		<table id="Table_01" width="999" height="140" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td  width="275" height="140">
+
+		  <a href="index.asp" border="0"> <img src="images/vocm-lnn-logo.png"   alt="VOCM"  border="0"></a>
+
+	</td>
+	<td width="724" height="140" id="topbanner">
+
+			<!--Top Banner Start -->
+<Center>
+	<!-- /62207815/VOCM_Leaderboard -->
+<div id='vocm-gtag-leaderboard'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('vocm-gtag-leaderboard'); });
+</script>
+</div>
+</Center>
+<!--Top Banner End -->
+
+	</td>
+</tr>
+</table>
+
+	</td>
+	<td rowspan="5" background="images/vocm_04.jpg" width="1" height="1144"></td>
+</tr>
+<tr>
+	<td colspan="3" width="999" height="26" background="images/vocm_05.jpg" bgcolor="#000000">
+	<!--Menu Start -->
+	&nbsp;&nbsp;&nbsp;
+	
+					<a href="index.asp" class="MenuTop" title="Home">Home</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="news.asp?mn=2"class="MenuTopOver"  title="All Stories">All Stories</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="inside.asp?mn=3" class="MenuTop" title="Financial">Financial</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="sports.asp?mn=4" class="MenuTop" title="Sports">Sports</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="qotd.asp?mn=6" class="MenuTop" title="Question of The Day">Question of The Day</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="photogallery.asp?mn=7" class="MenuTop" title="Photos">Photos</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+            				<a href="/videogallery.asp?Category=Local+Interest&mn=9"  class="MenuTop" title="Videos">Videos</a>
+    
+    		
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="inside.asp?mn=8" class="MenuTop" title="Bios">Bios</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="inside.asp?mn=10" class="MenuTop" title="Shows">Shows</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="inside.asp?mn=26" class="MenuTop" title="In The Community">In The Community</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="inside.asp?mn=15" class="MenuTop" title="Careers">Careers</a>
+            
+			<font color=#FFFFFF>&nbsp;|&nbsp;</Font>
+	
+					<a href="inside.asp?mn=13" class="MenuTop" title="Contact Us">Contact Us</a>
+            
+	<!--Menu End -->
+	</td>
+</tr>
+<tr>
+	<td colspan="3"  width="999" height="25" background="images/vocm_06.jpg" bgcolor="#44494d">&nbsp;</td>
+</tr>
+
+<tr>
+	<td  width="651" height="914" valign="top" bgcolor="#e6e6e8">
+		<BR>
+		<CENTER>
+		<table id="Table_01" width="647" height="909" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td width="4" height="4"><img src="images/content_01.jpg" width="4" height="4"></td>
+			<td width="638" height="4"><img src="images/content_02.jpg" width="638" height="4"></td>
+			<td  width="5" height="4"><img src="images/content_03.jpg" width="5" height="4"></td>
+		</tr>
+		<tr>
+			<td background="images/content_04.jpg" width="4" height="900">&nbsp;</td>
+			<td  width="638" height="900" bgcolor="#FFFFFF" valign="top">
+				<!--Content Banner Start-->
+<Table width="100%" cellpadding="3" cellspacing="0" border="0">
+<TR>
+	<TD height="60" width="470">
+
+
+
+
+	<!--Cont Banner Start -->
+	
+				<A href="bannertracker.asp?id=2558" target="_blank" border=0><img src="thumbnails/501574_remax-content-april2015.jpg" hspace="0" Vspace="0" border=0></a>
+
+			
+	<!--Content Banner End -->
+	</TD>
+	<TD>
+    <div id="sharebox">
+    <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style ">
+        <a class="addthis_button_preferred_1"></a>
+        <a class="addthis_button_preferred_2"></a>
+        <a class="addthis_button_preferred_3"></a>
+        <a class="addthis_button_preferred_4"></a>
+        <a class="addthis_button_compact"></a>
+        <a class="addthis_counter addthis_bubble_style"></a>
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=590vocm"></script>
+    <!-- AddThis Button END -->
+    </div>
+
+    	<!--
+		<Table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<TR>
+			<TD colspan="5"><CENTER><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.vocm.com');"><img src="images/makehomepage.jpg" border="0"></A></CENTER></TD>
+		</TR>
+		<TR>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://explore.twitter.com/VOCMNEWS" target="blank"><img src="images/twittericon.jpg" alt="Follow vocm on Twitter" title="Follow vocm on Twitter" border="0"></a></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><img src="images/facebookicon.jpg" alt="Follow vocm on Facebook" title="Follow vocm on Facebook"></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://www.youtube.com/user/VOCMNEWS" target="_blank"><img src="images/youtubeicon.jpg" alt="Follow vocm on Youtube" title="Follow vocm on Youtube" border="0"></a></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww%2Evocm%2Ecom%2Fnewsarticle%2Easp%3Fmn%3D2%26id%3D20124%26latest%3D1"  border="0"><img src="images/digg.jpg" alt="Digg this page" title="Digg this page" border="0"></a></TD>
+			<TD valign="top" width="27" height="24" class="socialbox"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww%2Evocm%2Ecom%2Fnewsarticle%2Easp%3Fmn%3D2%26id%3D20124%26latest%3D1" border="0"><img src="images/stumbledicon.jpg" alt="Stumble it!" title="Stumble it!" border="0"></a></TD>
+		<TR>
+		</Table>
+        -->
+	</TD>
+</TR>
+</TABLE>
+<!--Content Banner End-->
+				<Table width="100%" cellpadding="1" cellspacing="0" border="0">
+				<TR>
+					<TD valign="top">
+
+					
+					<br/>
+							<b>&nbsp;Sorry the news article you are looking is no longer available.</b>
+					
+                    <!---Article AD-->
+					     <center>
+                    	
+                       </center>
+                       <br/>
+
+					<!--Latest Articles Start-->
+								<CENTER>
+								<table id="Table_01" width="90%"  border="0" cellpadding="0" cellspacing="0">
+								<tr><td colspan="3"  height="29" valign="top"><a href="/rss/rssfeed.rss?latest=1" target="_blank" border="0"><img src="images/newsbox_01large.jpg" height="29" border="0"></a></td></tr>
+								<tr>
+									<td background="images/newsbox_02.jpg" width="2" valign="top"><img src="images/newsbox_02.jpg" width="2"></td>
+									<td valign="top">
+										<table width="100%" cellpadding="0" cellspacing="0" border="0">
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=59914&latest=1" class="newslink">Viral Video from Grand Falls-Windsor Teen Taken Down Due to Copyright Claim</a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=59913&latest=1" class="newslink">City Council Agrees to Involve Board of Trade in Budgetary Process</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=59912&latest=1" class="newslink">Woman Displaced Following Fire at Freshwater Road Apartments</a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=59908&latest=1" class="newslink">Province Will Not Be Adopting Communist Principles, Says Ball</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=59911&latest=1" class="newslink">DRL Bus Swept Off the Road</a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=59900&latest=1" class="newslink">Results of RNC Investigation to be Made Public as Soon as Possible: Ball</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=59910&latest=1" class="newslink">Corner Brook Resident Voices Concerns Over Doctor Shortage</a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=59907&latest=1" class="newslink">Impaired Driver Arrested on Suspended License</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox2" width="21"><img src="images/whitenewsicon.jpg"></TD><TD class="newsbox2"><a href="newsarticle.asp?mn=2&id=59897&latest=1" class="newslink">Woman Knocked Down Near Topsail Road High School</a></TD><TD class="newsbox2" align="right"></TD></TR>
+										
+										<TR><TD class="newsbox1" width="21"><img src="images/greynewsicon.jpg"></TD><TD class="newsbox1"><a href="newsarticle.asp?mn=2&id=59899&latest=1" class="newslink">Lip Balm at the Centre of Controversy Affects Local Family</a></TD><TD class="newsbox1" align="right"></TD></TR>
+										
+										</Table>
+									</td>
+									<td background="images/newsbox_04.jpg" width="2" valign="top"><img src="images/newsbox_04.jpg" width="2"></td>
+								</tr>
+								<tr><td colspan="3" valign="top" background="images/newsbox_05.jpg"><img src="images/newsbox_05.jpg" width="316" height="2"></td></tr>
+								</table>
+								</CENTER>
+								<BR><BR>
+					<!--Latest Articles End-->
+					     <!--Start Small ads-->
+						
+
+
+                    			<center>               
+                    				<!---HOME FOOTER AD-->
+                    				
+									<A href="bannertracker.asp?id=1662" target="_blank" border=0><img src="thumbnails/230692_crimestoppers-content-march2015-2.gif" hspace="0" Vspace="0" border=0></a>
+					
+								
+
+					<Br/>
+					</center>
+                    				     <!--End footer ad-->
+					</TD>
+				</TR>
+				</Table>
+			</td>
+			<td background="images/content_06.jpg" width="5" height="900">&nbsp;</td>
+		</tr>
+		<tr>
+			<td  width="4" height="5"><img src="images/content_07.jpg" width="4" height="5"></td>
+			<td width="638" height="5"><img src="images/content_08.jpg" width="638" height="5"></td>
+			<td width="5" height="5"><img src="images/content_09.jpg" width="5" height="5"></td>
+		</tr>
+		</table>
+		</Center>
+	</td>
+	<td width="2" height="914" valign="top"  bgcolor="#e6e6e8"><img src="images/vocm_08.jpg" width="2" height="914"></td>
+	<td  width="346" height="914" valign="top"  bgcolor="#e6e6e8">
+	<!--RightSide Start -->
+<!--Listen Live-->
+<center><a href="mediaplayer/player.asp" target="_blank" Alt="Click Here to Listen to Internet Radio Station Stream" title="Click Here to Listen to Internet Radio Station Stream"><img src="images/listenlivesmaller.jpg"  border="0" Alt="Click Here to Listen to Internet Radio Station Stream" title="Click Here to Listen to Internet Radio Station Stream"></a></center>
+<br/>
+<!--NEWS Tips Banner-->
+<center>
+<a href="inside.asp?id=4826&mn=13"><img src="images/vocm-newstip-banner-march2015.gif" border="0"/></a>
+</center>
+<br/>
+<!-- Right Large Banner Start-->
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td align="center">
+	     <!-- /62207815/VOCM_BigBox -->
+<div id='vocm-gtag-medrec'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('vocm-gtag-medrec'); });
+</script>
+</div>
+		</td>
+	</tr>
+	</table>
+<!--Right Large Banner END-->
+<!--REgion Banner Start-->
+
+
+<!--Region Banner End-->
+
+<!--BLOG START -->
+
+
+
+<!--BLOG END-->
+
+
+
+<!-- Sub Menu Start-->
+<br/>
+	
+	<!--Sub menu END-->
+<br/>
+	<!--Weather Start-->
+<center>
+<table  width="330" height="121" border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td colspan="3"  width="330" height="5" valign="top"><img src="images/RightBox_01.jpg" width="330" height="5"></td>
+</tr>
+<tr>
+	<td width="5" height="110" background="images/RightBox_02.jpg"></td>
+	<td width="320" height="110" bgcolor="#FFFFFF">
+		<TABLE Width="100%" Cellpadding="0" cellspacing="0" border="0">
+		<TR>
+			<TD valign="top" align="center">
+       			<a href="http://vocm.com/weather.asp" border="0"><img src="images/weather.jpg" border="0"/></a>
+			</TD>
+			<TD valign="top" align="center">
+
+		<!-- /62207815/VOCM_Weather_Box -->
+<div id='vocm-gtag-weatherbox' style='height:50px; width:100px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('vocm-gtag-weatherbox'); });
+</script>
+</div>
+		</td>
+		</TR>
+		</TABLE>
+	</td>
+	<td background="images/RightBox_04.jpg" width="5" height="110"></td>
+</tr>
+<tr>
+	<td colspan="3" width="330" height="6"><img src="images/RightBox_05.jpg" width="330" height="6"></td>
+</tr>
+</table>
+</center>
+<br/>
+<!--Weather BANNER End -->
+<br/>
+
+  	<!-- Right Static Banners Start-->
+	<Table width="100%" cellpadding="0" cellspacing="0" border="0">
+	
+		<TR>
+			<TD  align="center">
+			
+				<a href="bannertracker.asp?id=666" target="_blank" border=0><img src="thumbnails/691473_radiobing.jpg" hspace="0" Vspace="0" border=0></a>
+			
+            <br/>     <br/>
+			</TD>
+		</TR>
+		
+		<TR>
+			<TD  align="center">
+			
+				<a href="bannertracker.asp?id=1755" border=0><img src="thumbnails/588408_localhero-banner-fix.jpg" hspace="0" Vspace="0" border=0></a>
+			
+            <br/>     <br/>
+			</TD>
+		</TR>
+		
+		<TR>
+			<TD  align="center">
+			
+				<a href="bannertracker.asp?id=2964" border=0><img src="thumbnails/772058_ic-banner-side.jpg" hspace="0" Vspace="0" border=0></a>
+			
+            <br/>     <br/>
+			</TD>
+		</TR>
+		
+		<TR>
+			<TD  align="center">
+			
+				<a href="bannertracker.asp?id=2748" border=0><img src="thumbnails/875701_new-robins.jpg" hspace="0" Vspace="0" border=0></a>
+			
+            <br/>     <br/>
+			</TD>
+		</TR>
+		
+		<TR>
+			<TD  align="center">
+			
+				<a href="bannertracker.asp?id=1009" border=0><img src="thumbnails/522009_banner-carcam.jpg" hspace="0" Vspace="0" border=0></a>
+			
+            <br/>     <br/>
+			</TD>
+		</TR>
+		
+		<TR>
+			<TD  align="center">
+			
+				<a href="bannertracker.asp?id=2918" target="_blank" border=0><img src="thumbnails/982859_vocm-ad-sidebanner.jpg" hspace="0" Vspace="0" border=0></a>
+			
+            <br/>     <br/>
+			</TD>
+		</TR>
+		
+	</Table>
+	<!--Right static Banner END-->
+    <!--RIGHT ROTATING BANNER START -->
+
+      <center>
+			<div class="slideshow2">
+            
+			</div>
+		</center>
+    <!-- ROTATING BANNER END-->
+
+    <CENTER>
+<a href="inside.asp?MN=17" border="0"  title="Go to Concerts page"><img src="images/concertsheader.jpg" border="0"></a>
+
+  <a href="inside.asp?mn=17&id=9413&cc=1" title="The Last Waltz - Revisited">
+     <img src="concerts/Big_124194_lastwaltz-thumb.jpg" border="0"/>
+  </a>
+
+<a href="inside.asp?MN=17" border="0"  title="Go to Concerts page"><img src="images/concertsbtn.jpg" border="0"></a>
+</CENTER>
+
+
+
+    <br/>
+	<!-- Right Static Banners Bottom Start-->
+	<Table width="100%" cellpadding="0" cellspacing="0" border="0">
+	
+	</Table>
+	<a href="#" border="0"><img src="images/square.jpg"></a>
+	<!--Right static Banner Bottom END-->
+<!--RightSide  End -->
+	</td>
+</tr>
+<tr>
+	<td colspan="3" background="images/vocm_10.jpg" width="999" height="39">
+	<!--Footer Start -->
+		<Table width=100% cellpadding=0 cellspacing=0 border=0>
+		<TR>
+			<TD align="center">
+			
+
+				<a class="Footer" href="index.asp?mn=1" title="Home">Home</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="news.asp?mn=2" title="All Stories">All Stories</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=3" title="Financial">Financial</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="sports.asp?mn=4" title="Sports">Sports</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="qotd.asp?mn=6" title="Question of The Day">Question of The Day</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="photogallery.asp?mn=7" title="Photos">Photos</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="videogallery.asp?mn=28" title="Videos">Videos</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=8" title="Bios">Bios</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=10" title="Shows">Shows</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=26" title="In The Community">In The Community</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=15" title="Careers">Careers</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=13" title="Contact Us">Contact Us</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=17" title="VOCM Concerts">VOCM Concerts</a>
+			
+							<font color=#FFFFFF>&nbsp;|&nbsp;
+			
+
+				<a class="Footer" href="inside.asp?mn=16" title="Contest Rules">Contest Rules</a>
+			
+<font color="#FFFFFF">&nbsp;|&nbsp;<a class="Footer" href="http://www.ncc.ca/privacy.asp" title="Privacy Policy"  target="_Blank">Privacy Policy</a>
+	
+			</TD>
+		</TR>
+		</Table>
+	<!--Footer End -->
+	<!--Google Analytics-->
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-5437878-14']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+		  })();
+
+		</script>
+
+
+	</td>
+</tr>
+
+
+</table>
+</Center>
+
+<script type="text/javascript" src="js/vocmscripts.js"></script>
+  <script type="text/javascript">
+    $(function($) {
+
+
+	  $('.slideshow').cycle({
+		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+
+	  	  $('.slideshow2').cycle({
+		fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+	});
+
+		$('#photos').galleryView({
+			panel_width: 250,
+			panel_height: 208,
+			frame_width: 60,
+			frame_height: 50,
+			nav_theme: 'images'
+		});
+
+
+    });
+
+  </script>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function onw(URLtoOpen, windowName, windowFeatures) { newWindow=window.open(URLtoOpen, windowName, windowFeatures); }
+-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Use one function for multiple text areas on a page -->
+<!-- Limit the number of characters per textarea -->
+<!-- Begin
+function textCounter(field,cntfield,maxlimit) {
+if (field.value.length > maxlimit) // if too long...trim it!
+field.value = field.value.substring(0, maxlimit);
+// otherwise, update 'characters left' counter
+else
+cntfield.value = maxlimit - field.value.length;
+}
+//  End -->
+</script>
+</body>
+</html>

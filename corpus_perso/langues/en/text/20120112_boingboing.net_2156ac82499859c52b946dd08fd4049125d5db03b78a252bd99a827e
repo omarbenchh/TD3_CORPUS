@@ -1,0 +1,1837 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Why the raw cannabis juicing trend may not be all it&#039;s juiced up to be / Boing Boing</title>
+
+<meta name="viewport" content="initial-scale=1">
+<meta property="twitter:account_id" content="5971922" />
+<meta property="fb:admins" content="1219680052" />
+<meta property="og:site_name" content="Boing Boing" />
+
+<link rel="apple-touch-icon" href="http://media.boingboing.net/wp-content/themes/bng/i/apple-touch-icon.png"/>     
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Raleway:600,800,400','Libre+Baskerville:400,700,400italic']
+    }
+  });
+</script>
+
+<script src="//assets.vidora.com/js/boingboing.59286bf730e44172.js"></script>
+
+<link rel="stylesheet" href="http://media.boingboing.net/wp-content/themes/bng/style.css?=v1" type="text/css" media="all" />
+
+ 
+
+  	  	
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Why the raw cannabis juicing trend may not be all it&#039;s juiced up to be" />
+	<meta property="og:description" content="" />
+	<meta property="og:url" content="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html" />
+	<meta property="og:image" content="" />
+
+
+	<meta itemprop="name" content="Why the raw cannabis juicing trend may not be all it&#039;s juiced up to be" />
+	<meta itemprop="headline" content="Why the raw cannabis juicing trend may not be all it&#039;s juiced up to be" />
+	<meta itemprop="author" content="" />
+	<meta itemprop="description" content="" />
+	<link itemprop="url" href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html" />
+    <link itemprop="thumbnailUrl" href="" />
+
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@BoingBoing">
+		<meta name="twitter:title" content="Why the raw cannabis juicing trend may not be all it&#039;s juiced up to be">
+	<meta name="twitter:description" content="">
+    <meta name="twitter:image:src" content="">
+
+		
+<script src="https://boingboing.net/js/pubfood.min.js"></script>
+<script type="text/javascript">
+var DFPGPTPassback = (function() {
+  var slots = {};
+  return {
+    slots: slots,
+    init: function() {
+      var proxied = googletag.defineSlot;
+      googletag.defineSlot = function() {
+        var slot = proxied.apply(this, arguments);
+        slots[slot.getSlotElementId()] = slot;
+        return slot;
+      };
+    },
+    passback: function(iframeName, passback) {
+      var container = document.getElementById(iframeName + '__container__');
+        var iframeParent = container.parentNode;
+        var slotId = iframeParent.id;
+        if( ! slots.hasOwnProperty(slotId) ) {
+          slots[slotId] = {};
+        }
+        var slot = slots[slotId];
+        if( ! slot.hasOwnProperty('passbacks') ) {
+          slot.passbacks = [];
+        }
+        slot.passbacks.push(passback);
+        slot.setTargeting('passback', slot.passbacks);
+        googletag.pubads().refresh([slot]);
+    }
+  };
+})();
+function checkWidth() {
+    var w = window, d = document, e = d.documentElement, x = Math.max(e.scrollWidth, e.offsetWidth, e.clientWidth);
+    return x;
+}
+var responsiveAdSize = function() {
+    if( (document.documentElement.clientWidth || document.body.clientWidth) < 600) {return 'small';}
+    if( (document.documentElement.clientWidth || document.body.clientWidth) < 970) {return 'medium';}
+    return 'large';
+}();
+var pf = new pubfood();
+window.googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
+var gptAdSlots = [];
+var ybotq = ybotq || [];
+var responsiveAdSizes = {
+    'leaderboard':    {'small':  [[320, 100], [320, 50], [300, 50]],   'medium': [[728, 90]],                                      'large':  [[728, 90], [970, 90], [970, 250]]},
+    'leaderboard2':   {'small':  [[300, 50]],                          'medium': [[728, 90]],                                      'large':  [[728, 90], [970, 90], [970, 250]]},
+    'largeRectangle': {'small':  [[300, 250]],                         'medium': [[300, 250], [300, 600]],                         'large':  [[300, 250], [300, 600]]},
+    'smallRectangle': {'small':  [[300, 250], [125, 125], [125, 275]], 'medium': [[300, 250], [300, 600], [125, 125], [125, 275]], 'large':  [[300, 250], [300, 600], [125, 125], [125, 275]]}
+};
+var pfSlots = {
+    // need PHP logic here to only output the right ad units for each page type
+    // so "Homepage_" prefixed units should only appear on the homepage etc
+    
+    
+        
+     '/6203160/Blog_Leaderboard':                      {name: '/6203160/Blog_Leaderboard',                      elementId: 'div-gpt-ad-blog_leaderboard',                      sizes: responsiveAdSizes['leaderboard'],    bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_300x600_1':                {name: '/6203160/Blog_300x250_300x600_1',                elementId: 'div-gpt-ad-blog_300x250_300x600_1',                sizes: responsiveAdSizes['largeRectangle'], bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_300x600_2':                {name: '/6203160/Blog_300x250_300x600_2',                elementId: 'div-gpt-ad-blog_300x250_300x600_2',                sizes: responsiveAdSizes['largeRectangle'], bidProviders: ['yieldbot']}
+    ,'/6203160/Blog_300x250_125x125_125x275':          {name: '/6203160/Blog_300x250_125x125_125x275',          elementId: 'div-gpt-ad-blog_300x250_125x125_125x275',          sizes: responsiveAdSizes['smallRectangle'], bidProviders: ['yieldbot']}
+
+        
+};
+pf.observe('AUCTION_POST_RUN', function() {
+    // need PHP logic here to only output the right ad units for each page type
+    // so "Homepage_" prefixed units should only appear on the homepage etc
+    
+    
+            googletag.cmd.push(function() {googletag.display("div-gpt-ad-blog_leaderboard");});
+    googletag.cmd.push(function() {googletag.display("div-gpt-ad-blog_300x250_300x600_1");});
+    googletag.cmd.push(function() {googletag.display("div-gpt-ad-blog_300x250_300x600_2");});
+    googletag.cmd.push(function() {googletag.display("div-gpt-ad-blog_300x250_125x125_125x275");});
+
+          
+
+    
+});
+for(key in pfSlots) {
+    pfSlot = pfSlots[key];
+    pf.addSlot({name: pfSlot.name, elementId: pfSlot.elementId, sizes: pfSlot.sizes[responsiveAdSize], bidProviders: pfSlot.bidProviders});
+}
+// Yieldbot-specific setup
+var ybotSlotParams = {};
+if( responsiveAdSize == 'small' ) {
+    ybotSlotParams = {
+        "/6203160/Homepage_Leaderboard":             "MLB",
+        "/6203160/Homepage_300x250_300x600_1":       "mobrec",
+        "/6203160/Blog_Leaderboard":                 "MLB",
+        "/6203160/Blog_300x250_300x600_1":           "mobrec",
+        "/6203160/Feature_Leaderboard":              "MLB",
+        "/6203160/Feature_300x250_300x600":          "mobrec",
+        "/6203160/Offworld_Leaderboard":             "MLB",
+        "/6203160/Offworld_300x250_300x600_1":       "mobrec",
+        "/6203160/Forum_Leaderboard":                "MLB"
+    };
+} else {
+    ybotSlotParams = {
+        "/6203160/Homepage_Leaderboard":             "leaderboard",
+        "/6203160/Homepage_300x250_300x600_1":       "SB",
+        "/6203160/Homepage_300x250_300x600_2":       "SB2",
+        "/6203160/Homepage_300x250_125x125_125x275": "rec",
+        "/6203160/Blog_Leaderboard":                 "leaderboard",
+        "/6203160/Blog_300x250_300x600_1":           "SB",
+        "/6203160/Blog_300x250_300x600_2":           "SB2",
+        "/6203160/Blog_300x250_125x125_125x275":     "rec",
+        "/6203160/Feature_Leaderboard":              "leaderboard",
+        "/6203160/Feature_300x250_300x600":          "SB",
+        "/6203160/Feature_300x250_125x125_125x275":  "rec",
+        "/6203160/Offworld_Leaderboard":             "leaderboard",
+        "/6203160/Offworld_300x250_300x600_1":       "SB",
+        "/6203160/Offworld_300x250_300x600_2":       "SB2",
+        "/6203160/Offworld_300x250_125x125_125x275": "rec",
+        "/6203160/Forum_Leaderboard":                "leaderboard"
+    };
+}
+pf.addBidProvider({
+    name: 'yieldbot',
+    libUri: 'http://cdn.yldbt.com/js/yieldbot.intent.js',
+    init: function(slots, pushBid, done) {
+ 
+        var slotMap = {};
+        ybotq.push(function() {
+             var psn = responsiveAdSize == 'small' ? '5051' : '7882';
+             yieldbot.pub(psn);
+             for(var k = 0; k < slots.length; k++) {
+                 var slot = slots[k];
+                 if(slot.name in ybotSlotParams) {
+                     var ybslot = ybotSlotParams[slot.name];
+                     yieldbot.defineSlot(ybslot, {
+                       sizes: slot.sizes
+                     });
+                     slotMap[ybslot] = slot.name;
+                 }
+             }
+             yieldbot.enableAsync();
+             yieldbot.go();
+        });
+        ybotq.push(function() {
+            var pageCriteria = yieldbot.getPageCriteria();
+            var pageSlots = pageCriteria !== '' ? pageCriteria.split(',') : [];
+            for(var i = 0; i < pageSlots.length; i++) {
+                var slotInfo = pageSlots[i].split(':');
+                var slot = slotInfo[0];
+                var size = slotInfo[1];
+                var bid = 0;
+                if(slotInfo.length && slotInfo[2]) {
+                    bid = parseFloat(slotInfo[2], 10);
+                }
+                var sizes = size.split('x');
+                sizes[0] = parseInt(sizes[0], 10);
+                sizes[1] = parseInt(sizes[1], 10);
+                var bidObject = {
+                    slot: slotMap[slot] || 'undefined_slot',
+                    value: bid,
+                    sizes: sizes,
+                    targeting: {
+                        ybot_size: size,
+                        ybot_cpm: bid,
+                        ybot_ad: 'y',
+                        ybot_slot: slot
+                    }
+                };
+                pushBid(bidObject);
+            }
+            done();
+        });
+    },
+    refresh: function(slots, pushBid, done) {
+        // do nothing
+    }
+});
+pf.setAuctionProvider({
+    name: 'google',
+    libUri: 'http://www.googletagservices.com/tag/js/gpt.js',
+    init: function(targets, done) {
+
+        googletag.cmd.push(function() {
+            var i;
+            for(i=0; i<targets.length; i++) {
+                var slot = targets[i];
+                var gptSlot = googletag.defineSlot(slot.name, slot.sizes, slot.elementId).addService(googletag.pubads());
+                gptAdSlots[slot.elementId] = gptSlot;
+                for(var p in slot.targeting) {
+                    gptSlot.setTargeting(p, slot.targeting[p]);
+                }
+            }
+        });
+        googletag.cmd.push(function() {
+            googletag.enableServices();
+        });
+        done();
+    },
+    refresh: function (targets,done){
+        // do nothing
+    }
+});
+pf.timeout(3000)
+pf.observe(function(ev) {
+
+});
+var timeReference = +(new Date());
+var onStart = function(hasErrors, details) {
+    if(hasErrors) {
+
+    }
+};
+pf.start(timeReference, onStart);
+</script>
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Boing Boing &raquo; Feed" href="http://boingboing.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Boing Boing &raquo; Comments Feed" href="http://boingboing.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Boing Boing &raquo; Why the raw cannabis juicing trend may not be all it&#039;s juiced up to be Comments Feed" href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/boingboing.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='http://media.boingboing.net/wp-content/plugins/jetpack/css/jetpack.css?ver=3.8.2' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://boingboing.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://media.boingboing.net/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Lego Heroica: fun adventure gaming for kids' href='http://boingboing.net/2012/01/10/lego-heroica-fun-adventure-ga.html' />
+<link rel='next' title='TSA&#039;s brags about not catching any terrorists, proves its own irrelevance' href='http://boingboing.net/2012/01/10/tsas-top-ten-list-proves-the.html' />
+<meta name="generator" content="WordPress 4.2.4" />
+<link rel='canonical' href='http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html' />
+<link rel='shortlink' href='http://boingboing.net/?p=138358' />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Why the raw cannabis juicing trend may not be all it&#039;s juiced up to be" />
+<meta property="og:url" content="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html" />
+<meta property="og:description" content="Earlier today, I posted a quick link to an LA Weekly item about a new round of media attention devoted to Dr. William Courtney, and his research on juicing cannabis for health benefits. The tl;dr o…" />
+<meta property="article:published_time" content="2012-01-11T02:03:44+00:00" />
+<meta property="article:modified_time" content="2012-01-11T05:36:29+00:00" />
+<meta property="og:site_name" content="Boing Boing" />
+<meta property="og:image" content="http://media.boingboing.net/wp-content/uploads/2012/01/marijuana.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="563" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@boingboing" />
+</head>
+<body class="single single-post postid-138358 single-format-standard">
+    <!-- Header -->
+   
+         
+                   
+<body>
+
+<div id="leaderboard">
+	<!-- /6203160/Blog_Leaderboard -->
+	<div id="div-gpt-ad-blog_leaderboard"></div>
+</div>
+
+<div id="container">
+
+
+
+
+<div class="navbyline">
+	<span class="logo"><a href="http://boingboing.net"><img src="http://media.boingboing.net/wp-content/themes/bng/i/logo.png" class=""></a></span> /  
+	<span class="author"><a href="http://boingboing.net/author/xeni_jardin">Xeni Jardin</a></span> /
+	<span class="date">6:03 pm Tue</span> 
+	 <span id="metadata" style="">
+		 Jan 10, 2012 	 <span>
+</div>
+<div id="mobileAd0"></div>
+<div id="headline">
+	<h1>Why the raw cannabis juicing trend may not be all it's juiced up to be</h1>
+</div>
+
+
+
+
+
+
+
+<div id="sidebar">
+
+
+
+	<div class="ad ad300">
+	
+			
+		<!-- /6203160/Blog_300x250_300x600_1 -->
+		<div id="div-gpt-ad-blog_300x250_300x600_1">
+		</div>
+	
+		
+	</div>
+	
+	<div id="popular" class="sidebarbox">
+			
+<script language="javascript" type="text/javascript">
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
+			<h3>Popular Posts</h3>
+			<iframe id="popularpostsbox" name="" onload='javascript:resizeIframe(this);' scrolling=no src="//boingboing.net/popular/top.html" style="height:450px;width:280px;border:0;padding:5px 0 0 10px">
+			</iframe>
+	</div>	
+	<div class="ad ad300">
+	
+		
+		<!-- /6203160/Blog_300x250_300x600_2 -->
+		<div id="div-gpt-ad-blog_300x250_300x600_2">
+		</div>
+
+			
+	</div>
+	
+	<div id="followbb" class="sidebarbox">
+		<h3>Follow Boing Boing</h3>
+			<h4><a class="twitter" href="http://twitter.com/boingboing">Twitter</a> /
+			 <a class="facebook" href="https://www.facebook.com/boingboing">Facebook</a> /
+			  <a class="rss" href="http://boingboing.net/feed">RSS</a>
+			  </h4> 
+	</div>
+	
+
+	<!--
+	<div id="jill" style="text-align:center;margin:1em 0 0 0">
+		<img src="http://media.boingboing.net/wp-content/themes/bng/i/jill2.gif" >
+	</div>
+	-->
+	
+	<!-- BB ad_squares -->
+		
+	<!-- /6203160/Blog_300x250_125x125_125x275 -->
+		<div id="div-gpt-ad-blog_300x250_125x125_125x275">
+		</div>
+
+		
+
+</div>              
+
+
+<div id="story">
+
+
+
+<p><img src="http://i0.wp.com/media.boingboing.net/wp-content/uploads/2012/01/marijuana.jpg?resize=600%2C563" alt="" title="marijuana" class="aligncenter size-full wp-image-138359" data-recalc-dims="1" />
+</p><p>
+Earlier today, I <a href="http://boingboing.net/2012/01/10/marijuana-is-the-new-wheatgras.html">posted a quick link</a> to an <a href="http://blogs.laweekly.com/informer/2012/01/marijuana_juicing_thc_medical_cannabis.php"><em>LA Weekly</em> item about a new round of media attention</a> devoted to Dr. William Courtney, and his research on juicing cannabis for health benefits.</p><p> The tl;dr of his idea: with raw cannabis juice, you don't get high, but you do get various health benefits. </p><p>Hmmm. I was curious about the largely uncritical internet coverage I was seeing, and wondered about the science&mdash;so I asked Michael Backes and Amy Robertson of Abatin Wellness Center of Sacramento what they thought. Abatin is a medical marijuana collective you may have heard of because of its link to MS sufferer and med-can advocate Montel Williams; they're also very legit and science-oriented, and Backes has a long history in technology and the sciences. The tl;dr of their response is: it's not quite that simple, and cannabis juicing could even pose some risks for certain patients. "The raw plants have substances to discourage critters from eating them that can cause allergic reactions in some," explains Robertson, "And can you imagine how unpleasant this would taste?" </p><p>
+"The throat irritation is based on the fact that the stems of cannabis have sharp little hairs," explains Backes. "Typically, this wouldn't be a problem for those juicing the plant, but make chewing on a cannabis stems a no-no."
+
+
+</p><p>More below. </p><p>And, a disclosure: the topic is of personal interest to me because I was recently diagnosed with breast cancer and I'm undergoing chemotherapy. Chemo sucks, and I have learned that medical cannabis is a very effective aid for related side effects&mdash;but not all delivery methods are equally helpful. </p><p></p>
+		<div class="mobilead">
+				<div id="gpt-ad-right_side_3"></div>
+		</div>
+
+		<span id="more-138358"></span><p>
+
+From Michael Backes of Abatin Wellness Center:<P>
+
+
+<blockquote><P>
+Dr. William Courtney has been researching juicing cannabis for several years.  The young woman in the video, Kristen, is his wife.  Courtney makes some very plausible points, but his claims really do need to be subjected to randomized, controlled clinical trials.
+<P>
+Courtney's claim that raw cannabis is not psychoactive is true, but only for pristine, fresh cannabis.  Disturb the gland heads on a living cannabis plant of a strain that contains THC and the process of converting its non-psychoactive THCA to psychoactive THC begins, albeit slowly.<P>
+
+There are a few cannabis strains that contain another cannabinoid called cannabidiol (CBD).  CBD is not psychoactive, whether in its raw acidic state (CBDA) or its neutral state (CBD).  But CBDA strains often contain THCA, too.  Around twenty strains of cannabis produced in California have been found to contain CBD, while the number of THC strains is believed to exceed three hundred.<P>
+
+CBD is of great research interest, since it exhibits dozens of very promising medicinal effects ranging from anti-tumor activity to its potential to control some forms of diabetes.  And CBD exhibits almost zero toxicity.
+<P>
+The primary advantage of raw fresh cannabis is found in its predominance of THCA and its lack of psychoactive THC.
+<P>
+But... the medical benefits of large doses of acidic cannabinoids have not been subjected to controlled clinical trials.  The evidence at this point is anecdotal.  And if someone is not harvesting the cannabis fresh and consuming it immediately, then there is a risk of significant THC intoxication.
+<P>
+And one more point. As with any cultivated plant, cannabis can harbor a wide range of microbes and some can be pathogenic.  The risk of pathogen exposure from raw fresh cannabis is small, but anyone with a compromised immune system should be very careful.<P></blockquote>
+<p>
+
+				
+	<div class="share">
+		
+	<h3>
+		<a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fboingboing.net%2F2012%2F01%2F10%2Fwhy-the-raw-cannabis-juicing.html" target="_blank">SHARE</a> /
+		<a class="twitter" href="https://twitter.com/intent/tweet?text=Why+the+raw+cannabis+juicing+trend+may+not+be+all+it%27s+juiced+up+to+be+http%3A%2F%2Fboingboing.net%2F2012%2F01%2F10%2Fwhy-the-raw-cannabis-juicing.html&original_referer=http%3A%2F%2Fboingboing.net%2F2012%2F01%2F10%2Fwhy-the-raw-cannabis-juicing.html" target="_blank">TWEET</a> /
+		<a class="bbs" href=""> COMMENTS</a>
+			</h3>
+	
+	
+<h3 class="thetags" style="text-transform:uppercase;margin:1em 0">
+	<a href="http://boingboing.net/tag/health" rel="tag">health</a> / <a href="http://boingboing.net/tag/marijuana" rel="tag">marijuana</a> / <a href="http://boingboing.net/tag/medical-cannabis" rel="tag">medical cannabis</a></h3>
+		
+</div>
+<div class="separator" style="margin:0 auto 2em auto;border:4px solid red;padding:1em;max-width:1000px;text-align:center;">
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" style="display:inline;">
+<form style="display:inline;" action="//boingboing.us2.list-manage.com/subscribe/post?u=0e91f8e7df61da4bff2bd9b1f&amp;id=bfdb00f49a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll" style="display:inline;">
+	
+<div class="mc-field-group" style="display:inline;">
+	<label for="mce-EMAIL" style="text-transform:uppercase;font-weight:bold;font-family:raleway;">GET THE BOING BOING NEWSLETTER</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="border: 2px solid black;
+top: -2px;
+height:22px;
+position:relative;">
+</div>
+	<div id="mce-responses" class="clear" style="display:inline;">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_0e91f8e7df61da4bff2bd9b1f_bfdb00f49a" tabindex="-1" value=""></div>
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="display: inline;
+background-color: red;
+color: white;
+border: none;
+position:relative;
+top:-3px;
+height:22px;
+font-weight:bold;
+text-transform:uppercase;">
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+</div>
+
+			
+</div>
+
+
+<div id="mobileAd1"></div>
+
+
+
+<div class="OUTBRAIN" data-src="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html" data-widget-id="AR_3" data-ob-template="BoingBoing"></div> 
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+
+
+<!--googleoff: all-->
+
+
+<div id="next-post-thumbnails">
+
+
+		
+	<div class="nextstory">
+	
+		<h2><a href="http://boingboing.net/2016/01/04/tpp-vs-canada-a-parade-of-hor.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');">TPP vs Canada: a parade of horribles</a></h2>
+				
+		<a href="http://boingboing.net/2016/01/04/tpp-vs-canada-a-parade-of-hor.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');"><img width="600" height="338" src="http://i0.wp.com/media.boingboing.net/wp-content/uploads/2016/01/Barack_Obama_meets_Stephen_Harper.jpg?fit=600%2C338" class="attachment-medium wp-post-image" alt="Barack_Obama_meets_Stephen_Harper" /></a>
+		<p><p>Michael Geist has rung in the new year with the first in a series of posts that set out, in eye-watering detail, the bowel-loosening terror of the effects that the secretly negotiated Trans Pacific Partnership would have on Canada if the country ratifies it.</p>
+		<h3><a href="http://boingboing.net/2016/01/04/tpp-vs-canada-a-parade-of-hor.html">READ THE REST</a></h3>
+
+	</div>
+
+		
+	
+	<div class="nextstory">
+	
+		<h2><a href="http://boingboing.net/2016/01/01/hangovers-arent-caused-by-de.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');">Hangovers aren't caused by dehydration, low blood sugar, or acetaldehyde</a></h2>
+				
+		<a href="http://boingboing.net/2016/01/01/hangovers-arent-caused-by-de.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');"><img width="600" height="400" src="http://i0.wp.com/media.boingboing.net/wp-content/uploads/2016/01/2382689187_d0ce30dd0f_b.jpg?fit=600%2C400" class="attachment-medium wp-post-image" alt="2382689187_d0ce30dd0f_b" /></a>
+		<p><p>The nascent science of hangovers &#8212; launched in earnest in 2009 with the Alcohol Hangover Research Group &#8212; has ruled out all the traditional culprits for your misery. A promising new culprit is inflammatory response to elevated levels of cytokines, molecules that transmit messages through the immune system.</p>
+		<h3><a href="http://boingboing.net/2016/01/01/hangovers-arent-caused-by-de.html">READ THE REST</a></h3>
+
+	</div>
+
+		
+	
+	<div class="nextstory">
+	
+		<h2><a href="http://boingboing.net/2015/12/18/the-fda-wants-to-ban-use-of-ta.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');">The FDA wants to ban use of tanning beds by youth under 18, to fight skin cancer</a></h2>
+				
+		<a href="http://boingboing.net/2015/12/18/the-fda-wants-to-ban-use-of-ta.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');"><img width="600" height="399" src="http://i1.wp.com/media.boingboing.net/wp-content/uploads/2015/12/sh.jpg?fit=600%2C399" class="attachment-medium wp-post-image" alt="sh" /></a>
+		<p><p>The Food and Drug Administration today proposed banning the use of indoor tanning beds by minors under 18 years old, to try and reduce the risk of skin cancer.</p>
+		<h3><a href="http://boingboing.net/2015/12/18/the-fda-wants-to-ban-use-of-ta.html">READ THE REST</a></h3>
+
+	</div>
+
+		
+
+		<p>
+		
+
+		
+		<div class="nextstory">
+	
+		<h2><a href="http://boingboing.net/2016/01/15/become-a-computer-security-spe.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');">Become a computer security specialist with the Complete White Hat Hacker and Penetration Testing Bundle now 97% off</a></h2>
+				
+		<a href="http://boingboing.net/2016/01/15/become-a-computer-security-spe.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');"><img width="600" height="450" src="http://i1.wp.com/media.boingboing.net/wp-content/uploads/2016/01/original_sale_3150_image.jpg?fit=600%2C450" class="attachment-medium wp-post-image" alt="" /></a>
+		
+		<p><p>Learn to specialize in methodologies that will protect your organization from security threats, and become an indispensable member of your team. Where do you start? This course will take you from beginner to pro penetration tester so you can prove your  worth by discovering security vulnerabilities before they&#8217;re a real issue.Get the Complete White Hat [&hellip;]</p>
+		<h3><a href="http://boingboing.net/2016/01/15/become-a-computer-security-spe.html">READ THE REST</a></h3>
+
+	</div>
+		
+	
+		<div class="nextstory">
+	
+		<h2><a href="http://boingboing.net/2016/01/14/pay-what-you-want-for-the-worl.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');">Pay what you want for the world travel hacker bundle and start planning your next adventure</a></h2>
+				
+		<a href="http://boingboing.net/2016/01/14/pay-what-you-want-for-the-worl.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');"><img width="600" height="450" src="http://i1.wp.com/media.boingboing.net/wp-content/uploads/2016/01/original_sale_3199_image1.jpg?fit=600%2C450" class="attachment-medium wp-post-image" alt="" /></a>
+		
+		<p><p>There&#8217;s nothing better than getting away&#8211;and there&#8217;s no time like the present. Experience something brand new, and do it without breaking the bank thanks to these must-know travel hacks. From generating income remotely to quickly learning basic Chinese&#8211;this bundle will give you the inside guide to discovering the world.Simply beat the average price to unlock [&hellip;]</p>
+		<h3><a href="http://boingboing.net/2016/01/14/pay-what-you-want-for-the-worl.html">READ THE REST</a></h3>
+
+	</div>
+		
+	
+		<div class="nextstory">
+	
+		<h2><a href="http://boingboing.net/2016/01/13/surf-faster-with-the-netspot-p.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');">Surf faster with the NetSpot Pro Wi-Fi optimizer now 87% off in the Boing Boing Store</a></h2>
+				
+		<a href="http://boingboing.net/2016/01/13/surf-faster-with-the-netspot-p.html?utm_source=moreatbb&utm_medium=nextpost&utm_campaign=nextpostthumbnails" onclick="clickTrack(this.href, 'Next Post Button', 'Next Post Thumbnails');"><img width="600" height="450" src="http://i2.wp.com/media.boingboing.net/wp-content/uploads/2016/01/a622b8a9874fbdf69c1d04438d2a27f0d7f5414b_main_hero_image.jpg?fit=600%2C450" class="attachment-medium wp-post-image" alt="" /></a>
+		
+		<p><p>NetSpot lets you visualize, optimize, and troubleshoot your wireless networks with any MacBook so you can get the best connection possible at all times. Use the mapping feature to view dead zones and optimize hotspot placement, and use the troubleshooting tool to identify connectivity issues. With NetSpot Pro, you’ll never miss a beat, post, or [&hellip;]</p>
+		<h3><a href="http://boingboing.net/2016/01/13/surf-faster-with-the-netspot-p.html">READ THE REST</a></h3>
+
+	</div>
+		
+
+<!--googleon: all-->
+
+<div id="mobileAd2"></div>
+
+</div>
+
+
+              
+
+
+
+<div id="comments">
+
+			<h3 class="comments-title">
+			42		</h3>
+
+		<ol class="comment-list">
+					<li id="comment-1316073" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-1316073" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/06328fdfa6815a5d4cd5518dcbd42988?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/06328fdfa6815a5d4cd5518dcbd42988?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Mujokan</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316073">
+							<time datetime="2012-01-10T18:10:00+00:00">
+								January 10, 2012 at 6:10 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Shoot, that fucking sucks Xeni.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316078" class="comment odd alt depth-2 parent">
+			<article id="div-comment-1316078" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/0b06c94fb2372ebd049a981185f1cc61?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0b06c94fb2372ebd049a981185f1cc61?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Cowicide</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316078">
+							<time datetime="2012-01-10T18:15:00+00:00">
+								January 10, 2012 at 6:15 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p><a href="http://boingboing.net/2011/12/09/the-diagnosis.html" rel="nofollow">http://boingboing.net/2011/12/09/the-diagnosis.html</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316083" class="comment even depth-3">
+			<article id="div-comment-1316083" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/06328fdfa6815a5d4cd5518dcbd42988?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/06328fdfa6815a5d4cd5518dcbd42988?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Mujokan</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316083">
+							<time datetime="2012-01-10T18:20:00+00:00">
+								January 10, 2012 at 6:20 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>thx</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316081" class="comment odd alt thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-1316081" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/24028a9495f032285eae63f5f6e2e9c0?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/24028a9495f032285eae63f5f6e2e9c0?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Alex3917</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316081">
+							<time datetime="2012-01-10T18:18:00+00:00">
+								January 10, 2012 at 6:18 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Xeni,</p>
+<p>Sorry about your diagnosis. Have you seen the evidence suggesting that cannabinoids may actually be able to shrink certain kinds of tumors? If you&#8217;re interested there is a wealth of both scientific research and anecdotal evidence available:</p>
+<p><a href="http://www.squidoo.com/hemp-oil-cancer-cure" rel="nofollow">http://www.squidoo.com/hemp-oil-cancer-cure</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316092" class="comment even depth-2 parent">
+			<article id="div-comment-1316092" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316092">
+							<time datetime="2012-01-10T18:28:00+00:00">
+								January 10, 2012 at 6:28 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hey thanks.</p>
+<p>Yeah, I&#8217;ve looked into it extensively&#8230; short version, from the best-informed sources I&#8217;ve contacted, is that there is some promise, but WAY not enough science to prove anything reliable yet. Certainly not enough to, say, ditch chemo as some have told me I should do! And the &#8220;phoenix tears&#8221; guy makes quack klaxons go off in my head.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316102" class="comment odd alt depth-3">
+			<article id="div-comment-1316102" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/06328fdfa6815a5d4cd5518dcbd42988?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/06328fdfa6815a5d4cd5518dcbd42988?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Mujokan</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316102">
+							<time datetime="2012-01-10T18:51:00+00:00">
+								January 10, 2012 at 6:51 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>If someone says straight out &#8220;ditch chemo&#8221; it probably is an ideological position. But I think there is no harm to also taking in loads of raw vegetables and fruits. Aw man&#8230;</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316114" class="comment even depth-3 parent">
+			<article id="div-comment-1316114" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/24028a9495f032285eae63f5f6e2e9c0?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/24028a9495f032285eae63f5f6e2e9c0?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Alex3917</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316114">
+							<time datetime="2012-01-10T19:10:00+00:00">
+								January 10, 2012 at 7:10 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Good deal, certainly there is no proof yet of efficacy so rejecting mainstream treatments would be foolish. Whether or not trying hemp oil makes sense is probably largely dependent on the type of tumor you have. You can look up the research on different individual cancer types via these links:</p>
+<p>1) <a href="http://www.letfreedomgrow.com/cmu/GrannysList-Jan2011.pdf" rel="nofollow">http://www.letfreedomgrow.com/cmu/GrannysList-Jan2011.pdf</a><br />
+2) <a href="http://www.cannabis-med.org/studies/study.php" rel="nofollow">http://www.cannabis-med.org/studies/study.php</a><br />
+3) <a href="http://www.cannabis-med.org/index.php?lng=en" rel="nofollow">http://www.cannabis-med.org/index.php?lng=en</a></p>
+<p>(These were also on my squidoo page, but there are dozens of links there so I just wanted to make sure you saw them.)</p>
+<p>In any event, you might also be interested in checking out this MAPS video on ayahuasca as a cancer cure:</p>
+<p><a href="http://www.maps.org/videos/source3/video14.html" rel="nofollow">http://www.maps.org/videos/source3/video14.html</a></p>
+<p>The evidence for this is basically purely anecdotal, unlike with cannabis where not only are the mechanisms of action understood, but there is also loads of in vitro research for various cancer types. That said, apparently there are a bunch of stories about people going down there and having their cancer get better. I don&#8217;t think there&#8217;s enough evidence yet that it would be a good investment of time or money if you were going to go down to peru in hopes of curing your own cancer, but for me personally it&#8217;s something I&#8217;ve always wanted to do anyway so I might do so just for the hell of it if I ever got diagnosed.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316115" class="comment odd alt depth-4">
+			<article id="div-comment-1316115" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316115">
+							<time datetime="2012-01-10T19:12:00+00:00">
+								January 10, 2012 at 7:12 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I hope you&#8217;re never diagnosed with cancer! Thanks for the thoughtful links.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1317195" class="comment even depth-4">
+			<article id="div-comment-1317195" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/8615caad04efe652d9bf72e4318a93cc?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8615caad04efe652d9bf72e4318a93cc?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Doug Black</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1317195">
+							<time datetime="2012-01-11T14:38:00+00:00">
+								January 11, 2012 at 2:38 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>The reference to ayahuasca as a cancer cure puts me in mind of a classic  SF short story by Norman Spinrad, &#8220;Carcinoma Angels&#8221;. </p>
+<p><a href="http://hermiene.net/short-stories/carcinoma_angels.html" rel="nofollow">http://hermiene.net/short-stories/carcinoma_angels.html</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316185" class="comment odd alt depth-3 parent">
+			<article id="div-comment-1316185" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/599d87262b362f89b4c2c93b71d359b7?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/599d87262b362f89b4c2c93b71d359b7?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">zyodei</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316185">
+							<time datetime="2012-01-10T20:10:00+00:00">
+								January 10, 2012 at 8:10 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>The quack klaxons might go off in your head, but what do you possibly have to risk trying his method?</p>
+<p>Trying it for a month seems like an obvious choice to me&#8230;</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316294" class="comment even depth-4">
+			<article id="div-comment-1316294" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316294">
+							<time datetime="2012-01-10T21:56:00+00:00">
+								January 10, 2012 at 9:56 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>What is there to risk?</p>
+<p>1) Losing lots of money for something that may not be helpful, when having cancer in America can bankrupt you as it is<br />
+2) Even worse, possible adverse effect on chemo effectiveness.</p>
+<p>When you&#8217;re going through chemotherapy, everything you eat and all the drugs or herbs or supplements you take has an effect on the process. You can&#8217;t just go off and try stuff without your oncologist&#8217;s okay and assume it won&#8217;t have an effect on the chemo. Even something as innocuous as vitamin C supplements or common over-the-counter medications can reduce the effectiveness of certain chemotherapy regimens!</p>
+<p>There is, in fact, a very high range of risk associated with consuming *extraordinarily* high quantities of cannabis oil, which is the program the klaxon-triggering huckster fellow sells. That&#8217;s not the only way to use cannabis medically, by any means. Many oncologists, including my own, recommend using medical cannabis to ease symptoms. But not that specific program, which isn&#8217;t the outcome of peer-reviewed science and legit clinical trials.</p>
+<p>There&#8217;s a lot to risk.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316259" class="comment odd alt depth-3">
+			<article id="div-comment-1316259" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo avatar-default' height='74' width='74' />						<b class="fn"><a href='http://twitter.com/CannabisCommon' rel='external nofollow' class='url'>CommonwealthCannabis</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316259">
+							<time datetime="2012-01-10T21:06:00+00:00">
+								January 10, 2012 at 9:06 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>if you use any oils I would look into cbd rich ones. <br />
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/21566064" rel="nofollow">http://www.ncbi.nlm.nih.gov/pubmed/21566064</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316531" class="comment even depth-3 parent">
+			<article id="div-comment-1316531" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/abb05d8c0a19e464db3117e649e97662?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/abb05d8c0a19e464db3117e649e97662?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Lawrence Mark</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316531">
+							<time datetime="2012-01-11T06:09:00+00:00">
+								January 11, 2012 at 6:09 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>&#8220;And the &#8220;phoenix tears&#8221; guy makes quack klaxons go off in my head&#8221;</p>
+<p>Only by way of corporate sponsored mass-media brainwashing&#8230;. follow the money.</p>
+<p>You might also look into a &#8216;quack&#8217; cure that cured my uncle of cancer over 25 years ago, known as laetrile. It is found in most all seeds except citrus.Or you can go down to Tijuana, Mexico like my uncle did for injections of the stuff. Cheaper than chemo; on your pocket, as well as your body.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1317021" class="comment odd alt depth-4">
+			<article id="div-comment-1317021" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1317021">
+							<time datetime="2012-01-11T12:27:00+00:00">
+								January 11, 2012 at 12:27 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>That&#8217;s fantastic that your uncle is in remission. I&#8217;m very happy for him. I mean that sincerely.</p>
+<p>Cancer is a very hetereogeneous thing; not all are created equal, not all respond equally in different people to the same treatments.</p>
+<p>To suggest as a non-medical professional that laetrile is a cure-all for a completely different disease with completely different pathology in a completely different person does not hold up. Not well enough for me to ditch a proven course of action that may be brutal, but yields the proven result of life for people with my particular problem, my particular receptors, and so on.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316095" class="comment even thread-even depth-1">
+			<article id="div-comment-1316095" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/7120fc7548c43237662da906e3c84f43?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7120fc7548c43237662da906e3c84f43?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.mrericsir.com' rel='external nofollow' class='url'>MrEricSir</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316095">
+							<time datetime="2012-01-10T18:31:00+00:00">
+								January 10, 2012 at 6:31 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>It&#8217;s always disgusting to see people selling bogus cures to sick people.</p>
+<p>As for LA Weekly and it&#8217;s sister Village Voice publications, they love to run articles on marijuana-related products.  After all, medical marijuana ads are what pays for alt-weeklies in many states.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316099" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-1316099" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo avatar-default' height='74' width='74' />						<b class="fn"><a href='http://pulse.yahoo.com/_5JPOMIRJU73TR6F3WFZYMIBMIQ' rel='external nofollow' class='url'>lear_spec_silo</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316099">
+							<time datetime="2012-01-10T18:47:00+00:00">
+								January 10, 2012 at 6:47 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Raw food, pot, and juice: some of the world&#8217;s biggest attractors of nonsense claims, smashed together at last like a Megazord of eh.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316104" class="comment even thread-even depth-1">
+			<article id="div-comment-1316104" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/24127685c89db1bef650fece31249131?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/24127685c89db1bef650fece31249131?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">janusnode</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316104">
+							<time datetime="2012-01-10T18:55:00+00:00">
+								January 10, 2012 at 6:55 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Sorry to hear your bad news. Bon courage!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316106" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-1316106" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/0e15f5d91800fdf347d9915a3a17e690?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0e15f5d91800fdf347d9915a3a17e690?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">teapot</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316106">
+							<time datetime="2012-01-10T18:55:00+00:00">
+								January 10, 2012 at 6:55 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Sheet&#8230; musta missed your Dec 9 post Xeni &#8211; best wishes for your recovery.</p>
+<p>It breaks my heart to know that people are consuming weed in ways which <i>decrease</i> its pleasant high. That&#8217;s like growing a pumpkin to use as a door stop. Why not vape the green, put on some tunes and enjoy your medicine? It is incredibly easy to remain high-functioning while on weed, and it makes life&#8217;s tedious moments (traffic, supermarkets) more tolerable.</p>
+<p>MrEricSir: So you&#8217;ve conducted research into the effectiveness of cannabis for cancer treatment, then? I&#8217;m guessing you must have, based on your confidence that it is a &#8216;bogus&#8217; cure. Just because a treatment&#8217;s effectiveness is not researched doesn&#8217;t mean it can automatically be put in the pseudo-science category with other homeopathic treatments &#8211; many of which are documented to have no better effectiveness than placebo.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316117" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-1316117" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/be79fede9bf33147b7a640b14fbad9f9?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/be79fede9bf33147b7a640b14fbad9f9?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">troutfishinginamerica</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316117">
+							<time datetime="2012-01-10T19:15:00+00:00">
+								January 10, 2012 at 7:15 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>From someone up to his ears in respiratory therapist school: bake/cook or vape your green, don&#8217;t smoke. Use a water cooling attachment with your vaporizer; the more inexpensive pocket vaporizers (especially the Magic Flight Launch Box) are wonderful for portability and convenience (vaping lying down = awesome) but the heated vapor will strip away your first line of defense against infection by drying out your oronasal and pulmonary membranes, and make you even more susceptible (being immunocompromised already) to every cold and sinus infection that bops past you. The water pipe/bong attachments won&#8217;t add a significant amount of humidity (as long as you&#8217;re shopping online, you might pick up a humidifier), but will at least cool the vapor down. I haven&#8217;t used them, but I hear good things about the Vapir line, and there&#8217;s a waterpipe attachment available that&#8217;s built to work with all of its models. The pricing on the 5.0 model is relatively modest. </p>
+<p>Also: take a jacket, it&#8217;s cold outside. </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316131" class="comment odd alt depth-2 parent">
+			<article id="div-comment-1316131" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316131">
+							<time datetime="2012-01-10T19:32:00+00:00">
+								January 10, 2012 at 7:32 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Yup. Edibles or sublinguals seem to be the most recommended method for chemo patients, in part because of the difference in effect from liver-metabolized compounds vs. inhaled compounds. If the point is to knock out nausea and vomiting, I&#8217;m told this is really best. </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316145" class="comment even depth-3 parent">
+			<article id="div-comment-1316145" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/be79fede9bf33147b7a640b14fbad9f9?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/be79fede9bf33147b7a640b14fbad9f9?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">troutfishinginamerica</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316145">
+							<time datetime="2012-01-10T19:48:00+00:00">
+								January 10, 2012 at 7:48 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>My complaint about edibles is that they take so long to kick in, which can be frustrating when you just want pain or nausea relief. (For that matter, there&#8217;s a learning curve for effective vaping, although it&#8217;s quicker.) But the first pass effect doesn&#8217;t knock out near as much THC as the amount you lose by inhaling &#8211; 90% of any inhaled meds get lost on the way to your lungs, leaving a mere wimpy 10% behind to do its job. And effects from edibles do seem to stick around longer, without vaping side effects. </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316296" class="comment odd alt depth-4 parent">
+			<article id="div-comment-1316296" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316296">
+							<time datetime="2012-01-10T21:58:00+00:00">
+								January 10, 2012 at 9:58 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>It&#8217;s true; the delay in action can be hard if you don&#8217;t, like, plan ahead as it were. </p>
+<p>If you start eating when the symptoms appear, then, yeah. It&#8217;s really hard to catch up with edibles/sublinguals. But multiple chemo veterans have told me that starting *before* the symptoms start is the way to get ahead of the curve. YMMV, but that did it for me. So far that&#8217;s the longest-lasting and most potent way to cope with the nausea/vomiting.  There was one day when the nausea horse ran out of the barn and I couldn&#8217;t keep even the medicine cookie bits down.</p>
+<p>The first round I went through was pure fucking hell and I puked my guts out, because we didn&#8217;t have the meds calibrated right (pharmaceuticals and otherwise).</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316344" class="comment even depth-5">
+			<article id="div-comment-1316344" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/c7eef0f7d7c9ad3184c15b94a9ad5212?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c7eef0f7d7c9ad3184c15b94a9ad5212?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Wordyeti</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316344">
+							<time datetime="2012-01-10T22:58:00+00:00">
+								January 10, 2012 at 10:58 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Damn. I had hoped that your absence from BB was because of an Xmas vacation, not &#8230; this. Chemo was described to me as &#8220;getting the worst case of food poisoning you&#8217;ve ever had &#8230; and then a week later, going back and being force-fed that same damn meal again.&#8221; </p>
+<p>I hope that whatever meds you&#8217;re getting somehow manage the pain you&#8217;re going through. Is there some special &#8220;Fatten Xeni Up&#8221; fund that we can send cupcakes or whatever to? </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316633" class="comment odd alt depth-5">
+			<article id="div-comment-1316633" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/be79fede9bf33147b7a640b14fbad9f9?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/be79fede9bf33147b7a640b14fbad9f9?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">troutfishinginamerica</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316633">
+							<time datetime="2012-01-11T08:08:00+00:00">
+								January 11, 2012 at 8:08 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Bless your heart! I watched family members go through the med-adjusting phase and it was awful. Every time I have the flu or a stomach virus now, I think, &#8220;chemo patients feel like this CONSTANTLY&#8221;, and don&#8217;t bitch.</p>
+<p>Glad to see you&#8217;re well taken care of by a reputable provider. I begged my father and brother-in-law to try cannabis when they began chemo, and they wouldn&#8217;t even entertain the idea; it makes me sad to think how much relief they could&#8217;ve had during that time. Hang tough and God bless.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316291" class="comment even depth-3">
+			<article id="div-comment-1316291" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo avatar-default' height='74' width='74' />						<b class="fn"><a href='http://pulse.yahoo.com/_OAUXAA362EXWLYVMPJOKLFB5JQ' rel='external nofollow' class='url'>Incipient Madness</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316291">
+							<time datetime="2012-01-10T21:48:00+00:00">
+								January 10, 2012 at 9:48 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Let&#8217;s just hope you don&#8217;t get too far into the nausea and vomiting stage. We all really wish you the best. Keep us informed. We are all rooting for you.  </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316138" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-1316138" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/8f5799ef0602a664dcfdbb27d3d8a5b3?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8f5799ef0602a664dcfdbb27d3d8a5b3?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">James Tanasiuk</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316138">
+							<time datetime="2012-01-10T19:38:00+00:00">
+								January 10, 2012 at 7:38 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Best wishes and hope for a brilliant recovery. </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316141" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-1316141" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo avatar-default' height='74' width='74' />						<b class="fn"><a href='http://twitter.com/joqatana' rel='external nofollow' class='url'>Jo Qatana</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316141">
+							<time datetime="2012-01-10T19:40:00+00:00">
+								January 10, 2012 at 7:40 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Sometimes smoking is the only method of ingestion that will work. I wake up several times a night and have to smoke myself back to sleep, and vaporizing changes the effect so that it just gets me mildly high and doesn&#8217;t put me back to sleep. Waking up 5-10 times a night doesn&#8217;t quite give one the time to assimilate edibles, one needs immediate effect.<br />
+OTOH, I read link after link about how &#8220;cannabis oil&#8221; cures skin cancer when topically applied and cures everything under the sun if ingested but nobody is actually selling the stuff, or if they are they&#8217;re being awfully quiet about it.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316303" class="comment odd alt depth-2">
+			<article id="div-comment-1316303" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316303">
+							<time datetime="2012-01-10T22:01:00+00:00">
+								January 10, 2012 at 10:01 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Interesting. I can see how having a &#8220;fallback&#8221; method for immediate relief would be helpful. I&#8217;m learning as I go along, and hope to get ahead of the symptoms by timing things right when I go in for my second (and subsequent) rounds of chemo. Hope you&#8217;re well, Jo.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316147" class="comment even thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-1316147" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/dd33ad2c90cd8693e5e94e6b14d3f336?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/dd33ad2c90cd8693e5e94e6b14d3f336?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">bklynchris</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316147">
+							<time datetime="2012-01-10T19:51:00+00:00">
+								January 10, 2012 at 7:51 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Medicinal attributes real or otherwise, aside-I highly recommend it.  However, I would hope for and expect a trifecta:antiemetic, chemotherapeutic, and an increase in appetite.  Of course there is also the increased desire to watch and enjoy AbFab reruns, a decrease of bitching while in queues, writing rambling blog comments, etc</p>
+<p>Or its evil twin:Freaking that the cab driver you told to fuck off has given your credit card number that you used to pay your fare to an identity theft ring, and oh yeah&#8230;.writing rambling blog comments ; )</p>
+<p>btw-I find, I mean, I&#8217;ve heard that the sublingual gels that fit nicely into listerine strip boxes when air traveling, are quite amenable and can be torn into fractions for titering up.  I have also heard that it is always very wise to titer up with ingestables and sublinguals.</p>
+<p>                Good to see you back.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316300" class="comment odd alt depth-2">
+			<article id="div-comment-1316300" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316300">
+							<time datetime="2012-01-10T22:00:00+00:00">
+								January 10, 2012 at 10:00 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thanks, and I&#8217;ve found the same. Best to be very slow and cautious; easy to overdo it.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316219" class="comment even thread-even depth-1">
+			<article id="div-comment-1316219" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/08e8057b6c0f6754de0f1552215a0763?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/08e8057b6c0f6754de0f1552215a0763?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">RJ</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316219">
+							<time datetime="2012-01-10T20:27:00+00:00">
+								January 10, 2012 at 8:27 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>So what&#8217;s supposed to be the global advantage of pot juice? Is it a matter of acidity alone? If a person is after something to fight free radicals and briefly boost immunity, oregano juice is the stuff. I&#8217;m a skeptical, hateful bastard who doesn&#8217;t believe in most of that hippie herbal-remedy crap, but I&#8217;ll admit that the oregano extract saved my butt a couple of times when I had the flu.</p>
+<p>I don&#8217;t know much about cancer treatment, but if something like Oreganol will help, it&#8217;s worth looking into. I think it&#8217;s about $30 for a little dropper bottle of the stuff.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316285" class="comment odd alt thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-1316285" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo avatar-default' height='74' width='74' />						<b class="fn"><a href='http://pulse.yahoo.com/_L3LGGNNC7K6QZQLDXHZVDGYK6A' rel='external nofollow' class='url'>E M</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316285">
+							<time datetime="2012-01-10T21:40:00+00:00">
+								January 10, 2012 at 9:40 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>There&#8217;s a new book out called &#8220;Marijuana: Gateway to Health&#8221; by Clint Werner that details the research that&#8217;s been done so far on marijuana and cancer, Alzheimer&#8217;s, etc. It&#8217;s really helpful for anyone hoping to understand the science of cannabis. </p>
+<p>I&#8217;m sorry to hear about your diagnosis. If you are located in California, check out wamm.org, they are a great collective that provides cannabis oil to patients.</p>
+<p>I have used the cannabis juice myself and seen some people really benefit from it. When mixed with lemons and apples, it tastes good. I&#8217;ve read a lot about Kristen Peskuski and Dr. William Courtney, and it&#8217;s a very interesting story. I hope that we will soon live in a world where NIDA and the DEA won&#8217;t block promising research for political reasons, and that eventually, clinical trials of marijuana on human subjects will provide definitive evidence of its medicinal value.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-1316299" class="comment even depth-2">
+			<article id="div-comment-1316299" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ee6c6379888f8edcd9b1bd4754c62c98?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://www.xeni.net/' rel='external nofollow' class='url'>Xeni Jardin</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316299">
+							<time datetime="2012-01-10T21:59:00+00:00">
+								January 10, 2012 at 9:59 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I strongly agree that the block against research is stupid, and that there is so much good science to be done!</p>
+<p>wamm looks wonderful. it&#8217;s so funny how the language of legitimate medical marijuana collectives like this has been co-opted by businesses that really have nothing to do with providing care for the seriously ill. Anyway, I&#8217;m in good hands with a medical cannabis care provider in my area, thanks.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-1316337" class="comment odd alt thread-even depth-1">
+			<article id="div-comment-1316337" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/2e84a38d3228a6b135399f6fb0e630e3?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2e84a38d3228a6b135399f6fb0e630e3?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Dougall</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316337">
+							<time datetime="2012-01-10T22:53:00+00:00">
+								January 10, 2012 at 10:53 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Xeni,  You have my profound sympathy, and my best wishes for an effective and rapid recovery.  I can&#8217;t speak to the effectiveness of cannabis as a remedy whether as juice or oil or whatever,  although I am always deeply skeptical of fantastic claims of cures, whatever the source.  As I am sure you know there are any number of heartless hucksters out there, ready to grab the money of the desperate, and sometimes harm them deeply by steering them away from legitimate treatment.  Perhaps there is some truth to this, perhaps not, but it seems like there might be adverse effects, and I would be very careful (as you obviously are) about anything added to your diet.  </p>
+<p>I believe that the use of cannabis to control nausea and pain is legitimate, and I have experience with someone close who uses a &#8216;prescription&#8217; version of it in pill form (&#8216;Sesamet&#8217; is the name of the product) with very little effect but the desired pain control.</p>
+<p>I can only wish that you were with us here in Canada.  I know it is cold comfort, but as Michael Moore observed, the number of people who went bankrupt here due to medical care last year was &#8230;.. zero.  You are like our brothers and sisters there, and we hate to see you suffer.  </p>
+<p>By the way, if in your travels, you run into one of the many claiming cures, and offering expensive bunkum.  Please give them a swift kick where it will do the most good &#8211; from all of us who hate them with a passion.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316644" class="comment even thread-odd thread-alt depth-1">
+			<article id="div-comment-1316644" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/435e246c979f2315f5ad8e99d514ddc2?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/435e246c979f2315f5ad8e99d514ddc2?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">abaris23</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316644">
+							<time datetime="2012-01-11T08:14:00+00:00">
+								January 11, 2012 at 8:14 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hmm.. i chewed on a LOT cannabis stems (mostly smaller ones), never had any throat irritations. I think it tastes kinda good.<br />
+I had very good expercience with tea (mostly twigs and leaves in a pot, hot water (~60-70°C) and leaving it for 2-3 hours). But that&#8217;s only an option if one knows the right people&#8230; Might have some (awesome) side effects though&#8230; :)</p>
+<p>A friend of mine had the same diagnose some time ago, she said cannabis really helped her, she felt much better then. Though i still think smoking is not very good during chemo.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1316873" class="comment odd alt thread-even depth-1">
+			<article id="div-comment-1316873" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/e360c9567d0b4bf6a1d50052d9562f0f?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/e360c9567d0b4bf6a1d50052d9562f0f?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Angus Martin</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1316873">
+							<time datetime="2012-01-11T10:27:00+00:00">
+								January 11, 2012 at 10:27 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Let me address the different claims made here:  First, the fact that plants create toxins to stop grazers from eating them.  If we are worried about toxins in fresh greens then why not worry about kale and arugula?  We know that there are some amounts of poisons in spinach and other common plants like sorrel, but our bodies seem to be able to deal with these, and benefit from the vitamins and minerals available in the leaves.  Cooking also helps.  </p>
+<p>Moreover, animals that eat a wide variety of plants and seeds also know this, which is why it is so common that jungle-eating animals also eat clay, which binds to toxins and removes them safely from the body.  These animals, birds and mammals alike, eat plants that are far more poisonous than cannabis or spinach, but they do not get poisoned.  (their poison is the encroachment of industrial capitalism, but that is another related story)  <br />
+       Anyone eating large amounts of cannabis or other green medicines for cancer or cancer prevention could, and should also drink or eat clay as part of their lifestyle.  It&#8217;s what the smart animals do, and besides, clays and charcoal has been shown to  remove radioactive isotopes from the body as well,  so clay may be the real wonder medicine that is older than any of the other herbal ones, and one we would do well to revive in these toxic industrial and radioactive days.   Let us not forget that our wise ancestors watched animals religiously, as attested by earliest cave paintings.   Who are we watching?  The super-rich and their media-outlets?<br />
+      Now to juicing.   Susan Weed, wise-woman herbalist, does not recommend juicing as a daily practice in her book about breast cancer because she believes that without the fiber, things go through the gut too quickly, and therefor cannot be absorbed completely as opposed to if taken as traditional chew-food.   Based on this probable hypothesis, an alternative to juicing would be the green-smoothie, which includes the pulp of the plant.    I don&#8217;t know the answer here, but juicing may be popular because of how it makes one feel immediately, like a fast-acting drug, and green-smootheeing less popular cause the blenders are so expensive.<br />
+        As to the &#8216;hairs&#8217; on the plant.  I have eaten fresh cannabis leaves and made green-smoothies out of them and have never found it irritating.  It&#8217;s not like they are barbs.   Maybe we are dealing with people who just don&#8217;t like to eat vegetables in general.<br />
+         As for the &#8216;problem&#8217; of getting &#8216;high&#8217; from incidental THC in fresh cannabis leaf and flower which has been bruised: highly unlikely to get you &#8216;f@cked up&#8217;, but why would it be a bad thing to feel uplifted also in spirit?<br />
+          Bottom line:  Ganja is good:   smoked it protects us from the spiritual illnesses, eaten it protects us from the physical illneses.  It&#8217;s all one, it&#8217;s all good.    Go clay-lickers go!<br />
+  </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1317254" class="comment even thread-odd thread-alt depth-1">
+			<article id="div-comment-1317254" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/45c2dcf4c0780c67f1704e68054ac605?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/45c2dcf4c0780c67f1704e68054ac605?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn"><a href='http://profiles.google.com/anechoicmedia' rel='external nofollow' class='url'>Kim Cascone</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1317254">
+							<time datetime="2012-01-11T15:13:00+00:00">
+								January 11, 2012 at 3:13 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Xeni here is a list of medical papers and research that might of use to you:<br />
+<a href="http://boards.cannabis.com/medicinal-cannabis-health/161539-granny-storm-crows-list.html" rel="nofollow">http://boards.cannabis.com/medicinal-cannabis-health/161539-granny-storm-crows-list.html</a></p>
+<p>I am sending you massive beams of white light for a speedy and full recovery!<br />
+you are in our thoughts! <br />
+KC</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1317480" class="comment odd alt thread-even depth-1">
+			<article id="div-comment-1317480" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/31c43379a517588c7327c69736157399?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/31c43379a517588c7327c69736157399?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Wolfgang Metcalf</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1317480">
+							<time datetime="2012-01-11T19:09:00+00:00">
+								January 11, 2012 at 7:09 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>If shes worried about the delivery method:</p>
+<p><a href="http://www.opposingviews.com/i/society/drug-law/jama-long-term-exposure-cannabis-smoke-not-associated-adverse-effects-pulmonary " rel="nofollow">http://www.opposingviews.com/i/society/drug-law/jama-long-term-exposure-cannabis-smoke-not-associated-adverse-effects-pulmonary </a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1317543" class="comment even thread-odd thread-alt depth-1">
+			<article id="div-comment-1317543" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://2.gravatar.com/avatar/ed1e04516a0b6e36f3115b4e14f77297?s=74&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/ed1e04516a0b6e36f3115b4e14f77297?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Byron Jones</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1317543">
+							<time datetime="2012-01-11T20:58:00+00:00">
+								January 11, 2012 at 8:58 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Xeni, have you read anything on fasting prior to chemotherapy?  There seems to be fairly solid evidence that fasting reduces the metabolism in healthy cells, thereby sparing people some of the side effects of chemo treatment.  I&#8217;d point you to specific articles, but googling: fasting chemotherapy       seems to turn up plenty of hits from reputable sites.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1318347" class="comment odd alt thread-even depth-1">
+			<article id="div-comment-1318347" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/a6557bf2e72668e75bc215c882620836?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a6557bf2e72668e75bc215c882620836?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">mir amicitas</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1318347">
+							<time datetime="2012-01-12T13:45:00+00:00">
+								January 12, 2012 at 1:45 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>That is terrible to hear Xeni.  I wish you the best of luck getting through the treatment and recovery! </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1319609" class="comment even thread-odd thread-alt depth-1">
+			<article id="div-comment-1319609" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://0.gravatar.com/avatar/f102dcdceb4f75acfd81ca644427aa87?s=74&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f102dcdceb4f75acfd81ca644427aa87?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Jonathan Wayne</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1319609">
+							<time datetime="2012-01-13T18:34:00+00:00">
+								January 13, 2012 at 6:34 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Anyone who doubts the fact that cannabis is arguably the most medicinally enriched plant, start with Granny Storm Crow&#8217;s list. Then check out the latest research with CBD and Crohn&#8217;s, especially that coming out of Israel. Then on to O&#8217;Shaughnessy&#8217;s. Then look into Simpson Oil (yeah, the claims are pretty extravagant, but there are folks getting REAL results). If I had the beginnings of skin cancer, I would probably first try cannabis topically. </p>
+<p>Apropos to raw cannabis juice, what Courtney says makes so much intuitive sense.  It&#8217;s VERY hard to find high CBD strains, but this way you are almost guaranteed of  ingesting large amounts. Yeah, you have to be aware of THCA conversion to THC.  Don&#8217;t use the buds (make Simpson Oil from that!) and you&#8217;ll eliminate a lot of the psychoactive potential. And in general, take the same safety precautions that you&#8217;d make with any food product.  If you don&#8217;t grow your own, you&#8217;ll still probably have an easier time finding an organic grower than not.</p>
+<p>GET CANNABIS OFF OF SCHEDULE 1 so that lots more research can be done on this amazing plant.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-1320920" class="comment odd alt thread-even depth-1">
+			<article id="div-comment-1320920" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='http://1.gravatar.com/avatar/1a324ebf4e0b1e0bfe48d8624e99c844?s=74&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/1a324ebf4e0b1e0bfe48d8624e99c844?s=148&amp;d=mm&amp;r=g 2x' class='avatar avatar-74 photo' height='74' width='74' />						<b class="fn">Sara Johnson</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="http://boingboing.net/2012/01/10/why-the-raw-cannabis-juicing.html#comment-1320920">
+							<time datetime="2012-01-15T15:22:00+00:00">
+								January 15, 2012 at 3:22 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>All this means is that there are no big pharma funded double-blind studies on this, and why would there be? The word &#8220;anecdotal&#8221; gets a bad rap. I think something like 10,000 anecdotes equal the same margin of error of a double-blind study. Low-dose naltrexone suffers the same dismissive attitude by the western medicine community. It&#8217;s still more effective for a huge number of auto-immune, cancer, and other patients than any other drug or combination of treatments they&#8217;ve been prescribed by traditional doctors. I know from experience.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+        
+        
+	
+		<p class="no-comments">Comments are closed.</p>
+	
+		
+	
+	
+</div><!-- #comments -->
+  
+  </div>        
+
+<p>
+
+<div id="footer">
+     
+    <div id="footer-left">
+    	
+        <p>Read the rules you agree to by using this website in our <a href="http://boingboing.net/tos">Terms of Service</a>.
+        
+     <p>Boing Boing uses cookies and analytics trackers, and is supported by advertising, merchandise sales and affiliate links. Read about what we do with the data we gather in our <a href="http://boingboing.net/privacy">Privacy Policy</a>.
+       	<p>		
+       
+       Who will be eaten first? Our forum rules are detailed in the <a href="http://bbs.boingboing.net/faq">Community Guidelines</a>.
+       
+       	<p>Boing Boing is published under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">a Creative Commons license</a> except where otherwise noted.
+       	
+    </div>
+        
+    <div id="footer-middle">
+
+    </div>
+      
+     <div id="footer-right">
+          	
+      	<p>		<a href="http://twitter.com/frauenfelder">Mark Frauenfelder
+     	<br>	<a href="http://twitter.com/doctorow">Cory Doctorow
+     	<br>	<a href="http://twitter.com/pesco">David Pescovitz
+     	<br>	<a href="http://twitter.com/xeni">Xeni Jardin
+     	<br>	<a href="http://twitter.com/beschizza">Rob Beschizza
+
+     	<p class="staff"><a href="http://twitter.com/jlw">Jason Weisberger</a><br><span class="job">Publisher</span>
+     	<p class="staff"><a href="http://twitter.com/orenwolf">Ken Snider</a><br><span class="job">Sysadmin</span>
+     	
+   		<p>		<a href="http://boingboing.net/about">About Us</a>
+        <br>	<a href="http://boingboing.net/contact">Contact Us</a>
+        <br>	<a href="http://boingboing.net/advertise">Advertise</a>
+        <br>	<a href="http://bbs.boingboing.net">Forums</a>
+		<br>	<a href="http://store.boingboing.net">Shop</a>	
+		<br>	<a href="mailto:support+id154252@vipstack.zendesk.com">Shop Support</a>
+       
+  
+     </div>
+
+</div>
+
+<script type='text/javascript' src='http://media.boingboing.net/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://media.boingboing.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://media.boingboing.net/wp-includes/js/comment-reply.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://media.boingboing.net/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201602'></script>
+    <script>
+    jQuery(document).ready(function() {
+      jQuery('.lazyYT').each(function() {
+        var id = jQuery(this).data('youtube-id'),
+            url = 'https://www.youtube.com/watch?v=' + id;
+        jQuery(this).replaceWith('<a href="' + url + '">' + url + '</a>');
+      });
+      jQuery('a.mention').each(function() {
+                var discourse_url = 'https://bbs.boingboing.net';
+        jQuery(this).attr('href', discourse_url + jQuery(this).attr('href'));
+      });
+    });
+    </script>
+  <script type='text/javascript' src='http://stats.wp.com/e-201602.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.8.2',blog:'87954168',post:'138358',tz:'-8',srv:'boingboing.net'} ]);
+	_stq.push([ 'clickTrackerInit', '87954168', '138358' ]);
+</script>
+
+
+<!-- Analytics-->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-QX6JKE-6M4Jf7"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-QX6JKE-6M4Jf7.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<!-- Google Analytics include -->
+<script>
+function clickTrack(url, action, label){
+    if(url && action && label){
+        clickedURL = url;
+        if(typeof(event) != "undefined") event.returnValue = false;
+        ga('send', 'event', {
+            'eventCategory' : 'UI Click',
+            'eventAction'   : action,
+            'eventLabel'    : label,
+            'hitCallback'   : function () {
+                document.location = clickedURL;
+            }
+        }); 
+        return false;
+    }
+    return true;
+}
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3839311-1', 'auto');
+
+      ga('set', 'dimension1', 'Xeni Jardin');
+    ga('send', 'event', 'Permalink View', 'Author', '');
+
+                ga('send', 'event', 'Permalink View', 'Category', 'Post');
+                ga('set', 'dimension2', 'post ');
+            
+                ga('send', 'event', 'Permalink View', 'Tag', 'health');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'marijuana');
+                      ga('send', 'event', 'Permalink View', 'Tag', 'medical cannabis');
+                ga('set', 'dimension3', 'health marijuana medical-cannabis ');
+      
+  
+  ga('send', 'pageview');
+
+</script>
+<!-- end Google Analytics include -->
+
+
+
+
+<!-- Begin comScore Tag -->
+
+<script>
+
+  var _comscore = _comscore || [];
+
+  _comscore.push({ c1: "2", c2: "17689855" });
+
+  (function() {
+
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+
+    el.parentNode.insertBefore(s, el);
+
+  })();
+
+</script>
+
+<noscript>
+
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17689855&cv=2.0&cj=1" />
+
+</noscript>
+
+<!-- End comScore Tag -->
+
+
+
+<script>
+// move ads to main column on single-column widths
+
+function layoutfix() {
+var width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+
+if(width<600) {
+	var move = document.getElementById("gpt-ad-top");
+	document.getElementById("mobileAd0").appendChild(move); 
+	var move = document.getElementById("gpt-ad-right_side_1");
+	document.getElementById("mobileAd1").appendChild(move); 
+	var move = document.getElementById("gpt-ad-right_side_2");
+	document.getElementById("mobileAd2").appendChild(move); 
+	}
+}
+layoutfix();
+	
+
+	
+		function showmenu() {
+	
+		var currentHeight = document.getElementById("menuitems").style.height;
+		if (currentHeight == "250px") {
+		document.getElementById("menuitems").style.height = "0px";
+		}
+		else {
+		document.getElementById("menuitems").style.height = "250px";
+		}
+	}
+
+
+</script>
+
+<script>
+var MeasureAdblock = (function() {
+  var init = function() {
+    document.write('<div id="adsense" style="visibility:hidden;">adsense ad</div>');
+    var detect = function() {
+      setTimeout(function() {
+        var detected = 'No';
+        var elt = document.getElementById('adsense');
+        if( ! elt || elt.innerHTML.length === 0 || elt.clientHeight === 0 ) {
+          detected = 'Yes';
+        }
+        elt.style.display = 'none';
+        if(typeof ga === "function") {
+          ga('send', 'event', 'AdBlock', detected);
+        }
+        else if(typeof _gaq != "undefined") {
+          _gaq.push(['_trackEvent', 'AdBlock', detected]);
+        }
+      }, 2000);
+    };
+    if(window.addEventListener) {
+        window.addEventListener('load', detect, false);
+    } else {
+        window.attachEvent('onload', detect);
+    }
+  };
+  return {
+    init: init
+  };
+})();
+
+// init() can optionally be split into a separate <script> tag
+MeasureAdblock.init();
+</script>
+
+
+
+
+</body>
+</html>
+
+<!-- WP Super Cache is installed but broken. The path to wp-cache-phase1.php in wp-content/advanced-cache.php must be fixed! -->

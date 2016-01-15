@@ -1,0 +1,2380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html class="ie lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="ie ie7 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8 lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><html class="ie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-ie"> <!--<![endif]-->
+
+<head>
+				
+				
+				
+				
+	
+			                                  
+		
+		
+		
+	<!--  htmlHEadElement is News/FDN/Web/Render/htmlHead -->
+	<!-- Page: News (1226616041335) -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    	
+    			<script>bruce_rtget={"tmstamp": "2016-01-16 02:30:03.607915"};</script>
+    		
+    	
+    			<!-- all.esi prod 2015-11-25T22:05:39.609Z b6e0f7a542459bc24cec7d486a148e3059cf0f0b --> <!--    url empty ?: 0   --> <!--    ID:  1226242005577 --> <!--    ID_Type:  FWID --> <!--    Is mobile: false --><!-- 2015-12-07T21:04:40.418Z b57dd501ee2a056ae7dec9d52fc77ebd7c2b0ad2
+ -->
+<script type="text/javascript" src="//tags.news.com.au/prod/adblock/adblock.js"></script>
+<script type="text/javascript">
+    !function(){function n(n){var o=window.googletag&&"object"==typeof window.googletag&&window.googletag.apiReady&&"boolean"==typeof window.googletag.apiReady?!0:!1;return n?n(o):o}function o(n){window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd||[],window.googletag.cmd.push(function(){window.googletag.pubads().addEventListener("slotRenderEnded",function(o){n(!0)})})}function t(n){var o=window.utag_data&&window.utag_data.no_adblocker&&"boolean"==typeof window.utag_data.no_adblocker?!0:!1;return n?n(o):o}function e(n){var o=window.s?!0:!1;return n?n(o):o}function a(n){var o=window.nb?!0:!1;o?(window.nb.push(["pixel:loaded",function(o){n(!0)},!0]),window.nb.push(["pixel:notloaded",function(o){n(!1)},!0])):n(!1)}function i(n,o,t,e,a){setTimeout(function(){var o=setTimeout(function(){t(a)},e);n(function(n){clearTimeout(o),t(n)})},o)}function c(n,o){for(var t=n.length,e=function(n){return function(e){n(e),t--,0===t&&o()}},a=0;a<n.length;a++){var c=n[a];i(c.func,c.wait,e(c.callback),c.timeout,c.def)}}function d(n,o){var t,e;if(e=escape(o)+"; path=/",o===!1)t=new Date(0),e+="; expires="+t.toUTCString();else{var a=6048e5;t=new Date((new Date).getTime()+a),e+="; expires="+t.toUTCString()}document.cookie=n+"="+e}function u(n){var o=new RegExp("(?:^"+n+"|; *"+n+")=(.*?)(?:;|$)","g"),t=o.exec(document.cookie);return null===t?null:t[1]}var w=[],g=[0,0,0,0,0],l=function(n){return function(o){g[n]=o?0:1}};w.push({func:n,callback:l(0),wait:8e3,timeout:1e3,def:!1}),w.push({func:o,callback:l(1),wait:0,timeout:9e3,def:!1}),w.push({func:t,callback:l(2),wait:8e3,timeout:1e3,def:!1}),w.push({func:e,callback:l(3),wait:8e3,timeout:1e3,def:!1}),w.push({func:a,callback:l(4),wait:8e3,timeout:5e3,def:!1});try{window.utag_data=window.utag_data||{};var f=u("cbd");f&&(window.utag_data.cbd=f),c(w,function(){var n=g.join("");parseInt(n,10)>0?(window.utag_data.cbd=n,d("cbd",n)):d("cbd",!1),window.location.href.indexOf("debug=1")>=0&&console.log("cbd: ",n)})}catch(r){window.location.href.indexOf("debug=1")>=0&&console.error(r)}}();
+</script>
+
+    
+        
+    
+    
+        
+    
+    
+        <!-- px2 not fired   -->
+    <script type="text/javascript">
+
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var cb = (new Date()).getTime().toString() + Math.random();
+    var src = (useSSL ? 'https:' : 'http:') + '//tags.news.com.au/prod/utrack/utrack.js?cb='+ cb;
+    window.utag_data = window.utag_data || {};
+    window.utag_data.backend_mobile_detect = false;
+    window.utag_data.utrack_cb = cb;
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script type="text/javascript">
+                utag_data = window.utag_data || {}; utag_data.md_categories = [];
+
+    
+    
+  
+                </script><script>bruce_rtget={"tmstamp": "2016-01-16 02:30:03.607915"};</script><script type="text/javascript">
+                // dailytelegraph.com.au
+                /* trending.esi prod 2015-11-22T23:33:42.049Z 91a8dc34e11c9303ac5e44deb84a0074ee67bbb2 */ (function() { var checkTrending = function() { var sections = [], tts = 'n'; for (var i=0; i<sections.length; i++) {/* Note: window.ndm is now deprecated */if (window.utag_data) { if(window.utag_data.net_sec1 && window.utag_data.net_sec1==sections[i]){ tts="y"; } else if(window.utag_data.net_sec2 && window.utag_data.net_sec2==sections[i]){ tts="y"; } else if(window.utag_data.net_sec3 && window.utag_data.net_sec3==sections[i]){ tts="y"; } else if(window.utag_data.net_sec4 && window.utag_data.net_sec4==sections[i]){ tts="y"; } } else { tts="err"; } } window.ads_extra=window.ads_extra || {}; window.ads_extra.tts=tts;/* Trending */window.ads_extra.ttm='n';/* Trending in top10 */ }; window.ads_core = window.ads_core || []; window.ads_core.push(checkTrending); })();
+                </script> <!-- end of all.esi -->
+    		
+					<!-- seoHeadline:  -->
+					<title>Macquarie University teaching migrant students how to use a toilet correctly |  dailytelegraph.com.au</title>
+					<meta name="description" content="A UNIVERSITY is teaching migrant students how to use a toilet correctly after complaints from cleaners that they were leaving them in an unhygienic state." />
+					<meta name="keywords" content=" toilet, Teresa Gambaro, squat, student, Migrant, Macquarie University" />
+					<!-- setting thumbnail for facebook -->
+							<!--  primary is not empty-->
+										<meta property="og:image" content="http://resources3.news.com.au/images/2012/01/11/1226241/991295-toilet-instructions.jpg" />
+										<meta property="og:image" content="http://resources2.news.com.au/images/2012/01/11/1226242/005542-toilet-instructions.jpg" />
+					<meta name="twitter:card" content="summary_large_image">
+						<meta name="twitter:image:src" content="http://resources3.news.com.au/images/2012/01/11/1226241/991295-toilet-instructions.jpg" />
+					<!-- PC related summary IDs: 1226242005577 -->
+					<link rel="canonical" href="http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577" />
+					<meta property="og:title"
+						content="Macquarie University teaching migrant students how to use a toilet correctly " />
+					<meta property="og:type" content="article" />
+					<meta property="og:url"
+						content="http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577" />
+					<meta property="og:site_name" content="DailyTelegraph" />
+					<meta property="fb:app_id" content="135086289853833" />
+					<meta property="og:description" content="A UNIVERSITY is teaching migrant students how to use a toilet correctly after complaints from cleaners that they were leaving them in an unhygienic state." />
+					<meta name="article:publisher" content="News Limited">
+					<meta name="article:author" content="Gemma Jones Political Reporter"/>
+					<meta name="article:publicationdate" content="Thu Jan 12 06:23:17 EST 2012">
+					<meta name="generator" content="legacy"/>
+					<meta name="articleid" itemprop="identifier" content="1226242005577"/>
+					<meta property="article:modified_time" itemprop="dateModified" content="Thu Jan 12 06:23:17 EST 2012"/>
+	<meta property="fb:admins" content=",100000875899514" />
+			<meta name="twitter:site" content="@dailytelegraph">
+			<meta name="twitter:site:id" content="@dailytelegraph">
+	<script type="text/javascript">
+		//<![CDATA[
+			window.ndm = window.ndm || {};
+			window.ndm.fwResourcesNewscdn = 'http://resources.newscdn.com.au';
+			window.ndm.social = window.ndm.social || {};
+			window.ndm.social.toggles = "['','','','']";
+			window.ndm.social.section = {
+			    'url': '/',
+			    'sections': [],
+			    'sectionpath':'/section/dailytelegraph.com.au/'
+			};
+			window.ndm.page = {};
+			var overrideNdmPageSite, overrideNdmPageUs, overridePageType, overrideNdmPageCustom, overrideNdmPageAdsenseGoogleAdClient, overrideNdmPageAdsenseGoogleAdChannel, overridePageSection;
+				ndm.account = {
+					urls: { login: "http://www.dailytelegraph.com.au/login", signup: "http://subscription.news.com.au/dailytelegraph/offers", account: "https://myaccount.news.com.au/dailytelegraph/viewAccount" }
+				};
+							
+							
+							
+								
+									
+								
+							window.ndm = window.ndm || {};window.ndm.cam = {'status': 'logged-out', 'memtype': 'anonymous'};ndm.config = {idp: {relayState: 'http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577',samlLoc: 'http://saml.cam.idmndm.com',channel: 'pc',site: 'DailyTelegraph'}, metered: {mode: 'free',state: {},endpoint: {registration: 'https://idp.news.com.au/idp/Authn/rest',products: 'toc'},productInfo: {offerCode: '2_1_',sourceCode: 'DTWEB_WRE150_a'}}};
+					window.ndm.idp = window.ndm.idp || {};
+					window.ndm.cam = window.ndm.cam || {};
+					window.ndm.idp.socialEnabled = !window.ndm.cam.paywalldisabled;
+					window.ndm.idp.channel    = "pc";
+					window.ndm.idp.domain  = "https://idp.news.com.au/";
+					window.ndm.idp.activity = true;
+					window.ndm.idp.frictionless = false;
+					window.ndm.idp.linkerror = "http://www.dailytelegraph.com.au/linkerror";
+					window.ndm.idp.sitename = "DailyTelegraph";
+					window.ndm.idp.location = "http://saml.cam.idmndm.com";
+					window.ndm.idp.registrationUrl = "http://www.dailytelegraph.com.au/signupfinal";
+			ndm.cam = ndm.cam || {};
+		//]]>
+	</script>
+<!-- Fragment for [] on [fwprodcontent01.ni.news.com.au] @ [January 16, 2016 2:30AM] [cb:null] -->
+	<!-- Page includes [1226616041335:null] last generated at Sat Jan 16 02:30:23 EST 2016 -->
+<!-- page include -->
+<!-- Resource Included [{id=1226866162096, type=News_Stylesheet}, {id=1226886312627, type=News_Javascript}, {id=1226866180869, type=News_Stylesheet}, {id=1226866162383, type=News_Stylesheet}, {id=1226866164977, type=News_Stylesheet}, {id=1226587868739, type=News_Javascript}, {id=1226592477047, type=News_Javascript}, {id=1226866449412, type=News_Javascript}, {id=1226595896129, type=News_Javascript}, {id=1226587862069, type=News_Javascript}, {id=1226587860996, type=News_Javascript}, {id=1227090210716, type=News_Javascript}, {id=1227510996395, type=News_Resources_Group}, {id=1226641054873, type=News_Javascript}, {id=1226641835083, type=News_Stylesheet}, {id=1226866522182, type=News_Stylesheet}, {id=1226766829025, type=News_Javascript}, {id=1226858257711, type=News_Javascript}, {id=1226766829929, type=News_Javascript}, {id=1226680662899, type=News_Javascript}, {id=1227092763081, type=News_Javascript}, {id=1226645345887, type=News_Stylesheet}, {id=1226656244662, type=News_Javascript}, {id=1226704318792, type=News_Javascript}, {id=1226779697549, type=News_Javascript}, {id=1226964682752, type=News_Javascript}]-->
+<!-- Resource Included [{id=1227510987125, type=News_Javascript}, {id=1227510967052, type=News_Stylesheet}]-->
+<!-- //page include -->
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/base-combined.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/vertical/news/vertical-components.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/story.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/video/vjs/stable/build/player.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/social/latest/css/base.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/metered/current/deployBucketA/themes/default/css/metered.css' />
+	<link rel='stylesheet' media='print' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/print.css' />
+	<script  type='text/javascript' src='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/lib/network-vendors-concat-min.js'></script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					</script>
+<!--[if !IE]> --><link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/fonts.css' /><!-- <![endif]-->
+<!--[if IE 9]><link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/fonts.css' /><![endif]-->
+<!--[if lte IE 8]><link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/fonts-oldie.css' /><![endif]-->
+<script>
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					ndm.util.common.site.getName=function(a,b){var g,h,i,l,c=b||["NewsComAu","HeraldSun","TheAustralian","CourierMail","AdelaideNow","DailyTelegraph","PerthNow"],d=/^(?:http\:\/\/)(www\.)?([\d,\w]*-)?(.*?)\.?([\d,\w]*)\.(?:com|dev|au\.uk|co\.in)/i,e=$("body"),f=a&&a.match(d)&&a.match(d)[4]?a.match(d)[4]:window.location.hostname,j=c.length,k=a&&ndm.util.common.url.args(a);if(l=k&&k.site,h=l&&l.toLowerCase()||f.replace(".",""),!a&&e[0])for(i=0;j>i;i+=1)g=c[i],h=e.hasClass(g.toLowerCase())?g:h;return h};
+(function (global) {
+    if (window.require) {
+        var ndm = global.ndm || {};
+        require.config({
+            baseUrl: 'http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/js',
+            shim: {
+                'jquery': {
+                    exports: 'ndm.jQuery'
+                }
+            },
+            paths: {
+                'plugin': 'channel/desktop/libs',
+                'module': 'channel/desktop/app',
+                'lib': '../../lib/vendor/'
+            },
+            waitSeconds: 60
+        });
+        ndm.require = function (deps) {
+            (function monitor(){
+                if (ndm && ndm.page) {
+                    require(deps);
+                } else {
+                    setTimeout(monitor,100);
+                }
+            })();
+        };
+        ndm.require(['channel/desktop/app/base-top']);
+    }
+}(window));
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					function checkPageType () {
+    if (ndm && ndm.page && ndm.page.type === "index") {
+require(['channel/desktop/app/vertical']);
+    } else {
+        setTimeout(checkPageType, 100);
+    }
+}
+checkPageType();
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					window.envoy_config = window.envoy_config || {};
+window.envoy_config.identity = {
+    ninbar: {
+               'subscribe-url': 'http://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_ONS538'
+    },
+    'login': {
+               'subscribe-url': 'http://www.dailytelegraph.com.au/subscribe/news/1/?int_medium=display&int_source=site-link&int_campaign=acq_onsite&int_content=login_iframe&sourceCode=DTWEB_ONS596'
+    }
+};
+(function(i, s, o, g, r, a, m){
+    i[r]={};a=s.createElement(o),m=s.getElementsByTagName(o)[0],
+    g=('https:'===document.location.protocol?'https://envoyssl.':
+    'http://envoy.')+g;a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+    })(window, document, 'script', 'newscdn.com.au/service/concat.js?envoy&identity/latest&siteid=dtw', 'newscdn');
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					//]]>
+</script>
+<script>/** Social Script Loader v1.0 **/
+(function(s,o,c,i,a,l){
+    i=s.getElementsByTagName(o)[0];a=s.createElement(o);
+    l='';l=s.domain.search(/sit|ls|uat[.com]/)>-1&&'uat.'||l;
+    l=s.domain.search(/^dev[1-6]./)>-1&&'dev.'||l;l='http://'+
+    l+c+'.js';a.async=1;a.src=l;i.parentNode.insertBefore(a,i);
+})(document,'script','resources.newscdn.com.au/cs/social/latest/js/main.min');
+</script>
+<script type="text/javascript">
+//<![CDATA[
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					//]]>
+</script>
+<link rel="shortcut icon" href="http://resources.news.com.au/cs/dailytelegraph/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://resources.news.com.au/cs/dailytelegraph/images/favicon.ico" type="image/x-icon" />
+    <!-- Icons for Mobile Devices -->
+    <!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-144x144-precomposed.png">
+    <!-- For iPhone with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-144x144-precomposed.png">
+    <!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-72x72-precomposed.png">
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-precomposed.png">
+<script type="text/javascript">
+//<![CDATA[
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					/*
+6/5/2015 - THJ - No longer required
+(function() {
+ var useSSL = 'https:' == document.location.protocol;
+ var src = (useSSL ? 'https:' : 'http:') +
+ '//newskey.newsanalytics.com.au/esi/utrack.js?cb='+ (new Date()).getTime();
+ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+*/
+	                 //]]>
+		</script>
+			<script type="text/javascript">
+				//<![CDATA[
+				ndm.page.section = overridePageSection || "HOME";
+				//]]>
+			</script>
+		<script type="text/javascript">
+				//<![CDATA[
+					ndm.page.custom = overrideNdmPageCustom || "";
+					ndm.page.vignstoryid = "-1";
+					ndm.page.site 		= overrideNdmPageSite 	|| "DTM";
+					ndm.page.us  		= overrideNdmPageUs		|| "ndmdailytelegraph";
+					ndm.page.runads 	= true;
+					ndm.page.adstyles 	= "auto";
+					ndm.page.type 		= overridePageType		|| "story";
+					//ndm.page.pcvideosite	= "PROD_DT";
+					ndm.page.shareid = "6fec5b3f00f2d45433ec941523711775";
+					ndm.page.storyid = "1226242005577";
+					utag_data.net_article_date="2012-01-11 18:16:39";
+					utag_data.net_article_updated_time="2012-01-12 06:23:17";
+                        utag_data = window.utag_data || {};
+                        utag_data.adsense_client = overrideNdmPageAdsenseGoogleAdClient || "ca-nd-dailytelegraph_js";
+                        utag_data.adsense_client_intl = overrideNdmPageAdsenseGoogleAdClient || "ca-nd-dailytelegraph-st-intl_js";
+                        utag_data.adsense_channel = overrideNdmPageAdsenseGoogleAdChannel || "news";
+					ndm.page.searchApi = "http://search.news.com.au/embeddedjson?";
+				//]]>
+		</script>
+	<meta name="robots" content="noarchive" />
+                     <script src="http://tags.news.com.au/prod/trending/dt_d.js?id=1226242005577"></script>
+			<script type="text/javascript">
+				//<![CDATA[
+					ndm.cam.contentTypeRule = 'NON_PREMIUM' === 'PREMIUM' ? 'restricted' : 'free';
+					ndm.cam.contentTypeGranted = 'full';
+				//]]>
+			</script>
+    <script type="text/javascript">
+        //<![CDATA[
+            ndm.page.msrelatedlinks = false;
+            ndm.page.premiumstate = 'NON_PREMIUM';
+        //]]>
+    </script>
+</head>
+<body class="dailytelegraph story story-1226242005577 no-js  news news-story-template  news-story-template-index   cam user-anonymous paywall state-free source-dailytelegraph ">
+<div id="page">
+	<div id="skip-links">
+		<dl class="skip">
+			<dt>Skip to:</dt>
+				<dd class="first"><a href="#content">Main Content</a></dd>
+				<dd><a href="#nav">Site Navigation</a></dd>
+				<dd><a href="#footer">Site Footer</a></dd>
+				<dd><a href="#site-search">Site Search</a></dd>
+				<dd><a href="/help/sitemap/">Site Map</a></dd>
+				<dd><a href="#network-bar">Network Navigation (other sites)</a></dd>
+		</dl><!-- .skip -->
+	</div><!-- // #skip-links -->
+	<div id="network-bar">
+	  <div id="network-account">
+		
+			 <div class="network-login">
+			 	
+						<div class="module form-module form-module-cam-login">
+							<div class="module-header">
+								<ul class="more-links">
+									<li class="first"><a class="login" href="http://www.dailytelegraph.com.au/login#header-nav-login-lightbox">Login</a></li>
+								        <li class="last"><a class="signup" href="http://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_WBM100_a">Subscribe</a></li>
+								</ul>
+							</div><!-- // .module-header -->
+							<div class="module-content">
+								<div class="content-item" id="header-nav-login-lightbox">
+								      <div class="ci-header">
+
+ <h4 class="heading">Login using your social network</h4>
+	<form action="https://idp.news.com.au/idp/Authn/social" method="GET">
+		<fieldset>
+			<legend><span class="legend">Social Login</span></legend>
+			<div class="form-item fpos-1 frpos-3">
+	            <fieldset class="form-radio-group">
+	                <legend>
+	                    <span class="legend-text">Social Network
+	                    	<span class="required">
+	                        	<abbr title="required">*</abbr>
+	                    	</span>
+	                	</span>
+	                </legend>
+	                <div class="form-radio-item signin signin-facebook">
+	                    <input type="radio" id="service-facebook" value="facebook.com" name="service" class="radio required-field">
+	                    <label for="service-facebook" class="radio">
+	                        <span class="label-text">Login with Facebook</span>
+	                    </label>
+	                </div>
+	                <div class="form-radio-item signin signin-twitter">
+	                    <input type="radio" id="service-twitter" value="twitter.com" name="service" class="radio required-field">
+	                    <label for="service-twitter" class="radio">
+	                        <span class="label-text">Login with Twitter</span>
+	                    </label>
+	                </div>
+	                 <div class="form-radio-item signin signin-linkedin">
+	                    <input type="radio" id="service-linkedin" value="linkedin.com" name="service" class="radio required-field">
+	                    <label for="service-linkedin" class="radio">
+	                        <span class="label-text">Login with LinkedIn</span>
+	                    </label>
+	                </div>
+	                <div class="form-radio-item signin signin-google">
+	                    <input type="radio" id="service-google" value="google.com" name="service" class="radio required-field">
+	                    <label for="service-google" class="radio">
+	                        <span class="label-text">Login with Google</span>
+	                    </label>
+	                </div>
+	            </fieldset>
+	        </div>
+			<div class="form-item fipos-3 frpos-1 form-item-submit">
+				   <input type="hidden" name="cancelUrl" value="http://www.dailytelegraph.com.au/remote/talogin-error.html"/>
+				<input type="hidden" name="channel" value="pc">
+				<input type="hidden" name="authMethod" value="social">
+				<input type="hidden" name="site" value="DailyTelegraph">
+				<input type="hidden" name="relayState" value="http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577">
+				<input type="hidden" name="location" value="http://saml.cam.idmndm.com">
+				<button type="submit" class="button-submit"><span>Login</span></button>
+			</div><!-- // .form-item -->
+		</fieldset>
+	</form>
+
+									  </div>
+									<div class="ci-content">
+	<h4 class="heading">Login using your Newspass account</h4>
+	
+    <form action="https://idp.news.com.au/idp/Authn/rest" method="POST" class="formBuilder">
+  	<fieldset>
+		<legend><span class="legend">User Login</span></legend>
+		<div class="form-item fipos-1">
+			<label for="cam_username">Username <span class="required"><abbr title="required">*</abbr></span></label>
+			<input type="text" id="cam_username" name="username" class="required-field email" />
+		</div><!-- // .form-item -->
+		<div class="form-item fipos-2">
+			<label for="cam_password">Password <span class="required"><abbr title="required">*</abbr></span></label>
+			<input type="password" id="cam_password" name="password" class="required-field password" />
+		</div><!-- // .form-item -->
+		<div class="form-item fipos-3">
+			<div class="form-checkbox-item">
+				<input type="checkbox" id="cam_remember_me" name="remember_me" checked/>
+				<label for="cam_remember_me">Remember me</label>
+			</div><!-- // .form-checkbox-item -->
+		</div><!-- // .form-item -->
+		<div class="form-item fipos-4 form-item-submit">
+			<input type="hidden" name="channel" value="pc" />
+			<input type="hidden" name="site" value="DailyTelegraph" />
+			<input type="hidden" name="relayState" value="http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577" />
+			<input type="hidden" name="cancelUrl" value="http://www.dailytelegraph.com.au/remote/talogin-error.html"/>
+			<input type="hidden" name="location" value="http://saml.cam.idmndm.com" />
+			<button type="submit" class="button-submit"><span>Login</span></button>
+		</div><!-- // .form-item -->
+	</fieldset>
+	</form>
+
+									</div>
+									<div class="ci-related">
+										<ul class="related">
+											<li><a class="password" href="https://myaccount.news.com.au/dailytelegraph/forgotPassword">Forgot your password?</a></li>
+										</ul>
+									</div>
+									<div class="ci-footer">
+										<ul class="more-links">
+											<li>Subscribe now for full access</li>
+											<li class="btn-subscribe"><a class="subscribe" href="http://subscription.news.com.au/dailytelegraph/offers">Subscribe</a></li>
+										</ul>
+									</div>
+								</div>
+							</div><!-- // .module-content -->
+						</div><!-- // .module.form-module.form-module-cam-login -->
+			 		
+			</div><!-- // #network-login -->
+		 </div>
+					<dl class="network-bar-links  ">
+			<dt class="  first last "></dt>
+					<dd class="first    "><a href="http://www.news.com.au/?from=ninbar" >News.com.au</a></dd>
+					<dd class="    "><a href="http://www.foxsports.com.au/?from=ninbar" >Foxsports</a></dd>
+					<dd class="    "><a href="http://www.careerone.com.au/?from=ninbar" >CareerOne</a></dd>
+					<dd class="    "><a href="http://www.carsguide.com.au/?from=ninbar" >CarsGuide</a></dd>
+					<dd class="    "><a href="http://www.realestate.com.au/?from=ninbar" >Realestate</a></dd>
+					<dd class=" last   "><a href="http://www.dailytelegraph.com.au/network" >Network</a></dd>
+</dl><!-- // .network-bar-links   -->
+
+	</div><!-- // #network-bar -->
+<div id="header" >
+			<a id="header-vertical" href="http://www.dailytelegraph.com.au/news">
+						News
+			</a>
+	<div id="header-logo">
+				<strong><a href="http://www.dailytelegraph.com.au">dailytelegraph.com.au</a></strong>
+	</div><!-- // #header-logo -->
+			<div id="header-ads">
+	       		<div class="ad ad-leaderboard">
+					    <div class="ad-block ad-leader" id="ad-leader"></div>
+		        </div><!-- // .ad .ad-leaderboard -->
+		    </div><!-- // #header-ads -->
+</div><!-- // #header -->
+	<div id="nav">
+			<ul id="nav-wrap">
+					<li id="nav-level1">
+								
+		<ul class="nav-list tier-1">
+			<li class="sectionref-news   active first  linkto-group-1226621540246">
+								<a href="/" >News</a>
+			</li>
+			<li class="sectionref-sport      linkto-group-1226621540309">
+								<a href="/sport" >Sport</a>
+			</li>
+			<li class="sectionref-entertainment      linkto-group-1226621543076">
+								<a href="/entertainment/sydney-confidential" >Entertainment</a>
+			</li>
+			<li class="sectionref-business      linkto-group-1226621540448">
+								<a href="/business" >Business</a>
+			</li>
+			<li class="sectionref-lifestyle      linkto-group-1226621543291">
+								<a href="/lifestyle" class="lifestyle-nlm" >Lifestyle</a>
+			</li>
+			<li class="sectionref-video      linkto-group-1226758160630">
+								<a href="/video" >Video</a>
+			</li>
+			<li class="sectionref-classifieds      linkto-group-1226775231833">
+								<a href="/classifieds" >Classifieds</a>
+			</li>
+			<li class="nav-item-search icon-assistive pull-right     last">
+									<a  href="#"></a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+
+					</li> <!-- // #nav-level1 -->
+					<li id="nav-level2">
+								
+		<ul class="nav-list tier-1">
+			<li class="first">
+								<a href="/news/breaking-news" >Breaking News </a>
+			</li>
+			<li>
+								<a href="/newslocal" >Local </a>
+			</li>
+			<li>
+								<a href="/news/nsw" >NSW </a>
+			</li>
+			<li>
+								<a href="/news/national" >National </a>
+			</li>
+			<li>
+								<a href="/news/world" >World</a>
+			</li>
+			<li>
+								<a href="/news/weird" >Weird</a>
+			</li>
+			<li>
+								<a href="/technology" >Technology</a>
+			</li>
+			<li>
+								<a href="/news/opinion" >Opinion</a>
+			</li>
+			<li>
+								<a href="/news/opinion/public-defender" >Public Defender</a>
+			</li>
+			<li>
+								<a href="/news/photos" >Photos</a>
+			</li>
+			<li class="last">
+									<a  href="http://weather.dailytelegraph.com.au">Weather</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+
+					</li> <!-- // #nav-level2 -->
+			</ul><!-- // #nav-wrap -->
+	</div><!-- // # nav -->
+<div id="info-bar">
+		<div class="info-bar-datestamp"><span
+			class="info-bar-datestamp-label">Last Updated:
+		</span>
+				<strong class="info-bar-datestamp-date">
+						January 16, 2016
+				  </strong>
+		</div>
+		<!-- // .info-bar-datestamp -->
+		<div class="info-bar-search">
+<div id="site-search">
+</div>
+		</div><!-- // .info-bar-search -->
+		<div class="newscdn-identity-component-login"></div>
+		<div class="newscdn-identity-component-ninbar"></div>
+		<div class="social-activity-centre"></div>
+			<div class="info-bar-weather">
+			<div class="slimline-weather">
+				<p>
+					<span class="assistive">Weather: </span>
+					<a href="http://weather.dailytelegraph.com.au/" class="slimline-weather-link">
+						<span class="slimline-weather-icon possible-shower"></span>
+						Sydney 15<abbr title="Degrees Celsius">&deg;C</abbr>
+						-
+						23<abbr title="Degree Celsius">&deg;C</abbr>
+					</a>.
+					 Shower or two.
+				</p>
+			</div> <!-- // .info-bar-weather -->
+		</div>
+
+</div><!-- // #info-bar -->
+    <div id="content">
+		<div id="section-header">
+			<div id="section-header-logo">
+						<h2>News</h2>
+			</div><!-- // #section-header-logo -->
+		</div><!-- // #section-header -->
+			<div id="content-1">
+				<div class="group advertisement full   text-g-nn-web-group-ad-billboard item-count-1">
+					<div class="group-content">
+						<div class="item ipos-1 irpos-1">
+		<div class="ad ad-billboard " id="ad-billboard" >
+                        <div class="ad-block ad-billboard" id="ad-billboard"></div>
+		</div><!-- // .ad .ad-billboard -->
+						 </div>
+				       </div>
+				  </div>
+			</div>
+		<div id="story">
+				
+<!-- [Group:1226490375031] on [fwprodcontent01.ni.news.com.au] @ [January 16, 2016 2:22AM] -->
+<div class="group   text-g-nn-web-group-ad-ticker item-count-1  group-id-1226490375031">
+<!-- TTL:10m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-other mpos-1 mrpos-1" id="ad-other" >
+                        <div class="ad-block ad-custom" id="ad-custom-1" data-ad-width="650" data-ad-height="40"></div>
+		</div><!-- // .ad .ad-other -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+							
+		<!-- PC related summary IDs: 1226242005577 -->
+	<!--detail template::>title Uni campaign raises toilet accuracy -->
+	<div class="story-header">
+		<div class="story-section">
+			<h2 class="heading">
+				<a href="/" >Network News</a>
+			</h2>
+		</div>
+		<div class="story-headline">
+			<h1 class="heading">
+				<!-- google_ad_section_start(name=story_headline, weight=high) -->
+						Macquarie University teaching migrant students how to use a toilet correctly
+				<!-- google_ad_section_end(name=story_headline) -->
+			</h1>
+		</div><!-- // .story-headline -->
+		<div class="story-info">
+			<ul>
+						<li class="byline first ">
+							<span class="source-prefix">by:</span>
+									<cite class="author  author-gemma-jones-political-reporter ">Gemma Jones Political Reporter</cite>
+						</li>
+						<li class="source  ">
+							<span class="source-prefix">From:</span>
+							<cite>
+	        The Daily Telegraph
+							</cite>
+						</li>
+					<li class="date-and-time  " title="2012-01-12T00:00:00+11:00">
+								<span class="datestamp">January 12, 2012</span>
+								<span class="timestamp">12:00AM</span>
+						</li>
+			</ul>
+		</div><!-- // .story-info -->
+		<div class="story-comments-link"></div>
+			<div class="story-header-tools">
+				<ul class="story-tools">
+					<li class="button-font-inc" title="Increase Text Size"><a href="/help/textsize/" class="js-font-inc">Increase Text Size</a></li>
+					<li class="button-font-dec" title="Decrease Text Size"><a href="/help/textsize/" class="js-font-dec">Decrease Text Size</a></li>
+					<li class="button-print" title="Print Article"><a href="/help/print/" class="js-print">Print</a></li>
+					<li class="button-email" title="Email Article">
+	<a href="mailto:?subject=Uni%20campaign%20raises%20toilet%20accuracy(DailyTelegraph)&body=DailyTelegraph%0A%0AUni%20campaign%20raises%20toilet%20accuracy%0A%0AFrom:DailyTelegraph%0AThu%20Jan%2012%2000%3A00%3A00%20EST%202012%0AA%20UNIVERSITY%20is%20teaching%20migrant%20students%20how%20to%20use%20a%20toilet%20correctly%20after%20complaints%20from%20cleaners%20that%20they%20were%20leaving%20them%20in%20an%20unhygienic%20state%2E%0AAlternatively, you can copy and paste this link into your browser:%0Ahttp%3A%2F%2Fwww%2Edailytelegraph%2Ecom%2Eau%2Fmacquarie%2Duniversity%2Dteaching%2Dmigrant%2Dstudents%2Dhow%2Dto%2Duse%2Da%2Dtoilet%2Dcorrectly%2Fstory%2De6freuy9%2D1226242005577">Email</a>
+					</li>
+					<li class="button-share js-popmenu-parent" title="Share Article">
+			      		<a href="/help/share" class="button-share-link">Share</a>
+	<ul class="share-links">
+		<li class="share-digg lipos-1 lirpos-7"><a target="_blank" href="http://digg.com/submit?phase=2&amp;url=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775&amp;title=Uni+campaign+raises+toilet+accuracy">Add to Digg</a></li>
+		<li class="share-delicious lipos-2 lirpos-6"><a target="_blank" href="http://del.icio.us/post?url=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775&amp;title=Uni+campaign+raises+toilet+accuracy">Add to del.icio.us</a></li>
+		<li class="share-facebook lipos-3 lirpos-5"><a target="_blank" href="http://www.facebook.com/share.php?u=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775">Add to Facebook</a></li>
+		<li class="share-kwoff lipos-4 lirpos-4"><a target="_blank" href="http://www.kwoff.com/submit.php?url=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775">Add to Kwoff</a></li>
+		<li class="share-myspace lipos-5 lirpos-3"><a target="_blank" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Uni+campaign+raises+toilet+accuracy&amp;c=A+UNIVERSITY+is+teaching+migrant+students+how+to+use+a+toilet+correctly+after+complaints+from+cleaners+they+were+leaving+them+in+an+unhygienic+state.+&amp;u=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775">Add to Myspace</a></li>
+		<li class="share-newsvine lipos-6 lirpos-2"><a target="_blank" href="http://www.newsvine.com/_wine/save?popoff=0&amp;u=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775&amp;h=Uni+campaign+raises+toilet+accuracy">Add to Newsvine</a></li>
+		<li class="share-help lipos-7 lirpos-1"><a target="_blank" href="/help/share/">What are these?</a></li>
+	</ul>
+					</li>
+				</ul>
+			</div> <!-- // .story-header-tools -->
+	</div><!-- .story-header -->
+        <div class="ad-block ad-adsense-medium-intl" id="ad-adsense-medium-intl-1"></div>
+	<div class="story-body  lead-media-small">
+	<div class="article-media article-media-small media-count-1 first-image-316w421h">
+		<div class="">
+								<div class="image  image-fader js-fader">
+										<div class="fader-item js-fader-item image-316w421h">
+											<div class="image-frame">
+												<img src="http://resources3.news.com.au/images/2012/01/11/1226241/991295-toilet-instructions.jpg" alt="toilet instructions"  width="316"  height="421"  />
+											</div> <!-- // .image-frame -->
+												<p class="caption">
+														<span class="caption-text">Toilets at Macqurarie University with signs teaching people how to use them. Picture: Kristi  Miller </span>
+														<span class="image-source"><em>Source:</em> The Daily Telegraph</span>
+												</p> <!-- // .caption -->
+										</div> <!-- // .js-fader-item -->
+										<div class="fader-item js-fader-item image-316w421h">
+											<div class="image-frame">
+												<img src="http://resources2.news.com.au/images/2012/01/11/1226242/005542-toilet-instructions.jpg" alt="toilet instructions"  width="316"  height="421"  />
+											</div> <!-- // .image-frame -->
+												<p class="caption">
+														<span class="caption-text">Toilets at Macqurarie University with signs teaching people how to use them. Picture: Kristi  Miller </span>
+														<span class="image-source"><em>Source:</em> The Daily Telegraph</span>
+												</p> <!-- // .caption -->
+										</div> <!-- // .js-fader-item -->
+							        <div class="controls fader-controls js-fader-controls">
+							            <p class="fader-prev-button js-fader-prev"><a href="#">&lt; Prev</a></p>
+							            <p class="fader-counter-container"><span class="fader-counter js-fader-counter"></span>&nbsp;of&nbsp;2</p>
+							            <p class="fader-next-button js-fader-next"><a href="#">Next &gt;</a></p>
+							        </div><!-- // .controls .js-fader-controls -->
+								</div>
+		</div> <!-- // .tabs .js-tabbed -->
+	</div> <!-- // .article-media -->
+			<div class="story-intro">
+				<p><strong>
+				<!-- google_ad_section_start(name=story_introduction, weight=high) -->
+				A UNIVERSITY is teaching migrant students how to use a toilet correctly after complaints from cleaners that they were leaving them in an unhygienic state.
+				<!-- google_ad_section_end(name=story_introduction) -->
+				</strong></p>
+			</div><!-- // .story-intro -->
+		<!-- google_ad_section_start(name=story_body, weight=high) -->
+		<p>The toilet lessons, given on a poster on the backs of cubicle doors at <a href="http://mq.edu.au/" target="_blank">Macquarie University</a>, come after opposition citizenship spokeswoman Teresa Gambaro said migrants should be taught to use deodorant and wait in line.</p>  <p>Posters put up by the university show a person standing on the toilet seat and squatting over the bowl with a line through it. Another crossed-out image shows a person squatting on the floor.</p> <p>Students are taught how to use sanitary bins, how to flush the toilet and wash their hands in other parts of the diagram under the heading: Protecting each other, use of female toilets.</p> <p>A person sitting on the toilet seat is marked with a tick.</p>
+		
+		  
+	 <p>The signs were installed 15 months ago after complaints from a company contracted to clean campus toilets.</p> <p>&quot;We received a complaint from our cleaning contractors about the state of some toilets, they believed that some students may have been squatting above the toilet rather than using them in a conventional western fashion, they were concerned about the cleanliness.&quot; a Macquarie University spokesman said.</p> <p>&quot;They thought it was a health concern and they raised it with the management of the university. We put those posters around the campus in collaboration with the international students group and got advice on what information should be contained.&quot;</p> <p>He said the problems had stopped since the signs went up.</p> <p>Ms Gambaro was forced into an embarrassing apology this week after she suggested migrants on work visas should be taught about hygiene.</p> <p>The comments caused outrage and Ms Gambaro apologised.</p>  <p>She later said her comments calling for migrants to have lessons covering the use of deodorant and how to wait in line were not Coalition policy.</p> <p>&quot;Without trying to be offensive, we are talking about hygiene and what is an acceptable norm in this country when you are working closely with other co-workers,&quot; she said.</p> <p>&nbsp;</p> <p>&nbsp;</p>
+	<!-- google_ad_section_end(name=story_body) -->
+	</div><!-- // .story-body -->
+	<div class="story-comments-link"></div>
+	<div class="story-footer">
+	    <div class="story-footer-tools">
+	        <ul class="story-tools">
+	            <li class="button-font-inc" title="Increase Text Size"><a href="/help/textsize/" class="js-font-inc">Increase Text Size</a></li>
+	            <li class="button-font-dec" title="Decrease Text Size"><a href="/help/textsize/" class="js-font-dec">Decrease Text Size</a></li>
+	            <li class="button-print" title="Print Article"><a href="/help/print/" class="js-print">Print</a></li>
+	            <li class="button-email" title="Email Article">
+	<a href="mailto:?subject=Uni%20campaign%20raises%20toilet%20accuracy(DailyTelegraph)&body=DailyTelegraph%0A%0AUni%20campaign%20raises%20toilet%20accuracy%0A%0AFrom:DailyTelegraph%0AThu%20Jan%2012%2000%3A00%3A00%20EST%202012%0AA%20UNIVERSITY%20is%20teaching%20migrant%20students%20how%20to%20use%20a%20toilet%20correctly%20after%20complaints%20from%20cleaners%20that%20they%20were%20leaving%20them%20in%20an%20unhygienic%20state%2E%0AAlternatively, you can copy and paste this link into your browser:%0Ahttp%3A%2F%2Fwww%2Edailytelegraph%2Ecom%2Eau%2Fmacquarie%2Duniversity%2Dteaching%2Dmigrant%2Dstudents%2Dhow%2Dto%2Duse%2Da%2Dtoilet%2Dcorrectly%2Fstory%2De6freuy9%2D1226242005577">Email</a>
+				</li>
+				<li class="button-share js-popmenu-parent" title="Share Article">
+		      		<a href="/help/share" class="button-share-link">Share</a>
+	<ul class="share-links">
+		<li class="share-digg lipos-1 lirpos-7"><a target="_blank" href="http://digg.com/submit?phase=2&amp;url=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775&amp;title=Uni+campaign+raises+toilet+accuracy">Add to Digg</a></li>
+		<li class="share-delicious lipos-2 lirpos-6"><a target="_blank" href="http://del.icio.us/post?url=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775&amp;title=Uni+campaign+raises+toilet+accuracy">Add to del.icio.us</a></li>
+		<li class="share-facebook lipos-3 lirpos-5"><a target="_blank" href="http://www.facebook.com/share.php?u=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775">Add to Facebook</a></li>
+		<li class="share-kwoff lipos-4 lirpos-4"><a target="_blank" href="http://www.kwoff.com/submit.php?url=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775">Add to Kwoff</a></li>
+		<li class="share-myspace lipos-5 lirpos-3"><a target="_blank" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Uni+campaign+raises+toilet+accuracy&amp;c=A+UNIVERSITY+is+teaching+migrant+students+how+to+use+a+toilet+correctly+after+complaints+from+cleaners+they+were+leaving+them+in+an+unhygienic+state.+&amp;u=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775">Add to Myspace</a></li>
+		<li class="share-newsvine lipos-6 lirpos-2"><a target="_blank" href="http://www.newsvine.com/_wine/save?popoff=0&amp;u=http://www.dailytelegraph.com.au/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/story-e6freuy9-1226242005577?sv=6fec5b3f00f2d45433ec941523711775&amp;h=Uni+campaign+raises+toilet+accuracy">Add to Newsvine</a></li>
+		<li class="share-help lipos-7 lirpos-1"><a target="_blank" href="/help/share/">What are these?</a></li>
+	</ul>
+				</li>
+	        </ul>
+	    </div><!-- // .story-footer-tools -->
+	    <div class="story-footer-more">
+	        <p class="story-footer-top-link"><a href="#page">Back to top of page</a></p>
+	    </div><!-- // .story-footer-more -->
+	</div><!-- // .story-footer -->
+        <div class="ad-container   group gpos-1 grpos-1 item-count-0">
+				
+<!-- [Group:1226490376767] on [fwprodcontent03.ni.news.com.au] @ [January 16, 2016 2:28AM] -->
+<div class="group ad-container   text-g-nn-web-group-ad-google-300 item-count-1  group-id-1226490376767">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-adsensemedium mpos-1 mrpos-1" id="ad-adsensemedium" >
+                        <div class="ad-block ad-adsense-medium" id="ad-adsense-medium-1"></div>
+		</div><!-- // .ad .ad-adsensemedium -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+        </div><!-- // .group gpos-1 grpos-2 -->
+	<div id="comments">
+		<div class="group item-count-2 comments-group">
+			<div class="group-header">
+				<h2 class="heading">Have your say</h2>
+				<dl class="assistive">
+					<dt>Skip to:</dt>
+					<dd><a href="#comments-list">Read comments</a></dd>
+					<dd><a href="#comments-form">Add comments</a></dd>
+				</dl>
+			</div>
+			<!-- // .group-header -->
+			<div class="group-content">
+					<div class="item ipos-1 irpos-2">
+						<div class="module comment-form-module" id="module-comment-add">
+						</div><!-- // .module module-comment-add -->
+					</div><!-- // .item .ipos-2 .irpos-1 -->
+					<div class="item ipos-2 irpos-1">
+						<div class="module comment-list-module">
+									<div class="module-header">
+		        <h3 class="heading">Comments on this story</h3>
+		    </div><!-- // .module-header -->
+		    <div class="module-content">
+		    	<!-- START comments list -->
+				<div class="comments-list">
+			    	<ul class="comment-list">
+					         	<li>
+				                    <div class="comment-block">
+					                    <cite class="comment-info"><strong class="comment-name">Mel of Sydney </strong> <em class="comment-time">Posted at 7:17 AM January 12, 2012</em></cite>
+			                          	<blockquote class="comment-body">
+						                	<p>I go to macquarie university and the state of the toilets is terrible! My friend and I would wait until lunch to walk to nearby macquarie shopping centre to use their toilet facilities!  Makes you wonder how people live at their own home!</p>
+						                </blockquote>
+						            </div><!-- // .comment-block -->
+						         </li>
+					         	<li>
+				                    <div class="comment-block">
+					                    <cite class="comment-info"><strong class="comment-name">Scruffy of Canberra </strong> <em class="comment-time">Posted at 7:12 AM January 12, 2012</em></cite>
+			                          	<blockquote class="comment-body">
+						                	<p>And sadly the ethnic x-ray technician at our local clinic has  never been observed to wash her hands after using the toilet.</p>
+						                </blockquote>
+						            </div><!-- // .comment-block -->
+						         </li>
+					         	<li>
+				                    <div class="comment-block">
+					                    <cite class="comment-info"><strong class="comment-name">Jeremy  </strong> <em class="comment-time">Posted at 7:01 AM January 12, 2012</em></cite>
+			                          	<blockquote class="comment-body">
+						                	<p>We have the same problem at our university and similar signs to these were put up everywhere.  Besides causing a mess, one student was in the process of suing the university because they had hurt themselves when a toilet seat had broken (as they were squatting on the actual toilet seat to do their business).</p>
+						                </blockquote>
+						            </div><!-- // .comment-block -->
+						         </li>
+					</ul><!-- // .comment-list -->
+				</div><!-- // #comments-list -->
+				<!-- END comments list -->
+			</div><!--- // .module-content -->
+			<script type="text/javascript">
+			//<![CDATA[
+			ndm.page.commentcount = "22";
+			//]]>
+			</script>
+	<!-- init comments model -->
+	<input type="hidden" id="token_id" name="token" value="Caz9a94IhpdgRJuhLKmkakT2GiEGJZ29" />
+	<input type="hidden" id="user_name" name="user_name" value="m34DZWuIrVA=" />
+	<input type="hidden" id="user_email" name="user_email" value="WB8+7B0I8sE=" />
+	<input type="hidden" id="user_location" name="user_location" value="XxKxVrD0wU8=" />
+	<input type="hidden" id="comment_body" name="comment_body" value="Nh1Jsd6X6OA=" />
+
+							<script type="text/javascript">
+							//<![CDATA[
+							ndm.page.commenturl = "/macquarie-university-teaching-migrant-students-how-to-use-a-toilet-correctly/comments-e6freuy9-1226242005577";
+							//]]>
+							</script>
+									<div class="module-footer"></div>
+						</div><!-- // .module .comment-list-module -->
+					</div><!-- // .item .ipos-1 .irpos-2 -->
+			</div><!-- // .group-content -->
+		</div><!-- // .group .comments-group -->
+	</div><!-- // #comments -->
+	<div class="story-extras story-extras-2">
+			<div class="outbrain-group   group gpos-1 grpos-2 item-count-1">
+				
+<!-- [Group:1226697087750] on [fwprodcontent02.ni.news.com.au] @ [January 16, 2016 2:29AM] -->
+<div class="group outbrain-group   text-g-nn-web-group-outbrain-mega-widget item-count-1  group-id-1226697087750">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+		<div id="outbrain-widget">
+    <div class="OUTBRAIN" data-widget-id="AR_1"></div><div class="OUTBRAIN" data-widget-id="AR_2"></div><div class="OUTBRAIN" data-widget-id="AR_3"></div>
+</div>
+<style type="text/css">
+.story-extras .group.outbrain-group,
+.story-extras .group.outbrain-group .item,
+.story-extras .group.outbrain-group #outbrain-widget{
+width:650px; display:block;
+}
+</style>
+<script type="text/javascript">
+    (function ($, siteCode) {
+        var metaog = $('meta[property="og:url"]').attr('content'),
+        $outbrain = $('#outbrain-widget .OUTBRAIN'),
+        siteName;
+        switch(siteCode){
+case "HWT":
+siteName = "Herald_Sun";
+break;
+case "DTM":
+siteName = "Daily_Telegraph";
+break;
+case "TCM":
+siteName = "Courier_Mail";
+break;
+case "ADV":
+siteName = "Adelaide_Now";
+break;
+case "TST":
+siteName = "Perth_Now";
+break;
+        default:
+siteName = "Herald_Sun";
+        }
+        $outbrain.data({"src" : metaog, "ob-template": siteName});
+    }(jQuery, ndm.page.site));
+</script>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			</div><!-- // .group gpos-1 grpos-2 -->
+			<div class="story-dash   group gpos-2 grpos-1 item-count-2">
+				
+<!-- [Group:1226580353853] on [fwprodcontent05.ni.news.com.au] @ [January 16, 2016 2:05AM] -->
+<div class="group story-dash   text-g-news item-count-2  group-id-1226580353853">
+<!-- TTL:30m -->
+		<div class="group-header">
+					<h2 class="heading">News</h2>
+		</div><!-- // .group-header -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-2">
+		<div class="module default   sectionref-breaking-news     collection mpos-1 mrpos-1 text-m-nn-web-pmnt-storydash-breaking id1226580097783" id="id1226580097783">
+		<!-- SectionId:News_Parent,1226490816249|CollectionId:|ContentCount:0|StartIndex:0|LinkCount:5  -->
+			<div class="module-content ">
+			<!-- PC related IDs: 1227710901931 -->
+			<!-- PC related IDs: 1227711014638 -->
+			<!-- PC related IDs: 1227710985806 -->
+			<!-- PC related IDs: 1227710993193 -->
+			<!-- PC related IDs: 1227710993179 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/news/breaking-news/unicef-confirms-malnutrition-in-madaya/story-fni0xqlk-1227710901931" > Aid on way to starving Syrian town </a></li>
+								<li class="story     lipos-2   "><a href="/news/breaking-news/cologne-hasnt-changed-german-migrant-view/story-fni0xqlk-1227711014638" > Cologne hasn't changed German migrant view </a></li>
+								<li class="story     lipos-3   "><a href="/news/breaking-news/six-seriously-ill-after-french-drug-trial/story-fni0xqlk-1227710985806" > Six seriously ill after French drug trial </a></li>
+								<li class="story     lipos-4   "><a href="/news/breaking-news/quarter-of-uk-adults-with-mental-illness/story-fni0xqlk-1227710993193" > Quarter of UK adults with mental illness </a></li>
+								<li class="story    last lipos-5   "><a href="/business/breaking-news/bt-to-buy-german-french-mobile-venture/story-fni0xqe3-1227710993179" > BT to buy German-French mobile venture </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-2 -->
+			<div class="item ipos-2 irpos-1">
+    <div class="module navigation-module sectionref-news   id1226592114766 text-m-news">
+	        <div class="module-header">
+	        	<h3 class="heading">
+	        		<a href="/news" >News</a>
+	        	</h3>
+	        </div><!-- // .module-header -->
+        <div class="module-content">
+		<ul class=" tier-1">
+			<li class="first">
+									<a  href="/news/breaking-news">Breaking News</a>
+			</li>
+			<li>
+									<a  href="/news/national">National</a>
+			</li>
+			<li class="sectionref-world">
+									<a  href="/news/world">World</a>
+			</li>
+			<li>
+									<a  href="/news/weird">Weird</a>
+			</li>
+			<li>
+									<a  href="/technology">Technology</a>
+			</li>
+			<li>
+									<a  href="/news/opinion">Opinion</a>
+			</li>
+			<li class="last">
+									<a  href="/news/photos">Photos</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+        </div><!-- // .module-content -->
+    </div><!-- // .module.navigation-module -->
+			</div><!-- // .item ipos-2 irpos-1 -->
+		</div><!-- // .group-content.item-count-2 -->
+</div><!-- // .group -->
+
+			</div><!-- // .group gpos-2 grpos-1 -->
+	</div><!-- // .story-extras-2 -->
+	
+			<div class="story-promo story-promo-bottom">
+			</div>
+	  
+								
+        </div><!-- // #story -->
+			<div id="content-3">
+		<div class="ad ad-other " id="ad-other" >
+                        <div class="ad-block ad-custom" id="ad-custom-1" data-ad-width="315" data-ad-height="90"></div>
+		</div><!-- // .ad .ad-other -->
+				
+<!-- [Group:1226490379337] on [fwprodcontent03.ni.news.com.au] @ [January 16, 2016 2:03AM] -->
+<div class="group   text-g-nn-web-group-ad-halfpage item-count-1  group-id-1226490379337">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-halfpage mpos-1 mrpos-1" id="ad-halfpage" >
+		</div><!-- // .ad .ad-halfpage -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226613051171] on [fwprodcontent02.ni.news.com.au] @ [January 16, 2016 2:21AM] -->
+<div class="group   text-g-dt-nn-web-group-rhc-story-news item-count-1  group-id-1226613051171">
+<!-- TTL:10m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+			<div class="esi_fragment">
+			        <div class="most-read sectionref-news"><div class="module-header"><h3 class="heading">Most Viewed</h3></div> <div class="module "><div class="module-content"><ol class="news-headline-numbered"><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/26811821345c29d85efa3e1c0516819f">‘Strippers, coke and wads of cash’ at ANZ</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/346b89afbaf19957220ba7e2dbcbcb5a">Trinity Grammar reels over sex claims</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/a14bf081f4f38eae182fa09bda7f17a7">The heat is on the Habibs!</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/5865705f77b3da2ea089cbb02101c204">PM warned of Mardi Gras ‘danger’</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/f52832aecefb0c9ca98da1944418308b">Do you know who owns these 1960s family photos?</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/bf283d1babd66d1880802175f612492f">Airfares to holiday hotspot drop 40%</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/fb463b3cc1bd604f4669f7838d02aaaa">Porn helped me understand sex can be healthy</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/333b7c476a92f03572a867f323518a15">’I cut my ice-addict son out of my life'</a></li></ol></div></div>
+<img src="http://pixel.tcog.cp1.news.com.au/track/news/content/v1/?category=/section/dailytelegraph.com.au/collection/popular-content/all/24hours/&format=module&t_product=DailyTelegraph&maxRelated=8&t_template=popular-headline&origin=omniture&domain=dailytelegraph.com.au" style='opacity:0; height:0px; width:0px; position:absolute;' width='0' height='0' />
+</div>
+			</div>
+		<div class="module default   sectionref-nsw-news-and-photos   first-image-100w75h  collection mpos-2 mrpos-1 text-m-news id1226640992625" id="id1226640992625">
+		<!-- SectionId:News_Parent,1226487038730|CollectionId:AdvCols,1225700613674|ContentCount:5|StartIndex:0|LinkCount:0  -->
+			<div class="module-header">
+								<h3 class="heading "><a href="/news">News</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block   has-video sectionref-news sbpos-1 sbrpos-5 id1227709815897">
+			<!-- PC related summary IDs: 1227709815897 -->
+			<!-- PC related summary IDs: 1227709815897 -->
+	<!-- PC related summary IDs: 1227709815897 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897" >Sydney&#8217;s rollercoaster weather set to continue</a>
+		</h4>
+					<a href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/15/1227710/529307-3ca051aa-bb3e-11e5-9734-964735e5a545.jpg" alt="Weather"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				IF YOU were hoping for a bit more consistency in Sydney&#8217;s weather next week, you&#8217;re not going to be very happy.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-hwMDA3MDE6Fv1HkZpx8I9dAwCNat9htX/Sydney-continues-to-be-battered-with-torrential-weather" >
+						 					Sydney continues to be battered with torrential weather
+						 		</a>
+						        	<span class="time">0:30</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709815897"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227709815897 -->
+			</div> <!-- // .story-block   pos-1 rpos-5 id1227709815897 -->
+			<div class="story-block   has-video sectionref-news sbpos-2 sbrpos-4 id1227709420953">
+			<!-- PC related summary IDs: 1227709420953 -->
+			<!-- PC related summary IDs: 1227709420953 -->
+	<!-- PC related summary IDs: 1227709420953 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953" >&#8217;I cut my ice-addict son out of my life' </a>
+		</h4>
+					<a href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/346098-4deed588-b9ab-11e5-87b8-65c989f6ec4a.jpg" alt="Ice Forum"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				HE was an ordinary, charming guy but ice turned Tracey Filicietti&#8217;s son into a monster. He threatened to kill his two young sisters and turned his pregnant girlfriend into a prostitute.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-4xMnc2dzoOAPEMEc5Piwv9jDsDMu0qos/ICE-NATION---A-Fresh-Start" >
+						 					ICE NATION - A Fresh Start
+						 		</a>
+						        	<span class="time">2:11</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709420953"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227709420953 -->
+			</div> <!-- // .story-block   pos-2 rpos-4 id1227709420953 -->
+			<div class="story-block    sectionref-newslocal sbpos-3 sbrpos-3 id1227709249146">
+			<!-- PC related summary IDs: 1227709249146 -->
+			<!-- PC related summary IDs: 1227709249146 -->
+	<!-- PC related summary IDs: 1227709249146 -->
+		<h4 class="heading">
+			      <a href="/newslocal/northern-beaches/car-crash-victim-lachie-burleighs-beloved-van-taken-by-thieves-and-dumped-in-bush/story-fngr8hax-1227709249146" >Beloved van of crash boy stolen and trashed</a>
+		</h4>
+					<a href="/newslocal/northern-beaches/car-crash-victim-lachie-burleighs-beloved-van-taken-by-thieves-and-dumped-in-bush/story-fngr8hax-1227709249146" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/15/1227710/022957-4d8d821c-ba85-11e5-87b8-65c989f6ec4a.jpg" alt="Deb and Mike Burleigh devastated after son's van stolen"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				<b>EXCLUSIVE:</b> Heartless thieves stole and vandalised a van belonging to Lachlan Burleigh, one of the three northern beaches youngsters killed in a horror crash last August.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/newslocal/northern-beaches" >Nth Beaches</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227709249146 -->
+			</div> <!-- // .story-block   pos-3 rpos-3 id1227709249146 -->
+			<div class="story-block    sectionref-newslocal sbpos-4 sbrpos-2 id1227709890172">
+			<!-- PC related summary IDs: 1227709890172 -->
+			<!-- PC related summary IDs: 1227709890172 -->
+	<!-- PC related summary IDs: 1227709890172 -->
+		<h4 class="heading">
+			      <a href="/newslocal/north-shore/giant-goanna-catches-bunny-in-turramurra-mans-backyard/story-fngr8h9d-1227709890172" >Goanna caught bunny in my yard</a>
+		</h4>
+					<a href="/newslocal/north-shore/giant-goanna-catches-bunny-in-turramurra-mans-backyard/story-fngr8h9d-1227709890172" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/364342-938dd7b8-b8cc-11e5-87b8-65c989f6ec4a.jpg" alt="Goanna"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				A MAN was feeding his dog when a brazen 1.6m goanna climbed his back door with a bunny ensnared in its jaws. Malcolm Thom was quick to snap the unusual sight.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/newslocal/north-shore" >North Shore</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/newslocal/north-shore/giant-goanna-catches-bunny-in-turramurra-mans-backyard/story-fngr8h9d-1227709890172">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709890172"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227709890172 -->
+			</div> <!-- // .story-block   pos-4 rpos-2 id1227709890172 -->
+			<div class="story-block    sectionref-news sbpos-5 sbrpos-1 id1227710044163">
+			<!-- PC related summary IDs: 1227710044163 -->
+			<!-- PC related summary IDs: 1227710044163 -->
+	<!-- PC related summary IDs: 1227710044163 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/massive-fish-kill-lethal-legacy-of-floods/story-fni0cx12-1227710044163" >Phenomenon killing hundreds of thousands of fish </a>
+		</h4>
+					<a href="/news/nsw/massive-fish-kill-lethal-legacy-of-floods/story-fni0cx12-1227710044163" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/044026-677ae5da-b9a3-11e5-943b-7d49c87383bc.jpg" alt="Phenomenon killing hundreds of thousands of fish "  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				LAST week&#8217;s torrential rain and floods have resulted in another painful chapter for the Hunter Region&#8217;s waterways, with hundreds of thousands of fish dead or dying due to lack of oxygen.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227710044163 -->
+			</div> <!-- // .story-block   pos-5 rpos-1 id1227710044163 -->
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226697091619] on [fwprodcontent10.ni.news.com.au] @ [January 16, 2016 2:27AM] -->
+<div class="group outbrain-group   text-g-nn-web-group-outbrain-side-widget item-count-1  group-id-1226697091619">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+		<div class="OUTBRAIN" data-widget-id="SB_1" ></div>
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226720385671] on [fwprodcontent10.ni.news.com.au] @ [January 16, 2016 2:03AM] -->
+<div class="group   text-g-dt-web-group-news-affiliate item-count-1  group-id-1226720385671">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+		<div style="overflow:hidden;width:300px;height:263px;">
+	<iframe src="http://widgets.mozo.com.au/dailytelegraph/dt-news" width="300" height="250" scrolling="no" frameborder="0"></iframe>
+	<a href="http://mozo.com.au/home-loans" target="_blank"><img src="http://news-assets.mozo.com.au/images/mozo-powered-mini.gif" style="border:0;float:right;" width="82" height="13" alt="Mozo home loan, savings and credit card comparisons"/></a>
+</div>
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226613005936] on [fwprodcontent01.ni.news.com.au] @ [January 16, 2016 2:22AM] -->
+<div class="group   text-g-dt-nn-web-group-rhc-bestaround item-count-1  group-id-1226613005936">
+<!-- TTL:10m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="module default   sectionref-best-from-around subheading sectionref-news   first-image-100w75h  collection mpos-1 mrpos-1 text-m-from-around-the-site id1226639105981" id="id1226639105981">
+		<!-- SectionId:News_Parent,1226620525478|CollectionId:AdvCols,1226615691802|ContentCount:5|StartIndex:0|LinkCount:0  -->
+			<div class="module-header">
+								<h3 class="heading ">From around the site</h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-entertainment sbpos-1 sbrpos-5 id1227710806472">
+			<!-- PC related summary IDs: 1227710806472 -->
+			<!-- PC related summary IDs: 1227710806472 -->
+	<!-- PC related summary IDs: 1227710806472 -->
+		<h4 class="heading">
+			      <a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472" >Plateful Eight stars&#8217; day out in Rose Bay</a>
+		</h4>
+					<a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/15/1227710/816087-9c715572-bb50-11e5-9734-964735e5a545.jpg" alt="Catalina's Restaurant"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+	<p class="standfirst">
+				THE Hateful Eight blokes are making the most of Australia, with Quentin Tarantino, Kurt Russell and Samuel L Jackson stopping by Eastern Suburbs celebrity haunt Catalina.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/sydney-confidential" >Confidential</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710806472"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227710806472 -->
+			</div> <!-- // .story-block   pos-1 rpos-5 id1227710806472 -->
+			<div class="story-block    sectionref-news sbpos-2 sbrpos-4 id1227710768850">
+			<!-- PC related summary IDs: 1227710768850 -->
+			<!-- PC related summary IDs: 1227710768850 -->
+	<!-- PC related summary IDs: 1227710768850 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/here-come-the-habibs-what-do-you-think-of-channel-9s-eagerly-awaited-new-comedy-show/story-fni0cx12-1227710768850" >The heat is on the Habibs!</a>
+		</h4>
+					<a href="/news/nsw/here-come-the-habibs-what-do-you-think-of-channel-9s-eagerly-awaited-new-comedy-show/story-fni0cx12-1227710768850" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/15/1227710/991525-7a526374-b5dc-11e5-ad0e-adbed2d923e4.jpg" alt="Lebanese Family for New TV Show"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+	<p class="standfirst">
+				<b>WHAT DO YOU THINK? </b>CHANNEL 9&#8217;s eagerly awaited new show Here Come The Habibs has some people so enraged they want it axed before it airs.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/news/nsw/here-come-the-habibs-what-do-you-think-of-channel-9s-eagerly-awaited-new-comedy-show/story-fni0cx12-1227710768850">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710768850"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227710768850 -->
+			</div> <!-- // .story-block   pos-2 rpos-4 id1227710768850 -->
+			<div class="story-block   has-video sectionref-newslocal sbpos-3 sbrpos-3 id1227709132791">
+			<!-- PC related summary IDs: 1227709132791 -->
+			<!-- PC related summary IDs: 1227709132791 -->
+	<!-- PC related summary IDs: 1227709132791 -->
+		<h4 class="heading">
+			      <a href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791" >The REAL five reasons you&#8217;re still single</a>
+		</h4>
+					<a href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/15/1227710/370659-61909cf6-b835-11e5-8575-c69eabd2bceb.jpg" alt="Dating class for Single in Sydney"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+	<p class="standfirst">
+				SARAH meets a dating guru, who offers an insight into why she believes she - as well as Sydney&#8217;s other single woman - remain unattached.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/newslocal/northern-beaches" >Nth Beaches</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-x3dDU2MDE6JjS7k8ZFApAj7yga4ODcKV/Five-reasons-youre-still-single-by-relationship-coach-Sarah-Davis" >
+						 					Five reasons youre still single, by relationship coach Sarah Dav
+						 		</a>
+						        	<span class="time">3:05</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709132791"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227709132791 -->
+			</div> <!-- // .story-block   pos-3 rpos-3 id1227709132791 -->
+			<div class="story-block   has-video sectionref-newslocal sbpos-4 sbrpos-2 id1227710055646">
+			<!-- PC related summary IDs: 1227710055646 -->
+			<!-- PC related summary IDs: 1227710055646 -->
+	<!-- PC related summary IDs: 1227710055646 -->
+		<h4 class="heading">
+			      <a href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646" >&#8216;I literally think about it all the time I&#8217;m here&#8217;</a>
+		</h4>
+					<a href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/319750-7fd9f22a-bb28-11e5-a667-43db78ec5532.jpg" alt="‘I literally think about it all the time I’m here’"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+	<p class="standfirst">
+				HOLLYWOOD hero Quentin Tarantino thrilled fans at a sold out Q&amp;A session hosted by Cremorne&#8217;s Orpheum cinema and revealed a secret obsession that grips him every time he visits Australia.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/newslocal/north-shore" >North Shore</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-ZjYnE1MDE6uR0fnqFnUdEHDzGxM9r4xA/The-Hateful-Eight-sees-Tarantino-in-Sydney" >
+						 					The Hateful Eight sees Tarantino in Sydney
+						 		</a>
+						        	<span class="time">1:59</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710055646"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227710055646 -->
+			</div> <!-- // .story-block   pos-4 rpos-2 id1227710055646 -->
+			<div class="story-block   has-video sectionref-entertainment sbpos-5 sbrpos-1 id1227709681757">
+			<!-- PC related summary IDs: 1227709681757 -->
+			<!-- PC related summary IDs: 1227709681757 -->
+	<!-- PC related summary IDs: 1227709681757 -->
+		<h4 class="heading">
+			      <a href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757" >Five most glaring Oscar nomination snubs</a>
+		</h4>
+					<a href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/082050-99244f90-baf2-11e5-997c-b9b199a184a0.jpg" alt="Five most glaring Oscar nomination snubs"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+	<p class="standfirst">
+				AS USUAL, it&#8217;s the names that weren&#8217;t called out that have tongues wagging. Here are the five most glaring Oscar snubs of the year.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment" class="interactive" >Oscars</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-VlOHU2MDE6hkd3N8mx0GOB9tmZ_vyhTV/Oscar-Nominations-Black-Actors-and-Directors-Shut-Out" >
+						 					Oscar Nominations Black Actors and Directors Shut Out
+						 		</a>
+						        	<span class="time">4:19</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227709681757"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227709681757 -->
+			</div> <!-- // .story-block   pos-5 rpos-1 id1227709681757 -->
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226490379154] on [fwprodcontent04.ni.news.com.au] @ [January 16, 2016 2:18AM] -->
+<div class="group   text-g-nn-web-group-ad-medrec-pos2 item-count-1  group-id-1226490379154">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-island mpos-1 mrpos-1" id="ad-island-2" >
+                        		<div class="ad-block ad-mrec" id="ad-mrec-2"></div>
+		</div><!-- // .ad .ad-island-2 -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226490375239] on [fwprodcontent07.ni.news.com.au] @ [January 16, 2016 2:14AM] -->
+<div class="group   text-g-sponsored-links item-count-1  group-id-1226490375239">
+<!-- TTL:30m -->
+		<div class="group-header">
+					<h2 class="heading">Sponsored Links</h2>
+		</div><!-- // .group-header -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-text mpos-1 mrpos-1">
+                    <div class="ad-block ad-vtext-link" id="ad-text-link-vertical-1" data-ad-num="2"></div>
+		</div><!-- // .ad .ad-text -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			</div><!-- // #content-3 -->
+			<div id="content-5">
+				
+<!-- [Group:1226582018303] on [fwprodcontent08.ni.news.com.au] @ [January 16, 2016 2:07AM] -->
+<div class="group section-dash   text-g-dt-nn-web-group-sectiondash item-count-3  group-id-1226582018303">
+<!-- TTL:30m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-3">
+		<div class="module default   sectionref-top-news sectionref-news   first-image-100w75h  collection mpos-1 mrpos-2 text-m-news id1226582018428" id="id1226582018428">
+		<!-- SectionId:News_Parent,1226487038570|CollectionId:AdvCols,1225709255894|ContentCount:1|StartIndex:0|LinkCount:2  -->
+			<div class="module-header">
+								<h3 class="heading "><a href="/news">News</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-news sbpos-1 sbrpos-1 id1227710922097">
+			<!-- PC related summary IDs: 1227710922097 -->
+			<!-- PC related summary IDs: 1227710922097 -->
+	<!-- PC related summary IDs: 1227710922097 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/malcolm-turnbull-told-its-dangerous-to-attend-mardi-gras/story-fni0cx12-1227710922097" >PM warned of Mardi Gras &#8216;danger&#8217;</a>
+		</h4>
+					<a href="/news/nsw/malcolm-turnbull-told-its-dangerous-to-attend-mardi-gras/story-fni0cx12-1227710922097" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/15/1227710/938556-5e0c4acc-bb6d-11e5-9f3a-2f7ada85c668.jpg" alt="PM warned of Mardi Gras ‘danger’"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				MALCOLM Turnbull has downplayed reports that he would become the first sitting PM to attend the iconic gay and lesbian Mardi Gras festival.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/news/nsw/malcolm-turnbull-told-its-dangerous-to-attend-mardi-gras/story-fni0cx12-1227710922097">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710922097"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227710922097 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227710922097 -->
+			<!-- PC related IDs: 1227710806472 -->
+			<!-- PC related IDs: 1227710899040 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472" > Plateful Eight stars&#8217; day out in Rose Bay </a></li>
+								<li class="story    last lipos-2  prm prm-story  "><a href="/news/nsw/shooters-and-fishers-mp-theres-a-target-on-my-back/story-fni0cx12-1227710899040" > Shooter MP: There&#8217;s a target on my back </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+		<div class="module default   sectionref-finance-syndicated sectionref-business   first-image-100w75h  collection mpos-2 mrpos-1 text-m-business id1226566914909" id="id1226566914909">
+		<!-- SectionId:News_Parent,1226544095474|CollectionId:|ContentCount:1|StartIndex:0|LinkCount:2  -->
+			<div class="module-header">
+								<h3 class="heading "><a href="/business">Business</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-business sbpos-1 sbrpos-1 id1227710756498">
+			<!-- PC related summary IDs: 1227710756498 -->
+			<!-- PC related summary IDs: 1227710756498 -->
+	<!-- PC related summary IDs: 1227710756498 -->
+		<h4 class="heading">
+			      <a href="/business/companies/bhp-billiton-writes-down-value-of-us-shale-oil-assets/story-fnkjk9kq-1227710756498" >Oil slump costs BHP, asset values slashed</a>
+		</h4>
+					<a href="/business/companies/bhp-billiton-writes-down-value-of-us-shale-oil-assets/story-fnkjk9kq-1227710756498" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/15/1227710/946369-2c600cb8-bb57-11e5-997c-b9b199a184a0.jpg" alt="Oil slump costs BHP, asset values slashed"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				MINING giant BHP Billiton will write down the value of its US shale assets by $10.3 billion amid collapsing oil and gas prices and a gloomy short term outlook.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/business/companies" >Mining</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/business/companies/bhp-billiton-writes-down-value-of-us-shale-oil-assets/story-fnkjk9kq-1227710756498">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227710756498"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227710756498 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227710756498 -->
+			<!-- PC related IDs: 1227710428731 -->
+			<!-- PC related IDs: 1227708756911 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/business/companies/melbourne-woman-cops-storm-of-abuse-over-infant-formula-offer/story-fnkjkokq-1227710428731" > &#8216;Making a little profit isn&#8217;t illegal&#8217; </a></li>
+								<li class="story    last lipos-2   "><a href="/business/record-powerball-winnings-split-three-ways/story-fni0d2cq-1227708756911" > Best boss bought nurse winning ticket <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-3 -->
+			<div class="item ipos-2 irpos-2">
+		<div class="module default   sectionref-sport-news-and-galleries sectionref-sport   first-image-100w75h  collection mpos-1 mrpos-2 text-m-sport id1226566938440" id="id1226566938440">
+		<!-- SectionId:News_Parent,1226487037076|CollectionId:AdvCols,1226526584572|ContentCount:1|StartIndex:0|LinkCount:2  -->
+			<div class="module-header">
+								<h3 class="heading "><a href="/sport">Sport</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-sport sbpos-1 sbrpos-1 id1227711040935">
+			<!-- PC related summary IDs: 1227711040935 -->
+			<!-- PC related summary IDs: 1227711040935 -->
+	<!-- PC related summary IDs: 1227711040935 -->
+		<h4 class="heading">
+			      <a href="/sport/basketball/kings-import-josh-childress-endures-a-difficult-return-to-wa-as-perth-wildcats-snap-three-game-skid/story-fni2fljn-1227711040935" >Childress&#8217;s nightmare return to WA</a>
+		</h4>
+					<a href="/sport/basketball/kings-import-josh-childress-endures-a-difficult-return-to-wa-as-perth-wildcats-snap-three-game-skid/story-fni2fljn-1227711040935" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/16/1227711/078776-a52e1ec2-bb85-11e5-9734-964735e5a545.jpg" alt="Childress’s nightmare return to WA"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				JOSH Childress was booed mercilessly in his first game back in WA since his infamous forearm on Jesse Wagstaff as the Wildcats snapped a three-game skid.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/sport/basketball" class="sport-tier-3" >Basketball</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/sport/basketball/kings-import-josh-childress-endures-a-difficult-return-to-wa-as-perth-wildcats-snap-three-game-skid/story-fni2fljn-1227711040935">
+						 <span class="livefyre-commentcount" data-lf-site-id="342833" data-lf-article-id="FW1227711040935"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227711040935 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227711040935 -->
+			<!-- PC related IDs: 1227710940064 -->
+			<!-- PC related IDs: 1227710766386 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/sport/football/melbourne-victory-smashes-brisbane-roar-in-a-league-clash-at-aami-park/story-fnk6pqot-1227710940064" > Victory smashes Roar to continue resurgence <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/sport/football/stefan-nigro-realises-his-dream-by-making-debut-for-club-he-supports-melbourne-victory/story-fnk6pqot-1227710766386" > Boyhood Victory fan realises his dream <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+		<div class="module default   sectionref-entertainment-syndicated sectionref-entertainment   first-image-100w75h  collection mpos-2 mrpos-1 text-m-entertainment id1226566947559" id="id1226566947559">
+		<!-- SectionId:News_Parent,1226494497264|CollectionId:AdvCols,1226494505800|ContentCount:1|StartIndex:0|LinkCount:2  -->
+			<div class="module-header">
+								<h3 class="heading "><a href="/entertainment">Entertainment</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-entertainment sbpos-1 sbrpos-1 id1227711085630">
+			<!-- PC related summary IDs: 1227711085630 -->
+			<!-- PC related summary IDs: 1227711085630 -->
+	<!-- PC related summary IDs: 1227711085630 -->
+		<h4 class="heading">
+			      <a href="/entertainment/celebrity/birthday-boy-orlando-bloom-cosy-with-selena-gomez/story-fnk82e9v-1227711085630" >Birthday boy Bloom cosy with Gomez</a>
+		</h4>
+					<a href="/entertainment/celebrity/birthday-boy-orlando-bloom-cosy-with-selena-gomez/story-fnk82e9v-1227711085630" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/16/1227711/083384-5108b884-bb94-11e5-9734-964735e5a545.jpg" alt="Supplied Selena Gomez cuddling up to Orlando Bloom"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				HE was spotted flirting with Katy Perry earlier this week. Now, Orlando Bloom is set to make his nemesis Justin Bieber jealous by cosying up to his ex.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/celebrity" class="interactive" >Hook Ups</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227711085630 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227711085630 -->
+			<!-- PC related IDs: 1227709902724 -->
+			<!-- PC related IDs: 1227709592723 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/entertainment/leonardo-dicaprio-responds-to-awkward-golden-globes-moment-with-gaga/story-fni0bq8v-1227709902724" > Leo on that awkward Globes moment <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/entertainment/celebrity/harry-potter-star-alan-rickman-dead-at-69/story-fni0bn79-1227709592723" > Cancer crept up on Rickman  <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-2 irpos-2 -->
+			<div class="item ipos-3 irpos-1">
+		<div class="module default   sectionref-nrl-news sectionref-sport   first-image-100w75h  collection mpos-1 mrpos-2 text-m-nrl id1226566945067" id="id1226566945067">
+		<!-- SectionId:News_Parent,1226496131468|CollectionId:AdvCols,1226496198188|ContentCount:1|StartIndex:0|LinkCount:2  -->
+			<div class="module-header">
+								<h3 class="heading "><a href="/sport/nrl">NRL</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block prm prm-story   has-video sectionref-sport sbpos-1 sbrpos-1 id1227710660735">
+			<!-- PC related summary IDs: 1227710660735 -->
+			<!-- PC related summary IDs: 1227710660735 -->
+	<!-- PC related summary IDs: 1227710660735 -->
+		<h4 class="heading">
+			      <a href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735" class="prm prm-story" >Why Hayne will thrive under Chip Kelly</a>
+		</h4>
+					<a href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735" class="prm prm-story thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/660598-6dacbc78-bb4a-11e5-9734-964735e5a545.jpg" alt="Miami Dolphins v Philadelphia Eagles"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				JARRYD Hayne has been tipped to thrive under the dictatorial style of new San Francisco coach Chip Kelly.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/sport/more-sports" >Other Sports</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-dtMTY3MDE6K79vlOppDIFaWOawkFztcZ/Cam-Inman-Chip-Kelly-is-Good-News-for-Jarryd-Hayne" >
+						 					Cam Inman Chip Kelly is Good News for Jarryd Hayne
+						 		</a>
+						        	<span class="time">2:59</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710660735"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227710660735 -->
+			</div> <!-- // .story-block prm prm-story   pos-1 rpos-1 id1227710660735 -->
+			<!-- PC related IDs: 1227710059971 -->
+			<!-- PC related IDs: 1227709976063 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/sport/nrl/cronulla-sharks-youngster-jack-bird-signs-contract-extension-with-club/story-fni3gol8-1227710059971" > Bird extends Sharks deal ahead of fullback battle  <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2  prm prm-story  "><a href="/sport/nrl/nrl-supercoach-2016-player-prices-and-positions-winners-and-losers-revealed/story-fni3fs14-1227709976063" > SuperCoach: Exclusive peek at prices <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+		<div class="module default   sectionref-lifestyle-syndicated sectionref-lifestyle   first-image-100w75h  collection mpos-2 mrpos-1 text-m-lifestyle id1226566948488" id="id1226566948488">
+		<!-- SectionId:News_Parent,1226521171876|CollectionId:|ContentCount:1|StartIndex:0|LinkCount:2  -->
+			<div class="module-header">
+								<h3 class="heading "><a href="/lifestyle">Lifestyle</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-lifestyle sbpos-1 sbrpos-1 id1227711040536">
+			<!-- PC related summary IDs: 1227711040536 -->
+			<!-- PC related summary IDs: 1227711040536 -->
+	<!-- PC related summary IDs: 1227711040536 -->
+		<h4 class="heading">
+			      <a href="/lifestyle/parenting/trinity-grammar-parents-rocked-by-sexual-abuse-among-year-one-boys/story-fni0dp2y-1227711040536" >Trinity Grammar reels over sex claims</a>
+		</h4>
+					<a href="/lifestyle/parenting/trinity-grammar-parents-rocked-by-sexual-abuse-among-year-one-boys/story-fni0dp2y-1227711040536" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/15/1227711/040708-33c1436e-bb3e-11e5-9f3a-2f7ada85c668.jpg" alt="Trinity Grammar Scene Pix"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				A BOY has been removed from Sydney&#8217;s Trinity Grammar school and at least eight others offered counselling after a string of sexual abuses among the Year One boys.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/lifestyle/parenting" class="sectionref-kidspot block-header-highlight" >School Life</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227711040536 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227711040536 -->
+			<!-- PC related IDs: 1227710884050 -->
+			<!-- PC related IDs: 1227710800039 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/lifestyle/relationships/is-fomosexuality-destroying-your-sex-life/story-fni0dqla-1227710884050" > Is fomosexuality ruining your sex life? </a></li>
+								<li class="story    last lipos-2   "><a href="/lifestyle/health/top-5-tips-to-stay-healthy-and-fit/story-fni0dihe-1227710800039" > Top 5 tips to stay healthy and fit </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-3 irpos-1 -->
+		</div><!-- // .group-content.item-count-3 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226692865864] on [fwprodcontent08.ni.news.com.au] @ [January 16, 2016 2:23AM] -->
+<div class="group full daily-deals   text-g-dt-web-group-affiliates-footer item-count-1  group-id-1226692865864">
+<!-- TTL:10m -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+						<div class="module affiliate-module affiliate-footer">
+			<div class="module-header">
+				<h3 class="heading">DAILY DEALS</h3>
+			</div>
+			<div class="module-content">
+				  	    <div class="content-item cipos-1 cirpos-6">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.dailytelegraph.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_ubank" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/HL-ubank-399.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.dailytelegraph.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_ubank" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Low Rate Home Loan<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.dailytelegraph.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_ubank" target="_blank">Low variable rate + no monthly fees with UBank</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-2 cirpos-5">
+							<div class="affiliate-thumbnail">
+                                <a href="http://news.whistleout.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Galaxy_S6" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/whistleout/Samsung-GalaxyS6Edge_149x86_0315_a_left.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://news.whistleout.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Galaxy_S6" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Galaxy S6<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://news.whistleout.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Galaxy_S6" target="_blank">Latest Samsung Galaxy S6 Plans</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-3 cirpos-4">
+							<div class="affiliate-thumbnail">
+                                <a href="http://news.whistleout.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Big_Data_Deals" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/whistleout/Samsung-GalaxyS6Edge_149x86_0315_a_right.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://news.whistleout.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Big_Data_Deals" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Big Data Deals<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://news.whistleout.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Big_Data_Deals" target="_blank">Big Data plans from all major carriers</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-4 cirpos-3">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.dailytelegraph.com.au/campaign/savings?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=SA_me" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/large_image_sa_green-piggy.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.dailytelegraph.com.au/campaign/savings?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=SA_me" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">3.55% Special Rate<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.dailytelegraph.com.au/campaign/savings?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=SA_me" target="_blank">Plus $0 Account Fees with ME Online Savings Account. T&amp;Cs apply</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-5 cirpos-2">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.dailytelegraph.com.au/campaign/travel-credit-cards?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=TCC_virgin" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/news-footer-virgin-high-flyer-20000.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.dailytelegraph.com.au/campaign/travel-credit-cards?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=TCC_virgin" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Top Travel Credit Card<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.dailytelegraph.com.au/campaign/travel-credit-cards?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=TCC_virgin" target="_blank">Earn up to 20,000 Velocity Points with Virgin High Flyer card</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-6 cirpos-1">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.dailytelegraph.com.au/campaign/credit-cards/balance-transfer?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_bt_generic_donut" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/BT-donut-large.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.dailytelegraph.com.au/campaign/credit-cards/balance-transfer?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_bt_generic_donut" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Balance Transfer Deals<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.dailytelegraph.com.au/campaign/credit-cards/balance-transfer?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_bt_generic_donut" target="_blank">Compare and save on 0% p.a. balance transfer credit cards now </a>
+								</div>
+							</div>
+						</div>
+			</div>
+	</div>
+
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			</div><!-- // #content-5 -->
+    </div><!-- // #content -->
+<!-- footer2 -->
+<div id="footer">
+    <div class="footer-content">
+	        <div class="content-item content-item-ad-top cipos-1 cirpos-5">
+	            <div id="footer-ads">
+	                <div class="ad ad-leaderboard">
+									<div class="ad-block ad-leader" id="ad-leader"></div>
+	                </div><!-- // .ad .ad-leaderboard -->
+	            </div><!-- // #footer-ads -->
+	        </div>
+        <div class="content-item content-item-ntl cipos-2 cirpos-4">
+				<div class="footer-tools">
+		<ul class="more-links tier-1">
+			<li class="tool-newsletter    first">
+									<a  href="http://pages.e.newsdigitalmedia.com.au/GPC?a=DailyTelegraph">Newsletters</a>
+			</li>
+			<li>
+									<a  href="https://itunes.apple.com/au/app/daily-sunday-telegraph/id393818437?mt=8">iPad App</a>
+			</li>
+			<li class="tool-mobile">
+									<a  href="http://m.dailytelegraph.com.au/">Mobile</a>
+			</li>
+			<li class="tool-tips">
+								<a href="/help/storytips" >Send stories</a>
+			</li>
+			<li class="tool-pics     last">
+									<a  href="mailto:photo@dailytelegraph.com.au?subject=picfromwebsitereader&body=Dearreader:Thank you for sending in your image / video to thetelegraph.com.au. Please attach your content to this email (videos should be kept below 10mg - approx 30 - 45 seconds). Please provide us the following details to ensure we credit you correctly. Your name: Contact phone number: Suggested caption: Many thanks The dailytelegraph.com.au team">Send Pics</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+				</div><!-- // .footer-tools -->
+            	<div class="footer-links">
+		<ul class=" tier-1">
+			<li class="first">
+								<a href="/" >News</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/news/breaking-news" >Breaking News</a>
+			</li>
+			<li>
+								<a href="/newslocal" >Local</a>
+			</li>
+			<li>
+								<a href="/news/nsw" >New South Wales</a>
+			</li>
+			<li>
+								<a href="/news/national" >National</a>
+			</li>
+			<li>
+								<a href="/news/world" >World</a>
+			</li>
+			<li>
+								<a href="/news/opinion" >Opinion</a>
+			</li>
+			<li>
+								<a href="/news/photos" >Photos</a>
+			</li>
+			<li>
+								<a href="/technology" >Technology</a>
+			</li>
+			<li>
+								<a href="/news/weird" >Weird</a>
+			</li>
+			<li>
+									<a  href="http://weather.dailytelegraph.com.au/">Weather</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.theaustralian.com.au/">The Australian</a>
+			</li>
+			<li class="nav-brand-icon brand-newscomau">
+									<a  href="http://www.news.com.au">news.com.au</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.heraldsun.com.au/">Herald Sun</a>
+			</li>
+			<li>
+									<a  href="http://www.dailytelegraph.com.au">The Daily Telegraph</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.couriermail.com.au">The Courier-Mail</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.theadvertiser.com.au/">The Advertiser</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.perthnow.com.au/">Perth Now</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.ntnews.com.au">NT News</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.themercury.com.au/">The Mercury</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li>
+								<a href="/sport" >Sport</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/sport/afl" class="afl-new-style" >AFL</a>
+			</li>
+			<li>
+								<a href="/sport/nrl" class="nrl-home" >NRL</a>
+			</li>
+			<li>
+								<a href="/sport/rugby" >Rugby Union</a>
+			</li>
+			<li>
+								<a href="/sport/superracing" class="srlogo" >Racing</a>
+			</li>
+			<li>
+								<a href="/sport/cricket" class="sport-tier-3" >Cricket</a>
+			</li>
+			<li>
+								<a href="/sport/football" class="sport-tier-3" >Football</a>
+			</li>
+			<li>
+								<a href="/sport/motor-sport" class="sport-tier-3" >Motor Sport </a>
+			</li>
+			<li>
+								<a href="/sport/golf" >Golf</a>
+			</li>
+			<li>
+								<a href="/sport/tennis" class="sport-tier-3" >Tennis</a>
+			</li>
+			<li>
+								<a href="/sport/boxing-mma" >Boxing</a>
+			</li>
+			<li>
+								<a href="/sport/basketball" class="sport-tier-3" >Basketball</a>
+			</li>
+			<li>
+								<a href="/sport/netball" class="sport-tier-3" >Netball</a>
+			</li>
+			<li>
+								<a href="/newslocal/sport" >Local footy</a>
+			</li>
+			<li>
+									<a  href="http://oddsscanner.dailytelegraph.com.au/">Odds Scanner</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.foxsports.com.au/">Fox Sports</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.foxsportspulse.com/">Fox Sports Pulse</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li>
+								<a href="/business" >Business</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/business/breaking-news" >Breaking News</a>
+			</li>
+			<li>
+								<a href="/business/markets" >Markets</a>
+			</li>
+			<li>
+								<a href="/business/economy" >Economy</a>
+			</li>
+			<li>
+								<a href="/business/small-business" >Small Business</a>
+			</li>
+			<li>
+								<a href="/business/work" >Work</a>
+			</li>
+			<li>
+								<a href="/business/companies" >Companies</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.businessspectator.com.au/">Business Spectator</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.eurekareport.com.au/">Eureka Report</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li>
+								<a href="/entertainment/sydney-confidential" >Entertainment</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/entertainment/movies" >Movies</a>
+			</li>
+			<li>
+								<a href="/entertainment/music" >Music</a>
+			</li>
+			<li>
+								<a href="/entertainment/television" >Television</a>
+			</li>
+			<li>
+								<a href="/entertainment/books" >Books</a>
+			</li>
+			<li>
+								<a href="/entertainment/arts" >Arts</a>
+			</li>
+			<li>
+								<a href="/entertainment/competitions" >Competitions</a>
+			</li>
+			<li>
+								<a href="/entertainment/confidential-style" >Style</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.moshtix.com.au/">Moshtix</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.foxtel.com.au">Foxtel</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li class="last">
+								<a href="/lifestyle" class="lifestyle-nlm" >Lifestyle</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/realestate" class="sectionref-realestate" >Realestate</a>
+			</li>
+			<li>
+								<a href="/travel" >Travel</a>
+			</li>
+			<li>
+									<a  href="http://moneysaverhq.dailytelegraph.com.au/ ">Money</a>
+			</li>
+			<li class="health      linkto-group-1226683145977">
+								<a href="/lifestyle/health" class="block-header-highlight" >Health</a>
+			</li>
+			<li class="food      linkto-group-1226683144505">
+								<a href="/lifestyle/food" class="block-header-highlight" >Food</a>
+			</li>
+			<li>
+								<a href="/lifestyle/sunday-style" >Sunday Style</a>
+			</li>
+			<li class="fashion      linkto-group-1226683144895">
+								<a href="/lifestyle/fashion" class="block-header-highlight" >Fashion</a>
+			</li>
+			<li class="parenting      linkto-group-1226683146103">
+								<a href="/lifestyle/parenting" class="sectionref-kidspot block-header-highlight" >Parenting</a>
+			</li>
+			<li class="home-garden      linkto-group-1226683147384">
+								<a href="/lifestyle/home-garden" class="block-header-highlight" > Home & Garden</a>
+			</li>
+			<li>
+								<a href="/lifestyle/relationships" >Relationships</a>
+			</li>
+			<li>
+								<a href="/lifestyle/horoscopes" >Horoscopes</a>
+			</li>
+			<li>
+								<a href="/lifestyle/sudoku" >Sudoku</a>
+			</li>
+			<li>
+								<a href="/lifestyle/crossword" >Crossword</a>
+			</li>
+			<li>
+								<a href="/lifestyle/offers" class="reader-offers" >Offers</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon brand-vogue">
+									<a  href="http://www.vogue.com.au/">Vogue</a>
+			</li>
+			<li class="nav-brand-icon brand-taste">
+									<a  href="http://www.taste.com.au/">Taste</a>
+			</li>
+			<li class="nav-brand-icon brand-bodyandsoul">
+									<a  href="http://www.bodyandsoul.com.au">Body + Soul</a>
+			</li>
+			<li class="nav-brand-icon brand-kidspot">
+									<a  href="http://www.kidspot.com.au/">Kidspot</a>
+			</li>
+			<li class="nav-brand-icon brand-homelife">
+									<a  href="http://www.homelife.com.au">Homelife</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.getprice.com.au/">GetPrice</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+                </div><!-- // .footer-links -->
+        </div>
+        <div class="content-item content-item-llsp cipos-3 cirpos-3">
+            <div id="footer-logo">
+                <a href="http://www.dailytelegraph.com.au" class="heading">dailytelegraph.com.au</a>
+            </div><!-- // #footer-logo -->
+            	<div id="footer-search">
+	                <div class="site-search">
+	                </div>
+                </div><!-- // #footer-search -->
+			
+				
+        </div>
+        <div class="content-item content-item-legals cipos-4 cirpos-2">
+				<div class="footer-legals">
+		<ul class=" tier-1">
+			<li class="first">
+								Follow Us</a>
+		<ul class=" tier-2">
+			<li class="nav-icon nav-icon-email    first">
+									<a  href="mailto:news@thetelegraph.com.au"></a>
+			</li>
+			<li class="nav-social nav-facebook nav-icon nav-icon-facebook">
+									<a  href="http://www.facebook.com/dailytelegraph">Find us on</a>
+			</li>
+			<li class="nav-social nav-twitter nav-icon nav-icon-twitter">
+									<a  href="http://twitter.com/dailytelegraph">Twitter</a>
+			</li>
+			<li class="nav-icon nav-icon-rss     last">
+								<a href="/help/rss" >RSS</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li class="footer-disclaimer">
+								<a href="http://www.newscorpaustraliaprivacy.com/" >find out more about our policy and your choices, including how to opt-out here</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustraliaprivacy.com ">Privacy Policy</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustraliaprivacy.com/index.html#optout">Relevant Ads Opt-out</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustraliaprivacy.com/index.html#collect">Cookie Policy</a>
+			</li>
+			<li>
+								<a href="/help/about" >About Us</a>
+			</li>
+			<li>
+									<a  href="http://www.dailytelegraph.com.au/digitalprinteditions">Digital Print Edition</a>
+			</li>
+			<li>
+								<a href="/help/contact-us" >Contact Us</a>
+			</li>
+			<li>
+									<a  href="/help/sponsorship">Sponsorship</a>
+			</li>
+			<li>
+								<a href="/news/opinion/letter-to-the-editor" >Letter to the Editor</a>
+			</li>
+			<li>
+								<a href="/for-the-record/story-e6freuy9-1226203390778" >For the Record </a>
+			</li>
+			<li>
+								<a href="/classifieds/placemyad" >Place an Ad</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustralia.com/brand/daily-telegraph">Advertise with us</a>
+			</li>
+			<li>
+									<a  href="http://newsphotos.com.au/ ">Photo Sales </a>
+			</li>
+			<li>
+								<a href="/news/archives" >Archives</a>
+			</li>
+			<li>
+									<a  href="http://tributes.dailytelegraph.com.au">Tributes</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li>
+									<a  href="http://www.careerone.com.au/">Job Opportunities</a>
+			</li>
+			<li>
+								<a href="/help/journalism-program" >Journalism Program</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li>
+								<a href="/help" >Help</a>
+			</li>
+			<li>
+								<a href="/help/accessibility" >Accessibility </a>
+			</li>
+			<li>
+								<a href="/help/sitemap" >Site Map</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li>
+								<a href="/help/code-of-conduct" >Code of Conduct</a>
+			</li>
+			<li>
+								<a href="/help/termsconditions" >Terms of Use</a>
+			</li>
+			<li>
+								<a href="/help/subscription-terms" >Subscription Terms</a>
+			</li>
+			<li>
+									<a  href="http://www.dailytelegraph.com.au/group">Group/Corporate Subscriptions</a>
+			</li>
+			<li class="copyright     last">
+								News Corp 2015 Copyright</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+<!-- // .footer-legals -->
+				</div>
+        </div>
+    </div><!-- //.footer-content -->
+</div>
+    <div id="resources">
+	<!-- Page includes [1226616041335:null] last generated at Sat Jan 16 02:30:23 EST 2016 -->
+<!-- page include -->
+<!-- Resource Included [{id=1226866162096, type=News_Stylesheet}, {id=1226886312627, type=News_Javascript}, {id=1226866180869, type=News_Stylesheet}, {id=1226866162383, type=News_Stylesheet}, {id=1226866164977, type=News_Stylesheet}, {id=1226587868739, type=News_Javascript}, {id=1226592477047, type=News_Javascript}, {id=1226866449412, type=News_Javascript}, {id=1226595896129, type=News_Javascript}, {id=1226587862069, type=News_Javascript}, {id=1226587860996, type=News_Javascript}, {id=1227090210716, type=News_Javascript}, {id=1227510996395, type=News_Resources_Group}, {id=1226641054873, type=News_Javascript}, {id=1226641835083, type=News_Stylesheet}, {id=1226866522182, type=News_Stylesheet}, {id=1226766829025, type=News_Javascript}, {id=1226858257711, type=News_Javascript}, {id=1226766829929, type=News_Javascript}, {id=1226680662899, type=News_Javascript}, {id=1227092763081, type=News_Javascript}, {id=1226645345887, type=News_Stylesheet}, {id=1226656244662, type=News_Javascript}, {id=1226704318792, type=News_Javascript}, {id=1226779697549, type=News_Javascript}, {id=1226964682752, type=News_Javascript}]-->
+<!-- Resource Included [{id=1227510987125, type=News_Javascript}, {id=1227510967052, type=News_Stylesheet}]-->
+<!-- //page include -->
+	<script  type='text/javascript' src='http://resources.newscdn.com.au/cs/video/vjs/stable/build/player.js'></script>
+	<script  type='text/javascript' src='http://subscription.news.com.au/landingpages/mastheadresources/pc/dailytelegraph_metered/1/js/dt-mm-config.js'></script>
+	<script  type='text/javascript' src='http://resources.newscdn.com.au/cs/metered/current/deployBucketA/js/metered.min.js'></script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					require(['channel/desktop/app/base-bottom']);
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					ndm.require(['channel/desktop/app/story']);
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					$(function(){
+  if (typeof(ndm) !== 'undefined' && ndm.metered && ndm.metered.init) {
+    ndm.metered.init();
+  }
+});
+//]]>
+</script>
+<style>
+    esi\:vars,
+    esi\:otherwise,
+    esi\:when > esi\:assign,
+    esi\:when[test="$(fe_custom_page_class)"],
+    esi\:when[test~="$(premiumStatus)"],
+    esi\:include[src~="remote/trending.esi"] { display: none !important; }
+    body { color:#fff; }
+    #page { color:#000 !important; }
+    #change-location + #change-location,
+    #weather-widget + #weather-widget {display:none;}
+</style>
+<script type="text/javascript">
+//<![CDATA[
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					    window.ndm = window.ndm || {};
+    window.ndm.gcse = window.ndm.gcse || {
+        "cx": '012148326047351459851:6qavvtw72t8',
+        "container": '#site-search',
+"resultsUrl":"http://www.dailytelegraph.com.au/search-results"
+    };
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					(function($, gcseConfig) {
+  $(document).ready(function() {
+    var gcse, s,
+    cx = gcseConfig.cx || false,
+    pre = gcseConfig.pre || false,
+    container = gcseConfig.container || '#site-search',
+    resultsContainer = gcseConfig.resultsContainer || '.gcse-results',
+    isResultPage = $('body.search-results').length && $(resultsContainer).append(gcseResults) || false,
+    drawLightForm = gcseConfig.drawLightForm || false,
+    gcseResultsUrl = gcseConfig.resultsUrl || '/search-results',
+    gcseResults = '<div class="gcse-search"></div>',
+    gcseBox = '<div class="gcse-searchbox-only" data-resultsUrl="' + gcseResultsUrl + '"> </div>';
+    drawBrandify = true;
+    if (drawLightForm) {
+      gcseBox = '<form class="media-search-input" action="' + gcseResultsUrl + '"><label><input type="text" name="q" title="search" autocomplete="off" /></label><button type="submit" value="Search">Search</button></form>';
+    }
+    if (drawBrandify && !isResultPage) {
+      gcseBox = '<form id="site-search__form" class="media-search-input gsc-search-box" action="' + gcseResultsUrl + '"><label><input type="text" class="gsc-input" name="q" title="search" autocomplete="off" style="outline: none" /><span class="gsc-search-button" style="position:absolute; right: -25px; bottom: -2px"><input onclick="document.getElementById(\'site-search__form\').submit(); return false;" type="button" value="Search" /></span></label></form>';
+    }
+    if (isResultPage) {
+      $(resultsContainer).append(gcseResults);
+    }
+    if (pre) {
+      $(container).prepend(gcseBox).length;
+    } else {
+      $(container).append(gcseBox).length;
+    }
+    // Always load on results page of or light form option it toggled off
+    if (cx && ! drawLightForm || ! drawBrandify || isResultPage) {
+      gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.google.com/cse/cse.js?cx=' + cx;
+      s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    }
+  });
+})(ndm.jQuery || window.jQuery, ndm.gcse || false);
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					$(document).ready(function() {
+	function hotfixSocialSubscribe() {
+		if(ndm.social && ndm.social.sitename && $('.social-activity-centre .btn-subscribe').length) {
+			var newUrl = '';
+			switch(ndm.social.sitename) {
+				case "adelaidenow":
+					newUrl = "http://www.adelaidenow.com.au/subscribe/news/1/?sourceCode=AAWEB_ONS539";
+					break;
+				case "dailytelegraph":
+					newUrl = "http://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_ONS539";
+					break;
+				case "heraldsun":
+					newUrl = "http://www.heraldsun.com.au/subscribe/news/1/?sourceCode=HSWEB_ONS539";
+					break;
+			}
+			if(newUrl !== '') {
+				$('.social-activity-centre .btn-subscribe').attr('href', newUrl);
+			}
+		} else {
+			setTimeout(hotfixSocialSubscribe, 1000);
+		}
+	}
+	hotfixSocialSubscribe();
+});
+</script>
+<style>
+.paid-small:after{                                outline: none !important}
+.story-block.prm .storyblock-footer:after{        outline: none !important}
+.breaking-news .story-block.prm > .heading:after{ outline: none !important}
+.mega-group .story-block.prm .heading:after{      outline: none !important}
+.tlc .story-block.prm:after{                      outline: none !important}
+.section-dash .story-block.prm h4.heading:after{  outline: none !important}
+.showcase .showcase-block .heading>a.prm:after{   outline: none !important}
+.more-galleries .story-block.prm .standfirs:after{outline: none !important}
+.section-dash .story-block.prm h4.heading:after { display: none; }
+.section-dash .story-block.prm h4.heading { padding-left: 0; }
+/*********************************************************/
+/* AAA-1119 Hiding LinkedIn icons ************************/
+/*********************************************************/
+/* Home/Index promo blocks */
+.js-socialise.js-socialise-addthis-linkedin { display: none; }
+.social-activity-centre .social-panel .share-tools>ul>li>a.share-tools-linkedin { display: none; }
+/* Story top share bar */
+.social-bar .social-bar-share .share-tools>ul>li>a.share-tools-linkedin { display: none; }
+/* Story Footer share bar */
+a.shareActivity.socialise-linkedin { display: none; }
+/* Story TLC */
+.tlc .js-socialise-addthis-facebook { margin-left: 28px; }
+/* Story comment share */
+.popup-overlay .share-tools>ul>li>a.share-tools-linkedin { display: none; }
+/* Special Feature persistent nav */
+#section-header #section-header-logo .js-socialise-wrapper .js-socialise.js-socialise-addthis-linkedin { display: none; }
+/* Photo Gallery Share icons */
+#gallery-page #gallery .group .module .share-tools>a.sharetools-linkedin { display: none; }
+</style>
+<script>
+	                 //]]>
+		</script>
+    </div><!-- // # resources -->
+    <div id="stats">
+        <!-- Start Tealium -->
+        <script type="text/javascript">
+            var utagSections = [];
+            if (window.ndm && window.ndm.page && window.ndm.page.section) {
+                utagSections = ndm.page.section.toLowerCase().split(".");
+            }
+            utag_data = window.utag_data || {};
+            utag_data.pn = "dailytelegraph | news | story | macquarie university teaching migrant students how to use a toilet correctly";
+        	utag_data.net_section = utagSections[0];
+        	utag_data.net_subsec = utagSections[1];
+        	utag_data.net_subsubsec = utagSections[2];
+        	utag_data.net_subsubsubsec = utagSections[3];
+        	utag_data.net_content_type = (utag_data.net_content_type ? utag_data.net_content_type + "+" : "") + "story";
+                utag_data.ad_pagetype = overridePageType || utag_data.net_content_type;
+        		utag_data.mp_story_id = "1226242005577";
+        		utag_data.mp_section_id  = "1111112026929";
+        		utag_data.mp_mlc_path  = "/news/storytemplate/story";
+        		utag_data.net_article_id = "1226242005577";
+        		utag_data.net_article_byline = "Gemma Jones Political Reporter";
+        		utag_data.net_article_headline = "Uni campaign raises toilet accuracy";
+        		utag_data.net_platform = "web";
+        		utag_data.net_article_source = "DailyTelegraph";
+        </script>
+        <script type="text/javascript" src="//tags.tiqcdn.com/utag/newsltd/dt.fw/prod/utag.js"></script>
+        <!-- End Tealium -->
+    </div><!-- // # stats -->
+</div><!-- // #page -->
+</body>
+</html>

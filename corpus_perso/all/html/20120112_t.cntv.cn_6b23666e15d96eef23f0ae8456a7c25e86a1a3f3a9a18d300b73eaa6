@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="shortcut icon" href="http://t.cntv.cn/favicon.ico" />
+
+<link href="http://t.cntv.cn/css/ch/index.css" rel="stylesheet" type="text/css" />
+<link href="http://t.cntv.cn/css/skin_default/skin.css" rel="stylesheet" type="text/css" />
+<link href="http://t.cntv.cn/css/pic/upload.css" type="text/css" rel="stylesheet" charset="utf-8" />
+<link href="http://t.cntv.cn/css/home_extra.css" type="text/css" rel="stylesheet" charset="utf-8" />
+<link href="http://t.cntv.cn/css/profile.css" rel="stylesheet" type="text/css" />
+
+<base href="t.cntv.cn" /></head>
+<body id="weibo">
+ 	<div id="wrapper">
+    	<div class="wrapper-in">
+            <!-- header -->
+              
+
+<!-- 未登录头部 -->
+<!-- START WRating v1.0 -->
+<script type="text/javascript">
+var vjAcc="860010-1135010100";
+var wrUrl="http://cntv.wrating.com/";
+var wrVideoUrl="http://cntv.wrating.com/";
+var xwb_picupload = "http://pic.t.cntv.cn/";
+var xwb_baseurl  = "http://t.cntv.cn/";
+var xwb_domain  = "t.cntv.cn";
+
+</script>
+<!-- END WRating v1.0 -->
+<script type='text/javascript'>
+if(!window.__gloCfg)__gloCfg={};
+__gloCfg={	language :	''
+};
+</script>
+<script type="text/javascript" src="http://t.cntv.cn/js/ch/jquery.js"></script>
+<script type="text/javascript">
+$(function () {
+				//下拉菜单
+				jQuery(".list_btn").mouseover(function(){
+				jQuery(this).find("a.menu-pub").attr("class","menu-pub-hover");
+				jQuery(this).find("ul").show();
+					}).mouseout(function(){	
+						jQuery(this).find("a.menu-pub-hover").attr("class","menu-pub");
+						jQuery(this).find("ul").hide();
+				});
+				
+				// 浏览器插件页面不需要导航条
+				//				//导航距离屏幕顶部距离
+				var _defautlTop = $("#header").offset().top;
+				
+				var ulHeight = $("#container").height(); //UL高度
+				var ulTop = $("#container").offset().top+ulHeight;
+				//导航距离屏幕左侧距离
+				var _defautlLeft = $("#header").offset().left - $(window).scrollLeft();				
+		
+				//导航默认样式记录，还原初始样式时候需要
+				var _position = $("#header").css('position');
+				var _left = $("#header").css('left');
+				var _zIndex = $("#header").css('z-index');
+
+				window.onscroll = function(){
+					if(document.documentElement.scrollTop > _defautlTop){
+						//alert(2);
+						$("#header").addClass("headerfix");
+					}else{
+						//alert(1);
+						$("#header").removeClass("headerfix");  
+					}
+				//返回顶部
+					var isIE=!!window.ActiveXObject;
+					var isIE6=isIE&&!window.XMLHttpRequest;
+					if(isIE6){
+						}else{
+							var bd =document.documentElement || document.body;
+											
+							BackTopDiv=document.getElementById('back_top_div');
+							SuggestionDiv=document.getElementById('suggestion_div');
+							if(document.documentElement.scrollTop==0){
+								BackTopDiv.style.display="none";
+								SuggestionDiv.style.display="none";
+							}else{
+								BackTopDiv.style.display="block";
+								SuggestionDiv.style.display="block";
+							}
+						}
+				}
+				
+			  	//点击导航
+				$("#header").click(function(){
+				  $(window).scrollTop(_defautlTop);
+				})
+				
+});
+</script>
+<script type="text/javascript" src="http://t.cntv.cn/js/ch/xwb-all.js"></script>
+ 
+<div class="header">
+<div id="header">
+  <div id="weibo-nav" class="nav" >
+    <div id="xwbInnerNav" class="inner-nav">
+      <div class="inner-header" style=" margin-top:-2px;"> <a class="logo" href="http://t.cntv.cn" title="央视微博"></a> </div>
+      <div class="menu">
+        <ul>
+          <li><a class="menu-home" href="http://t.cntv.cn">首页</a></li>
+		  <!--导航begin-->
+<!--导航end-->        </ul>
+
+      </div>
+	  <div class="menu nav-right" style="height: 1%;">
+	  	<ul class="user-link" style=" display:block; width:auto;">
+		  <li><a href="/login">登录</a></li>
+          <li><a href="http://reg.cntv.cn/regist/regist.jsp?from=http://t.cntv.cn/&backurl=http://t.cntv.cn" target="_blank">注册</a></li>
+        </ul>
+	  </div>
+    </div>
+    
+    <div class="nav-bg"></div>
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function () {
+				//下拉菜单
+				$(".list_btn").mouseover(function(){
+				$(this).find("a.menu-pub").attr("class","menu-pub-hover");
+				$(this).find("ul").show();
+					}).mouseout(function(){	
+						$(this).find("a.menu-pub-hover").attr("class","menu-pub");
+						$(this).find("ul").hide();
+				});
+				
+				
+				//导航距离屏幕顶部距离
+				var _defautlTop = $("#header").offset().top;
+				
+				var ulHeight = $("#container").height(); //UL高度
+				var ulTop = $("#container").offset().top+ulHeight;
+				//导航距离屏幕左侧距离
+				var _defautlLeft = $("#header").offset().left - $(window).scrollLeft();				
+		
+				//导航默认样式记录，还原初始样式时候需要
+				var _position = $("#header").css('position');
+				var _left = $("#header").css('left');
+				var _zIndex = $("#header").css('z-index');
+
+				window.onscroll = function(){
+					if(document.documentElement.scrollTop > _defautlTop){
+						//alert(2);
+						$("#header").addClass("headerfix");
+					}else{
+						//alert(1);
+						$("#header").removeClass("headerfix");  
+					}
+				} 
+});
+</script>
+<script type="text/javascript" src="http://t.cntv.cn/js/jquery.swfobject.min.js"></script>
+<script type="text/javascript" src="http://t.cntv.cn/js/jquery.swfobject.input.js"></script>
+<script language="javascript" charset="UTF-8" src="http://www.cntv.cn/Library/passport/2013passport_style/js/login.js"></script>
+
+<div style="display:none;" >
+<li><a class="changeSkin" href="javascript:void(0);">模版设置</a></li>
+</div>
+            <!-- end header -->
+            <div id="container">
+               
+<style type="text/css">
+#lemen span{cursor:pointer; text-align:center; display:block; padding:0 0 0 2px; position:absolute; top: 95px; left: 25px; z-index:2; background:url(../css/bgimg/btn.png) no-repeat left -1025px;}
+#lemen em{height:18px; min-width:17px; color:#fff; line-height:18px; padding:2px 4px 1px 2px; background:url(../css/bgimg/btn.png) no-repeat right -1043px;}
+#lecom span{cursor:pointer; text-align:center; display:block; padding:0 0 0 2px; position:absolute;top: 135px; left: 25px; z-index:2; background:url(../css/bgimg/btn.png) no-repeat left -1025px;}
+#lecom em{height:18px; min-width:17px; color:#fff; line-height:18px; padding:2px 4px 1px 2px; background:url(../css/bgimg/btn.png) no-repeat right -1043px;}
+#lepri span{cursor:pointer; text-align:center; display:block; padding:0 0 0 2px; position:absolute;top: 175px; left: 25px; z-index:2; background:url(../css/bgimg/btn.png) no-repeat left -1025px;}
+#lepri em{height:18px; min-width:17px; color:#fff; line-height:18px; padding:2px 4px 1px 2px; background:url(../css/bgimg/btn.png) no-repeat right -1043px;}
+#lenot span{cursor:pointer; text-align:center; display:block; padding:0 0 0 2px; position:absolute;top: 255px; left: 25px; z-index:2; background:url(../css/bgimg/btn.png) no-repeat left -1025px;}
+#lenot em{height:18px; min-width:17px; color:#fff; line-height:18px; padding:2px 4px 1px 2px; background:url(../css/bgimg/btn.png) no-repeat right -1043px;}
+.unbg {
+    background-color: #000000;
+    height:800px;
+    opacity: 0.3;
+    width: 200;
+}
+</style>
+
+
+ <div id="m_left">
+  
+    <div class="mleft_top"></div>
+    <div id="lehome" class="mleft_home1"  >
+      <a style=" color: #004F6C;" href="http://t.cntv.cn"> 首页</a>
+       </div>
+
+   <div id="lepost"  class="mleft_post1">
+      <a style=" color: #004F6C;" href="http://t.cntv.cn/profile"> 我的微博</a>
+        
+    </div>
+    <div id="lemen"  class="mleft_mention" >
+   <!--   -->
+          <a style=" color: #004F6C;" id="refer_v1" href="http://t.cntv.cn/atme"> 提到</a>
+      
+    </div>
+    <div id="lecom"  class="mleft_comm" >
+  <!--    -->
+        <a style=" color: #004F6C;" id="cmts_v1" href="http://t.cntv.cn/comment"> 评论</a>
+       
+    </div>
+    <div id="lepri"  class="mleft_pri" >
+  <!--   --> 
+            <a style=" color: #004F6C;" id="msgs_v1" href="http://t.cntv.cn/messages"> 私信</a>
+        
+    </div>
+    <div id="lefav"  class="mleft_fav" >
+   <!--   -->
+          <a style=" color: #004F6C;" href="http://t.cntv.cn/fav"> 收藏</a>
+       
+    </div>
+    <div id="lenot"  class="mleft_not" >
+   <!--   -->
+          <a style=" color: #004F6C;" id="notice_v1" href="http://t.cntv.cn/notice">通知</a>
+      
+    </div>
+</div>
+                <div id="main">
+                 <div id="m_center"> 
+                   
+                    <div class="feed-list mblog-list"  id="content">
+                    	<div class="feed-tit m0">
+                        	<h3 class="tabCur">网络新闻联播的微博</h3>
+                        </div>
+                    <ul class="m0">
+                    <li class="showWb" rel="w:25763497">
+                    	<div class="feed-content">
+		<p class="feed-main" style="border-top:0px;">
+        <span class="nick"><a target="_blank" href="http://t.cntv.cn/14115112" title="网络新闻联播">网络新闻联播</a></span> <a target="_blank" href="/index.php?m=search.weibo&k=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8F%91%E8%A1%8C%22%E9%BE%99%E8%A2%8D%22%E9%82%AE%E7%A5%A8%23">#马来西亚发行&quot;龙袍&quot;邮票#</a> 马来西亚国家邮政局12日限量发行了一套，以中国明朝龙袍为主题的龙形邮票。据介绍，马来西亚在2000年曾发行过大马史上首套农历新年邮票——庚辰龙年邮票，当时曾掀起抢购热潮，所有纪念首日封及龙年邮票都被抢购一空。2000版龙票在12年之后身价已上升几百倍。CNTV李涛编辑报道</p>
+
+    
+    
+				                <div class="preview-img">
+					<div class="feed-img ">
+                        <img class="zoom-move"  src="http://img.t.cntv.cn/thumbnail/2295aiiu6hzmzt7l4z3boglm" rel="e:zi,fw:1"/>						                    </div>
+                </div>
+                    
+   <!--转发内容已删除-->
+      
+		
+	<div class="feed-info"><p><a href="javascript:void()" rel="e:fw" id="fw">转发</a>|<a href="javascript:void()" rel="e:fr">收藏</a>|<a href="javascript:;" onclick="$('#inputor').focus();" rel='e:cm' id="cm">评论(2)</a></p><span><a href="http://t.cntv.cn/show/25763497">2012-01-12 19:02</a> 来自 <a href="http://t.cntv.cn" target="_blank" title="CNTV微博">CNTV微博</a></span>
+
+    </div>
+  </div>
+
+                    </li>
+                    </ul>
+                    </div>
+                    
+					<div id="topCmtBox" class="add-comment">
+                        <p class="title">发表评论</p>
+                        <div class="post-comment-main">
+                            <a rel="e:ic" class="icon-face-choose all-bg" href="javascript:;"></a>
+                            <div class="comment-r">
+                                <textarea id="inputor" class="comment-textarea" style="width:600px;"></textarea>
+                                <div class="com-bar">
+                                    <a rel="e:sd" class="general-btn highlight" href="javascript:;"><span>评论2</span></a>                       			
+                                    <span id="warn" class="keyin-tips">您还可以输入140字</span>
+                                    <label><input type="checkbox" id="sync">同时转发到我的微博</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="comment-list all-comment" id="xwb_cmt_list" wbid="25763497">
+                        <ul id="cmtCt">
+                         
+                        </ul>
+                        
+                       <div class="list-footer hidden" id="pager">
+							<div class="page" id="page">
+								<a class="general-btn" href="javascript:;" id="first" rel="e:fi"><span>首页 </span></a><a class="general-btn" href="javascript:;" id="pre" rel="e:pr"><span>上一页</span></a><a class="general-btn" href="javascript:;" id="next" rel="e:nx"><span>下一页</span></a>
+							</div>
+                        </div>
+                        
+                        
+
+
+                    </div> 
+                    </div>
+                      <div id="m_right">
+<div class="weiboskin">
+</div>
+    <!--推荐话题begin-->
+     <div class="top10">
+         <br/>
+         <br/>
+         <!--相册-->
+                  <!--相册-->
+         
+        <div class="sidebar-head">推荐话题</div>
+        <ul>
+   <li> <a target="_self"  href="http://t.cntv.cn/index.php?m=search.weibo&k=%23%E9%82%A3%E5%B9%B4%E4%BB%8A%E6%97%A5%23">缅怀铭记：汶川大地震</a> </li>
+<li> <a target="_self"  href="http://t.cntv.cn/index.php?m=search.weibo&k=%23%E6%82%A6%E6%8B%8D%E9%9D%92%E6%98%A5%23">悦拍青春</a> </li>
+<li> <a target="_self"  href="http://t.cntv.cn/index.php?m=search.weibo&k=%23%E5%B0%B1%E4%B8%9A%E6%9C%89%E4%BD%8D%E6%9D%A5%23">5分钟帮你弄懂“三方协议”</a> </li>
+
+</ul><ul></ul>     </div>
+  <!--推荐话题end-->
+   <div class="delimiter"></div>
+   <!--用户推荐begin-->
+   <div class="user-sidebar">
+      <div class="sidebar-head">推荐用户</div>
+        <ul>
+<li rel="u:13933594">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/13933594" usercard="13933594"> <img src="http://userface.img.cctvpic.com/120x120/541/505/13933594.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/13933594"><p>朱军</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:14107833">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/14107833" usercard="14107833"> <img src="http://userface.img.cctvpic.com/120x120/954/421/14107833.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/14107833"><p>刘芳菲</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:13955432">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/13955432" usercard="13955432"> <img src="http://userface.img.cctvpic.com/120x120/401/628/13955432.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/13955432"><p>谢颖颖</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:14107838">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/14107838" usercard="14107838"> <img src="http://userface.img.cctvpic.com/120x120/959/422/14107838.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/14107838"><p>鲁健</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:13923161">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/13923161" usercard="13923161"> <img src="http://userface.img.cctvpic.com/120x120/98/14/13923161.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/13923161"><p>郭志坚</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:18615873">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/18615873" usercard="18615873"> <img src="http://userface.img.cctvpic.com/120x120/507/72/18615873.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/18615873"><p>央视微博</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:13921312">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/13921312" usercard="13921312"> <img src="http://userface.img.cctvpic.com/120x120/247/748/13921312.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/13921312"><p>李思思</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:14062633">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/14062633" usercard="14062633"> <img src="http://userface.img.cctvpic.com/120x120/709/957/14062633.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/14062633"><p>于嘉</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+<li rel="u:13922302">
+<div class="userrec">
+<div class="userrec_pic">
+<a href="http://t.cntv.cn/13922302" usercard="13922302"> <img src="http://userface.img.cctvpic.com/120x120/238/890/13922302.jpg?ver=2015091610"></a>
+</div>
+<div class="userfollow">
+<a href="http://t.cntv.cn/13922302"><p>王小骞</p></a>
+<input name="" rel="e:fl,t:2" type="button" value="" class="btnfollow" style="width:80px; height:24px; ">
+</div>
+</div>
+</li>
+
+</ul>   </div>
+   </div>                </div>
+            </div>
+            <!-- footer -->
+            <script type='text/javascript'>
+if(!window.Xwb)Xwb={};
+Xwb.cfg={	basePath :	'/',
+			routeMode:  0,
+			routeVname: 'm',
+			loginCfg : 	3,
+
+			idxList:	{},
+			vdsList: 	[],
+			wbList: 	{"25763497":{"cr":"1326366170000","f":0,"s":"855224130","tx":"#\u9a6c\u6765\u897f\u4e9a\u53d1\u884c\"\u9f99\u888d\"\u90ae\u7968#\u9a6c\u6765\u897f\u4e9a\u56fd\u5bb6\u90ae\u653f\u5c4012\u65e5\u9650\u91cf\u53d1\u884c\u4e86\u4e00\u5957\uff0c\u4ee5\u4e2d\u56fd\u660e\u671d\u9f99\u888d\u4e3a\u4e3b\u9898\u7684\u9f99\u5f62\u90ae\u7968\u3002\u636e\u4ecb\u7ecd\uff0c\u9a6c\u6765\u897f\u4e9a\u57282000\u5e74\u66fe\u53d1\u884c\u8fc7\u5927\u9a6c\u53f2\u4e0a\u9996\u5957\u519c\u5386\u65b0\u5e74\u90ae\u7968\u2014\u2014\u5e9a\u8fb0\u9f99\u5e74\u90ae\u7968\uff0c\u5f53\u65f6\u66fe\u6380\u8d77\u62a2\u8d2d\u70ed\u6f6e\uff0c\u6240\u6709\u7eaa\u5ff5\u9996\u65e5\u5c01\u53ca\u9f99\u5e74\u90ae\u7968\u90fd\u88ab\u62a2\u8d2d\u4e00\u7a7a\u30022000\u7248\u9f99\u7968\u572812\u5e74\u4e4b\u540e\u8eab\u4ef7\u5df2\u4e0a\u5347\u51e0\u767e\u500d\u3002CNTV\u674e\u6d9b\u7f16\u8f91\u62a5\u9053","tp":"http:\/\/img.t.cntv.cn\/thumbnail\/2295aiiu6hzmzt7l4z3boglm","mp":"http:\/\/img.t.cntv.cn\/bmiddle\/2295aiiu6hzmzt7l4z3boglm","op":"http:\/\/img.t.cntv.cn\/original\/2295aiiu6hzmzt7l4z3boglm","u":{"id":"14115112","sn":"\u7f51\u7edc\u65b0\u95fb\u8054\u64ad","p":"","v":0}}},
+
+			authenCfg:	'',
+
+			authenTit:	'',
+
+			webName:	'',
+
+			uid: 		'',
+
+			siteUid:	'',
+
+			siteUname:	'',
+
+			siteName:	'',
+
+			siteReg:	'',
+			remind: 0,
+			maxid: '',
+			page: 'show',
+			akey: '',
+			ads: ''
+};
+</script>
+<script src="http://t.cntv.cn/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://t.cntv.cn/js/mutiUploadBox.js" type="text/javascript" charset="utf-8"></script>
+<!--上传图片弹出层-->
+<!-- left: -999px; top: -999px;  -->
+<div node-type="outer" id="muti_upload_box" class="W_layer" style="display:none">
+	<div class="bg">
+		<table cellspacing="0" cellpadding="0" border="0">
+			<tbody>
+				<tr>
+					<td>
+						<div node-type="layoutContent" class="content">
+							<a title="关闭" node-type="close" href="javascript:;" class="W_close" style=""></a>
+							<div node-type="inner">
+								<div node-type="outer">
+									<div node-type="wrap" class="layer_send_pic">
+										<!-- preview -->
+										<div node-type="inner" id="inner_p_content" style="display: none;">
+										    <div style="margin: 10px; text-align: center">
+										        <div style="text-align: left;" id="img_name">7.jpg</div>
+												<div id="preview_img"></div>
+										    </div>
+										</div>
+										<!-- end -->
+										<div node-type="inner" id="inner_d_content">
+											<div class="tab W_textb">
+												<p>
+													<a node-type="tab" href="javascript:;" class="current">本地上传</a>
+												</p>
+											</div>
+
+											<div node-type="content">
+												<div node-type="uppic" id="uppic">
+													<div class="laPic_btnBox clearfix">
+														<div class="laPic_btnmore">
+															<a node-type="inputCover" class="W_btn_b choose_pic" href="javascript:;">
+																<span><em class="ico_one"></em>单张照片</span>				
+																<form action="" method="POST" enctype="multipart/form-data" id="new_mutil_xwb_post_form" action-type="form" node-type="form">
+																	<input type="file" class="input_f" id="new_mutil_xwb_img_file" name="pic">
+																</form>
+															</a>
+														</div>		
+														<!--div class="laPic_btnmore">			
+															<a node-type="inputCover" id="new_muti_img_btn" class="W_btn_b choose_pic" href="javascript:;">
+																<span suda-data="key=meitu&amp;value=v4||publish||more" action-type="more">
+																	<em class="ico_ones"></em>多张照片</span>
+															</a>
+														</div-->
+													</div>
+													<div style="clear:both;"></div>
+													<div node-type="info" class="laPic_con W_textb">支持上传单张5M以下的gif、jpg、png文件</div>
+												</div>
+												<div style="width:230px;display:none" node-type="loading" id="loading">
+													<div class="laPic_con">
+														<div class="W_loading">
+															<span>图片正在上传请等待</span>
+														</div>
+														
+													</div>
+													<div class="laPic_btn">
+														<a style=" text-decoration:none;" action-type="cancel" class="W_btn_a" href="javascript:;">
+															<span>取消上传</span>
+														</a>
+													</div>
+												</div>
+											</div>
+
+										</div>
+										<div style="display:none" node-type="uploaded" id="delete">
+											<!--
+											<div class="laPic_tit">
+												<span node-type="pName"></span>
+												<span class="right"></span>
+											</div>
+											-->
+											<div class="laPic_Pic" node-type="picWrap"></div>
+											<div class="lapic_edit">
+												<!--
+												<a suda-data="key=meitu&amp;value=v4||publish||editor" action-type="beautify" node-type="beautify" href="javascript:;" class="beautify">编辑</a>
+												-->
+												<a action-type="delete" href="javascript:;" class="delete" style="float: right;">删除</a>
+												<div style="clear: both;"></div>
+											</div>
+										</div>
+									</div>
+									<div node-type="flashPanel"></div>
+								</div>
+							</div>
+
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<div node-type="arrow" class="arrow arrow_t"></div>
+	</div>
+</div>
+<!--/上传图片弹出层-->
+
+
+<div class="wb-footer">
+      <div class="rec-emcee">
+        <h4>热门推荐：</h4>
+        <p> <a target="_blank" href="/index.php?m=hallFame.sortResults&id=1">央视主持人</a>| <a target="_blank" href="/index.php?m=hallFame.sortResults&id=2">央视记者</a>| <a target="_blank" href="/index.php?m=hallFame.sortResults&id=4">央视栏目</a>| <a target="_blank" href="/index.php?m=hallFame.sortResults&id=4">CNTV品牌栏目</a>| <a target="_blank" href="http://t.cntv.cn/zw">政务微博</a> | <a target="_blank" href="http://blog.cntv.cn/blog/rank/index.shtml">博客人气排行</a> </p>
+      </div>
+      <!--<div class="rec-down">
+        <h4>客户端：</h4>
+        <p> <a target="_blank" href="http://t.cntv.cn/cellphone">微博手机版</a>| <a target="_blank" href="http://t.cntv.cn/pad">微博平板版</a>| <a target="_blank" href="http://t.cntv.cn/paike">微拍客</a> </p>
+      </div>-->
+      <div class="rec-help">
+        <h4>快捷帮助：</h4>
+        <p style=" height:44px;"> <a target="_blank" href="http://t.cntv.cn/vf">申请认证</a>| <a target="_blank" href="http://t.cntv.cn/setting/regsync">一键通发</a>| <a target="_blank" href="http://reg.cntv.cn/regist/regist.jsp?from=http://t.cntv.cn/&backurl=http://t.cntv.cn" style="margin-right:5px;">注册</a>/<a target="_blank" href="http://t.cntv.cn/login" style="margin-left:5px;">登录</a> </p>
+      </div>
+      <div class="clear"></div>
+    </div>
+<!-- 页面底部通栏推广位 -->
+<script type="text/javascript" src="http://my.cntv.cn/js/bottom.js" charset="gbk"></script>
+
+
+<script type="text/javascript"> 
+	
+$(document).ready(function(){
+		//console.log("document");
+//		var objwbUsercard = new wbUsercard();
+//		console.log("document objwbUsercard = " + objwbUsercard);
+		var objwbUsercard = wbUsercard.prototype;
+		objwbUsercard.init();
+		objwbUsercard.show();
+		objwbUsercard.setuid('');
+//		console.log("init ");
+});
+</script> 
+
+
+
+            <!-- end footer -->
+
+        </div>
+    </div>
+<script type="text/javascript">
+$(document).ready(function(){
+	//防止点击评论在弹出输入框
+	$("#cm").attr("rel","sdsd");
+	$("#cmtCt li").live({
+		   mouseenter:
+		   function()
+		   {
+			  //todo
+			   $(this).find(".msgdel").removeAttr("style");
+				$(this).find(".c-for").removeAttr("style");
+				$(this).find(".msgdel").attr({style:"display:block"});
+				$(this).find(".c-for").attr({style:"display:block"});  
+		   },
+		   mouseleave:
+		   function()
+		   {
+			  //todo
+			   $(this).find(".msgdel").removeAttr("style");
+				$(this).find(".c-for").removeAttr("style");
+				$(this).find(".msgdel").attr({style:"display:none"});
+				$(this).find(".c-for").attr({style:"display:none"});
+		   }
+		});
+});
+</script>
+</body>
+</html>

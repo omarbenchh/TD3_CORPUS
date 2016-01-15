@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="gbk">
+<title>京港澳雨花收费站大堵车 目前已疏通[图]_新闻频道_红网</title>
+<meta name="keywords" content="京港澳雨花收费站大堵车 目前已疏通[图]" />
+<meta name="description" content="京港澳雨花收费站大堵车 目前已疏通[图]" />
+<style type="text/css">
+/*css reset*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0;padding:0;}
+table {border-collapse:collapse;border-spacing:0;}
+fieldset,img {border:0;}
+img,iframe{display:block;}
+address,caption,cite,code,dfn,em,strong,th,var {font-style:normal;font-weight:normal;}
+ol,ul {	list-style:none;}
+caption,th {text-align:left;}
+h1,h2,h3,h4,h5,h6 {	font-size:100%;	font-weight:normal;}
+q:before,q:after {content:'';}
+abbr,acronym { border:0;}
+
+/* 清理浮动 */
+.clearfix:after {content: ".";display: block;font-size:0;height:0;clear: both;visibility: hidden;}
+.clearfix {display: inline-block;}
+.clearfix {zoom:1; /* for IE6 IE7 */}
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+.clr{clear:both;}
+
+/* 设置内联, 减少浮动带来的bug */
+.fl {float:left;display:inline;}
+.fr {float:right;display:inline;}
+.tl{text-align:left;} 
+.tc{text-align:center;} 
+.tr{text-align:right;} 
+.blank10{display:block;height:10px;width:1px;clear:both;visibility:hidden;}
+.mb{margin-bottom:10px;}.mb5{margin-bottom:5px;}
+
+a:link,a:visited{color:#333;text-decoration:none;}
+a:hover,a:active{color:#c00;text-decoration:underline;}
+
+/*主布局*/
+body{text-align:center;font-family:SimSun,serif;font-size:12px;-webkit-text-size-adjust:100%;}
+#wrapper{width:960px;margin:0 auto;text-align:left;}
+#mainblock{width:640px;float:left;overflow:hidden;display:inline;}
+#sidebar{width:300px;float:right;display:inline;}
+#foot2{width:960px;margin:10px auto;}
+#maincontent{padding:10px 20px;}
+#foot{color:#333;background-color:#eee;border-top:1px solid #ccc;}#foot a{color:#333;}
+#foot img{display:inline;}
+
+
+/* UI */
+.box{margin:0 0 10px 0;border:1px solid #ccc;overflow:hidden;display:block;}
+.boxtitle{background-color:#eee;font-size:14px;font-weight:bold;color:#777;line-height:25px;text-indent:2em;}
+.boxcontent{padding:9px 0;border:0;text-align:center;}
+.boxcontent .txtbox{margin:0 10px;text-align:left;}
+
+.tabbox {border:1px solid #ccc; font-size:12px; font-family:simsun,"宋体";}
+.tabbox .tabmenu {height:28px; line-height:28px; background:#efefef; position:relative; border-bottom:1px solid #999}
+.tabbox .tabmenu h2 {font-weight:bold;color:#999;line-height:26px;text-indent:2em;}
+.tabbox .tabmenu ul {position:absolute; left:100px; bottom:-1px; height:26px;}
+.tabbox ul.menu li {float:left; margin-bottom:1px; line-height:16px; height:14px; margin:5px 0 0 -1px; border-left:1px solid #999; text-align:center; padding:0 12px; cursor:pointer}
+.tabbox ul.menu li.current {border:1px solid #999; border-bottom:none; background:#fff; height:25px; line-height:26px; margin:0}
+.tabbox .tabcontent{padding:10px;}
+
+
+/*header*/
+#header{font-size:12px;height:1%;margin-bottom:10px;}
+#nav{border-bottom:1px solid #ccc;color:#999;height:30px;line-height:30px;}
+#nav a{font-size:12px;color:#336;line-height:2em;text-decoration:none;}
+#nav a.nav-rss{display:inline;float:right;text-indent:-200em;width:26px;height:14px;
+background:url(/c/mb2012/img/rss.gif) no-repeat center center;margin-top:8px;_margin-top:0px;}
+.nav-link{display:block;width:900px;height:30px;float:left;}
+#overcontent{width:598px;height:75px;overflow:hidden;margin-bottom:20px;}
+#topbanner{width:960px;height:60px;overflow:hidden;}
+
+/*articlecontent*/
+.path,.path a{line-height:2em;color:#666;}
+.crumb,.guanming{display:inline-block;float:left;}
+.title h1{text-align:center;font-size:22px;line-height:40px;font-weight:bold;margin-top:10px;clear:both;border-bottom:1px dotted #ccc;}
+.subtitle{font-family:FangSong,FangSong_GB2312;color:#666;width:100%;font-size:16px;line-height:30px;text-align:right;}
+.info{text-align:center;line-height:40px;color:#999;}
+.pubdate,.editor,.author,.source{background-color:#eee;border-radius:5px;padding:2px 5px;}
+.news{font-size:14px;line-height:28px;overflow:hidden;}
+.news img{border:1px solid #ccc;padding:5px;max-width:580px;margin:0 auto;}
+.news a:link,.news a:visited{color:#333;text-decoration:underline;}
+.news p{margin-bottom:1em;}
+.news strong,.news b{font-weight:bold;}
+.pictext,.imgcaption{font-family:FangSong,FangSong_GB2312;font-size:16px;text-align:center;margin-bottom:1em;}
+.pager {text-align:center;margin-bottom:10px;}
+.pager a {font:12px/24px arial,sans-serif;text-decoration:none;color:#007FFF;background:#E7E7FF;font-weight:700;padding:3px 5px;}
+.pager a:hover{color:#FFF;background:#00C;}
+.pager a.curpage{color:#f00;}
+.copy{font:12px/30px Georgia,arial,sans-serif;color:#999;}
+#undercontent img{margin:20px auto;}
+
+/*aboutlink*/
+.aboutlink{}
+.aboutlink ul li{width:600px;} 
+.aboutlink ul li a{font-size:14px;}
+.aboutlink span{display:inline;font-family:Georgia;color:#ccc;}
+
+/*Search box*/
+#lpsearch{float:right;margin:3px 0 0; display:inline-block;}
+#lpsearch .textBox {width:90px; height:18px; color:#777;border:1px solid #ccc; float:left; line-height:18px; text-indent:3px;}
+#lpsearch .btn {border:1px solid #ccc;background:#efefef; width:40px; height:20px; float:left; line-height:18px; font-size:12px; cursor:pointer;}
+
+.txtbox {margin:0 10px;}
+.txtbox li{line-height:24px;background: url(/c/mb2012/img/list_dot.gif) left center no-repeat;padding-left:10px;width:268px;text-overflow:ellipsis;white-space: nowrap;overflow: hidden;height:24px;}
+.txtbox li a{color:#444;text-decoration:none;}
+.txtbox li a:hover{color:#c00;text-decoration:underline;}
+.picbox {margin:0 8px;}
+.picbox li a{color:#666;line-height:20px;text-decoration:none;}
+.picbox li{float:left;display:block;width:140px;height:120px;overflow:hidden;text-align:center;}
+.picbox li img{width:128px;height:96px;margin:0 auto;}
+
+/*daynewslist*/
+.daynews{margin:10px 0;}
+.daynews h1{text-align:center;font-size:22px;line-height:40px;font-weight:bold;margin:10px;}
+.daynews .txtbox li{width:598px;font-size:14px;}
+.daynews .txtbox li span{font-family:Georgia;color:#ccc;}
+
+
+/*ad*/
+.ad a{color:#666;line-height:20px;text-decoration:none;}
+.ad iframe{margin:0 auto;}
+.ad300{border:0;width:300px;height:120px;overflow:hidden;}
+.ad300 img{width:300px;border:0;}
+.ad .boxcontent h4{display:block;border-bottom:1px dotted #ccc;height:24px;text-overflow:ellipsis;white-space: nowrap;overflow: hidden;}
+.ad .boxcontent h4 a{line-height:24px;font-size:14px;font-weight:bold;color:#369;}
+.two .box{width:310px;}
+#BottomAD,#cba{margin:10px auto;text-align:center;}
+#cba iframe{display:block;margin:0 auto;}
+#BottomAD iframe{margin:0 auto 10px auto;overflow:hidden;}
+.fourpic{margin:0 0 10px 11px;}
+.fourpic li{width:154px;text-align:center;height:110px;display:inline;float:left;overflow:hidden;}
+.fourpic li img{width:128px;height:90px;margin:0 auto;}
+
+/*tj*/
+.zhzx .boxcontent{padding:9px 0px 9px 9px;}
+.zhzx .boxcontent .txtbox ,.zhzx .boxcontent .picbox{margin:0px;}
+.zhzx .boxcontent .txtbox li{width:190px;float:left;margin-right:8px;border:0;display:inline;}
+.zhzx .boxcontent .picbox li{width:146px;height:116px;margin-right:10px;float:left;display:inline;}
+.zhzx .boxcontent .picbox li img{width:144px;height:96px;display:block;}
+
+.zx .picbox{margin:0;padding:10px 0 0 10px;border-bottom:1px dotted #eee;}
+.zx .picbox li{width:140px;text-align:center;margin-right:10px;}
+
+.pdtj .layout{height:284px;overflow:hidden;}
+.pdtj .left {float: left;width:190px;position: relative;display:inline;}
+.pdtj .left .img { display:inline;float: left;width:190px;position: relative;height:284px}
+.pdtj .left img { width:190px;height:284px;}
+.pdtj .left .text {z-index:3; left:0px; width:190px;height:25px;background: #000;  color: #fff; bottom: 0px; position: absolute; text-align: center;filter:alpha(opacity=60);-moz-opacity:0.7;opacity:0.7;}
+.pdtj .left .text a {color: #fff;font-weight:bold;font-size:14px;line-height:25px;}
+.pdtj .right{width:410px;display:inline;float:left;margin:0px 0px 5px 5px;overflow:hidden;}
+.pdtj .right span li a{display:inline-block;color:#00467e;text-decoration:none;font-family:"Microsoft YaHei","微软雅黑","黑体";font-size:19px;font-weight:normal;border-bottom:#dedede 1px dotted;line-height:28px;width:400px;overflow:hidden;}
+.pdtj .right li a{border-bottom:#dedede 1px dotted;text-decoration: none;font-size:14px;line-height:30px;padding:8px 0px 5px 10px;text-overflow:ellipsis;white-space: nowrap;overflow: hidden;}
+.pdtj .right li a:hover{color: #c00;text-decoration: underline;}
+
+.reci span{font-weight:normal;font-size:12px;margin-right:1em;}
+.reci .txtbox li{width:128px;float:left;display:inline;}
+
+/* sidebar */
+#sidebar .picbox{width:280px;}
+</style>
+</head>
+<body>
+
+<div id="wrapper">
+<script type="text/javascript"> 
+
+if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))){
+	if(window.location.href.indexOf("?mobile")<0){
+		try{
+			if(/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)){
+                var _uri = document.location.href
+                var _newsid = _uri.match(/c\/\d{4}\/\d{2}\/\d{2}\/(\d{6,7})\.htm/i)[1];
+                window.location.href='http://m.rednet.cn/detail.asp?id=' + _newsid;
+			}
+		}catch(e){}
+	}
+}
+
+</script>
+    <div id="header">
+        <div id="nav" class="clearfix mb">
+            <div class="nav-link">
+                <a href="http://www.rednet.cn/" >首页</a> -
+                <a href="http://hn.rednet.cn/">湖南</a> -
+                <a href="http://china.rednet.cn/">国内</a> -
+                <a href="http://hlj.rednet.cn/">红辣椒</a> -
+                <a href="http://gov.rednet.cn/">政务</a> -
+                <a href="http://yuqing.rednet.cn/">舆情</a> -
+                <a href="http://video.rednet.cn/">视听</a> - 
+                <a href="http://ent.rednet.cn/">娱乐</a> -
+                <a href="http://photo.rednet.cn/">图片</a> - 
+                <a href="http://fdc.rednet.cn/">房产</a> - 
+                <a href="http://auto.rednet.cn/">汽车</a> - 
+                <a href="http://people.rednet.cn/">百姓呼声</a> -
+                <a href="http://bbs.rednet.cn/">论坛</a> -
+                <a href="http://tour.rednet.cn/">旅游</a> -
+                <a href="http://life.rednet.cn/">消费</a> -
+                <a href="http://money.rednet.cn/">财富</a> - 
+                <a href="http://health.rednet.cn/">健康</a> -
+                <a href="http://3c.rednet.cn/">家电</a> -
+                
+                <a href="http://www.onlyred.net/">红1品</a> - 
+                <a href="http://reg.rednet.cn/login.asp" class="nav-txz">通行证</a> 
+            </div>
+            <a href="http://www.rednet.cn/rss.xml" class="nav-rss">rss</a>
+        </div><!-- #nav END -->
+        <div id="topad"></div>
+        <div id="topbanner"></div>
+    </div><!-- #header END -->
+
+
+    <div id="main" class="clearfix">
+
+        <div id="mainblock">
+             
+            <div class="path clearfix">
+                <span class="crumb">当前位置: <a href="http://www.rednet.cn/">红网</a> &gt; <a href=http://news.rednet.cn>新闻频道</a> &gt;  正文
+                </span>
+                <span id="guanming" class="guanming"></span>
+            </div>
+
+            <div id="maincontent" class="box">            
+
+                <span id="overtitle"></span>
+
+                <div id="artilcetitle" class="title">
+                <h1><s></s>京港澳雨花收费站大堵车 目前已疏通[图]</h1>
+                </div>
+
+                <div class="subtitle"></div>
+
+                <span id="undertitle"></span>
+
+                <div class="info">
+                    <span class="pubdate">2012/1/17 17:23:10</span>
+                    <span class="source">[稿源：<a href="http://www.rednet.cn/">红网-潇湘晨报</a>]</span>
+                    <span class="author">[作者：范思鼎]</span>
+                    <span class="editor">[编辑：肖娟]</span>
+                </div>
+
+                <div id="overcontent"></div>
+
+                <div id="articlecontent" class="news">
+                    <!--正文开始-->
+                    <P align=center><IMG border=0 src="http://images.rednet.cn/articleimage/2012/01/17/1818121934.jpg"></P>
+<P class=imgcaption align=center><FONT face=楷体_GB2312>(1月17日下午4时30分，京港澳高速雨花收费站以北6公里处发生一起交通事故，造成高速以北方向大堵车，收费站附近车辆已经排起长龙。图/潇湘晨报滚动新闻记者 华剑)</P>
+<P align=center><IMG border=0 src="http://images.rednet.cn/articleimage/2012/01/17/1734195758.jpg"></P>
+<P class=imgcaption align=center>(经过努力，4时55分左右，京港澳高速雨花收费站以北方向通车，车辆恢复正常行驶。图/潇湘晨报滚动新闻记者 范思鼎)</P>
+<P></P></FONT>
+<P></P>
+<P>　　红网长沙1月17日讯（潇湘晨报滚动新闻记者 范思鼎）今日（17日）下午4时30分，京港澳高速雨花收费站以北6公里处发生一起交通事故，事故造成高速以北方向大堵车。现场看到，在收费站附近车辆已经排起长龙，收费站张贴通告，告知往汨罗、岳阳、北京方向的车辆需要绕道行驶。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; 现场，交警和司机一起疏导交通，经过努力，4时55分左右，京港澳高速雨花收费站以北方向通车，车辆恢复正常行驶。</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp; 京港澳高速交警彭莉说，春运期间高速公路车流量大，希望过路司机能听从交警指挥，新手上路要看清指示牌和路标。“千万不能逆行”。</P>
+<P align=center><A href="http://news.rednet.cn/" target=_blank><IMG border=0 src="http://images.rednet.cn/articleimage/2012/01/09/1701344113.jpg"></A></P>
+                    <!--正文结束-->
+                </div><!-- #articlecontent END -->
+
+                <div id="pagelistbox" class="pager">
+                     
+                </div><!-- #pagelistbox END -->
+
+                <span id="undercontent"></span>
+                <span id="pagetools">
+
+                </span>
+                <span id="cba"></span>
+            </div><!-- #maincontent END -->
+
+
+            <div class="box aboutlink">
+                <div class="boxtitle">相关链接</div>
+                <div class="boxcontent">
+                    <ul class="txtbox">
+                        <li><a href="http://gov.rednet.cn/c/2012/10/08/2770068.htm" target="_blank">7200人次警力保长沙“双节”道路平安</a> <span>(2012/10/8 9:20:42)</span><li><a href="http://hn.rednet.cn/c/2012/10/08/2769905.htm" target="_blank">“回城不堵车，比想象中好多啦” 长沙昨迎返城高峰</a> <span>(2012/10/8 9:00:00)</span><li><a href="http://china.rednet.cn/c/2012/10/02/2767941.htm" target="_blank">全球7大堵车事件盘点：法国拥堵175公里创纪录</a> <span>(2012/10/2 10:29:17)</span><li><a href="http://ny.rednet.cn/c/2012/10/01/2767556.htm" target="_blank">黄金周首日客流达8560万人 高速变垃圾场(图)</a> <span>(2012/10/1 9:29:58)</span><li><a href="http://china.rednet.cn/c/2012/09/30/2767466.htm" target="_blank">双节长假首日出行扫描:期盼幸福别再消耗在路上</a> <span>(2012/9/30 22:00:30)</span><li><a href="http://china.rednet.cn/c/2012/09/26/2763211.htm" target="_blank">北京“首堵”三原因：降雨、管控、乱违章</a> <span>(2012/9/26 17:12:34)</span><li><a href="http://china.rednet.cn/c/2012/09/26/2763141.htm" target="_blank">媒体分析北京暴堵原因:降雨管控及违章多系主因</a> <span>(2012/9/26 16:34:25)</span><li><a href="http://china.rednet.cn/c/2012/09/26/2763077.htm" target="_blank">北京昨晚路网拥堵峰值达9.6 三大原因加剧拥堵</a> <span>(2012/9/26 16:01:39)</span>
+                    </ul>
+                </div>
+            </div><!-- .aboutlink END -->                
+
+<div style="display:none;">
+<img src="http://www.rednet.cn/logo/logo-109x83.png" alt="红网新闻" />
+</div>
+<div id="adb_tj_1"></div>
+
+
+            <div class="tabbox mb pdtj">
+                <div class="tabmenu">
+                    <h2>频道精选</h2>
+                    <ul class="menu">
+                        <li>社会</li>
+                        <li>娱乐</li>
+                        <li>房产</li>
+                        <li>旅游</li>
+                    </ul>
+                </div>
+                <div class="tabcontent">
+
+                    <div class="layout pdjx clearfix">
+                        <div class="left">
+                            <div class="img"><a href="http://china.rednet.cn/c/2016/01/15/3888916.htm"><img src="http://img.redimg.cn/p//2016/01/15/yangzi_20160115105452_0.jpg" alt="乘客穿内裤乘坐北京地铁" /></a></div>
+                            <div class="text"><a href="http://china.rednet.cn/c/2016/01/15/3888916.htm">乘客穿内裤乘坐北京地铁</a></div>
+                        </div>
+                        <div class="right">
+                            <span><ul><li><a href="http://china.rednet.cn/c/2016/01/15/3888991.htm" target="_blank" >要不要弟妹进小学考题 童言:剖腹伤身,别生了</a></li>
+</ul></span> 
+                            <ul><li><a href="http://china.rednet.cn/c/2016/01/15/3888893.htm" target="_blank" >买家网购给差评收到5捆冥币 皇冠卖家被永久封号</a></li>
+<li><a href="http://china.rednet.cn/c/2016/01/14/3888073.htm" target="_blank" >保安遭小偷挑衅“来追我” 追83公里擒贼</a></li>
+<li><a href="http://china.rednet.cn/c/2016/01/14/3888033.htm" target="_blank" >陕西咸阳三名男子盗墓 两人因缺氧窒息死亡</a></li>
+<li><a href="http://china.rednet.cn/c/2016/01/14/3887966.htm" target="_blank" >女子黑诊所吊水突然昏迷 送到医院不治身亡</a></li>
+<li><a href="http://china.rednet.cn/c/2016/01/14/3887552.htm" target="_blank" >杭州一炒货店宣传用“最优秀” 面临20万元大罚单</a></li>
+<li><a href="http://china.rednet.cn/c/2016/01/14/3887511.htm" target="_blank" >男子为祛霉转运在街头裸奔 精神正常</a></li>
+<li><a href="http://china.rednet.cn/c/2016/01/14/3887525.htm" target="_blank" >快递小哥为玩游戏每天花700元雇人替他送快递</a></li>
+<li><a href="http://china.rednet.cn/c/2016/01/13/3886560.htm" target="_blank" >男子公交站撒万元现金离去 路人捡起交警察</a></li>
+</ul>
+                        </div>
+                    </div><!-- .layout END -->
+
+                    <div class="layout pdjx clearfix" style="display:none;">
+                        <div class="left">
+                            <div class="img"><a href="http://ent.rednet.cn/c/2016/01/15/3889031.htm"><img src="http://img.redimg.cn/p//2016/01/15/panxuan_20160115123749_0.jpg" alt="“袋鼠”baby在田地上撒欢" /></a></div>
+                            <div class="text"><a href="http://ent.rednet.cn/c/2016/01/15/3889031.htm">“袋鼠”baby在田地上撒欢</a></div>
+                        </div>
+                        <div class="right">
+                            <span><ul><li><a href="http://ent.rednet.cn/c/2016/01/15/3888590.htm" target="_blank" >第88届奥斯卡提名 莱昂纳多又争影帝!</a></li>
+</ul></span> 
+                            <ul><li><a href="http://ent.rednet.cn/c/2016/01/15/3888597.htm" target="_blank" >“哈利波特”悼念“斯内普”艾伦长文催泪</a></li>
+<li><a href="http://ent.rednet.cn/c/2016/01/15/3888551.htm" target="_blank" >46岁伊能静讲述受孕艰辛过程 预产期为7月</a></li>
+<li><a href="http://ent.rednet.cn/c/2016/01/15/3888530.htm" target="_blank" >侯佩岑示范处理前任婚礼：礼到人不到</a></li>
+<li><a href="http://ent.rednet.cn/c/2016/01/14/3888161.htm" target="_blank" >湖南本土喜剧“一家老小”贺岁 韵的还是长沙味 </a></li>
+<li><a href="http://ent.rednet.cn/c/2016/01/14/3887719.htm" target="_blank" >周星驰《美人鱼》被曝签20亿票房保底 片方：不知情</a></li>
+<li><a href="http://ent.rednet.cn/c/2016/01/14/3887588.htm" target="_blank" >《康熙》正式终结 蔡康永感慨：认真和你道别</a></li>
+<li><a href="http://ent.rednet.cn/c/2016/01/14/3887517.htm" target="_blank" >46岁伊能静怀二胎 前夫庾澄庆这么说…</a></li>
+<li><a href="http://ent.rednet.cn/c/2016/01/13/3886496.htm" target="_blank" >廖凡将回长沙为父亲举行追悼活动</a></li>
+</ul>
+                        </div>
+                    </div><!-- .layout END -->
+
+                    <div class="layout pdjx clearfix" style="display:none;">
+                        <div class="left">
+                            <div class="img"><a href="http://fdc.rednet.cn/c/2015/12/31/3877238.htm"><img src="http://img.redimg.cn/p//2015/12/31/gh_20151231095630_0.jpg" alt="2015房地产十大新闻" /></a></div>
+                            <div class="text"><a href="http://fdc.rednet.cn/c/2015/12/31/3877238.htm">2015房地产十大新闻</a></div>
+                        </div>
+                        <div class="right">
+                            <span><ul><li><a href="http://fdc.rednet.cn/c/2016/01/15/3888539.htm" target="_blank" >去年长沙棚改项目开工79个</a></li>
+</ul></span> 
+                            <ul><li><a href="http://fdc.rednet.cn/c/2016/01/15/3888518.htm" target="_blank" >2015年长沙楼市改善型需求放量 </a></li>
+<li><a href="http://fdc.rednet.cn/c/2016/01/15/3888502.htm" target="_blank" >长沙：公积金贷款购房不再要求自证单身</a></li>
+<li><a href="http://fdc.rednet.cn/c/2016/01/11/3885116.htm" target="_blank" >新年首周长沙楼市遇冷 住宅成交量环比下跌近5成</a></li>
+<li><a href="http://fdc.rednet.cn/c/2016/01/11/3884838.htm" target="_blank" >长沙两类新购商品房可享契税优惠 地税：建议先免后缴</a></li>
+<li><a href="http://fdc.rednet.cn/c/2016/01/11/3884690.htm" target="_blank" >长沙卖地收入塌方创5年最低 房企避开土地一级市场</a></li>
+<li><a href="http://fdc.rednet.cn/c/2016/01/11/3884500.htm" target="_blank" >长沙购房主力6成来自市州 专家：2016房价或涨7%</a></li>
+<li><a href="http://fdc.rednet.cn/c/2016/01/08/3882851.htm" target="_blank" >天心区近3000平方米城市菜园将变停车场</a></li>
+<li><a href="http://fdc.rednet.cn/c/2016/01/08/3882848.htm" target="_blank" >长沙公寓市场投资窗口期或在2016年</a></li>
+</ul>
+                        </div>
+                    </div><!-- .layout END -->
+
+                    <div class="layout pdjx clearfix" style="display:none;">
+                        <div class="left">
+                            <div class="img"><a href="http://tour.rednet.cn/c/2016/01/11/3884481.htm"><img src="http://images.rednet.cn/ArticleImage/2016/01/11/1113548511.jpg" alt="那些承载乡愁的零食点心" /></a></div>
+                            <div class="text"><a href="http://tour.rednet.cn/c/2016/01/11/3884481.htm">那些承载乡愁的零食点心</a></div>
+                        </div>
+                        <div class="right">
+                            <span><ul><li><a href="http://tour.rednet.cn/c/2016/01/15/3888884.htm" target="_blank" >周末有去处啦 湖南这些景区可赏雪景</a></li>
+</ul></span> 
+                            <ul><li><a href="http://tour.rednet.cn/c/2016/01/15/3888549.htm" target="_blank" >湖南全省国家湿地公园总数达60个 居全国第一</a></li>
+<li><a href="http://tour.rednet.cn/c/2016/01/15/3888536.htm" target="_blank" >湖南烈士公园跃进湖临湖栈道预计春节前开放</a></li>
+<li><a href="http://tour.rednet.cn/c/2016/01/15/3888513.htm" target="_blank" >雪景正美 长沙大围山降入冬第一场雪</a></li>
+<li><a href="http://tour.rednet.cn/c/2016/01/15/3888485.htm" target="_blank" >雪凇妆点大围山国家森林公园(图)</a></li>
+<li><a href="http://tour.rednet.cn/c/2016/01/14/3887835.htm" target="_blank" >张家界核心景区武陵源再迎降雪 宛如水墨画（组图）</a></li>
+<li><a href="http://tour.rednet.cn/c/2016/01/14/3887655.htm" target="_blank" >感受土家民俗魅力 “鸡罩捕鱼”年味浓</a></li>
+<li><a href="http://tour.rednet.cn/c/2016/01/14/3887449.htm" target="_blank" >告别雾霾天 去邂逅一次冰雪奇缘（图）</a></li>
+<li><a href="http://tour.rednet.cn/c/2016/01/13/3887339.htm" target="_blank" >处女星号邮轮广州母港航次受捧 湖南市场全面上线</a></li>
+</ul>
+                        </div>
+                    </div><!-- .layout END -->
+                </div><!-- .tabcontent END -->
+            </div><!-- .tabbox pdtj END -->
+
+            <div id="adb_tj_2"></div>
+
+            <div class="box zhzx">
+                <div class="boxtitle">综合资讯</div>
+                <div class="boxcontent" id="zhzx">
+
+                </div>
+            </div><!-- .zhzx END -->
+
+            <div id="adb_tj_3" class="mb"></div>
+
+            <div class="clearfix two">
+                <div class="box fl">
+                    <div class="boxtitle">消费资讯</div>
+                    <div class="zx">
+                        <ul class="picbox clearfix">
+                            <li><a href="http://life.rednet.cn/c/2015/12/24/3871770.htm"><img src="http://img.redimg.cn/p//2015/12/25/xiongliying_20151225104513_0.jpg"  alt="橘洲彩灯嘉年华开幕" />橘洲彩灯嘉年华开幕</a></li>
+                            <li><a href="http://wed.rednet.cn/c/2015/12/25/3872914.htm"><img src="http://img.redimg.cn/p//2016/01/06/xiongliying_20160106171222_0.jpg"  alt="在长沙首选三家婚纱店" />在长沙首选三家婚纱店</a></li>
+                        </ul>
+                        <ul class="txtbox">
+                            <li><a href="http://life.rednet.cn/c/2016/01/14/3888346.htm">橘洲彩灯嘉年华继续精彩 10万人次刷爆朋友圈</a> </li>
+                            <li><a href="http://life.rednet.cn/c/2016/01/13/3887304.htm">夜饭去哪吃？盘点长沙最适合吃年夜饭的20家餐厅</a> </li>
+                            <li><a href="http://life.rednet.cn/c/2016/01/13/3887186.htm">素素挑食记：在爱顿的“Tiffany蓝”里品味美食</a> </li>
+                            <li><a href="http://life.rednet.cn/c/2016/01/04/3879494.htm">盘点2015年星城韵味湘菜榜 随手收藏不装酷！</a> </li>
+                            <li><a href="http://life.rednet.cn/c/2016/01/07/3882461.htm">日料只有寿司+拉面？ 吃吃这十家店自己来体会</a> </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="box fr">
+                    <div class="boxtitle">商旅资讯</div>
+                    <div class="zx">
+                        <ul class="picbox clearfix">
+                            <li><a href="http://tour.rednet.cn/c/2015/12/03/3855317.htm"><img src="http://img.redimg.cn/p//2015/12/30/yangyang_20151230091714_0.jpg" alt="旅游小姐秀火辣身材" />旅游小姐秀火辣身材</a></li>
+                            <li><a href="http://tour.rednet.cn/c/2015/11/23/3846657.htm"><img src="http://img.redimg.cn/p//2015/11/23/daike_20151123114823_0.jpg" alt="这些国家美女成灾" />这些国家美女成灾</a></li>
+                        </ul>
+                        <ul class="txtbox">
+                            <li><a href="http://tour.rednet.cn/c/2015/12/03/3855047.htm">一网打尽各色美食 盘点九大城市热门美食街</a> </li>
+                            <li><a href="http://tour.rednet.cn/c/2016/01/04/3878959.htm">2010-2015年，最值得湖南人记住的旅游新闻</a> </li>
+                            <li><a href="http://tour.rednet.cn/c/2016/01/04/3878955.htm">元旦长沙生态动物园新生6只珍贵小白虎（图）</a> </li>
+                            <li><a href="http://tour.rednet.cn/c/2015/12/02/3854038.htm">越冬越动 三种方式带你玩转整个冬天</a> </li>
+                            <li><a href="http://tour.rednet.cn/c/2015/12/15/3863972.htm">张家界天门山迎今冬第二场雪 漫山雪凇美如画</a> </li>
+                        </ul>
+                    </div>
+                </div><!-- .box fr END -->
+            </div><!-- .two END -->
+
+            <div id="adb_tj_4"></div>
+
+            <div class="box">
+                <div class="boxtitle">企业推广</div>
+                <div id="BottomAD" class="ad">
+
+                </div>
+            </div>
+        </div><!-- #mainblock END -->
+        <div id="sidebar">
+<div id="adb_r1" class="mb">
+            </div>
+
+
+            <div id="adb_r2" class="mb">
+            </div>
+
+
+            <div class="box ad">
+                <div class="boxtitle">热点新闻</div>
+                <div class="boxcontent">
+                    <ul class="picbox clearfix">
+                     <li><a href="http://photo.rednet.cn/"><img src="http://img.redimg.cn/p//2016/01/15/lishan_20160115112222_0.jpg" alt="和你一起看夕阳" />和你一起看夕阳</a></li>
+                     <li><a href="http://photo.rednet.cn/space.php?uid=187047&do=blog&id=128828"><img src="http://img.redimg.cn/p//2016/01/15/lishan_20160115112505_0.jpg" alt="棉线拉出室内“彩虹”" />棉线拉出室内“彩虹”</a></li>
+                     <li><a href="http://photo.rednet.cn/space.php?uid=4823984&do=album&picid=482143"><img src="http://img.redimg.cn/p//2016/01/13/fengnn_20160113112105_0.jpg" alt="镜头中的金球奖明星" />镜头中的金球奖明星</a></li>
+                     <li><a href="http://photo.rednet.cn/space.php?uid=4795943&do=album&picid=482162"><img src="http://img.redimg.cn/p//2016/01/13/fengnn_20160113112432_0.jpg" alt="迪拜HIPA影赛结果" />迪拜HIPA影赛结果</a></li>
+                    </ul>
+                    <h4><a href="http://china.rednet.cn/c/2016/01/15/3888706.htm" target="_blank">女子瘦60斤 办身份证被要求证明“你是你”</a></h4>
+                    <ul class="txtbox">
+                        <li><a href="http://china.rednet.cn/c/2016/01/15/3888692.htm">【聚焦】2016年31省婚假出炉 5省晚婚假取消</a></li>
+                        <li><a href="http://china.rednet.cn/c/2016/01/15/3889330.htm">【聚焦】沪指跌3.55%险守2900 两市2306股飘绿</a></li>
+                        <li><a href="http://hn.rednet.cn/c/2016/01/15/3888665.htm">【长沙】长沙城区中小学将实行错时放学</a></li>
+                        <li><a href="http://hn.rednet.cn/c/2016/01/15/3889216.htm">【长沙】长沙市委办集中回应23位网民</a></li>
+                        <li><a href="http://hn.rednet.cn/c/2016/01/15/3888639.htm">【社会】醉酒男遭碾压 司机发现是人后为时已晚</a></li>
+                        <li><a href="http://hn.rednet.cn/c/2016/01/15/3888627.htm">【社会】女婴出生两天捐肾救人 获捐者康复出院</a></li>
+                        <li><a href="http://hn.rednet.cn/c/2016/01/15/3888990.htm">【社会】运沙船撞击湘潭铁路下行桥桥墩危及行车</a></li>
+                        <li><a href="http://china.rednet.cn/c/2016/01/15/3888088.htm">【社会】老汉剪碎14万现金 儿子花3月拼接10万</a></li>
+                        <li><a href="http://globe.rednet.cn/c/2016/01/15/3888753.htm">【国际】印尼警方称雅加达袭击事件致7死17伤</a></li>
+                        <li><a href="http://ent.rednet.cn/c/2016/01/15/3888590.htm">【娱乐】奥斯卡提名！小李子第四次角逐影帝</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div id="adb_r3" class="mb">
+            </div>
+
+
+            <div class="box ad">
+                <div class="boxtitle">生活资讯</div>
+                <div class="boxcontent">
+                    <h4><a href="http://tour.rednet.cn/c/2016/01/15/3889081.htm" target="_blank">湖南各地过年多“怪俗”（图）</a></h4>
+                    <ul class="txtbox">
+                        <li><a href="http://fdc.rednet.cn/c/2016/01/06/3881235.htm"><font color=#0000FF>【房产】公积金新政：长沙“85后”搞定大户型</font></a></li>
+                        <li><a href="http://auto.rednet.cn/news/20161/3233227.html">【汽车】 六款节能优惠合资紧凑级轿车推荐</a></li>
+                        <li><a href="http://life.rednet.cn/c/2016/01/14/3888302.htm">【消费】可爱老男孩Dirk的德餐王国（图）</a></li>
+                        <li><a href="http://money.rednet.cn/c/2016/01/15/3888532.htm"><FONT color=#0000ff>【财富】第二批次猴币预约1月16日开抢</FONT></a></li>
+                        <li><a href="http://jt.rednet.cn/c/2016/01/13/3886664.htm">【交通】长沙温州通高铁 看看“高姐”的一天组(组图)</a></li>
+                        <li><a href="http://edu.rednet.cn/">【教育】红贝网带进走进银行增长财商</a></li>
+                        <li><a href="http://yq.rednet.cn/c/2016/01/08/3882722.htm">【园区】国内首个轨道交通国家级工业设计中心花落中车株机</a></li>
+                        <li><a href="http://hn.rednet.cn/c/2016/01/13/3887335.htm">【能源】湖南成品油零售价下调</a></li>
+                        <li><a href="http://jj.rednet.cn/c/2016/01/14/3888248.htm"><font color=#0000FF>【家居】工地会说话：个性设计为新家量身定制</font></a></li>
+                        <li><a href="http://zt.rednet.cn/c/zt/42331/">【税务】专题：税收中的衣食住行</a></li>
+                        <li><a href="http://health.rednet.cn/">【健康】一张表告诉肚子痛的“名堂”</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div id="adb_r4" class="mb">
+            </div>
+
+
+            <div class="box ad">
+                <div class="boxtitle">娱乐 视听</div>
+                <div class="boxcontent">
+                    <ul class="picbox clearfix">
+                     <li><a href="http://ent.rednet.cn/c/2016/01/15/3888551.htm"><img src="http://img.redimg.cn/p//2016/01/15/panxuan_20160115122230_0.jpg" alt="她为怀二胎 打针取卵" />她为怀二胎 打针取卵</a></li>
+                     <li><a href="http://ent.rednet.cn/c/2016/01/14/3887770.htm"><img src="http://img.redimg.cn/p//2016/01/14/huyi_20160114112544_0.jpg" alt="大尺度！小S性感写真" />大尺度！小S性感写真</a></li>
+                     <li><a href="http://video.rednet.cn/html/2016/0115/30442.html"><img src="http://img.redimg.cn/p//2016/01/15/pengsha_20160115120513_0.jpg" alt="陈慧琳素颜"床照"曝光" />陈慧琳素颜"床照"曝光</a></li>
+                     <li><a href="http://video.rednet.cn/html/2016/0115/30453.html"><img src="http://img.redimg.cn/p//2016/01/15/pengsha_20160115120906_0.jpg" alt="男神合影 网友:被电晕" />男神合影 网友:被电晕</a></li>
+                    </ul>
+                    <ul class="txtbox">
+                        <li><a href="http://ent.rednet.cn/c/2016/01/15/3888590.htm">【娱乐】奥斯卡提名！小李子第四次角逐影帝</a></li>
+                        <li><a href="http://ent.rednet.cn/c/2016/01/15/3888597.htm">【娱乐】“哈利波特”悼念“斯内普”长文催泪</a></li>
+                        <li><a href="http://video.rednet.cn/html/2016/0115/30446.html">【视频】警惕“你掉钱了”骗局</a></li>
+                        <li><a href="http://video.rednet.cn/html/2016/0115/30444.html">【视频】“嫦娥四号”计划于2018年发射</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div id="adb_r5" class="mb">
+            </div>
+
+
+            <div class="box ad">
+                <div class="boxtitle">百姓呼声</div>
+                <div class="boxcontent">
+                    <h4><a href="http://wz.rednet.cn" target="_blank">2015年网民留言办理积极单位名单</a></h4>
+                    <ul class="txtbox">
+                        <li><a href="http://wz.rednet.cn/article.asp?id=10889">株洲市人民政府办回复3位网友的留言</a></li>
+                        <li><a href="http://wz.rednet.cn/article.asp?id=10766">湖南官方一年回应网民超2万次</a></li>
+                        <li><a href="http://people.rednet.cn/PeopleShow.asp?ID=2638928">2015年红网《百姓呼声》栏目年度简报</a></li>
+                        <li><a href="http://315.rednet.cn/PeopleShow.asp?ID=2644519">2015年红网《消费维权》年度简报</a></li>
+                        <li><a href="http://315.rednet.cn/PeopleShow.asp?ID=2643814">京东商城退款2个月未到账钱到底去哪了-图</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div id="adb_r6" class="mb">
+            </div>
+
+            <div class="box ad">
+                <div class="boxtitle">红网论坛</div>
+                <div class="boxcontent">
+                    <h4><a href="http://bbs.rednet.cn/thread-45155740-1-1.html" target="_blank">带你玩味土家族寒冬“鸡笼罩鱼”大战(图)</a></h4>
+                    <ul class="txtbox">
+                        <li><a href="http://bbs.rednet.cn/thread-45155388-1-1.html">春节临近老爷们要留意了 这些饭局不能去</a></li>
+                        <li><a href="http://bbs.rednet.cn/forum.php?mod=viewthread&tid=45152475&extra=page%3D1%26filter%3Dauthor%26orderby%3Ddateline">人民好交警开了张罚单 车主都不好意思了</a></li>
+                        <li><a href="http://bbs.rednet.cn/thread-45155823-1-1.html">在中国，不同时代结婚的“三大件”(图)</a></li>
+                        <li><a href="http://bbs.rednet.cn/thread-45155894-1-1.html">19岁女子利用天津港爆炸诈骗10万元被抓</a></li>
+                        <li><a href="http://bbs.rednet.cn/thread-45155984-1-1.html">手机上的中国人，你错过了什么？</a></li>
+                        <li><a href="http://bbs.rednet.cn/thread-45155944-1-1.html">微信绑定银行卡 怀化女子4800多元被盗刷</a></li>
+                        <li><a href="http://bbs.rednet.cn/thread-45156368-1-1.html">支付宝发2015年账单 湖南人均年花费3.67万</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!--div id="adb_r7" class="box ad">
+                <div class="boxtitle">企业服务</div>
+                <div class="boxcontent" id="adb_r7_box" >
+
+
+                </div>
+            </div-->
+
+            <div id="adb_r8" >
+
+            </div>
+        </div><!-- #sidebar END -->
+    </div><!-- #main END -->
+
+</div><!-- #wrapper END -->
+<div id="foot" style="font-size:12px;text-align:center;line-height:2em;clear:both;">
+    <a href="http://www.rednet.cn/aboutus/">关于我们</a> - 
+    <a href="http://www.rednet.cn/ad/">广告业务</a> - 
+    <a href="http://www.rednet.cn/zhaopin/">红网诚聘</a> - 
+    <a href="http://channel.rednet.cn/sxs/">实习申请</a> - 
+    <a href="mailto:webmaster@rednet.cn">webmaster</a> - 
+    <a href="http://tg.rednet.cn/">网上投稿</a> - 
+    <a href="http://www.rednet.cn/xwxs/">新闻热线</a> - 
+    <a href="http://www.rednet.cn/union/">友情链接</a> 
+    <div class="copy">
+        Copyright &copy; rednet.cn All Rights Reserved.
+    </div>
+</div>
+
+
+<div id="extra" style="display:none;">
+    
+</div>
+
+<script type="text/javascript" src="http://img.redimg.cn/js/jquery/latest.js"></script>
+<script type="text/javascript" src="http://ad.rednet.cn/Code/960.htm"></script>
+
+<script type="text/javascript">
+var isMobile;
+isMobile = isMobileUserAgent();
+
+function isMobileUserAgent(){
+     return (/iphone|ipad|ipod|android.*mobile|windows.*phone|blackberry.*mobile/i.test(window.navigator.userAgent.toLowerCase()));
+}
+
+function loadScript(url, callback){
+    var script = document.createElement("script")
+    script.type = "text/javascript";
+    script.async = true;
+    if (script.readyState){
+        //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" || script.readyState == "complete"){
+                script.onreadystatechange = null;
+                callback();
+            }
+        };
+    }
+    else {//Others
+        script.onload = function(){
+        callback();
+        };
+    }
+    script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+}
+
+
+$(document).ready(function(){
+    
+    loadBanner();
+    addSearch();
+    //loadScript('http://ad.rednet.cn/Code/971.htm',function(){});
+    //loadScript('http://ad.rednet.cn/Code/960.htm',function(){});
+
+    //$('#cba').append('<div class="mb">'+ifr('http://info.rednet.cn/Program/786.html',598,226)+'</div>');
+
+    $('.info').append('红网官方微博 <a href="http://weibo.com/weirednet" ><img src="http://info.rednet.cn/c/mb2012/img/sina.gif" width="16" height="16" alt="红网新浪官微" style="display:inline;"  /></a> <a href="http://t.qq.com/xiaohongrenhd" ><img src="http://info.rednet.cn/c/mb2012/img/tencent.gif" width="16" height="16" alt="红网腾讯官微" style="display:inline;" /></a>');
+
+    $('#undercontent').append('<a href="http://moment.rednet.cn/"><img src="http://img.redimg.cn/www/mobi/image/app.png" alt="更多精彩内容，尽在时刻新闻客户端"></a>');
+    //$('#wrapper').before('<div style="margin-top:280px;margin-left: 480px;overflow: hidden;position: fixed !important; position: absolute; /*ie6 and above*/z-index: 999;cursor: pointer;background: #fff;width:150px;height:200px;border:1px solid lightGrey;box-shadow: 0 0 3px #DDD;-webkit-border-radius: 5px;-ms-border-radius: 5px;-moz-border-radius: 5px;-o-border-radius: 5px;border-radius: 5px;left:50.5%;visibility: visible;text-align:center;"><img src="http://info.rednet.cn/c/mb2012/img/rednetwechat-150.jpg" width="150" height="150" /><div style="font-size:14px;line-height:20px;">红网官方微信<br />手机里的最湖南</div></div>');
+
+
+    (function(){
+        $("ul.menu li:first-child").addClass("current");
+        $("div.tabcontent").find("div.layout:not(:first-child)").hide();
+        $("div.tabcontent div.layout").attr("id", function(){return idNumber("No")+ $("div.tabcontent div.layout").index(this)});
+        $("ul.menu li").mouseover(function(){
+            var c = $("ul.menu li");
+            var index = c.index(this);
+            var p = idNumber("No");
+                show(c,index,p);
+            });
+
+            function show(controlMenu,num,prefix){
+                var content= prefix + num;
+                $('#'+content).siblings().hide();
+                $('#'+content).show();
+                controlMenu.eq(num).addClass("current").siblings().removeClass("current");
+            };
+
+            function idNumber(prefix){
+                var idNum = prefix;
+                return idNum;
+            };
+    })();
+
+    if(isMobile){
+        $('#adb_tj_1').remove();
+        $('#adb_r8').remove();
+    }
+
+
+    // 2015/5/28 add baidu tongji
+    loadScript('http://hm.baidu.com/hm.js?aaecf8414f59c3fb0127932014cf53c7',function(){}); 
+
+    // 2014/12/15 add new counter
+    loadScript('http://cl3.webterren.com/webdig.js?z=41',function(){wd_paramtracker('_wdxid=000000000000000000000000000000000000000000');}); 
+
+
+});
+
+
+$(window).load(function(){
+    (function (){
+        var pageCount = 0;
+        var pageIndex = 1;
+        var pager = '';
+        var baseUrl = '',prevUrl='',nextUrl='';
+        var img;
+        var width,height,top,left;
+        var btnHTML = '';
+
+        pager = $(".pager").text();
+        pageCount = $(".pager a").size();
+
+        if(pageCount>4){
+            if(pager.indexOf('上一页')!=-1){
+                pageCount -= 1; // 去除上一页
+            }
+            if(pager.indexOf('下一页')!=-1){
+                pageCount -= 1; // 去除下一页
+            }
+        }
+
+        if(pageCount>4){
+            pageIndex = $("a.curpage").text();
+            baseUrl = $("a.curpage").attr("href");
+            baseUrl = baseUrl.replace(/(_\d{0,2})?.htm/,'');
+                
+            img = $(".news img");
+            width = img.width()+10; // padding:5
+            height = img.height()+10;
+            top = img.offset().top;
+            left = img.offset().left;
+
+            if(pageIndex==1){
+                btnHTML = '';
+            }
+            else{
+                if(pageIndex==2){
+                    prevUrl = baseUrl + '.htm';
+                }
+                else{
+                    prevUrl = baseUrl + '_' + (pageIndex-2) + '.htm';
+                }
+                
+                btnHTML = '<div id="btnPrevPage" style="position:absolute;display:block;width:'+width/2+'px;height:'+ height + 'px;left:'+left+'px;top:' + top + 'px; z-index:100;font-size:72px;color:#fff;line-height:' + height + 'px;cursor:pointer;background:#fff;opacity:0.01;filter:alpha(opacity=1);"></div><div style="position:absolute; display:block; width:80px;height:80px;left:' + (left+10) + 'px;top:' + (top+height/2-40) + 'px; z-index:90; text-align:left; font-size:72px; color:#fff; line-height:80px;" >&lt;</div>';
+            }
+
+            if(pageIndex==pageCount){
+                
+            }
+            else{
+                nextUrl = baseUrl + '_' + pageIndex + '.htm';
+                btnHTML += '<div id="btnNextPage" style="position:absolute; display:block; width:' + width/2 + 'px;height:' + height + 'px;left:' + (left+width/2) + 'px;top:' + top + 'px; z-index:100; text-align:right; font-size:72px; color:#fff; line-height:' + height + 'px;cursor:pointer;background:#fff;opacity:0.01;filter:alpha(opacity=1);" ></div><div style="position:absolute; display:block; width:80px;height:80px;left:' + (left+width-90) + 'px;top:' + (top+height/2-40) + 'px; z-index:90; text-align:right; font-size:72px; color:#fff; line-height:80px;" >&gt;</div>';
+            }
+        
+            $(".news").append(btnHTML);
+        }
+
+        $('#btnPrevPage').click(function(){window.location = prevUrl; });
+        $('#btnNextPage').click(function(){window.location = nextUrl; });
+
+    })();    
+
+
+});
+
+
+
+    
+
+function addSearch(){
+    var html=[];
+    /*
+    html.push('<style>');
+    html.push('#lpsearch{float:right;margin:3px 0 0; display:inline-block;}');
+    html.push('#lpsearch .textBox {width:90px; height:18px; color:#777;border:1px solid #ccc; float:left; line-height:18px; text-indent:3px;}');
+    html.push('#lpsearch .btn {border:1px solid #ccc;background:#efefef; width:40px; height:20px; float:left; line-height:18px; font-size:12px; cursor:pointer;}');
+    html.push('</style>');
+    */
+    html.push('<div id="lpsearch">');
+    html.push('<form action="http://s.rednet.cn/" accept-charset="utf-8" onsubmit="document.charset=\'utf-8\';">');
+    html.push('<input name="q" id="searchinput" type="text" value="请输入关键词" class="textBox" onfocus="javascript:if(this.value==\'请输入关键词\'){this.value=\'\';this.style.color=\'#000\'}" onblur="javascript:if(this.value==\'\'){this.value=\'请输入关键词\';this.style.color=\'#7B7C7D\'}"  size="20">');
+    html.push('<input name="scope" value="1" type="hidden">');
+    html.push('<input name="title" value="0" type="hidden">');
+    html.push('<input type="submit" class="btn" value="搜索" onclick="javascript:var input=document.getElementById(\'searchinput\');if(input.value==\'请输入关键词\'){input.value=\'\';input.focus();input.style.color=\'#000\';return false;} return true;"/> ');
+    html.push('</form></div>');
+    $('.path').append(html.join(''));
+}
+
+function loadBanner(){
+	var sd = document.domain.split('.')[0];
+	var hb = {'hn':974,'news':975,'gov':976,'china':977,'globe':978,'av':979,
+	'ent':980,'hlj':981,'tax':982,'ny':983,'yq':984,'jj':985,'fdc':986,
+    'auto':987,'money':988,'health':989,'edu':990,'jt':991,'tour':992,
+    'life':993,'qy':1161,'aq':1194,'pf':1214,'3c':1203,'zscq':1241,'yz':1247};
+	var url = 'http://ad.rednet.cn/Code/974.htm';
+	if(hb[sd]>0){url = url.replace('974',hb[sd]);};
+	loadScript(url,function(){});
+}
+
+function ifr(iUrl,iWidth,iHeight){
+    return '<iframe src="' + iUrl + '" width="'+iWidth+'" height="'+iHeight+'" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" ></iframe>';
+}
+
+
+
+
+
+
+
+</script>
+
+<!-- Baidu Button BEGIN -->
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":["weixin","qzone","tsina","tqq","sqq","tieba","mshare"],"bdPic":"","bdStyle":"0","bdSize":"32"},"slide":{"type":"slide","bdImg":"4","bdPos":"right","bdTop":"220"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<!-- Baidu Button END -->
+
+
+
+</body>
+</html>

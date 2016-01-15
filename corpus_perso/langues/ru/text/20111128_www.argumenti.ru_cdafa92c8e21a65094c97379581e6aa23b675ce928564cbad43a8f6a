@@ -1,0 +1,973 @@
+<script>console.log('/home/engine.new_git/website/controllers/EventsController.php');</script><script>console.log('/home/engine.new_git/website/lib/Website/Controller/Portal.php');</script>    
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>В Липецке стартовал месячник по борьбе со СПИДом. Здоровье в Липецке. Новости Липецка</title>	<meta name="keywords" content="" />
+<meta name="description" content="Новости" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="Новости" />	<meta name='yandex-verification' content='73393ed1a1d3c72a' />
+	
+	<link href="http://yandex.st/bootstrap/2.3.2/css/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="/website/static/css/des-new2/skin/index2013.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/website/static/css/banners/bannersSystem.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/rss/city48_news.rss" rel="alternate" type="application/rss+xml" title="Портал gorodlip.ru" />
+<link href="/website/static/css/events/event.css" media="screen" rel="stylesheet" type="text/css" />	<script type="text/javascript" src="http://yandex.st/jquery/1.8.3/jquery.js"></script>
+<script type="text/javascript" src="/website/static/js/mainpage/loaderscripts.js"></script>
+<script type="text/javascript" src="/account/static/js/auth/checkauth.js"></script>
+<!--[if lt IE 9]> <script type="text/javascript" src="http://cdn.vorle.ru/002/des-new2/js/lightview-3.2.1/js/excanvas/excanvas.js"></script><![endif]-->
+<script type="text/javascript" src="http://yandex.st/jquery/cookie/1.0/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://yandex.st/jquery/swfobject/1.1.1/jquery.swfobject.js"></script>
+<script type="text/javascript" src="http://yandex.st/json2/2011-10-19/json2.js"></script>
+<script type="text/javascript" src="/website/static/js/banners/bannersSystem.js"></script>
+<script type="text/javascript" src="/website/static/js/adapt/adapt.js"></script>
+<script type="text/javascript" src="/website/static/js/events/event.js"></script>
+<script type="text/javascript" src="/website/static/js/lightview/lightview.js"></script>	<style type="text/css">
+		.truehard {border:1px solid grey;}
+	</style>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-59460104-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	
+	<!--  -->
+	<script type="text/javascript" src="/website/static/js/galleria-1.2.2.min.js"></script>
+	
+	<!-- Index.ru -->
+	<script type="text/javascript">
+		var indexru = { counter : 1, next : indexru };
+		(function( d, t, p ){
+		var j = d.createElement( t );j.async = true;j.type = "text/javascript";
+		j.src = ("https:" == p ? "https:" : "http:") + "//c.index.ru/cnt.js";
+		var s = d.getElementsByTagName( t )[0];
+		s.parentNode.insertBefore( j, s );
+		})( document, "script", document.location.protocol );
+	</script>
+	<!-- /Index.ru -->
+</head>
+<body>
+	<!--NG-->
+	<script type="text/javascript">
+	sitePath = "/website/static/img";
+	sflakesMax = 64;
+	sflakesMaxActive = 64;
+	svMaxX = 3;
+	svMaxY = 3;
+	ssnowStick = 1;
+	sfollowMouse = 1;
+	</script>
+	<script type="text/javascript" src="/website/static/img/snow.js"></script>
+	
+	<script type="text/javascript">
+		//<![CDATA[
+			function myCallback(i, width) {
+				var html = document.documentElement;
+				html.className = html.className.replace(/(\s+)?range_\d/g, '');
+				if (i > -1) {html.className += ' range_' + i;}
+			}
+			var ADAPT_CONFIG = {
+				path: '/website/static/css/des-new2/css/',
+				dynamic: true,
+				callback: myCallback,
+				range: [
+				  '1100px to 1280px = width1200.css', '1400px = width1400.css'
+				]
+			};
+			adapt(ADAPT_CONFIG);
+		//]]>
+	</script>
+	
+	
+	<div style="height: 1px;overflow: hidden;"></div>
+	
+	<div class="bannerPlace place_a"><div id="place_a"></div></div>
+	
+	<!-- O Registration: -->
+	<div id="shadow_aj"></div>
+	<input id="hiddenfield" type="hidden">
+	<!-- O end -->  
+
+	<div class="top" id="top">
+		<div class="top2">
+  
+				<script>console.log('/home/engine.new_git/website/views/scripts/index2013/header.phtml');</script>
+<script>
+	var usd = 0.0;
+	var usd_diff = 0.0;
+	var usd_html = '';
+	var eur = 0.0;
+	var eur_diff = 0.0;
+	var eur_html = '';
+	
+	function exchange(){
+		$.getJSON('http://www.vorle.ru/exchange')
+			.success(function(data){
+				//
+				// USD 
+				$('#usd_val').html(data['USD000UTSTOM']);
+				
+				if (usd == 0.0){
+					usd = data['USD000UTSTOM'];
+				}else if(usd != data['USD000UTSTOM']){
+					usd_diff = Math.round((usd - data['USD000UTSTOM']) * 10000) / 10000;
+					usd = data['USD000UTSTOM'];
+				}
+				//if (usd_diff == 0) usd_html = '<span style="color:#333;"><strong>0</strong></span>';
+				if (usd_diff < 0) usd_html = '<span style="color:#FF0000;"><strong>'+usd_diff+'</strong></span>';
+				if (usd_diff > 0) usd_html = '<span style="color:#008000;"><strong>+'+usd_diff+'</strong></span>';
+				
+				$('#usd_diff').html(usd_html);
+				//
+				// EUR
+				$('#eur_val').html(data['EUR_RUB__TOM']);
+				
+				if (eur == 0.0){
+					eur = data['EUR_RUB__TOM'];
+				}else if(eur != data['EUR_RUB__TOM']){
+					eur_diff = Math.round((eur - data['EUR_RUB__TOM']) * 10000) / 10000;
+					eur = data['EUR_RUB__TOM'];
+				}
+				//if (eur_diff == 0) eur_html = '<span style="color:#333;"><strong>0</strong></span>';
+				if (eur_diff < 0) eur_html = '<span style="color:#FF0000;"><strong>'+eur_diff+'</strong></span>';
+				if (eur_diff > 0) eur_html = '<span style="color:#008000;"><strong>+'+eur_diff+'</strong></span>';
+				
+				$('#eur_diff').html(eur_html);
+			})
+			.error(function(jqXHR, textStatus, errorThrown) {
+				console.log('error: '+textStatus);
+				console.log("incoming Text: " + jqXHR.responseText);
+			});
+		setTimeout(exchange, 1000);
+	}
+	$(document).ready(function(){
+		//exchange();
+	});
+</script>
+
+    <div id="header"> 
+	<div class="d00">
+            <div class="wrapper">
+            
+                <div class="info l">
+		    <div class="towel"></div>
+		    <div class="sky">
+                
+
+		                                <img src="http://cdn.vorle.ru/002/des-new2/weather/w03.png" alt="" />
+                                                                                                 <div class="temp">
+                              <a title="-8 .. -10 &#186;C" href="http://www.gismeteo.ru/city/daily/4437/" target="_blank">-8 .. -10 &#186;C</a>
+                          </div>
+                                    </div>
+                </div>
+
+				<div id="new-top-menu">
+					<ul>
+						<li><a href="http://www.vorle.ru/uslugi/sozdanie-saytov">СОЗДАНИЕ САЙТОВ</a></li>
+						<li><a href="http://www.vorle.ru/uslugi/podderzhka-saytov">ПОДДЕРЖКА САЙТОВ</a></li>
+						<li><a href="http://www.vorle.ru/uslugi/prodvizhenie-saytov">ПРОДВИЖЕНИЕ САЙТОВ</a></li>
+						<li><a href="">БАННЕРНАЯ РЕКЛАМА</a></li>
+					</ul>
+				</div>
+                <div class="info r">
+                <!--    <div class="search">
+                        <form method="get" action="/search/">
+                            <input type="text" name="q" value="" class="search-query" />
+                            <input type="submit" value="найти" style="display: none;" />
+                        </form>
+                    </div>
+                -->    
+             
+                    <div class="account out"></div>
+            
+                    <br class="clear" />
+                    <!--div class="online">
+                        <p id="online"></p>
+                    </div-->
+                    
+                    <div class="time">
+                            <!--<div class="watch">00:00</div>-->
+                                                          <div class="date">15 января 2016</div>
+                              <div class="day">пятница</div>
+                                                </div>
+                </div>
+                
+            </div>
+	</div>
+    </div>
+    <div id="menu">
+	<div class="wrapper">
+	    <div class="logo">
+        <!--img src="/website/static/img/september.png" style="position: absolute;top: -51px;z-index: 2;left: -6px;" /-->
+          
+            
+            <a href="/"><img alt="" src="/portal/design/logo/dc48.png"></a> 
+
+          	    </div>
+	    <style type="text/css">ul li a.none-ac:hover {
+ background: transparent
+</style>
+<ul class="main"><!--li class="act"--><!--li>
+<a href="http://www.prosto-kyhni31.ru/" style="padding:0px;" title="Просто кухни"><img src="/portal/design/branding/kuhni/img/button.jpg" /></a></li-->
+	<li><a href="http://gorodlip.ru/events/e29113175/" style="padding: 0px!important;"><img src="/portal/design/obezyana.png" /></a></li>
+	<li><a href="/events/" title="Новости">Новости</a>
+	<ul class="drop">
+		<li><a href="/events/s10045076/" title="Авто">Авто</a></li><li><a href="/events/s10045645/" title="Архив событий">Архив событий</a></li><li><a href="/events/s27683627/" title="Бизнес">Бизнес</a></li><li><a href="/events/s27143228/" title="Город">Город</a></li><li><a href="/events/s10045075/" title="Здоровье">Здоровье</a></li><li><a href="/events/s10045079/" title="Культура">Культура</a></li><li><a href="/events/s10045073/" title="Недвижимость">Недвижимость</a></li><li><a href="/events/s10507144/" title="Новости компаний">Новости компаний</a></li><li><a href="/events/s10045082/" title="Новости сайта">Новости сайта</a></li><li><a href="/events/s10045074/" title="Образование">Образование</a></li><li><a href="/events/s10045069/" title="Общество">Общество</a></li><li><a href="/events/s10045068/" title="Официально">Официально</a></li><li><a href="/events/s10045071/" title="Политика">Политика</a></li><li><a href="/events/s10045070/" title="Происшествия">Происшествия</a></li><li><a href="/events/s10045080/" title="Спорт">Спорт</a></li><li><a href="/events/s10045072/" title="Экономика">Экономика</a></li>
+		<li><a href="/events/s15019136/" title="Новости Tele2">Новости Tele2</a></li>
+		<li><a href="/events/s10045076/" title="Авто в Липецке">Авто в Липецке</a></li>
+		<li><a href="/events/arc/" title="Архив новостей">Архив новостей​</a></li>
+		<li class="all"><a href="/events/" title="Все новости">Все новости</a></li>
+	</ul>
+	</li>
+	<li><a href="/job/" title="Работа у нас">Работа у нас</a></li>
+	<li><a href="#" title="Справочник">Справочник</a>
+	<ul class="drop">
+		<li><a href="/go/auto.gorodlip.ru" title="">Авто в Липецке</a></li>
+		<li><a href="http://gorodlip.ru/otrasl/agrobiznes/proizvodstvo/">Агробизнес</a></li>
+		<li><a href="/otrasl/prom/pishevaya/" title="Промышленность в Липецке">Промышленность</a></li>
+		<li><a href="/events/e28892047/" title="">Кружки и секции</a></li>
+		<li><a href="/spravka.php" title="">Горячие телефоны</a></li>
+		<li><a href="/otrasl/gostinica/gostinitsa/" title="Гостиницы Липецка">Гостиницы</a></li>
+		<li><a href="/otrasl/dosug/" title="Отдых и досуг в Липецке">Отдых</a></li>
+		<li><a href="/otrasl/dostavka/" title="Доставка в Липецке">Доставка</a></li>
+		<li><a href="/otrasl/prazdnik/" title="">Праздник</a></li>
+		<li><a href="/otrasl/pitomci/vetkliniki/" title="Питомцы в Липецке">Питомцы</a></li>
+		<li><a href="/katalog_tovar.php" title="">Товары и услуги</a></li>
+		<li><a href="/otrasl/krasota/" title="Красота в Липецке">Красота</a></li>
+		<li><a href="/otrasl/mebel/" title="Мебель Липецка">Мебель</a></li>
+		<li><a href="/otrasl/medicina/" title="Медицина">Медицина</a></li>
+		<!--<li><a href="/go/kvartira.gorodlip.ru/" title="">Недвижимость</a></li>-->
+		<li><a href="/otrasl/education/" title="">Образование</a></li>
+		<li><a href="/otrasl/odezhda/" title="Одежда и обувь в Липецке">Одежда и обувь</a></li>
+		<li><a href="/katalog_firm.php" title="Организации Липецка">Организации</a></li>
+		<li><a href="/go/rabota.gorodlip.ru/" title="">Работа</a></li>
+		<li><a href="/otrasl/stroy/" title="">Строительство</a></li>
+		<li><a href="/otrasl/technika/bitovaya/" title="">Техника</a></li>
+		<li><a href="/otrasl/telekommunikacii/internet_provajdery/" title="">Телекоммуникации</a></li>
+		<li><a href="/otrasl/turizm/turagentstva/" title="">Туризм</a></li>
+		<li><a href="/otrasl/finansy/" title="Банки в Липецке">Финансы</a></li>
+		<li><a href="/uslugi/" title="">Услуги портала</a></li>
+		<li><a href="/otrasl/ecology/econews/" title="Экология в Липецкой области">Экология</a></li>
+		<li class="all">&nbsp;</li>
+	</ul>
+	</li>
+	<li><a href="/afisha/" title="Афиша">Афиша</a>
+	<ul class="drop">
+		<li><a href="/afisha/s10036680/" title="Балет">Балет</a></li><li><a href="/afisha/s10000023/" title="Выставки">Выставки</a></li><li><a href="/afisha/s10036723/" title="Гастроли">Гастроли</a></li><li><a href="/afisha/s15074878/" title="Детям">Детям</a></li><li><a href="/afisha/s10000234/" title="Кино">Кино</a></li><li><a href="/afisha/s10000024/" title="Клубы">Клубы</a></li><li><a href="/afisha/s10038566/" title="Конкурсы">Конкурсы</a></li><li><a href="/afisha/s10000241/" title="Концерты">Концерты</a></li><li><a href="/afisha/s10042435/" title="Культура">Культура</a></li><li><a href="/afisha/s27838714/" title="Митинги">Митинги</a></li><li><a href="/afisha/s10038513/" title="Музеи">Музеи</a></li><li><a href="/afisha/s27429370/" title="Образование и бизнес">Образование и бизнес</a></li><li><a href="/afisha/s10036734/" title="Опера">Опера</a></li><li><a href="/afisha/s10036695/" title="Оперетта">Оперетта</a></li><li><a href="/afisha/s10000025/" title="Парки отдыха">Парки отдыха</a></li><li><a href="/afisha/s28450719/" title="Пляжи">Пляжи</a></li><li><a href="/afisha/s10000322/" title="Спектакли">Спектакли</a></li><li><a href="/afisha/s10000020/" title="Спорт">Спорт</a></li><li><a href="/afisha/s10036676/" title="Фестивали">Фестивали</a></li><li><a href="/afisha/s11158405/" title="Филармония">Филармония</a></li><li><a href="/afisha/s10038438/" title="Цирк">Цирк</a></li>
+		<li class="all"><a href="/afisha/" title="Вся афиша">Вся афиша</a></li>
+	</ul>
+	</li>
+	<li><a href="#" title="Интересное">Интересное</a>
+	<ul class="drop">
+		<li><a href="/go/www.admlr.lipetsk.ru/rus/title/index.php" title="">Администрация области</a></li>
+		<!--<li><a href="/anekdot/index.php" title="">Анекдоты</a></li>--><!--<li><a href="/horoscop/spisok.php" title="">Гороскопы</a></li>-->
+		<li><a href="/karta_lipetska?cb11165543=" title="">Карта</a></li>
+		<!--<li><a href="/go/bazar.gorodlip.ru" title="">Доска объявлений</a></li>-->
+		<li><a href="/go/konkurs.gorodlip.ru/" title="">Конкурс</a></li>
+		<li><a href="/events/" title="Липецкие новости">Новости</a></li>
+		<li><a href="/events/s10507144/" title="">Новости компаний</a></li>
+		<!--<li><a href="/public/public.php?id_razdel=79" title="">Обзор новинок</a></li>-->
+		<li><a href="/opros/" title="">Опросы</a></li>
+		<li><a href="/online/p1" title="">Прямая линия</a></li>
+		<!--<li><a href="/klient.php" title="">Наши партнеры</a></li>-->
+		<li><a href="/yand/" title="Сайты">Сайты Липецка</a></li>
+		<li><a href="/events/e28688766/" title="">Транспорт</a></li>
+		<li><a href="http://gorodlip.ru/events/e29071033/  " title="">Кружки и секции</a></li>
+		<li><a href="/forum/" title="">Форум</a></li>
+	</ul>
+	</li>
+	<li class="last"><a href="/karta_lipetska?cb11165543=" title="Карта">Карта</a></li>
+</ul>
+
+<p>&nbsp;</p>
+	</div>
+</div>		
+		<div class="wrapper">
+
+
+			<div id="content">
+				<div class="container">
+					<div class="tops">
+						<div class="notice">
+						<img src="/website/static/img/prazdniki/Jan/15.png" style="height: 60px; float: left;"/>
+						<!--h2 style="width: 230px;float: left;margin-top: 2px;">29 декабря</h2>
+						День розыска забытых благодарностей<br />
+					 
+						<span style="color: red;">День службы профессионально-психологического отбора МВД (41 год)!</span>
+						    <!--?=$this->sBlockDidYouKnow?-->
+						</div>
+						<div class="bannerPlace place_b">
+						    <div id="place_b"></div>
+						</div>
+						<!--div class="bannerPlace place_e">
+						    <div id="place_e"></div>
+						</div-->
+
+					</div>
+
+					<div class="alertBlock">
+										
+					</div>
+					
+
+
+
+        
+        <div class="column1">
+          <div class="pimcore_area_bannerTypes pimcore_area_content">
+
+
+        <div class="bannerPlace"><center><div id="place_s"></div></center></div>
+      <div class="bannerPlace"><center><div id="place_e"></div></center></div>
+  
+
+</div><div style=position:relative;padding-bottom:12px;width:240px;height:400px;><object type=application/x-shockwave-flash data=/website/static/img/240x400_VW_Tiguan_dealer.swf width=240px height=400px><param name=wmode value=opaque><param name=movie value=/website/static/img/240x400_VW_Tiguan_dealer.swf><param name=quality value=high>
+		<img src=></object><a style=position:absolute;left:0;top:0;cursor:pointer;width:240px;height:196px; href=http://www.vw-lipetsk.genser.ru/specactions/specactions012013.html target=_blank></a></div><div class='bannerPlace'><div id='place_e'></div></div><div class="pimcore_area_eventBlock pimcore_area_content">
+    <div id="ajaxBlockeventsLast"></div>
+</div><script>console.log('/home/engine.new_git/website/views/scripts/blocks/eventsLast.php')</script>
+ 
+  
+  <div id="ajaxBlockOpros"></div>
+<script>
+document.getElementById("div2").style.display="none";
+if (Math.floor(Math.random()*10)>4){
+	document.getElementById('div1').style.display='none';
+	document.getElementById('div2').style.display='block';
+}else{
+	document.getElementById('div2').style.display='none';
+	document.getElementById('div1').style.display='block';
+}
+
+//setInterval("toggle()",5000);
+</script>
+        </div>
+                
+        <div class="column2">
+          <script>
+document.getElementById("div2").style.display="none";
+if (Math.floor(Math.random()*10)>4){
+	document.getElementById('div1').style.display='none';
+	document.getElementById('div2').style.display='block';
+}else{
+	document.getElementById('div2').style.display='none';
+	document.getElementById('div1').style.display='block';
+}
+
+//setInterval("toggle()",5000);
+</script>
+        </div>
+                
+        <div class="column3">
+          <script>
+document.getElementById("div2").style.display="none";
+if (Math.floor(Math.random()*10)>4){
+	document.getElementById('div1').style.display='none';
+	document.getElementById('div2').style.display='block';
+}else{
+	document.getElementById('div2').style.display='none';
+	document.getElementById('div1').style.display='block';
+}
+
+//setInterval("toggle()",5000);
+</script>
+        </div>
+        <script>console.log('/home/engine.new_git/website/views/scripts/templates/columns.php');</script>
+<div class="wideColumn">
+            <div class="block">
+      <h4><a href="/events/">Новости</a> <span class="divider">/</span> <a href="/events/s10045075/">Здоровье</a> <span class="date event"> <i class="icon-time"></i> 25 ноября 2011 в 16:27</span></h4>
+        
+        <div class="eventContent lightview">
+                        <h1>В Липецке стартовал месячник по борьбе со СПИДом</h1>
+            <p class="lid">Месячник, посвященный Всемирному дню борьбы со СПИДом, проходит с 15 ноября по 15 декабря.</p>
+            
+<p><a href="http://cdn.vorle.ru/002/pic27500959.jpg" target="_blank">
+                          <img src="http://cdn.vorle.ru/002/pic27500959x246.jpg" alt=" " style="float: right; margin: 0px 0px 10px 10px;"></a>Цель мероприятий, проходящих в рамках месячника -  привлечь внимание горожан к вопросам профилактики и борьбы со СПИДом, а также проинформировать жителей областного центра об этой всемирной проблеме.</p>
+<p>
+
+Как сообщает пресс-служба мэрии, сейчас в Липецке проходят семинары со специалистами по медицинской профилактике. К примеру, в любом медицинском учреждении можно увидеть специальные стенды с информацией о проведении акции "Проверь себя! Пройди тест на ВИЧ!"</p>
+<p>
+
+
+На базе Липецкого областного Центра по профилактике и борьбе со СПИДом открыта горячая линия. Позвонив по телефону 35-54-64, липчане смогут получить исчерпывающие ответы на интересующие их вопросы.</p>
+<p>
+
+По статистике, в Липецком регионе распространенность ВИЧ - одна из самых низких самых низких в России. Но все равно внимание этой проблеме уделяется постоянно. Ведь больше 93% липчан, которые инфицированы, относятся к дееспособной части населения - им от 18 до 49 лет.</p>
+<p>
+
+Больше всего ВИЧ-инфицированных среди мужчин – 53,3%. Также основной способ передачи СПИДа - это половой путь (67,6%), а 26% инфицированных - наркоманы.</p>             <br class="clear">
+            <div class="copypast"><a href="/copypast">Правила использования материалов</a></div>
+                    </div>
+
+        
+    </div>
+        
+    
+            <div id="ajaxBlockComments"></div>
+
+    <div class="pimcore_area_direct pimcore_area_content">
+    
+  <div class="block ">
+
+    <h4>Реклама</h4>
+
+
+<!-- Яндекс.Директ -->
+<div id="yandex_ad"></div>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+    w[n] = w[n] || [];
+    w[n].push(function() {
+        Ya.Direct.insertInto(44954, "yandex_ad", {
+            site_charset: "utf-8",
+            ad_format: "direct",
+            font_size: 1,
+            type: "horizontal",
+            limit: 3,
+            title_font_size: 3,
+            site_bg_color: "FFFFFF",
+            header_bg_color: "FEEAC7",
+            title_color: "0000CC",
+            url_color: "006600",
+            text_color: "000000",
+            hover_color: "0066FF",
+            favicon: true
+        });
+    });
+    t = d.documentElement.firstChild;
+    s = d.createElement("script");
+    s.type = "text/javascript";
+    s.src = "http://an.yandex.ru/system/context.js";
+    s.setAttribute("async", "true");
+    t.insertBefore(s, t.firstChild);
+})(window, document, "yandex_context_callbacks");
+</script>
+
+  </div>
+
+</div>	
+<!--div id="n4p_30075">Loading...</div>
+<script type="text/javascript" charset="utf-8">
+  (function(d,s){
+    var o=d.createElement(s);
+    o.async=true;
+    o.type="text/javascript";
+    o.charset="utf-8";
+    if (location.protocol == "https:") {
+      o.src="https://js-ru.redtram.com/n4p/0/30/ticker_30075.js";
+    }
+    else {
+      o.src="http://js.ru.redtram.com/n4p/0/30/ticker_30075.js";
+    }
+    var x=d.getElementsByTagName(s)[0];
+    x.parentNode.insertBefore(o,x);
+  })(document,"script");
+</script-->
+    
+    <div class="pimcore_area_eventsInCities pimcore_area_content">
+    <div id="ajaxBlockArea_eventsInCities"></div>
+</div>    
+    
+</div>
+<script>console.log('/home/engine.new_git/website/views/scripts/events/event.php');</script>					<br class="clear" />
+									</div>
+
+				<div class="column4">
+
+<!-- спец. брендирование -->
+
+
+<!-- end --!>
+
+					<div class="pimcore_area_bannerTypes pimcore_area_content">
+
+  <div class="_block ">
+
+        <div class="bannerPlace"><center><div id="place_c"></div></center></div>
+      <div class="bannerPlace"><center><div id="place_n"></div></center></div>
+      <div class="bannerPlace"><center><div id="place_p"></div></center></div>
+  
+  </div>
+
+</div>					<!--
+					<div class="bannerPlace"><div id="place_p"></div></div>
+					<div class="bannerPlace"><div id="place_n"></div></div>
+					<div class="bannerPlace"><div id="place_c"></div></div>
+					-->
+					<div class="block all-site">
+<h4>Наша сеть</h4>
+    <ul class="citiesMenu"><li> <a rel="nofollow" id="menu-city_1888" title="Белгород" class=" main" href="http://vbelgorode.com/" target="_blank">Белгород</a></li> <li> <a rel="nofollow" id="menu-city_431" title="Брянск" class=" main" href="http://www.vbryanske.com/" target="_blank">Брянск</a></li> <li> <a rel="nofollow" id="menu-city_473" title="Иваново" class=" main" href="http://vivanovo.com/" target="_blank">Иваново</a></li> <li> <a rel="nofollow" id="menu-city_347" title="Воронеж" class=" main" href="http://vvoronezhe.ru/" target="_blank">Воронеж</a></li> <li> <a rel="nofollow" id="menu-city_515" title="Калуга" class=" main" href="http://www.vkaluge.ru/" target="_blank">Калуга</a></li> <li> <a rel="nofollow" id="menu-city_263" title="Курск" class=" main" href="http://vkurske.com/" target="_blank">Курск</a></li> <li> <a rel="nofollow" id="menu-city_220" title="Липецк" class=" main mainactive" href="/" target="_blank">Липецк</a></li> <li> <a rel="nofollow" id="menu-city_96" title="Орел" class=" main" href="http://www.vorle.ru/" target="_blank">Орел</a></li> <li> <a rel="nofollow" id="menu-city_557" title="Рязань" class=" main" href="http://www.vryazani.ru/" target="_blank">Рязань</a></li> <li> <a rel="nofollow" id="menu-city_599" title="Смоленск" class=" main" href="http://www.vsmolenske.ru/" target="_blank">Смоленск</a></li> <li> <a rel="nofollow" id="menu-city_641" title="Твери" class=" main" href="http://www.vtveri.ru/" target="_blank">Тверь</a></li> <li> <a rel="nofollow" id="menu-city_305" title="Тула" class=" main" href="http://vtule.ru/" target="_blank">Тула</a></li> <li> <a rel="nofollow" id="menu-city_683" title="Ярославль" class=" main" href="http://www.vyaroslavle.ru/" target="_blank">Ярославль</a></li> </ul>    
+</div>					
+										   
+	<br />
+
+<!--img src="/website/static/img/eva.jpg" /><br /><br /-->
+<a href="http://vk.com/club56436856" target="_blank"><img src="/website/static/img/mse.jpg" /></a><br /><br />
+<!--a href="http://yoga48.ru/" target="_blank"><img src="/website/static/img/yoga.png" /></a><br /><br /-->
+
+
+				</div>
+				<br class="clear" />
+
+
+
+
+
+			</div>
+
+		</div>
+		
+		<a class="scrollUp" href="#top">Наверх</a>
+<div id="footer">
+    <div class="wrapper">
+        <div class="copyright">
+            <p>© ООО <a href="/contact.php">"Регион центр"</a> 2004-2015 © ИА vRossii.ru<br />
+Свидетельство о регистрации СМИ ИА № ФС 77-35502<br />
+выдано РОСКОМНАДЗОРом 04 марта&nbsp;2009г.<br />
+<a href="/events/e10941218/">Информация об агентстве</a><br />
+Данный ресурс может содержать материалы 18+</p>
+
+        </div>
+        <div class="counter">
+            <img src="http://www.vorle.ru/counter/48x1x145287269.png">
+            <img class="block18" src="/portal/design/18.png">
+        </div>
+        <div class="f468 place_b">
+		<script type="text/javascript">
+    <!--//
+    var _sape_partner_refid = 'hKRvFbsSCy';
+    document.write('<script type="text/javascript" src="//cdn-rtb.sape.ru/partner-b/js/sape/swf/2_468x60_20.swf.js"></script>');
+    //-->
+</script></div>
+        <br class="clear" />
+        <div class="flogo r">
+		
+                      <a href="http://gorodlip.ru"><img alt="" src="/portal/design/logo/48.png"></a> 
+                  </div>
+        <div class="link" style="margin: 10px 0px 10px 0px">
+            <ul class="citiesMenu"><li> <a rel="nofollow" id="menu-city_1888" title="Белгород" class=" main" href="http://vbelgorode.com/" target="_blank">Белгород</a></li> <li> <a rel="nofollow" id="menu-city_431" title="Брянск" class=" main" href="http://www.vbryanske.com/" target="_blank">Брянск</a></li> <li> <a rel="nofollow" id="menu-city_473" title="Иваново" class=" main" href="http://vivanovo.com/" target="_blank">Иваново</a></li> <li> <a rel="nofollow" id="menu-city_347" title="Воронеж" class=" main" href="http://vvoronezhe.ru/" target="_blank">Воронеж</a></li> <li> <a rel="nofollow" id="menu-city_515" title="Калуга" class=" main" href="http://www.vkaluge.ru/" target="_blank">Калуга</a></li> <li> <a rel="nofollow" id="menu-city_263" title="Курск" class=" main" href="http://vkurske.com/" target="_blank">Курск</a></li> <li> <a rel="nofollow" id="menu-city_220" title="Липецк" class=" main mainactive" href="/" target="_blank">Липецк</a></li> <li> <a rel="nofollow" id="menu-city_96" title="Орел" class=" main" href="http://www.vorle.ru/" target="_blank">Орел</a></li> <li> <a rel="nofollow" id="menu-city_557" title="Рязань" class=" main" href="http://www.vryazani.ru/" target="_blank">Рязань</a></li> <li> <a rel="nofollow" id="menu-city_599" title="Смоленск" class=" main" href="http://www.vsmolenske.ru/" target="_blank">Смоленск</a></li> <li> <a rel="nofollow" id="menu-city_641" title="Твери" class=" main" href="http://www.vtveri.ru/" target="_blank">Тверь</a></li> <li> <a rel="nofollow" id="menu-city_305" title="Тула" class=" main" href="http://vtule.ru/" target="_blank">Тула</a></li> <li> <a rel="nofollow" id="menu-city_683" title="Ярославль" class=" main" href="http://www.vyaroslavle.ru/" target="_blank">Ярославль</a></li> </ul>        </div>
+		<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31297513 = new Ya.Metrika({
+                    id:31297513,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/31297513" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    </div>
+</div>
+
+	<!--google-->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript async src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	function google() {
+	  if (typeof(_gat) == 'object') {
+		var pageTracker = _gat._getTracker("UA-6474502-3");
+		pageTracker._trackPageview();
+	  }
+	  else {
+		setTimeout(google, 500);
+	  }
+	}
+	google();
+	</script>
+
+	<!--SpyLOG-->
+	<span id="spylog2022092"></span><script type="text/javascript">
+	var spylog = { counter: 2022092, image: undefined, next: spylog }; document.write(unescape("%3Cscript async src=%22http" +
+	(("https:" == document.location.protocol) ? "s" : "") +
+	"://counter.spylog.com/cnt.js%22 defer=%22defer%22%3E%3C/script%3E")); </script>
+	<!--SpyLOG-->
+
+
+
+<!-- Yandex.Metrika counter -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { var yaCounter44954 = new Ya.Metrika({id:44954,
+        webvisor:true,
+	clickmap:true,
+        accurateTrackBounce:true,type:1});
+    } catch(e) { }
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/44954?cnt-class=1" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!-- Add jQuery library -->
+	<!--script type="text/javascript" src="/website/static/img/jquery-1.10.1.min.js"></script>   
+
+	<!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="/website/static/img/jquery.mousewheel-3.0.6.pack.js"></script>
+
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="/website/static/img/jquery.fancybox.js?v=2.1.5"></script>
+	<link rel="stylesheet" type="text/css" href="/website/static/img/jquery.fancybox.css?v=2.1.5" media="screen" />
+
+	<!-- Add Button helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="/website/static/img/jquery.fancybox-buttons.css?v=1.0.5" />
+	<script type="text/javascript" src="/website/static/img/jquery.fancybox-buttons.js?v=1.0.5"></script>
+
+	<!-- Add Thumbnail helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="/website/static/img/jquery.fancybox-thumbs.css?v=1.0.7" />
+	<script type="text/javascript" src="/website/static/img/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+	<!-- Add Media helper (this is optional) -->
+	<script type="text/javascript" src="/website/static/img/jquery.fancybox-media.js?v=1.0.6"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+
+			/*
+			 *  Different effects
+			 */
+
+			// Change title type, overlay closing speed
+			$(".fancybox-effects-a").fancybox({
+				helpers: {
+					title : {
+						type : 'outside'
+					},
+					overlay : {
+						speedOut : 0
+					}
+				}
+			});
+
+			// Disable opening and closing animations, change title type
+			$(".fancybox-effects-b").fancybox({
+				openEffect  : 'none',
+				closeEffect	: 'none',
+
+				helpers : {
+					title : {
+						type : 'over'
+					}
+				}
+			});
+
+			// Set custom style, close if clicked, change title type and overlay color
+			$(".fancybox-effects-c").fancybox({
+				wrapCSS    : 'fancybox-custom',
+				closeClick : true,
+
+				openEffect : 'none',
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					overlay : {
+						css : {
+							'background' : 'rgba(238,238,238,0.85)'
+						}
+					}
+				}
+			});
+
+			// Remove padding, set opening and closing animations, close if clicked and disable overlay
+			$(".fancybox-effects-d").fancybox({
+				padding: 0,
+
+				openEffect : 'elastic',
+				openSpeed  : 150,
+
+				closeEffect : 'elastic',
+				closeSpeed  : 150,
+
+				closeClick : true,
+
+				helpers : {
+					overlay : null
+				}
+			});
+
+			/*
+			 *  Button helper. Disable animations, hide close button, change title type and content
+			 */
+
+			$('.fancybox-buttons').fancybox({
+				openEffect  : 'none',
+				closeEffect : 'none',
+
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					buttons	: {}
+				},
+
+				afterLoad : function() {
+					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+				}
+			});
+
+
+			/*
+			 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+			 */
+
+			$('.fancybox-thumbs').fancybox({
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+				arrows    : false,
+				nextClick : true,
+
+				helpers : {
+					thumbs : {
+						width  : 50,
+						height : 50
+					}
+				}
+			});
+
+			/*
+			 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+			*/
+			$('.fancybox-media')
+				.attr('rel', 'media-gallery')
+				.fancybox({
+					openEffect : 'none',
+					closeEffect : 'none',
+					prevEffect : 'none',
+					nextEffect : 'none',
+
+					arrows : false,
+					helpers : {
+						media : {},
+						buttons : {}
+					}
+				});
+
+			/*
+			 *  Open manually
+			 */
+
+			$("#fancybox-manual-a").click(function() {
+				$.fancybox.open('1_b.jpg');
+			});
+
+			$("#fancybox-manual-b").click(function() {
+				$.fancybox.open({
+					href : 'iframe.html',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+			$("#fancybox-manual-c").click(function() {
+				$.fancybox.open([
+					{
+						href : '1_b.jpg',
+						title : 'My title'
+					}, {
+						href : '2_b.jpg',
+						title : '2nd title'
+					}, {
+						href : '3_b.jpg'
+					}
+				], {
+					helpers : {
+						thumbs : {
+							width: 75,
+							height: 50
+						}
+					}
+				});
+			});
+
+
+		});
+	</script>
+
+<div class="li2014">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click;gorodlip' "+
+"target=_blank><img src='//counter.yadro.ru/hit;gorodlip?t14.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='0'><\/a>")
+//--></script><!--/LiveInternet-->
+</div>  
+	</div></div>
+<script>
+      
+      var stage = new swiffy.Stage(document.getElementById('swiffycontainer'),
+          swiffyobject, {});
+      
+      stage.start();
+
+    </script>
+	<script type="text/javascript">
+    //<![CDATA[
+    
+        function loadAjaxBlockeventsLast(){
+          $('#ajaxBlockeventsLast').load('/ajaxrequest/getblock/eventsLast?documentId=749&targetId=27500946');
+        }
+        jQuery(document).ready(function() {
+          loadAjaxBlockeventsLast();
+          //setTimeout('');
+        });
+      //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+      function loadAjaxBlockOpros(){
+        (function() {
+            var s = document.getElementsByTagName('script')[0];
+                var aScripts = [
+                    '/website/static/js/opros/blockOpros.js'
+                ];
+                var aCss = [
+                    '/website/static/css/opros/blockOpros.css'
+                ];
+                
+                for (var i=0; i<aCss.length; i++){
+                    po = document.createElement('link'); po.rel  = 'stylesheet'; po.type = 'text/css';
+                    po.async = true; po.href = aCss[i]; s.parentNode.insertBefore(po, s);
+                }
+                for (var i=0; i<aScripts.length; i++){
+                    po = document.createElement('script'); po.type = 'text/javascript';
+                    po.async = true; po.src = aScripts[i]; s.parentNode.insertBefore(po, s);
+                }
+        })();
+      
+        $('#ajaxBlockOpros').load('/ajaxrequest/getblock/opros');
+      }
+      jQuery(document).ready(function() {
+        setTimeout('loadAjaxBlockOpros()', 0);
+      });
+      //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+    	  var sBlockName = 'CommentsEvent';
+		  
+		  /**
+			*  Лоадер блока комментариев 
+			*/
+		  function loaderBlockComments(){
+			var oDivLoading = $('#ajaxBlockComments div.loading');
+			if (oDivLoading.length == 0) {
+			  $('#ajaxBlockComments').prepend('<div class="loading"></div>');
+			}
+			$('#ajaxBlockComments div.loading').ajaxStart(function(){
+				$(this).show();
+			}).ajaxStop(function(){ 
+				$(this).hide();
+			}).ajaxError(function() {
+			    alert('err connect');
+			   $(this).text('Ошибка в соединении.'); $(this).hide();
+			});
+		  }		
+		  
+          function loadajaxBlockComments(){
+			  var sResource = '';
+			  if (location.href.indexOf('afisha') > -1){
+			  	sResource = '&resource=afisha';
+			  }else if (location.href.indexOf('events') > -1){
+			  	sResource = '&resource=news';
+			  }else if (location.href.indexOf('online') > -1){
+			  	sResource = '&resource=online';
+			  }else if (location.href.indexOf('opros') > -1){
+			  	sResource = '&resource=opros';
+			  }
+            $('#ajaxBlockComments').load('/ajaxrequest/getblock/comments?targetId=27500946' + sResource);
+          }
+          jQuery(document).ready(function() {
+			(function() {
+				var s = document.getElementsByTagName('script')[0];
+					var aScripts = [
+						'/website/static/libs/wysibb/jquery.wysibb.min.js'
+					];
+					var aCss = [
+						'/website/static/css/events/comments.css',
+						'/website/static/libs/wysibb/theme/default/wbbtheme.css'
+					];
+					
+					for (var i=0; i<aCss.length; i++){
+						po = document.createElement('link'); po.rel  = 'stylesheet'; po.type = 'text/css';
+						po.async = true; po.href = aCss[i]; s.parentNode.insertBefore(po, s);
+					}
+					for (var i=0; i<aScripts.length; i++){
+						po = document.createElement('script'); po.type = 'text/javascript';
+						po.async = true; po.src = aScripts[i]; s.parentNode.insertBefore(po, s);
+					}
+			})();
+            setTimeout('loadajaxBlockComments()', 0);
+          });
+        //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+        function loadAjaxBlockArea_eventsInCities(){
+          $('#ajaxBlockArea_eventsInCities').load('/ajaxrequest/getblock/Area_eventsInCities?documentId=749&targetId=27500946');
+        }
+        jQuery(document).ready(function() {
+          loadAjaxBlockArea_eventsInCities();
+          //setTimeout('');
+        });
+      //]]>
+</script>	<script>
+			//Убираем битые ссылки
+			// начать повторы с интервалом 2 сек
+			var timerId = setInterval(function() {
+				$('img[src="/132123"]').parent().parent().next().remove();
+			 	$('img[src="/132123"]').parent().parent().remove();
+			 	//console.log( $('img') );
+			}, 1000);
+
+			// через 5 сек остановить повторы
+			setTimeout(function() {
+				clearInterval(timerId);
+			}, 5000);
+	</script>
+</body>
+</html>

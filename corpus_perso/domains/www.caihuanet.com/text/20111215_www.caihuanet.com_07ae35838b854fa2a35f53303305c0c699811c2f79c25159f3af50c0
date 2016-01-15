@@ -1,0 +1,2442 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>财华智库网_财华中国网</title>
+<meta name="Keywords" content="财经新闻、沪深股市、港股、全球股市、宏观经济、行业动态、投资市场分析、股市行情、证券要闻、市场研究报告、股市评级、财经媒体解读、财经观察、财华杂志、债券、期货、黄金、外汇、理财、投资。" />
+<meta name="description" content="财华智库网致力于以国际化的“财华视角”，全面报道并评述最新鲜的财经资讯，提供最新的宏观经济走势、主要行业的动态表现、以及沪深港三地行情指数。" />
+<meta name="google-site-verification" content="nwFIbQrXz9IHKAnZ1qyqLUkFeRVFd_lpJ9I2iLdkbhg" />
+<meta name="baidu-site-verification" content="chnQDYX1O3" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link type="text/css" rel="stylesheet" media="all" href="/templets/caihuanet/style/homepage.css?v=201309261948" />
+<link type="text/css" rel="stylesheet" media="all" href="/templets/caihuanet/images/main/main.css?v=20130926" />
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/jquery-1.7.1.min.js"></script>
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/finet.core.js?v=20130725"></script>
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/finet.app.common.js?v=20140128"></script>
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/finet.app.ad.js?v=201407031529"></script>
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/finet.app.home.js?v=20130926"></script>
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/flowplayer-3.2.11.min.js"></script>
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/www.js"></script>
+<script language="javascript" type="text/javascript" src="/templets/caihuanet/js/slides.min.jquery.js"></script>
+
+
+</head>
+<body>
+<div id="wrap">
+<div class="all_top"></div>
+<div class="header_top">
+
+<div class="top_eye">
+	<div class="logo">
+		<h1>财华智库网</h1>
+		<a href="/" target="_self"><img src="/templets/caihuanet/images/finet_logo.gif" alt="" title="财华社集团下属财华中国站" /></a>
+	</div>
+	<div style="float: right;"><!--<a href="http://magazine.finet.com.cn/"><img src="/templets/caihuanet/images/main/zz_maga.gif" /></a>--></div>
+	<div class="whole_links">
+		<ul>
+			<li><a href="/" title="首页">首页</a></li>
+			<li class="nav000"><img src="/templets/caihuanet/images/nav001.gif" width="1" height="11" /></li>
+			<li><a href="javascript:void(0);" id="sethomepage">设为首页</a></li>
+			<li class="nav000"><img width="1" height="11" src="/templets/caihuanet/images/nav001.gif"></li>
+			<li><a href="/rss/">RSS订阅中心</a></li>
+			<li class="nav000"><img src="/templets/caihuanet/images/nav001.gif" width="1" height="11" /></li>
+			<li><a href="javascript:void(0);" id="addcollect">加入收藏</a></li>
+			<li class="nav000"><img src="/templets/caihuanet/images/nav001.gif" width="1" height="11" /></li>
+			<li><a href="http://www.finet.hk/mainsite/index.htm">香港站</a></li>
+			<li class="nav000"><img src="/templets/caihuanet/images/nav001.gif" width="1" height="11" /></li>
+			<li><a href="http://corp.finet.com.cn/html/ir/stockinfo/">投资者关系(IR)</a></li>
+			<li class="nav000"><img src="/templets/caihuanet/images/nav001.gif" width="1" height="11" /></li>
+			<li><a href="http://bbs.finet.com.cn/home.php">财华社区</a></li>
+			<li class="nav000"><img src="/templets/caihuanet/images/nav001.gif" width="1" height="11" /></li>
+		</ul>
+	</div>
+ 
+	<div class="register"> 
+		<div style="float:right; margin-left:10px;">
+			<a target="_blank" href="http://e.weibo.com/caihuanet?ref=http%3A%2F%2Fwidget.weibo.com%2Fweiboshow%2Findex.php%3Flanguage%3D%26width%3D350%26height%3D250%26fansRow%3D2%26ptype%3D1%26speed%3D300%26skin%3D1%26isTitle%3D1%26noborder%3D0%26isWeibo%3D1%26isFans%3D0%26uid%3D2352781670%26verifier%3Dfc16074b%26dpc%3D1"><img src="/templets/caihuanet/images/main/weibo.gif"></a>
+		</div> 
+		<div style="float:right">
+			<form onsubmit="return a_log.submitLoginForm();" method="post" action="http://bbs.finet.com.cn/member.php?mod=logging&action=login&loginsubmit=yes&frommessage&loginhash=L0rnR" name="loginForm">
+				<input type="hidden" value="575af3fa" name="formhash">
+				<input type="hidden" value="http://bbs.finet.com.cn/home.php?ac=2109c392e0fcf57365c714d48e42a73b" name="referer">用户名：<input id="username" type="text" size="8" name="username">密码：<input id="password" type="password" size="12" name="password"><input id="loginBtn" class="btn" type="submit" value="登录" name="loginBtn"><a target="_blank" href="http://bbs.finet.com.cn/member.php?mod=register">注册</a>
+			</form>
+		</div>
+	</div> 
+
+</div>
+
+<div class="menu">
+<div id="navigation">
+<ul>
+	<li><a href="/news" class="m01">&nbsp;</a>
+	<ul style="width: 735px;">
+		<!--<li><a href="/news/caihuazhongguo">财华中国新闻</a></li>
+		<li><a href="/news/caihuaxianggang">财华香港新闻</a></li>-->
+		<li><a href="/news/dawjones">道琼斯新闻</a></li>
+		<li><a href="/news/ACNNewswire">亚太商讯</a></li>
+		<li><a href="/news/zhengquanyaowen">财经要闻</a></li>
+		<li><a href="/news/ganggujiaodian">港股焦点</a></li>
+		<li><a href="/news/hushenjiaodian">沪深焦点</a></li>
+		<li><a href="/news/redianyidong">热点异动</a></li>
+		<li><a href="/news/shangqing">中国商情</a></li>
+		<li></li>
+	</ul>
+	</li>
+	<li><a href="/hkstock" class="m02">&nbsp;</a>
+	<ul style="width: 630px;">
+		<li><a href="/hkstock/gongsixinwen">公司新闻</a></li>
+		<li><a href="/hkstock/yanjiubaogao">研究报告</a></li>
+		<li><a href="/hkstock/ganggugonggao">港股公告</a></li>
+		<!--<li><a href="/hkstock/jishicelue">即市策略</a></li>-->
+		<li><a href="/hkstock/daxingpingji">大行评级</a></li>
+		<li><a href="/hkstock/panzhongyidong">盘中异动</a></li>
+		<li><a href="/hkstock/wolun_niuxiongzheng">窝轮/牛熊证</a></li>
+		<li><a href="/hkstock/xinguzhuizong/zuixinxiaoxi">新股消息</a></li>
+		<li></li>
+	</ul>
+	</li>
+	<li><a href="/hsstock" class="m03">&nbsp;</a>
+	<ul style="width: 585px;">
+		<li><a href="/hsstock/zhengquanxinwen">证券要闻</a></li>
+		<li><a href="/hsstock/gupingzixun">股评资讯</a></li>
+		<li><a href="/hsstock/yanjiubaogao">研究报告</a></li>
+		<li><a href="/hsstock/gushigonggao">股市公告</a></li>
+		<li><a href="/hsstock/hongguanjingji">宏观经济</a></li>
+		<li><a href="/hsstock/shangpinxinxi">商品新闻</a></li>
+		<li><a href="/hsstock/waihuishichang">外汇市场</a></li>
+		<li><a href="/hsstock/zhaiquan">债券</a></li>
+		<li></li>
+	</ul>
+	</li>
+	<li><a href="/hwstocks" class="m04">&nbsp;</a>
+	<ul style="width: 247px;">
+		<li><a href="/hwstocks/meiguogushi">美国股市</a></li>
+		<li><a href="/hwstocks/ouzhougushi">欧洲股市</a></li>
+		<li><a href="/hwstocks/yataigushi">亚太股市</a></li>
+		<li></li>
+	</ul>
+	</li>
+<!--	<li><a href="/zl" id="sdfrdfsdf" class="m05">&nbsp;</a>
+	<ul style="width: 165px;">
+		<li><a href="/zl/mt">媒体专栏</a></li>
+		<li><a href="/zl/jg">机构专栏</a></li>
+		<li></li>
+	</ul>
+	</li>-->
+	<li><a href="http://quote.finet.com.cn/" target="_blank"
+		class="m06">&nbsp;</a></li>
+	<li><a href="http://corp.finet.com.cn/html/product/"
+		target="_blank" class="m07">&nbsp;</a></li>
+	<li><a href="http://bbs.finet.com.cn/home.php" target="_blank"
+		class="m08">&nbsp;</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="Global_zs">
+      <div class="g_zs_lb">
+		<ul>
+			  <li>
+				<p class="tit">上证综指</p>
+				<p class="per"><img src="/templets/caihuanet/images/arrow_green_up_t" id="indices_CHG_ICON_000001" style="display:none;"><span id="indices_CHG_000001">--</span></p>
+				<br>
+				<p class="num" id="indices_LAST_000001">--</p>
+			  </li>
+			  <li>
+				<p class="tit">国企指数</p>
+				<p class="per"><img src="/templets/caihuanet/images/arrow_green_up_t" id="indices_CHG_ICON_399001" style="display:none;"><span id="indices_CHG_399001">--</span></p>
+				<br>
+				<p class="num" id="indices_LAST_399001">--</p>
+			  </li>
+			  <li>
+				<p class="tit">沪深300</p>
+				<p class="per"><img src="/templets/caihuanet/images/arrow_green_up_t" id="indices_CHG_ICON_000300" style="display:none;"><span id="indices_CHG_000300">--</span></p>
+				<br>
+				<p class="num" id="indices_LAST_000300">--</p>
+			  </li>
+			  <li>
+				<p class="tit">恒生指数</p>
+				<p class="per"><img src="/templets/caihuanet/images/arrow_green_up_t" id="indices_CHG_ICON_HSI" style="display:none;"><span id="indices_CHG_HSI">--</span></p>
+				<br>
+				<p class="num" id="indices_LAST_HSI">--</p>
+			  </li>
+			  <li>
+				<p class="tit">道琼斯</p>
+				<p class="per"><img src="/templets/caihuanet/images/arrow_green_up_t" id="indices_CHG_ICON_DJI" style="display:none;"><span id="indices_CHG_DJI">--</span></p>
+				<br>
+				<p class="num" id="indices_LAST_DJI">--</p>
+			  </li>
+			  <li>
+				<p class="tit">纳斯达克</p>
+				<p class="per"><img src="/templets/caihuanet/images/arrow_green_up_t" id="indices_CHG_ICON_NASDAQ" style="display:none;"><span id="indices_CHG_NASDAQ">--</span></p>
+				<br>
+				<p class="num" id="indices_LAST_NASDAQ">--</p>
+			  </li>
+		</ul>
+	  
+	  </div>
+
+	<div class="g_zs_roll">
+		<div class="rollnews">
+			<div id="scroll_div" class="scroll_div">
+				<div id="scroll_begin"></div>
+				<div id="scroll_end"></div>
+			</div>
+			<script language="javascript">
+			$.ajax({
+				url: "/data/finet_cache/scroll.dat",
+				cache: false,
+				async: false,
+				success: function(html){$("#scroll_begin").html(html);}
+			});
+
+			function ScrollImgLeft(){
+				var speed=28;
+				var scroll_begin = document.getElementById("scroll_begin");
+				var scroll_end = document.getElementById("scroll_end");
+				var scroll_div = document.getElementById("scroll_div");
+
+				scroll_end.innerHTML=scroll_begin.innerHTML;
+
+				function Marquee(){
+				if(scroll_end.offsetWidth-scroll_div.scrollLeft<=0)
+					scroll_div.scrollLeft-=scroll_begin.offsetWidth; 
+				else 
+					scroll_div.scrollLeft++; 
+				};
+
+			    var MyMar=setInterval(Marquee,speed);
+
+				scroll_div.onmouseover=function() {
+					clearInterval(MyMar)
+				}
+				scroll_div.onmouseout=function() {
+					MyMar=setInterval(Marquee,speed)
+				};
+			};
+			
+			</script>
+			<script type="text/javascript">ScrollImgLeft();</script>
+		</div>
+		<div class="search">
+			<!--<form name="formsearch">
+				<input type="hidden" name="kwtype" value="0" />
+				<select name="searchtype" class="search-option" id="search-option">
+					<option value="title" selected='1'>香港股票</option>
+				</select>
+				<input onClick="javascript:this.value='';" type="text" value="港股代码" name="q" id="search-keyword" size="15">
+				<input type="buffton" id="gotothestockp" name="sBtn" class="sbtn" style="cursor: pointer;" value="查询">
+			</form>-->
+
+			 <form name="formsearch" action="" method="post" onSubmit="return a_com.searchSubmit();" target="search_iframe_do">
+				<iframe name="search_iframe_do" id="search_iframe_do" width="0" height="0" style="display:none;"></iframe>
+				<select id="searchType" name="searchType" class="search-option">
+					<option value="quotes" selected="selected">行情走势</option>
+					<option value="chart" >图表分析</option>
+					<option value="info" >公司资料</option>
+					<option value="news" >个股新闻</option>
+					<option value="finance" >财务数据</option>
+					<option value="dividends" >分红派息</option>
+				</select>
+				<input id="searchStockCode" onclick="c_1.inputClear( 'searchStockCode','请输入证券代码。' );" type="text" value="请输入证券代码。"  size="15" />
+				<input id="search" name="search" type="submit" class="sbtn" value="查询" />
+			  </form>
+
+
+		</div>
+	</div>
+</div>
+
+<div class="clear"></div>
+<div class="general">
+
+<div class="top_ad1"><script type="text/javascript" src="/plus/ad.php?n=ad_1"></script></div>
+
+<div class="general_left">
+<div id="main_box">
+	<div id="slides">
+		<div class="slides_container">
+					<div class="slist">
+				<div class="img"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215479.html"><img src="/uploads/zhuanti/160115/1452820458_机构助个股.jpg" /></a></div>
+				<div class="title"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215479.html">机构助个股“振幅10%+” 游资博弈跌停票</a></div>
+				<div class="dis"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215479.html">数据显示，第一波抄底的资金当中，机构的力量占据重要一席，不少振幅超过10%的股票都有它们的踪迹...</a></div>
+			</div>
+						<div class="slist">
+				<div class="img"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215521.html"><img src="/uploads/zhuanti/160115/1452820701_万科A.jpg" /></a></div>
+				<div class="title"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215521.html">宝能系资金濒危 万科A复牌后或蒸发160亿</a></div>
+				<div class="dis"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215521.html">随着万科A股复牌临近，如按照万科H股复牌后的25%跌幅，宝能系除了将损失百亿元级浮盈外，还将面临...</a></div>
+			</div>
+						<div class="slist">
+				<div class="img"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215489.html"><img src="/uploads/zhuanti/160115/1452821010_酒鬼.jpg" /></a></div>
+				<div class="title"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215489.html">中粮“动刀”*ST酒鬼 整合从换董事长开始？</a></div>
+				<div class="dis"><a href="http://www.finet.com.cn/news/hushenjiaodian/2016/0115/3215489.html">入主*ST酒鬼一年后，中粮集团开始对*ST酒鬼高层“动刀”。1月13日*ST酒鬼公告披露，董事长赵公微...</a></div>
+			</div>
+						<div class="slist">
+				<div class="img"><a href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0114/3213677.html"><img src="/uploads/zhuanti/160115/1452821350_员工 增持.jpg" /></a></div>
+				<div class="title"><a href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0114/3213677.html">3.5万员工携117亿增持A股惨遭套</a></div>
+				<div class="dis"><a href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0114/3213677.html">近一年来A股上市公司已实施的员工持股计划涉及员工总人数5.15万人，其中有3.5万名员工被套...</a></div>
+			</div>
+					</div>
+	</div>
+</div>
+
+<div class="g_l_tt">
+<div class="g_l_tt_subject">
+<h1><a
+	href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0115/3215601.html"
+	title="市场对大股东减持存在过度解读" target="_blank">市场对大股东减持存在过度解读</a></h1>
+<div class="stit_lb">
+<ul>
+		<li>[<a
+		href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0115/3215579.html"
+		title="上市公司“护盘”进行时" target="_blank">上市公司“护盘”进行时</a>]</li>
+		<li>[<a
+		href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0115/3215583.html"
+		title="两市承诺不减持公司超140家" target="_blank">两市承诺不减持公司超140家</a>]</li>
+		<li>[<a
+		href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0115/3215605.html"
+		title="人民币汇率战还在上演" target="_blank">人民币汇率战还在上演</a>]</li>
+		<li>[<a
+		href="http://www.finet.com.cn/hsstock/hongguanjingji/2016/0115/3215595.html"
+		title="大宗交易减持者否认被“指导”" target="_blank">大宗交易减持者否认被“指导”</a>]</li>
+	</ul>
+</div>
+</div>
+<div class="l_space"></div>
+<div class="g_l_tt_subject">
+<div class="g_t_title">
+财华播报
+</div>
+<div class="stit_2b">
+<ul>
+		<li><span>1</span> <a
+		href="http://www.finet.com.cn/hkstock/gongsixinwen/2016/0112/3209355.html"
+		title="恒大发7亿美元2019年到期的票据" target="_blank">恒大发7亿美元2019年到期的票据</a></li>
+		<li><span>2</span> <a
+		href="http://www.finet.com.cn/hkstock/gongsixinwen/2016/0112/3209505.html"
+		title="融信中国IPO仅获2.7%认购 " target="_blank">融信中国IPO仅获2.7%认购 </a></li>
+		<li><span>3</span> <a
+		href="http://www.finet.com.cn/hkstock/gongsixinwen/2016/0112/3209445.html"
+		title="中石化油服为去年有净利润解话" target="_blank">中石化油服为去年有净利润解话</a></li>
+		<li><span>4</span> <a
+		href="http://www.finet.com.cn/hkstock/gongsixinwen/2016/0112/3209299.html"
+		title="汇控中人寿內银股ADR表现俏" target="_blank">汇控中人寿內银股ADR表现俏</a></li>
+		<li><span>5</span> <a
+		href="http://www.finet.com.cn/hkstock/gongsixinwen/2016/0112/3209259.html"
+		title="中广核矿业入股加国铀矿商Fission" target="_blank">中广核矿业入股加国铀矿商Fission</a></li>
+	</ul>
+</div>
+</div>
+</div>
+<div class="g_l_news">
+<!--<div class="sub_news_main">
+<div class="sub_news_box">
+<div class="sub_news_b_top">
+<div class="sub_news_b_tit ALL_TIT">财华中国新闻</div>
+<div class="sub_news_b_rss"><a href="/rss/rss2.xml" title="订阅 "
+	target="_blank">RSS订阅</a></div>
+</div>
+<div class="sub_news_b_ctt" style="height: 150px;">
+<ul>
+		<li><a href='/news/caihuazhongguo/2016/0115/3217065.html'
+		title='欧佩克油价跌至每桶25美元' target='_blank'>欧佩克油价跌至每桶25美元</a></li>
+		<li><a href='/news/caihuazhongguo/2016/0115/3217041.html'
+		title='美股周五大幅低开 受油价和中国股市下跌拖累' target='_blank'>美股周五大幅低开 受油价和中国股市下跌拖累</a></li>
+		<li><a href='/news/caihuazhongguo/2016/0115/3216993.html'
+		title='北部湾旅拟16.5亿跨界併购博康智能' target='_blank'>北部湾旅拟16.5亿跨界併购博康智能</a></li>
+		<li><a href='/news/caihuazhongguo/2016/0115/3216977.html'
+		title='深高速拟推1719万股限制性股票激励计划' target='_blank'>深高速拟推1719万股限制性股票激励计划</a></li>
+		<li><a href='/news/caihuazhongguo/2016/0115/3216911.html'
+		title='欧股跌幅扩大 俄罗斯股指重挫逾4%' target='_blank'>欧股跌幅扩大 俄罗斯股指重挫逾4%</a></li>
+	</ul>
+<div class="more"><a href="/news/caihuazhongguo/" title="更多">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+</div>
+<div class="sub_news_box" style="margin-left:9px;">
+<div class="sub_news_b_top">
+<div class="sub_news_b_tit ALL_TIT">财华香港新闻</div>
+<div class="sub_news_b_rss"><a href="/rss/rss3.xml" title="订阅 "
+	target="_blank">RSS订阅</a></div>
+</div>
+<div class="sub_news_b_ctt" style="height: 150px;">
+<ul>
+		<li><a href='/news/caihuaxianggang/2016/0115/3217067.html'
+		title='欧佩克油价跌至每桶25美元' target='_blank'>欧佩克油价跌至每桶25美元</a></li>
+		<li><a href='/news/caihuaxianggang/2016/0115/3217045.html'
+		title='美股周五大幅低开 受油价和中国股市下跌拖累' target='_blank'>美股周五大幅低开 受油价和中国股市下跌拖累</a></li>
+		<li><a href='/news/caihuaxianggang/2016/0115/3216981.html'
+		title='北部湾旅拟16.5亿跨界併购博康智能' target='_blank'>北部湾旅拟16.5亿跨界併购博康智能</a></li>
+		<li><a href='/news/caihuaxianggang/2016/0115/3216979.html'
+		title='深高速拟推1719万股限制性股票激励计划' target='_blank'>深高速拟推1719万股限制性股票激励计划</a></li>
+		<li><a href='/news/caihuaxianggang/2016/0115/3216915.html'
+		title='欧股跌幅扩大 俄罗斯股指重挫逾4%' target='_blank'>欧股跌幅扩大 俄罗斯股指重挫逾4%</a></li>
+	</ul>
+<div class="more"><a href="/news/caihuaxianggang/" title="更多">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+</div>
+</div>-->
+<div class="ind_nav"></div>
+<div class="g_l_n_top">
+<ul name="switchUl">
+	<li id="tb12_1" class="current" onmousemove="xgz:HoverLi12(1);"><a
+		href="/news/zhengquanyaowen/">财经要闻</a></li>
+	<li id="tb12_2" onmousemove="xgz:HoverLi12(2);"><a
+		href="/news/ganggujiaodian/">港股焦点</a></li>
+	<li id="tb12_3" onmousemove="xgz:HoverLi12(3);"><a
+		href="/news/hushenjiaodian/">沪深焦点</a></li>
+	<li id="tb12_4" onmousemove="xgz:HoverLi12(4);"><a
+		href="/news/redianyidong/">热点异动</a></li>
+	<li id="tb12_5" onmousemove="xgz:HoverLi12(5);"><a
+		href="/news/dawjones/">道琼斯新闻</a></li>
+	<!--<li id="tb12_6"
+		onmousemove="xgz:HoverLi12(6);"><a href="/news/ACNNewswire/">亚太商讯</a></li>-->
+	<li id="tb12_6"
+		onmousemove="xgz:HoverLi12(6);"><a href="/hkstock/ganggugonggao/">港股公告</a></li>
+	<li id="tb12_7" style="border-right: 1px #839098 solid;width:95px;"
+		onmousemove="xgz:HoverLi12(7);"><a href="/news/shangqing/">中国商情</a></li>
+</ul>
+</div>
+<div class="g_l_n_ctt" id="tbc12_01">
+<ul>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0115/3215701.html"
+		title="2015“中国最佳商业领袖奖”在沪揭晓" target="_blank">2015“中国最佳商业领袖奖”在沪揭晓</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0115/3215691.html"
+		title="2015年我国发明专利申请受理量超100万件蝉联世界第一" target="_blank">2015年我国发明专利申请受理量超100万件蝉联世界第一</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0115/3215653.html"
+		title="去年中国FDI增6.4% 全球500强对华投资增资踊跃" target="_blank">去年中国FDI增6.4% 全球500强对华投资增资踊跃</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0115/3215643.html"
+		title="商务部：2015年实际使用外资金额同比增6.4%" target="_blank">商务部：2015年实际使用外资金额同比增6.4%</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0115/3215621.html"
+		title="股价调整提供买入机会 产业资本踊跃“抄底”" target="_blank">股价调整提供买入机会 产业资本踊跃“抄底”</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0115/3215609.html"
+		title="财政部下达地方债置换限额 2016年将提前发行" target="_blank">财政部下达地方债置换限额 2016年将提前发行</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0114/3213685.html"
+		title="地方债限额管理防控风险将倒逼财税改革提速" target="_blank">地方债限额管理防控风险将倒逼财税改革提速</a><span>2016-01-14</span></li>
+		<li>
+	<a href="/news/zhengquanyaowen/2016/0114/3213681.html"
+		title="高新企业认定条件放宽 五大领域上市公司或享税收福利" target="_blank">高新企业认定条件放宽 五大领域上市公司或享税收福利</a><span>2016-01-14</span></li>
+	</ul>
+</div>
+<div class="undis" id="tbc12_02">
+<ul>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0115/3215703.html"
+		title="37只QDII基金限制申购 借道沪港通避免用爆额" target="_blank">37只QDII基金限制申购 借道沪港通避免用爆额</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0115/3215693.html"
+		title="汇率波动不断加大 港交所人民币期货受关注" target="_blank">汇率波动不断加大 港交所人民币期货受关注</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0115/3215655.html"
+		title="港汇大幅转弱引发走资忧虑 港股短期续寻底" target="_blank">港汇大幅转弱引发走资忧虑 港股短期续寻底</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0115/3215593.html"
+		title="港股或已近底部 价值投资者迎来好机会" target="_blank">港股或已近底部 价值投资者迎来好机会</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0115/3215581.html"
+		title="投资界指3利空拖累港汇 金管局：无意改变联汇" target="_blank">投资界指3利空拖累港汇 金管局：无意改变联汇</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0115/3215553.html"
+		title="港汇创四年以来新低 资金流出迹象明显" target="_blank">港汇创四年以来新低 资金流出迹象明显</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0115/3215539.html"
+		title="沪股通再遭小额净卖出" target="_blank">沪股通再遭小额净卖出</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/ganggujiaodian/2016/0114/3213571.html"
+		title="昨日沪股通资金净流入2亿元 结束连续两日净流出状态" target="_blank">昨日沪股通资金净流入2亿元 结束连续两日净流出状态</a><span>2016-01-14</span></li>
+	</ul>
+</div>
+<div class="undis" id="tbc12_03">
+<ul>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215521.html"
+		title="宝能系杠杆资金濒危 万科A复牌后或蒸发160亿" target="_blank">宝能系杠杆资金濒危 万科A复牌后或蒸发160亿</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215513.html"
+		title="股权质押风险 暂未大面积触发" target="_blank">股权质押风险 暂未大面积触发</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215509.html"
+		title="清盘危机再现 私募“保命自救”" target="_blank">清盘危机再现 私募“保命自救”</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215489.html"
+		title="中粮“动刀”*ST酒鬼 整合从换董事长开始？ " target="_blank">中粮“动刀”*ST酒鬼 整合从换董事长开始？ </a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215481.html"
+		title="自家人也难逃噩运 3.5万员工携117亿增持A股惨遭套" target="_blank">自家人也难逃噩运 3.5万员工携117亿增持A股惨遭套</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215479.html"
+		title="机构助个股上演“振幅10%+”游资博弈跌停票" target="_blank">机构助个股上演“振幅10%+”游资博弈跌停票</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215455.html"
+		title="沪指重回3000点 行情还需信心修复" target="_blank">沪指重回3000点 行情还需信心修复</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/hushenjiaodian/2016/0115/3215451.html"
+		title="两融余额连降 强平风险再现" target="_blank">两融余额连降 强平风险再现</a><span>2016-01-15</span></li>
+	</ul>
+</div>
+<div class="undis" id="tbc12_04">
+<ul>
+		<li>
+	<a href="/news/redianyidong/2016/0115/3216157.html"
+		title="日圆被升值 距黑田东彦再出招还远？" target="_blank">日圆被升值 距黑田东彦再出招还远？</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/redianyidong/2016/0114/3214075.html"
+		title="欢喜传媒伙MUBI上演一场好戏" target="_blank">欢喜传媒伙MUBI上演一场好戏</a><span>2016-01-14</span></li>
+		<li>
+	<a href="/news/redianyidong/2016/0112/3210383.html"
+		title="30万亿国有资產或入股市 对A股影响几何？" target="_blank">30万亿国有资產或入股市 对A股影响几何？</a><span>2016-01-12</span></li>
+		<li>
+	<a href="/news/redianyidong/2016/0112/3210075.html"
+		title="2时代下油企的生存术" target="_blank">2时代下油企的生存术</a><span>2016-01-12</span></li>
+		<li>
+	<a href="/news/redianyidong/2016/0107/3204221.html"
+		title="人仔贬上贬 央企民企被迫提早还外债自救" target="_blank">人仔贬上贬 央企民企被迫提早还外债自救</a><span>2016-01-07</span></li>
+		<li>
+	<a href="/news/redianyidong/2016/0107/3203923.html"
+		title="打救A股 中证监速推熔断机制3.0" target="_blank">打救A股 中证监速推熔断机制3.0</a><span>2016-01-07</span></li>
+		<li>
+	<a href="/news/redianyidong/2015/1217/3180593.html"
+		title="意马主席失联 梁伯韜估计要头痛了！" target="_blank">意马主席失联 梁伯韜估计要头痛了！</a><span>2015-12-17</span></li>
+		<li>
+	<a href="/news/redianyidong/2015/1215/3176551.html"
+		title="中国的金元足球不是人人也可玩一玩" target="_blank">中国的金元足球不是人人也可玩一玩</a><span>2015-12-15</span></li>
+	</ul>
+</div>
+<div class="undis" id="tbc12_05">
+<ul>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217075.html"
+		title="*DJ 美国股市跌势加剧" target="_blank">*DJ 美国股市跌势加剧</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217073.html"
+		title="*DJ 道指短暂跌破16000点关口，为去年9月29日以来首次" target="_blank">*DJ 道指短暂跌破16000点关口，为去年9月29日以来首次</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217069.html"
+		title="DJ 银行间汇率： 美东时间09:50 /格林威治时间1450" target="_blank">DJ 银行间汇率： 美东时间09:50 /格林威治时间1450</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217063.html"
+		title="*DJ 美国股市开盘大幅下跌" target="_blank">*DJ 美国股市开盘大幅下跌</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217061.html"
+		title="*DJ 道琼斯指数跌310点，跌幅1.9%；英特尔领跌" target="_blank">*DJ 道琼斯指数跌310点，跌幅1.9%；英特尔领跌</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217059.html"
+		title="*DJ 标普500指数跌36点，跌幅1.9%；科技板块领跌" target="_blank">*DJ 标普500指数跌36点，跌幅1.9%；科技板块领跌</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217057.html"
+		title="*DJ 纳斯达克综合指数跌141点，跌幅3.1%" target="_blank">*DJ 纳斯达克综合指数跌141点，跌幅3.1%</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/news/dawjones/2016/0115/3217055.html"
+		title="DJ 数据速递∶美国去年12月工业产值连续第三个月下滑" target="_blank">DJ 数据速递∶美国去年12月工业产值连续第三个月下滑</a><span>2016-01-15</span></li>
+	</ul>
+</div>
+<div class="undis" id="tbc12_06">
+<ul>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3217047.html"
+		title="欧佩克油价跌至每桶25美元" target="_blank">欧佩克油价跌至每桶25美元</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3216967.html"
+		title="深高速拟推1719万股限制性股票激励计划" target="_blank">深高速拟推1719万股限制性股票激励计划</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3216887.html"
+		title="莱蒙去年物业及车位销售80.1亿" target="_blank">莱蒙去年物业及车位销售80.1亿</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3216881.html"
+		title="上海石化年报预计同比扭亏 盈利逾30亿元" target="_blank">上海石化年报预计同比扭亏 盈利逾30亿元</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3216875.html"
+		title="中国中铁控股股东承诺半年內不减持" target="_blank">中国中铁控股股东承诺半年內不减持</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3216873.html"
+		title="东原地產与泗县医院签融资租赁协议" target="_blank">东原地產与泗县医院签融资租赁协议</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3216843.html"
+		title="南航司献民因个人原因请辞董事长之职" target="_blank">南航司献民因个人原因请辞董事长之职</a><span>2016-01-15</span></li>
+		<li>
+	<a href="/hkstock/ganggugonggao/2016/0115/3216817.html"
+		title="中骏置业增持內地商住项目权益" target="_blank">中骏置业增持內地商住项目权益</a><span>2016-01-15</span></li>
+	</ul>
+</div>
+<div class="undis" id="tbc12_07">
+<ul>
+		<li>
+	<a href="/news/shangqing/2013/1018/1710487.html"
+		title="【中国商情】外贸企业综合服务和支持政策即将出臺" target="_blank">【中国商情】外贸企业综合服务和支持政策即将出臺</a><span>2013-10-18</span></li>
+		<li>
+	<a href="/news/shangqing/2013/1017/1706857.html"
+		title="【中国商情】13部委进行调研长江经济带 寻找中国经济新增长点" target="_blank">【中国商情】13部委进行调研长江经济带 寻找中国经济新增长点</a><span>2013-10-17</span></li>
+		<li>
+	<a href="/news/shangqing/2013/1015/1701367.html"
+		title="【中国商情】武汉或将成为下一个经济自贸区 申报材料已上交" target="_blank">【中国商情】武汉或将成为下一个经济自贸区 申报材料已上交</a><span>2013-10-15</span></li>
+		<li>
+	<a href="/news/shangqing/2013/1003/1678341.html"
+		title="【中国商情】“蓝色珠海 与您共赢”大型招商推介活动，李嘉何宁卡出席 签约28个项目投资总额536亿" target="_blank">【中国商情】“蓝色珠海 与您共赢”大型招商推介活动，李嘉何宁卡出席 签约28个项目投资总额536亿</a><span>2013-10-03</span></li>
+		<li>
+	<a href="/news/shangqing/2013/1003/1678333.html"
+		title="【中国商情】珠海横琴获批"准自贸区政策 积极搭建粤港澳合作平台" target="_blank">【中国商情】珠海横琴获批"准自贸区政策 积极搭建粤港澳合作平台</a><span>2013-10-03</span></li>
+		<li>
+	<a href="/news/shangqing/2013/1003/1678331.html"
+		title="【中国商情】横琴新区管委会主任：上海自贸区新思路新做法值得借鉴" target="_blank">【中国商情】横琴新区管委会主任：上海自贸区新思路新做法值得借鉴</a><span>2013-10-03</span></li>
+		<li>
+	<a href="/news/shangqing/2013/1003/1678329.html"
+		title="【中国商情】横琴谋升级粤港澳自贸区 主打七产业" target="_blank">【中国商情】横琴谋升级粤港澳自贸区 主打七产业</a><span>2013-10-03</span></li>
+		<li>
+	<a href="/news/shangqing/2013/1002/1677313.html"
+		title="【中国商情】横琴成全国劳动竞赛示范区" target="_blank">【中国商情】横琴成全国劳动竞赛示范区</a><span>2013-10-02</span></li>
+	</ul>
+</div>
+</div>
+</div>
+<div class="general_right">
+<div class="g_r_zs">
+	<!--<script type="text/javascript">
+		function isSmart(){
+				return (navigator.userAgent.match(/(iPad)|(iPhone)|(iPod)|(android)/i));
+		}
+
+		function fp_play() {
+				var html5playlist = "http://vs.fintv.hk/publish/2015/07/480p/20150710_WP_Skypark.mp4";
+				if (html5playlist != "") {
+					if (isSmart()) {
+						var html5url = '';
+						if (html5playlist.indexOf(";") > -1) {
+							html5url = html5playlist.split(";")[0];
+						}
+						else {
+							html5url = html5playlist;
+						}		
+						$('#leftplayer').html('<video controls width="300px" height="169px"><source type="video/mp4" src="'+html5url+'"/></video>');
+					}
+					else {
+						flowplayer("leftplayer", {
+							src:"/templets/caihuanet/js/flowplayer-3.2.15.swf"
+							},{
+								playlist: [ { url : 'http://vs.fintv.hk/publish/2015/07/480p/20150710_WP_Skypark.mp4' , title : '' } ]
+							}
+						);
+					}
+				}
+		}
+		$(document).ready(function(){
+			fp_play();
+		});
+		</script>
+        <div style="float: left; _margin-right:5px;">
+			<div style="width: 300px; background: #000 url('/templets/caihuanet/images/main/fintv_topbg_v2.jpg?v=1') 0px 0px no-repeat;"> 
+				<a href="http://www.fintv.hk/" target="_blank" style="display: block; height: 53px; width: 300px;"></a>
+				<a href="#" id="leftplayer" name="leftplayer" style="display: block; height: 169px; width: 300px;background:#000;" ></a>
+			</div>
+		</div>-->
+
+        <a href="http://www.fintv.hk/"  target="_blank"><img src="/uploads/ads/fintv_app_ad.jpg" width="300" height="232" border="0"  /></a>
+
+</div>
+<div class="g_r_zz">
+<!--
+<div class="l_img">
+	<a href="/zhazhi/27.html"  target="_blank"><img width="100" src="/uploads/zazhi/金价暴跌引发抢购热潮，抄底投资仍需谨慎.jpg" /></a>
+</div>
+<div class="g_r_content">
+	<a href="/zhazhi/27.html"  target="_blank"><p style=" font-size:15px; font-weight:bold; color:#FF0000;">《財华杂志》第27期</p></a>
+	<p style=" font-size:13px;font-weight:bold">本期封面故事：</p>
+	<a href="/zhazhi/27.html"  target="_blank"><p style=" font-size:16px;color:#0099cc;height:48px;overflow:hidden;">                    金价暴跌引发抢购热潮 抄底投资仍需谨慎            </p></a>
+	<a href="http://magazine.finet.com.cn/"  target="_blank"><p style=" height:20px; margin-top:15px;"></p></a>
+</div>
+<div class="ind_nav"></div>
+<div class="title">
+	<ul>
+		 <li><a href="/zhazhi/view/563.html"  target="_blank">香港巴塞尔艺博会首度亮相</a></li>
+		 <li><a href="/zhazhi/view/565.html"  target="_blank">金价暴跌引发抢购热潮，抄底投资仍需谨慎 </a></li>
+		 <li><a href="/zhazhi/view/567.html"  target="_blank">债券市场监管风暴来袭，代持养券成核查重点</a></li>
+		</ul>
+</div>-->
+	<a href="javascript:void(0);" id="imgLink" target="_blank">
+			<img src="/uploads/ads/ad_finet_db_300X286.jpg" width="300" height="286" id="tmpimg" style="FILTER: revealTrans(transition=23,duration=1)" border="0"  />
+	</a>
+	<!-- G-finet.com.cn/peabody -->
+	<!--<script type="text/javascript">
+	  var ord = window.ord || Math.floor(Math.random() * 1e16);
+	  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N6105/adj/G-finet.com.cn/peabody;sz=300x250;ord=' + ord + '?"><\/script>');
+	</script>
+	<noscript>
+	<a href="http://ad.doubleclick.net/N6105/jump/G-finet.com.cn/peabody;sz=300x250;ord=[timestamp]?">
+	<img src="http://ad.doubleclick.net/N6105/ad/G-finet.com.cn/peabody;sz=300x250;ord=[timestamp]?" width="300" height="250" />
+	</a>
+	</noscript>-->
+</div>
+
+<div class="g_r_ad">
+	<!--<script type="text/javascript" src="/plus/ad.php?n=ad_2"></script>-->
+	<a href="javascript:void(0);" id="imgLink2" target="_blank">
+		<img src="/uploads/ads/ad_finet_fits_300X250.jpg" width="300" height="250" id="tmpimg2" style="FILTER: revealTrans(transition=23,duration=1)" border="0"  />
+	</a>
+	<!--<script>
+	var gfEbForceStreaming  =  1;
+	</script>
+	<script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=8799330&PluID=0&w=300&h=250&ord=[timestamp]&ucm=true"></script>
+	<noscript>
+	<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=8799330&Page=&PluID=0&Pos=472042439" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=8799330&Page=&PluID=0&Pos=472042439" border=0 width=300 height=250></a>
+    </noscript>-->
+</div>
+
+</div>
+<div class="ind_nav"></div>
+<div class="HKstocks">
+<!--<div class="HKstocks_tit_ad"><a href="http://www.huishandairy.com/" target="_blank"><img src="/uploads/ads/728x90_banner5.jpg" width="728" height="90" /></a></div>-->
+<div class="HKstocks_tit"><img src="/templets/caihuanet/images/ind_hs.gif" width="1001" height="32" /></div>
+
+<div class="HKstocks_tit_lt">
+<div class="HK_t_l_box00">
+	<div class="ind_bt_top">
+		<div class="ind_bt_tit000 ALL_TIT">公司新闻</div>
+		<div class="ind_more">
+			<a href="/hsstock/gongsixinwen/">更多<img src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+		</div>
+		<div class="ind_ctt">
+			<ul>
+								<li>·<a href="/hsstock/gongsixinwen/2014/1215/2803593.html"
+					title="利福：卡塔尔投资有意增持" target="_blank">利福：卡塔尔投资有意增持</a></li>
+								<li>·<a href="/hsstock/gongsixinwen/2014/1215/2803695.html"
+					title="玖纸受惠减息 但不改负债比率目標" target="_blank">玖纸受惠减息 但不改负债比率目標</a></li>
+								<li>·<a href="/hsstock/gongsixinwen/2014/1215/2803589.html"
+					title="利福：尖沙咀店表现胜预期" target="_blank">利福：尖沙咀店表现胜预期</a></li>
+								<li>·<a href="/hsstock/gongsixinwen/2014/1215/2802075.html"
+					title="顺风11月发电量6.56万兆瓦时" target="_blank">顺风11月发电量6.56万兆瓦时</a></li>
+								<li>·<a href="/hsstock/gongsixinwen/2014/1215/2802073.html"
+					title="泰丰料全年转亏 清理库存或蚀6亿" target="_blank">泰丰料全年转亏 清理库存或蚀6亿</a></li>
+								<li>·<a href="/hsstock/gongsixinwen/2014/1215/2802071.html"
+					title="万邦全年少赚98% 末期息2.4元" target="_blank">万邦全年少赚98% 末期息2.4元</a></li>
+								<li>·<a href="/hsstock/gongsixinwen/2014/1215/2802069.html"
+					title="世达科技盈警 料全年业绩大跌" target="_blank">世达科技盈警 料全年业绩大跌</a></li>
+							</ul>
+		</div>
+	</div>
+<div class="HK_t_l_box01">
+<!--<div class="ind_bt_top">
+	<div class="ind_bt_tit000 ALL_TIT">热点异动</div>
+		<div class="ind_more">
+			<a href="/hsstock/redianyidong/">更多<img src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+		</div>
+		<div class="ind_ctt">
+			<ul>
+								<li>·<a href="/hsstock/redianyidong/2014/1215/2801943.html"
+					title="枪手闯悉尼咖啡店挟持逾40名人质 扬言全市已放炸弹" target="_blank">枪手闯悉尼咖啡店挟持逾40名人质 扬言</a></li>
+								<li>·<a href="/hsstock/redianyidong/2014/1212/2799827.html"
+					title="北韩清洗伤残人 阉割试化武" target="_blank">北韩清洗伤残人 阉割试化武</a></li>
+								<li>·<a href="/hsstock/redianyidong/2014/1212/2799683.html"
+					title="中国情侣向泰国空姐泼杯面  扬言炸飞机" target="_blank">中国情侣向泰国空姐泼杯面  扬言炸飞机</a></li>
+								<li>·<a href="/hsstock/redianyidong/2014/1212/2799587.html"
+					title="Google停止西班牙版新闻服务" target="_blank">Google停止西班牙版新闻服务</a></li>
+								<li>·<a href="/hsstock/redianyidong/2014/1212/2799329.html"
+					title="美中情局局长承认个别人员拷问方式越界" target="_blank">美中情局局长承认个别人员拷问方式越界</a></li>
+								<li>·<a href="/hsstock/redianyidong/2014/1212/2799265.html"
+					title="三藩市受近年最强风暴吹袭" target="_blank">三藩市受近年最强风暴吹袭</a></li>
+								<li>·<a href="/hsstock/redianyidong/2014/1212/2799019.html"
+					title="朱立伦参选国民党主席 不竞逐2016总统" target="_blank">朱立伦参选国民党主席 不竞逐2016总</a></li>
+							</ul>
+		</div>
+	</div>
+
+<div class="HK_t_l_box01">-->
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">股市公告</div>
+<div class="ind_more"><a href="/hsstock/gushigonggao/">更多<img
+	src="/templets/caihuanet//images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/gushigonggao/2016/0115/3217043.html"
+		title="美股周五大幅低开 受油价和中国股市下跌拖累" target="_blank">美股周五大幅低开 受油价和中国股市下跌</a></li>
+		<li>·<a href="/hsstock/gushigonggao/2016/0115/3216913.html"
+		title="欧股跌幅扩大 俄罗斯股指重挫逾4%" target="_blank">欧股跌幅扩大 俄罗斯股指重挫逾4%</a></li>
+		<li>·<a href="/hsstock/gushigonggao/2016/0115/3216499.html"
+		title="证监会制定託管基本要求的金融行业標准" target="_blank">证监会制定託管基本要求的金融行业標准</a></li>
+		<li>·<a href="/hsstock/gushigonggao/2016/0115/3216497.html"
+		title="沪股通净流出1亿 港股通净流入超9亿" target="_blank">沪股通净流出1亿 港股通净流入超9亿</a></li>
+		<li>·<a href="/hsstock/gushigonggao/2016/0115/3216353.html"
+		title="沪指大跌3.5% 险守2900点" target="_blank">沪指大跌3.5% 险守2900点</a></li>
+		<li>·<a href="/hsstock/gushigonggao/2016/0115/3216329.html"
+		title="中汽协：12月新能源汽车销量同比增2.5倍" target="_blank">中汽协：12月新能源汽车销量同比增2.</a></li>
+		<li>·<a href="/hsstock/gushigonggao/2016/0115/3216235.html"
+		title="消息称中国购买美国解禁后首批出口原油" target="_blank">消息称中国购买美国解禁后首批出口原油</a></li>
+	</ul>
+</div>
+</div>
+<div class="ind_nav"></div>
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">研究报告</div>
+<div class="ind_more"><a href="/hsstock/yanjiubaogao/">更多<img
+	src="/templets/caihuanet//images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/yanjiubaogao/2016/0113/3211759.html"
+		title="高盛降九兴目标价至19.1元 削盈利预测" target="_blank">高盛降九兴目标价至19.1元 削盈利预</a></li>
+		<li>·<a href="/hsstock/yanjiubaogao/2016/0113/3211731.html"
+		title="高盛降裕元目標价至26.9元" target="_blank">高盛降裕元目標价至26.9元</a></li>
+		<li>·<a href="/hsstock/yanjiubaogao/2016/0113/3211729.html"
+		title="法巴维持中移动买入评级 目標价122元" target="_blank">法巴维持中移动买入评级 目標价122元</a></li>
+		<li>·<a href="/hsstock/yanjiubaogao/2016/0113/3211727.html"
+		title="摩通吁增持味千 目標价4元" target="_blank">摩通吁增持味千 目標价4元</a></li>
+		<li>·<a href="/hsstock/yanjiubaogao/2016/0113/3211725.html"
+		title="麦格理首予TCL多媒体跑贏大市评级 目標价5.8" target="_blank">麦格理首予TCL多媒体跑贏大市评级 目</a></li>
+		<li>·<a href="/hsstock/yanjiubaogao/2016/0112/3209777.html"
+		title="高盛、麦格理：莎莎今年销售继续跌" target="_blank">高盛、麦格理：莎莎今年销售继续跌</a></li>
+		<li>·<a href="/hsstock/yanjiubaogao/2016/0112/3209775.html"
+		title="大和降富智康目標价至4.25元 受小米拖累" target="_blank">大和降富智康目標价至4.25元 受小米</a></li>
+	</ul>
+</div>
+</div>
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">新股消息</div>
+<div class="ind_more"><a href="/hsstock/caihuaremenguzhuizong/">更多<img
+	src="/templets/caihuanet//images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/caihuaremenguzhuizong/2016/0115/3215949.html"
+		title="成实外教育：民办机构留住教师问题不大" target="_blank">成实外教育：民办机构留住教师问题不大</a></li>
+		<li>·<a href="/hsstock/caihuaremenguzhuizong/2016/0113/3212603.html"
+		title="融信中国首日上市每手赚130元" target="_blank">融信中国首日上市每手赚130元</a></li>
+		<li>·<a href="/hsstock/caihuaremenguzhuizong/2016/0113/3212601.html"
+		title="智傲控股首日上市涨近2倍" target="_blank">智傲控股首日上市涨近2倍</a></li>
+		<li>·<a href="/hsstock/caihuaremenguzhuizong/2016/0113/3211869.html"
+		title="认购差得离谱 融信中国：市况不佳惹的祸" target="_blank">认购差得离谱 融信中国：市况不佳惹的祸</a></li>
+		<li>·<a href="/hsstock/caihuaremenguzhuizong/2016/0113/3211867.html"
+		title="智傲控股：公司產品较同业有竞爭力" target="_blank">智傲控股：公司產品较同业有竞爭力</a></li>
+		<li>·<a href="/hsstock/caihuaremenguzhuizong/2016/0112/3210501.html"
+		title="巨匠建设首日上市每手赚1100元" target="_blank">巨匠建设首日上市每手赚1100元</a></li>
+		<li>·<a href="/hsstock/caihuaremenguzhuizong/2016/0112/3209917.html"
+		title="巨匠建设：取得特级资质助毛利提升" target="_blank">巨匠建设：取得特级资质助毛利提升</a></li>
+	</ul>
+</div>
+</div>
+<div class="HK_t_l_box01"><iframe width="325" height="228"
+	class="share_self" frameborder="0" scrolling="no"
+	src="http://widget.weibo.com/weiboshow/index.php?language=&width=350&height=250&fansRow=2&ptype=1&speed=300&skin=1&isTitle=1&noborder=0&isWeibo=1&isFans=0&uid=2352781670&verifier=fc16074b&dpc=1"></iframe></div>
+    
+<div class="ind_nav"></div>
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">股评资讯</div>
+<div class="ind_more"><a href="/hsstock/gupingzixun/">更多<img
+	src="/templets/caihuanet//images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/gupingzixun/2016/0114/3214323.html"
+		title="大摩收评： 题材板块大涨带动人气，指数低开震荡走高" target="_blank">大摩收评： 题材板块大涨带动人气，指数</a></li>
+		<li>·<a href="/hsstock/gupingzixun/2016/0112/3210315.html"
+		title="大摩收评：沪指3000点一线窄幅震荡" target="_blank">大摩收评：沪指3000点一线窄幅震荡</a></li>
+		<li>·<a href="/hsstock/gupingzixun/2016/0111/3208237.html"
+		title="大摩收评：热点煺潮，大盘再现千股跌停" target="_blank">大摩收评：热点煺潮，大盘再现千股跌停</a></li>
+		<li>·<a href="/hsstock/gupingzixun/2016/0108/3205967.html"
+		title="大摩收评：供给侧改革概念股再爆发，指数探底回升" target="_blank">大摩收评：供给侧改革概念股再爆发，指数</a></li>
+		<li>·<a href="/hsstock/gupingzixun/2016/0107/3204087.html"
+		title="大摩收评：A股一周“四断” 人民币贬值引发恐慌" target="_blank">大摩收评：A股一周“四断” 人民币贬值</a></li>
+		<li>·<a href="/hsstock/gupingzixun/2016/0106/3201933.html"
+		title="大摩收评：供给侧改革逻辑发酵，产能过剩板块暴涨" target="_blank">大摩收评：供给侧改革逻辑发酵，产能过剩</a></li>
+		<li>·<a href="/hsstock/gupingzixun/2016/0105/3200027.html"
+		title="大摩收评：国家队入场干预，指数窄幅震荡" target="_blank">大摩收评：国家队入场干预，指数窄幅震荡</a></li>
+	</ul>
+</div>
+</div>
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">宏观经济</div>
+<div class="ind_more"><a href="/hsstock/hongguanjingji/">更多<img
+	src="/templets/caihuanet//images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/hongguanjingji/2016/0115/3216905.html"
+		title="能源局：2015年全社会用电量同比增长0.5%" target="_blank">能源局：2015年全社会用电量同比增长</a></li>
+		<li>·<a href="/hsstock/hongguanjingji/2016/0115/3216847.html"
+		title="李克强：有能力保持人民幣汇率的基本稳定" target="_blank">李克强：有能力保持人民幣汇率的基本稳定</a></li>
+		<li>·<a href="/hsstock/hongguanjingji/2016/0115/3216827.html"
+		title="中国正式加入欧洲復兴开发银行" target="_blank">中国正式加入欧洲復兴开发银行</a></li>
+		<li>·<a href="/hsstock/hongguanjingji/2016/0115/3216747.html"
+		title="外交部：反对搞货幣竞爭性贬值 反对打货幣战" target="_blank">外交部：反对搞货幣竞爭性贬值 反对打货</a></li>
+		<li>·<a href="/hsstock/hongguanjingji/2016/0115/3216721.html"
+		title="商务部：着力推进外贸供给侧改革" target="_blank">商务部：着力推进外贸供给侧改革</a></li>
+		<li>·<a href="/hsstock/hongguanjingji/2016/0115/3216675.html"
+		title="证监会：受理首发企业772家 已过会91家" target="_blank">证监会：受理首发企业772家 已过会9</a></li>
+		<li>·<a href="/hsstock/hongguanjingji/2016/0115/3216651.html"
+		title="国务院同意在12个城市设立跨境电商综合试验区" target="_blank">国务院同意在12个城市设立跨境电商综合</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="HK_t_l_box01">
+<script type="text/javascript" src="/plus/ad.php?n=ad_3"></script>
+</div>
+<div class="ind_nav"></div>
+</div>
+
+<div class="ind_nav"></div>
+</div>
+<div class="Warrants">
+
+<div class="HSstocks">
+<div class="HSstocks_tit"><img
+	src="/templets/caihuanet/images/ind_gg.gif" width="1001" height="32" /></div>
+<div class="HSstocks_lt">
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">公司新闻</div>
+<div class="ind_more"><a href="/hkstock/gongsixinwen/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/gongsixinwen/2016/0115/3216885.html"
+		title="莱蒙去年物业及车位销售80.1亿" target="_blank">莱蒙去年物业及车位销售80.1亿</a></li>
+		<li>·<a href="/hkstock/gongsixinwen/2016/0115/3216871.html"
+		title="东原地產与泗县医院签融资租赁协议" target="_blank">东原地產与泗县医院签融资租赁协议</a></li>
+		<li>·<a href="/hkstock/gongsixinwen/2016/0115/3216855.html"
+		title="惠理减持万科H股" target="_blank">惠理减持万科H股</a></li>
+		<li>·<a href="/hkstock/gongsixinwen/2016/0115/3216841.html"
+		title="南航司献民因个人原因请辞董事长之职" target="_blank">南航司献民因个人原因请辞董事长之职</a></li>
+		<li>·<a href="/hkstock/gongsixinwen/2016/0115/3216813.html"
+		title="中骏置业增持內地商住项目权益" target="_blank">中骏置业增持內地商住项目权益</a></li>
+		<li>·<a href="/hkstock/gongsixinwen/2016/0115/3216811.html"
+		title="融创中国增持浦东东郊商住项目" target="_blank">融创中国增持浦东东郊商住项目</a></li>
+		<li>·<a href="/hkstock/gongsixinwen/2016/0115/3216805.html"
+		title="沪光国际发盈警" target="_blank">沪光国际发盈警</a></li>
+	</ul>
+</div>
+</div>
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">港股焦点</div>
+<div class="ind_more"><a href="/hkstock/ganggudashi/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/ganggudashi/2014/1007/2624187.html"
+		title="港股连升3日成交减  A股明复市左右大局" target="_blank">港股连升3日成交减  A股明复市左右大</a></li>
+		<li>·<a href="/hkstock/ganggudashi/2014/0707/2444113.html"
+		title="瑞信给予港股目标26000点   建议「增持」股票" target="_blank">瑞信给予港股目标26000点   建议</a></li>
+		<li>·<a href="/hkstock/ganggudashi/2014/0630/2428381.html"
+		title="调查显示：内地基金持仓建议按月升3%   至79%" target="_blank">调查显示：内地基金持仓建议按月升3% </a></li>
+		<li>·<a href="/hkstock/ganggudashi/2014/0627/2425831.html"
+		title="新华社：免去姜伟新住建部部长职务  由陈政高接任" target="_blank">新华社：免去姜伟新住建部部长职务  由</a></li>
+		<li>·<a href="/hkstock/ganggudashi/2014/0627/2425565.html"
+		title="中行传获批向个人及企业发大额存单" target="_blank">中行传获批向个人及企业发大额存单</a></li>
+		<li>·<a href="/hkstock/ganggudashi/2014/0627/2424325.html"
+		title="圣路易联储行长：明年首应加息" target="_blank">圣路易联储行长：明年首应加息</a></li>
+		<li>·<a href="/hkstock/ganggudashi/2014/0626/2424017.html"
+		title="穆迪维持港银行「负面」展望    反映内地信贷转坏" target="_blank">穆迪维持港银行「负面」展望    反映</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">港股公告</div>
+<div class="ind_more"><a href="/hkstock/ganggugonggao/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/ganggugonggao/2016/0115/3217047.html"
+		title="欧佩克油价跌至每桶25美元" target="_blank">欧佩克油价跌至每桶25美元</a></li>
+		<li>·<a href="/hkstock/ganggugonggao/2016/0115/3216967.html"
+		title="深高速拟推1719万股限制性股票激励计划" target="_blank">深高速拟推1719万股限制性股票激励计</a></li>
+		<li>·<a href="/hkstock/ganggugonggao/2016/0115/3216887.html"
+		title="莱蒙去年物业及车位销售80.1亿" target="_blank">莱蒙去年物业及车位销售80.1亿</a></li>
+		<li>·<a href="/hkstock/ganggugonggao/2016/0115/3216881.html"
+		title="上海石化年报预计同比扭亏 盈利逾30亿元" target="_blank">上海石化年报预计同比扭亏 盈利逾30亿</a></li>
+		<li>·<a href="/hkstock/ganggugonggao/2016/0115/3216875.html"
+		title="中国中铁控股股东承诺半年內不减持" target="_blank">中国中铁控股股东承诺半年內不减持</a></li>
+		<li>·<a href="/hkstock/ganggugonggao/2016/0115/3216873.html"
+		title="东原地產与泗县医院签融资租赁协议" target="_blank">东原地產与泗县医院签融资租赁协议</a></li>
+		<li>·<a href="/hkstock/ganggugonggao/2016/0115/3216843.html"
+		title="南航司献民因个人原因请辞董事长之职" target="_blank">南航司献民因个人原因请辞董事长之职</a></li>
+	</ul>
+</div>
+</div>
+<div class="ind_nav"></div>
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">大行评级</div>
+<div class="ind_more"><a href="/hkstock/daxingpingji/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/daxingpingji/2016/0115/3216755.html"
+		title="发展商减价卖楼？花旗﹕NO WAY" target="_blank">发展商减价卖楼？花旗﹕NO WAY</a></li>
+		<li>·<a href="/hkstock/daxingpingji/2016/0113/3211741.html"
+		title="高盛降利丰目標价至5.3元" target="_blank">高盛降利丰目標价至5.3元</a></li>
+		<li>·<a href="/hkstock/daxingpingji/2016/0112/3210651.html"
+		title="大摩﹕降恆指目標价 反映人民幣贬值" target="_blank">大摩﹕降恆指目標价 反映人民幣贬值</a></li>
+		<li>·<a href="/hkstock/daxingpingji/2016/0112/3209785.html"
+		title="瑞信：降创维目標价至7.9元" target="_blank">瑞信：降创维目標价至7.9元</a></li>
+		<li>·<a href="/hkstock/daxingpingji/2016/0112/3209783.html"
+		title="高盛、麦格理：莎莎今年销售继续跌" target="_blank">高盛、麦格理：莎莎今年销售继续跌</a></li>
+		<li>·<a href="/hkstock/daxingpingji/2016/0112/3209781.html"
+		title="法巴削莎莎、周大福、六福目標价" target="_blank">法巴削莎莎、周大福、六福目標价</a></li>
+		<li>·<a href="/hkstock/daxingpingji/2016/0111/3207683.html"
+		title="Glaucus第三度出报告狙击瑞年 重申目標价为「0」" target="_blank">Glaucus第三度出报告狙击瑞年 重</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">即市策略</div>
+<div class="ind_more"><a href="/hkstock/jishicelue/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/jishicelue/2013/0808/1585984.html"
+		title="料恒指今早於21600至21800水平整固" target="_blank">料恒指今早於21600至21800水平</a></li>
+		<li>·<a href="/hkstock/jishicelue/2013/0808/1585982.html"
+		title="百富环球(00327-HK)支付设备获苹果MFi认证" target="_blank">百富环球(00327-HK)支付设备获</a></li>
+		<li>·<a href="/hkstock/jishicelue/2013/0808/1585980.html"
+		title="料恒指短期或进一步下试21400，阻力位22300" target="_blank">料恒指短期或进一步下试21400，阻力</a></li>
+		<li>·<a href="/hkstock/jishicelue/2013/0808/1585978.html"
+		title="恒指跌穿21700点支持，短期下试21300点水平" target="_blank">恒指跌穿21700点支持，短期下试21</a></li>
+		<li>·<a href="/hkstock/jishicelue/2013/0808/1585976.html"
+		title="退市之恐似渐减，美股跌缓港亦然" target="_blank">退市之恐似渐减，美股跌缓港亦然</a></li>
+		<li>·<a href="/hkstock/jishicelue/2013/0808/1585974.html"
+		title="观望进出口及通胀数据" target="_blank">观望进出口及通胀数据</a></li>
+		<li>·<a href="/hkstock/jishicelue/2013/0807/1585972.html"
+		title="恒指如21800点失守，将下试21400点水平" target="_blank">恒指如21800点失守，将下试2140</a></li>
+	</ul>
+</div>
+</div>
+
+
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">盘中异动</div>
+<div class="ind_more"><a href="/hkstock/panzhongyidong/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/panzhongyidong/2014/1210/2793819.html"
+		title="平安美林四乙购Ａ(15009-HK)股价异动，上升30%" target="_blank">平安美林四乙购Ａ(15009-HK)股</a></li>
+		<li>·<a href="/hkstock/panzhongyidong/2014/1210/2793815.html"
+		title="中国手游文化　　(08081-HK)股价异动，上升25.789%" target="_blank">中国手游文化　　(08081-HK)股</a></li>
+		<li>·<a href="/hkstock/panzhongyidong/2014/1210/2793811.html"
+		title="光际摩通五四购Ａ(12454-HK)股价异动，上升25.253%" target="_blank">光际摩通五四购Ａ(12454-HK)股</a></li>
+		<li>·<a href="/hkstock/panzhongyidong/2014/1210/2793807.html"
+		title="民行汇丰五一购Ａ(23158-HK)股价异动，上升26%" target="_blank">民行汇丰五一购Ａ(23158-HK)股</a></li>
+		<li>·<a href="/hkstock/panzhongyidong/2014/1210/2793805.html"
+		title="喜尚控股　　　　(08179-HK)股价异动，上升16.279%" target="_blank">喜尚控股　　　　(08179-HK)股</a></li>
+		<li>·<a href="/hkstock/panzhongyidong/2014/1210/2793789.html"
+		title="安油摩通六九购Ａ(24015-HK)股价异动，上升125%" target="_blank">安油摩通六九购Ａ(24015-HK)股</a></li>
+		<li>·<a href="/hkstock/panzhongyidong/2014/1210/2793787.html"
+		title="中国３Ｄ数码　　(08078-HK)股价异动，上升15%" target="_blank">中国３Ｄ数码　　(08078-HK)股</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="ind_nav"></div>
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">研究报告</div>
+<div class="ind_more"><a href="/hkstock/yanjiubaogao/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/yanjiubaogao/2016/0115/3216423.html"
+		title="[AMTD尚乘财富策划]香港股市简评" target="_blank">[AMTD尚乘财富策划]香港股市简评</a></li>
+		<li>·<a href="/hkstock/yanjiubaogao/2016/0115/3216417.html"
+		title="[大盛证券]科瑞又合又供又大挫" target="_blank">[大盛证券]科瑞又合又供又大挫</a></li>
+		<li>·<a href="/hkstock/yanjiubaogao/2016/0115/3216415.html"
+		title="[权证]麦格理衍生攻略(下午) " target="_blank">[权证]麦格理衍生攻略(下午) </a></li>
+		<li>·<a href="/hkstock/yanjiubaogao/2016/0115/3216407.html"
+		title="[致富证券]港股每日投资策略" target="_blank">[致富证券]港股每日投资策略</a></li>
+		<li>·<a href="/hkstock/yanjiubaogao/2016/0115/3216383.html"
+		title="[耀才证券]港股每日投资锦囊" target="_blank">[耀才证券]港股每日投资锦囊</a></li>
+		<li>·<a href="/hkstock/yanjiubaogao/2016/0115/3216241.html"
+		title="[金利丰证券]港股每日市场评论" target="_blank">[金利丰证券]港股每日市场评论</a></li>
+		<li>·<a href="/hkstock/yanjiubaogao/2016/0115/3216231.html"
+		title="[权证]法兴窝轮日志" target="_blank">[权证]法兴窝轮日志</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="HK_t_l_box02">
+	<div class="ind_box02_top">
+		<div class="ind_box02_tit000 ALL_TIT">新股消息</div>
+		<div class="ind_box02_tab">
+			<ul name="switchUl">
+				<li id="tb15_1" class="current" onmousemove="a_com.ipoBtnClick(this,'ipoUpcoming');"><a href="javascript:void(0);">香港IPO</a></li>
+				<li id="tb15_2" onmousemove="a_com.ipoBtnClick(this,'ipoNews');"><a href="javascript:void(0);">最新消息</a></li>
+				<li id="tb15_3" onmousemove="a_com.ipoBtnClick(this,'ipoAlready');"><a href="javascript:void(0);">已上市新股</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="ind_box02_ctt" id="ipoDiv">
+		<div id="ipoUpcoming">
+			<table style="background:url(/templets/caihuanet/images/ind_xg_bt.gif) repeat-x top;" border="0" cellpadding="0" cellspacing="0" width="100%" id="ipoUpcomingTable">
+              <tr class="ALL_sm_TIT">
+                <td align="center" height="29">上市日期</td>
+                <td align="center">代  号</td>
+                <td align="center">公司名称</td>
+                <td align="center">招股价</td>
+              </tr>
+			  <tr name="ipoList">
+                <td align="center" height="24">--</td>
+                <td align="center">--</td>
+                <td align="center">--</td>
+                <td align="center"></td>
+              </tr>
+            </table>
+			<table style="background:url(/templets/caihuanet/images/ind_xg_bt.gif) repeat-x top;" border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+                <td colspan="4" style="border-top:1px #CCC dotted;" align="right" height="28"><a href="http://www.finet.hk/mainsite/datacard/IPOList/UpcomingIPO.html"> 更多香港IP0消息</a><img src="/templets/caihuanet/images/more.jpg" height="11" width="6">&nbsp; &nbsp; </td>
+              </tr>
+            </table>
+		</div>
+
+		
+
+		<div id="ipoNews" class="undis">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background: url(/templets/caihuanet/images/ind_xg_bt.gif) repeat-x top;">
+				<tr class="ALL_sm_TIT">
+					<td width="100" height="29" align="center">日期</td>
+					<td width="120" align="center">时间</td>
+					<td align="left">标题</td>
+				</tr>
+								<tr>
+					<td height="24" align="center">2016-01-15</td>
+					<td align="center">11:20</td>
+					<td align="left"><a
+						href="/hkstock/xinguzhuizong/zuixinxiaoxi/2016/0115/3215921.html">成实外教育：民办机构留住教师问题不大</a></td>
+				</tr>
+								<tr>
+					<td height="24" align="center">2016-01-13</td>
+					<td align="center">18:36</td>
+					<td align="left"><a
+						href="/hkstock/xinguzhuizong/zuixinxiaoxi/2016/0113/3212619.html">融信中国首日上市每手赚130元</a></td>
+				</tr>
+								<tr>
+					<td height="24" align="center">2016-01-13</td>
+					<td align="center">18:36</td>
+					<td align="left"><a
+						href="/hkstock/xinguzhuizong/zuixinxiaoxi/2016/0113/3212617.html">智傲控股首日上市涨近2倍</a></td>
+				</tr>
+								<tr>
+					<td height="24" align="center">2016-01-13</td>
+					<td align="center">11:02</td>
+					<td align="left"><a
+						href="/hkstock/xinguzhuizong/zuixinxiaoxi/2016/0113/3211881.html">认购差得离谱 融信中国：市况不佳惹的祸</a></td>
+				</tr>
+								<tr>
+					<td height="24" align="center">2016-01-13</td>
+					<td align="center">11:02</td>
+					<td align="left"><a
+						href="/hkstock/xinguzhuizong/zuixinxiaoxi/2016/0113/3211879.html">智傲控股：公司產品较同业有竞爭力</a></td>
+				</tr>
+								<tr>
+					<td height="28" colspan="3" align="right"
+						style="border-top: 1px #CCC dotted;"><a
+						href="/hkstock/xinguzhuizong/zuixinxiaoxi/" target="_blank"
+						title="更多">更多最新消息</a><img src="/templets/caihuanet/images/more.jpg"
+						width="6" height="11" />&nbsp; &nbsp;</td>
+				</tr>
+			</table>
+		</div>
+
+		<div id="ipoAlready" class="undis">
+			<table style="background:url(/templets/caihuanet/images/ind_xg_bt.gif) repeat-x top;" border="0" cellpadding="0" cellspacing="0" width="100%" id="ipoAlreadyTable">
+              <tr class="ALL_sm_TIT">
+                <td align="center" height="29">上市日期</td>
+                <td align="center">代  号</td>
+				<td align="center">公司名称</td>
+				<td align="center">上市价</td>
+                <td align="center">相关资讯</td>
+              </tr>
+            </table>
+			<table style="background:url(/templets/caihuanet/images/ind_xg_bt.gif) repeat-x top;" border="0" cellpadding="0" cellspacing="0" width="100%">
+			  <tr>
+                <td colspan="6" style="border-top:1px #CCC dotted;" align="right" height="28"><a href="http://www.finet.hk/mainsite/datacard/IPOList/ListedIPO.html"> 更多已上市新股</a><img src="/templets/caihuanet/images/more.jpg" height="11" width="6">&nbsp; &nbsp; </td>
+              </tr>
+            </table>
+		</div>
+
+	</div>
+
+
+</div>
+
+
+<div class="ind_nav"></div>
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">窝轮资讯</div>
+<div class="ind_more"><a href="/hkstock/wolun_niuxiongzheng/">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hkstock/wolun_niuxiongzheng/2016/0113/3212615.html"
+		title="中资基金协会：希望整合QFII和RQFII" target="_blank">中资基金协会：希望整合QFII和RQF</a></li>
+		<li>·<a href="/hkstock/wolun_niuxiongzheng/2016/0108/3204995.html"
+		title="有对冲基金扬言今沽清A股" target="_blank">有对冲基金扬言今沽清A股</a></li>
+		<li>·<a href="/hkstock/wolun_niuxiongzheng/2015/1231/3195653.html"
+		title="积金再见红 人均蚀5617元" target="_blank">积金再见红 人均蚀5617元</a></li>
+		<li>·<a href="/hkstock/wolun_niuxiongzheng/2015/1229/3193023.html"
+		title="广发今推较高风险行业领先基金" target="_blank">广发今推较高风险行业领先基金</a></li>
+		<li>·<a href="/hkstock/wolun_niuxiongzheng/2015/1223/3186853.html"
+		title="华夏基金闪击战 最快下周港售" target="_blank">华夏基金闪击战 最快下周港售</a></li>
+		<li>·<a href="/hkstock/wolun_niuxiongzheng/2015/1110/3112547.html"
+		title="李卓峰：恆指势弱下试21800" target="_blank">李卓峰：恆指势弱下试21800</a></li>
+		<li>·<a href="/hkstock/wolun_niuxiongzheng/2015/1105/3111783.html"
+		title="李慧芬: 14.5元左右买入华熙生物" target="_blank">李慧芬: 14.5元左右买入华熙生物</a></li>
+	</ul>
+</div>
+</div>
+
+
+<div class="HK_t_l_box01">
+<div class="w_md_top">
+<div class="w_md_tit000 ALL_TIT">重点关注窝轮/牛熊证</div>
+<div class="ind_more"><a
+	href="http://quote.finet.com.cn/#warrant_all">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="s_md_focus_ctt" id="warrandcbbc"></div>
+</div>
+
+<div class="HK_t_l_box01">
+<script type="text/javascript" src="/plus/ad.php?n=ad_4"></script>
+</div>
+
+<div class="ind_nav"></div>
+
+</div>
+<!--<div class="HSstocks_rt">
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit002 ALL_TIT">A+H股比价</div>
+<div class="ind_more"><a
+	href="http://quote.finet.com.cn/#ah_shares">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt_ph">
+<div class="ind_ctt_ph_ctt">
+<div id="realdate11"></div>
+</div>
+<div class="AH">港股行情为延时15分钟行情</div>
+</div>
+</div>
+<div class="ind_nav"></div>
+<div class="hs_rt_ad006"><iframe width="325" height="228"
+	class="share_self" frameborder="0" scrolling="no"
+	src="http://widget.weibo.com/weiboshow/index.php?language=&width=325&height=250&fansRow=1&ptype=1&speed=0&skin=1&isTitle=1&noborder=0&isWeibo=1&isFans=1&uid=2352781670&verifier=fc16074b&dpc=1"></iframe></div>
+</div>-->
+</div>
+
+<div class="Haiwaigushi_tit"><img
+	src="/templets/caihuanet/images/ind_hwgs.gif" width="1001" height="32" /></div>
+
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit002 ALL_TIT">欧美地区指数</div>
+<div class="ind_more"><a
+	href="http://quote.finet.com.cn/#europeindices" target="_blank">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt_ph">
+	<div class="ind_ctt_ph_ctt">
+		<div id="indicesDiv_EI">
+			<table style="background:url(/templets/caihuanet/images/ind_xg_bt01.gif) repeat-x top;" border="0" cellpadding="0" cellspacing="0" width="100%">
+					 <tr class="ALL_sm_TIT">
+						<td class="font_left" align="left" height="29">指数名称</td>
+						<td class="font_right" align="right">最新价</td>
+						<td class="font_right" align="right">涨 跌</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">道琼斯工业平均指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">纳斯达克指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">标准普尔500指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">伦敦富时100指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">法兰克福DAX指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">巴黎CAC40指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					 </tr>
+			</table>
+		</div>
+	</div>
+<!--<div class="AH">港股行情为延时15分钟行情</div>-->
+</div>
+</div>
+
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit002 ALL_TIT">亚太地区指数</div>
+<div class="ind_more"><a
+	href="http://quote.finet.com.cn/#asiaindices" target="_blank">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="ind_ctt_ph">
+	<div class="ind_ctt_ph_ctt">
+		<div  id="indicesDiv_AI">
+			<table style="background:url(/templets/caihuanet/images/ind_xg_bt01.gif) repeat-x top;" border="0" cellpadding="0" cellspacing="0" width="100%">
+					 <tr class="ALL_sm_TIT">
+						<td class="font_left" align="left" height="29">指数名称</td>
+						<td class="font_right" align="right">最新价</td>
+						<td class="font_right" align="right">涨 跌</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">日经平均指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">台湾加权指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">新加坡海峡时报指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">吉隆坡综合指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+					 <tr name="indicesList">
+						<td class="font_left" align="left" height="24">雅加达综合指数</td>
+						<td class="font_right" align="right">--</td>
+						<td class="font_right" align="right">--</td>
+					  </tr>
+			</table>
+		</div>
+	</div>
+<!--<div class="AH">港股行情为延时15分钟行情</div>-->
+</div>
+</div>
+
+<div class="HK_t_l_box01">
+<script type="text/javascript" src="/plus/ad.php?n=ad_5"></script>
+</div>
+<div class="ind_nav"></div>
+<div class="Waihuiqihuo_tit"><img height="32" width="1001" src="/templets/caihuanet/images/ind_whqh.gif"></div>
+
+<div class="HK_t_l_box00">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">商品期货</div>
+<div class="ind_more"><a href="/hsstock/shangpinxinxi/">更多<img height="11" width="6" src="/templets/caihuanet/images/more.jpg"></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/shangpinxinxi/2016/0113/3212653.html"
+		title="証券协会繆英源：香港要拓展金属期货交易" target="_blank">証券协会繆英源：香港要拓展金属期货交易</a></li>
+		<li>·<a href="/hsstock/shangpinxinxi/2016/0113/3212465.html"
+		title="国际油价强势反弹，NYMEX原油大涨近3%" target="_blank">国际油价强势反弹，NYMEX原油大涨近</a></li>
+		<li>·<a href="/hsstock/shangpinxinxi/2016/0109/3206737.html"
+		title="纽约原油周五收跌0.3%，本周累跌10.5%" target="_blank">纽约原油周五收跌0.3%，本周累跌10</a></li>
+		<li>·<a href="/hsstock/shangpinxinxi/2016/0109/3206735.html"
+		title="纽约黄金周五收跌0.9%，本周累计上涨3.6%" target="_blank">纽约黄金周五收跌0.9%，本周累计上涨</a></li>
+		<li>·<a href="/hsstock/shangpinxinxi/2016/0102/3196847.html"
+		title="纽约油价2015年最后一个交易日收涨1.2%" target="_blank">纽约油价2015年最后一个交易日收涨1</a></li>
+		<li>·<a href="/hsstock/shangpinxinxi/2016/0102/3196845.html"
+		title="纽约金价2015年最后一个交易日微幅收涨" target="_blank">纽约金价2015年最后一个交易日微幅收</a></li>
+		<li>·<a href="/hsstock/shangpinxinxi/2015/1224/3188591.html"
+		title="俄要求油企就30美元油价进行压力测试" target="_blank">俄要求油企就30美元油价进行压力测试</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">外汇市场</div>
+<div class="ind_more"><a href="/hsstock/waihuishichang/">更多<img height="11" width="6" src="/templets/caihuanet/images/more.jpg"></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/waihuishichang/2016/0115/3215619.html"
+		title="人民幣兑美元中间价连续六日波动不大" target="_blank">人民幣兑美元中间价连续六日波动不大</a></li>
+		<li>·<a href="/hsstock/waihuishichang/2016/0114/3214257.html"
+		title="人民幣贬值之路还有多长？" target="_blank">人民幣贬值之路还有多长？</a></li>
+		<li>·<a href="/hsstock/waihuishichang/2016/0113/3211343.html"
+		title="打击炒家 离岸人民幣隔夜拆息高见163厘" target="_blank">打击炒家 离岸人民幣隔夜拆息高见163</a></li>
+		<li>·<a href="/hsstock/waihuishichang/2016/0112/3210193.html"
+		title="《人民幣大对决》离岸拆息达66.8厘   价差收窄至110点子" target="_blank">《人民幣大对决》离岸拆息达66.8厘 </a></li>
+		<li>·<a href="/hsstock/waihuishichang/2016/0112/3209873.html"
+		title="瑞银汪涛: 中央可降准抗资金外流" target="_blank">瑞银汪涛: 中央可降准抗资金外流</a></li>
+		<li>·<a href="/hsstock/waihuishichang/2016/0112/3209669.html"
+		title="港人幣存款高见4.5厘" target="_blank">港人幣存款高见4.5厘</a></li>
+		<li>·<a href="/hsstock/waihuishichang/2016/0112/3209571.html"
+		title="人民幣兑美元中间价今日报6.5628" target="_blank">人民幣兑美元中间价今日报6.5628</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="HK_t_l_box01">
+<div class="ind_bt_top">
+<div class="ind_bt_tit000 ALL_TIT">债券动态</div>
+<div class="ind_more"><a href="/hsstock/zhaiquan/">更多<img height="11" width="6" src="/templets/caihuanet/images/more.jpg"></a></div>
+</div>
+<div class="ind_ctt">
+<ul>
+		<li>·<a href="/hsstock/zhaiquan/2015/1116/3113363.html"
+		title="财政部下周一在港发140亿国债 20亿售予本港居民" target="_blank">财政部下周一在港发140亿国债 20亿</a></li>
+		<li>·<a href="/hsstock/zhaiquan/2015/1105/3111591.html"
+		title=" 印媒：中国首次购买印度国债 价值5亿美元" target="_blank"> 印媒：中国首次购买印度国债 价值5亿</a></li>
+		<li>·<a href="/hsstock/zhaiquan/2015/0918/3105553.html"
+		title="中国7月减持美债幅度 创近两年单月最大" target="_blank">中国7月减持美债幅度 创近两年单月最大</a></li>
+		<li>·<a href="/hsstock/zhaiquan/2015/0907/3103603.html"
+		title="內房公司债狂吸2500亿人幣" target="_blank">內房公司债狂吸2500亿人幣</a></li>
+		<li>·<a href="/hsstock/zhaiquan/2015/0827/3102489.html"
+		title="嘉进投资半年转赚1.18亿 不派息" target="_blank">嘉进投资半年转赚1.18亿 不派息</a></li>
+		<li>·<a href="/hsstock/zhaiquan/2015/0825/3101867.html"
+		title="全球拋售人幣资產　 赎回A股基金　点心债" target="_blank">全球拋售人幣资產　 赎回A股基金　点心</a></li>
+		<li>·<a href="/hsstock/zhaiquan/2015/0819/3100993.html"
+		title="中国连续四个月增持美债" target="_blank">中国连续四个月增持美债</a></li>
+	</ul>
+</div>
+</div>
+<div class="ind_nav"></div>
+
+
+<!--<div class="column">
+<div class="column_tit"><img
+	src="/templets/caihuanet/images/ind_zl.gif" width="1001" height="32" /></div>
+<div class="column_ctt_lt">
+<div class="c_c_l_top">
+<div class="c_c_l_tit">媒体专栏</div>
+<div class="ind_more"><a href="/zl/mt" title="更多" target="_blank">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="c_c_l_main">
+<div class="c_c_l_m_box">
+<div class="l_m_b_lt"><img src="/templets/typeimg/nbd.jpg"
+	width="100" height="60" title="每日经济新闻" />
+<p><a href='/zl/mt/bz/citi/' title="[field:typename/]"
+	target='_blank'>每日经济新闻</a></p>
+</div>
+<div class="l_m_b_lr">
+<ul>
+		<li>·<a href="/zl/mt/bz/citi/2015/1231/3195555.html"  class="bt_do"		title="A股注册制下审什么？信息披露将成重中之重" target="_blank">A股注册制下审什么？信息披露</a></li>
+		<li>·<a href="/zl/mt/bz/citi/2015/1231/3195541.html" 		title=" 2016资本市场：券商、公募投研体系再迎大考 " target="_blank"> 2016资本市场：券商、公</a></li>
+		<li>·<a href="/zl/mt/bz/citi/2015/1231/3195523.html" 		title="2016资本市场：注册制掀开A股新纪元 " target="_blank">2016资本市场：注册制掀开</a></li>
+		<li>·<a href="/zl/mt/bz/citi/2015/1231/3195515.html" 		title="2016价值挖掘：A股盈利模式迎来巨变 " target="_blank">2016价值挖掘：A股盈利模</a></li>
+	</ul>
+</div>
+</div>
+<div class="c_c_l_m_box">
+<div class="l_m_b_lt"><img src="/templets/typeimg/zqsb.gif"
+	width="100" height="60" title="证券时报" />
+<p><a href='/zl/mt/bz/nbd/' title="[field:typename/]"
+	target='_blank'>证券时报</a></p>
+</div>
+<div class="l_m_b_lr">
+<ul>
+		<li>·<a href="/zl/mt/bz/nbd/2015/1231/3195823.html"  class="bt_do"		title="汇金成立全资子公司 受让汇金所持7股逾53亿A股" target="_blank">汇金成立全资子公司 受让汇金</a></li>
+		<li>·<a href="/zl/mt/bz/nbd/2015/1223/3186771.html" 		title="宝能系入主万科蓄谋已久 王石曾与姚振华夜谈四小时" target="_blank">宝能系入主万科蓄谋已久 王石</a></li>
+		<li>·<a href="/zl/mt/bz/nbd/2015/1221/3183161.html" 		title="万科祭重大资产重组力战宝能" target="_blank">万科祭重大资产重组力战宝能</a></li>
+		<li>·<a href="/zl/mt/bz/nbd/2015/0928/3106651.html" 		title="券商清理配资倒计时 伞形信托无回旋余地" target="_blank">券商清理配资倒计时 伞形信托</a></li>
+	</ul>
+</div>
+</div>
+<div class="c_c_l_m_box">
+<div class="l_m_b_lt"><img
+	src="/templets/typeimg/W020080520628834961069.gif" width="100"
+	height="60" title="中国证券报" />
+<p><a href='/zl/mt/bz/zhongguozhengquanbao/'
+	title="[field:typename/]" target='_blank'>中国证券报</a></p>
+</div>
+<div class="l_m_b_lr">
+<ul>
+		<li>·<a href="/zl/mt/bz/zhongguozhengquanbao/2015/1228/3190823.html"  class="bt_do"		title="注册制将登历史舞台 券商最好时代正走来" target="_blank">注册制将登历史舞台 券商最好</a></li>
+		<li>·<a href="/zl/mt/bz/zhongguozhengquanbao/2015/1228/3190787.html" 		title="任泽平：注册制改革推动股权融资崛起" target="_blank">任泽平：注册制改革推动股权融</a></li>
+		<li>·<a href="/zl/mt/bz/zhongguozhengquanbao/2015/1228/3190781.html" 		title="证监会：抓紧制定注册制配套规则" target="_blank">证监会：抓紧制定注册制配套规</a></li>
+		<li>·<a href="/zl/mt/bz/zhongguozhengquanbao/2015/1224/3188675.html" 		title="万科回应“宝万之争”：愿保留对话可能" target="_blank">万科回应“宝万之争”：愿保留</a></li>
+	</ul>
+</div>
+</div>
+<div class="c_c_l_m_box">
+<div class="l_m_b_lt"><img
+	src="/templets/typeimg/W020080721534724787633.gif" width="100"
+	height="60" title="香港文汇报" />
+<p><a href='/zl/mt/bz/xianggangwenhuibao/' title="[field:typename/]"
+	target='_blank'>香港文汇报</a></p>
+</div>
+<div class="l_m_b_lr">
+<ul>
+		<li>·<a href="/zl/mt/bz/xianggangwenhuibao/2015/0429/2996835.html"  class="bt_do"		title="期指今结算港股料续波动 资金追捧落后红筹股" target="_blank">期指今结算港股料续波动 资金</a></li>
+		<li>·<a href="/zl/mt/bz/xianggangwenhuibao/2015/0429/2996819.html" 		title="李嘉诚续买入欧洲资产 长建收购英国铁路车辆公司" target="_blank">李嘉诚续买入欧洲资产 长建收</a></li>
+		<li>·<a href="/zl/mt/bz/xianggangwenhuibao/2015/0420/2985485.html" 		title="陈家强：沪港似两引擎 互补才可高飞" target="_blank">陈家强：沪港似两引擎 互补才</a></li>
+		<li>·<a href="/zl/mt/bz/xianggangwenhuibao/2015/0401/2969027.html" 		title="沪港通检讨运作 陈家强：不谈降50万门槛" target="_blank">沪港通检讨运作 陈家强：不谈</a></li>
+	</ul>
+</div>
+</div>
+</div>
+<div class="l_m_news">
+<ul>
+		<li><a class="bigtit" href="/zl/mt/bz/nbd"
+		target="_blank" title="证券时报">[证券时报]</a><a
+		href="/zl/mt/bz/nbd/2015/1231/3195823.html"
+		title="汇金成立全资子公司 受让汇金所持7股逾53亿A股" target="_blank">汇金成立全资子公司 受让汇金所持7股逾53亿A股</a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1231/3195555.html"
+		title="A股注册制下审什么？信息披露将成重中之重" target="_blank">A股注册制下审什么？信息披露将成重中之重</a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1231/3195541.html"
+		title=" 2016资本市场：券商、公募投研体系再迎大考 " target="_blank"> 2016资本市场：券商、公募投研体系再迎大考 </a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1231/3195523.html"
+		title="2016资本市场：注册制掀开A股新纪元 " target="_blank">2016资本市场：注册制掀开A股新纪元 </a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1231/3195515.html"
+		title="2016价值挖掘：A股盈利模式迎来巨变 " target="_blank">2016价值挖掘：A股盈利模式迎来巨变 </a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1230/3193931.html"
+		title="万科定增：如果华润不接招 王石还有什么牌" target="_blank">万科定增：如果华润不接招 王石还有什么牌</a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/diyicaijingribao"
+		target="_blank" title="第一财经日报">[第一财经日报]</a><a
+		href="/zl/mt/bz/diyicaijingribao/2015/1230/3193917.html"
+		title="“宝万”之争 险资凶猛 " target="_blank">“宝万”之争 险资凶猛 </a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1229/3192233.html"
+		title="P2P新监管办法出台 地方政府或不愿冒险严格执法" target="_blank">P2P新监管办法出台 地方政府或不愿冒险严格执法</a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/diyicaijingribao"
+		target="_blank" title="第一财经日报">[第一财经日报]</a><a
+		href="/zl/mt/bz/diyicaijingribao/2015/1229/3192201.html"
+		title="P2P大佬解读监管细则：比预想中更猛烈" target="_blank">P2P大佬解读监管细则：比预想中更猛烈</a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/diyicaijingribao"
+		target="_blank" title="第一财经日报">[第一财经日报]</a><a
+		href="/zl/mt/bz/diyicaijingribao/2015/1229/3192199.html"
+		title="P2P监管12“红线”：哪条最有杀伤力" target="_blank">P2P监管12“红线”：哪条最有杀伤力</a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1229/3192197.html"
+		title="P2P监管细则征求意见：明确12道“红线” " target="_blank">P2P监管细则征求意见：明确12道“红线” </a></li>
+		<li><a class="bigtit" href="/zl/mt/bz/citi"
+		target="_blank" title="每日经济新闻">[每日经济新闻]</a><a
+		href="/zl/mt/bz/citi/2015/1228/3190847.html"
+		title="注册制获全国人大授权 最快明年3月落地" target="_blank">注册制获全国人大授权 最快明年3月落地</a></li>
+	</ul>
+</div>
+<div class="l_m_ad"><a target="_blank"
+	href="http://113.106.95.203/hsstock/redianyidong/">
+<div style="cursor: pointer;"><object
+	classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0"
+	width="662" height="110">
+	<param name="movie" value="/uploads/media/120220/1_1734458861.swf" />
+	<param name="quality" value="high" />
+	<param name="wmode" value="opaque" />
+	<embed src="/uploads/media/120220/1_1734458861.swf" quality="high"
+		wmode="opaque"
+		pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"
+		type="application/x-shockwave-flash" width="662" height="110"></embed>
+</object></div>
+</a></div>
+</div>
+<div class="column_ctt_rt">
+<div class="c_c_r_gr_top">
+<div class="c_c_r_gr_tit">个人专栏</div>
+<div class="ind_more"><a href="/zl/gr/">更多<img
+	src="/templets/caihuanet//images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="c_c_r_gr_ctt"><img
+	src="/templets/typeimg/W020100210634004800665.jpg" width="100"
+	height="60" title="唐炎" />
+<p><a href="/zl/gr/tangyan/" target="_blank" title="唐炎">唐炎</a><br />
+<a href="/zl/gr/tangyan/" target="_blank" title="唐炎"></a>...</p>
+</div>
+<div class="c_c_r_gr_per">
+<ul>
+	<li><a href="/zl/gr/suyaoying/" target="_blank" title="粟耀莹">粟耀莹</a></li>
+	<li><a href="/zl/gr/xieguozhong/" target="_blank" title="谢国忠">谢国忠</a></li>
+	<li><a href="/zl/gr/shijingquan/" target="_blank" title="石镜泉">石镜泉</a></li>
+	<li><a href="/zl/gr/zuoxiaolei/" target="_blank" title="左小蕾">左小蕾</a></li>
+	<li><a href="/zl/gr/yetan/" target="_blank" title="叶檀">叶檀</a></li>
+	<li><a href="/zl/gr/shuipi/" target="_blank" title="水皮">水皮</a></li>
+	<li><a href="/zl/gr/pihaizhou/" target="_blank" title="皮海洲">皮海洲</a></li>
+	<li><a href="/zl/gr/huangxiangyuan/" target="_blank" title="黄湘源">黄湘源</a></li>
+	<li><a href="/zl/gr/tangxuepeng/" target="_blank" title="唐学鹏">唐学鹏</a></li>
+	<li><a href="/zl/gr/zhouqiren/" target="_blank" title="周其仁">周其仁</a></li>
+</ul>
+</div>
+<div class="r_gr_news">
+<ul></ul>
+</div>
+
+
+<div class="c_c_r_jg_top">
+<div class="c_c_r_jg_tit">机构专栏</div>
+<div class="ind_more"><a href="/zl/jg" title="更多" target="_blank">更多<img
+	src="/templets/caihuanet/images/more.jpg" width="6" height="11" /></a></div>
+</div>
+<div class="c_c_r_jg_ctt">
+<div class="r_jg_box">
+<div class="r_jg_box_top">
+<ul>
+	<li class="current" id="tb11_1" onmousemove="xgz:HoverLi11(1);"><a
+		href="javascript:void(0);">香港证券</a></li>
+  
+	<li id="tb11_3" onmousemove="xgz:HoverLi11(3);"><a
+		href="javascript:void(0);">券商机构</a></li>
+	<li id="tb11_4" style="width: 79px;" onmousemove="xgz:HoverLi11(4);"><a
+		href="javascript:void(0);">投资咨询机构</a></li>	
+    <li id="tb11_2"><a
+		href="javascript:void(0);"></a></li>
+ 
+</ul>
+</div>
+
+
+
+
+
+<div class="r_jg_box_ctt" id="tbc11_01">
+	<DIV id=slide>
+		<UL class=slideul1>
+		  <LI class=slideli1>
+			  <UL class=slideul2>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/datang" target="_blank" title="大唐投资"><img
+						src="/templets/typeimg/W020100325536164373472.jpg" width="100" height="60"
+						title="大唐投资" /></a>
+					<p><a href="/zl/jg/yjjg/datang" target="_blank" title="大唐投资">大唐投资</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/yaocai" target="_blank" title="耀才证券(香港)"><img
+						src="/templets/typeimg/耀才.jpg" width="100" height="60"
+						title="耀才证券(香港)" /></a>
+					<p><a href="/zl/jg/yjjg/yaocai" target="_blank" title="耀才证券(香港)">耀才证券(香港)</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/jiaoyinggj" target="_blank" title="交银国际"><img
+						src="/templets/typeimg/W020100420424088683060.jpg" width="100" height="60"
+						title="交银国际" /></a>
+					<p><a href="/zl/jg/yjjg/jiaoyinggj" target="_blank" title="交银国际">交银国际</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/amtd" target="_blank" title="AMTD尚乘财富策划"><img
+						src="/templets/typeimg/AMTD.jpg" width="100" height="60"
+						title="AMTD尚乘财富策划" /></a>
+					<p><a href="/zl/jg/yjjg/amtd" target="_blank" title="AMTD尚乘财富策划">AMTD尚乘财富策划</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/dahezhenq" target="_blank" title="大和"><img
+						src="/templets/typeimg/dahezhengquan.jpg" width="100" height="60"
+						title="大和" /></a>
+					<p><a href="/zl/jg/yjjg/dahezhenq" target="_blank" title="大和">大和</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/dasheng" target="_blank" title="大盛证券"><img
+						src="/templets/typeimg/dashengzhengquan.jpg" width="100" height="60"
+						title="大盛证券" /></a>
+					<p><a href="/zl/jg/yjjg/dasheng" target="_blank" title="大盛证券">大盛证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/diyish" target="_blank" title="第一上海"><img
+						src="/templets/typeimg/diyishanghai.jpg" width="100" height="60"
+						title="第一上海" /></a>
+					<p><a href="/zl/jg/yjjg/diyish" target="_blank" title="第一上海">第一上海</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/fbaliyh" target="_blank" title="法国巴黎银行"><img
+						src="/templets/typeimg/faguobaliyinghang.jpg" width="100" height="60"
+						title="法国巴黎银行" /></a>
+					<p><a href="/zl/jg/yjjg/fbaliyh" target="_blank" title="法国巴黎银行">法国巴黎银行</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/faguoxinye" target="_blank" title="法国兴业"><img
+						src="/templets/typeimg/faguoxingyeyinghang.jpg" width="100" height="60"
+						title="法国兴业" /></a>
+					<p><a href="/zl/jg/yjjg/faguoxinye" target="_blank" title="法国兴业">法国兴业</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/fuchang" target="_blank" title="富昌证券"><img
+						src="/templets/typeimg/fuchangzhengquan.jpg" width="100" height="60"
+						title="富昌证券" /></a>
+					<p><a href="/zl/jg/yjjg/fuchang" target="_blank" title="富昌证券">富昌证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/guohao" target="_blank" title="国浩资本"><img
+						src="/templets/typeimg/guohaozhiben.jpg" width="100" height="60"
+						title="国浩资本" /></a>
+					<p><a href="/zl/jg/yjjg/guohao" target="_blank" title="国浩资本">国浩资本</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/haitong" target="_blank" title="海通国际"><img
+						src="/templets/typeimg/haitongguoji.jpg" width="100" height="60"
+						title="海通国际" /></a>
+					<p><a href="/zl/jg/yjjg/haitong" target="_blank" title="海通国际">海通国际</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/jingtian" target="_blank" title="灏天金融"><img
+						src="/templets/typeimg/jingtianjingrong.jpg" width="100" height="60"
+						title="灏天金融" /></a>
+					<p><a href="/zl/jg/yjjg/jingtian" target="_blank" title="灏天金融">灏天金融</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/henglizq" target="_blank" title="恒利证券"><img
+						src="/templets/typeimg/henglingzhengquan.jpg" width="100" height="60"
+						title="恒利证券" /></a>
+					<p><a href="/zl/jg/yjjg/henglizq" target="_blank" title="恒利证券">恒利证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/hongfu" target="_blank" title="泓福资产管理有限公司"><img
+						src="/templets/typeimg/hongfuzhichangguanli.jpg" width="100" height="60"
+						title="泓福资产管理有限公司" /></a>
+					<p><a href="/zl/jg/yjjg/hongfu" target="_blank" title="泓福资产管理有限公司">泓福资产管理有限公司</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/jinglifeng" target="_blank" title="金利丰证券"><img
+						src="/templets/typeimg/jinglifeng.jpg" width="100" height="60"
+						title="金利丰证券" /></a>
+					<p><a href="/zl/jg/yjjg/jinglifeng" target="_blank" title="金利丰证券">金利丰证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/luosha" target="_blank" title="罗沙证券"><img
+						src="/templets/typeimg/huoshazhengquan.jpg" width="100" height="60"
+						title="罗沙证券" /></a>
+					<p><a href="/zl/jg/yjjg/luosha" target="_blank" title="罗沙证券">罗沙证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/maiyingrenzheng" target="_blank" title="麦银认股证"><img
+						src="/templets/typeimg/maiyingrengguzheng.jpg" width="100" height="60"
+						title="麦银认股证" /></a>
+					<p><a href="/zl/jg/yjjg/maiyingrenzheng" target="_blank" title="麦银认股证">麦银认股证</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/nanhua" target="_blank" title="南华证券"><img
+						src="/templets/typeimg/huananzhengquang.jpg" width="100" height="60"
+						title="南华证券" /></a>
+					<p><a href="/zl/jg/yjjg/nanhua" target="_blank" title="南华证券">南华证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/qunyu" target="_blank" title="群益证券"><img
+						src="/templets/typeimg/yuqingzhengquan.jpg" width="100" height="60"
+						title="群益证券" /></a>
+					<p><a href="/zl/jg/yjjg/qunyu" target="_blank" title="群益证券">群益证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/shenyingwanguo" target="_blank" title="申银万国"><img
+						src="/templets/typeimg/shengyingwanguo.jpg" width="100" height="60"
+						title="申银万国" /></a>
+					<p><a href="/zl/jg/yjjg/shenyingwanguo" target="_blank" title="申银万国">申银万国</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/shengli" target="_blank" title="胜利证券"><img
+						src="/templets/typeimg/shenglizhengquan.jpg" width="100" height="60"
+						title="胜利证券" /></a>
+					<p><a href="/zl/jg/yjjg/shengli" target="_blank" title="胜利证券">胜利证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/huajia" target="_blank" title="苏格兰皇家银行"><img
+						src="/templets/typeimg/shugelanhuangjia.jpg" width="100" height="60"
+						title="苏格兰皇家银行" /></a>
+					<p><a href="/zl/jg/yjjg/huajia" target="_blank" title="苏格兰皇家银行">苏格兰皇家银行</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/chengxing" target="_blank" title="信诚证券"><img
+						src="/templets/typeimg/taixingzhengquan.jpg" width="100" height="60"
+						title="信诚证券" /></a>
+					<p><a href="/zl/jg/yjjg/chengxing" target="_blank" title="信诚证券">信诚证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/xingdaguoji" target="_blank" title="信达国际"><img
+						src="/templets/typeimg/xindaguoji.jpg" width="100" height="60"
+						title="信达国际" /></a>
+					<p><a href="/zl/jg/yjjg/xingdaguoji" target="_blank" title="信达国际">信达国际</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/yinghuangz" target="_blank" title="英皇证券"><img
+						src="/templets/typeimg/yinghuangzhengquan.jpg" width="100" height="60"
+						title="英皇证券" /></a>
+					<p><a href="/zl/jg/yjjg/yinghuangz" target="_blank" title="英皇证券">英皇证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/zhifuz" target="_blank" title="致富证券"><img
+						src="/templets/typeimg/zhengfuzhengquan.jpg" width="100" height="60"
+						title="致富证券" /></a>
+					<p><a href="/zl/jg/yjjg/zhifuz" target="_blank" title="致富证券">致富证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/dunpei" target="_blank" title="敦沛金融"><img
+						src="/templets/typeimg/dunpeijingrong.jpg" width="100" height="60"
+						title="敦沛金融" /></a>
+					<p><a href="/zl/jg/yjjg/dunpei" target="_blank" title="敦沛金融">敦沛金融</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/yjjg/zgyscfgl" target="_blank" title="中国银盛财富管理"><img
+						src="/templets/typeimg/E1860A52-68CE-4AAF-9739-8AD3423AFB76.jpg" width="100" height="60"
+						title="中国银盛财富管理" /></a>
+					<p><a href="/zl/jg/yjjg/zgyscfgl" target="_blank" title="中国银盛财富管理">中国银盛财富管理</a>
+					</div>
+			    </LI>
+			    			  </UL>
+		  </LI>
+		  <LI class=slideli2></LI>
+		</UL>
+	</DIV>
+
+</div>
+<div class="undis" id="tbc11_02"></div>
+<div class="undis" id="tbc11_03">
+	<DIV id=aslide>
+		<UL class=aslideul1>
+		  <LI class=aslideli1>
+			  <UL class=aslideul2>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/changji" target="_blank" title="长江证券"><img
+						src="/templets/typeimg/W020081013565934637090.jpg" width="100" height="60"
+						title="长江证券" /></a>
+					<p><a href="/zl/jg/qsjg/changji" target="_blank" title="长江证券">长江证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/guangfa" target="_blank" title="广发证券"><img
+						src="/templets/typeimg/guangfa.jpg" width="100" height="60"
+						title="广发证券" /></a>
+					<p><a href="/zl/jg/qsjg/guangfa" target="_blank" title="广发证券">广发证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/zhonggu" target="_blank" title="中银国际"><img
+						src="/templets/typeimg/zhongguoguoji.jpg" width="100" height="60"
+						title="中银国际" /></a>
+					<p><a href="/zl/jg/qsjg/zhonggu" target="_blank" title="中银国际">中银国际</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/dongbei" target="_blank" title="东北证券"><img
+						src="/templets/typeimg/dongbeizhengquan.jpg" width="100" height="60"
+						title="东北证券" /></a>
+					<p><a href="/zl/jg/qsjg/dongbei" target="_blank" title="东北证券">东北证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/guotaij" target="_blank" title="国泰君安证券"><img
+						src="/templets/typeimg/guotaiqunan.jpg" width="100" height="60"
+						title="国泰君安证券" /></a>
+					<p><a href="/zl/jg/qsjg/guotaij" target="_blank" title="国泰君安证券">国泰君安证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/zhongto" target="_blank" title="中投证券"><img
+						src="/templets/typeimg/zhongguozhongtou.jpg" width="100" height="60"
+						title="中投证券" /></a>
+					<p><a href="/zl/jg/qsjg/zhongto" target="_blank" title="中投证券">中投证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/huatail" target="_blank" title="华泰联合证券"><img
+						src="/templets/typeimg/huatailanhe.jpg" width="100" height="60"
+						title="华泰联合证券" /></a>
+					<p><a href="/zl/jg/qsjg/huatail" target="_blank" title="华泰联合证券">华泰联合证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/guangda" target="_blank" title="光大证券"><img
+						src="/templets/typeimg/guangdazhengquan.jpg" width="100" height="60"
+						title="光大证券" /></a>
+					<p><a href="/zl/jg/qsjg/guangda" target="_blank" title="光大证券">光大证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/guoxinz" target="_blank" title="国信证券"><img
+						src="/templets/typeimg/guoxing.gif" width="100" height="60"
+						title="国信证券" /></a>
+					<p><a href="/zl/jg/qsjg/guoxinz" target="_blank" title="国信证券">国信证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/xingyez" target="_blank" title="兴业证券"><img
+						src="/templets/typeimg/xingyezhengquan.jpg" width="100" height="60"
+						title="兴业证券" /></a>
+					<p><a href="/zl/jg/qsjg/xingyez" target="_blank" title="兴业证券">兴业证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/haitong" target="_blank" title="海通证券"><img
+						src="/templets/typeimg/haitong.jpg" width="100" height="60"
+						title="海通证券" /></a>
+					<p><a href="/zl/jg/qsjg/haitong" target="_blank" title="海通证券">海通证券</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/qsjg/zhongji" target="_blank" title="中金公司"><img
+						src="/templets/typeimg/zhongjinggongshi.png" width="100" height="60"
+						title="中金公司" /></a>
+					<p><a href="/zl/jg/qsjg/zhongji" target="_blank" title="中金公司">中金公司</a>
+					</div>
+			    </LI>
+			    			  </UL>
+		  </LI>
+		  <LI class=slideli2></LI>
+		</UL>
+	</DIV>
+
+</div>
+<div class="undis" id="tbc11_04">
+	<DIV id=bslide>
+		<UL class=bslideul1>
+		  <LI class=bslideli1>
+			  <UL class=bslideul2>
+			  			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/guangz" target="_blank" title="广州万隆"><img
+						src="/templets/typeimg/guangzhouwannongzhengquan.jpg" width="100" height="60"
+						title="广州万隆" /></a>
+					<p><a href="/zl/jg/tzjg/guangz" target="_blank" title="广州万隆">广州万隆</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/damoto" target="_blank" title="大摩投资"><img
+						src="/templets/typeimg/damotouzhi.jpg" width="100" height="60"
+						title="大摩投资" /></a>
+					<p><a href="/zl/jg/tzjg/damoto" target="_blank" title="大摩投资">大摩投资</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/guoche" target="_blank" title="国诚投资"><img
+						src="/templets/typeimg/W020100414338077367462.jpg" width="100" height="60"
+						title="国诚投资" /></a>
+					<p><a href="/zl/jg/tzjg/guoche" target="_blank" title="国诚投资">国诚投资</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/jinrit" target="_blank" title="今日投资"><img
+						src="/templets/typeimg/W020080701632755104556.jpg" width="100" height="60"
+						title="今日投资" /></a>
+					<p><a href="/zl/jg/tzjg/jinrit" target="_blank" title="今日投资">今日投资</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/huaxun" target="_blank" title="华讯财经"><img
+						src="/templets/typeimg/huaxuncaijing.png" width="100" height="60"
+						title="华讯财经" /></a>
+					<p><a href="/zl/jg/tzjg/huaxun" target="_blank" title="华讯财经">华讯财经</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/zhuoch" target="_blank" title="卓创资讯"><img
+						src="/templets/typeimg/zhuochuangzhixun.gif" width="100" height="60"
+						title="卓创资讯" /></a>
+					<p><a href="/zl/jg/tzjg/zhuoch" target="_blank" title="卓创资讯">卓创资讯</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/ningbo" target="_blank" title="宁波海顺"><img
+						src="/templets/typeimg/lingbohaishun.png" width="100" height="60"
+						title="宁波海顺" /></a>
+					<p><a href="/zl/jg/tzjg/ningbo" target="_blank" title="宁波海顺">宁波海顺</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/shench" target="_blank" title="深圳智多盈"><img
+						src="/templets/typeimg/zhiduoying.gif" width="100" height="60"
+						title="深圳智多盈" /></a>
+					<p><a href="/zl/jg/tzjg/shench" target="_blank" title="深圳智多盈">深圳智多盈</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/shijit" target="_blank" title="世基投资"><img
+						src="/templets/typeimg/shijitouzhi.png" width="100" height="60"
+						title="世基投资" /></a>
+					<p><a href="/zl/jg/tzjg/shijit" target="_blank" title="世基投资">世基投资</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/kedeto" target="_blank" title="科德投资"><img
+						src="/templets/typeimg/kedetouzhi.png" width="100" height="60"
+						title="科德投资" /></a>
+					<p><a href="/zl/jg/tzjg/kedeto" target="_blank" title="科德投资">科德投资</a>
+					</div>
+			    </LI>
+			    			    <LI>
+			    	<div class="r_jg_imgb"><a href="/zl/jg/tzjg/lzzxw" target="_blank" title="隆众资讯"><img
+						src="/templets/typeimg/隆众石化商务网.jpg" width="100" height="60"
+						title="隆众资讯" /></a>
+					<p><a href="/zl/jg/tzjg/lzzxw" target="_blank" title="隆众资讯">隆众资讯</a>
+					</div>
+			    </LI>
+			    			  </UL>
+		  </LI>
+		  <LI class=slideli2></LI>
+		</UL>
+	</DIV>
+
+</div>
+
+<SCRIPT type=text/javascript>
+var _speed=30;
+var _slide = $("#slide");
+var _slideli1 = $(".slideli1");
+var _slideli2 = $(".slideli2");
+_slideli2.html(_slideli1.html());
+function Marquee(){
+	if(_slide.scrollLeft() >= _slideli1.width())
+		_slide.scrollLeft(0);
+	else{
+		_slide.scrollLeft(_slide.scrollLeft()+1);
+	}
+}
+
+var sliding=setInterval(Marquee,_speed)
+_slide.hover(function() {
+	clearInterval(sliding);
+},function(){
+	sliding=setInterval(Marquee,_speed);
+});
+
+
+var _aslide = $("#aslide");
+var _aslideli1 = $(".aslideli1");
+var _aslideli2 = $(".aslideli2");
+_aslideli2.html(_aslideli1.html());
+function aMarquee(){
+	if(_aslide.scrollLeft() >= _aslideli1.width())
+		_aslide.scrollLeft(0);
+	else{
+		_aslide.scrollLeft(_aslide.scrollLeft()+1);
+	}
+}
+var asliding=setInterval(aMarquee,_speed)
+_aslide.hover(function() {
+	clearInterval(asliding);
+},function(){
+	asliding=setInterval(aMarquee,_speed);
+});
+
+var _bslide = $("#bslide");
+var _bslideli1 = $(".bslideli1");
+var _bslideli2 = $(".bslideli2");
+_bslideli2.html(_bslideli1.html());
+function bMarquee(){
+	if(_bslide.scrollLeft() >= _bslideli1.width())
+		_bslide.scrollLeft(0);
+	else{
+		_bslide.scrollLeft(_bslide.scrollLeft()+1);
+	}
+}
+var bsliding=setInterval(bMarquee,_speed)
+_bslide.hover(function() {
+	clearInterval(bsliding);
+},function(){
+	bsliding=setInterval(bMarquee,_speed);
+});
+
+</SCRIPT>
+
+
+
+
+
+</div>
+</div>
+<div class="r_jg_news">
+<ul>
+		<li><a class="bigtit" href="/zl/jg/yjjg/chengxing"
+		target="_blank" title="信诚证券">[信诚证券]</a><a
+		href="/zl/jg/yjjg/chengxing/2015/0623/3042481.html"
+		title="[信诚证券]信诚投资通讯(上午)" target="_blank">[信诚证券]信诚投资通讯(上午)</a></li>
+		<li><a class="bigtit" href="/zl/jg/tzjg/jinrit"
+		target="_blank" title="今日投资">[今日投资]</a><a
+		href="/zl/jg/tzjg/jinrit/2015/0612/3040751.html"
+		title="今日投资：早盘酿酒行业涨幅居前 沱牌舍得涨8.60%" target="_blank">今日投资：早盘酿酒行业涨幅居前 沱牌舍得涨8.60%</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/fbaliyh"
+		target="_blank" title="法国巴黎银行">[法国巴黎银行]</a><a
+		href="/zl/jg/yjjg/fbaliyh/2015/0604/3037677.html"
+		title="[权证]法巴认股证/牛熊证焦点" target="_blank">[权证]法巴认股证/牛熊证焦点</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/jinglifeng"
+		target="_blank" title="金利丰证券">[金利丰证券]</a><a
+		href="/zl/jg/yjjg/jinglifeng/2015/0603/3037527.html"
+		title="[金利丰证券]港股每日市场评论" target="_blank">[金利丰证券]港股每日市场评论</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/faguoxinye"
+		target="_blank" title="法国兴业">[法国兴业]</a><a
+		href="/zl/jg/yjjg/faguoxinye/2015/0603/3037231.html"
+		title="[权证]法兴窝轮日志" target="_blank">[权证]法兴窝轮日志</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/datang"
+		target="_blank" title="大唐投资">[大唐投资]</a><a
+		href="/zl/jg/yjjg/datang/2015/0603/3037223.html"
+		title="[大唐投资]港股晨迅速递" target="_blank">[大唐投资]港股晨迅速递</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/shenyingwanguo"
+		target="_blank" title="申银万国">[申银万国]</a><a
+		href="/zl/jg/yjjg/shenyingwanguo/2015/0603/3037169.html"
+		title="[申银万国]A股日评" target="_blank">[申银万国]A股日评</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/shenyingwanguo"
+		target="_blank" title="申银万国">[申银万国]</a><a
+		href="/zl/jg/yjjg/shenyingwanguo/2015/0603/3037157.html"
+		title="[申银万国]港股及周边金融市场评论" target="_blank">[申银万国]港股及周边金融市场评论</a></li>
+		<li><a class="bigtit" href="/zl/jg/tzjg/jinrit"
+		target="_blank" title="今日投资">[今日投资]</a><a
+		href="/zl/jg/tzjg/jinrit/2015/0603/3037413.html"
+		title="今日投资：早盘酒店餐饮涨幅居前 东方宾馆涨10.00%" target="_blank">今日投资：早盘酒店餐饮涨幅居前 东方宾馆涨10.00%</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/zgyscfgl"
+		target="_blank" title="中国银盛财富管理">[中国银盛财富管理]</a><a
+		href="/zl/jg/yjjg/zgyscfgl/2015/0603/3037113.html"
+		title="[中国银盛财富管理]每日港股走势及分析" target="_blank">[中国银盛财富管理]每日港股走势及分析</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/qunyu"
+		target="_blank" title="群益证券">[群益证券]</a><a
+		href="/zl/jg/yjjg/qunyu/2015/0603/3037063.html"
+		title="[群益证券]研究报告：沪港通报告" target="_blank">[群益证券]研究报告：沪港通报告</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/qunyu"
+		target="_blank" title="群益证券">[群益证券]</a><a
+		href="/zl/jg/yjjg/qunyu/2015/0603/3037043.html"
+		title="[群益证券]研 究 部 晨 讯" target="_blank">[群益证券]研 究 部 晨 讯</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/yaocai"
+		target="_blank" title="耀才证券(香港)">[耀才证券(香港)]</a><a
+		href="/zl/jg/yjjg/yaocai/2015/0602/3036043.html"
+		title="[耀才证券]港股每日投资锦囊" target="_blank">[耀才证券]港股每日投资锦囊</a></li>
+		<li><a class="bigtit" href="/zl/jg/tzjg/jinrit"
+		target="_blank" title="今日投资">[今日投资]</a><a
+		href="/zl/jg/tzjg/jinrit/2015/0602/3035953.html"
+		title="今日投资：市场情绪爆棚  周二A股市场大幅上涨" target="_blank">今日投资：市场情绪爆棚  周二A股市场大幅上涨</a></li>
+		<li><a class="bigtit" href="/zl/jg/yjjg/jinglifeng"
+		target="_blank" title="金利丰证券">[金利丰证券]</a><a
+		href="/zl/jg/yjjg/jinglifeng/2015/0602/3035903.html"
+		title="[金利丰证券]港股每日市场评论" target="_blank">[金利丰证券]港股每日市场评论</a></li>
+	</ul>
+</div>
+</div>
+</div>-->
+<div class="Covershow">
+<div class="cs_top">
+<div class="cs_top_tit ALL_TIT">封面秀</div>
+<div class="ind_more"><a href="/fengmianxiu" target="_blank"
+	title="更多">更多 <img src="/templets/caihuanet/images/i_cs_mor.gif"
+	width="8" height="9" /></a></div>
+</div>
+<div class="cs_ctt">
+<ul>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/dangdaijinrongjia/"><img width="100"
+		height="135" title="当代金融家" src="/templets/typeimg/1363053284.jpg"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/dangdaijinrongjia/">当代金融家</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/rongzizhongguo/"><img width="100"
+		height="135" title="融资中国" src="/templets/typeimg/1381907891.jpg"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/rongzizhongguo/">融资中国</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/jingliren/"><img width="100"
+		height="135" title="经理人杂志" src="/templets/typeimg/1363053429.jpg"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/jingliren/">经理人杂志</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/gushidongtaifenxi/"><img width="100"
+		height="135" title="股市动态分析" src="/templets/typeimg/1368415800.png"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/gushidongtaifenxi/">股市动态分析</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/nanfangrenwuzhoukan/"><img width="100"
+		height="135" title="南方人物周刊" src="/templets/typeimg/1363053499.jpg"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/nanfangrenwuzhoukan/">南方人物周刊</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/touziyoudao/"><img width="100"
+		height="135" title="投资有道" src="/templets/typeimg/1407467166.jpg"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/touziyoudao/">投资有道</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/licaizhoukan/"><img width="100"
+		height="135" title="理财周刊" src="/templets/typeimg/1408933837.png"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/licaizhoukan/">理财周刊</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/xincaijing/"><img width="100"
+		height="135" title="新财经" src="/templets/typeimg/1386728220.jpg"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/xincaijing/">新财经</a></p>
+	</li>
+		<li><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/xingyingxiao/"><img width="100"
+		height="135" title="新营销" src="/templets/typeimg/1415779982.jpeg"></a>
+	<p><a title="当代金融家" target="_blank"
+		href="/zl/mt/zz/xingyingxiao/">新营销</a></p>
+	</li>
+	</ul>
+</div>
+</div>
+<div class="Partners">
+<div class="pt_top ALL_TIT">>> 合作伙伴</div>
+<div class="pt_ctt">
+<ul>
+	<li><font class="ALL_sm_TIT">授权使用财华资讯网站:</font> <a target="_blank"
+		href="http://business.sohu.com/">搜狐财经</a> <a target="_blank"
+		href="http://finance.qq.com/stock/">腾讯证券</a> <a target="_blank"
+		href="http://finance.sina.com.cn/">新浪财经</a> <a target="_blank"
+		href="http://finance.ifeng.com/">凤凰财经</a> <a target="_blank"
+		href="http://www.eastmoney.com">东方财富网</a> <a target="_blank"
+		href="http://www.hexun.com/">和讯网</a> <a target="_blank"
+		href="http://www.jrj.com.cn">金融界</a> <a target="_blank"
+		href="http://www.stockstar.com">证券之星</a> <a target="_blank"
+		href="http://www.cnfol.com">中金在线</a> <a target="_blank"
+		href="http://www.kongzhong.com">空中网</a> <a target="_blank"
+		href="http://www.chinawindow.co.kr">上海艾富投资</a> <a target="_blank"
+		href="http://www.chinfos.com/stock/?hl=ko">世纪普乐</a> <a target="_blank"
+		href="http://finance.takungpao.com/">大公网</a></li>
+	<li><font class="ALL_sm_TIT">合作媒体:</font> <a target="_blank"
+		href="http://www.dowjones.cn/">道琼斯公司</a> <a target="_blank"
+		href="http://www.ftchinese.com/cpa_rde.php?ccode=2G080117&pageurl=index.php">FT中文网</a>
+	<a target="_blank" href="http://www.fortunechina.com/">《财富》杂志</a> <a
+		target="_blank" href="http://www.hbrchina.com/">哈佛《商业评论》</a> <a
+		target="_blank" href="http://cn.msn.com">MSN中文网</a> <a target="_blank"
+		href="http://www.wenweipo.com">香港文汇报</a> <a target="_blank"
+		href="http://www.takungpao.com/">大公报</a> <a target="_blank"
+		href="http://www.ibtimes.com.cn/">国际财经时报</a> <a target="_blank"
+		href="http://www.cs.com.cn/">中国证券报</a> <a target="_blank"
+		href="http://www.cnstock.com">上海证券报</a> <a target="_blank"
+		href="http://www.stcn.com/">证券时报</a> <a target="_blank"
+		href="http://zqrb.ccstock.cn">证券日报</a> <a target="_blank"
+		href="http://www.21cbh.com/">21世纪经济报道</a> <a target="_blank"
+		href="http://www.nbd.com.cn/">每日经济新闻</a> <a target="_blank"
+		href="http://www.chinatimes.cc/">华夏时报</a> <a target="_blank"
+		href="http://www.investorchina.com.cn/">投资者报</a> <a target="_blank"
+		href="http://www.time-weekly.com/">时代周报</a> <a target="_blank"
+		href="http://www.cbpclub.com/">财经时报</a> <a target="_blank"
+		href="http://www.shfinancialnews.com/">上海金融报</a> <a target="_blank"
+		href="http://www.58188.com">顶尖财经网</a> <a target="_blank"
+		href="http://www.gsdtfx.com">《股市动态分析》杂志</a> <a target="_blank"
+		href="http://www.zqdk.com.cn/index/weekly/index.html">《证券导刊》杂志</a> <a
+		target="_blank" href="http://www.mycfz.com/">《创富志》杂志</a> <a
+		target="_blank" href="http://www.xincaijing.com/">《新财经》杂志</a> <a
+		target="_blank" href="http://www.caihuanet.com/zhuanlan/meiti/xjjdk/">《新经济导刊》</a>
+	<a target="_blank" href="http://www.wisemoney.cn/">《卓越理财》杂志</a> <a
+		target="_blank" href="http://www.xinlicai.com.cn/">《新理财》杂志</a> <a
+		target="_blank"
+		href="http://www.moneydao.com/PlugInsr/Magazine/MagazineList.aspx?MagazineTypeID=3">《基金观察》杂志</a>
+	<a target="_blank" href="http://www.zgjjzk.cn/">《中国经济周刊》杂志</a> <a
+		target="_blank" href="http://www.chinainvestment.com.cn/">《中国投资》杂志</a>
+	<a target="_blank"
+		href="http://www.moneydao.com/PlugInsr/Magazine/MagazineList.aspx?MagazineTypeID=1">《投资有道》杂志</a>
+	<a target="_blank" href="http://www.topcapital.com.cn/">《投资与合作》杂志</a> <a
+		target="_blank" href="http://www.caimiwang.com/">《投资与理财》杂志</a> <a
+		target="_blank" href="http://www.thecapital.com.cn">《融资中国》杂志</a> <a
+		target="_blank" href="http://www.chuangyejia.com/">《创业家》杂志</a> <a
+		target="_blank" href="http://www.talentsmag.com/">《英才》杂志</a> <a
+		target="_blank" href="http://www.dongshihui.com.cn/">《董事会》杂志</a> <a
+		target="_blank" href="http://www.cm100.com.cn/">《当代经理人》杂志</a> <a
+		target="_blank" href="http://www.sino-manager.com/">《经理人》杂志</a> <a
+		target="_blank" href="http://www.modernbankers.com/">《当代金融家》杂志</a> <a
+		target="_blank" href="http://www.pkubr.com">《北大商业评论》杂志</a> <a
+		target="_blank" href="http://www.cfoworld.cn/">《首席财务官》杂志</a> <a
+		target="_blank" href="http://www.caihuanet.com/zhuanlan/meiti/nfrwzk/">《南方人物周刊》</a>
+	<a target="_blank" href="http://www.caihuanet.com/zhuanlan/meiti/cjwz/">《财经文摘》杂志</a>
+	<a target="_blank" href="http://www.nmktmag.com">《新营销》杂志</a> <a
+		target="_blank" href="http://caihuanet.com/zhuanlan/meiti/nfqyj/">《南方企业家》杂志</a>
+	<a target="_blank" href="http://www.caistv.com/browse/41">《商界评论》杂志</a>
+	<a target="_blank" href="http://www.sh-hk.com/">《沪港经济》杂志</a> <a
+		target="_blank" href="http://www.chinaacc.com">《财会学习》杂志</a> <a
+		target="_blank" href="http://www.xincaiji.com/">新财技</a> <a
+		target="_blank" href="http://www.webtrade-usa.com/">美国证券网</a> <a
+		target="_blank" href="http://www.wefweb.com/">世界能源金融网</a> <a
+		target="_blank" href="http://www.ce.cn">中国经济网</a> <a target="_blank"
+		href="http://www.zgjrw.com">中国金融网</a> <a target="_blank"
+		href="http://www.china.com.cn/economic/node_5001716.htm">中国网</a> <a
+		target="_blank" href="http://www.caing.com">财新网</a> <a target="_blank"
+		href="http://www.ezjsr.com">浙商网</a> <a target="_blank"
+		href="http://futures.caixun.com/">财讯期货</a> <a target="_blank"
+		href="http://www.yikuo.com">易阔每日财经</a> <a target="_blank"
+		href="http://www.cf69.com/">金牛网</a> <a target="_blank"
+		href="http://www.sci99.com/">卓创资讯</a> <a target="_blank"
+		href="http://www.forexproscn.com">forexproscn</a> <a target="_blank"
+		href="http://www.yzforex.com">亚洲外汇网</a> <a target="_blank"
+		href="http://www.chinaventure.com.cn">投资中国网</a> <a target="_blank"
+		href="http://www.cyzone.cn">创业邦</a> <a target="_blank"
+		href="http://www.icaijing.com">爱财经网</a> <a target="_blank"
+		href="http://www.oilchem.net/">隆众石化商务网</a> <a target="_blank"
+		href="http://www.bschannel.com">耀才财经台</a></li>
+	<li><font class="ALL_sm_TIT">合作机构:</font><a target="_blank"
+		href="http://www.sw108.com/">申银万国证券研究所</a> <a target="_blank"
+		href="http://www.dxzq.net/">东兴证券研究所</a> <a target="_blank"
+		href="http://www.investoday.com.cn/">今日投资</a> <a target="_blank"
+		href="http://www.lhzq.com/index.jsp?webcolid=74">联合证券研究所</a> <a
+		target="_blank" href="http://www.qz18.net">权证在线</a> <a
+		target="_blank" href="http://www.bsgroup.com.hk">耀才证券</a></li>
+	<li><font class="ALL_sm_TIT">上市公司:</font> <a target="_blank"
+		href="http://www.bankcomm.com/BankCommSite/cn/invest_relation_index.jsp?type=index">交通银行</a>
+	<a target="_blank"
+		href="http://www.ccb.com/portal/cn/investernew/index.jsp">建设银行</a> <a
+		target="_blank"
+		href="http://www.e-chinalife.com/investment/big5/price.html">中国人寿</a>
+	<a target="_blank" href="http://www.shenhuachina.com/invest/44.html">中国神华</a>
+	<a target="_blank"
+		href="http://www.chinacosco.com//ChinaCosco/pages/proscenium/cn/index.jsp">中国远洋</a>
+	<a target="_blank"
+		href="http://www.csrgc.com.cn/cns/tzzgx/gpxx/scbx/hgu/2008-05-23/82.shtml">中国南车</a>
+	<a target="_blank"
+		href="http://www.chinacoalenergy.com/tzgxClass.asp?nodeid=116">中煤能源</a>
+	<a target="_blank" href="http://www.cscl.com.cn/">中海集运</a> <a
+		target="_blank" href="http://www.ccccltd.cn/jtjs/channeldir/8.aspx">中国交通建设</a>
+	<a target="_blank" href="http://www.sinofert.com/cn/">中化化肥</a> <a
+		target="_blank"
+		href="http://www.cag.com.hk/s/news_press_details.php?id=28545">中国自动化集团</a>
+	<a target="_blank"
+		href="http://www.bjcapitalland.com.cn/investors.php?class_6.html">首创置业</a>
+	<a target="_blank"
+		href="http://www.sinochem.com/tabid/800/Default.aspx">方兴地产</a> <a
+		target="_blank" href="http://download.td-gg.com/tzzgx.asp">天大石油管材</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="ind_foot_ad">
+<ul>
+<a  style="cursor:pointer" title="财华网" href="http://www.finet.hk/mainsite/index.htm" target="_blank" ><li></li></a>
+<a  style="cursor:pointer" title="财华智库网" href="http://www.finet.com.cn/" target="_blank" ><li></li></a>
+<a  style="cursor:pointer" title="现代财经" href="http://www.fintv.hk/" target="_blank" ><li></li></a>
+</ul>
+</div>
+<style>
+.ind_nav {
+	float: left;
+	height: 8px;
+	overflow: hidden;
+	width: 100%;
+}
+</style>
+<script type="text/javascript">var get_ral_data_main=function(){$.ajax({url: "/plus/ajaxdo.php?op=mainrealdata",cache: false,success: function(msg){var arrs=msg.split("##@##");$("#realdate1").html(arrs[0]);$("#realdate2").html(arrs[1]);$("#realdate3").html(arrs[2]);$("#realdate4").html(arrs[3]);$("#realdate5").html(arrs[4]);$("#realdate6").html(arrs[5]);$("#realdate7").html(arrs[6]);$("#realdate8").html(arrs[7]);$("#realdate9").html(arrs[8]);$("#realdate10").html(arrs[9]);$("#realdate11").html(arrs[10]);$("#realdate12").html(arrs[11]);$("#realdate13").html(arrs[12]);$("#realdate14").html(arrs[13]);$("#realdate15").html(arrs[14]);$("#realdate16").html(arrs[15]);$("#realdate17").html(arrs[16]);$("#realdate18").html(arrs[17]);$("#realdate19").html(arrs[18]);$("#warrandcbbc").html(arrs[19]);$("#realdate22").html(arrs[22]);}});};get_ral_data_main();setInterval(get_ral_data_main,60000);</script>
+<div id="footer">
+<div class="foot">
+<div class="foot_menu"><a
+	href="http://corp.finet.com.cn/html/aboutus/website/">财华智库网简介</a> | <a
+	href="http://corp.finet.com.cn/html/product/">财华终端</a> | <a
+	href="http://corp.finet.com.cn/html/service/advertising/">刊登广告</a> | <a
+	href="http://corp.finet.com.cn/html/service/contactus/">内容合作</a> | <a
+	href="http://corp.finet.com.cn/html/aboutus/copyright/">版权声明</a> | <a
+	href="http://corp.finet.com.cn/html/service/contactus/">联系方式</a> | <a
+	href="http://corp.finet.com.cn/html/service/partners/">合作伙伴</a> | <a
+	href="http://corp.finet.com.cn/html/service/links/">友情链接</a></div>
+<div class="foot_copy">
+
+财华智库网为财华社集团旗下网站，为香港政府指定刊载法定通告之宪报刊登报章，财华社获准在中国境内发布财经资讯<br />
+Copyright@1998-2016 财华控股有限公司。版权所有，不得转载。<br />
+ICP服务提供：深圳市财华智库新闻技术有限公司[粤ICP备12006556号-1] <br />
+客户服务电话：0755-86159089-765 值班人员电话：0755-86159089-890;0755-86159090-661<br />
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=40439202" charset="UTF-8"></script>
+<script type="text/javascript">
+    //谷歌统计
+	var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-32893867-1']);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); 
+		ga.type = 'text/javascript'; 
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; 
+		s.parentNode.insertBefore(ga, s);
+	})(); 
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?1ce09b31fea8e3c439111699de2771c1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script> 
+</div>
+
+</div>
+
+</div>
+</div>
+
+<!--弹出广告开始-->
+<!--<style>
+	.crazy_ad{
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+		filter: alpha(opacity=1);
+		-khtml-opacity: 1;
+		-moz-opacity: 1;
+		opacity: 1;
+		top: 110%;
+		left: 75%;width:620px; height:0px; z-index: 1001; margin-left: -310px; position: fixed;
+	}
+</style>
+<div id="crazy_ad" class="crazy_ad"><a href="http://ad.finet.hk/BannerSystem/Rec.php?type=C&bid=508&pid=HOME&lang=C&url=http%3A%2F%2Fwww.huishandairy.com%2F" target="_blank"><img src="http://www.finet.hk/mainsite/BannerSystem/BRImages/508.jpg" border="0" width="620" height="320" alt=""></a><img src="http://ad.finet.hk/BannerSystem/Rec.php?type=I&bid=508&pid=HOME&lang=C" border="0" height="0" width="0" class="banner"></div>-->
+
+<!--弹出广告结束-->
+
+</body>
+</html>

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 9 ]> <html class="ie9"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://www.barchester.com/sites/barchester/themes/moreton/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/475" />
+<link rel="canonical" href="/news/researchers-question-benefits-aspirin" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Researchers question the benefits of aspirin | Barchester Healthcare</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  <meta property="og:image" content="http://www.barchester.com/sites/barchester/themes/moreton/logo.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="256">
+  <meta property="og:image:height" content="78">
+  <link rel="image_src" type="image/png" href="http://www.barchester.com/sites/barchester/themes/moreton/logo.png" />
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+  <style>
+@import url("http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/jquery.ui.core.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/jquery.ui.theme.css?o0xwfd");
+@import url("http://www.barchester.com/modules/system/system.base.css?o0xwfd");
+@import url("http://www.barchester.com/modules/system/system.messages.css?o0xwfd");
+@import url("http://www.barchester.com/modules/system/system.theme.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/jquery.ui.accordion.css?o0xwfd");
+</style>
+<style>
+@import url("http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/jquery.ui.slider.css?o0xwfd");
+</style>
+<style>
+@import url("http://www.barchester.com/sites/all/modules/contrib/calendar/css/calendar_multiday.css?o0xwfd");
+@import url("http://www.barchester.com/modules/comment/comment.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/date/date_api/date.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?o0xwfd");
+@import url("http://www.barchester.com/modules/field/theme/field.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/logintoboggan/logintoboggan.css?o0xwfd");
+@import url("http://www.barchester.com/modules/node/node.css?o0xwfd");
+@import url("http://www.barchester.com/modules/search/search.css?o0xwfd");
+@import url("http://www.barchester.com/modules/user/user.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/views/css/views.css?o0xwfd");
+</style>
+<style>
+@import url("http://www.barchester.com/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.css?o0xwfd");
+@import url("http://www.barchester.com/sites/all/modules/contrib/ctools/css/ctools.css?o0xwfd");
+</style>
+<style>
+@import url("http://www.barchester.com/sites/barchester/themes/moreton/css/styles.css?o0xwfd");
+</style>
+<style media="print">
+@import url("http://www.barchester.com/sites/barchester/themes/moreton/css/print.css?o0xwfd");
+</style>
+  <script src="http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.js?v=1.8.3"></script>
+<script src="http://www.barchester.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/jquery.ui.core.js?v=1.10.2"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/jquery.ui.widget.js?v=1.10.2"></script>
+<script src="http://www.barchester.com/misc/drupal.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/jquery.ui.accordion.js?v=1.10.2"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/equalheights/jquery.equalheights.js?v=1.0"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/jquery.ui.mouse.js?v=1.10.2"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/jquery.ui.slider.js?v=1.10.2"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/jquery_ui_filter/jquery_ui_filter.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/equalheights/equalheights.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/media_colorbox/media_colorbox.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/jquery_ui_filter/accordion/jquery_ui_filter_accordion.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/colorbox/js/colorbox.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/colorbox/js/colorbox_load.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/colorbox/js/colorbox_inline.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/floating_block/floating_block.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/getdirections/getdirections.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/custom_search/js/custom_search.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/libraries/imagesloaded/jquery.imagesloaded.min.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/all/modules/contrib/google_analytics/googleanalytics.js?o0xwfd"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-457155-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("send", "pageview");</script>
+<script>function kVoid() { return; } function kenshoo_conv(type,value,orderId,promoCode,valueCurrency) { var hostProtocol = (("https:" == document.location.protocol) ? "https" : "http"); var url = hostProtocol+"://1182.xg4ken.com/media/redir.php?track=1&id=8b88b461-e633-4e3f-aa9c-40a824ef433c&type="+ type + "&val=" + value + "&orderId=" + orderId + "&valueCurrency=" + valueCurrency + "&promoCode=" + promoCode + "&ref=" + document.referrer;  var a = new Image(1,1);  a.src = url; a.onload = function() { kVoid(); } } </script>
+<script src="http://www.barchester.com/sites/barchester/themes/moreton/js/script.js?o0xwfd"></script>
+<script src="http://www.barchester.com/sites/barchester/themes/moreton/js/analytics.js?o0xwfd"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"moreton","theme_token":"nK7PQWXLK_NSMiVnOCO5ppyc_fqBwYkpwhesydrRNb8","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.js":1,"misc\/jquery.once.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/jquery.ui.core.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/jquery.ui.widget.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/jquery.ui.accordion.js":1,"sites\/all\/modules\/contrib\/equalheights\/jquery.equalheights.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/jquery.ui.mouse.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/jquery.ui.slider.js":1,"sites\/all\/modules\/contrib\/jquery_ui_filter\/jquery_ui_filter.js":1,"sites\/all\/modules\/contrib\/equalheights\/equalheights.js":1,"sites\/all\/modules\/contrib\/media_colorbox\/media_colorbox.js":1,"sites\/all\/modules\/contrib\/jquery_ui_filter\/accordion\/jquery_ui_filter_accordion.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/floating_block\/floating_block.js":1,"sites\/all\/modules\/contrib\/getdirections\/getdirections.js":1,"sites\/all\/modules\/contrib\/custom_search\/js\/custom_search.js":1,"sites\/all\/libraries\/imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"sites\/barchester\/themes\/moreton\/js\/script.js":1,"sites\/barchester\/themes\/moreton\/js\/analytics.js":1},"css":{"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/barchester\/themes\/moreton\/system.menus.css":1,"sites\/barchester\/themes\/moreton\/css\/styles.css":1,"sites\/barchester\/themes\/moreton\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"floating_block":{"settings":{"#block-barchester-care-homes-new-home-contact-details":{"container":"#main","width":"211px"}},"minWidth":0},"getdirections_colorbox":{"enable":0,"width":"600","height":"600"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"jQueryUiFilter":{"disabled":0,"accordionHeaderTag":"h6","accordionOptions":{"active":0,"animated":"slide","autoHeight":"true","clearStyle":"false","collapsible":"true","event":"click","scrollTo":0,"history":"false"}},"custom_search":{"form_target":"_self","solr":0},"better_exposed_filters":{"views":{"leaderboard":{"displays":{"block":{"filters":[]}}},"gallery":{"displays":{"block_4":{"filters":[]}}},"news_related_stories":{"displays":{"block":{"filters":[]}}}}},"equalHeightsModule":{"classes":[{"selector":"#block-views-news-related-stories-block-3 .views-row","mediaquery":"","minheight":"","maxheight":"","overflow":"visible"},{"selector":".view-media .views-row","mediaquery":"","minheight":"","maxheight":"","overflow":"auto"}],"imagesloaded_ie8":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/news\/researchers-question-benefits-aspirin":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-475 node-type-news section-news" >
+  <div id="cookie-warning">
+    <div class="container">
+      <div class="consent">
+        <a href="#" class="accept-and-close">Accept</a>
+        <a href="/privacy-policy#cookies" class="more-information">Find out more</a>
+      </div>
+      <div class="content">
+        This site uses cookies to store information on your device.
+      </div>
+    </div>
+  </div>
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+
+	
+<header id="header" role="banner">
+  	<div class="top-menu-container">
+		<div class="top-menu">
+			<div class="container">
+				<ul class="barchester-top-menu">
+					<li><a href="http://www.barchesterjobs.com" target="_blank">Careers</a></li>
+				    <li><a href="/why-barchester-healthcare">About us</a></li>
+				    <li><a href="/contact-us" title="Contact Us">Contact<span></span></a></li>
+				    <li><a href="/news">News & press</a></li>
+				    <li><a href="http://www.bhcfoundation.org.uk" target="_blank">Barchester Foundation</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="header-container">
+    	<a href="/" title="Home" rel="home" id="logo">
+    		<img src="/sites/barchester/themes/moreton/logo.svg" onerror="this.src='http://www.barchester.com/sites/barchester/themes/moreton/logo.png'" alt="Home" />
+    	</a>
+
+    	<div class="mobile-menu">
+    		<button class="mobile lines-button x" aria-label="Toggle Navigation" role="button" type="button">
+	            <a class="trigger" href="#">Menu</a>
+	            <span class="lines"></span>
+	        </button>
+	    </div>
+	    <div class="search-dialog">
+	    	<form action="/news/researchers-question-benefits-aspirin" method="post" id="front-home-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-location">
+ <input placeholder="Find a care home in..." type="text" id="edit-location" name="location" value="" size="30" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="GO" class="form-submit" /><input type="hidden" name="form_build_id" value="form-lIui8R95Ac9bnpXyC_4URmNPuoGBlJ-O68ge7vmYrW8" />
+<input type="hidden" name="form_id" value="front_home_form" />
+</div></form>    	</div>
+	</div>
+
+	<div class="main-menu-container">
+		<div class="main-menu">
+		<div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf menu__item is-leaf first leaf menu-mlid-497"><a href="/choosing-a-care-home" title="" class="menu__link menu__link">Care homes</a></li>
+<li class="menu__item is-parent is-leaf menu__item is-parent is-leaf leaf has-children menu-mlid-431"><a href="/types-care" class="menu__link menu__link">Types of care</a></li>
+<li class="menu__item is-parent is-leaf menu__item is-parent is-leaf leaf has-children menu-mlid-1020"><a href="/help-and-advice" class="menu__link menu__link">Help and advice</a></li>
+<li class="menu__item is-parent is-leaf menu__item is-parent is-leaf last leaf has-children menu-mlid-1806"><a href="/life-barchester" class="menu__link menu__link">Life with Barchester</a></li>
+</ul></div>
+        </div>
+        <div class="mobile-top-menu">
+			<ul class="barchester-top-menu">
+				<li><a href="http://www.barchesterjobs.com" target="_blank">Careers</a></li>
+			    <li><a href="/why-barchester-healthcare">About us</a></li>
+			    <li><a href="/contact-us" title="Contact Us">Contact<span></span></a></li>
+			    <li><a href="/news">News & press</a></li>
+			    <li><a href="http://www.bhcfoundation.org.uk" target="_blank">Barchester Foundation</a></li>				    
+			</ul>
+		</div>
+	</div>
+</header>
+
+  <div id="leaderboard">
+      </div>
+
+<div id="page">
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+            <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> /  <a href="/news">News</a> /  Researchers question the benefits of aspirin</div>      <a id="main-content"></a>
+                           <h1 class="title" id="page-title">Researchers question the benefits of aspirin</h1>
+                                    
+
+
+
+<article class="node-475 node node-news view-mode-full clearfix" about="/news/researchers-question-benefits-aspirin" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Researchers question the benefits of aspirin" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field-name-field-leaderboard-image"><img src="http://www.barchester.com/sites/barchester/files/styles/leaderboard/public/news//x_504_801261755_0_0_14026011_1200.jpg?itok=5YSblQhm"  alt="Researchers question the benefits of aspirin"></div><div class="field-name-created">11th January 2012</div><div class="field-name-field-category"><div class="field-item"><a href="/news-categories/stroke">Stroke</a></div></div><div class="field-name-body"><p>Researchers have questioned the benefits of aspirin to stave off heart attack or stroke in people without a history of cardiovascular disease.<br />
+<br />
+Aspirin may not have the same level of positive effect previously thought, given the associated risk of internal bleeding, when trying to prevent heart attack or stroke, according to a study at St George&#39;s University of London.<br />
+<br />
+The drug has been widely used to reduce the risk of clots forming in blood vessels, which lead to heart disease and stroke.<br />
+<br />
+However, according to the study, clinicians have failed to assess the relative benefit of aspirin in relation to the possible side effects for people without a history of cardiovascular disease.<br />
+<br />
+Dr Sharlin Ahmed, research liaison officer at the Stroke Association, commented: &quot;People who think that taking aspirin on a regular basis as a precaution without advice from their doctor should be aware of the potential harm they could be causing themselves.&quot;<br />
+<br />
+However, those who have specifically been told to take aspirin following a cardiovascular episode should continue to do so, according to Dr Ahmed.<br />
+<br />
+An alternative preventative treatment to aspirin has not yet been discovered, despite studies trying to develop such a drug to limit side effects.<br />
+<br />
+Find the nearest Barchester <a href="http://www.barchester.com/" target="_blank">care home</a>.</p></div><br />
+  
+  
+</article><!-- /.node -->
+          </div><!-- /#content -->
+
+
+
+    
+          <aside class="sidebars">
+                  <section class="region region-sidebar-second column sidebar">
+    <div id="block-barchester-blocks-barchester-news-ctas" class="block block-barchester-blocks first last odd">
+
+      
+  <p><img src="/sites/barchester/files/map.png" width="222" height="119" /></p><h2>Find a care home</h2><p>View our care homes in your area and arrange a free brochure or viewing.</p><p><a class="button" href="/choosing-a-care-home">find a home</a></p>
+</div>
+  </section>
+      </aside><!-- /.sidebars -->
+    
+  </div><!-- /#main -->
+  
+</div><!-- /#page -->
+
+  <footer id="footer" class="region region-footer">
+    <div id="block-views-news-related-stories-block" class="block block-views first odd">
+
+        <h2 class="block__title block-title">Related Stories</h2>
+    
+  <div class="view view-news-related-stories view-id-news_related_stories view-display-id-block view-dom-id-8401ceab46a95f08db213d27dda6a4a4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-leaderboard-image">        <div class="field-content"><a href="/news/be-positive-reduce-cardiovascular-risk"><img typeof="foaf:Image" src="http://www.barchester.com/sites/barchester/files/styles/home_search/public/news//x_504_801342659_0_0_14015736_1200.jpg?itok=eJ8r85zr" width="360" height="200" alt="Researchers question the benefits of aspirin" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">18th April 2012</span>  </div>  
+  <div class="views-field views-field-title">        <h2 class="field-content"><a href="/news/be-positive-reduce-cardiovascular-risk">Be positive to reduce cardiovascular risk</a></h2>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>People that have a positive outlook on life...</div>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/news-categories/stroke" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Stroke</a></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-leaderboard-image">        <div class="field-content"><a href="/news/new-drug-linked-brain-bleeds-stroke-patients"><img typeof="foaf:Image" src="http://www.barchester.com/sites/barchester/files/styles/home_search/public/news//x_504_800355149_0_0_7023340_1200.jpg?itok=wkcKggA1" width="360" height="200" alt="Researchers question the benefits of aspirin" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">20th January 2011</span>  </div>  
+  <div class="views-field views-field-title">        <h2 class="field-content"><a href="/news/new-drug-linked-brain-bleeds-stroke-patients">New drug &#039;linked to brain bleeds in stroke patients&#039;</a></h2>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Merck &amp; Co has said that it halted one...</div>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/news-categories/stroke" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Stroke</a></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-leaderboard-image">        <div class="field-content"><a href="/news/diabetes-brings-heightened-risk-cawt-and-stroke"><img typeof="foaf:Image" src="http://www.barchester.com/sites/barchester/files/styles/home_search/public/news//x_504_19141674_0_0_7022876_1200.jpg?itok=hJIxLff2" width="360" height="200" alt="Researchers question the benefits of aspirin" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">27th April 2009</span>  </div>  
+  <div class="views-field views-field-title">        <h2 class="field-content"><a href="/news/diabetes-brings-heightened-risk-cawt-and-stroke">Diabetes brings &#039;heightened risk of CAWT and stroke&#039;</a></h2>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Having diabetes or high blood pressure could...</div>  </div>  
+  <div class="views-field views-field-field-category">        <div class="field-content"><a href="/news-categories/stroke" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Stroke</a></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-block-22" class="block block-block last even">
+
+      
+  <p><img src="/sites/barchester/files/DAA_0.png" width="160" height="88" /></p>
+<p><img src="/sites/barchester/files/TopEmployer_0_0.jpg" alt="Top employer" title="Top Employer 2014" width="197" height="88" /></p>
+<p><img src="/sites/barchester/files/Veg_for_life_1.png" width="160" height="88" /></p>
+<p><a href="http://www.barchester.com/media/press-releases/barchester-collects-gold-award-health-and-safety"><img src="/sites/barchester/files/RoSPA-award.jpg" alt="RoSPA winner" title="RoSPA winner" width="85" height="88" style="width:85px !important" /></a></p>
+<p><img src="/sites/barchester/files/Cookingwithcare_0.jpg" alt="Cooking with care" width="166" height="88" /></p>
+</div>
+  </footer>
+
+<div class="footer-bottom">
+  <div class="container">
+      <div class="region region-bottom">
+    <div id="block-block-2" class="block block-block first odd">
+
+      
+  <p>Barchester Healthcare © 2016 - All Rights Reserved</p><ul><li><a href="http://www.bhcfoundation.org.uk/">Barchester's Charitable Foundation</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/terms-and-conditions-use">Terms &amp; Conditions</a></li><li><a href="/sitemap">Sitemap</a></li><li><a href="http://www.barchesterjobs.com/" target="_blank">Careers</a></li><li><a href="/news">News</a></li></ul>
+</div>
+<div id="block-block-13" class="block block-block last even">
+
+      
+  <p><a href="http://www.fluid-ideas.co.uk" rel="nofollow">Website by&nbsp;<img src="/sites/barchester/themes/moreton/images/fluid.svg" onerror="/sites/barchester/themes/moreton/images/fluid.png" alt="Home" alt="Fluid Ideas: Create marketing, design and websites" width="41" height="27" /></a></p>
+</div>
+  </div>
+  </div>
+</div>
+    <div class="region region-page-bottom">
+    
+    <!--[if (IE 6)|(IE 7)]>
+      <script type="text/javascript">
+        var IE6UPDATE_OPTIONS = {
+          icons_path: "http://www.barchester.com/sites/all/modules/contrib/ie6update/images/",
+          message: "Internet Explorer is missing updates required to view this site. Click here to update... ",
+          url: "http://www.microsoft.com/windows/internet-explorer/default.aspx"
+        }
+      </script>
+      <script type="text/javascript" src="http://www.barchester.com/sites/all/modules/contrib/ie6update/ie6update.js"></script>
+    <![endif]-->
+    </div>
+  <div id="messages-modul"></div>
+  <!-- Here ends everything -->
+</body>
+</html>

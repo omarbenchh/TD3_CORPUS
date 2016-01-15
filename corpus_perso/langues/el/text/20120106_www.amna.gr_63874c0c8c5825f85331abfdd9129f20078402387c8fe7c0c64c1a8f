@@ -1,0 +1,439 @@
+﻿   <!DOCTYPE html>
+<html lang="el">
+<head>
+
+<base href="http://www.amna.gr" >
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="alexaVerifyID" content="xIPgmG3ymtzHkfEv-8I5I4oA7hY" /> 
+<meta name="description" content="Έγκυρη και έγκαιρη ενημέρωση, με τα νέα από την Ελλάδα, την Ευρώπη και τον κόσμο 24 ώρες το 24ωρο, παρέχει το Αθηναϊκό Πρακτορείο Ειδήσεων - Μακεδονικό Πρακτορείο Ειδήσεων. Η επικαιρότητα με όλες τις τελευταίες ελληνικές και διεθνείς ειδήσεις.">
+<meta name="keywords" content="Ειδήσεις, Νέα, Ελλάδα, Πολιτική, Οικονομία, Κόσμος, Πολιτισμός, Αθλητισμός, Τεχνολογία, Υγεία, Περιβάλλον, Τουρισμός"  />
+<meta http-equiv="Content-Language" content="en">
+<link rel="icon" href="favicon.ico">
+
+<meta property="og:image" content="http://www.amna.gr/photos/201112/20-81809syntaxeis.jpg"/>
+	<link rel="image_src" type="image/jpeg" href="http://www.amna.gr/photos/201112/20-81809syntaxeis.jpg"/>
+<title>ΑΠΕ-ΜΠΕ: Μέσα Ιανουαρίου η τροπολογία για μείωση επικουρικών </title>
+
+<!-- Fonts -->
+<link rel="stylesheet" type="text/css" media="screen" href="fonts/PFDinDisplayProWeb_Black/PFDinDisplayPro-Black.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="fonts/PFDinDisplayProWeb_Medium/PFDinDisplayPro-Medium.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="fonts/PFDinDisplayProWeb_Light/PFDinDisplayPro-Light.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="fonts/PFDinDisplayProWeb_Reg/PFDinDisplayPro-Regular.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="fonts/PFDinTextCompProWeb_Medium/PFDinTextCompPro-Medium.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="fonts/PFBagueSlabProWeb_Bold/PFBagueSlabPro-Bold.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="fonts/PFBagueSlabProWeb_Reg/PFBagueSlabPro-Regular.css" />
+
+<!-- Search -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:regular,bold" type="text/css" />
+<link href="lib/search/style/style-ana.css" rel="stylesheet" type="text/css" />
+
+<!-- Bootstrap core CSS -->
+<link href="lib/bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<!-- Custom styles for this template -->
+<link href="css/design.css" rel="stylesheet">
+</head>
+
+<body id="articleCategory">
+<div class="navbar-wrapper">
+  <div class="container">
+  	<div class="row">
+    	<div class="col-md-3" >
+        	<div class="headerLogo" >
+        		<a href="index.php"><img src="images/logo.png" border="0" alt"ANA logo"></a>
+            </div>  
+        </div>
+        <div class="col-md-9" >
+        	<div class="row headerUtils">
+              <div class="col-md-12" >
+                <div class="col-md-2 languagesLinks" ><a href="/english" target="_blank">En</a>|<a href="#" target="_blank">El</a></div>
+                <div class="col-md-2 hidden-xs" ><a href="meteo.php"><img src="images/weather.png" border="0"></a></div>
+                <div class="col-md-4 searchInput hidden-xs" >
+                  <div id="searchForm">
+                    <form action="search-results.php" method="post">
+                      <!-- Main Input -->
+                      <input type="text" id="search" autocomplete="off" name="query" placeholder="Αναζήτηση">
+                    </form>
+                    <!-- Show Results -->
+                    <h4 id="results-text">Αποτελέσματα αναζήτησης για <b id="search-string">Array</b></h4>
+                    <ul id="results">
+                    </ul>
+                  </div>
+                </div>
+                <!-- search col-md -->
+                <div class="col-md-4 noMargins hidden-xs">
+                  <div id="headerSocialItem"><a href="mobile-apps.html" target="_blank"><img src="images/icon-apps-small.png" border="0" alt="ana-mpa apps" width="50" height="24"/></a></div>
+                  <div id="headerSocialItem"><a href="http://www.youtube.com/user/AMNAwebTV" target="_blank"><img src="images/icon-youtube-small.png" border="0" alt="ana-mpa youtube" width="57" height="24" /></a></div>
+                  <div id="headerSocialItem"><a href="http://twitter.com/#!/amna_news" target="_blank"><img src="images/icon-twitter-small.png" border="0" alt="ana-mpa twitter" width="24" height="24"/></a></div>
+                  <div id="headerSocialItem"><a href="http://www.facebook.com/ampanewsgr" target="_blank"><img src="images/icon-facebook-small.png" border="0" alt="ana-mpa facebook" width="24" height="24"/></a></div>
+                  
+                </div>
+              </div>
+            </div> <!-- End Header Utils -->
+            
+            <nav class="navbar navbar-inverse navbar-static-top">
+              <div class="container">
+                <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav">
+                    
+                    <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Κατηγορίες <img src="images/menu-dropdown.png" border="0"> <span class="caret"></span></a>
+                      <ul class="dropdown-menu" role="menu">            
+                        <li ><a href="category/11/Πολιτική">Πολιτική</a></li>
+                        <li class='active'><a href="category/13/Οικονομία">Οικονομία</a></li>
+                        <li ><a href="category/12/Ελλάδα">Ελλάδα</a></li>
+                        <li ><a href="category/15/Κόσμος">Κόσμος</a></li>
+                        <li ><a href='category/20/Υγεία'>Υγεία</a></li>
+                        <li ><a href="category/17/Πολιτισμός">Πολιτισμός</a></li>
+                        <li ><a href='category/36/Τουρισμός'>Τουρισμός</a></li>
+                        <li ><a href='category/18/Τεχνολογία'>Επιστήμη & Τεχνολογία </a></li>
+                        <li ><a href='category/19/Περιβάλλον'>Περιβάλλον</a></li>
+                        <li ><a href="lifestyle-intro/85855" target="_blank">Lifestyle / Ευ ζην</a></li>
+                        <li  class="dropdown-submenu">
+                			<a tabindex="-1" href="category/16/Athlitismos">Αθλητισμός</a>
+                            <ul class="dropdown-menu" >  
+                                <li><a href="category/80470/Podosfairo">Ποδόσφαιρο</a></li>
+                                <li><a href="category/80469/Mpasket">Μπάσκετ</a></li>
+                                <li><a href="category/80468/Alla-spor">Άλλα σπορ</a></li>
+                                <li><a href="category/80467/Diethni">Διεθνή</a></li>
+                                <li><a href="category/80466/Autokinito">Αυτοκίνητο</a></li>
+                                <li><a href="category/80461/Eidika-themata">Ειδικά θέματα</a></li>
+                                <li><a href="sta-gipeda-kosmou/85521" target="_blank">Το ΑΠΕ-ΜΠΕ στα γήπεδα</a></li>
+                            </ul>
+                        </li>                        
+                      </ul>
+                    </li>
+                    <li ><a href="newsroom/0/">NEWSRoom</a></li>
+                    <li><a href="http://www.amna.gr/praktoreioFM/" target="_blank"><span style="color:#6098ec" class="">πρακτορείο</span><span style="color:red; font-weight:bold">104,9</span></a></li>
+                  </ul>
+                  <ul class="nav pull-right">
+                    <li class="dropdown" id="menuLogin"> <a class="dropdown-toggle" href="#" data-toggle="dropdown" id="navLogin">
+                      <div id="loginLabel">
+                        <h4>Συνδρομητής</h4>
+                      </div>
+                      <div id="loginIcon"><img src="images/login-icon.png" border="0"></div>
+                      </a>
+                      <div class="dropdown-menu" style="padding:17px;">
+                        <form action="http://subscriber.amna.gr/anaweb/dologin" method="post" name="frmLogin" STYLE="margin: 0px; padding: 0px;" class="form" id="formLogin">
+                          <input name="username" type="text" id="username" placeholder="Χρήστης">
+                          <input name="password" type="password" id="password" placeholder="Κωδικός" >
+                          <br>
+                          <button type="button" id="btnLogin" class="btn" onClick="javascript:document.frmLogin.submit();">Σύνδεση</button>
+                        </form>
+                      </div>
+                    </li>
+                  </ul>
+        
+                </div>
+              </div>
+          </nav>
+            
+        </div>
+    </div>
+    
+    
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="contentContainer">
+    <div class="row">
+      <div class="col-md-12">
+      	<ul class="breadcrumb"><li><a href='category/13/Oikonomia'>Οικονομία</a></li></ul>
+        <h1><h1>Μέσα Ιανουαρίου η τροπολογία για μείωση επικουρικών</h1></h1>
+      </div>
+    </div>
+    
+    <!-- Start Content area row-->
+    <div class="row"> 
+      
+      <!-- Start Content area -->
+      <div class="col-md-8">
+      	<!-- Image -->
+        
+      	<div class="row">
+          <div class="col-md-12">
+            <div class='embed-container'><iframe class='video' src='http://www.youtube.com/embed/6284?rel=0&enablejsapi=1&wmode=transparent'  frameborder='0' allowfullscreen></iframe></div>
+          </div>
+        </div>
+        
+        <!-- Content -->
+        <div class="row">
+          <!-- Social -->	
+          <div class="col-md-3 social">
+            <div id="columnAds">
+            		<div class="">
+                    	
+                    </div>
+                	<div class="articleAttachments">
+                    	
+                    </div>
+                    <div id="socialVertical">
+                    	<div style=' margin:3px 0 3px 0'>
+                                    <div class='fb-like' data-href='http://www.amna.gr/articleview.php?id=6260' data-send='false' data-layout='button_count' data-width='70' data-show-faces='false' data-font='arial'></div></div>
+                                <div style=' margin:3px 0 3px 0' > 
+									<div class='fb-send' data-href='http://www.amna.gr/articleview.php?id=6260' data-font='arial'></div>
+									<div id='fb-root'></div>
+									<script src='http://connect.facebook.net/en_US/all.js#xfbml=1'></script>
+									
+                                </div>
+                        		<div class='fb-share-button' data-href='http://www.amna.gr/articleview.php?id=6260' data-layout='button'></div>
+                                <div style=' margin:3px 0 3px 0'>
+                                    <a href='https://twitter.com/share' class='twitter-share-button' data-count='none'>Tweet</a>
+                                </div>
+								
+
+<!--<div class="g-plusone" data-size="medium" data-href='http://www.amna.gr/articleview.php?id=6260'></div>-->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+                                <div style= 'margin:3px 0 3px 0'>
+                                    <a href='print.php?id=6260'><img src='images/printer1.jpeg' height='20' border='0'></a>
+                                </div>
+                    </div>
+                    <div id="audioAttach">
+                    	
+                    </div>
+                	<div id="bannerVertical">
+                    	
+                    </div>
+                </div>
+          </div>
+          
+          <div class="col-md-9 articleText">
+			<div class='articleDate'>Τρίτη, 20 Δεκεμβρίου, 2011</div><div class='lastModified'>Τελευταία ενημέρωση: 13:45</div><p>&nbsp;</p><span class='mainText'><font size="2">
+<p>Στα μέσα Ιανουαρίου θα κατατεθεί η τροπολογία για τη μείωση των επικουρικών συντάξεων, οι ρυθμίσεις της οποίας θα έχουν ισχύ από την πρώτη Ιανουαρίου.</p>
+<p>Αυτό αποφασίστηκε κατά τη χθεσινοβραδινή συνάντηση του υπουργού Εργασίας, Γιώργου Κουτρουμάνη με τον Πρωθυπουργό, Λουκά Παπαδήμο, στο Μέγαρο Μαξίμου.</p>
+<p>Κατά τη συνάντηση, συζητήθηκαν τα μέτρα για την αντιμετώπιση των προβλημάτων των Ταμείων και τη μείωση του κόστους εργασίας προκειμένου να ενισχυθεί η ανταγωνιστικότητα της οικονομίας, θέματα που θα απασχολήσουν την αυριανή (σημερινή) συνεδρίαση του υπουργικού συμβουλίου.</p>
+<p>Η μείωση των επικουρικών συντάξεων θα κυμανθεί από 10% έως 15% μεσοσταθμικά και, σε ορισμένες περιπτώσεις προβληματικών ταμείων, θα φθάσει έως το 45%.</p>
+<p>Ακόμη, για τη διασφάλιση της βιωσιμότητας του συστήματος θα δημιουργηθεί ένα ενιαίο ταμείο με την ενοποίηση πέντε μεγαλύτερων φορέων επικουρικής ασφάλισης (ΙΚΑ, ιδιωτικού τομέα, δημοσίου, ΔΕΚΟ και τραπεζών), ενώ θα καθιερώθουν ενιαίοι κανόνες χορήγησης και ποσοστού υπολογισμού της σύνταξης.</p>
+<p>Περικοπές θα υπάρξουν και στις εφάπαξ παροχές, ενώ θα ληφθούν συγκεκριμένα μέτρα για την αντιμετώπιση της εισφοροδιαφυγής, όπως η ενεργοποίηση της διαδικασίας του αυτόφωρου για όσους οφείλουν εισφορές από 150.000 ευρώ και άνω.</p>
+<p>Στη συνεδρίαση του Υπουργικού Συμβουλίου θα τεθούν και οι απαιτήσεις της "τρόικας" για ενδεχόμενες αλλαγές στα εργασιακά.</p>
+<p>Σύμφωνα με τον υπουργό Εργασίας η τρόικα δεν έχει ζητήσει μείωση μισθών στον ιδιωτικό τομέα ή κατάργηση των δώρων. Η κυβέρνηση λαμβάνει ήδη μέτρα για τον περιορισμό του μη μισθολογικού κόστους, με τη μείωση κατά 10% των εισφορών από 1ης Μαρτίου, ωστόσο, σύμφωνα με πληροφορίες, στο διάλογο με τους κοινωνικούς εταίρους που έχει ξεκινήσει, θα τεθεί συνολικά το ζήτημα του κόστους εργασίας, καθώς και όλοι οι παράγοντες που επηρεάζουν την ανταγωνιστικότητα των επιχειρήσεων.</p>
+<p>Στο μεταξύ, ο αναπληρωτής υπουργός Οικονομικών Φίλιππος Σαχινίδης, απαντώντας σε επίκαιρη ερώτηση του Δ. Παπαδημούλη (ΣΥΡΙΖΑ), για το ενδεχόμενο λήψης νέων μέτρων μετά την "μαύρη τρύπα" στην εκτέλεση του Προϋπολογισμού του 2011, παραδέχθηκε πως είναι πάρα πολύ δύσκολο να εκτιμηθεί το τελικό έλλειμμα της γενικής κυβέρνησης το 2011, και σε κάθε περίπτωση (όπως ανέφερε και ο πρωθυπουργός στις προγραμματικές του δηλώσεις) προτεραιότητα της κυβέρνησης είναι η πλήρης εφαρμογή των συμφωνηθέντων μέτρων.</p>
+<p>Από την πλευρά του, το υπουργείο Οικονομικών προχωρά σε αυστηρούς ελέγχους των επιστροφών φόρου εισοδήματος, που θα έχει ως αποτέλεσμα το πάγωμα τους έως το τέλος του έτους, ενώ σε μια προσπάθεια να βελτιωθεί η είσπραξη των δημοσίων εσόδων, το οικονομικό επιτελείο εξετάζει σενάρια για μια νέα ρύθμιση που θα δίνει τη δυνατότητα στους 900.000 οφειλέτες του δημοσίου, να εξοφλήσουν τα χρέη τους έως και σε 60 δόσεις, έναντι 30 δόσεων που προβλέπει η ρύθμιση που βρίσκεται σε ισχύ.</p>
+<p>?</p>
+<p>?</p>
+</font></span><br><div align='center'><i><h5>Λεπτομέρειες στη συνδρομητική σελίδα του ΑΠΕ-ΜΠΕ <!-- | <a href='registration.php'>Αίτηση Συνδρομητή</a>--></h5></i><div class='articleCopyright' >
+                    
+                    <h5>© ΑΠΕ-ΜΠΕ ΑΕ. Τα πνευματικά δικαιώματα ανήκουν στο ΑΠΕ-ΜΠΕ ΑΕ.<br> Απαγορεύεται η αναπαραγωγή από επισκέπτες της ιστοσελίδας.</h5>
+                  </div></div>
+          </div>
+        </div>
+        <!-- photo info -->
+        
+      </div>
+      <!-- End Content area --> 
+      
+      <!-- Start Auxiliary area -->
+      <div class="col-md-4">
+        <div class="bannerBox  hidden-xs hidden-sm">
+        	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="$width" height="$height">
+              <param name="movie" value="./banners/201509/09-121128ING_banner_GIAGIA_300x250.swf"><param name="quality" value="high">
+   			  <param name="wmode" value="opaque">
+        	  <param name="swfversion" value="11.0.0.0">
+			  <param name="expressinstall" value="Scripts/expressInstall.swf">
+			  <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+        	  <!--[if !IE]>--><object type="application/x-shockwave-flash" data="./banners/201509/09-121128ING_banner_GIAGIA_300x250.swf" width="300" height="250">
+   				  <!--<![endif]-->
+   				  <param name="quality" value="high">
+				  <param name="wmode" value="opaque">
+				  <param name="swfversion" value="11.0.0.0">
+				  <param name="expressinstall" value="Scripts/expressInstall.swf">
+   				  <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. --><div>
+            <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+            <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
+        </div>
+          <!--[if !IE]>-->
+      </object>
+        <!--<![endif]-->
+    </object> <BR>
+
+        </div>
+        
+        <!-- Start Twitter-live-feed -->
+        <div id="twitterFeed">
+        
+        <a class="twitter-timeline" href="https://twitter.com/amna_news" data-widget-id="316540097082302465">Tweets by @amna_news</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        
+        <div class="clear"></div>
+        </div>
+        <!-- End Twitter-live-feed -->
+        
+        <div class="bannerBox  hidden-xs hidden-sm">
+        	<a href= http://www.roche.gr/ target='_blank'><img src="./banners/201512/01-1137501165-PHCbanner2300x250.gif" border="0" width="300" height="250" ></a><BR>
+
+        </div>
+        <div class="bannerBox  hidden-xs hidden-sm">
+        	<script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=15954112&PluID=0&w=300&h=250&ord=[timestamp]&ucm=true"></script>
+<noscript>
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=15954112&Page=&PluID=0&Pos=1993513338" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=15954112&Page=&PluID=0&Pos=1993513338" border=0 width=300 height=250></a>
+</noscript><BR>
+
+        </div>
+      </div>
+      <!-- End Auxiliary area --> 
+      
+    </div><!-- End Content area row-->
+    
+    <!-- Start more news area -->
+    <div class="row sectionContainer"> 
+      <div class="col-md-12" >
+        <div class="row">
+
+          <div class="col-md-12 " >
+            <div class="moreNews">Περισσότερες Ειδήσεις</div>
+          </div>
+        </div>
+        
+        <div class="row sectionSecondary" >
+          
+			  <div class='col-md-4' ><a href='article/100740/Den-uparchoun-proupotheseis-summetochis-tou-DNT-sto-trito-programma-'><img src='./photos/201601/s15-10515315482985.jpg' width='100%'></a></a>
+				<h3><a href='article/100740/Den-uparchoun-proupotheseis-summetochis-tou-DNT-sto-trito-programma-' >Δεν υπάρχουν προϋποθέσεις συμμετοχής του ΔΝΤ στο τρίτο πρόγραμμα </a></h3>
+			  </div>
+		
+			  <div class='col-md-4' ><a href='article/100790/G.-Stathakis:-Prothesi-mas-i-apagoreusi-upsilon-chreoseon-stis-diatrapezikes-sunallages-'><img src='./photos/201601/s15-141508stathakis.JPG' width='100%'></a></a>
+				<h3><a href='article/100790/G.-Stathakis:-Prothesi-mas-i-apagoreusi-upsilon-chreoseon-stis-diatrapezikes-sunallages-' >Γ. Σταθάκης: Πρόθεση μας η απαγόρευση υψηλών χρεώσεων στις διατραπεζικές συναλλαγές </a></h3>
+			  </div>
+		
+			  <div class='col-md-4' ><a href='article/100756/Nea-upochorisi-katagrafoun-oi-times-tou-petrelaiou'><img src='./photos/201601/s15-123749oilprice.jpg' width='100%'></a></a>
+				<h3><a href='article/100756/Nea-upochorisi-katagrafoun-oi-times-tou-petrelaiou' >Νέα υποχώρηση καταγράφουν οι τιμές του πετρελαίου</a></h3>
+			  </div>
+		
+        </div>
+        
+        <div class="row sectionSecondary" >
+          
+			  <div class='col-md-4' ><a href='article/100794/Chamogela-sto-oikonomiko-epiteleio---Yperkaluptontai-oi-stochoi-tou-programmatos'><img src='./photos/201601/s15-14434615416028.jpg' width='100%'></a></a>
+				<h3><a href='article/100794/Chamogela-sto-oikonomiko-epiteleio---Yperkaluptontai-oi-stochoi-tou-programmatos' >Χαμόγελα στο οικονομικό επιτελείο - Υπερκαλύπτονται οι στόχοι του προγράμματος</a></h3>
+			  </div>
+		
+			  <div class='col-md-4' ><a href='article/100782/Eos-tin-Tetarti-20-Ianouariou-anamenetai-i-beltiomeni-prosfora-ton-Kinezon-gia-ton-OLP'><img src='./photos/201601/s15-134314olp.jpg' width='100%'></a></a>
+				<h3><a href='article/100782/Eos-tin-Tetarti-20-Ianouariou-anamenetai-i-beltiomeni-prosfora-ton-Kinezon-gia-ton-OLP' >Έως την Τετάρτη 20 Ιανουαρίου αναμένεται η βελτιωμένη προσφορά των Κινέζων για τον ΟΛΠ</a></h3>
+			  </div>
+		
+			  <div class='col-md-4' ><a href='article/100727/Den-tha-pligei-to-uparchon-epipedo-ton-basikon-suntaxeon-dilose-o-Eu.Tsakalotos'><img src='./photos/201601/s14-222658Tsakalotos.jpg' width='100%'></a></a>
+				<h3><a href='article/100727/Den-tha-pligei-to-uparchon-epipedo-ton-basikon-suntaxeon-dilose-o-Eu.Tsakalotos' >Δεν θα πληγεί το υπάρχον επίπεδο των βασικών συντάξεων δήλωσε ο Ευ.Τσακαλώτος</a></h3>
+			  </div>
+		
+        </div>
+      
+      </div>
+
+    </div><!-- End more news area -->
+    
+    
+    
+    
+  </div>
+
+  
+</div>
+<!-- /.container --> 
+<!-- Start footer -->
+
+<div class="container-fluid footerInfoContainer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-2">
+        <div class="footerItem"><a href="plain/104/Ταυτότητα">Ταυτότητα</a></div>
+      </div>
+      <div class="col-md-2">
+        <div class="footerItem"><a href="http://sites.diavgeia.gov.gr/anampa">Διαύγεια</a></div>
+      </div>
+      <div class="col-md-2">
+        <div class="footerItem"><a href="plain/102/Όροι_Χρήσης">Όροι Χρήσης</a></div>
+      </div>
+      <div class="col-md-2">
+        <div class="footerItem"><a href="plain/103/Επικοινωνία">Επικοινωνία</a></div>
+      </div>
+      <div class="col-md-2"><a href="http://www.amna.gr"><img src="images/footer-logo.png" width="127" height="37" alt="footer amna logo" border="0"/></a></div>
+      <div class="col-md-1"></div>
+    </div>
+  </div>
+</div>
+
+<!-- End footer -->
+<div class="container-fluid footerPR">
+  <div class="row">
+    <div class="col-md-4 " >
+      <div align="center"><a href="pressReleasesAgencies.php?token=PRN"><img src="images/pr_newswire.gif" width="105" height="59" alt="prn_newswire" border="0"/></a></div>
+    </div>
+    <div class="col-md-4" >
+      <div align="center"><a href="pressReleasesAgencies.php?token=BW"><img src="images/ibw_logo.gif" width="170" height="40" alt="business wire" border="0"/></a></div>
+    </div>
+    <div class="col-md-4" >
+      <div align="center"><a href="http://www.newsalliance.org" target="_blank"><img src="images/eanalogo.gif" width="120" height="40" alt="eana" border="0"/></a></div>
+    </div>
+  </div>
+  <p class="pull-right"><a onClick="javascript:window.scrollTo(0, 0);" style="cursor:hand; cursor:pointer"><img src="images/up-arrow-circle-lo.png" border="0"></a></p>
+  <div id="copyright" align="center">
+    <h5>ANA-MPA Copyright © 2013. Σχεδίαση-υλοποίηση από Σχεδιαστήριο και Δ/νση Πληροφορικής & Τηλ/νιών ΑΠΕ-ΜΠΕ.<br />
+      Powered by ECS-Portal</h5>
+  </div>
+</div>
+
+<!-- /.container --> 
+
+<!-- Bootstrap core JavaScript
+    ================================================== --> 
+<!-- Placed at the end of the document so the pages load faster --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+<script src="lib/bootstrap-3.3.4/js/bootstrap.min.js"></script> 
+
+
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --> 
+<script src="js/ie10-viewport-bug-workaround.js"></script> 
+
+<!-- Search --> 
+<script type="text/javascript" src="lib/search/scripts/custom.js"></script> 
+<script type="text/javascript" src="js/jquery-ui.min.js" ></script>
+
+<!-- News Ticker -->
+<script src="js/jquery.newsTicker.min.js"></script> 
+<script>
+
+	
+	var nt_example2 = $('#ticker').newsTicker({
+	row_height: 30,
+	max_rows: 1,
+	speed: 300,
+	duration: 4000
+});
+
+</script>
+
+<!-- Google Analytics -->   
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24662027-1']);
+  _gaq.push(['_trackPageview', '/economy']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>

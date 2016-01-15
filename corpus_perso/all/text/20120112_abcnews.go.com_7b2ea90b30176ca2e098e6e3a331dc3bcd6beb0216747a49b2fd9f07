@@ -1,0 +1,1654 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]> <html class="ie8" class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie9" class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class=""> <!--<![endif]-->
+<head>
+<script>
+if (window.location.protocol == "https:" && window.parent.location.hostname.indexOf("outbrain") == -1) {
+var _sslurl = window.location.href.replace("https://", "http://");
+window.location.replace(_sslurl);
+window.location.href = _sslurl;
+}
+</script>
+<title>Sports News & Articles – Scores, Pictures, Videos - ABC News</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="robots" content="noarchive" />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="ABC News" />
+<meta name="copyright" content="Copyright (c) 2016 ABC News Internet Ventures" />
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="description" content="Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News." />
+<meta name="keywords" content="Sports news, sports articles, sports scores, sports videos, NFL, NBA, NHL MLB, sports news, sports articles" />
+<script type="text/javascript">
+setTimeout(function(){
+window.timeoutID = window.setTimeout(function() { refreshTimer() }, 600000);
+var refreshTimer = function() {
+location.reload();
+}
+},1);
+</script>
+<meta property="fb:admins" content="704409894" />
+<meta property="fb:app_id" content="4942312939" />
+<meta name="fb_title" content="ABC Sports News" />
+<meta property="og:site_name" content="ABC News" />
+<meta property="og:title" content="ABC Sports News" />
+<meta property="og:description" content="Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News." />
+<meta property="og:url" content="http://abcnews.go.com/Sports" />
+<link type="text/css" rel="stylesheet" href="http://a.abcnews.com/assets/beta/_sass/css/icons.css?v=26" />
+<link type="text/css" rel="stylesheet" href="http://a.abcnews.com/assets/beta/css/page-types/header_.css?v=26" />
+<link type="text/css" rel="stylesheet" href="http://a.abcnews.com/assets/scss/css/indexv3.css?v=72" />
+<link id="canonical" rel="canonical" href="http://abcnews.go.com/Sports" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://feeds.abcnews.com/abcnews/sportsheadlines" />
+<script type="text/javascript" src="//fonts.abcnews.com/kyb8pht.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" src="http://a.abcnews.com/assets/beta/js/lib.js?v=78"></script>
+<script type="text/javascript" src="http://a.abcnews.com/assets/beta/js/custom/pages/indexv3.js?v=78"></script>
+<script type="text/javascript" src="http://cdn.optimizely.com/js/168844516.js" async></script>
+<link type="text/css" rel="stylesheet" href="http://a.abcnews.com/assets/scss/css/videolightbox.css?v=72" />
+<script type="text/javascript" src="http://a.abcnews.com/assets/js/min/videolightbox.js?v=64"></script>
+<script type="text/javascript">
+var gapiCookie = readCookie('gapi-session');
+if(gapiCookie==null) {
+createCookie('gapi-session', true, 1);
+var gapiSession = "Google Login False";
+function gapiCallback() {
+sessionParams = {
+'client_id': '770533044703-gvc902tcl72eh6j1mitucl7g3o9bkp7s.apps.googleusercontent.com',
+'session_state': null
+};
+gapi.auth.checkSessionState(sessionParams, function(state) {
+if(!state){//logged in
+gapiSession = "Google Login True";
+}
+setTimeout(function(){
+if(typeof s_omni != "undefined"){
+s_omni.pe = "lnk_o";
+s_omni.pev2 = gapiSession;
+s_omni.t();
+}
+}, 2000);
+});
+}
+(function(){
+var ge = document.createElement("script");
+ge.type = "text/javascript"; ge.async = true;ge.src = "https://apis.google.com/js/client.js?onload=gapiCallback";
+var scr = document.getElementsByTagName("script")[0];
+scr.parentNode.insertBefore(ge, scr);
+})();
+}
+</script>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225447-1', 'go.com');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript">
+var _vrq = _vrq || []; _vrq.push(['id', 613]); _vrq.push(['automate', false]); _vrq.push(['track', function(){}]); (function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = false;
+s.src = 'http://a.visualrevenue.com/vrs.js'; x.parentNode.insertBefore(s, x);
+})(document, 'script'); </script>
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+<script type="text/javascript">
+var digAdData;
+var digGetAd = function(){};
+tq = new Object();
+tq.path = '/Entertainment/Sports/index/';
+tq.caid = 'Entertainment/Sports';
+tq.keywords = ((tq.keywords)&&(tq.keywords!=''))?tq.keywords+'':'';
+tq.show = '';
+tq.recipes = '';
+tq.id = '78';
+tq.section = 'sports';
+tq.realsection = '';
+tq.subsection = '';
+tq.altsection = '';
+tq.objType = 'index';
+tq.byline = '';
+tq.othersubs = '';
+</script>
+<script type="text/javascript">
+if(tq.path){
+tq.urlTargetPath = (tq.path)?tq.path:window.location.pathname;
+tq.urlTargetPath = (tq.urlTargetPath == '/')?'/index':tq.urlTargetPath;
+tq.urlKeywords = (tq.keywords)?tq.keywords:'';
+tq.urlRecipes = (tq.recipes)?tq.recipes:'';
+tq.urlShow = (tq.show)?tq.show:'';
+tq.urlFullQuery = '&tqkw='+encodeURI(tq.urlKeywords)+'&tqshow='+encodeURI(tq.urlShow)+encodeURI(tq.urlRecipes)+'&url='+encodeURI(tq.urlTargetPath);
+}else{
+tq.urlFullQuery = '&url='+encodeURI(window.location.pathname);
+}
+var fwNetworkId = '168234'
+var fwSectionFallbackId = '109523';
+var fwAdSystem = true;
+</script>
+<script type="text/javascript" src="http://a.abcnews.com/assets/js/min/fw.js?v=38"></script>
+<script type="text/javascript">digGetAd("FPBranding");</script>
+<style>.bc_cont {padding-bottom:50px}</style>
+</head>
+<body>
+<a name="top"></a>
+<div class="window">
+<div class="indexV3">
+<script src="http://a.abcnews.com/assets/beta/js/abcn-head.js?v=78"></script>
+<div id="header-container" class="logged-out">
+<div id="global-viewport" data-behavior="global_nav_condensed global_nav_full">
+<!-- mobile -->
+<nav id="global-nav-mobile">
+<ul class="tier-1">
+<li class="active">
+<a class="menu-trigger nav-pillar nav-sections" data-route="false" href="#">
+<span class="link-text">Sections</span>
+<span class="icon-sections m-icon"></span>
+</a>
+<ul class="tier-2" data-behavior="favorites_mgmt">
+<li>
+<h1 class="label">
+<span class="link-text">Sections</span>
+</h1>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Top Stories]">
+<span class="link-text">Top Stories</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Video" name="lpos=nav[header_desktop_sectionindex]&lid=section[Video]">
+<span class="link-text">Video</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/US" name="lpos=nav[header_desktop_sectionindex]&lid=section[U.S.]">
+<span class="link-text">U.S.</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/International" name="lpos=nav[header_desktop_sectionindex]&lid=section[World]">
+<span class="link-text">World</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Politics" name="lpos=nav[header_desktop_sectionindex]&lid=section[Politics]">
+<span class="link-text">Politics</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Entertainment" name="lpos=nav[header_desktop_sectionindex]&lid=section[Entertainment]">
+<span class="link-text">Entertainment</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Health" name="lpos=nav[header_desktop_sectionindex]&lid=section[Health]">
+<span class="link-text">Health</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Technology" name="lpos=nav[header_desktop_sectionindex]&lid=section[Tech]">
+<span class="link-text">Tech</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Lifestyle" name="lpos=nav[header_desktop_sectionindex]&lid=section[Lifestyle]">
+<span class="link-text">Lifestyle</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Business" name="lpos=nav[header_desktop_sectionindex]&lid=section[Money]">
+<span class="link-text">Money</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Blotter" name="lpos=nav[header_desktop_sectionindex]&lid=section[Investigative]">
+<span class="link-text">Investigative</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Sports" name="lpos=nav[header_desktop_sectionindex]&lid=section[Sports]">
+<span class="link-text">Sports</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/US/Good_News" name="lpos=nav[header_desktop_sectionindex]&lid=section[Good News]">
+<span class="link-text">Good News</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/topics/news/weather.htm" name="lpos=nav[header_desktop_sectionindex]&lid=section[Weather]">
+<span class="link-text">Weather</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Photos" name="lpos=nav[header_desktop_sectionindex]&lid=section[Photos]">
+<span class="link-text">Photos</span>
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-pillar nav-shows" data-route="false" href="#">
+<span class="link-text">Shows</span>
+<span class="icon-shows m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<h1 class="label">
+<span class="link-text">Shows</span>
+</h1>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/GMA" name="lpos=nav[header_desktop_sectionindex]&lid=section[Good Morning America]">
+<span class="link-text">Good Morning America</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/WN" name="lpos=nav[header_desktop_sectionindex]&lid=section[World News Tonight]">
+<span class="link-text">World News Tonight</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/Nightline" name="lpos=nav[header_desktop_sectionindex]&lid=section[Nightline]">
+<span class="link-text">Nightline</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/2020" name="lpos=nav[header_desktop_sectionindex]&lid=section[20/20]">
+<span class="link-text">20/20</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abcnews.go.com/ThisWeek" name="lpos=nav[header_desktop_sectionindex]&lid=section[This Week]">
+<span class="link-text">This Week</span>
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-pillar nav-live" data-route="false" href="#">
+<span class="link-text">Live</span>
+<span class="icon-play m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<h1 class="label">
+<span class="link-text">Live</span>
+</h1>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-1-14476486">
+<span class="link-text">NASA TV: ISS Expedition 46 Spacewalk Coverage</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-3-15048938">
+<span class="link-text">Pres. Candidate Jeb Bush Holds Joint News Conference with Sen. Lindsey Graham</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-2-14519615">
+<span class="link-text">Robin Roberts’ Re-Boot Camp: DailyBurn Morning Workout</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-4-20969244">
+<span class="link-text">Dow Jones Industrial Average</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-pillar nav-local" data-route="false" href="#">
+<span class="link-text">Local</span>
+<span class="icon-local m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<h1 class="label">
+<span class="link-text">Local</span>
+</h1>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://7online.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[New York City]">
+<span class="link-text">New York City</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://abc7.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Los Angeles]">
+<span class="link-text">Los Angeles</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://abc7chicago.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Chicago]">
+<span class="link-text">Chicago</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://6abc.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Philadelphia]">
+<span class="link-text">Philadelphia</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://abc7news.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[San Francisco - Oakland - San Jose]">
+<span class="link-text">San Francisco - Oakland - San Jose</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://abc13.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Houston]">
+<span class="link-text">Houston</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://abc11.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Durham - Raleigh - Fayetteville]">
+<span class="link-text">Durham - Raleigh - Fayetteville</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+<li>
+<a class="cities" target="_blank" data-mobile="true" href="http://abc30.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Fresno]">
+<span class="link-text">Fresno</span>
+<span class="icon-local m-icon"></span>
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-pillar nav-more" data-route="false" href="#">
+<span class="link-text">More</span>
+<span class="icon-more m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://abc.com" name="lpos=nav[header_desktop_sectionindex]&lid=section[abc]" target="_blank">
+<span class="link-text">abc.com</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://fusion.net" name="lpos=nav[header_desktop_sectionindex]&lid=section[fusion]" target="_blank">
+<span class="link-text">fusion.net</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://espn.com" name="lpos=nav[header_desktop_sectionindex]&lid=section[espn]" target="_blank">
+<span class="link-text">espn.com</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://fivethirtyeight.com" name="lpos=nav[header_desktop_sectionindex]&lid=section[fivethirtyeight]" target="_blank">
+<span class="link-text">fivethirtyeight.com</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://grantland.com" name="lpos=nav[header_desktop_sectionindex]&lid=section[grantland]" target="_blank">
+<span class="link-text">grantland.com</span>
+</a>
+</li>
+<li>
+<a class="sections menu-trigger" data-tab="true" href="http://disney.com" name="lpos=nav[header_desktop_sectionindex]&lid=section[disney]" target="_blank">
+<span class="link-text">disney.com</span>
+</a>
+</li>
+<li>
+<h1 class="label header-title"></h1>
+</li>
+<li>
+<a href="http://disneyprivacycenter.com" data-tab="true" name="lpos=nav[header_desktop_sectionindex]&lid=section[Privacy Policy]" target="_blank">
+<span class="link-text">Privacy Policy</span>
+</a>
+</li>
+<li>
+<a href="https://disneyprivacycenter.com/notice-to-california-residents/" data-tab="true" name="lpos=nav[header_desktop_sectionindex]&lid=section[Your CA Privacy Rights]" target="_blank">
+<span class="link-text">Your CA Privacy Rights</span>
+</a>
+</li>
+<li>
+<a href="https://disneyprivacycenter.com/kids-privacy-policy/english/" data-tab="true" name="lpos=nav[header_desktop_sectionindex]&lid=section[Children's Online Privacy Policy]" target="_blank">
+<span class="link-text">Children's Online Privacy Policy</span>
+</a>
+</li>
+<li>
+<a href="http://preferences-mgr.truste.com/?type=abcnews&affiliateId=11" data-tab="true" name="lpos=nav[header_desktop_sectionindex]&lid=section[Interest-Based Ads]" target="_blank">
+<span class="link-text">Interest-Based Ads</span>
+</a>
+</li>
+<li>
+<a href="http://disneytermsofuse.com" data-tab="true" name="lpos=nav[header_desktop_sectionindex]&lid=section[Terms of Use]" target="_blank">
+<span class="link-text">Terms of Use</span>
+</a>
+</li>
+<li>
+<a href="http://abcnews.go.com/Site/page?id=3068843" data-tab="true" name="lpos=nav[header_desktop_sectionindex]&lid=section[Contact Us]" target="_blank">
+<span class="link-text">Contact Us</span>
+</a>
+</li>
+<li>
+<h1 class="footer label">
+<span class="link-text">Yahoo!-ABC News Network <span class='copy-pipe'> | </span> &copy; 2016 ABC News Internet Ventures. All rights reserved.</span>
+</h1>
+</li>
+</ul>
+</li>
+<li>
+<a class="menu-trigger nav-search" data-route="false" href="#">
+<span class="link-text">Search</span>
+<span class="icon-search m-icon"></span>
+</a>
+<ul class="tier-2">
+<li>
+<div class="global-search" id="global-search-mobile">
+<input class="search-box" placeholder="Search" type="text"><input class="btn-search" type="submit">
+<span class="icon-search m-icon"></span>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="menu-overlay-primary"></div>
+<div data-behavior="global_header" id="header-wrapper" data-device="desktop" data-domain="http://abcnews.go.com">
+<header id="global-header">
+<div class="menu-overlay-secondary"></div>
+<div class="container">
+<a data-route="false" href="#" id="global-nav-mobile-trigger"><span>Menu</span></a>
+<h1>
+<a href='http://abcnews.go.com' name="lpos=nav[header_desktop_sectionindex]&lid=section[Logo]">ABC News</a>
+</h1>
+<ul class="tools">
+<li class="search">
+<a href="#" id="global-search-trigger">
+<span class="icon-search"></span>
+<span class="icon-close"></span>
+</a>
+<div class="global-search" id="global-search">
+<input class="search-box" placeholder="Search Headlines, News and Video..." type="text">
+<input class="btn-search" type="submit">
+<span class="icon-search"></span>
+</div>
+</li>
+<li class="user" data-behavior="profile_dropdown favorites_mgmt">
+<a class="profile-logged-out" data-tab="true" style="display: none;" data-affiliatename="abcn" data-behavior="profile_handler" href="https://register.go.com/global/login?appRedirect=http%3A%2F%2Fabcnews.go.com%2FSports%2F" data-route="false" name="lpos=nav[header_desktop_sectionindex]&lid=section[Log In]">Log In</a>
+<a class="profile-logged-in" data-tab="true" style="display: none;" data-affiliatename="abcn" href="#" thref="#" data-behavior="profile" data-route="false" name="lpos=nav[header_desktop_sectionindex]&lid=section[Profile]"><span class="icon-login"></span></a>
+<script type="text/javascript">
+var readSWID = readCookie('SWID');
+if (readSWID != null && readSWID != "") {
+if (readSWID.indexOf("}")>=0) {
+$(".profile-logged-in").show();
+} else {
+$(".profile-logged-out").show();
+}
+} else {
+$(".profile-logged-out").show();
+}
+</script>
+</li>
+</ul>
+</div>
+<!-- desktop -->
+<nav id="global-nav">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li class="http:abcnews.go.comus" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/US" name="lpos=nav[header_desktop_sectionindex]&lid=section[U.S.]">
+U.S.
+</a>
+</li>
+<li class="http:abcnews.go.cominternational" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/International" name="lpos=nav[header_desktop_sectionindex]&lid=section[World]">
+World
+</a>
+</li>
+<li class="http:abcnews.go.compolitics" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Politics" name="lpos=nav[header_desktop_sectionindex]&lid=section[Politics]">
+Politics
+</a>
+</li>
+<li class="http:abcnews.go.comentertainment" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Entertainment" name="lpos=nav[header_desktop_sectionindex]&lid=section[Entertainment]">
+Entertainment
+</a>
+</li>
+<li class="http:abcnews.go.comhealth" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Health" name="lpos=nav[header_desktop_sectionindex]&lid=section[Health]">
+Health
+</a>
+</li>
+<li class="http:abcnews.go.comtechnology" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Technology" name="lpos=nav[header_desktop_sectionindex]&lid=section[Tech]">
+Tech
+</a>
+</li>
+<li class="none more" itemprop="name">
+<a href="#" itemprop="url" data-mobile="false">
+<span class="link-text">&hellip;</span>
+<span class="link-text-short">&hellip;</span>
+<span class="icon-ellipsis"></span>
+</a>
+<div class="ellipsis-dropdown">
+<ul>
+<li class="http:abcnews.go.comhealth" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Health" name="lpos=nav[header_desktop_sectionindex]&lid=section[Health]">
+Health
+</a>
+</li>
+<li class="http:abcnews.go.comtechnology" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Technology" name="lpos=nav[header_desktop_sectionindex]&lid=section[Tech]">
+Tech
+</a>
+</li>
+<li class="http:abcnews.go.comlifestyle" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Lifestyle" name="lpos=nav[header_desktop_sectionindex]&lid=section[Lifestyle]">
+Lifestyle
+</a>
+</li>
+<li class="http:abcnews.go.combusiness" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Business" name="lpos=nav[header_desktop_sectionindex]&lid=section[Money]">
+Money
+</a>
+</li>
+<li class="http:abcnews.go.comblotter" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Blotter" name="lpos=nav[header_desktop_sectionindex]&lid=section[Investigative]">
+Investigative
+</a>
+</li>
+<li class="http:abcnews.go.comsports" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Sports" name="lpos=nav[header_desktop_sectionindex]&lid=section[Sports]">
+Sports
+</a>
+</li>
+<li class="http:abcnews.go.comusgood_news" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/US/Good_News" name="lpos=nav[header_desktop_sectionindex]&lid=section[Good News]">
+Good News
+</a>
+</li>
+<li class="http:abcnews.go.comtopics" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/Topics" name="lpos=nav[header_desktop_sectionindex]&lid=section[Topics]">
+Topics
+</a>
+</li>
+<li class="http:jobs.abcnews.comajobslist" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://jobs.abcnews.com/a/jobs/list/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Job Search]">
+Job Search
+</a>
+</li>
+<li class="http:abcnews.go.comtopicsnewsweather.htm" itemprop="name">
+<a itemprop="url" data-tab="true" href="http://abcnews.go.com/topics/news/weather.htm" name="lpos=nav[header_desktop_sectionindex]&lid=section[Weather]">
+Weather
+</a>
+</li>
+<li class="photos" itemprop="name">
+<a itemprop="url" data-tab="true" href="/Photos" name="lpos=nav[header_desktop_sectionindex]&lid=section[Photos]">
+Photos
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="pillar more-abcn">
+<a href="#">More ABCNews <span class="icon-more"></span></a>
+<div>
+<ul class="cities">
+<li class="none cities">
+<a data-class="cities" href="#">
+<span class="link-text"></span>
+<span class="link-text-short"></span>
+</a>
+<div>
+<ul class="cities">
+<li class="label header-title">
+<span>
+<span class="link-text">Cities</span>
+<span class="link-text-short">Cities</span>
+</span>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://7online.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[New York City]">
+<span class="link-text">New York City</span>
+<span class="link-text-short">New York City</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://abc7.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Los Angeles]">
+<span class="link-text">Los Angeles</span>
+<span class="link-text-short">Los Angeles</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://abc7chicago.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Chicago]">
+<span class="link-text">Chicago</span>
+<span class="link-text-short">Chicago</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://6abc.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Philadelphia]">
+<span class="link-text">Philadelphia</span>
+<span class="link-text-short">Philadelphia</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://abc7news.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[San Francisco - Oakland - San Jose]">
+<span class="link-text">San Francisco - Oakland - San Jose</span>
+<span class="link-text-short">San Francisco - Oakland - San Jose</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://abc13.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Houston]">
+<span class="link-text">Houston</span>
+<span class="link-text-short">Houston</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://abc11.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Durham - Raleigh - Fayetteville]">
+<span class="link-text">Durham - Raleigh - Fayetteville</span>
+<span class="link-text-short">Durham - Raleigh - Fayetteville</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" target="_blank" data-mobile="false" href="http://abc30.com/" name="lpos=nav[header_desktop_sectionindex]&lid=section[Fresno]">
+<span class="link-text">Fresno</span>
+<span class="link-text-short">Fresno</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="featured">
+<li class="none featured-links">
+<a href="#"><span class="link-text"></span><span class="link-text-short"></span></a>
+<div>
+<ul class="featured">
+<li class="label header-title">
+<span>
+<span class="link-text">Partner Sites</span>
+<span class="link-text-short">Partner Sites</span>
+</span>
+</li>
+<li itemprop="name" class="external logo abc">
+<a data-logo="abc" itemprop="url" href="http://abc.com" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[abc]">
+<span class="link-text">abc.com</span>
+<span class="link-text-short">abc.com</span>
+</a>
+</li>
+<li itemprop="name" class="external logo fusion">
+<a data-logo="fusion" itemprop="url" href="http://fusion.net" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[fusion]">
+<span class="link-text">fusion.net</span>
+<span class="link-text-short">fusion.net</span>
+</a>
+</li>
+<li itemprop="name" class="external logo espn">
+<a data-logo="espn" itemprop="url" href="http://espn.com" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[espn]">
+<span class="link-text">espn.com</span>
+<span class="link-text-short">espn.com</span>
+</a>
+</li>
+<li itemprop="name" class="external logo fivethirtyeight">
+<a data-logo="fivethirtyeight" itemprop="url" href="http://fivethirtyeight.com" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[fivethirtyeight]">
+<span class="link-text">fivethirtyeight.com</span>
+<span class="link-text-short">fivethirtyeight.com</span>
+</a>
+</li>
+<li itemprop="name" class="external logo grantland">
+<a data-logo="grantland" itemprop="url" href="http://grantland.com" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[grantland]">
+<span class="link-text">grantland.com</span>
+<span class="link-text-short">grantland.com</span>
+</a>
+</li>
+<li itemprop="name" class="external logo disney">
+<a data-logo="disney" itemprop="url" href="http://disney.com" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[disney]">
+<span class="link-text">disney.com</span>
+<span class="link-text-short">disney.com</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class="footer-links">
+<ul class="more-more pipes">
+<li itemprop="name">
+<a itemprop="url" href="http://disneyprivacycenter.com" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[Privacy Policy]"><span class="link-text">Privacy Policy</span><span class="link-text-short">Privacy Policy</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="https://disneyprivacycenter.com/notice-to-california-residents/" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[Your CA Privacy Rights]"><span class="link-text">Your CA Privacy Rights</span><span class="link-text-short">Your CA Privacy Rights</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="https://disneyprivacycenter.com/kids-privacy-policy/english/" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[Children's Online Privacy Policy]"><span class="link-text">Children's Online Privacy Policy</span><span class="link-text-short">Children's Online Privacy Policy</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://preferences-mgr.truste.com/?type=abcnews&affiliateId=11" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[Interest-Based Ads]"><span class="link-text">Interest-Based Ads</span><span class="link-text-short">Interest-Based Ads</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://disneytermsofuse.com" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[Terms of Use]"><span class="link-text">Terms of Use</span><span class="link-text-short">Terms of Use</span></a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/Site/page?id=3068843" target="_blank" name="lpos=nav[header_desktop_sectionindex]&lid=section[Contact Us]"><span class="link-text">Contact Us</span><span class="link-text-short">Contact Us</span></a>
+</li>
+</ul>
+</div>
+<div class="footer-wrapper">
+<ul class="footer">
+<li class="footer label">
+<span class="link-text">Yahoo!-ABC News Network <span class='copy-pipe'> | </span> &copy; 2016 ABC News Internet Ventures. All rights reserved.</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="pillar shows">
+<a href="#">Shows</a>
+<div class="shows-dropdown">
+<ul>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/GMA" name="lpos=nav[header_desktop_sectionindex]&lid=section[Good Morning America]" data-mobile="false" name="lpos=nav[header_sectionindex]&lid=section[Good Morning America]">
+<span class="link-text">Good Morning America</span>
+<span class="link-text-short">Good Morning America</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/WN" name="lpos=nav[header_desktop_sectionindex]&lid=section[World News Tonight]" data-mobile="false" name="lpos=nav[header_sectionindex]&lid=section[World News Tonight]">
+<span class="link-text">World News Tonight</span>
+<span class="link-text-short">World News Tonight</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/Nightline" name="lpos=nav[header_desktop_sectionindex]&lid=section[Nightline]" data-mobile="false" name="lpos=nav[header_sectionindex]&lid=section[Nightline]">
+<span class="link-text">Nightline</span>
+<span class="link-text-short">Nightline</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/2020" name="lpos=nav[header_desktop_sectionindex]&lid=section[20/20]" data-mobile="false" name="lpos=nav[header_sectionindex]&lid=section[20/20]">
+<span class="link-text">20/20</span>
+<span class="link-text-short">20/20</span>
+</a>
+</li>
+<li itemprop="name">
+<a itemprop="url" href="http://abcnews.go.com/ThisWeek" name="lpos=nav[header_desktop_sectionindex]&lid=section[This Week]" data-mobile="false" name="lpos=nav[header_sectionindex]&lid=section[This Week]">
+<span class="link-text">This Week</span>
+<span class="link-text-short">This Week</span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="pillar live" itemprop="name">
+<a href="http://abcnews.go.com/Live" itemprop="url" name="lpos=nav[header_desktop_sectionindex]&lid=section[Live]">Live</a>
+</li>
+<li class="pillar video" itemprop="name">
+<a href="http://abcnews.go.com/Video" data-tab="true" itemprop="url" name="lpos=nav[header_sectionindex]&lid=section[Video]">Video</a>
+</li>
+</ul>
+</nav>
+<nav id="global-nav-secondary"></nav>
+</header>
+</div>
+</div>
+</div>
+<script src="http://a.abcnews.com/assets/beta/js/abcn.js?v=78"></script>
+<!-- FastCast -->
+<script src="http://a.abcnews.com/assets/fastcast/tinycast.prod.js?v=78"></script>
+<script>
+TinyCast.easyInit({pid:11001, "dcs": "PROD", "path": "http://a.abcnews.com/assets"},
+function onMessage(data) {
+if (data.data) {
+abcn_ui.Helpers.live_alerts_render.updateLiveAlerts(data.data);
+}
+}
+)
+</script>
+<div class="bodycontainer">
+<div id="indexV3-r1" class="abc_wide">
+</div>
+<div id="indexV3-r2" class="abc_mid">
+<div class="bc_cont">
+<div class="bc_col">
+<!--widget[BCTop_1_bannerad_78_sectionindex]-->
+<div class="ad_728">
+<div class="banner_ad">
+<script type="text/javascript">digGetAd("Banner");</script>
+</div>
+</div>
+<!--widget[BCTop_2_hero_78_sectionindex]--><div id="hero" role="main">
+<div class="header_espn-sportscenter"><!--branding--></div>
+<div id="_espn-sportscenter">
+<div id="hero_wrapper">
+<div id="gallery">
+<div class="carousel carousel-center">
+<div class='zone' data-vr-zone='HP - HERO'>
+<div class='content-zone'>
+<div class="carousel-slider">
+<div class="carousel-content" data-vr-contentbox="1">
+<div class="_espn"><!--partner bug--></div>
+<a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-1]">
+<img src="http://a.abcnews.go.com/images/Sports/espnapi_r37769_576x324_16-9_wmain.jpg" border="0" width="684" height="336" alt="Aaron Rodgers" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r37769_576x324_16-9_wmain.jpg'" />
+</a>
+<div class="hero_item_meta">
+<table cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>
+<a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-1]">
+<h2 class="headline-hero">Biggest 2016 draft needs for every NFL team</h2>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<div class="hero_credit">
+AP Photo/Ben Margot
+</div>
+</div>
+<div class="carousel-content" data-vr-contentbox="2">
+<div class="_espn"><!--partner bug--></div>
+<a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-2]">
+<img src="http://a.abcnews.go.com/images/Sports/espnapi_r44059_576x324_16-9_wmain.jpg" border="0" width="684" height="336" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r44059_576x324_16-9_wmain.jpg'" />
+</a>
+<div class="hero_item_meta">
+<table cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>
+<a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-2]">
+<h2 class="headline-hero">Ram-ifications: 10 questions about Stan Kroenke's L.A. coup</h2>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<div class="hero_credit">
+AP Photo/Billy Hurst
+</div>
+</div>
+<div class="carousel-content" data-vr-contentbox="3">
+<div class="_espn"><!--partner bug--></div>
+<a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-3]">
+<img src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wmain.jpg" border="0" width="684" height="336" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wmain.jpg'" />
+</a>
+<div class="hero_item_meta">
+<table cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>
+<a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-3]">
+<h2 class="headline-hero">Sources: O's discussed bid for Cespedes in range of $75M-$90M</h2>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<div class="hero_credit">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="carousel carousel-left"></div>
+<div class="carousel carousel-right"></div>
+<div id="btn-left"></div>
+<div id="btn-right"></div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+window.heropause = 10000;//1000000; // ANIMATION PAUSE
+</script>
+<script type="text/javascript" src="http://a.abcnews.com/assets/js/hero.js?v=1"></script>
+<div class="clearboth"><!-- empty --></div>
+</div>
+<div class="bc_ind">
+<div class="b_col">
+<!--widget[B_1_freeformlite_78_sectionindex]-->
+<div class="ff_lite v3w fl_1 espn-sportscenter" data-vr-zone="Sports- HEADLINES- SC - B">
+<div class="fl_1_espn-sportscenter"><!--branding--></div>
+<div id="_espn-sportscenter">
+<div class="midcontainer">
+<div class="ffl_wrapper">
+<div id="ihop_36310810" class="ffl_obj ffl_0" data-vr-contentbox>
+<div class="ihop">
+<div class="ihop_image"><a href="/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Image_1]"><img src="http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg" border="0" width="302" height="169" alt="PHOTO: ABC News" onerror="this.src='http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg'" /></a> </div> <div class="ihop_headline"> <div class="_espn"><!--partner bug--></div><a href="/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_1]">Detroit Lions keep Jim Caldwell as head coach</a><div class="tho_dek"> The Detroit Lions are staying with Jim Caldwell as their head coach, the team announced Friday. &quot;After...</div></div><div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" title="Detroit Lions keep Jim Caldwell as head coach" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" title="Detroit Lions keep Jim Caldwell as head coach" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div><div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36310534" class="ffl_obj ffl_1" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_2]"><img src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_SC_Schefter_On_Dirk_Koetter_wa.jpg" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_SC_Schefter_On_Dirk_Koetter_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_2]">Bucs turn to offensive coordinator Dirk Koetter as coach</a><div class="tho_dek"> The Tampa Bay Buccaneers have officially hired offensive coordinator Dirk Koetter as their new head coach,...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" title="Bucs turn to offensive coordinator Dirk Koetter as coach" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" title="Bucs turn to offensive coordinator Dirk Koetter as coach" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36305353" class="ffl_obj ffl_2" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_3]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160115_MM_Marshawn_Lynch_says_hes_ready_to_play_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160115_MM_Marshawn_Lynch_says_hes_ready_to_play_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160115_MM_Marshawn_Lynch_says_hes_ready_to_play_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_3]">Seattle's Marshawn Lynch declares himself 'ready' for Panthers</a><div class="tho_dek"> Asked about his status for Sunday's divisional round playoff game against the Carolina Panthers, ...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" title="Seattle's Marshawn Lynch declares himself 'ready' for Panthers" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" title="Seattle's Marshawn Lynch declares himself 'ready' for Panthers" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36303173" class="ffl_obj ffl_3" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_4]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_4]">Sources: O's discussed bid for Cespedes in range of $75M-$90M</a><div class="tho_dek"> The Baltimore Orioles have made a contract offer to free-agent outfielder Yoenis Cespedes,...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" title="Sources: O's discussed bid for Cespedes in range of $75M-$90M" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" title="Sources: O's discussed bid for Cespedes in range of $75M-$90M" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36302719" class="ffl_obj ffl_4" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/best-gameday-signs-2015/story?id=36302719" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_5]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r44114_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r44114_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="Oregon College GameDay sign" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r44114_576x324_16-9_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/best-gameday-signs-2015/story?id=36302719" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_5]">Best GameDay signs: 2015</a><div class="tho_dek"> Fan signs were as strong as ever at College GameDay in the 2015 season. Now that the college football season has...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/best-gameday-signs-2015/story?id=36302719" title="Best GameDay signs: 2015" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/best-gameday-signs-2015/story?id=36302719" title="Best GameDay signs: 2015" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36301898" class="ffl_obj ffl_5" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_6]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r44059_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r44059_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r44059_576x324_16-9_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_6]">Ram-ifications: 10 questions about Stan Kroenke's L.A. coup</a><div class="tho_dek"> Franchise relocations in sports are always emotionally overheated affairs. The victorious city celebrates while...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" title="Ram-ifications: 10 questions about Stan Kroenke's L.A. coup" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" title="Ram-ifications: 10 questions about Stan Kroenke's L.A. coup" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36278177" class="ffl_obj ffl_6" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_7]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r37769_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r37769_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="Aaron Rodgers" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r37769_576x324_16-9_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_7]">Biggest 2016 draft needs for every NFL team</a><div class="tho_dek"> NFL Nation reporters look ahead to what each team's biggest need will be in the 2016 NFL draft. AFC EAST ...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/biggest-2016-draft-nfl-team/story?id=36278177" title="Biggest 2016 draft needs for every NFL team" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/biggest-2016-draft-nfl-team/story?id=36278177" title="Biggest 2016 draft needs for every NFL team" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36285761" class="ffl_obj ffl_7" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_8]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160113_Wooden_Award_Midseason_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160113_Wooden_Award_Midseason_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160113_Wooden_Award_Midseason_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_8]">Ben Simmons, Jamal Murray only freshmen on Wooden watch list</a><div class="tho_dek"> Experience reigns on this year's Wooden Award midseason top 25 list, but one LSU&nbsp;freshman stands out. ...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" title="Ben Simmons, Jamal Murray only freshmen on Wooden watch list" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" title="Ben Simmons, Jamal Murray only freshmen on Wooden watch list" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div id="tho_36274785" class="ffl_obj ffl_8 last" data-vr-contentbox>
+<div class="tho">
+<div class="tho_image">
+<a href="/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_9]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_nfl_will_big_ben_play_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_nfl_will_big_ben_play_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_nfl_will_big_ben_play_wa.jpg'" /></a>
+</div>
+<div class="tho_headline">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_9]">2016 NFL playoffs and Super Bowl coverage</a><div class="tho_dek"> Four teams -- the Texans, Bengals, Vikings and Redskins -- were eliminated in the wild-card...</div>
+</div>
+<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="shareflyout-buttons">
+<a class="facebook" href="http://abcnews.go.com/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" title="2016 NFL playoffs and Super Bowl coverage" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" title="2016 NFL playoffs and Super Bowl coverage" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+<div class="clearboth"><!-- --></div></div>
+</div>
+<div class="clearboth"><!--clear--></div>
+</div>
+</div>
+<!--widget[B_2_seounits_78_sectionindex]-->
+<div class="seo_units v3w">
+<div class="midcontainer">
+<ul>
+<li class="seo_header">HOT TOPICS:</li>
+<li><a href="http://abcnews.go.com/topics/sports/football/chip-kelly.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link1]>Chip Kelly</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/basketball/golden-state-warriors.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link2]>Golden State Warriors</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/football/san-francisco-49ers.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link3]>San Francisco 49ers</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/football/new-england-patriots.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link4]>New England Patriots</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/football/new-york-giants.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link5]>New York Giants</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/nfl.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link6]>National Football League (NFL)</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/nba.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link7]>National Basketball Association (NBA)</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/football/st.-louis-rams.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link8]>St. Louis Rams</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/nhl.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link9]>National Hockey League (NHL)</a></li>
+<li class="seo_bullet">&#149;</li>
+<li><a href="http://abcnews.go.com/topics/sports/ncaa-basketball.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link10]>NCAA College Basketball</a></li>
+</ul>
+<div class="clearboth"><!-- --></div>
+</div>
+</div>
+</div>
+<div class="c_col">
+<!--widget[C_1_ad_78_sectionindex]-->
+<div class="ad_300">
+<div class="ad">
+<div class="ad_container"><script type="text/javascript">digGetAd("Rectangle");</script></div>
+</div>
+</div>
+<!--widget[C_2_sportscenterhighlights_78_sectionindex]--><div class="espn-highlights-main-container">
+<h2 class="espn-highlight-header"></h2>
+<div id="espn-highlight-wrapper">
+<div class="espn-highlight-item">
+<div class="highlight-thumb">
+<a href="http://espn.go.com/video/clip?id=14573989&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_nfl_steveyoung_coachingcarosel_svp/dm_160115_nfl_steveyoung_coachingcarosel_svp_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+</a>
+</div>
+<div class="highlight-text">
+<div class="_espn"><!--partner bug--></div>
+<a href="http://espn.go.com/video/clip?id=14573989&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Coaching carousel: 49ers, Eagles, Buccaneers </a>
+<a href="http://espn.go.com/video/clip?id=14573989&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 5:53 AM</a>
+</div>
+</div>
+<div class="espn-highlight-item">
+<div class="highlight-thumb">
+<a href="http://espn.go.com/video/clip?id=14573960&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_Jay_Wright_on_SportsCenter/dm_160115_Jay_Wright_on_SportsCenter_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+</a>
+</div>
+<div class="highlight-text">
+<div class="_espn"><!--partner bug--></div>
+<a href="http://espn.go.com/video/clip?id=14573960&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Villanova winning with teamwork </a>
+<a href="http://espn.go.com/video/clip?id=14573960&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 5:51 AM</a>
+</div>
+</div>
+<div class="espn-highlight-item">
+<div class="highlight-thumb">
+<a href="http://espn.go.com/video/clip?id=14574121&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_svp_one_big_thing/dm_160115_svp_one_big_thing_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+</a>
+</div>
+<div class="highlight-text">
+<div class="_espn"><!--partner bug--></div>
+<a href="http://espn.go.com/video/clip?id=14574121&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">SVP: 'Are you for real Wisconsin?' </a>
+<a href="http://espn.go.com/video/clip?id=14574121&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 6:19 AM</a>
+</div>
+</div>
+<div class="espn-highlight-item">
+<div class="highlight-thumb">
+<a href="http://espn.go.com/video/clip?id=14573923&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_ncb_dandakich_iowa_impressive/dm_160115_ncb_dandakich_iowa_impressive_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+</a>
+</div>
+<div class="highlight-text">
+<div class="_espn"><!--partner bug--></div>
+<a href="http://espn.go.com/video/clip?id=14573923&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">The impressive run Iowa is on right now </a>
+<a href="http://espn.go.com/video/clip?id=14573923&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 5:25 AM</a>
+</div>
+</div>
+<div class="espn-highlight-item">
+<div class="highlight-thumb">
+<a href="http://espn.go.com/video/clip?id=14572000&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0114/dm_160114_schefter_on_pederson/dm_160114_schefter_on_pederson_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+</a>
+</div>
+<div class="highlight-text">
+<div class="_espn"><!--partner bug--></div>
+<a href="http://espn.go.com/video/clip?id=14572000&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Eagles expected to hire Doug Pederson </a>
+<a href="http://espn.go.com/video/clip?id=14572000&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">YESTERDAY, 11:16 PM</a>
+</div>
+</div>
+</div>
+</div><!--widget[C_3_ad2_78_sectionindex]-->
+<div class="ad_300">
+<div class="ad">
+<div class="ad_container"><script type="text/javascript">digGetAd("Rectangle2");</script></div>
+</div>
+</div>
+<!--widget[C_4_canvas_78_sectionindex]--><div class="canvas" id="canvas-20867228"><div class="story_widget">
+<div class="quigo">
+<div class="midcontainer"><script type="text/javascript">adsonar_placementId=1583326;adsonar_pid=3082767;adsonar_ps=0;adsonar_zw=270;adsonar_zh=300;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
+</div>
+</div>
+</div>
+<div class="clearboth"><!-- --></div></div>
+</div>
+<div class="clearboth"><!--empty--></div>
+</div>
+<div class="bc_col">
+<div class="clearboth"><!--empty--></div>
+</div>
+</div>
+<div class="a_cont">
+<div class="a_col">
+<!--widget[A_1_freeformlite_78_sectionindex]-->
+<div class="ff_lite v3w fl_1 espn-sportscenter" data-vr-zone="Sports - WIRES - AP - A">
+<div class="fl_1_espn-sportscenter"><!--branding--></div>
+<div id="_espn-sportscenter">
+<div class="midcontainer">
+<div class="widget_head_1" id="wh_one">
+<h1>
+Sports News
+</h1>
+</div>
+<div class="ffl_wrapper">
+<div id="h_36310867" class="ffl_0" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/lions-coach-jim-caldwell-3rd-year-1st-gm-36310867" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_1]">Lions Keep Coach Jim Caldwell for 3rd Year, 1st With New GM<span class="metaH_timeDay">21 minutes ago</span></a>
+</div>
+</div>
+<div id="h_36310636" class="ffl_1 odd" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/dirk-koetter-promoted-buccaneers-head-coach-36310636" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_2]">Dirk Koetter Promoted as Buccaneers New Head Coach<span class="metaH_timeDay">4 minutes ago</span></a>
+</div>
+</div>
+<div id="h_36293620" class="ffl_2" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/49ers-hire-chip-kelly-coach-36293620" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_3]">49ers Hire Chip Kelly as New Coach<span class="metaH_timeDay">Jan 14, 2016, 3:43 PM</span></a>
+</div>
+</div>
+<div id="h_36306989" class="ffl_3 odd" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/injury-comeback-force-reboot-manning-story-line-36306989" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_4]">Injury, Comeback Force Reboot on Manning Story Line<span class="metaH_timeDay">2 hours, 29 minutes ago</span></a>
+</div>
+</div>
+<div id="h_36308717" class="ffl_4" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/ioc-asks-transcripts-suggesting-2020-olympic-bid-bribery-36308717" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_5]">IOC Asks for Transcripts Suggesting 2020 Olympic Bid Bribery<span class="metaH_timeDay">Jan 15, 2016, 6:30 AM</span></a>
+</div>
+</div>
+<div id="h_36306787" class="ffl_5 odd" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/michael-phelps-discovers-true-happiness-arizona-desert-36306787" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_6]">Michael Phelps Discovers True Happiness in Arizona Desert<span class="metaH_timeDay">Jan 15, 2016, 2:34 AM</span></a>
+</div>
+</div>
+<div id="h_36304208" class="ffl_6" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/spurs-beat-cavaliers-99-95-32nd-straight-win-36304208" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_7]">Spurs Beat Cavaliers 99-95 for 32nd Straight Win at Home<span class="metaH_timeDay">Jan 15, 2016, 1:04 AM</span></a>
+</div>
+</div>
+<div id="h_36306403" class="ffl_7 odd" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/curry-warriors-spoil-kobes-farewell-oakland-116-98-36306403" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_8]">Curry, Warriors Spoil Kobe's Farewell in Oakland, 116-98<span class="metaH_timeDay">Jan 15, 2016, 2:15 AM</span></a>
+</div>
+</div>
+<div id="h_36297375" class="ffl_8" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/japan-honors-hank-aaron-order-rising-sun-36297375" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_9]">Japan Honors Hank Aaron With Order of the Rising Sun<span class="metaH_timeDay">2 hours, 58 minutes ago</span></a>
+</div>
+</div>
+<div id="h_36302277" class="ffl_9 odd last" data-vr-contentbox>
+<div class="h">
+<a href="/Sports/wireStory/16-iowa-routs-michigan-state-76-59-sweeps-36302277" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_10]">No. 16 Iowa Routs No. 4 Michigan State 76-59, Sweeps Series<span class="metaH_timeDay">Jan 14, 2016, 10:11 PM</span></a>
+</div>
+</div>
+<div class="clearboth"><!-- --></div></div>
+</div>
+<div class="clearboth"><!--clear--></div>
+</div>
+</div>
+<!--widget[A_2_freeformlite_78_sectionindex]-->
+<div class="ff_lite v3w fl_1 espn-sportscenter" data-vr-zone="Sports - SEO Links">
+<div class="fl_1_espn-sportscenter"><!--branding--></div>
+<div id="_espn-sportscenter">
+<div class="midcontainer">
+<div class="widget_head_1" id="wh_one">
+<h1>
+More Coverage
+</h1>
+</div>
+<div class="ffl_wrapper">
+<div id="h_21017397" class="ffl_0" data-vr-contentbox>
+<div class="h">
+<a href="http://abcnews.go.com/topics/sports/nfl.htm" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[Headline_1]">National Football League (NFL)</a>
+</div>
+</div>
+<div id="h_21017398" class="ffl_1 odd" data-vr-contentbox>
+<div class="h">
+<a href="http://abcnews.go.com/topics/sports/mlb.htm" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[Headline_2]">Major League Baseball (MLB)</a>
+</div>
+</div>
+<div id="h_21017399" class="ffl_2" data-vr-contentbox>
+<div class="h">
+<a href="http://abcnews.go.com/topics/sports/nba.htm" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[Headline_3]">National Basketball Association (NBA)</a>
+</div>
+</div>
+<div id="h_21017400" class="ffl_3 odd" data-vr-contentbox>
+<div class="h">
+<a href="http://abcnews.go.com/topics/sports/nhl.htm" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[Headline_4]">National Hockey League (NHL)</a>
+</div>
+</div>
+<div id="h_21017401" class="ffl_4" data-vr-contentbox>
+<div class="h">
+<a href="http://abcnews.go.com/topics/sports/ncaa-football.htm" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[Headline_5]">NCAA College Football</a>
+</div>
+</div>
+<div id="h_21017411" class="ffl_5 odd last" data-vr-contentbox>
+<div class="h">
+<a href="http://abcnews.go.com/topics/sports/ncaa-basketball.htm" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[Headline_6]">NCAA College Basketball</a>
+</div>
+</div>
+<div class="clearboth"><!-- --></div></div>
+</div>
+<div class="clearboth"><!--clear--></div>
+</div>
+</div>
+<!--widget[A_3_twitterrest_78_sectionindex]--><div class="espn-sportscenter-twitter-container">
+<div class="midcontainer">
+<div id="tweet-wrapper">
+<div class="tweet-item">
+<div class="twitter-avatar">
+<a href="http://twitter.com/NBA" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/664807873713725440/r8ZAg5lD_normal.jpg" height="48" width="48" />
+</a>
+</div>
+<div class="twitter-full-name">
+<a href="http://twitter.com/NBA" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+NBA
+</a>
+</div>
+<div class="twitter-text">
+Just how the <a href="http://twitter.com/MemGrizz" class="espn_twitter" target="_blank" name="lid=link[twitter]">@MemGrizz</a> drew it up... maybe not! <a href="https://t.co/qRflT2M7T4" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/qRflT2M7T4</a>
+</div>
+<div class="twitter-time">4 minutes ago</div>
+</div>
+<div class="tweet-item">
+<div class="twitter-avatar">
+<a href="http://twitter.com/ATPWorldTour" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/463326791331872768/oEpzYH97_normal.jpeg" height="48" width="48" />
+</a>
+</div>
+<div class="twitter-full-name">
+<a href="http://twitter.com/ATPWorldTour" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+ATP World Tour
+</a>
+</div>
+<div class="twitter-text">
+.<a href="http://twitter.com/milosraonic" class="espn_twitter" target="_blank" name="lid=link[twitter]">@milosraonic</a> will represent Team Canada in the <a href="http://twitter.com/NBA" class="espn_twitter" target="_blank" name="lid=link[twitter]">@NBA</a> All Star Celebrity Game. More: <a href="https://t.co/vnkvIRqtj0" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/vnkvIRqtj0</a> <a href="https://t.co/PIHFcI1gbP" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/PIHFcI1gbP</a>
+</div>
+<div class="twitter-time">4 minutes ago</div>
+</div>
+<div class="tweet-item">
+<div class="twitter-avatar">
+<a href="http://twitter.com/AdamSchefter" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/661060211432669184/F_uJpo-9_normal.jpg" height="48" width="48" />
+</a>
+</div>
+<div class="twitter-full-name">
+<a href="http://twitter.com/AdamSchefter" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+Adam Schefter
+</a>
+</div>
+<div class="twitter-text">
+Adam "Pacman" Jones apology in 3...2...
+</div>
+<div class="twitter-time">5 minutes ago</div>
+</div>
+<div class="tweet-item">
+<div class="twitter-avatar">
+<a href="http://twitter.com/Giants" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/663792326158868481/QRMnemUy_normal.jpg" height="48" width="48" />
+</a>
+</div>
+<div class="twitter-full-name">
+<a href="http://twitter.com/Giants" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+New York Giants
+</a>
+</div>
+<div class="twitter-text">
+Will the <a href="http://twitter.com/search?q=%23Giants" class="espn_twitter" target="_blank" name="lid=link[twitter]">#Giants</a> offense remain relatively the same following the Ben McAdoo hire?
+&<a href="http://twitter.com/search?q=%23127909" class="espn_twitter" target="_blank" name="lid=link[twitter]">#127909</a>; | <a href="https://t.co/r7VHqw1bYd" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/r7VHqw1bYd</a> <a href="https://t.co/vGhQw9eCpq" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/vGhQw9eCpq</a>
+</div>
+<div class="twitter-time">4 minutes ago</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearboth"><!-- empty --></div>
+</div>
+<div class="clearboth"><!-- empty --></div>
+</div> <!-- end abc mid -->
+<div id="indexV3-r3" class="abc_wide">
+<div class="clearboth"><!-- empty --></div>
+</div>
+<div class="clearboth"><!-- empty --></div>
+</div>
+</div>
+</div>
+<script>
+var abcn_nativo = {};
+abcn_nativo.path = '.a_col .ff_lite:first .ffl_wrapper';
+abcn_nativo.markup = '<div class="nativo"></div>';
+abcn_nativo.embedded = false;
+$(abcn_nativo.path + ' > div').each(function(i){
+if(i===5){
+$(this).after(abcn_nativo.markup);
+abcn_nativo.embedded = true;
+}
+});
+if(!abcn_nativo.embedded){
+$(abcn_nativo.path + ' .last').after(abcn_nativo.markup);
+}
+</script>
+<style>
+#_fs_container{height:100px;}
+</style>
+<div class="footercontainer" id="_fs_container">
+<div class="footer_bg"><!-- bg --></div>
+<div class="footer_small">
+<div class="_networks"><a href="/" name="lpos=nav[footer_sectionindex]&lid=section[Logo]">Yahoo!-ABC News Network</a></div>
+<a href="https://twitter.com/abc" class="_socialF" target="_blank" name="lpos=nav[footer_sectionindex]&lid=section[Tools_Twitter]"><div class="_tw"></div></a>
+<a href="https://www.facebook.com/abcnews" class="_socialF" target="_blank" name="lpos=nav[footer_sectionindex]&lid=section[Tools_Facebook]"><div class="_fb"></div></a>
+<a href="https://plus.google.com/+ABCNews" class="_socialF" target="_blank" name="lpos=nav[footer_sectionindex]&lid=section[Tools_Google Plus]"><div class="_gp"></div></a>
+<a class="_links" href="http://disneyprivacycenter.com" target="_blank" name="lpos=nav[footer_sectionindex]&lid=section[About_Privacy Policy]">Privacy Policy</a>
+<a class="_links" href="https://disneyprivacycenter.com/notice-to-california-residents/" target="_blank" name="lpos=nav[footer_sectionindex]&lid=section[About_California Privacy Rights]">Your CA Privacy Rights</a>
+<a class="_links" href="https://disneyprivacycenter.com/kids-privacy-policy/english/" target="_blank" name="lpos=nav[footer_sectionindex]&lid=section[About_COPPA]">Children's Online Privacy Policy</a>
+<a class="_links" href="http://preferences-mgr.truste.com/?type=abcnews&affiliateId=11" target="_blank" name="lpos=nav[sectionindex]&lid=section[About_Interest-Based Ads]">Interest-Based Ads</a>
+<a class="_links" href="http://disneytermsofuse.com" target="_blank" name="lpos=nav[sectionindex]&lid=section[About_Terms of Use]">Terms of Use</a>
+<a class="_links" style="margin-right:0;" href="http://abcnews.go.com/Site/page?id=3068843" target="_blank" name="lpos=nav[sectionindex]&lid=section[About_Contact Us]">Contact Us</a>
+<div class="_rights" style="width:100%;margin-top:10px;margin-bottom:10px;text-align:center;">&copy; 2016 ABC News Internet Ventures. All rights reserved.</div>
+<div class="clearboth"></div>
+</div>
+</div>
+<script type="text/javascript">
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid =12240 ;//28332
+_sf_async_config.domain = location.hostname;
+_sf_async_config.useCanonical = 'true';
+if (typeof tq != 'undefined' && tq.section) {
+_sf_async_config.sections = tq.section;
+} else if (typeof abcnewsSite != 'undefined' && abcnewsSite.section) {
+_sf_async_config.sections = abcnewsSite.section;
+} else {
+_sf_async_config.sections = '';
+}
+if (typeof tq != 'undefined' && tq.byline) {
+_sf_async_config.authors = tq.byline;
+} else {
+_sf_async_config.authors = '';
+}
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js'); document.body.appendChild(e); }
+addOnload(loadChartbeat);
+})();
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-9e_QHc34iBt22",
+labels:"ABC News"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-9e_QHc34iBt22.gif?labels=<%replace(label,' ', '%20')%>" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- Nielsen Online SiteCensus V6.0, Copyright 2010 Nielsen Online-->
+<script type="text/javascript">
+(function () {
+var nielsenImg = new Image(1, 1);
+nielsenImg.onerror = nielsenImg.onload = function () {
+nielsenImg.onerror = nielsenImg.onload = null;
+};
+nielsenImg.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704476h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript><div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-704476h&cg=0&cc=1&ts=noscript" width="1" height="1" alt="" /></div></noscript>
+<!-- Google Code for ABC News - Site - 365 Remarketing List -->
+<script type="text/javascript">
+var google_conversion_id = 1005826543;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "1GPKCOHYjwMQ7-PO3wM";
+var google_conversion_value = 0;
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js" async></script>
+<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1005826543/?value=0&amp;label=1GPKCOHYjwMQ7-PO3wM&amp;guid=ON&amp;script=0"/></div></noscript>
+<div class="ad_container"><script type="text/javascript">digGetAd("PopUnder");</script></div><div class="ad_container"><script type="text/javascript">digGetAd("Survey");</script></div><div class="ad_container"><script type="text/javascript">digGetAd("OverPage");</script></div><div class="ad_container"><script type="text/javascript">digGetAd("Footer");</script></div>
+<div class="ad_container"><script type="text/javascript">digGetAd("RevenueScience");</script></div>
+<!-- SiteCatalyst code version: H.15.1 Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript">
+var s_account = "wdgnewabcnews,wdgasec";
+</script>
+<script language="JavaScript" src="http://a.abcnews.com/assets/js/s_code_15.js?v=4"></script>
+<script language="JavaScript">
+// Optimizely SiteCatalyst Integration
+window.optimizely = window.optimizely || [];
+window.optimizely.push(['activateSiteCatalyst', {"sVariable": s_omni}]);
+s_omni.pageName = "abcn:s1_sports:78:sports index:sectionindex"; //content name
+s_omni.pageURL = ""; //content url
+s_omni.pageType = ""; //page type
+s_omni.server = window.document.location.hostname; //reporting domain
+s_omni.prop4 = "sectionindex"; //content type
+s_omni.prop1 = "abcn"; //site name
+s_omni.channel = "abcn:sports";
+s_omni.prop5 = ""; //level2
+s_omni.prop6 = ""; // level 3 content category
+s_omni.prop13 = ""; //columnist
+s_omni.prop16 = ""; //source
+s_omni.prop18 = "78:sports index"; //content id:content name
+s_omni.prop24 = ""; //top story
+s_omni.prop25 = ""; //top video
+s_omni.prop26 = ""; //top slideshow
+s_omni.hier1 = "abcn:sports";//directory structurevar arecookiesEnabled = navigator.cookieEnabled;
+var tryLocalStorage = function() {
+try {
+localStorage.setItem("testLS", "test");
+localStorage.removeItem("testLS");
+return true;
+} catch(e) {
+return false;
+}
+}
+var thirtyMinutesLater = new Date();
+thirtyMinutesLater.setMinutes(thirtyMinutesLater.getMinutes() + 30);
+var setTrackID = function() {
+// set setTime for protection
+setTimeout(function() {
+if (s_omni.prop14) {
+var prevPageTrack = s_omni.prop14;
+if (tryLocalStorage) {
+memcachejs.set("abcnd-prev-page", prevPageTrack, 1800);
+//localStorage.setItem('abcnd-prev-page', prevPageTrack);
+} else if (arecookiesEnabled) {
+createCookie('abcnd-prev-page',prevPageTrack,1);
+}
+} else {
+// clear
+if (tryLocalStorage) {
+memcachejs.remove("abcnd-prev-page");
+} else if (arecookiesEnabled) {
+document.cookie = 'abcnd-prev-page=; expires='+thirtyMinutesLater.toGMTString()+';';
+}
+}
+}, 1000);
+}
+$(document).ready(function(){
+$(document).on("click", 'a[name^=lpos]', function(e) {
+var n = $(this).attr("name");
+if (tryLocalStorage) {
+memcachejs.set("abcnd-link-track", n, 1800);
+} else if (arecookiesEnabled) {
+createCookie('abcnd-link-track',n,1);
+}
+});
+});
+var linkTrack = false;
+if (tryLocalStorage) {
+linkTrack = memcachejs.get("abcnd-link-track");
+} else if (arecookiesEnabled) {
+linkTrack = readCookie('abcnd-link-track');
+}
+if (linkTrack) {
+var lpos = linkTrack.split("lpos=");
+if (lpos.length == 2) {
+if(typeof s_omni != "undefined"){
+// lpos[1] is the name= property in the anchor tag.
+s_omni.prop9 = lpos[1];
+}
+}
+}
+// do this again for prop12, even if click tracking doesn't occur (back button, forward button)
+if (tryLocalStorage) {
+memcachejs.remove("abcnd-link-track");
+// if previous page is set, add to to prop12
+if (memcachejs.get('abcnd-prev-page')) {
+s_omni.prop12 = memcachejs.get('abcnd-prev-page')
+memcachejs.remove("abcnd-prev-page");
+}
+} else if (arecookiesEnabled) {
+document.cookie = 'abcnd-link-track=; expires='+thirtyMinutesLater.toGMTString()+';';
+// if previous page is set, add to to prop12
+if (readCookie('abcnd-prev-page')) {
+s_omni.prop12 = readCookie('abcnd-prev-page');
+document.cookie = 'abcnd-prev-page=; expires='+thirtyMinutesLater.toGMTString()+';';
+}
+}
+// set the current page in ls/cookie format
+setTrackID();
+function slideLoadJS(u, c) {
+var d = document, t = 'script',
+o = d.createElement(t),
+s = d.getElementsByTagName(t)[0];
+o.src = '//' + u;
+if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+s.parentNode.insertBefore(o, s);
+}
+window.bkInit = function(s_omni_override) {
+try{
+if(typeof s_omni !='undefined'){
+if(typeof s_omni_override != "undefined"){
+var bkprop4 = (typeof s_omni_override.prop4 != 'undefined' ? s_omni_override.prop4 : '');
+var bkprop5 = (typeof s_omni_override.prop5 != 'undefined' ? s_omni_override.prop5 : '');
+var bkprop15 = (typeof s_omni_override.prop15 != 'undefined' ? s_omni_override.prop15 : '');
+var bkeVar2 = (typeof s_omni_override.eVar2 != 'undefined' ? s_omni_override.eVar2 : '');
+var bkpeVar20 = (typeof s_omni_override.eVar20 != 'undefined' ? s_omni_override.eVar20 : '');
+var bkchannel = (typeof s_omni_override.channel != 'undefined' ? s_omni_override.channel : '');
+}else{
+var bkprop4 = (typeof s_omni.prop4 != 'undefined' ? s_omni.prop4 : '');
+var bkprop5 = (typeof s_omni.prop5 != 'undefined' ? s_omni.prop5 : '');
+var bkprop15 = (typeof s_omni.prop15 != 'undefined' ? s_omni.prop15 : '');
+var bkeVar2 = (typeof s_omni.eVar2 != 'undefined' ? s_omni.eVar2 : '');
+var bkpeVar20 = (typeof s_omni.eVar20 != 'undefined' ? s_omni.eVar20 : '');
+var bkchannel = (typeof s_omni.channel != 'undefined' ? s_omni.channel : '');
+}
+bk_addPageCtx("prop4", bkprop4);
+bk_addPageCtx("prop5", bkprop5);
+bk_addPageCtx("prop15", bkprop15);
+bk_addPageCtx("eVar2", bkeVar2);
+bk_addPageCtx("eVar20", bkpeVar20);
+bk_addPageCtx("channel", bkchannel);
+/*placeholder for ID to be used for offline match.
+for example, the lines below assume the ID for offline match is in s_omni.prop2.
+to activate the offline match id, remove the comments from the lines below and
+replace the s_omni.prop2 with the correct variable for the offline ID to be used.*/
+//var bkid = (typeof s_omni.prop2 != 'undefined' ? s_omni.prop2 : '');
+//bk_addPageCtx("id", bkid);
+}
+}
+catch(e){
+}
+bk_allow_multiple_calls = true;
+bk_use_multiple_iframes = true;
+BKTAG.doTag(25193, 10);
+};
+slideLoadJS("tags.bkrtx.com/js/bk-coretag.js", function() {
+window.bkInit();
+});
+s_omni.eVar16 = s_omni.pageName; //content name conversion
+s_omni.eVar17 = s_omni.prop4+":"+s_omni.channel;
+s_omni.eVar10 = "abcn"; //site name
+var s_code=s_omni.t();if(s_code)document.write(s_code);
+</script>
+<!-- End SiteCatalyst code version: H.15.1 -->
+</body>
+</html>

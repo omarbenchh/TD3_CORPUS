@@ -1,0 +1,937 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Chinese raisin tree extraction could cure hangover: study - What's On Xiamen</title>
+<link href="admin.css" rel="stylesheet" type="text/css" media="all" />
+<link href="news.css" rel="stylesheet" type="text/css" media="all" />
+<link href="news2.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript">
+function chkfrm1(){
+var con_str=document.postform;
+if(con_str.message.value==""){
+    alert("The message required");
+	return false;
+}
+
+if(con_str.message.value.length<10){
+	alert("The message can not be less than 10 words");
+	return false;
+}
+}
+
+
+</script>
+<script type="text/javascript" src="jq/jquery-1.3.2.min.js"></script>
+<script type="text/javascript">
+$().ready(function () {
+
+$("#news_comments_title").click(function(){
+$("#news_com_box").toggle("slow");
+}
+);
+
+
+}
+
+
+);
+
+</script> 
+
+
+
+<style type="text/css">
+<!--
+#nl1 {
+	width:580px;
+	float:left;
+	text-align:left;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #C0E0E0;
+}
+#news_tag {
+	background-image: url(images/icons/tag_blue.jpg);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	margin-bottom: 5px;
+	margin-top: 3px;
+}
+#news_tag a {
+	color: #0066FF;
+	text-decoration: none;
+}
+#news_tag a:hover {
+	color: #FFFFFF;
+	background-color: #0066FF;
+	text-decoration: none;
+}
+
+
+
+#nl2 {
+	width:200px;
+	float:left;
+	margin-left:5px;
+	text-align:left;
+}
+#news_links_nav {
+	border: 1px solid #E0E0E0;
+	margin: 4px;
+	text-align: left;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #F6F6F6;
+}
+#news_contet_body {
+}
+
+#nl3 {
+	width:150px;
+	float:left;
+	margin-left:5px;
+}
+.photo_li {
+	list-style-type: none;
+	background-image: none;
+	float: left;
+	width: 90px;
+	margin-right: 2px;
+	padding: 0px;
+	margin-bottom: 5px;
+}
+#news_content {
+	margin-bottom: 5px;
+}
+#news_share {
+	margin-bottom: 6px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: dashed;
+	border-bottom-style: dashed;
+	border-top-color: #DFDFDF;
+	border-bottom-color: #DFDFDF;
+	margin-top: 6px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#news_comments {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color: #EEEEEE;
+	border: 1px solid #E7E7E7;
+}
+#news_friend {
+	margin-bottom: 8px;
+}
+#news_comments_title {
+	display: block;
+	padding-top: 5px;
+	font-weight: bold;
+	color: #333333;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E6E6E6;
+}
+.news_com_list_details {
+	border: 1px solid #F2E9F8;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	background-color: #FFFFFF;
+}
+.ncd1 {
+	padding-top: 2px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+.font_red {
+	color: #CC0000;
+}
+#news_com_box {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 5px;
+}
+.ncd2 {
+	padding-left: 5px;
+	padding-top: 2px;
+	padding-bottom: 3px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #F8F2FB;
+}
+
+.special_news {
+    text-align:centre;
+	margin:5px; 
+	background-color:#EFEFEF; 
+	padding-top:5px; 
+	padding-bottom:5px; 
+	padding-left:2px; 
+	padding-right:2px; 
+	margin-bottom:8px;
+
+}
+.news_right_box2 {
+	margin-bottom: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	border: 1px solid #DDDDDD;
+}
+.news_right_box2 h2 {
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+#news_cname a {
+	color: #5AC7BB;
+}
+#news_cname {
+	width: 99%;
+}
+#news_links {
+	font-size: 12px;
+	height: 28px;
+	margin-left: 0px;
+	width: 100%;
+	padding-top: 5px;
+}
+#news_links a {
+	padding-right: 0px;
+	padding-left: 5px;
+	display: block;
+	float: left;
+	margin-right: 5px;
+	height: 20px;
+	padding-top: 3px;
+	color: #4FB1A4;
+	text-decoration: none;
+	margin-bottom: 5px;
+	padding-bottom: 3px;
+	width: 140px;
+}
+#news_topbar {
+	background-color: #E8F7F5;
+}
+h1.newstitle {
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 5px;
+	margin-bottom: 10px;
+	padding-top: 3px;
+}
+.page3_corp {
+	padding: 2px;
+	width: 90px;
+	height: 120px;
+	overflow: hidden;
+	margin-right: 3px;
+	margin-bottom: 2px;
+	margin-left: 1px;
+}
+#page3_title a {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.page3_table {
+	border: 1px solid #000000;
+	background-color: #CC0000;
+}
+#page3_title {
+	padding-left: 5px;
+	padding-top: 5px;
+}
+#news_links a:hover, a#news_current {
+	background-color: #4FB1A4;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#news_related {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right:10px;
+	padding: 5px;
+	width: 200px;
+	float: left;
+	border-top-width: 1px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #E7E7E7;
+	border-right-color: #DFDFDF;
+	border-bottom-color: #DFDFDF;
+	border-left-color: #E7E7E7;
+}
+#news_related h2 {
+	margin-top: 0px;
+	margin-bottom: 5px;
+	font-size: 13px;
+	color: #FF0000;
+}
+
+
+
+
+-->
+</style>
+</head>
+<body>
+<div id="HomePageMain">
+	<div id="header009999">
+    	        <link href='newhead.css' rel='stylesheet' type='text/css' media='all' />        
+        <script language="javascript">
+            $(document).ready(function(){
+                $("#smallnav ul.smlallnav li a").mouseover(function(){
+                    var id = $(this).attr("id");
+                    $(".slidermemu").hide();
+                    $("."+id).show();
+                });	
+                $("#smallnav ul.smlallnav li a").mouseout(function(){
+                    $(".slidermemu").hide();
+                });	
+                $(".slidermemu").mouseover(function(){
+                    $(this).show();
+                });
+				$("#homess").mouseover(function(){
+					$("#homenavss").css("margin-top","0px");
+					$("#communitynavss").hide();
+					$("#businessnavss").hide();
+					$("#newsnavss").hide();
+					$("#homenavss").show();
+				});
+				$("#homess").mouseout(function(){
+					$("#homenavss").css("margin-top","4px");
+				});
+				$("#newsss").mouseover(function(){
+					$("#homenavss").css("margin-top","0px");
+					$("#communitynavss").hide();
+					$("#businessnavss").hide();
+					$("#homenavss").hide();
+				});
+				$("#communityss").mouseover(function(){
+					$("#communitynavss").css("margin-top","0px");
+					$("#homenavss").hide();
+					$("#newsnavss").hide();
+					$("#businessnavss").hide();
+					$("#communitynavss").show();
+				});
+				$("#communityss").mouseout(function(){
+					$("#communitynavss").css("margin-top","4px");
+				});
+				$("#businessss").mouseover(function(){
+					$("#businessnavss").css("margin-top","0px");
+					$("#homenavss").hide();
+					$("#newsnavss").hide();
+					$("#communitynavss").hide();
+					$("#businessnavss").show();
+				});
+				$("#businessss").mouseout(function(){
+					$("#businessnavss").css("margin-top","4px");
+				});
+            });
+        </script>
+        <div id="bignav">
+        	<div id="login" style="width:92px"></div>	
+			<script language="javascript">$.get('/nav_user_area.php',function(data){$("#bignav #login").html(data)});</script>
+			<ul id="firstnav">	
+                <li>
+                	<a href="/" id="homess">Home</a>
+                	<ul id="homenavss" style="position:absolute;margin:0;height:30px;display:none;margin-left:6px;">
+                    	<li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/news_index.php" style="padding:0px;height:20px;float:left;">&nbsp;News&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/what.php" style="padding:0px;height:20px;float:left;">&nbsp;What's On&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/info_index.php" style="padding:0px;height:20px;float:left;">&nbsp;Infobank&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/food.php" style="padding:0px;height:20px;float:left;">&nbsp;Food & Wine&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/education/" style="padding:0px;height:20px;float:left;">&nbsp;Edu & Learn&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/health.php" style="padding:0px;height:20px;float:left;">&nbsp;Body & Sports&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/ent.php" style="padding:0px;height:20px;float:left;">&nbsp;Entmt&nbsp;| </a>
+                        </li>                   
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/tech.php" style="padding:0px;height:20px;float:left;">&nbsp;Tech&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/travel.php" style="padding:0px;height:20px;float:left;">&nbsp;Travel&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/photo.php" style="padding:0px;height:20px;float:left;">&nbsp;Photo&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/ask_index.php" style="padding:0px;height:20px;float:left;">&nbsp;Ask&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/networking.php" style="padding:0px;height:20px;float:left;">&nbsp;Social Net&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/directory.php" style="padding:0px;height:20px;float:left;">&nbsp;Directories&nbsp;</a>
+                        </li>
+                    </ul>
+                </li>
+               	<li class="deep">
+                	<a href="/news_index.php" id="newsss">News & Information</a>
+                </li>
+                <li>
+                	<a href="/ask_index.php" id="communityss">WOX Community</a>
+                	<ul id="communitynavss" style="position:absolute;margin:0;height:30px;display:none;margin-left:6px;">
+                    	<li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/ask_index.php" style="padding:0px;height:20px;float:left;">&nbsp;ASK Forums&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/networking.php" style="padding:0px;height:20px;float:left;">&nbsp;Networking&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/how_to_use.php" style="padding:0px;height:20px;float:left;">&nbsp;Forum Information & Help&nbsp; </a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="lastli">
+                	<a href="/china-trade-invest.php" id="businessss">Xiamen Business & Trade</a>
+                	<ul id="businessnavss" style="position:absolute;margin:0;height:30px;display:none;margin-left:6px;">
+                    	<li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/china-trade-invest.php" style="padding:0px;height:20px;float:left;">&nbsp;Business & Trade News&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/sourcing.php" style="padding:0px;height:20px;float:left;">&nbsp;Sourcing In Xiamen&nbsp;| </a>
+                        </li>
+                        <li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
+                        	<a href="/directory.php" style="padding:0px;height:20px;float:left;">&nbsp;Directories&nbsp;</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <div id="share">
+            <!-- AddThis Button BEGIN 
+                <a href="http://www.addthis.com/bookmark.php?v=250" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()">
+                    <img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/>
+                </a>
+                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=whatsonxiamen"></script>
+			<!-- AddThis Button END -->
+            </div>
+        </div>
+		<div id="woxlogo">
+        	
+        </div>
+        <div style="margin-bottom:5px;">
+        <div id="smallnav" >
+<div style="float: left; border-bottom: 1px solid rgb(255, 255, 255); border-top: 1px solid rgb(255, 255, 255); height: 5px; margin-top: 5px; margin-left: 10px; width: 150px; margin-right: 10px;"></div>
+	<ul class="smlallnav">
+   		<li>
+        	<a href="/news_index.php" id="newsnav" style="display:block;">News&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <p class="slidermemu newsnav">
+            	<a href="/news_index.php">News Cover Page</a>
+                <a href="/news.php?newskind=Xiamen+News">Xiamen News</a>
+                <a href="/news.php?newskind=Fujian+News">Fujian News</a>
+                <a href="/news.php?newskind=China+National+News">National News</a>
+                <a href="/news.php?newskind=Asia+Pacific+News">Asia Pacific News</a>
+                <a href="/news.php?newskind=World+News">World News</a>
+                <a href="/invest_list.php?type=Trade+%26+Commence+News">All Trade News</a>
+                <a href="/news.php">All News</a>
+            </p>
+        </li>
+        <li>
+        	<a href="/what.php" id="whatnav" style="display:block;">What's On&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <p class="slidermemu whatnav">
+                <a href="/what.php">What's On  Cover Page</a>
+                <a href="/what_all.php?more=all_n">What's On News</a>
+                <a href="/what_events_show.php">Special Events</a>
+            	<a href="/what_events.php">Submit Events</a>
+        	</p>
+        </li>
+        <li>
+        	<a href="/info_index.php" id="ingobanksnav" style="display:block;">Infobank&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <p class="slidermemu ingobanksnav">
+            	<a href="/info_index.php">Info Cover Page</a>
+                <a href="/infobank.php?sort=az">A to Z List</a>
+        	</p>
+        </li>
+        <li>
+        	<a href="/food.php" id="foodsnav" style="display:block;">Food & Wine&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+        	<p class="slidermemu foodsnav">
+            	<a href="/food.php">F&W Cover Page</a>
+            	<a href="/wine.php">All F&W News</a>
+           		<a href="/wine.php?type=WOX+Cooking+Recipes">WOX Cooking Recipe</a>
+                <a href="/menu.php">Today's Menu</a>
+        	</p>
+        </li>
+        <li><a href="/education/" id="edunav" style="display:block;">Edu & Learn&nbsp;&nbsp;|&nbsp;&nbsp;</a></li>
+        <li>
+        	<a href="/health.php" id="sportsnav" style="display:block;">Body & Sports&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <p class="slidermemu sportsnav">
+            	<a href="/health.php">Body & Sports Cover Page</a>
+                <a href="/disabled-world.php">Body & Para Sports</a>
+                <a href="/health_all.php">Body & Sports News</a>
+                <a href="/xiamen_sports_club.php">Xiamen Sports</a>
+            </p>
+        </li>
+        <li>
+        	<a href="/ent.php" id="entnav" style="display:block;">Entertainment&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <p class="slidermemu entnav">
+            	<a href="/ent.php">Entertainment Cover Page</a>
+                <a href="/entertainment.php?type=WOX+Page3">WOX Page3</a>
+                <a href="/ent_all.php?more=all">All Entertainment News</a>
+            </p>
+        </li>
+        <li>
+        	<a href="/tech.php" id="technav" style="display:block;">Tech&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <p class="slidermemu technav">
+            	<a href="/tech.php">Tech's Cover Page</a>
+                <a href="/china-trade-invest.php">Trade & Investment</a>
+                <a href="/tech_list.php?more=all">All Tech & Sc News</a>
+                <a href="/invest_list.php?type=Trade+%26+Commence+News">All Trade News</a>
+            </p>
+        </li>
+        <li>
+        	<a href="/travel.php" id="travelnav" style="display:block;">Travel&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+            <p class="slidermemu travelnav">
+            	<a href="/travel.php">Travel Cover Page</a>
+                <a href="/travel_all.php?traveltype=Travel+in+Xiamen">Travel in Xiamen</a>
+                <a href="/travel_all.php?traveltype=Fujian+Travel">Fujian Travel</a>
+                <a href="/travel_all.php?traveltype=all">All Travel News</a>
+            </p>
+        </li>
+        <li><a href="/photo.php" id="photonav" style="display:block;">Photo</a></li>
+	</ul>
+</div> 	    </div>
+        <div id="logo-title">Entertainment</div>
+   	</div>
+
+   
+
+
+<div id="news_box">
+<div id="news_topbar" style="height:120px; border:1px solid #6AB5B5;">
+    <div id="news_cname" ><a href="/ent.php">Entertainment</a></div> 
+    <div id="news_links"> 
+    <a href="entertainment.php?type=Books+Online" title="Books Online" >Books Online</a>
+<a href="entertainment.php?type=Celebrity+Gossip" title="Celebrity Gossip" >Celebrity Gossip</a>
+<a href="entertainment.php?type=Cultural" title="Cultural" >Cultural</a>
+<a href="entertainment.php?type=DVDs%2C+Movies+%26+Music" title="DVDs, Movies & Music" >DVDs, Movies & Music</a>
+<a href="entertainment.php?type=Entertainment+in+Video" title="Entertainment in Video" >Entertainment in Video</a>
+<a href="entertainment.php?type=Fashion" title="Fashion" >Fashion</a>
+<a href="entertainment.php?type=Home+Entertainment" title="Home Entertainment" >Home Entertainment</a>
+<a href="entertainment.php?type=IT+%26+Internet" title="IT & Internet" >IT & Internet</a>
+<a href="entertainment.php?type=Pubs%2C+Clubs+%26+Discos" title="Pubs, Clubs & Discos" >Pubs, Clubs & Discos</a>
+<a href="entertainment.php?type=Shopping" title="Shopping" >Shopping</a>
+<a href="entertainment.php?type=Showbiz+-+Asia" title="Showbiz - Asia" >Showbiz - Asia</a>
+<a href="entertainment.php?type=Showbiz+-+West" title="Showbiz - West" >Showbiz - West</a>
+<a href="entertainment.php?type=WOX+Page3" title="WOX Page3" >WOX Page3</a>
+<a href="entertainment.php?type=WOXpage3+Men" title="WOXpage3 Men" >WOXpage3 Men</a>
+
+    
+     </div> 
+    </div>  
+    
+    
+  <div id="news_box_main2" style="border:1px solid #C0E0E0; ">
+        <div id="nl1">
+     <div id="news_links_nav"><a href="ent.php">Entertainment</a> &gt; <a href="entertainment.php?type=Health+%26+TCM">Health & TCM</a>  &gt; <strong>Chinese raisin tree extraction could cure hangover: study</strong> </div>
+     
+     
+     <div id="news_box_left1" style="border-right:none; width:570px; padding-left:5px; padding-right:5px; padding-top:5px; margin-left:0px; margin-right:0px;">
+     
+     <div id="news_content">
+      <h1 class="newstitle" style="margin-bottom:5px; padding-left:0px;" >Chinese raisin tree extraction could cure hangover: study</h1>
+      <div id="news_tips" style="clear:both; height:25px; margin-bottom:8px; border-bottom:1px dashed #E6E6E6;">
+       <div class="newstime" style="float:left; width:160px; margin:0px; padding:0px;"><font color="black" size="2">Updated:&nbsp;2012-01-17</font></div> <div class="news_tool" style="float:right; width:380px;"><font size="2" color="blue">Share this news?...Click box&nbsp;&nbsp;</font>
+				    <!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="whatsonxiamen";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END --></div>
+      </div>
+     
+     
+     <div id="news_tag"> Read more on:
+             <a href="tag-alcohol+dependency.html">alcohol dependency</a>&nbsp;&nbsp;
+              <a href="tag-Chinese+Raisin+Tree+extract.html">Chinese Raisin Tree extract</a>&nbsp;&nbsp;
+              <a href="tag-herbal+hangover+cure.html">herbal hangover cure</a>&nbsp;&nbsp;
+              </div>
+       
+       
+      
+      <div id="news_contet_body" style="width:560px; overflow:hidden;" >
+      
+
+        
+        <div align="center">&nbsp;<a target="_blank" href="http://www.whatsonxiamen.com/ent_images/d41aef6bd5d0d2b6b415b587_hangover_cure.jpg"><img alt="" width="500" height="333" src="http://www.whatsonxiamen.com/ent_images/d41aef6bd5d0d2b6b415b587_hangover_cure.jpg" /></a></div>
+<div align="center"><font color="#0000ff">Hangover cure may be in the herb, says researcher </font></div>
+<div align="center"><a href="http://www.whatsonxiamen.com/ent_images/d08c8ade8ef770105b50c300_herbal_hangover_cure.jpg"><font size="2"></font></a></div>
+<div align="center"><a href="http://www.whatsonxiamen.com/ent_images/d08c8ade8ef770105b50c300_herbal_hangover_cure.jpg"><font size="2"><img alt="" width="460" height="296" src="http://www.whatsonxiamen.com/ent_images/d08c8ade8ef770105b50c300_herbal_hangover_cure.jpg" /></font></a></div>
+<div align="center"><font color="#0000ff" size="2">Hovenia is an extract from the Chinese Raisin Tree.</font></div>
+<div align="center"><font size="2">&nbsp;</font></div>
+<div align="justify"><font size="2">If you&rsquo;re having trouble reading this because your head is pounding from too many drinks last night, help may be on the way. <br />
+<br />
+Of course, you&rsquo;ll have to wait until scientists perfect their theory. <br />
+<br />
+Researchers have uncovered a compound in an ancient Chinese herbal medicine that has been found to stop hangovers and to reduce alcohol dependency in rats, according to a recent study published in the Journal of Neuroscience. <br />
+<br />
+If the compound is proven to have the same effect in humans, it could help pave the way to a cure for alcoholism, said Dr. Jing Liang, the study&rsquo;s lead author and an associate professor of pharmacology at the University of California in Los Angeles, in an interview with Postmedia News. <br />
+<br />
+For others who enjoy an occasional drink but would rather not endure the pounding hangover headache the next day, taking the compound also could be &ldquo;an easy way to erase the uncomfortable feelings,&rdquo; said Liang. <br />
+<br />
+Hovenia is an extract from the Chinese Raisin Tree. <br />
+<br />
+In Asia, Liang said hovenia has been taken as an herbal supplement to treat hangovers for at least 500 years. <br />
+<br />
+However, the effectiveness of hovenia as a drug to treat alcohol dependency has never before been closely studied. <br />
+<br />
+Liang said she became interested in taking a closer look at hovenia when she noticed that when people consumed alcohol along with food cooked with hovenia &mdash; as it is also a spice used for cooking in Asia &mdash; they seemed to avoid getting drunk. <br />
+<br />
+In order to study how hovenia works, Liang said she needed to isolate the specific compound that was blocking the effect of alcohol. <br />
+<br />
+The answer turned out to be dihydromyricetin, or DHM. <br />
+<br />
+Liang and her research team at UCLA began testing the compound on rats. <br />
+<br />
+They devised a series of tests to determine what would happen to rats if they were given just alcohol, or alcohol along with DHM. <br />
+<br />
+For the group given alcohol, the rats&rsquo; behaviour when intoxicated was not unlike that of humans, she said. <br />
+<br />
+When you give a rat alcohol, they act &ldquo;totally like a human,&rdquo; said Liang. &ldquo;You give an animal alcohol and then they&rsquo;re drunk, and they lose consciousness. They go to sleep.&rdquo; <br />
+<br />
+But the rats who were given alcohol plus DHM, showed no signs of intoxication, Liang said. <br />
+<br />
+&quot;They don&rsquo;t (get) drunk,&rdquo; said Liang. &ldquo;It was amazing. I was so excited.&rdquo; <br />
+<br />
+The rats in the alcohol group slept for about 70 minutes, while those in the DHM group only slept for about 10 minutes. Others didn&rsquo;t sleep at all, she said. <br />
+<br />
+In another test, the researchers administered DHM to rats who were given alcohol for a prolonged period of time. Their symptoms of alcohol dependency were significantly reduced. <br />
+<br />
+&ldquo;From this experiment, even if you establish a high drinking level of alcohol and then give them DHM, their dependence will reduce,&rdquo; said Liang. <br />
+<br />
+The rats given DHM along with alcohol did not have any hangover symptoms either, she said. <br />
+<br />
+The next step, if she is able to secure enough funding, is to test the study&rsquo;s findings in human clinical trials, said Liang. <br />
+<br />
+She expects to see the same results in humans, and without any negative side effects. <br />
+<br />
+&quot;For more than 500 years (that hovenia has been used as a supplement), there have been no reports of poison or toxicity,&rdquo; she said. &ldquo;It&rsquo;s really safe.&rdquo; <br />
+<br />
+Liang&rsquo;s goal is to turn DHM into a medication, possibly in a gum, patch or spray-form, she said. She already has patented her idea. <br />
+<br />
+Alcohol-use disorders are a major public-health problem around the world, said Liang. <br />
+<br />
+In her study, she wrote that there are only three medications &mdash; oral naltrexone, acamprosate and disulfiram &mdash; currently approved for treating alcohol dependence by the U.S. Food and Drug Administration. <br />
+<br />
+However, Liang said these drugs have major side-effects and have not been proven effective in treating the disorders. <br />
+<br />
+Bernard Le Foll, a pharmacology professor at the University of Toronto, said the study&rsquo;s findings are &ldquo;very promising&rdquo; for the treatment of alcohol addiction. <br />
+<br />
+&quot;I think it&rsquo;s very interesting,&rdquo; he told Postmedia News. &ldquo;It&rsquo;s building on the use of an old plant in Chinese medicine and they seem to have been able to isolate what seems to be the active ingredient.&rdquo; <br />
+<br />
+However, Le Foll does not recommend people start taking hovenia to treat their hangovers just yet. <br />
+<br />
+&quot;More experiments need to be done. We need to validate this in human subjects,&rdquo; he said. &ldquo;But what is clear from this experiment is that . . . some drugs appear to accelerate the elimination of alcohol from the body, and also it seems to reduce the desire to drink alcohol.&rdquo; <br />
+<br />
+<strong>SOURCE: <a  target="_blank"  rel="nofollow" href="http://www.vancouversun.com/health/Hangover+cure+herb+says+UCLA+researcher/5997380/story.html"  >Vancouver Sun</a></strong></font></div>
+<div align="justify"><font size="2">&nbsp;</font></div>
+<div style="text-align: justify; padding-bottom: 0px; widows: 2; text-transform: none; text-indent: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; font: 12px arial; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px" twffan="done" align="justify"><strong style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><font size="2"><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; color: rgb(204,0,0); font-size: 18pt; padding-top: 0px" twffan="done">Editorial Mes</span></font><font style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; color: rgb(204,0,0); font-size: 18pt; padding-top: 0px" twffan="done">sage</span></font></font></font></font></font></font></font></font></font></font></strong></div>
+<div style="text-align: justify; padding-bottom: 0px; widows: 2; text-transform: none; text-indent: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; font: 12px arial; white-space: normal; orphans: 2; letter-spacing: normal; color: rgb(0,0,0); word-spacing: 0px; padding-top: 0px; webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px" twffan="done" align="justify"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; color: black; font-size: 10pt; padding-top: 0px" twffan="done">This site contains materials from other clearly stated media sources for the purpose of discussion stimulation and content enrichment among our members only.<span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"> </span></span></span></span></span><br style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" />
+whatsonxiamen.com does not necessarily endorse their views or the accuracy of their content. For copyright infringement issues please contact<span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"><span style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px" class="Apple-converted-space" twffan="done"> </span></span></span></span></span><a style="padding-bottom: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; color: rgb(0,51,102); text-decoration: none; padding-top: 0px" href="mailto:editor@whatsonxiamen.com">editor@whatsonxiamen.com</a></span></div>        
+                 
+        
+      </div>
+      
+     </div>
+     
+   
+  
+  
+     
+     
+
+ 
+     
+<div id="news_share"><font size="2" color="blue">Share this news?...Click box&nbsp;&nbsp;</font>
+				    <!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_pub="whatsonxiamen";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END --></div>
+
+  
+  
+  
+  
+    <div>
+		<img style="margin-top:3px" src="adv_images/qrcode-Entertainment.jpg">
+	</div>
+  
+  <div id="news_pre">
+   <b>Previous News:</b> <a href='ent3718.html'>Kelly Brook peels off in new lingerie campaign for New Look</a></br><b>Next News:</b> <a href='ent3715.html'>Bosco defends for gf Myolie who allegedly paid to sleep with rich </a>  </div>
+  
+
+   <div id="news_comments">
+       <div id="news_comments_title">Comments Area ( Total Comments: <span class="font_red">0</span> )</div>
+    <div id="news_com_box">
+     <div id="news_com_list">
+            </div>
+     <div id="news_com_form">
+          <table border="0" cellspacing="0" cellpadding="0" width="98%">			 
+				<tr>
+                    <td valign="top"><a href="signin.html"><img src="images/btn_login.gif" /></a>&nbsp;&nbsp;</td>
+                    <td align="left"><textarea name="message" wrap="hard" rows="10" cols="40" style="width:450px; height:80px;font-family:arial;">Before posting a comment, click the LOGIN bar on the left</textarea></td>
+                </tr>
+                
+			  
+	          </table>
+			  
+			                </div>
+    </div>
+   </div>
+     </div>
+    </div>
+    
+    
+    <div id="nl2">
+     <div id="news_box_left2" style="margin:0px; padding:0px; width:200px;">
+     
+
+    <div class="news_right_box" style="border-top:none;" >
+ <h2>Other news you maybe interested</h2>
+ <ul>
+  </ul>
+ </div>
+ 
+ 
+ <div class="news_right_box" >
+ <h2>Health & TCM General Guides</h2>
+ <ul>
+  </ul>
+ </div>
+ 
+ 
+ <div class="news_right_box" >
+ <h2>Most Popular</h2>
+ <ul>
+  </ul>
+ </div>  
+  
+ 
+
+ 
+ 
+ 
+ <div class="news_right_box"> 
+  <h2>Latest Comments</h2>   
+ <ul >
+ <li><a href="ent2025.html">2011 Guinness World Records, big focus on animal achievements (4)</a></li> 
+  <li><a href="ent4436.html">Ex-HK actress Jacqueline Law, 45, dies of cancer at S'pore home (3)</a></li> 
+  <li><a href="ent1001.html">Taylor Mosemsen is latest face of New Look (1)</a></li> 
+  <li><a href="ent7978.html">'Monkey King' ends theater run as highest Chinese animation (1)</a></li> 
+  <li><a href="ent4243.html">Chinese starlet Zhu Zhu shot to fame over kiss with Lapo Elkann (5)</a></li> 
+  </ul>
+  
+ </div>
+   
+      
+   
+   
+ 
+ <div class="news_right_box2">
+ <h2>WOXpage3 Girls</h2>
+  <div id="page3_list">
+    <table width="190" border="0" cellspacing="0" cellpadding="0" class="page3_table">
+  <tr>
+    <td width="54%"><div class="page3_corp"><a href="photoshow3.php?showid=107303&topic=Lily, a 22-year-old WOX cheerleader&page=6" ><img src="photo_images/1_1751.jpg" alt="Lily, a 22-year-old WOX cheerleader" width="100" title="Lily, a 22-year-old WOX cheerleader" /></a></div></td>
+    <td width="46%" valign="top"><div id="page3_title"><a href="photoshow3.php?showid=107303&topic=Lily, a 22-year-old WOX cheerleader&page=6" >
+      Lily, a 22-year-old WOX cheerleader    </a></div></td>
+  </tr>
+</table>
+
+
+     <table width="190" border="0" cellspacing="0" cellpadding="0" class="page3_table">
+  <tr>
+    <td width="54%"><div class="page3_corp"><a href="photoshow3.php?showid=107299&topic=Yanna, a 28-year-old WOX cheerleader&page=3" ><img src="photo_images/1_1535.jpg" alt="Yanna, a 28-year-old WOX cheerleader" width="100" title="Yanna, a 28-year-old WOX cheerleader" /></a></div></td>
+    <td width="46%" valign="top"><div id="page3_title"><a href="photoshow3.php?showid=107299&topic=Yanna, a 28-year-old WOX cheerleader&page=3" >
+      Yanna, a 28-year-old WOX cheerleader    </a></div></td>
+  </tr>
+</table>
+
+
+     <table width="190" border="0" cellspacing="0" cellpadding="0" class="page3_table">
+  <tr>
+    <td width="54%"><div class="page3_corp"><a href="photoshow3.php?showid=107293&topic=Yuan Yuan, a 20-year-old WOX cheerleader&page=5" ><img src="photo_images/webwxgetmsgimg (1)_1317.jpg" alt="Yuan Yuan, a 20-year-old WOX cheerleader" width="100" title="Yuan Yuan, a 20-year-old WOX cheerleader" /></a></div></td>
+    <td width="46%" valign="top"><div id="page3_title"><a href="photoshow3.php?showid=107293&topic=Yuan Yuan, a 20-year-old WOX cheerleader&page=5" >
+      Yuan Yuan, a 20-year-old WOX cheerleader    </a></div></td>
+  </tr>
+</table>
+
+
+  
+ </div>
+ <div style="clear:both"></div>
+ <div align="right"><a href="photo.php?type=WOXpage3+Girls"><font size="2" color="blue"><b>&raquo;More</b></font></a></div>
+ </div>
+ 
+ 
+ 
+ 
+       <div class="news_right_box2">
+ <h2>Photo Gallery</h2>
+ <ul>
+    
+ <li class="photo_li"><a href="photoshow3.php?showid=105205&topic=Legendary screen siren Elizabeth Taylor dies from heart failure at age 79&page=16" ><img src="photo_images/1_3632.jpg"  width="90" height="90" alt="Legendary screen siren Elizabeth Taylor dies from heart failure at age 79" title="Legendary screen siren Elizabeth Taylor dies from heart failure at age 79" /></a></li> 
+     
+ <li class="photo_li"><a href="photoshow3.php?showid=105170&topic=Fan Bingbing graces Hong Kong's bazaar&page=4" ><img src="photo_images/fan 5_2459.jpg"  width="90" height="90" alt="Fan Bingbing graces Hong Kong's bazaar" title="Fan Bingbing graces Hong Kong's bazaar" /></a></li> 
+     
+ <li class="photo_li"><a href="photoshow3.php?showid=105001&topic=Fan Bingbing on Cover of 'ELLE'&page=5" ><img src="photo_images/fan 6_0121.jpg"  width="90" height="90" alt="Fan Bingbing on Cover of 'ELLE'" title="Fan Bingbing on Cover of 'ELLE'" /></a></li> 
+     
+ <li class="photo_li"><a href="photoshow3.php?showid=104642&topic=Taiwanese pop singer Jolin Tsai's fan meeting at Kah Kee Stadium in Xiamen&page=5" ><img src="photo_images/6_4218.jpg"  width="90" height="90" alt="Taiwanese pop singer Jolin Tsai's fan meeting at Kah Kee Stadium in Xiamen" title="Taiwanese pop singer Jolin Tsai's fan meeting at Kah Kee Stadium in Xiamen" /></a></li> 
+  
+ </ul>
+ <div style="clear:both"></div>
+ <div align="right"><a href="photo.php"><font size="2" color="blue"><b>&raquo;More</b></font></a></div>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ 
+     </div>
+    </div>
+    
+    
+    <div id="nl3">
+    <h2 style="text-align:left; margin-bottom:5px; padding-left:5px; color:blue; font-size:12px; padding-top:5px;  ">Health & TCM</h2>
+            
+   <div class="special_news">
+   <a href="ent7213.html"><img src="ent_images/T_082c82cfc853edefac6f94db.jpg"  alt="Monk from Quanzhou breaks record of walking on water" width="134"/></a>
+   <div>
+   <h5 style="font-size:12px; text-align:left; padding-left:5px;"><a href="ent7213.html" >Monk from Quanzhou breaks record of walking on water</a></h5>
+   <div style="text-align:left; margin-top:5px; padding-left:5px;"><a href="ent7213.html" >Monk Shi Liliang runs on wooden planks on the water at Caobang Reservoir in Quanzhou city, southeast China's Fujian pr...</a></div>
+       
+    </div>
+    
+     </div> 
+         
+   <div class="special_news">
+   <a href="ent6883.html"><img src="ent_images/moxibustion_1d13f6039547839c4fb8f432.jpg"  alt=" Fuzhou residents receive moxibustion treatment in summer days" width="134"/></a>
+   <div>
+   <h5 style="font-size:12px; text-align:left; padding-left:5px;"><a href="ent6883.html" > Fuzhou residents receive moxibustion treatment in summer days</a></h5>
+   <div style="text-align:left; margin-top:5px; padding-left:5px;"><a href="ent6883.html" >Moxibustion treatment in summer days 
+&nbsp;
+
+
+Moxibustion treatment in summer days 
+&nbsp;
+Residents receive in...</a></div>
+       
+    </div>
+    
+     </div> 
+         
+   <div class="special_news">
+   <a href="ent5981.html"><img src="ent_images/T_b5eae2b43c9afc6d0948bb28.jpg"  alt="Acupuncture improves eyesight for retinitis pigmentosa, study" width="134"/></a>
+   <div>
+   <h5 style="font-size:12px; text-align:left; padding-left:5px;"><a href="ent5981.html" >Acupuncture improves eyesight for retinitis pigmentosa, study</a></h5>
+   <div style="text-align:left; margin-top:5px; padding-left:5px;"><a href="ent5981.html" >Acupuncture improves eyesight for retinitis pigmentosa, study
+&nbsp;
+A new pilot study finds acupuncture effective i...</a></div>
+       
+    </div>
+    
+     </div> 
+         
+   <div class="special_news">
+   <a href="ent5919.html"><img src="ent_images/china tmc_f203d4bc041107dcfb406a7d.jpg"  alt="China launches 1st census on TCM resources in over 2 decades" width="134"/></a>
+   <div>
+   <h5 style="font-size:12px; text-align:left; padding-left:5px;"><a href="ent5919.html" >China launches 1st census on TCM resources in over 2 decades</a></h5>
+   <div style="text-align:left; margin-top:5px; padding-left:5px;"><a href="ent5919.html" >Businessmen select materials for traditional Chinese medicine at a TCM trade center in Bozhou, Anhui province.[China D...</a></div>
+       
+    </div>
+    
+     </div> 
+        
+       
+      
+      
+
+      
+
+
+    
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+    <div style="clear:both;"></div>
+   
+
+
+</div>
+
+
+
+<div style="clear:both"> &nbsp;</div>
+
+
+</div>
+
+
+</div>
+<div style="clear:both"></div>
+
+
+      <div id="footer">
+	                <a href="/about_us.php" target="_blank" rel="nofollow">About Us</a> | 
+		  <a href="/teams.php" target="_blank" rel="nofollow">Terms of Service</a> |  
+		  <a href="/policy.php" target="_blank" rel="nofollow">Privacy Policy</a> | <a href="/" target="_blank">Xiamen</a> | <a href="/sitemap.php" target="_blank">Sitemap</a> | <a href="/archive/" target="_blank">Archive</a> | <a href="/rss">Rss</a>  | 
+		   <a href="/links.php" target="_blank">Links</a> | 
+		  <a href="/contact.php" target="_blank" rel="nofollow">Contact Us
+          </a> 
+          <br />
+            Copyright 2006-2014 <strong><a href="http://www.whatsonxiamen.com">Whats On Xiamen</a></strong>  , Inc. All rights reserved.
+<br />
+          Reproduction in whole or in part without permission is prohibited.
+		  <div style="text-align:center; height:20px;">
+              <u>Min ICP06020464-1</u>		    
+              <a href="/newrss/"><img src="/images/rss.jpg" width="18" height="18" border="0" /></a> 
+              <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_4349224'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s6.cnzz.com/stat.php%3Fid%3D4349224%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+          </div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1954183-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+	  
+	  
+     </div>
+     
+</body>
+</html>

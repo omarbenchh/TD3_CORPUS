@@ -1,0 +1,1693 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>正北方网|内蒙古第一门户网站-内蒙古网友生活圈-内蒙古移动互联新门户</title>
+<meta name="Keywords" content="正北方网,内蒙古,内蒙古日报社,新闻,视频,图片,内蒙古新闻,财经,微信,旅游,体育,娱乐,社会,军事,呼和浩特,包头,鄂尔多斯,赤峰,通辽,乌海,巴彦淖尔,阿拉善,乌兰察布,呼伦贝尔,锡林郭勒,兴安" />
+<meta name="Description" content="正北方网(北方新闻网http://www.northnews.cn)———内蒙古地区点击量最高、影响力最大的综合性门户网站，是国务院新闻办批准的国家一类新闻网站。内蒙古,内蒙古日报,内蒙古新闻,政务,视频,图片,突发,评论,访谈,财经,旅游,体育,娱乐,社会,军事,微博,微信,呼和浩特,包头,鄂尔多斯,赤峰,通辽,乌海,巴彦淖尔,阿拉善,乌兰察布,呼伦贝尔,兴安,锡林郭勒" /> 
+<meta name="author" content="正北方网"/>  
+<meta name="Copyright" content="正北方网"/>
+<link href="css/20141017.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body,td,th {
+	font-family: "Microsoft YaHei", "微软雅黑", SimHei, "黑体";
+} 
+.nmgnew,.nmgnew .nmgnew-01,.nmgnew .nmgnew-02,.nmgnew .nmgnew-03{height:774px;}
+.nmgnew-03 .dubao{margin-top:12px;}
+.nmgnew-03 li{margin-bottom:32px;}
+</style>
+<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="js/slider.js"></script> 
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/js.js"></script>
+<script type="text/javascript">
+        function switchTabt(n){
+            for(var i = 1; i <= 13; i++){
+                document.getElementById("tabt_" + i).className = "";
+                document.getElementById("tab_cont_" + i).style.display = "none";
+            }
+            document.getElementById("tabt_" + n).className = "on";
+            document.getElementById("tab_cont_" + n).style.display = "block";
+        }
+</script>
+</head>
+<body>
+<!--自宣FLASH
+    <div class="advbox">
+        <div class="advpic">
+                <div class="closebtn"><a href="javascript:void(0);" ><img src="images/close.png" /></a></div>
+                <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="980" height="980"><param name="movie" value="http://www.northnews.cn/flash/201408071.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="menu" value="false"><embed src="http://www.northnews.cn/flash/201408071.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="980" height="980"></embed></object>
+        </div>	
+    </div>
+结束-->
+<!--
+    <div class="advbox">
+        <div class="advpic">
+                <div class="closebtn"><a href="javascript:void(0);" ><img src="images/close.png" /></a></div>
+                <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="980" height="715"><param name="movie" value="http://www.northnews.cn/2015/nmglh/images/mengshi123456.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="menu" value="false"><embed src="http://www.northnews.cn/2015/nmglh/images/mengshi123456.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="980" height="715"></embed></object>
+        </div>	
+    </div>
+-->
+<div class="top"><!--顶部-->
+      <div class="intop">
+            <div class="l-intop"><p><a href="http://www.northnews.cn/" class="hrefs" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.northnews.cn/');">设为首页</a> &nbsp;&nbsp;<a href="javascript:window.external.AddFavorite('http://www.northnews.cn/', '正北方网')">加入收藏</a></p></div>
+            <div class="fabu">
+                <ul>
+                    <li><a  href="http://weibo.com/northnews" target="_blank"><img src="images/2014/icon_06.jpg" title="正北方网新浪微博" alt="正北方网新浪微博"/></a></li>
+                    <li><a  href="http://e.t.qq.com/northnewscn" target="_blank"><img src="images/2014/icon_03.jpg" title="正北方网腾讯微博" alt="正北方网腾讯微博"/></a></li>
+                    <li><a  href="http://www.northnews.cn/about/tougao.html" target="_blank"><img src="images/2014/icon_09.jpg"  title="正北方网在线投稿" alt="正北方网在线投稿"/></a></li>
+                </ul>
+            </div>
+            <div class="lishi">
+                <p><a href="http://www.northnews.cn/news/nmjt/" target="_blank">内蒙古历史上的今天</a></p>
+            </div>
+            <div class="today" id="localtime"></div>
+                <div class="wearher">
+                    <iframe allowtransparency="true" frameborder="0" width="200" height="36" scrolling="no" src="http://tianqi.2345.com/plugin/widget/index.htm?s=3&z=2&t=0&v=0&d=3&bd=0&k=&f=&q=1&e=1&a=1&c=53463&w=190&h=36&align=center"></iframe>
+                </div>
+      </div>
+</div><!--顶部-->
+<div class="logo-ss"><!--头部-->
+	<div class="logo"><a href="http://www.northnews.cn/"><img src="images/2014/zbf-logo.gif" width="171" height="46"  title="正北方网" alt="正北方网"/></a></div>
+  	<div class="language"><img src="http://img.northnews.cn/images/langu.jpg" width="107" height="24" usemap="#Map" border="0" /><map name="Map" id="Map"><area shape="rect" coords="5,4,63,20" href="http://en.northnews.cn/"  target="_blank" title="英文版"/><area shape="rect" coords="75,4,94,30" href="http://mongol.northnews.cn/"  target="_blank"  title="蒙文版"/></map>
+ 	 </div>
+     <div class="app">
+    	<li><a href="http://www.northnews.cn/product/mobile/" class="gblue" target="_blank">新闻客户端<img src="images/2014/appico_03.jpg" width="16" height="22" /></a></li>
+        <li><a href="http://m.northnews.cn/" class="gblue" target="_blank">手机正北方<img src="images/2014/appico_05.jpg" width="14" height="22" /></a></li>
+        <li class="nob"><a href="http://video.northnews.cn/" class="gblue" target="_blank">网视正北方<img src="images/2014/appico_07.jpg" width="25" height="22" /></a></li>
+     </div>
+   	 <div class="search">
+             <form action="http://app.northnews.cn/?app=search&controller=index&action=search" method="get" name="search" id="allsearch" target="_blank">
+             <input type="hidden" name="order" value="" /><input type="hidden" value="search" name="app"/>
+             <input type="hidden" value="index" name="controller"/>
+             <input type="hidden" value="search" name="action"/>
+             <input type="hidden" value="all" name="type" />
+             <input name="wd" type="text"  class="ssbox"  id="wd"/>
+             <input id="searchid" type="submit" value=""  class="ssbutton"/>
+             </form>
+     </div>
+</div><!--头部-->
+<div class="nav"><!--导航-->
+	<div class="innav">
+		<div class="current" id="navlist">
+        	<p id="navfouce"><a href="#" class="white" target="_blank">网站导航</a></p>
+        </div>    
+        <ul  class="dao">
+        	<li><a href="http://www.northnews.cn/news.shtml" class="white" target="_blank">新闻中心</a></li>
+            <li><a href="http://video.northnews.cn/" class="white" target="_blank">TV内蒙古</a></li>
+            <li><a href="http://nmg.northnews.cn/" class="white" target="_blank">文化内蒙古</a></li>
+            <li><a href="http://life.northnews.cn/" class="white" target="_blank">生活内蒙古</a></li>
+            <li><a href="http://www.99jee.com" class="white" target="_blank">99街</a></li>
+        </ul>
+        <div class="box" id="navbox" style="height:0px;opacity:0;overflow:hidden;">
+			<div class="cont" style="display:none;">
+				<ul class="sublist clearfix">
+					<li>
+						<h3 class="mcate-item-hd"><span>新闻中心</span></h3>
+						<p class="mcate-item-bd">
+							<a href="http://www.northnews.cn/news/yaowen/" class="red">要闻</a>
+							<a href="http://www.northnews.cn/news/shizheng/">时政</a>
+							<a href="http://society.northnews.cn/">社会</a>
+							<a href="http://www.northnews.cn/news/capitalnews/">呼和浩特</a>
+							<a href="http://www.northnews.cn/news/nmgnews/">内蒙古</a>
+							<a href="http://www.northnews.cn/news/msnews/">盟市</a>
+							<a href="http://www.northnews.cn/news/dujia/">独家</a>
+                            <a href="http://video.northnews.cn/">TV内蒙古</a>
+							<a href="http://www.northnews.cn/news/nmgpic/">图说内蒙古</a>
+                            <a href="http://china.northnews.cn/">国内</a>
+							<a href="http://world.northnews.cn/">国际</a>
+                            <a href="http://ent.northnews.cn/">娱乐</a>
+							<a href="http://sports.northnews.cn/">体育</a>
+                            <a href="http://photo.northnews.cn/">读图</a>
+                            <a href="http://military.northnews.cn/">军事</a>
+                            <a href="http://xy.northnews.cn/">校园</a>
+                            <a href="http://finance.northnews.cn/">财经</a>
+                            <a href="http://www.northnews.cn/news/deepreport/">深度报道</a>
+                            <a href="http://www.northnews.cn/news/qiye/">3.15曝光</a>
+                            <a href="http://www.northnews.cn/news/internet/">科技</a>
+ 						</p>
+					</li>
+					<li>
+						<h3 class="mcate-item-hd"><span>文化内蒙古</span></h3>
+						<p class="mcate-item-bd">
+							<a href="http://nmg.northnews.cn/cywh/">草原文化</a>
+							<a href="http://www.northnews.cn/news/meilineimenggu/">最美内蒙古</a>
+							<a href="http://nmg.northnews.cn/news/qcstory/">故事内蒙古</a>
+							<a href="http://nmg.northnews.cn/news/cyrw/">草原人物</a>
+							<a href="http://nmg.northnews.cn/news/cygq/">草原音乐</a>
+							<a href="#">草原旅游</a>
+                            <a href="http://nmg.northnews.cn/news/nmgts/">内蒙古特色</a>
+							<a href="http://nmg.northnews.cn/news/resource/">矿产资源</a>
+                            <a href="http://www.northnews.cn/news/lzp/" class="red">老照片</a>
+							<a href="http://nmg.northnews.cn/news/nmy/">农牧业</a>
+							<a href="http://nmg.northnews.cn/news/xny/">新能源</a>
+						</p>
+					</li>
+					<li>
+						<h3 class="mcate-item-hd"><span>生活内蒙古</span></h3>
+						<p class="mcate-item-bd">
+							<a href="http://auto.northnews.cn/">汽车</a>
+							<a href="#">楼市</a>
+							<a href="http://food.northnews.cn/">美食</a>
+                            <a href="http://www.northnews.cn/news/lishi/">历史</a>
+                            <a href="http://www.northnews.cn/news/dushu/">读书</a>
+							<a href="http://life.northnews.cn/life/youwan/">旅游</a>
+							<a href="http://life.northnews.cn/life/shangxun/">商街</a>
+                            <a href="http://life.northnews.cn/life/licai/">理财</a>
+							<a href="http://life.northnews.cn/life/xiuxian/">休闲</a>
+							<a href="http://life.northnews.cn/life/qinzi/">亲子</a>
+							<a href="http://www.northnews.cn/news/health/">健康养生</a>
+                            <a href="http://life.northnews.cn/life/xiuchang/">秀场</a>
+							<a href="http://life.northnews.cn/life/jiaju/">家居</a>
+                            <a href="http://f.northnews.cn/" class="red">爱房网</a>
+                            <a href="http://www.kyksj.cn/portal.php" class="red">内蒙古旅游</a>
+						</p>
+					</li>
+					<li>
+						<h3 class="mcate-item-hd"><span>99街</span></h3>
+						<p class="mcate-item-bd">
+							<a href="http://www.99jee.com/forum-4-1.html" class="red">百姓呼声</a>
+							<a href="http://www.99jee.com/forum-5-1.html">我找记者</a>
+							<a href="http://www.99jee.com/forum-22-1.html">咨询律师</a>
+							<a href="http://www.99jee.com/forum-151-1.html">街友实拍</a>
+							<a href="http://www.99jee.com/forum-180-1.html">青城攻略</a>
+							<a href="http://www.99jee.com/forum-24-1.html">青城话吧</a>
+							<a href="http://www.99jee.com/forum-28-1.html">99街活动</a>
+                            <a href="http://www.99jee.com/forum-65-1.html">北方户外</a>
+                            <a href="http://www.99jee.com/forum-73-1.html">99街奶吧</a>
+                            <a href="http://www.99jee.com/forum-178-1.html">帮帮忙</a>
+						</p>
+					</li>
+					<li>
+						<h3 class="mcate-item-hd"><span>淘内蒙</span></h3>
+						<p class="mcate-item-bd">
+							<a href="http://www.taoneimeng.com/?gallery-_ANY_-b,_ANY__t,12_p,0-0---40-grid.html">内蒙古特产</a>
+							<a href="http://www.taoneimeng.com/?gallery-_ANY_-b,_ANY__t,13_p,0-0---58-grid.html">礼品中心</a>
+							<a href="http://www.taoneimeng.com/?gallery-_ANY_-b,_ANY__t,17_p,0-0---59-grid.html" class="red">最新促销</a>
+							<a href="http://www.taoneimeng.com/?gallery-89-grid.html">网上粮店</a>
+                            <a href="http://www.taoneimeng.com/?gallery-33-grid.html">家用电器</a>
+                            <a href="http://go.99jee.com/">今日团购</a>
+						</p>
+					</li>
+				</ul>
+			</div>
+    	</div>
+	</div>
+</div>
+<!--导航-->
+<!-- 直播
+<div class="norfoucs">
+	<div class="flexslider">
+	<li>
+        	<div class="img">
+              <script src='http://tv.people.com.cn/img/2010tv_flash/live.js'></script>
+<script>showTvpeopleLive({liveInfo:[5,'cctv13'],width:960,height:500});</script>
+            </div>
+        </li>
+	</div>	
+</div>
+-->
+<div class="norfoucs">
+	<div id="demo01" class="flexslider">
+	<ul class="slides">
+<li>
+        	<div class="img">
+               <a href="http://www.northnews.cn/2016/0114/2106339.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/1452738546866.jpg" width="970" height="390"/></a>
+            </div>
+        </li>
+
+		<li>
+            <div class="img">
+              	 <div class="c01">
+                                      <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106638.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_190_190_1452753879921.jpg" width="190" height="190" title="兴趣课堂里领略传统文化 " /><span class="tit2">兴趣课堂里领略传统文化 </span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106707.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_190_190_1452756619672.jpg" width="190" height="190" title="“爱在青城” 志愿者公益晚会 " /><span class="tit2">“爱在青城” 志愿者公益晚会 </span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106386.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_190_190_1452737787405.jpg" width="190" height="190" title="送戏到农家" /><span class="tit2">送戏到农家</span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0113/2106067.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0113/thumb_190_190_1452667478817.jpg" width="190" height="190" title="速滑教练贾文超的艰辛坚守" /><span class="tit2">速滑教练贾文超的艰辛坚守</span></a></div>
+                                   </div>	
+            	 <div class="c02">
+                            	     	 <div class="jia2"  style="background-color: #333;width:2700px;height:390px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106398.shtml" target="_blank"><img  src="http://upload.northnews.cn/2016/0114/thumb_270_390_1452738046424.jpg" width="270" height="390" title="社区春晚排练忙"/><span class="tit3">社区春晚排练忙</span></a></div>
+                                  </div>
+                 <div class="c03">
+                                <div class="jia3"><a href="http://www.northnews.cn/news/nmgpic/" target="_blank"><img src="http://upload.northnews.cn/2014/0805/1407210717799.jpg" width="290" height="130" title="图说内蒙古（1——7）"/></a></div>
+                                 <div class="jia4"  style="background-color: #333;width:299px;height:250px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106653.shtml" target="_blank"><img  src="http://upload.northnews.cn/2016/0114/thumb_299_250_1452754146352.jpg" width="299" height="250" title="“自动化药房”投入使用 "/><span class="tit5">“自动化药房”投入使用 </span></a></div>
+                                  </div>
+            </div>
+        </li>
+		<li>
+        	<div class="img">
+              	 <div class="c01">
+                                      <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0115/2106945.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_190_190_1452822229953.jpg" width="190" height="190" title="女子摔倒在铁轨上后火车驶过 毫发无伤" /><span class="tit2">女子摔倒在铁轨上后火车驶过 毫发无伤</span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0115/2106968.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_190_190_1452822710852.jpg" width="190" height="190" title="吉林一江桥长出“擎天冰柱”成奇观" /><span class="tit2">吉林一江桥长出“擎天冰柱”成奇观</span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0115/2106949.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_190_190_1452822296901.jpg" width="190" height="190" title="泰坦巨龙骨架亮相纽约 或为地球已知最大生物" /><span class="tit2">泰坦巨龙骨架亮相纽约 或为地球已知最大生物</span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106330.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_190_190_1452736211780.jpg" width="190" height="190" title="3D煎饼打印机 “画饼充饥”成现实" /><span class="tit2">3D煎饼打印机 “画饼充饥”成现实</span></a></div>
+                                   </div>	
+            	 <div class="c02">
+                            	     	 <div class="jia2"  style="background-color: #333;width:2700px;height:390px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106697.shtml" target="_blank"><img  src="http://upload.northnews.cn/2016/0114/thumb_270_390_1452755844812.jpg" width="270" height="390" title="德国木匠发明“精子开关” 不用结扎"/><span class="tit3">德国木匠发明“精子开关” 不用结扎</span></a></div>                                  </div>
+                 <div class="c03">
+                            	     	<div class="jia3"><a href="http://www.northnews.cn/photo/" target="_blank"><img src="http://upload.northnews.cn/2014/0805/1407210730598.jpg" width="290" height="130" title="看中国看世界（7——14）"/></a></div>
+                                   <div class="jia4"  style="background-color: #333;width:299px;height:250px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0115/2106862.shtml" target="_blank"><img  src="http://upload.northnews.cn/2016/0115/thumb_299_250_1452818253288.jpg" width="299" height="250" title="85岁老汉剪碎14万人民币 儿子仨月拼出10万8"/><span class="tit5">85岁老汉剪碎14万人民币 儿子仨月拼出10万8</span></a></div>                                  </div>
+            </div>
+        </li>
+		<li>
+        	<div class="img">
+              	 <div class="c01">
+                                      <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0115/2106977.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_190_190_1452823019864.jpg" width="190" height="190" title="刘涛浅笑妩媚 优雅知性显成熟" /><span class="tit2">刘涛浅笑妩媚 优雅知性显成熟</span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106370.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_190_190_1452737097941.jpg" width="190" height="190" title="袋鼠妈妈临死前一幕 试图握住宝宝的手" /><span class="tit2">袋鼠妈妈临死前一幕 试图握住宝宝的手</span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106700.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_190_190_1452755960788.jpg" width="190" height="190" title="阔太李嘉欣牵老公逛街 十指紧扣秀恩爱" /><span class="tit2">阔太李嘉欣牵老公逛街 十指紧扣秀恩爱</span></a></div>
+                                       <div class="jia" style="background-color: #333;width:190px;height:190px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106578.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_190_190_1452742191726.jpg" width="190" height="190" title="水下行走" /><span class="tit2">水下行走</span></a></div>
+                                   </div>	
+            	 <div class="c02">
+                            	     	 <div class="jia2"  style="background-color: #333;width:2700px;height:390px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0114/2106390.shtml" target="_blank"><img  src="http://upload.northnews.cn/2016/0114/thumb_270_390_1452737972125.jpg" width="270" height="390" title="陶虹时尚大片曝光"/><span class="tit3">陶虹时尚大片曝光</span></a></div>                                  </div>
+                 <div class="c03">
+                            	     	<div class="jia3"><a href="http://www.northnews.cn/news/yulezutu/" target="_blank"><img src="http://upload.northnews.cn/2014/0805/1407210740727.jpg" width="290" height="130" title="娱乐体育（15——21）"/></a></div>
+                                   <div class="jia4"  style="background-color: #333;width:299px;height:250px;overflow:hidden;"><a href="http://www.northnews.cn/2016/0115/2106809.shtml" target="_blank"><img  src="http://upload.northnews.cn/2016/0115/thumb_299_250_1452813612456.jpg" width="299" height="250" title="小S出席时尚派对 一袭低胸洋装大秀性感"/><span class="tit5">小S出席时尚派对 一袭低胸洋装大秀性感</span></a></div>                                  </div>
+            </div>
+        </li>
+
+
+	</ul>
+	</div>
+</div>
+
+<div class="wp"><!--外层-->
+    <div class="headline"><!--头条-->
+	<div class="l-line"><h1><a href="http://www.northnews.cn/2016/0115/2106801.shtml" target="_blank" class="red">内蒙古从2017年起实施地方免费师范生计划</a></h1>
+     <p><a href="http://www.northnews.cn/news/150125-1/#g1511710=1" target="_blank" class="red">习近平总书记考察内蒙古这一年</a></p>
+    
+    </div>
+    	<div class="r-line"><h1><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1110474&page=" target="_blank" class="red">【投票啦】寻找内蒙古最“牛”人</a></h1></div>
+    
+    </div><!--头条-->
+    
+     <div class="sponsor" style="margin-top:20px"><a href="http://www.oceanflowerisland.com/" target="_blank"><img src="http://upload.northnews.cn/2016/0115/1452849749700.gif"  width="980" height="60"/></a></div>
+     
+    <div class="newstx"><!--12月改的新闻部分-->
+    	<div class="nmgtit">
+        	<div class="nmgleft"><span><a href="http://www.northnews.cn/news/yaowen/" target="_blank">要闻</a> | <a href="http://www.northnews.cn/news/nmgsocial/" target="_blank">社会</a> | <a href="http://www.northnews.cn/news/capitalnews/" target="_blank">呼和浩特</a> |  <a href="http://www.northnews.cn/news/msnews/baotou/" target="_blank">包头</a> | <a href="http://www.northnews.cn/news/msnews/" target="_blank">盟市</a> | <a href="http://www.northnews.cn/news/clcpinlun/" target="_blank">V评</a> | <a href="http://www.northnews.cn/news/nmgpic/" target="_blank">图说</a> | <a href="http://www.northnews.cn/photo/" target="_blank">读图</a> | <a href="http://www.northnews.cn/tishi/" target="_blank">今日提示</a> | <a href="http://www.northnews.cn/news/150303-2/index.shtml#g1542926=1" target="_blank" class="red">弘扬雷锋精神</a></span></div>
+            <div class="hours24">24小时新闻热点：<a href="http://www.northnews.cn/hot/nmg.shtml" target="_blank" class="red">【内蒙古】</a><a href="http://www.northnews.cn/hot/" target="_blank"class="red">【环球】</a></div>
+        </div>
+    	<div class="nmgnew"><!--新闻上半部分-->
+        	<div class="nmgnew-01">
+           	  	<h2><a href="http://nmg.northnews.cn/2016/0114/2106362.shtml" target="_blank">跑好非遗传承的接力赛 </a></h2>
+              	<div class="linebox"><a href="http://nmg.northnews.cn/2016/0114/2106362.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_200_120_1452737032773.jpg" width="200" height="120" /></a><p><a href="http://nmg.northnews.cn/2016/0114/2106362.shtml" target="_blank" class="grey">近几个月，内蒙古自治区非物质文化遗产保护中心对蒙古族长调民歌、四胡、马头琴音乐、蒙古族服饰、好来宝等国家级非物质文化遗产的8名传承人进行了抢救性采录，每位传承人口述采访时长在5小时以上。抢救性记录工作形成的录音、录像、文字记录等影音及图书资料，进行必要的素材加工或数字化加工后，纳入内蒙古非物质文化遗产数据库。传承人是非物质文化遗产的传承主体，很多优秀传统文化，通过他们的言传身教保留了下来，记忆着草原历史，延续着文化根脉。但是，我们不得不面对的是，当前，一些传统绝技绝艺正面临着因传承人的去世而绝迹的现实。据</a></p></div>
+    
+              <div class="box_hots">
+                    <h3><a href="http://www.northnews.cn/2016/0114/2106274.shtml" target="_blank">内蒙古标准化卫生室全覆盖获去年十大新举措提名</a></h3>
+                        <h3><a href="http://www.northnews.cn/2016/0114/2106632.shtml" target="_blank">内蒙古非物质文化遗产年货展暨传统文化月月传活动公告</a></h3>
+                        <h3><a href="http://www.northnews.cn/2016/0113/2105775.shtml" target="_blank">内蒙古全面推广增值税电子发票 </a></h3>
+    				</div>
+              <div class="box_hots">
+                    <h2><a href="http://www.northnews.cn/2016/0114/2106757.shtml" target="_blank">内蒙古26家企业在新三板挂牌 </a></h2>
+    					<h3><a href="http://www.northnews.cn/2016/0114/2106328.shtml" target="_blank">满洲里口岸去年通关542列中欧班列</a></h3>
+					<h3><a href="http://www.northnews.cn/2016/0114/2106715.shtml" target="_blank">中俄最大陆路口岸去年出口果蔬逾2亿美元</a></h3>
+				</div>
+              <div class="box_hots">
+                    <h2><a href="http://www.northnews.cn/2016/0114/2106491.shtml" target="_blank">13个慈善助医项目救助重特大疾病患者</a></h2>
+    					<h3><a href="http://www.northnews.cn/2016/0114/2106282.shtml" target="_blank">13家法院被确定为内蒙古改革示范法院</a></h3>
+					<h3><a href="http://www.northnews.cn/2016/0113/2105707.shtml" target="_blank">内蒙古8家乡镇卫生院获评全国“最满意的乡镇卫生院”</a></h3>
+				</div>
+              <div class="box_hots">
+                    <h2><a href="http://www.northnews.cn/2016/0115/2106800.shtml" target="_blank">食品生产加工小作坊将列入登记管理</a></h2>
+    					<h3><a href="http://nmg.northnews.cn/2016/0114/2106720.shtml" target="_blank">和林县盛乐古城遗址发现58座汉代瓮棺葬 </a></h3>
+					<h3><a href="http://www.northnews.cn/2016/0114/2106499.shtml" target="_blank">内蒙古两个景区进入国家创建5A级旅游景区预备名单</a></h3>
+				</div>
+              <div class="box_hots">
+                    <h2><a href="http://www.northnews.cn/2016/0115/2106799.shtml" target="_blank">今夜明晨 内蒙古东部林区将现极寒天气</a></h2>
+    					<h3><a href="http://www.northnews.cn/2016/0114/2106778.shtml" target="_blank">15张身份证寻找主人 </a></h3>
+					<h3><a href="http://www.northnews.cn/2016/0114/2106713.shtml" target="_blank">申请低保需要提供哪些材料？</a></h3>
+				</div>
+            </div>
+            <div class="nmgnew-02">
+           	  	<div class="sh-tit"><h1><span><a href="http://www.northnews.cn/news/nmgsocial/" target="_blank">更多>></a></span><a href="http://www.northnews.cn/news/nmgsocial/" target="_blank" class="red">社会</a></h1></div>
+                <div class="sh-top">
+           	    	<a href="http://www.northnews.cn/2016/0115/2106934.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_260_160_1452824901648.png" width="260" height="160" /></a><p><a href="http://www.northnews.cn/2016/0115/2106934.shtml" target="_blank">废品站里现百套“内蒙古日记”</a></p>
+ 
+                </div>
+                <ul>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106967.shtml" target="_blank">为给儿女安排工作 杨某被骗35万 </a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106963.shtml" target="_blank">杀人潜逃18年 一嫌犯在包头落网 </a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106959.shtml" target="_blank">想让醉酒丈夫早点回家 妻子报假警被拘</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106956.shtml" target="_blank">熊孩子拿胶水 堵同学家锁芯 </a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106906.shtml" target="_blank">数九寒天 老人被撞倒后……</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106740.shtml" target="_blank">赤峰市达里诺尔湖天空惊现3个“太阳”</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106548.shtml" target="_blank">合同期满未续签，单位是否应支付双倍</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106544.shtml" target="_blank">想让醉酒丈夫早点回家  妻子报假警被</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106540.shtml" target="_blank">护照必须春节前办？假消息！</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106525.shtml" target="_blank">蒙古族居民能免缴新农合参合费吗？</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106515.shtml" target="_blank">包头一男子穿着“警服”跟人要债被行</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106407.shtml" target="_blank">微信传“防霾秘笈”真有效吗？  </a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106364.shtml" target="_blank">男子合同诈骗数十万 乌兰察布市多人被</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106363.shtml" target="_blank">因为妻子被打 冲动丈夫捅死打人者</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106360.shtml" target="_blank">白色奥迪逆行闯祸 呼和浩特一女子身亡</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106314.shtml" target="_blank">辟谣！“呼和浩特市地铁线路高清图”</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106303.shtml" target="_blank">赤峰破获特大贩毒案抓毒贩8名 缴获冰</a></li>
+                </ul>
+          </div>
+            <div class="nmgnew-03">
+           	  	<div class="bbstit"><span><a href="http://www.99jee.com/" target="_blank">我要爆料>></a></span></div>
+                <ul>
+                	<li><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111128" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_114_82_1452753842899.png" width="114" height="82" /></a><h3><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111128" target="_blank">注意！机器人主题展暂停展出</a></h3><p>街友：<a href="#" target="_blank" class="red">海镜</a></p></li>
+    <li><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111228&page=" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_114_82_1452754320591.png" width="114" height="82" /></a><h3><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111228&page=" target="_blank">小区有人冒充物业上门推销蟑螂药</a></h3><p>街友：<a href="#" target="_blank" class="red">沧海一粒砂</a></p></li>
+    <li><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1110726" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_114_82_1452754078351.png" width="114" height="82" /></a><h3><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1110726" target="_blank">电线杆下面搭起帐篷占用人行道</a></h3><p>街友：<a href="#" target="_blank" class="red">huhhotboy</a></p></li>
+    <li><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111036" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_114_82_1452753975666.png" width="114" height="82" /></a><h3><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111036" target="_blank">呼和浩特回中校门大理石被撞碎</a></h3><p>街友：<a href="#" target="_blank" class="red">小尾巴184</a></p></li>
+    <li><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111052" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_114_82_1452753911995.png" width="114" height="82" /></a><h3><a href="http://www.99jee.com/forum.php?mod=viewthread&tid=1111052" target="_blank">剪断了的车牌拼一下也可以上路？</a></h3><p>街友：<a href="#" target="_blank" class="red">xiaofuheitou</a></p></li>
+    
+                </ul>
+              <div class="dubao">
+                	<div class="db-tit"><a href="http://www.northnews.cn/special/shuhua/" target="_blank"><img src="images/shy2.jpg" width="150" height="22"  alt="正北方网书画苑" title="正北方网书画苑"/></a><h2><a href="http://szb.northnews.cn/" target="_blank" class="red">网上读报</a></h2>
+                  </div>
+                  <dl>
+                   	  <dd><a href="http://szb.northnews.cn/nepaper/nmgrb/paperindex.htm" target="_blank"><img src="images/bzhj_03.jpg" width="120" height="57" /></a></dd>
+                      <dd><a href="http://szb.northnews.cn/nepaper/bfxb/paperindex.htm" target="_blank"><img src="images/bzhj_05.jpg" width="120" height="57" /></a></dd>
+                  </dl>
+                </div>
+            </div>
+    	</div><!--新闻上半部分-->
+        <div class="sponsor"><a href="http://www.northnews.cn/news/150907-1/" target="_blank"><img src="http://upload.northnews.cn/2015/0911/1441938460958.jpg"  width="980" height="60"/></a></div>
+    	<div class="ms-hhht"><!--盟市呼和浩特-->
+        	<div class="ms-box">
+            	<div id="boxt">
+                	<div class="mszi"><h1><a href="http://www.northnews.cn/news/msnews/" target="_blank" class="red">盟市</a></h1></div>
+                    <ul id="tabt">
+                        <li class="on" id="tabt_1" onmouseover="switchTabt(1)"><a href="http://www.northnews.cn/news/msnews/baotou/" target="_blank" class="red" >包头</a></li>
+                        <li id="tabt_2" onmouseover="switchTabt(2)"><a href="http://www.northnews.cn/news/msnews/bayannaoer/" target="_blank" class="red" >巴彦淖尔</a></li>
+                        <li id="tabt_3" onmouseover="switchTabt(3)"><a href="http://www.northnews.cn/news/msnews/alashan/" target="_blank" class="red" >阿拉善</a></li>
+                        <li id="tabt_4" onmouseover="switchTabt(4)"><a href="http://www.northnews.cn/news/msnews/xilinguole/" target="_blank" class="red">锡林郭勒</a></li>
+                        <li id="tabt_5" onmouseover="switchTabt(5)"><a href="http://www.northnews.cn/news/msnews/eerduosi/" target="_blank" class="red">鄂尔多斯</a></li>
+                        <li id="tabt_6" onmouseover="switchTabt(6)"><a href="http://www.northnews.cn/news/msnews/chifeng/" target="_blank" class="red">赤峰</a></li>
+                        <li id="tabt_7" onmouseover="switchTabt(7)"><a href="http://www.northnews.cn/news/msnews/tongliao/" target="_blank" class="red">通辽</a></li>
+                        <li id="tabt_8" onmouseover="switchTabt(8)"><a href="http://www.northnews.cn/news/msnews/hulunbeier/" target="_blank" class="red">呼伦贝尔</a></li>
+                        <li id="tabt_9" onmouseover="switchTabt(9)"><a href="http://www.northnews.cn/news/msnews/xinganmeng/" target="_blank" class="red">兴安盟</a></li>
+                        <li id="tabt_10" onmouseover="switchTabt(10)"><a href="http://www.northnews.cn/news/msnews/wulanchabu/" target="_blank" class="red">乌兰察布</a></li>
+                        <li id="tabt_11" onmouseover="switchTabt(11)"><a href="http://www.northnews.cn/news/msnews/wuhai/" target="_blank" class="red">乌海</a></li>
+                        <li id="tabt_12" onmouseover="switchTabt(12)"><a href="http://www.northnews.cn/news/msnews/manzhouli/" target="_blank" class="red">满洲里</a></li>
+                        <li id="tabt_13" onmouseover="switchTabt(13)"><a href="http://www.northnews.cn/news/msnews/erlianhaote/" target="_blank" class="red">二连</a></li>
+                    </ul>
+                    <ul id="tab_cont">
+                        <li id="tab_cont_1">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2106886.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452820680304.jpg" width="220" height="170" /></a>
+                         	<h1><a href="http://www.northnews.cn/2016/0115/2106886.shtml" target="_blank" >城市管理“有担当” 巡查执法“有温度”</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2106886.shtml" target="_blank" class="grey">包头市城市管理行政执法局直属四大队，是市城市管理行政执法局正科级执法单位。大队成立于2011年8月，主要负责“四路一场”既民族东路、建设路、建华路、机场高速路和银河广场范围内的城市管理“七+......</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2105730.shtml" target="_blank" >春运期间呼铁局将开行 包头至二连特快旅客列车</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2102674.shtml" target="_blank" >包头至大同直达特快列车 15日开行</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0104/2101704.shtml" target="_blank" >包头警方侦破特大制毒案  缴获毒品约6.5公斤</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1230/2100184.shtml" target="_blank" >包头轨道交通近期建设两条十字交叉线路</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1228/2098937.shtml" target="_blank" >包头市民可到博物馆迎新年</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1228/2098927.shtml" target="_blank" >包头昆区法院重拳治老赖  为当事人发放执行款430余万</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1228/2098910.shtml" target="_blank" >包头一项目部彩钢房突着大火</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1228/2098874.shtml" target="_blank" >“中国包头”英文网站上线</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1224/2097514.shtml" target="_blank" >包头一民警参加首档警察真人秀节目录制</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1224/2097464.shtml" target="_blank" >包头博物馆馆藏文物精品展在海口举办</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1219/2095076.shtml" target="_blank" >包头市青山区21户企业在“新四板”挂牌</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1217/2094113.shtml" target="_blank" >尽责圆梦  包头让百姓实现幸福生活</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1214/2092075.shtml" target="_blank" >包头北梁供水服务项目荣获全国大赛银奖</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1211/2091324.shtml" target="_blank" >包头北梁棚改2015年首批安置房钥匙发放</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_2">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2106892.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_120_170_1452820891154.jpg" width="220" height="170" /></a>
+                         	<h1><a href="http://www.northnews.cn/2016/0115/2106892.shtml" target="_blank" >民族幼儿园“首届教师基本功大赛”落下帷幕</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2106892.shtml" target="_blank" class="grey">近日，乌拉特后旗民族幼儿园举行了“民族幼儿园首届教师基本功大赛”。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0111/2104635.shtml" target="_blank" >河套年景趋势预报：今年气温略高降水略多</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103486.shtml" target="_blank" >巴彦淖尔下拨中央救助资金1929万</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0104/2101633.shtml" target="_blank" >鸿雁湖冬捕节：“头鱼”卖了15888</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1228/2098920.shtml" target="_blank" >拖欠17万工钱  李某某被批捕</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1221/2095611.shtml" target="_blank" >临河警方帮助农民工讨薪52万</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1221/2095491.shtml" target="_blank" >内蒙古巴彦淖尔首个陆港正式通关运营</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1221/2095489.shtml" target="_blank" >巴彦淖尔市20名艺术生获资助</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1217/2094101.shtml" target="_blank" >“聪明”的哥为躲探头想歪招</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1214/2092233.shtml" target="_blank" >巴彦淖尔市中院宣判一起涉黑案  19人获刑</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1210/2090703.shtml" target="_blank" >女子患精神病流落他乡  民警救助回家</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1203/2086990.shtml" target="_blank" >磴口县候鸟每年停留时间达4个月</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1202/2086074.shtml" target="_blank" >乌拉特后旗旅游业发展势头强劲</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1126/2082015.shtml" target="_blank" >临河：法官帮农民工讨回工钱6000元</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1118/2075477.shtml" target="_blank" >五原县成全国首个出口葵花籽质量示范区</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_3">
+                          
+                        	
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2106917.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_120_170_1452821602782.jpg" width="220" height="170" /></a>
+                         <h1><a href="http://www.northnews.cn/2016/0115/2106917.shtml" target="_blank" >农村牧区：致力“强、富、美”</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2106917.shtml" target="_blank" class="grey">按照盟委(扩大)会议提出的“农业收缩、农村整合、农民集中”和“牧业适度发展、牧区合理布局、牧民兴业护边”的总体要求，今年，全盟农村牧区工作将以稳基础、保生态，抓特色、调结构，强产业、促增......</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2015/1229/2099376.shtml" target="_blank" >阿右旗警方帮助农民工讨薪47万多 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1117/2074623.shtml" target="_blank" >阿拉善盟不动产登记机构挂牌成立</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1117/2074619.shtml" target="_blank" >环卫新设备助力美丽城镇建设</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1117/2074618.shtml" target="_blank" >过“城里人”生活的守边牧民</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1117/2074613.shtml" target="_blank" >阿拉善盟强化领导联系机制工作任务全覆盖</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1117/2074606.shtml" target="_blank" >额哈铁路动态验收工作正式启动</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1117/2074600.shtml" target="_blank" >坚持科技创新　不断增强企业发展后劲和活力</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1117/2074597.shtml" target="_blank" >“驼队迎亲”微信点击转载量近25万次</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1116/2073632.shtml" target="_blank" >阿拉善右旗：打防管控“十个第一”</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1114/2073085.shtml" target="_blank" >环保部：腾格里沙漠地区环境污染问题“摘牌”</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1105/2066669.shtml" target="_blank" >阿右旗：案件回访制度受到群众好评</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1031/2061992.shtml" target="_blank" >火烈鸟首次光临居延海湿地 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2054800.shtml" target="_blank" >互联网+时代让阿拉善奇石走向世界</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2054796.shtml" target="_blank" >骆驼经济不断发展　骆驼文化日渐繁荣</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_4">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2106921.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452821695972.jpg" width="220" height="170" /></a>
+                         	<h1><a href="http://www.northnews.cn/2016/0115/2106921.shtml" target="_blank" >冰雪骆驼节激情苏尼特</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2106921.shtml" target="_blank" class="grey">1月9日,苏尼特右旗举办第十届骆驼文化节，文化节赛事活动异彩纷呈,冬季搏克、赛骆驼、种公驼评比、组装驼鞍子、搓绳子和削鼻棍等蒙古族生产生活、民族传统体育竞技项目和民俗风情表演活动相继上演。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106627.shtml" target="_blank" >多伦县发放第二代社保卡12500张 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106626.shtml" target="_blank" >正镶白旗加快乡土人才发展 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106602.shtml" target="_blank" >中蒙博览会·2016珠恩嘎达布其口岸合作发展论坛将于16日举行 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106599.shtml" target="_blank" >多伦县五年接待游客389万人次 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106596.shtml" target="_blank" >蒙古剧《长调歌王哈扎布》在锡林郭勒盟启动</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106154.shtml" target="_blank" >苏尼特右旗“一卡通”百事通</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106153.shtml" target="_blank" >多伦县扎实推进农牧业产业化进程 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106152.shtml" target="_blank" >苏尼特右旗实施 “五个一批”工程打赢脱贫攻坚战 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106149.shtml" target="_blank" >太仆寺旗产业化“三驾马车”趟富路 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106145.shtml" target="_blank" >乌拉盖管理区今年引进首批新西兰良种肉牛 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105597.shtml" target="_blank" >多伦县创造条件改善残疾人生活状况 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105596.shtml" target="_blank" >东乌珠穆沁旗“内外结合”促进就业 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105594.shtml" target="_blank" >锡林郭勒盟向13个旗县市（区）发放17辆执勤消防车 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105590.shtml" target="_blank" >苏尼特羊被列入 《中国地理标志产品大典》 </a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_5">
+                          
+                        <div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2106941.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452822163449.jpg" width="220" height="170" /></a>
+                         <h1><a href="http://www.northnews.cn/2016/0115/2106941.shtml" target="_blank" >鄂尔多斯全力开创城市发展新局面 </a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2106941.shtml" target="_blank" class="grey">作为一座年轻的现代化城市，鄂尔多斯的城市发展可谓日新月异。日前闭幕的全市城市工作会议，贯彻落实中央、自治区城市工作会议和市委三届七次全委会议、全市经济工作会议精神，明确了在新的发展起点......</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105303.shtml" target="_blank" >鄂尔多斯市乌兰集团纯粮酒荣获巴拿马国际博览会金奖</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1210/2090721.shtml" target="_blank" >鄂尔多斯：2016年新农合大病保险起付线1.5万</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1126/2081997.shtml" target="_blank" >乌审旗公安局有效推进“四项建设”</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1125/2081508.shtml" target="_blank" >鄂尔多斯全市范围内迎来今年首场大量级降雪</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1114/2073008.shtml" target="_blank" >“十个全覆盖”让城壕每天都有新变化</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1112/2071599.shtml" target="_blank" >鄂尔多斯东胜区：一对母子在小区地下室身亡</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1111/2071147.shtml" target="_blank" >康巴什特警圆满完成全市大比武</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1111/2071121.shtml" target="_blank" >鄂旗查处一起无生产日期食品案</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1030/2061070.shtml" target="_blank" >伊金霍洛旗5家地下商场超市存在火患17处 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2054873.shtml" target="_blank" >亲切的关怀 巨大的鼓舞</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2054860.shtml" target="_blank" >鄂尔多斯东胜区印章刻制业务一站式服务正式启动</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2054850.shtml" target="_blank" >鄂尔多斯部署森林草原防火和造林绿化工作</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2054846.shtml" target="_blank" >鄂尔多斯东胜区 “十个全覆盖”成效明显</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2054840.shtml" target="_blank" >鄂尔多斯医保名片温暖贴心</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_6">
+                          
+                        <div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2106948.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452822266181.jpg" width="220" height="170" /></a>
+                        <h1><a href="http://www.northnews.cn/2016/0115/2106948.shtml" target="_blank" >赤峰市经济工作暨城市工作会议召开</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2106948.shtml" target="_blank" class="grey">1月13日上午，全市经济工作暨城市工作会议召开。会议贯彻落实中央和自治区经济工作会议、城市工作会议精神，部署今年经济工作和当前及今后一个时期城市工作。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106583.shtml" target="_blank" >赤峰12人荣获自治区工艺美术大师称号 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106581.shtml" target="_blank" >男子无钱过年持刀抢劫 女司机用电话发</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106580.shtml" target="_blank" >赤峰首个220千伏智能变电站投入运行 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106172.shtml" target="_blank" >红山区加大市场服务监管力度推动电子</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106170.shtml" target="_blank" >红山区医保预交费期延至2月29日 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105604.shtml" target="_blank" >远程医疗会诊系统平台落户赤峰市松山</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105603.shtml" target="_blank" >赤峰3项目获内蒙古自治区科学技术奖</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0111/2104823.shtml" target="_blank" >赤峰交警备战中小学生寒假期间交通安</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0111/2104821.shtml" target="_blank" >赤峰市红山区春节系列文化活动闹新春 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0111/2104819.shtml" target="_blank" >1457次列车恢复售票 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0111/2104623.shtml" target="_blank" >敖汉旗发现青铜时代夏家店下层文化遗</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103053.shtml" target="_blank" >赤狐被撞伤 民警照料一周放生 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103051.shtml" target="_blank" >宁城县民警平息一场卖羊纠纷 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103049.shtml" target="_blank" >赤峰市红山区交警大队在繁华路段设置7</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_7">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2106975.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452822619170.jpg" width="220" height="170" /></a>
+                         	<h1><a href="http://www.northnews.cn/2016/0115/2106975.shtml" target="_blank" >通辽市代表队积极备战 内蒙古自治区两项室内五人制足球比赛</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2106975.shtml" target="_blank" class="grey">1月12日正午时分，通辽职业学院体育馆内，一群足球运动员正认真投入地接受训练，清脆的口哨声和响亮的呐喊声冲破馆顶，响彻天际，不禁让观看者精神大振。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106592.shtml" target="_blank" >科尔沁区前双井子村200多户居民吃上自</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106168.shtml" target="_blank" >只因心怀感恩 他助陌生人寻亲</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106163.shtml" target="_blank" >假期作业 别让搜题“神器”帮倒忙</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106161.shtml" target="_blank" >通辽市“两会”各项筹备工作准备就绪</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106159.shtml" target="_blank" >通辽市开展食品安全专项整治活动</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106157.shtml" target="_blank" >2016年通辽城乡建设工作亮点抢先看</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105577.shtml" target="_blank" >通辽市被征地农牧民参加基本养老保险</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105576.shtml" target="_blank" >3000万税收优惠让奈曼创业者减负前行</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105574.shtml" target="_blank" >春节临近 家政服务行业迎来用工高峰</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105573.shtml" target="_blank" >全民健身发展迅速 通辽市体育人口达12</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103653.shtml" target="_blank" >库伦旗累计发放城乡低保金4634万元</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103649.shtml" target="_blank" >通辽市民申请办理出入境证件无需提交</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103641.shtml" target="_blank" >通辽市累计回收过期药品6247盒</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103037.shtml" target="_blank" >科左中旗妇联“一建一培一推”实现妇</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_8">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2107016.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452823770630.jpg" width="220" height="170" /></a>
+                         <h1><a href="http://www.northnews.cn/2016/0115/2107016.shtml" target="_blank" >五彩儿童合唱团赴京录制《传承者》</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2107016.shtml" target="_blank" class="grey">1月10日，呼伦贝尔五彩儿童合唱团赴北京参加北京卫视《传承者》栏目的录制。合唱团此前录制的湖南卫视《天天向上》栏目1月15日播出。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0115/2107073.shtml" target="_blank" >确保春运额尔古纳市清理160公里省道积</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105585.shtml" target="_blank" >呼伦贝尔市海拉尔区3294万燃油补贴发</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103620.shtml" target="_blank" >冬泳——伊敏河亮丽风景线</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103617.shtml" target="_blank" >扎兰屯市公安局出入境管理以“简”便</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0105/2102313.shtml" target="_blank" >鄂温克旗去年财政收入21亿</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0105/2102311.shtml" target="_blank" >呼伦贝尔市着力保障农牧民工权益 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0104/2101874.shtml" target="_blank" >呼伦贝尔市首个院士专家工作站落户扎</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0104/2101863.shtml" target="_blank" >海拉尔区物丰价稳迎“两节” </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0104/2101491.shtml" target="_blank" >霍林郭勒市有直达呼和浩特的火车啦</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1231/2100867.shtml" target="_blank" >呼伦贝尔市“三轮驱动”加速农畜产品</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1231/2100866.shtml" target="_blank" >呼伦贝尔市住房公积金制度在城镇个体</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1230/2100240.shtml" target="_blank" >海拉尔海关税收再次突破亿元 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1230/2100189.shtml" target="_blank" >鄂伦春旗农猎民冬闲时节忙“充电” </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1230/2100187.shtml" target="_blank" >今年呼伦贝尔市城镇新增就业3.4万人</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_9">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2107175.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452828003173.jpg" width="220" height="170" /></a>
+                         <h1><a href="http://www.northnews.cn/2016/0115/2107175.shtml" target="_blank" >十个全覆盖 靓丽兴安</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2107175.shtml" target="_blank" class="grey">1月12日，“十个全覆盖 靓丽兴安”兴安盟民族歌舞团“百团千场”下基层惠民演出乌兰浩特专场在乌市举行。晚会共12个节目，以百姓喜闻乐见的形式赞“十个全覆盖”惠民政策、说家乡发展、唱家乡变化。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106631.shtml" target="_blank" >扎旗：冬闲人不闲扶贫求精准</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106483.shtml" target="_blank" >阿尔山口岸成为我国进境粮食指定口岸</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106134.shtml" target="_blank" >乌兰浩特市农牧业局多措并举廉洁过“</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106129.shtml" target="_blank" >乌兰浩特汽车站安排重点工作备战“春</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106128.shtml" target="_blank" >突泉县“十个全覆盖”工程整合投资攻</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0111/2104911.shtml" target="_blank" >突泉县一吨“暖心煤”让农牧民受益</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103576.shtml" target="_blank" >阿尔山市林业局完成去年营造林工程作</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103568.shtml" target="_blank" >兴安盟首届“最美医生”“最美护士”</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103565.shtml" target="_blank" >老人买错车票 工作人员及时帮忙送其上</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103563.shtml" target="_blank" >第三产业撑起乌兰浩特市经济半边天</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2102991.shtml" target="_blank" >阿尔山市温泉街抓好冬季安全生产工作</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2102986.shtml" target="_blank" >突泉县市场监管局开展“两节”市场专</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2102973.shtml" target="_blank" >兴安盟财政局下达2015年中央彩票公益</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2102967.shtml" target="_blank" >兴安盟举办中心组学习秘书基层宣传委</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_10">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2107209.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452841790262.jpg" width="220" height="170" /></a>
+                         <h1><a href="http://www.northnews.cn/2016/0115/2107209.shtml" target="_blank" >乌兰察布市三届人大四次会议主席团举行第四次会议</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2107209.shtml" target="_blank" class="grey">1月14日下午，乌兰察布市第三届人民代表大会第四次会议主席团举行第四次会议。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2015/1226/2098416.shtml" target="_blank" >北京支援合作办在乌兰察布调研 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1201/2085143.shtml" target="_blank" >乌兰察布两名副厅级官员被逮捕 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1126/2082000.shtml" target="_blank" >集宁一司机雪天路滑撞伤5人，假的！</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1118/2076115.shtml" target="_blank" >乌兰察布集宁区幸福家园停暖22天无人</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1114/2073089.shtml" target="_blank" >乌大张合作区工业项目总投资180亿元 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1109/2068880.shtml" target="_blank" >乌兰察布凉城县遭受特大暴雪灾害 直接</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1109/2068400.shtml" target="_blank" >呼张客运专线铁路卓资山特大桥完工</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1023/2055453.shtml" target="_blank" >安利公益基金会在四子王旗举办“爱在</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1013/2043757.shtml" target="_blank" >2015年乌兰察布市秋季人才招聘会17日</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1013/2043753.shtml" target="_blank" >乌大两地公安机关开展警务交流活动</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1009/2041148.shtml" target="_blank" >乌兰察布市马铃薯产销储加进展情况</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0928/2035147.shtml" target="_blank" >内蒙古乌兰察布市通报7起典型案例</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0928/2034594.shtml" target="_blank" >乌兰察布市通报7起“四风”和腐败问题</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0925/2033319.shtml" target="_blank" >乌兰察布博物馆存放“千年古墓睡美人</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_11">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2107212.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452841877426.jpg" width="220" height="170" /></a>
+                         <h1><a href="http://www.northnews.cn/2016/0115/2107212.shtml" target="_blank" >乌海经太原至海口航线开通</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2107212.shtml" target="_blank" class="grey">1月14日13：20，随着海口经太原至乌海的波音737—800航班的平稳降落，这标志着乌海经太原至海口航线正式通航。...</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2015/1210/2090639.shtml" target="_blank" >乌海出口聚乙烯醇创新高</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1207/2088940.shtml" target="_blank" >乌海出口化工产品创新高</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1126/2082007.shtml" target="_blank" >乌海市市委书记侯凤岐涉嫌受贿罪被立</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1113/2072838.shtml" target="_blank" >乌海5000户低收入家庭收到取暖用煤补</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1109/2068382.shtml" target="_blank" >乌海：用全会精神武装头脑指导实践推</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1021/2052451.shtml" target="_blank" >乌海市公交公司 “给力”创城</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1011/2042376.shtml" target="_blank" >乌海： 6项职责让驻村干部有劲儿可使</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/1008/2039629.shtml" target="_blank" >乌海两毒贩共同凑钱购买毒品分别贩毒</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0929/2035937.shtml" target="_blank" >乌海市启动“三证合一一照一码”登记</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0929/2035918.shtml" target="_blank" >乌海:农区增“颜值” 农民升“福值”</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0929/2035904.shtml" target="_blank" >乌海物流业改革试点方案通过自治区评</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0929/2035898.shtml" target="_blank" >乌海：法律援助惠及更多困难群体</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0925/2033218.shtml" target="_blank" >一女子购买旧家俱 见财起意盗走金首饰</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2015/0925/2032990.shtml" target="_blank" >乌海市通报3起“四风”和腐败问题典型</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_12">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2107214.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452842004575.jpg" width="220" height="170" /></a>
+                         	<h1><a href="http://www.northnews.cn/2016/0115/2107214.shtml" target="_blank" >满洲里市口岸旅游股份有限公司在“新三板”上市</a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2107214.shtml" target="_blank" class="grey">日前，满洲里口岸旅游股份有限公司在“新三板”成功挂牌，同时中俄边境旅游区通过国家旅游局5A级资源与景观评审。新年之际捷报频传，近日，口岸旅游股份有限公司举行了庆典仪式。市委书记杨博，市委......</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106571.shtml" target="_blank" >满洲里公路口岸整车进口发展势猛 2015</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0114/2106567.shtml" target="_blank" >满洲里口岸将成为俄罗斯输华小麦进口</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106183.shtml" target="_blank" >满洲里检验检疫局为消费者“支招”如</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106181.shtml" target="_blank" >满洲里铁路口岸食品类货物出口连续三</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106179.shtml" target="_blank" >满洲里海关查获违规携带玉矿石141千克</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2105947.shtml" target="_blank" >满洲里市口岸旅游股份有限公司在“新</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105571.shtml" target="_blank" >2015年满洲里口岸进口俄罗斯食品喜获</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105570.shtml" target="_blank" >满洲里市合作区国税局办税服务厅迎来</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105549.shtml" target="_blank" >2015年满洲里口岸对俄罗斯出口果蔬势</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103628.shtml" target="_blank" >满洲里市人大代表与选民共建互动“民</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103625.shtml" target="_blank" >满洲里市召开综合保税区建设工作推进</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103433.shtml" target="_blank" >情暖冬日 爱心汇聚边城</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103014.shtml" target="_blank" >满洲里检验检疫局加强企业信用管理提</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103010.shtml" target="_blank" >新丝路上的新作为：满洲里海关2015年</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                        <li id="tab_cont_13">
+                          
+                        	<div class="gbbox">
+                         <a href="http://www.northnews.cn/2016/0115/2107216.shtml" target="_blank" ><img src="http://upload.northnews.cn/2016/0115/thumb_220_170_1452842222474.jpg" width="220" height="170" /></a>
+                         	<h1><a href="http://www.northnews.cn/2016/0115/2107216.shtml" target="_blank" >二连浩特市政府与蒙古国东戈壁省政府在扎门乌德市举行边境旅游会晤 </a></h1>
+                            <p><a href="http://www.northnews.cn/2016/0115/2107216.shtml" target="_blank" class="grey">应蒙古国东戈壁省省长邀请，2015年12月13日，二连浩特市政府副市长萨仁其木格率领旅游局、外事办、边检站、口岸办、检验检验局、运管站、新闻媒体及旅游企业17人代表团赴扎门乌德参加会晤。中国驻扎......</a></p><span>2016-01-15</span>
+                            
+                            </div>
+                        	<div class="mslist">
+                            	<dl>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106177.shtml" target="_blank" >经满洲里二连口岸"开往"欧洲班列升至1</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106176.shtml" target="_blank" >二连口岸全力推动郑欧班列提速扩容 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106175.shtml" target="_blank" >二连浩特口岸帮扶地方原油进口再出口 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0113/2106174.shtml" target="_blank" >首家具赴台资质旅行社分社在二连浩特</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105584.shtml" target="_blank" >二连口岸进口“防风”同比大幅增加 </a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105580.shtml" target="_blank" >二连浩特：提前1年实现“十个全覆盖”</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0112/2105381.shtml" target="_blank" >二连浩特市异地就医管理平台公布56家</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103659.shtml" target="_blank" >二连海关辖区3家报关企业荣膺“全国优</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103657.shtml" target="_blank" >中蒙最大陆路口岸二连浩特口岸“中欧</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0107/2103479.shtml" target="_blank" >二连站60年完成过货量逾1.4亿吨</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103044.shtml" target="_blank" >二连海关辖区报关人员数量首次突破500</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103041.shtml" target="_blank" >二连海关辖区2015年度注册企业数量继</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103040.shtml" target="_blank" >俄罗斯石油原油将成为二连口岸新的税</a></dd>
+                                    <dd><a href="http://www.northnews.cn/2016/0106/2103039.shtml" target="_blank" >二连浩特市发改委开展元旦春节两节市</a></dd>
+ 
+                                </dl>
+                            </div>
+                      	</li>
+                    </ul>
+                </div>
+            </div>
+        	<div class="hhht">
+            	<div class="hh-tit"><h2><span><a href="http://www.northnews.cn/news/capitalnews/" target="_blank" >更多>></a></span><a href="http://www.northnews.cn/news/capitalnews/" target="_blank" class="red">呼和浩特</a></h2></div>
+            	<ul>
+                    <li><a href="http://www.northnews.cn/2016/0115/2107069.shtml" target="_blank" >呼铁局去年建成新线1332公里 </a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106988.shtml" target="_blank" >呼和浩特市扶贫开发多管齐下力拔穷根</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106978.shtml" target="_blank" >【回顾“十二五”】呼和浩特农业改革</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106910.shtml" target="_blank" >内蒙古科技馆机器人展暂停 特效影院</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106901.shtml" target="_blank" >2016年呼和浩特发出“拒绝污染”最强</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0115/2106898.shtml" target="_blank" >呼和浩特市交管支队加强城区外围道路</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106769.shtml" target="_blank" >呼和浩特中优1∶5不敌山东鲁能 </a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106742.shtml" target="_blank" >呼和浩特加强城区外围道路货运车辆封</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106708.shtml" target="_blank" >第二届呼和浩特年货博览会22日盛大启</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106678.shtml" target="_blank" >人等药变药等人 首家自动化药房上岗</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106673.shtml" target="_blank" >爱在青城志愿者公益晚会温暖呼和浩特</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106589.shtml" target="_blank" >电动公交车亮相青城 绿色环保是方向</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106549.shtml" target="_blank" >呼和浩特启用港澳自助再次签注一体机</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106516.shtml" target="_blank" >呼和浩特多举措确保餐饮单位年夜饭安</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0114/2106514.shtml" target="_blank" >呼和浩特：免费体检情暖1200名环卫工</a></li>
+ 
+            	</ul>
+            </div>
+        </div><!--盟市呼和浩特-->
+        <div class="gnvp"><!--国内国际V评-->
+        	<div id="tabs0" class="g-foucs"><!--国际焦点-->
+                <ul class="menu0" id="menu0">
+                   <li onmouseover="setTab(0,0)" class="hover"><a href="http://www.northnews.cn/news/native/" target="_blank">国内</a></li>
+                   <li onmouseover="setTab(0,1)"><a href="http://world.northnews.cn/" target="_blank">国际</a></li>
+                   <li onmouseover="setTab(0,2)"><a href="http://sports.northnews.cn/news/sports/sports/" target="_blank">体育</a></li>
+                   <li onmouseover="setTab(0,3)"><a href="http://www.northnews.cn/news/yule/" target="_blank">娱乐</a></li>
+                </ul>
+                <div class="main" id="main0">
+                   <ul class="block"><li><a href="http://china.northnews.cn/2016/0108/2104238.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0108/thumb_320_221_1452248884521.jpg" width="320" height="221" /><span class="zt_txt"> 中共中央国务院隆重举行国家科学技术奖励大会</span></a></li></ul>
+                   <ul class="block"><li><a href="http://world.northnews.cn/2015/1229/2099437.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1229/thumb_320_221_1451357169367.jpg" width="320" height="221" /><span class="zt_txt"> 萨拉热窝雾霾持续 中小学缩短上课时间（组图）</span></a></li></ul>
+                   <ul class="block"><li><a href="http://sports.northnews.cn/2016/0106/2103139.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0106/thumb_320_221_1452088858509.jpg" width="320" height="221" /><span class="zt_txt">亿利资源牵手天津泰达征战中超</span></a></li></ul>
+                   <ul class="block"><li><a href="http://www.northnews.cn/2016/0114/2106730.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_320_221_1452758470633.jpg" width="320" height="221" /><span class="zt_txt">高圆圆在微博发出一张与贾静雯亲密合影</span></a></li></ul>
+ 
+                </div>
+   </div><!--国际焦点-->
+            <div class="vping">
+            	<div class="vphead"><h2><span><a href="http://www.northnews.cn/news.shtml" target="_blank">更多>></a></span><a href="http://www.northnews.cn/news.shtml" target="_blank" class="red">必读</a></h2></div>
+                <ul>
+ <li><a href="http://www.northnews.cn/news/160107/" target="_blank">党的十八大以来这三年专题</a></li>
+     <li><a href="http://china.northnews.cn/2016/0102/2101180.shtml" target="_blank">习近平：2016年这样干</a></li>
+     <li><a href="http://china.northnews.cn/2015/1216/2093112.shtml" target="_blank">国平：短帽轻衫乌镇行 一枝一叶总关情</a></li>
+     <li><a href="http://china.northnews.cn/2015/1224/2097583.shtml" target="_blank">[新闻直播间]“二十一世纪报系新闻敲诈案”全透视 迷失：内容重要还是广告经营重要？</a></li>
+    
+                </ul>
+                <p class="zzt"><a href="http://www.northnews.cn/news/151103-1" target="_blank">学习宣传贯彻党的十八届五中全会精神</a></p>
+                <p class="zzt"><a href="http://www.northnews.cn/news/151021-1/" target="_blank">中国——蒙古国博览会旅游看点</a></p>
+ 
+            </div>
+            <div class="gnlist">
+            	<div class="gnhead"><h2><span><a href="http://www.northnews.cn/news/clcpinlun/" target="_blank">更多>></a></span><a href="http://www.northnews.cn/news/clcpinlun/" target="_blank" class="red">V评</a></h2></div>
+				<ul>
+                    <li><a href="http://www.northnews.cn/2016/0111/2104680.shtml" target="_blank">让农区孩子离梦想更近一点</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0111/2104667.shtml" target="_blank">打击黑车办法总比困难多</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0111/2104657.shtml" target="_blank">对安全隐患不能抱有侥幸心理</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0107/2103537.shtml" target="_blank">重执行让法律更威严</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0107/2103536.shtml" target="_blank">停运电梯催费不是好办法</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0107/2103525.shtml" target="_blank">居家养老优势明显</a></li>
+                    <li><a href="http://www.northnews.cn/2016/0104/2101670.shtml" target="_blank">公厕建好更要管好</a></li>
+                </ul>
+        	</div>
+        </div><!--国内国际V评-->
+      <div class="sponsor"><a href="http://www.10010.com/" target="_blank"><img src="http://upload.northnews.cn/2015/1216/1450229198858.jpg"  width="980" height="60"/></a>
+    	</div><!--12月改的新闻部分-->
+  <div class="netvideo"><!--视频层-->
+    	<div class="netti"><span><a href="http://video.northnews.cn/" target="_blank">更多>></a></span><a href="http://video.northnews.cn/" target="_blank"><img src="images/2014/wldtit_06.jpg" width="370" height="30" /></a></div>
+		        <div class="videobox"><!--视频左-->
+              <div class="fcnt" id="ppt">
+                <div class="mimg" id="mpc">
+<div style="display:block">
+                 <a href="http://video.northnews.cn/2015/1127/2083183.shtml" target="_blank"><img src="images/2014/bo-button.png" class="vdIcon"></a><a href="http://video.northnews.cn/2015/1127/2083183.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1127/thumb_481_350_1448609429522.jpg" width="481" height="350"  alt="" /></a></div>
+                  <div><a href="http://video.northnews.cn/2015/1104/2065248.shtml" target="_blank"><img src="images/2014/bo-button.png" class="vdIcon"></a><a href="http://video.northnews.cn/2015/1104/2065248.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1105/thumb_481_350_1446680443704.png" width="481" height="350"  alt="" /></a></div>
+                  <div><a href="http://video.northnews.cn/2015/1104/2063139.shtml" target="_blank"><img src="images/2014/bo-button.png" class="vdIcon"></a><a href="http://video.northnews.cn/2015/1104/2063139.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1105/thumb_481_350_1446680508640.png" width="481" height="350"  alt="" /></a></div>
+                  <div><a href="http://zm.northnews.cn/2015/1025/2055945.shtml" target="_blank"><img src="images/2014/bo-button.png" class="vdIcon"></a><a href="http://zm.northnews.cn/2015/1025/2055945.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1025/thumb_481_350_1445759106661.jpg" width="481" height="350"  alt="" /></a></div>
+                </div>
+                <dl style="display:block">
+                                   <dt><a href="http://video.northnews.cn/2015/1127/2083183.shtml" target="_blank" class="white">蒙牛感恩舌尖上的点滴幸福</a></dt>
+                                  </dl>
+                <dl>
+                    <dt><a href="http://video.northnews.cn/2015/1104/2065248.shtml" target="_blank" class="white">中蒙博览会：促进互利共赢 增进人民福祉</a></dt>
+                </dl>
+                <dl>
+                                     <dt><a href="http://video.northnews.cn/2015/1104/2063139.shtml" target="_blank" class="white">“一点一滴的好 厂开骑趣”绿色骑行进蒙牛</a></dt>
+                </dl>
+                <dl>
+                                     <dt><a href="http://zm.northnews.cn/2015/1025/2055945.shtml" target="_blank" class="white">书画家：促进中蒙文化传承传播发展</a></dt>
+                                 </dl>
+                <div id="tri"></div>
+                <ul>
+                                     <li class="cur"><img src="http://upload.northnews.cn/2015/1127/thumb_121_88_1448609429522.jpg" width="121" height="88"  alt="" /></li>
+                                      <li><img src="http://upload.northnews.cn/2015/1105/thumb_121_88_1446680443704.png" width="121" height="88"  alt="" /></li>
+                                      <li><img src="http://upload.northnews.cn/2015/1105/thumb_121_88_1446680508640.png" width="121" height="88"  alt="" /></li>
+                                     <li><img src="http://upload.northnews.cn/2015/1025/thumb_121_88_1445759106661.jpg" width="121" height="88"  alt="" /></li>
+                                  </ul>
+            </div>
+        </div><!--视频左-->
+        <div class="lanmu"><!--北风吹-->
+       	  <div class="bfc">
+           	  <div class="bfc-tit"><a href="http://video.northnews.cn/beifengchui/" target="_blank"><img src="images/2014/bfc_06.jpg" width="323" height="38"  alt="北风吹"  title="北风吹"/></a></div>
+              <ul>
+                   <li><a href="http://video.northnews.cn/2015/1127/2082232.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1126/thumb_146_101_1448528779642.jpg" width="146" height="101" /><p>北风吹：眼球纹身？惊</p></a></li>
+                  <li><a href="http://video.northnews.cn/2015/1120/2076883.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1119/thumb_146_101_1447923288111.jpg" width="146" height="101" /><p>北风吹：地球惊现“外</p></a></li>
+              
+              </ul>
+           </div>
+           <div class="bfc">
+           	  <div class="bfc-tit"><a href="http://video.northnews.cn/jiefang/" target="_blank"><img src="images/2014/jf_06.jpg" width="322" height="38"  alt="街坊"  title="街坊"/></a></div>
+              <ul>
+                   <li><a href="http://video.northnews.cn/2014/1225/1825127.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/0101/thumb_146_101_1420074047108.jpg" width="146" height="101" /><p>温暖书香约圣诞 亲子</p></a></li>
+                  <li><a href="http://video.northnews.cn/2014/1208/1807891.shtml" target="_blank"><img src="http://upload.northnews.cn/2014/1208/thumb_146_101_1418036788581.jpg" width="146" height="101" /><p>臧金龙：游走在黑白艺</p></a></li>
+              
+              </ul>
+           </div>
+        </div><!--北风吹-->
+<div class="lzy-bx"><!--视频内蒙古、政在关注-->
+              <div class="leizy">
+                    <div class="lzytit"><a href="http://www.northnews.cn/neimengguxinwen/" target="_blank"><img src="images/lzy.jpg" width="290" height="52"  alt="视频内蒙古"  title="视频内蒙古"/></a></div>
+                    <ul>
+       <li><a href="http://www.northnews.cn/2015/1029/2058911.shtml" target="_blank"><img src="http://media.northnews.cn/pic/20151027/d43f503a055008181bcb0dee88b85746-1.jpg" width="146" height="101" /><span class="zt_txt">乌盟教育改革结硕果</span></a></li>
+       <li><a href="http://www.northnews.cn/2015/1022/2055553.shtml" target="_blank"><img src="http://media.northnews.cn/pic/20151022/e6a26a061ae328a138700837a8ce446c-1.jpg" width="146" height="101" /><span class="zt_txt">想知道河套秋色有多美</span></a></li>
+ 
+                    </ul>
+              </div>
+              <div class="leizy2">
+                    <div class="lzytit"><a href="http://video.northnews.cn/bxrx/" target="_blank"><img src="images/bxrx.jpg" width="290" height="52" alt="政在关注"  title="政在关注"/></a></div>
+                    <ul>
+       <li><a href="http://video.northnews.cn/2015/1001/2037446.shtml" target="_blank"><img src="http://media.northnews.cn/pic/20151001/a6c762e09bcfa31cf6d70b011c74448f-1.jpg" width="146" height="101" /><span class="zt_txt">内蒙古爱乐乐团《金秋</span></a></li>
+       <li><a href="http://video.northnews.cn/2015/0101/1831370.shtml" target="_blank"><img src="http://media.northnews.cn/pic/20141231/d10dd01d049c625b530166fad8921994-2.jpg" width="146" height="101" /><span class="zt_txt">【政在关注】2014消逝</span></a></li>
+ 
+                    </ul>
+              </div>
+              <div class="bxrx">
+                    <div class="bxtit"><a href="http://video.northnews.cn" target="_blank"><img src="images/wangs.jpg" width="320" height="52" alt="网视"  title="网视"/></a></div>
+                    <ul>
+       <li><a href="http://video.northnews.cn/2015/1211/2091378.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1211/1449841146917.jpg" width="146" height="101" /><span class="zt_txt">黑人小哥深情演唱《小</span></a></li>
+       <li><a href="http://video.northnews.cn/2015/1126/2081671.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1126/1448497893665.jpg" width="146" height="101" /><span class="zt_txt">小情侣离家出走住机场</span></a></li>
+ 
+                    </ul>
+              </div>
+        </div><!--视频内蒙古、政在关注-->
+
+  </div><!--视频层-->
+     
+</div>
+</div><!--外层-->
+<div class="wenhua"><!--文化-->
+	<div class="in-wenhua">
+    	<div class="changl"><!--文化长廊-->
+        	<div class="clbox"><!--文化滚动-->
+            	<div class="indexmaindiv" id="indexmaindiv">
+                    <div class="indexmaindiv1 clearfix" >
+                        <div class="stylesgoleft" id="goleft"></div>
+                        <div class="maindiv1 " id="maindiv1">
+                        <ul id="count1">
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1211/2091155.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1211/thumb_146_130_1449800279547.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1211/2091155.shtml" target="_blank">鄂尔多斯市乌审境内发</a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1110/2069769.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1110/thumb_146_130_1447122963888.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1110/2069769.shtml" target="_blank">阿拉善夜景多璀璨 “</a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1023/2054356.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1023/thumb_146_130_1445557163129.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1023/2054356.shtml" target="_blank">湿地秋色美</a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1017/2048825.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1017/thumb_146_130_1445082818473.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1017/2048825.shtml" target="_blank">黄河岸边的秋色 </a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1016/2047857.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1016/thumb_146_130_1444960530439.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1016/2047857.shtml" target="_blank">乌梁素海秋色美如画 </a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1016/2047783.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1016/thumb_146_130_1444959367789.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1016/2047783.shtml" target="_blank">迁徙</a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1014/2045586.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1014/thumb_146_130_1444806252418.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1014/2045586.shtml" target="_blank">秋意浓</a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/1013/2044548.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/1013/thumb_146_130_1444722998310.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/1013/2044548.shtml" target="_blank">首届中蒙禁毒执法交流</a></div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="playerdetail">
+                                    <div class="detailimg"><a href="http://www.northnews.cn/2015/0930/2037210.shtml" target="_blank"><img class="ku" src="http://upload.northnews.cn/2015/0930/thumb_146_130_1443599280668.jpg" width="146" height="130" /></a></div>
+                                    <div class="teanames"><a href="http://www.northnews.cn/2015/0930/2037210.shtml" target="_blank">内蒙古：最美的风景在</a></div>
+                                </div>
+                            </li>
+                            
+                        </ul>
+                        </div>
+                        <div class="stylesgoright" id="goright"></div>
+                    </div>
+                </div>
+            </div><!--文化滚动-->
+        </div><!--文化长廊-->
+        <div class="caoyuan"><!--草原文化和故事-->
+       	  <div class="cywh">
+            	<div class="cywh-tit"></div>
+                <div class="wnt">
+					<div class="wntheight">
+					<a href="http://nmg.northnews.cn/2016/0115/2106961.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_110_83_1452822563183.jpg"width="110" height="83" /></a>
+                    <h3><a href="http://nmg.northnews.cn/2016/0115/2106961.shtml" target="_blank">喝碗腊八粥 </a></h3>
+                    <p><a href="http://nmg.northnews.cn/2016/0115/2106961.shtml" target="_blank">1月14日，呼和浩特回民区三顺店社区的居民们相聚一堂，了解......</a></p>
+                    </div>
+                    <ul>
+                    	<li><a href="http://nmg.northnews.cn/2016/0115/2107180.shtml" target="_blank">内蒙古：自治区境内长城保护纳入“十三</a></li>
+                    	<li><a href="http://nmg.northnews.cn/2016/0115/2106981.shtml" target="_blank">话剧《琥珀》今日浪漫登场</a></li>
+                    </ul>
+              	</div>
+                <div class="wnt">
+					<div class="wntheight">
+					<a href="http://nmg.northnews.cn/2016/0115/2106916.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_110_83_1452821605525.jpg"width="110" height="83" /></a>
+                    <h3><a href="http://nmg.northnews.cn/2016/0115/2106916.shtml" target="_blank">行走的博物馆 </a></h3>
+                    <p><a href="http://nmg.northnews.cn/2016/0115/2106916.shtml" target="_blank">作为我国少数民族地区最大的综合性博物馆，内蒙古自治区博物......</a></p>
+                    </div>
+                    <ul>
+                    	<li><a href="http://nmg.northnews.cn/2016/0115/2106972.shtml" target="_blank">京剧《梅兰芳华》23日上演    </a></li>
+                    	<li><a href="http://nmg.northnews.cn/2016/0115/2106882.shtml" target="_blank">内蒙古社科院赤峰分院成立 </a></li>
+                    </ul>
+              	</div>
+                <div class="wnt">
+					<div class="wntheight">
+					<a href="http://nmg.northnews.cn/2016/0115/2106887.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_110_83_1452820629426.jpg"width="110" height="83" /></a>
+                    <h3><a href="http://nmg.northnews.cn/2016/0115/2106887.shtml" target="_blank">让蒙古族的芭比娃娃走向</a></h3>
+                    <p><a href="http://nmg.northnews.cn/2016/0115/2106887.shtml" target="_blank">眼前这些身着蒙古族传统华丽服饰、按真人六分之一比例缩放的......</a></p>
+                    </div>
+                    <ul>
+                    	<li><a href="http://nmg.northnews.cn/2016/0114/2106383.shtml" target="_blank">2016年央视春晚内蒙古分会场设在呼和诺</a></li>
+                    	<li><a href="http://nmg.northnews.cn/2016/0114/2106380.shtml" target="_blank">“嘻哈王子”梁大维网络剧崭露头角 </a></li>
+                    </ul>
+              	</div>
+                <div class="wnt">
+					<div class="wntheight">
+					<a href="http://nmg.northnews.cn/2016/0114/2106366.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_110_83_1452737163349.jpg"width="110" height="83" /></a>
+                    <h3><a href="http://nmg.northnews.cn/2016/0114/2106366.shtml" target="_blank">薛红世：要把炕围画传承</a></h3>
+                    <p><a href="http://nmg.northnews.cn/2016/0114/2106366.shtml" target="_blank">1月9日上午，记者来到66岁的薛红世老人家中。明亮的客厅内，......</a></p>
+                    </div>
+                    <ul>
+                    	<li><a href="http://nmg.northnews.cn/2016/0114/2106332.shtml" target="_blank">话剧《尹湛纳希》：打开一个蒙古族思想</a></li>
+                    	<li><a href="http://nmg.northnews.cn/2016/0114/2106296.shtml" target="_blank">盛乐古城遗址发现58座汉代瓮棺葬 </a></li>
+                    </ul>
+              	</div>
+            </div>
+          <div class="cygs">
+           	<div class="cygs-tit"></div>
+            <h3><a href="http://nmg.northnews.cn/2016/0111/2104558.shtml" target="_blank">从驼工到大财主（上） </a></h3>
+            <div class="cyheight">
+            <a href="http://nmg.northnews.cn/2016/0111/2104558.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0111/thumb_120_79_1452477268949.jpg"width="120" height="79" /></a>
+            <p><a href="http://nmg.northnews.cn/2016/0111/2104558.shtml" target="_blank">因为一部电视剧山西的乔家大院名声陡然壮大起来。乔家的创始人乔贵发就是拉骆驼出身，还是给......</a></p>
+            </div>
+            <ul>
+            	<li><a href="http://nmg.northnews.cn/2016/0115/2107006.shtml" target="_blank">腊八粥 </a></li>
+            	<li><a href="http://nmg.northnews.cn/2016/0115/2106998.shtml" target="_blank">做礼花 </a></li>
+            	<li><a href="http://nmg.northnews.cn/2016/0114/2106392.shtml" target="_blank">那次班会 </a></li>
+            	<li><a href="http://nmg.northnews.cn/2016/0114/2106358.shtml" target="_blank">成吉思汗的拴马桩 </a></li>
+            	<li><a href="http://nmg.northnews.cn/2016/0114/2106354.shtml" target="_blank">革命母亲乔培玲 </a></li>
+            	<li><a href="http://nmg.northnews.cn/2016/0114/2106350.shtml" target="_blank">别有用心的日伪旅行纪念戳 </a></li>
+            	<li><a href="http://nmg.northnews.cn/2016/0114/2106344.shtml" target="_blank">乡村事宴 </a></li>
+            </ul>
+          </div>
+        </div><!--草原文化和故事-->
+        <div class="cyyrw"><!--草原音乐和人物-->
+        	<div class="cymusic">
+            	<div class="yhtit"></div>
+                <ul>
+                	<li>
+                        <a href="http://nmg.northnews.cn/2016/0111/2104845.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0111/thumb_200_124_1452494451608.jpg"width="200" height="124" /></a>
+                        <h2><a href="http://nmg.northnews.cn/2016/0111/2104845.shtml" target="_blank">内蒙古举行无伴奏合唱音乐会</a></h2>
+                        <p><a href="http://nmg.northnews.cn/2016/0111/2104845.shtml" target="_blank">时而高亢明亮，时而婉转低沉。在著名蒙古族青年指挥家、国家一级指挥、内蒙古广播合唱团指挥......</a></p>
+                        <dl>
+							<dd><a href="http://nmg.northnews.cn/2016/0115/2106985.shtml" target="_blank">蒙古剧《长调歌王哈扎布》开</a></dd>
+							<dd><a href="http://nmg.northnews.cn/2016/0114/2106384.shtml" target="_blank">歌舞剧《乌日苏勒图》登上中</a></dd>
+							<dd><a href="http://nmg.northnews.cn/2016/0113/2105739.shtml" target="_blank">10名琴童将与钢琴王子同台演</a></dd>
+							<dd><a href="http://nmg.northnews.cn/2016/0112/2105143.shtml" target="_blank">青年钢琴家张海鸥开年献艺 </a></dd>
+                        </dl>
+                    </li>
+                </ul>
+                <ul>
+                	<li>
+                        <a href="http://nmg.northnews.cn/2016/0108/2104073.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0108/thumb_200_124_1452223604863.jpg"width="200" height="124" /></a>
+                        <h2><a href="http://nmg.northnews.cn/2016/0108/2104073.shtml" target="_blank">音乐剧《爱在胡杨》再现苏和感人故事</a></h2>
+                        <p><a href="http://nmg.northnews.cn/2016/0108/2104073.shtml" target="_blank">7日晚，内蒙古民族艺术剧院掌声雷动，感人场景连绵不断……由我国著名蒙古族歌唱家德德玛担......</a></p>
+                        <dl>
+							<dd><a href="http://nmg.northnews.cn/2016/0111/2104543.shtml" target="_blank">德德玛原创音乐剧《爱在胡杨</a></dd>
+							<dd><a href="http://nmg.northnews.cn/2016/0104/2101487.shtml" target="_blank">青年钢琴家张海鸥开年献艺 </a></dd>
+							<dd><a href="http://nmg.northnews.cn/2015/1230/2099853.shtml" target="_blank">张海鸥钢琴独奏音乐会下月奏</a></dd>
+							<dd><a href="http://nmg.northnews.cn/2015/1229/2099307.shtml" target="_blank">理查德·克莱德曼音乐会开票</a></dd>
+                        </dl>
+                    </li>
+                </ul>
+            </div>
+            <div class="cyrw">
+            	<div class="rwtit"></div>
+                <ul>
+                  <li><a href="http://nmg.northnews.cn/2016/0105/2102081.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0105/thumb_140_101_1451957684855.jpg"width="140" height="101" /></a><p><a href="http://nmg.northnews.cn/2016/0105/2102081.shtml" target="_blank">舞者何燕敏</a></p></li>
+                   <li><a href="http://nmg.northnews.cn/2015/1230/2100049.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1230/thumb_140_101_1451441710364.jpg"width="140" height="101" /></a><p><a href="http://nmg.northnews.cn/2015/1230/2100049.shtml" target="_blank">旭日干：把一生奉献给</a></p></li>
+                   <li><a href="http://nmg.northnews.cn/2015/1229/2099326.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1229/thumb_140_101_1451353151728.jpg"width="140" height="101" /></a><p><a href="http://nmg.northnews.cn/2015/1229/2099326.shtml" target="_blank">王堃:草原无字尽文章</a></p></li>
+                   <li><a href="http://nmg.northnews.cn/2015/1229/2099324.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1229/thumb_140_101_1451352980953.jpg"width="140" height="101" /></a><p><a href="http://nmg.northnews.cn/2015/1229/2099324.shtml" target="_blank">乔高磊:传递爱心的使</a></p></li>
+   
+                </ul>
+            </div>
+        </div><!--草原音乐和人物-->
+        <!--草原音乐联播-->
+        <div class="wp">
+          <div class="musicbox">
+                <div class="lefttxt">
+                        <ul>
+                                                    <li><a href="http://nmg.northnews.cn/2016/0104/2101693.shtml" target="_blank">  【哈木格排行榜】 传统与现代的碰撞 IF乐</a></li>
+                                                    <li><a href="http://nmg.northnews.cn/2015/1222/2095967.shtml" target="_blank">【哈木格排行榜】 一生中最珍贵的日子《美</a></li>
+                                                    <li><a href="http://nmg.northnews.cn/2015/1208/2089679.shtml" target="_blank">【哈木格排行榜】胡日德乐队《这是我的故乡</a></li>
+                                                    <li><a href="http://nmg.northnews.cn/2015/1202/2086145.shtml" target="_blank">【哈木格排行榜】感受浪漫 孟根其其格《你</a></li>
+                                                </ul>
+                </div>
+            	<div class="muiscpic">
+           	  		                    <a href="http://nmg.northnews.cn/2016/0111/2104868.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0111/thumb_140_100_1452495292405.jpg" width="140" height="100" /></a>
+                                  	</div>
+              <div class="righttxt">
+                	<ul>
+                                                <li><a href="http://nmg.northnews.cn/2015/0318/1886633.shtml" target="_blank">哈木格排行榜 《初恋》</a></li>
+                                                <li><a href="http://nmg.northnews.cn/2015/0211/1862990.shtml" target="_blank">草原音乐联播 “草原的雄鹰”——腾格尔</a></li>
+                                        </ul>
+                	<a href="http://nmg.northnews.cn/news/yllb/" target="_blank"><img src="http://www.northnews.cn/images/bofangqi_03.jpg" width="303" height="57" /></a>
+               </div>
+          </div>
+        </div>
+        <!--草原音乐联播-->
+                <div class="tuij"><!--推荐阅读-->
+        	<ul>
+                <li><a href="http://nmg.northnews.cn/2016/0114/2106315.shtml" target="_blank">古代的“中央巡视员” </a></li>
+                <li><a href="http://nmg.northnews.cn/2016/0114/2106311.shtml" target="_blank">老舍为家人起名很随意                    </a></li>
+                <li><a href="http://nmg.northnews.cn/2016/0114/2106310.shtml" target="_blank">古代姓氏分贵贱 哪些姓不能自称“免贵”？ </a></li>
+                <li><a href="http://nmg.northnews.cn/2016/0114/2106309.shtml" target="_blank">古人也跳“交谊舞” </a></li>
+                <li><a href="http://nmg.northnews.cn/2016/0112/2105187.shtml" target="_blank">周恩来邓颖超的爱情故事 </a></li>
+                <li><a href="http://nmg.northnews.cn/2016/0111/2104498.shtml" target="_blank">“红谍”阎宝航 </a></li>
+            </ul>
+            <span><a href="http://nmg.northnews.cn/news/tjyd/" target="_blank">更多>></a></span>
+        </div><!--推荐阅读-->
+      <div class="laozp"><!--老照片-->
+       		<div class="lzptit"></div>
+            <ul>
+                  <li><a href="http://www.northnews.cn/2015/1113/2072670.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1113/thumb_140_101_1447383942776.jpg"width="140" height="101" /></a><p><a href="http://www.northnews.cn/2015/1113/2072670.shtml" target="_blank">揭秘老版人民币上出现</a></p></li>
+                   <li><a href="http://www.northnews.cn/2015/1103/2063943.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1103/thumb_140_101_1446517965630.png"width="140" height="101" /></a><p><a href="http://www.northnews.cn/2015/1103/2063943.shtml" target="_blank">内蒙古绝对罕见老照片</a></p></li>
+                   <li><a href="http://www.northnews.cn/2015/1102/2062733.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1102/thumb_140_101_1446431997891.jpg"width="140" height="101" /></a><p><a href="http://www.northnews.cn/2015/1102/2062733.shtml" target="_blank">100年前的人们是怎样</a></p></li>
+                   <li><a href="http://www.northnews.cn/2015/1027/2058065.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1027/thumb_140_101_1445927381606.png"width="140" height="101" /></a><p><a href="http://www.northnews.cn/2015/1027/2058065.shtml" target="_blank">内蒙古绝对罕见老照片</a></p></li>
+                   <li><a href="http://www.northnews.cn/2015/1022/2053950.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1022/thumb_140_101_1445499436800.jpg"width="140" height="101" /></a><p><a href="http://www.northnews.cn/2015/1022/2053950.shtml" target="_blank">绝对罕见的镜头：晚年</a></p></li>
+                   <li><a href="http://www.northnews.cn/2015/1019/2049995.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1019/thumb_140_101_1445239538605.png"width="140" height="101" /></a><p><a href="http://www.northnews.cn/2015/1019/2049995.shtml" target="_blank">记录1973年的中国罕见</a></p></li>
+    
+            </ul>
+        </div><!--老照片-->
+        <div class="sponsor"><a href="http://www.wicwuzhen.cn/" target="_blank"><img src="http://upload.northnews.cn/2015/1215/1450143071443.jpg"  width="980" height="60"/></a></div>
+                <!-- 内蒙古财经 开始 -->
+        <div class="caijing">
+            <div class="cj_cont">
+                <div class="cont_fl">
+                    <h2><a href="http://finance.northnews.cn/" target="_blank">内蒙古财经</a></h2>
+                    <ul>
+                      <li><a href="http://finance.northnews.cn/finance/nmgfin/" target="_blank">内蒙古财经</a></li>
+                      <li><a href="http://finance.northnews.cn/finance/bgt/" target="_blank">曝光台</a></li>
+                      <li><a href="http://finance.northnews.cn/finance/yh/" target="_blank">银行</a></li>
+                      <li><a href="http://finance.northnews.cn/finance/lc/" target="_blank">投资</a></li>
+                      <li><a href="http://finance.northnews.cn/finance/zq/" target="_blank">证券</a></li>
+                      <li><a href="http://finance.northnews.cn/finance/cpcs/" target="_blank">产品超市</a></li>
+                    </ul>
+                </div>
+                <div class="cont_fr">
+                  
+                    <ul id="tabs">
+                      <li class="cj_tabs1"><a href="javascript:navigate_tabs('a','1-tab');" id="1-tab">内蒙古财经</a></li>
+                      <li class="cj_tabs2"><a href="javascript:navigate_tabs('b','2-tab');" id="2-tab">曝光台</a></li>
+                      <li class="cj_tabs3"><a href="javascript:navigate_tabs('c','3-tab');" id="3-tab">银行</a></li>
+                      <li class="cj_tabs4"><a href="javascript:navigate_tabs('d','4-tab');" id="4-tab">投资</a></li>
+                      <li class="cj_tabs5"><a href="javascript:navigate_tabs('e','5-tab');" id="5-tab">证券</a></li>  
+                      <li class="cj_tabs6"><a href="javascript:navigate_tabs('f','6-tab');" id="6-tab">产品超市</a></li>  
+                    </ul>
+                    <div id="content">
+                        <div id="tab1" class="a">
+                            <h2>内蒙古财经</h2>
+                            <ul class="imgtext">
+                    <li><a href="http://finance.northnews.cn/2016/0114/2106283.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0114/thumb_200_110_1452734549172.jpg" width="200" height="110" /></a>
+                              <h3><a href="http://finance.northnews.cn/2016/0114/2106283.shtml" target="_blank">“十二五”期间内蒙古城市建设硕果累累</a></h3>
+                              <p>锁定“十二五”的时间坐标，俯瞰内蒙古版图，一座座城市宛如一串串珍珠，缀落在祖国北疆这道亮丽风景线上。....</p></li>
+                    <li><a href="http://finance.northnews.cn/2016/0113/2105731.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0113/thumb_200_110_1452648654979.jpg" width="200" height="110" /></a>
+                              <h3><a href="http://finance.northnews.cn/2016/0113/2105731.shtml" target="_blank">年根儿大扫除，火了家政市场！</a></h3>
+                              <p>距离春节还有20多天了，农历新年前的大扫除是每家每户一大“任务”。不少市民担心临近春节家政人员骤减，出现用工荒。记者走访了解到，首府呼和浩特很多家政公司都预约火爆，而一些桥.......</p></li>
+                            </ul>
+                            <ul class="list">
+                              <li><a href="http://finance.northnews.cn/2016/0115/2107179.shtml" target="_blank">内蒙古启动县域电商平台“易供销”</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106958.shtml" target="_blank">国际投资大师吉姆·罗杰斯入股内蒙古田牧集</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106954.shtml" target="_blank">内蒙古：税制改革为发展注入新动力 </a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106950.shtml" target="_blank">“十三五”内蒙古公路建设要完成投资4000亿</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106909.shtml" target="_blank">内蒙古30项商品荣获“博乐歌”旅游商品称号</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106902.shtml" target="_blank">内蒙古建立低保对象住房信息核查机制</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106893.shtml" target="_blank">内蒙古冬季冰雪旅游体验馆在同程网上线 </a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106888.shtml" target="_blank">呼石化2015年加工原油369万吨 </a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106880.shtml" target="_blank">瑞丽—呼和浩特重点产业和投资项目推介会召</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106879.shtml" target="_blank">内蒙古与各盟市签订土地管理和耕地保护责任</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2106876.shtml" target="_blank">呼铁局去年建成新线1332公里 </a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106494.shtml" target="_blank">内蒙古颁发第一张《食品经营许可证》实现“</a></li>
+                            </ul>
+                        </div>
+                        <div id="tab2" class="b">
+                            <h2>曝光台</h2>   
+                            <ul class="imgtext">
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1229/2099302.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1229/thumb_100_70_1451352451497.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1229/2099302.shtml" target="_blank">家电售后服务存在过度维修 </a></h3><p>品牌冰箱出现不制冷，找到售后维修，派来的专业维修人员检.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1221/2095378.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1221/thumb_100_70_1450663887844.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1221/2095378.shtml" target="_blank">公共场所免费WiFi，别随便蹭！</a></h3><p>记者在采访中发现，安装无线WiFi也成为商家吸引顾客的手段.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1208/2089374.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1208/thumb_100_70_1449538047323.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1208/2089374.shtml" target="_blank">消费者办卡后商家玩“失踪”</a></h3><p>10月14日，本报报道《呼市一理发店关门 会员卡余额或打水漂.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1208/2089304.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1208/thumb_100_70_1449536551929.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1208/2089304.shtml" target="_blank">遭遇“被办卡”，漏洞出在哪儿</a></h3><p>包头市民黄女士向笔者报料称，前几天想去某股份制银行办理.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1204/2087646.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1204/thumb_100_70_1449195346410.png" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1204/2087646.shtml" target="_blank">不良软件作恶三大新手法</a></h3><p>提到不良手机软件，相信很多人都有切肤之痛，随着网民警惕.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1127/2082495.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1127/thumb_100_70_1448588446626.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1127/2082495.shtml" target="_blank">呼和浩特：故家部分门店“变脸</a></h3><p>11月23日，呼和浩特市民张瑞持故家刷肉坊的VIP金卡到故家刷.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1125/2081183.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1125/thumb_100_70_1448419942887.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1125/2081183.shtml" target="_blank">中关村黑导购乱象：价格虚高 </a></h3><p>数年前，人们说起中关村，想到的是中国电子产品最大的集散.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1124/2079667.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1124/thumb_100_70_1448329021385.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1124/2079667.shtml" target="_blank">呼和浩特火车站砸金蛋大棚拆了</a></h3><p>11月20日，本报刊发的题为《呼和浩特火车站砸金蛋骗局为啥.......</p>
+                              </li> 
+
+                            </ul>
+                        </div>
+                        <div id="tab3" class="c">
+                            <h2>银行</h2>
+                            <ul class="imgtext">
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1209/2090144.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1209/thumb_100_70_1449630761682.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1209/2090144.shtml" target="_blank">全国首家钱大掌柜校园体</a></h3><p>记者从兴业银行呼和浩特分行获悉.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1103/2064143.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1103/thumb_100_70_1446532547995.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1103/2064143.shtml" target="_blank">包商银行成功参加2015年</a></h3><p>2015年10月12日至10月15日，第38.......</p>
+                              </li> 
+                            </ul>
+                            <ul class="list">
+                              <li><a href="http://finance.northnews.cn/2016/0113/2105924.shtml" target="_blank">兴业银行发行今年国内首单绿色信贷资产支持</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105326.shtml" target="_blank">包商有氧金融荣膺财经风云榜“最具潜力互联</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0107/2103387.shtml" target="_blank">兴业银行荣获“绿色环保奖” 绿色融资超770</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1231/2100522.shtml" target="_blank">包商有氧金融荣获经济观察报“互联网金融创</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1231/2100509.shtml" target="_blank">注册用户突破300万  兴业银行钱大掌柜加速O</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1231/2100496.shtml" target="_blank">渤海银行呼和浩特分行采取有效措施致力于解</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1231/2100495.shtml" target="_blank">渤海银行呼和浩特分行积极支持自治区重点领</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1228/2098882.shtml" target="_blank">包商有氧金融荣获金蝉奖“2015年度互联网金</a></li>
+                            </ul>
+                            <ul class="imgtext bt-c0">
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0706/1964196.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0706/thumb_100_70_1436166355728.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0706/1964196.shtml" target="_blank">包商银行房地产金融俱乐</a></h3><p>6月30日，是一个值得纪念的日子.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0601/1939505.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0601/thumb_100_70_1433145847174.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0601/1939505.shtml" target="_blank">兴业银行获“中国最佳零</a></h3><p>近日，国际财经权威媒体《亚洲银.......</p>
+                              </li> 
+                            </ul> 
+                            <ul class="list">
+                              <li><a href="http://finance.northnews.cn/2015/1228/2098876.shtml" target="_blank">第六届“兴业银行杯”乒乓球团体邀请赛在呼</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1228/2098873.shtml" target="_blank">浦发银行“财智组合”——徜徉在牛熊之间的</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1225/2098326.shtml" target="_blank">包商有氧金融荣获金蝉奖“2015年度互联网金</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1225/2098324.shtml" target="_blank">第六届“兴业银行杯”乒乓球团体邀请赛在呼</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1225/2098321.shtml" target="_blank">包商银行个金与财富管理业务再获两项殊荣，</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1225/2098320.shtml" target="_blank">包商银行有氧金融刘鑫：做互联网上的商业银</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1216/2093266.shtml" target="_blank">兴业银行摘得“2015中国上市公司卓越董事会</a></li>
+                              <li><a href="http://finance.northnews.cn/2015/1209/2090300.shtml" target="_blank">网银转账逐渐进入“免费时代”</a></li>
+                            </ul>
+                        </div>
+                        <div id="tab4" class="d">
+                            <h2>投资</h2>
+                          <ul class="imgtext">
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0316/1883696.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0316/thumb_100_70_1426487771714.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0316/1883696.shtml" target="_blank">理财被忽悠 索赔如何有</a></h3><p>近年来，在金融理财产品销售过程.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0225/1870659.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0225/thumb_100_70_1424830372693.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0225/1870659.shtml" target="_blank">喜羊羊理财大法</a></h3><p>大多数文艺青年生活过得不好不是.......</p>
+                              </li> 
+                            </ul>
+                            <ul class="list">
+                              <li><a href="http://finance.northnews.cn/2016/0115/2107203.shtml" target="_blank">1月15日银行理财产品一览</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2107202.shtml" target="_blank">今日高收益：交行9%霸气外露</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2107201.shtml" target="_blank">[财精华]本月现大股东增持潮</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2107080.shtml" target="_blank">为何你要有至少25%的债券和现金？</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2106093.shtml" target="_blank">1月13日银行理财产品一览</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2106092.shtml" target="_blank">​今日高收益：12.5%嗨爆理财市场</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2106090.shtml" target="_blank">[财精华]3000点拉锯战，基金或杀跌</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2105865.shtml" target="_blank">后“熔断”时代，2016应该这样投资</a></li>
+                            </ul>
+                            <ul class="imgtext bt-c0">
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0209/1860345.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0209/thumb_100_70_1423449797225.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0209/1860345.shtml" target="_blank">P2P抢客户得撒多少钱</a></h3><p>P2P行业的蛮荒时代还在继续，在.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2014/1125/1795986.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2014/1125/thumb_100_70_1416902730898.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2014/1125/1795986.shtml" target="_blank">降息之后，还有哪些发财</a></h3><p>看起来高冷的央行货币动作，对于.......</p>
+                              </li> 
+                            </ul> 
+                            <ul class="list">
+                              <li><a href="http://finance.northnews.cn/2016/0113/2105862.shtml" target="_blank">医保个人缴费比例上调怎么办？</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2105842.shtml" target="_blank">银行下调理财收益率？或为风险提示</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105500.shtml" target="_blank">1月12日银行理财产品一览</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105497.shtml" target="_blank">今日高收益：理财超10% 你敢买吗？</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105493.shtml" target="_blank">[财精华]人民币大涨</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105418.shtml" target="_blank">你的资产多久才能翻倍？</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105408.shtml" target="_blank">离岸人民币大涨800点 </a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0111/2104891.shtml" target="_blank">[财精华]你的钱往哪投？</a></li>
+                            </ul>
+                        </div>
+                        <div id="tab5" class="e">
+                            <h2>证券</h2>
+                           <ul class="imgtext">
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0519/1929699.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0519/thumb_100_70_1432006564123.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0519/1929699.shtml" target="_blank">牛市私募高分红产品频现</a></h3><p>持续的牛市行情给带来了巨大收益.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0225/1870652.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0225/thumb_100_70_1424830196846.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0225/1870652.shtml" target="_blank">机构解码节后A股</a></h3><p>上周二大盘以红盘迎接羊年新行情.......</p>
+                              </li> 
+                            </ul>
+                            <ul class="list">
+                              <li><a href="http://finance.northnews.cn/2016/0115/2107104.shtml" target="_blank">上市公司护盘进行时 锁仓联盟壮大 </a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0115/2107102.shtml" target="_blank">涨停板基地：今日10股有望冲涨停</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106652.shtml" target="_blank">1月14日银行理财产品一览</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106645.shtml" target="_blank">[财精华]QDII基金行情走暖引来“哄抢”</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106643.shtml" target="_blank">​今日高收益：超10%理财成小鲜肉</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106636.shtml" target="_blank">基金TOP10排行榜：QDII称王 快下手</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106552.shtml" target="_blank">巨额赎回！4只打新基金逆市飙升</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106550.shtml" target="_blank">涨停板基地：今日10股有望冲涨停</a></li>
+                            </ul>
+                            <ul class="imgtext bt-c0">
+                            
+                              <li><a href="http://finance.northnews.cn/2014/1224/1825189.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2014/1224/thumb_100_70_1419395818772.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2014/1224/1825189.shtml" target="_blank">看看炒股达人怎么赚钱</a></h3><p>在这个指数很牛，但个人收益却不.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2014/1219/1820030.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2014/1219/thumb_100_70_1418973504460.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2014/1219/1820030.shtml" target="_blank">80后老股民又疯狂了</a></h3><p>“大妈不跳广场舞了，都去炒股了.......</p>
+                              </li> 
+                            </ul> 
+                            <ul class="list">
+                              <li><a href="http://finance.northnews.cn/2016/0114/2106501.shtml" target="_blank">如此加仓把亏的钱赚回来</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2106094.shtml" target="_blank">[淘基记]股市大调整催火三类基金</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2105851.shtml" target="_blank">魏伟公募最能赚，一拖多现象普遍</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0113/2105838.shtml" target="_blank">涨停板基地：今日13股有望冲刺涨停</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105501.shtml" target="_blank">基金TOP10排行榜：QDI最高涨1.25%</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0112/2105415.shtml" target="_blank">2016年买什么基金才赚钱？</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0111/2104885.shtml" target="_blank">基金TOP10排行榜：煤炭钢分级涨7%</a></li>
+                              <li><a href="http://finance.northnews.cn/2016/0111/2104656.shtml" target="_blank">涨停板基地：今日16股有望冲涨停</a></li>
+                            </ul>
+                        </div>
+                        <div id="tab6" class="f">
+                            <h2>产品超市</h2>
+                            <ul class="imgtext">
+                            
+                              <li><a href="http://finance.northnews.cn/2015/1013/2044108.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/1013/thumb_100_70_1444702231490.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/1013/2044108.shtml" target="_blank">"开放式移动泛非接”受理网络-</a></h3><p>2015年10月12日，迎着金秋丽日，银联商务"开放式移动泛非接.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0519/1929726.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0519/thumb_100_70_1432006426482.gif" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0519/1929726.shtml" target="_blank">刷脸刷掌支付相继亮相</a></h3><p>随着阿里、腾讯前后表示将推“刷脸”支付，生物识别技术在.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0408/1902542.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0408/thumb_100_70_1428480961671.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0408/1902542.shtml" target="_blank">招商银行推出行庆感恩系列理财</a></h3><p>作为业内理财创新的领跑者之一，招商银行一直致力于客户服.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0326/1893880.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0326/thumb_100_70_1427353033839.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0326/1893880.shtml" target="_blank">[评测]金票通的7%为何如此靠谱</a></h3><p>当前在线票据理财无疑是最受广大投资者欢迎的理财方式之一.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0317/1884377.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0317/thumb_100_70_1426556279575.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0317/1884377.shtml" target="_blank">“全民付”架起农村空中绿色支</a></h3><p>“过了惊蛰节,锄头不停歇”，眼下正是农村地区热火朝天忙春.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0211/1863135.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0211/thumb_100_70_1423621510569.gif" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0211/1863135.shtml" target="_blank">民生如意随行保障计划上市</a></h3><p>在我们身边，可以说交通工具无处不在。它让我们短暂的假期.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0209/1861176.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0209/thumb_100_70_1423473404838.jpg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0209/1861176.shtml" target="_blank">平安壹钱包3.1版正式上线</a></h3><p>1月28日，中国平安旗下的个人创新金融APP壹钱包3.1版全新上.......</p>
+                              </li> 
+                            
+                              <li><a href="http://finance.northnews.cn/2015/0128/1852104.shtml" target="_blank">
+                              <img src="http://upload.northnews.cn/2015/0128/thumb_100_70_1422429394326.jpeg" width="100" height="70" /></a><h3><a href="http://finance.northnews.cn/2015/0128/1852104.shtml" target="_blank">包商日溢宝，利率不降，延时开</a></h3><p>经过2014年的各项金融政策的冲击，开年以来互联网“宝宝类.......</p>
+                              </li> 
+
+                            </ul> 
+                        </div>
+                    </div>
+                </div>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#1-tab").addClass('buttonHover');
+});
+
+function navigate_tabs(container, tab){
+	$(".b").css('display' , 'none');
+	$(".c").css('display' , 'none');
+	$(".d").css('display' , 'none');
+	$(".e").css('display' , 'none');
+	$(".f").css('display' , 'none');
+	$(".a").css('display' , 'none');
+	
+	$("#1-tab").removeClass('buttonHover');
+	$("#2-tab").removeClass('buttonHover');
+	$("#3-tab").removeClass('buttonHover');
+	$("#4-tab").removeClass('buttonHover');
+	$("#5-tab").removeClass('buttonHover');
+	$("#6-tab").removeClass('buttonHover');
+	
+	$("#"+tab).addClass('buttonHover');
+	$("."+container).show('slow');
+}
+</script>
+            </div>
+            <div class="cj_bottom"></div>
+        </div>
+        <!-- 内蒙古财经 结束 -->
+ 		<div class="sponsor"><a href="http://www.yili.com" target="_blank"><img src="http://img.northnews.cn/templates/default/images/yili.jpg"  width="980" height="60"/></a></div> 
+      <div class="shenghuo"><!--生活-->
+        	<div class="life-tit">
+            	<ul>
+                	<li><a href="http://car.99jee.com/" target="_blank">违章查询</a></li>
+                    <li><a href="http://www.northnews.cn/tishi/" target="_blank">生活提示</a></li>
+                    <li><a href="http://site.baidu.com/list/lccx.htm" target="_blank">列车时刻</a></li>
+                    <li><a href="http://www.hhhtbus.com/" target="_blank">公交查询</a></li>
+                    <li><a href="http://site.baidu.com/list/kuaidi.htm" target="_blank">快递查询</a></li>
+                    <li><a href="http://flights.ctrip.com/Domestic/SearchFlights.aspx" target="_blank">飞机航班</a></li>
+                    <li><a href="http://www.lottery.gov.cn/" target="_blank">体育彩票</a></li>
+                    <li><a href="http://www.zhcw.com/" target="_blank">福利彩票</a></li>
+                    <li><a href="http://www.weather.com.cn/neimenggu/index.shtml" target="_blank">天气预报</a></li>
+                </ul>
+            </div>
+            <div class="car">
+           	  <h2><a href="http://www.northnews.cn/car/" target="_blank" class="blue">车市</a></h2>
+              <ul>
+                    <li><a href="http://www.northnews.cn/2015/1202/2086258.shtml" target="_blank">年终购车季，三大因素选定首</a></li>
+                     <li><a href="http://www.northnews.cn/2015/0926/2033493.shtml" target="_blank">一汽森雅、佳宝齐助阵金鸡百</a></li>
+                     <li><a href="http://www.northnews.cn/2015/0925/2032802.shtml" target="_blank">大连客车为“金鸡百花奖”添</a></li>
+                     <li><a href="http://www.northnews.cn/2015/0324/1891632.shtml" target="_blank">好大一笔糊涂账——4S店维修</a></li>
+                     <li><a href="http://www.northnews.cn/2015/0324/1891628.shtml" target="_blank">汽车流通协会向车商发公开信</a></li>
+                     <li><a href="http://www.northnews.cn/2015/0324/1891625.shtml" target="_blank">汽车配置"偷工减料"降低安全</a></li>
+                     <li><a href="http://www.northnews.cn/2015/0324/1891622.shtml" target="_blank">汽车售后服务规范等4项国标</a></li>
+  
+              </ul>
+            </div>
+            <div class="house">
+           	  <h2><a href="http://www.northnews.cn/house/" target="_blank" class="orange">楼市</a></h2>
+              <ul>
+                    <li><a href="http://www.northnews.cn/2015/1104/2065569.shtml" target="_blank">暖气不热 “测温留证”最紧</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1104/2065571.shtml" target="_blank">你造吗?卫生间里的7个健康隐</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1104/2065567.shtml" target="_blank">超20省停开单身证明 房屋交</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1104/2065568.shtml" target="_blank">盘点中国各省市首富排行[组</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1029/2060460.shtml" target="_blank">置业也需把握时机</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1029/2060459.shtml" target="_blank">呼和浩特商业地产走上瘦身之</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1027/2058307.shtml" target="_blank">冬季衣物巧收纳 从此不再皱</a></li>
+               </ul>
+            </div>
+            <div class="licai">
+           	  <h2><a href="http://life.northnews.cn/life/licai/" target="_blank" class="zong">理财</a></h2>
+              <ul>
+                    <li><a href="http://life.northnews.cn/2016/0115/2107223.shtml" target="_blank">重磅！中国又一个首富将要撤</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107220.shtml" target="_blank">2565万巨奖终成“弃奖”后续</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107219.shtml" target="_blank">“马云们”钱都花到哪儿去？</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107217.shtml" target="_blank">这是快消的时代 今年哪些快</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107215.shtml" target="_blank">明星收入高投资理财花样多 </a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107208.shtml" target="_blank">全国平均薪酬公布 告诉你为</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107207.shtml" target="_blank">一个男人一生要赚多少钱才能</a></li>
+               </ul>
+            </div>
+            <div class="lvyou">
+            	<h2><a href="http://www.northnews.cn/news/tour/" target="_blank" class="green">旅游</a></h2>
+                <ul>
+                    <li><a href="http://www.northnews.cn/2015/1201/2084736.shtml" target="_blank">分享丨西藏十二大必去之地，</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1106/2067737.shtml" target="_blank">澳大利亚对华10年签证拟明年</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1106/2067736.shtml" target="_blank">光棍节主题线路受年轻人关注</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1106/2067735.shtml" target="_blank">旅游电商借“双11”抢客</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1106/2067734.shtml" target="_blank">呼和浩特反季节旅行渐热</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1104/2065641.shtml" target="_blank">罗马“许愿池”修复工程竣工</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1104/2065256.shtml" target="_blank">坐飞机想舒服要交"伸腿费",</a></li>
+                     <li><a href="http://www.northnews.cn/2015/1104/2065255.shtml" target="_blank">亚洲十大酒吧 饮酒者的最爱[</a></li>
+                 </ul>
+                <dl>
+                                    <dd><a href="http://www.northnews.cn/2015/1104/2065255.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1104/thumb_171_120_1446609031202.png"width="171" height="120" /></a><p><a href="http://www.northnews.cn/2015/1104/2065255.shtml" target="_blank">亚洲十大酒吧 饮酒者的最爱[</a></p></dd>
+				                     <dd><a href="http://www.northnews.cn/2015/1104/2065254.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1104/thumb_171_120_1446608990184.png"width="171" height="120" /></a><p><a href="http://www.northnews.cn/2015/1104/2065254.shtml" target="_blank">四条越南旅游完美线路(组图)</a></p></dd>
+				                     <dd><a href="http://www.northnews.cn/2015/1104/2065252.shtml" target="_blank"><img src="http://upload.northnews.cn/2015/1104/thumb_171_120_1446608925949.png"width="171" height="120" /></a><p><a href="http://www.northnews.cn/2015/1104/2065252.shtml" target="_blank">盘点世界七大桥梁建筑奇景[</a></p></dd>
+				                 </dl>
+            </div>
+            <div class="shangjie">
+           	  <h2><a href="http://life.northnews.cn/life/shangxun/" target="_blank" class="violet">商街</a></h2>
+              <ul>
+                    <li><a href="http://life.northnews.cn/2016/0115/2107176.shtml" target="_blank">内蒙古启动县域电商平台“易</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0114/2106783.shtml" target="_blank">置办年货哪家强 中国青岛找</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0114/2106782.shtml" target="_blank">强强联合，再创辉煌</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0114/2106780.shtml" target="_blank">海尔馨厨冰箱有了“CES版”</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0112/2105582.shtml" target="_blank">海尔&苏宁合作25周年再联手 </a></li>
+                     <li><a href="http://life.northnews.cn/2016/0107/2103453.shtml" target="_blank">呼和浩特小微企业达19.38万</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0107/2103450.shtml" target="_blank">内蒙古多措并举打造绿色品牌</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0106/2103016.shtml" target="_blank">"创业内蒙古"计划5年内带动1</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0106/2103013.shtml" target="_blank">内蒙古自治区推出52个PPP模</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0105/2102314.shtml" target="_blank">内蒙古推出52个PPP模式示范</a></li>
+               </ul>
+             </div>
+             <div class="baby">
+           	  <h2><a href="http://life.northnews.cn/life/qinzi/" target="_blank" class="pink">亲子</a></h2>
+              <ul>
+                    <li><a href="http://life.northnews.cn/2016/0115/2107256.shtml" target="_blank">伊能静怀二胎 怕还去做才是</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107253.shtml" target="_blank">范玮琪双胞胎儿子产房出生照</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107250.shtml" target="_blank">徐濠萦与女儿拉钩 母女文艺</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107249.shtml" target="_blank">李湘王诗龄母女档出镜 小公</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107248.shtml" target="_blank">容祖儿与萌娃拍宣传片</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107247.shtml" target="_blank">足球萌娃助阵MUFC开播</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107245.shtml" target="_blank">产后工作妇女拍内衣写真</a></li>
+               </ul>
+            </div>
+            <div class="marry">
+           	  <h2><a href="http://life.northnews.cn/life/hunqing/" target="_blank" class="red2">婚庆</a></h2>
+              <ul>
+                    <li><a href="http://life.northnews.cn/2016/0115/2107233.shtml" target="_blank">想要成为魅力女性，学会这6</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107230.shtml" target="_blank">寻找终生伴侣 切记避开五类</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107229.shtml" target="_blank">Get到10个点 你也可以拥有梦</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0115/2107228.shtml" target="_blank">胡杏儿的完美嫁衣出自她家</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0114/2106744.shtml" target="_blank">一群男人在ins上模仿女生自</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0114/2106739.shtml" target="_blank">金发超模集邮者 小李子前女</a></li>
+                     <li><a href="http://life.northnews.cn/2016/0114/2106714.shtml" target="_blank">刘诗诗：最低调的80后童话女</a></li>
+               </ul>
+            </div>
+            <div class="health">
+           	  <h2><a href="http://www.northnews.cn/news/health/" target="_blank" class="green2">健康</a></h2>
+              <ul>
+                    <li><a href="http://lady.northnews.cn/2016/0115/2107067.shtml" target="_blank">4种常见蘑菇各有哪些营养价</a></li>
+                     <li><a href="http://lady.northnews.cn/2016/0115/2107065.shtml" target="_blank">酸奶骗多大？健康功效8大真</a></li>
+                     <li><a href="http://lady.northnews.cn/2016/0115/2107041.shtml" target="_blank">冬吃大白菜 “性价比”高</a></li>
+                     <li><a href="http://lady.northnews.cn/2016/0115/2107027.shtml" target="_blank">当心伤害关节的小动作</a></li>
+                     <li><a href="http://lady.northnews.cn/2016/0115/2107014.shtml" target="_blank">胆囊也需要每日做“早操”</a></li>
+                     <li><a href="http://lady.northnews.cn/2016/0115/2107013.shtml" target="_blank">冬季女性手脚冰凉是因为爱美</a></li>
+                     <li><a href="http://lady.northnews.cn/2016/0115/2107004.shtml" target="_blank">老人用药四大坏习惯</a></li>
+               </ul>
+            </div>
+        <div class="meishi">
+            	<h2><a href="http://food.northnews.cn/" target="_blank" class="orange2">美食</a></h2>
+              <ul>
+                              
+                    <li><a href="http://food.northnews.cn/2016/0115/2107152.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_140_89_1452826551979.jpg"width="140" height="89" /></a><p><a href="http://food.northnews.cn/2016/0115/2107152.shtml" target="_blank">鱼香肉丝家常做法</a></p></li>
+				               
+                    <li><a href="http://food.northnews.cn/2016/0115/2107150.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_140_89_1452826428545.jpg"width="140" height="89" /></a><p><a href="http://food.northnews.cn/2016/0115/2107150.shtml" target="_blank">韩式泡菜</a></p></li>
+				               
+                    <li><a href="http://food.northnews.cn/2016/0115/2107143.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_140_89_1452826250361.jpg"width="140" height="89" /></a><p><a href="http://food.northnews.cn/2016/0115/2107143.shtml" target="_blank">砂锅炖豆腐</a></p></li>
+				               
+                    <li><a href="http://food.northnews.cn/2016/0115/2107140.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_140_89_1452826176253.jpg"width="140" height="89" /></a><p><a href="http://food.northnews.cn/2016/0115/2107140.shtml" target="_blank">豉香鱼柳</a></p></li>
+				               
+                    <li><a href="http://food.northnews.cn/2016/0115/2107135.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_140_89_1452826035425.jpg"width="140" height="89" /></a><p><a href="http://food.northnews.cn/2016/0115/2107135.shtml" target="_blank">荷叶饼</a></p></li>
+				               
+                    <li><a href="http://food.northnews.cn/2016/0115/2107109.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0115/thumb_140_89_1452825573474.jpg"width="140" height="89" /></a><p><a href="http://food.northnews.cn/2016/0115/2107109.shtml" target="_blank">荷叶蒸五香肉</a></p></li>
+				               </ul>
+          </div>
+      </div><!--生活-->
+      <div class="yuyan"><!--外文版-->
+      	<div class="english">
+        	<div class="engtit"><h2><a href="http://en.northnews.cn/" target="_blank">ENGLISH</a></h2></div>
+               	    	<a href="http://en.northnews.cn/2016/0113/2105911.shtml" target="_blank"><img src="http://upload.northnews.cn/2016/0113/thumb_140_90_1452652907577.jpg" width="140" height="90" title="China-Mongolia snow festival in Inner Mongolia" /></a> 
+            <h3><a href="http://en.northnews.cn/2016/0113/2105911.shtml" target="_blank">China-Mongolia snow festival in Inner Mongolia</a></h3>
+            <p><a href="http://en.northnews.cn/2016/0113/2105911.shtml" target="_blank">The 1st China-Mongolia Snow and Ice Festival got off to a frosty start at the Naadam Culture Industry Park in Darhan Muminggan banner, near the city of Baotou, Inner Mongolia on Jan 10, 2016, for a 50-day celebration of nomadic culture....</a></p>
+                    </div>
+        <div class="mengwen">
+        	<div class="mwtit"><a href="http://mongol.northnews.cn/" target="_blank"><img src="images/2014/mengw_07.jpg" width="12" height="29" /></a></div>
+        	<div class="mwbox">
+            	<ul>
+                 <li class="mwtu"><a href="http://mongol.northnews.cn/readnews.hongor?modid=117&contentfrom=2&contentid=14819" target="_blank"><img src="http://upload.northnews.cn/2014/0910/thumb_140_90_1410335590599.jpg" width="140" height="90" /></a></li>
+                  <li class="mwzi"><a href="http://mongol.northnews.cn/readnews.hongor?modid=117&contentfrom=2&contentid=14743" target="_blank"><img src="http://upload.northnews.cn/2014/0903/thumb_294_90_1409727042659.jpg" width="294" height="90" /></a></li>
+                  
+                </ul>
+            </div> 
+        </div>
+      </div><!--外文版-->
+  </div>
+</div><!--文化-->
+<!-- 返回顶部 -->
+<div id="code"></div>
+<div id="code_img"></div>
+<a id="gotop" href="javascript:void(0)"></a>
+<!-- 返回顶部 -->
+         <div  style="width:980px;height:60px;margin:0 auto;margin-top:10px;background:url(http://upload.northnews.cn/2015/1224/1450927218141.jpg) no-repeat;"><a href="http://www.12377.cn/node_548446.htm" target="_blank"><img src="http://upload.northnews.cn/2015/1224/1450926371253.png"  width="177" height="41" style="float:right;padding:11px 28px 0 0;"/></a><a href="http://www.northnews.cn/report/" target="_blank"><img src="http://upload.northnews.cn/2015/1224/1450927277935.png"  width="749" height="49" style="float:left;padding:6px 0 0 15px;"/></a></div>
+         
+<div class="footer02"><!--底部-->
+	<div class="infoot02">
+    	<div class="foot-logo">
+            <img src="http://img.northnews.cn/templates/default/images/f-logo_03.jpg"/>
+            <img src="http://img.northnews.cn/templates/default/images/f-logo_07.jpg"/>
+            <p>内蒙古地区新闻最全最快</p>
+            <p>点击量最高  影响力最大</p>
+            <p>⊙</p>
+            <p>内蒙古移动互联新门户</p>
+            <p>主流  权威  新锐</p>
+        </div>
+        <div class="foot-fz">
+        	<h3>内蒙古地方分站</h3>
+            <ul>
+            	<li><a href="http://www.northnews.cn/news/capitalnews/" target="_blank">呼和浩特</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/baotou/" target="_blank">包头</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/bayannaoer/" target="_blank">巴彦淖尔</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/alashan/" target="_blank">阿拉善</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/xilinguole/" target="_blank">锡林郭勒</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/eerduosi/" target="_blank">鄂尔多斯</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/chifeng/" target="_blank">赤峰</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/tongliao/" target="_blank">通辽</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/hulunbeier/" target="_blank">呼伦贝尔</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/xinganmeng/" target="_blank">兴安盟</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/wulanchabu/" target="_blank">乌兰察布</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/wuhai/" target="_blank">乌海</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/manzhouli/" target="_blank">满洲里</a></li>
+                <li><a href="http://www.northnews.cn/news/msnews/erlianhaote/" target="_blank">二连浩特</a></li>
+            </ul>
+        </div>
+        <div class="foot-cp">
+        	<h3>正北方网全媒体产品</h3>
+            <ul>
+            	<li><a href="http://en.northnews.cn/" target="_blank">英文版</a></li>
+                <li><a href="http://mongol.northnews.cn/" target="_blank">蒙文版</a></li>
+                <li><a href="http://www.99jee.com/" target="_blank">99街</a></li>
+                <li><a href="http://www.taoneimeng.com/" target="_blank">淘内蒙</a></li>
+                <li><a href="http://www.northnews.cn/news.shtml" target="_blank">新闻</a></li>
+                <li><a href="http://nmg.northnews.cn/" target="_blank">文化</a></li>
+                <li><a href="http://military.northnews.cn/" target="_blank">军事</a></li>
+                <li><a href="http://video.northnews.cn/" target="_blank">视频</a></li>
+                <li><a href="http://m.northnews.cn/" target="_blank">手机正北方</a></li>
+                <li><a href="http://www.northnews.cn/photo/" target="_blank">图片</a></li>
+                <li><a href="http://food.northnews.cn/" target="_blank">美食</a></li>
+                <li><a href="http://f.northnews.cn/" target="_blank">爱房网 </a></li>
+                <li><a href="http://xy.northnews.cn/" target="_blank">校园</a></li>
+                <li><a href="http://finance.northnews.cn/" target="_blank">财经</a></li>
+            </ul>
+        </div>
+        <div class="foot-xw">
+        	<h3>新闻热线</h3>
+                <p>呼和浩特：0471-6659693 | 6635129</p>
+                <p>乌兰察布：0474-8253366</p>
+                <p>客服电话：0471-6635129</p>
+                <p>商务合作：0471-6659630</p>
+                <p>Email：northnews@126.com</p>
+        </div>
+        <div class="foot-yq">
+        	<h3>友情链接</h3>
+            <ul>
+            <li><a  href="http://news.sohu.com/" target="_blank">搜狐</a></li>
+            <li><a  href="http://news.163.com/" target="_blank">网易</a></li>
+            <li><a  href="http://www.gog.com.cn/" target="_blank">多彩贵州网</a></li>
+        	<li><a  href="http://www.gansudaily.com.cn/" target="_blank">每日甘肃</a></li>
+            <li><a  href="http://www.southcn.com/" target="_blank">南方网</a></li>
+            <li><a  href="http://www.bzcm.net/" target="_blank">滨州传媒网</a></li>
+            <li><a  href="http://www.bjnews.com.cn/" target="_blank">新京报网</a></li>
+            <li><a  href="http://www.qbnews.cn/" target="_blank">贵网</a></li>
+            <li><a  href="http://www.njdaily.cn/" target="_blank">南报网</a></li>
+            <li><a  href="http://media.sohu.com/" target="_blank">搜狐传媒</a></li>
+            <li><a  href="http://www.nmglabs.com/" target="_blank">内蒙古IT实验室</a></li>
+            <li><a  href="http://www.job9981.com/huhehaote/" target="_blank">呼和浩特人才网</a></li>
+            <li><a  href="http://www.nmzol.com/" target="_blank">北方IT网</a></li>
+            <li><a  href="http://www.zhaochafa.com/" target="_blank">找查发</a></li>
+            <li><a  href="http://www.iyaxin.com/" target="_blank">亚心网</a></li>
+            <li><a  href="http://hhht.house.sina.com.cn/" target="_blank">新浪乐居</a></li>
+            <li><a  href="http://nmg.takungpao.com/" target="_blank">大公网内蒙古频道</a></li>
+            <li><a  href="http://www.ttcy.com/" target="_blank">天堂草原音乐网</a></li>
+            <li><a  href="http://www.mgyyw.com/" target="_blank">蒙古语音乐网</a></li>
+            <li><a  href="http://www.hhhtnews.com/" target="_blank">呼和浩特新闻网</a></li>
+            <li><a  href="http://nm.people.com.cn/" target="_blank">人民网内蒙古频道</a></li>
+            <li><a  href="http://net.china.cn/" target="_blank">中国互联网举报中心</a></li>
+            <li><a  href="http://www.haiwainet.cn/" target="_blank">海外网</a></li>
+            <li><a href="http://www.anquan.org/s/www.northnews.cn" name="nuCY7ZZs8Yt7hbSAlkiK2bpuy9sBdyMpPoWeEJhWUmv1eOmfg3" >安全联盟</a></li>
+            <li><a href="http://www.mnw.cn/" target="_blank">闽南网</a></li>
+            <li><a href="http://www.9466.com" target="_blank">网页制作</a></li>
+            <li><a href="http://www.gywb.cn/" target="_blank">贵阳网</a></li>
+            <li><a href="http://www.saibeinews.com/" target="_blank">塞北新闻网</a></li>
+            <li><a href="http://www.aihami.com/" target="_blank">淮安新闻网</a></li>
+            <li><a href="http://www.xjrb.com/" target="_blank">西江网</a></li>
+            <li><a href="http://www.xhby.net/" target="_blank">新华报业网</a></li>
+            <li><a href="http://www.hlnmg.org/" target="_blank">活力内蒙古</a></li>
+            <li><a href="http://neimenggu.kaiwind.com/" target="_blank">凯风内蒙古反邪教网</a></li>
+            <li><a href="http://www.10mzydh.gov.cn/" target="_blank">第十届全国少数民族传统体育运动会</a></li>
+            <li><a href="http://www.shenchuang.com/" target="_blank">深圳之窗</a></li>
+            </ul>
+        </div>
+    </div>
+</div><!--底部-->
+<div class="banquan"><!--版权-->
+	<P><a href="http://www.northnews.cn/about/about-northnews.html" target="_blank" class="grey">网站介绍</a> | <a href="http://www.northnews.cn/about/sponsor.html" target="_blank" class="grey">广告报价</a> | <a href="http://www.northnews.cn/about/contact.html" target="_blank" class="grey">联系方式</a> | <a href="http://www.northnews.cn/about/falv.html" target="_blank" class="grey">法律声明</a> | <a href="http://www.northnews.cn/about/sponsor.html" target="_blank" class="grey">对外合作</a> | <a href="http://app.northnews.cn/?app=rss" target="_blank" class="grey">RSS订阅</a></P>
+            <P>版权声明：正北方网版权所有，未经授权， 请勿转载或建立镜像，违者依法必究。 &nbsp <b><a href="http://www.northnews.cn/report/" target="_blank">违法和不良信息举报电话：0471-6635129</a></b></P>
+<p>内蒙古日报传媒集团 正北方网新闻热线：0471-6659693 客服电话：0471-6635129 商务合作：0471-6635388 <b>Email：northnews@126.com(欢迎投稿 适时监控)</b></p>
+<P>正北方网 Copyright &copy; 2004-2014 northnews.cn All Rights Reserved. 蒙ICP备10000005号 国新网许可证编号：<a href="http://www.northnews.cn/aboutguo" target="_blank">1512011001</a></P><P>&nbsp</P>
+</div><!--版权-->
+<div style="display:none;"><!--流量-->
+<script type="text/javascript" src="js/cnzz_phone.js"></script>
+<script src="http://s96.cnzz.com/stat.php?id=409499&web_id=409499" language="JavaScript"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F271430eb7c28547d5fea579fca819c94' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div><!--流量-->
+</body>
+</html>

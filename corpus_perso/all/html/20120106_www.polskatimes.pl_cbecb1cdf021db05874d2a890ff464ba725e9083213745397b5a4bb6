@@ -1,0 +1,2466 @@
+
+  
+
+
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,700|PT+Sans:400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="http://s-pt.ppstatic.pl/www/merge/?typ=css&amp;p=/o/css/cookies.css,/p/css/serwisy/regionalne_artykul.css,/p/css/rwd/slick.css,/p/css/nanoScroller.css,/p/css/rwd/foundation5mod.css,/p/css/serwisy/regionalne.css&amp;v=11140890&amp;w=75dda511140890_9b3f5811140890_739c2a11140890_e4bdda11140890_f9b66611140890_1a6bde11140890" type="text/css" >
+
+    
+    <script type="text/javascript">var czyMobilne = !1, czyTablet = !1;</script><script type="text/javascript">if(!GR) { var GR = function() { return; }; }var oG_OSA = {"serwis":"polskatimes", "sUrl":"http://s-pt.ppstatic.pl","debug":false, "iframeReklama":"http://gratka.pl/reklama/", "tracking": [], "vat":{"stawka":0.23,"procent":23,"brutto":1.23}, "trybReklamy": "new", "czyBot": false, "adOceanEmiter":"ad.adocean.pl", "adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77", "kodowanie":"utf-8", "wersja_serwisu":"11140890", "typAnalytics":"GA"};</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/jquery/1.8.3/jquery.min.js?20150630"></script>
+<script type="text/javascript">if (GR && !GR.DOM) {jQuery=jQuery.noConflict(true);}</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/osnowa.js?c836e611140890"></script>
+<script type="text/javascript" src="//ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/reklama.js?95712311140890"></script>
+<script type="text/javascript">var adMiejsce = {"dol1":"adoceanadzmlgfsqjrb","fiszka":"adoceanadwncnipkomw","gora1":"adoceanadtojtlmetwr","gora2":"adoceanadqpqjpjohqq","layer":"adoceanadnaiqcxhmwl","okazjon":"adoceanadkbpggurqgg","prawa1":"adoceanadxbgnjrlfaf","prawa2":"adoceanaducntmofkka","prawa3":"adoceanadrdekqlpofv","prawa4":"adoceanadoelqdjjtaq","srodek1":"adoceanadlfchhwshup","srodek2":"adoceanadyfjnktmmtk","srodek3":"adoceanadvgqtnqgrdf","srodek4":"adoceanadshhkboqfte","tapeta":"adoceanadpioqelkkdz","verboomInterText":"adoceanadmjfhiiepju","link1":"adoceanadwgmmmupnbg","link2":"adoceanadqikjdpdhma","link3":"adoceanadkkigkjhqrq","link4":"adoceanadulgtqtkjzk","prawa5":"adoceanadoneqhoospa"};
+
+  var adO = {"keys":["dziennikzachodni,artykul,ros,material,wiadomosci,strona_glowna,aktualnosci,katowice,material_487951,kluk proces uniewinniony,genera\u0142 mafia paliwa"],"vars":[],"minSzerokosc":1000,"kodMaster":"xMA2Ox0_gis83gW1D4404HX53A.1ZrA9VJeMtxDU7oH.t7","adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"};
+
+  var hasFlash = (
+    (navigator.plugins !== "undefined" && typeof navigator.plugins["Shockwave Flash"] === "object")
+    || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) !== false)
+  );
+
+  if (hasFlash) {
+    adO.keys.push('flash');
+  }
+
+  var ciastkoCriteo = GR('pobierzCookie', 'crtg_rta');
+
+  if (ciastkoCriteo && ';' == ciastkoCriteo.charAt(ciastkoCriteo.length-1)) {
+    ciastkoCriteo = ciastkoCriteo.substring(0, ciastkoCriteo.length-1);
+  }
+
+  if (ciastkoCriteo) {
+    var kluczeIWartosci = unescape(ciastkoCriteo).split(";");
+    var dlugosc = kluczeIWartosci.length;
+
+    for (var i = 0; i < dlugosc; i++) {
+      var kluczIWartosc = kluczeIWartosci[i].split("=");
+      adO.vars[kluczIWartosc[0]] = parseInt(kluczIWartosc[1]);
+    }
+  }
+    GR('wywolajReklamy', 1, adO);
+  
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fba07d53bd07def&async=1?201601"></script>
+<script type="text/javascript" src="//connect.facebook.net/pl_PL/sdk.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/www/merge/?typ=js&amp;p=/o/jquerytools/jquery.cookie.js,/p/js/regionalne/menu_gorne.js,/p/js/regionalne/stopka.js,/p/js/regionalne/naglowek_skrocony.js,/o/jquerytools/jquery.lazyload-1.9.3.js,/o/jquerytools/jquery.appear-1.1.1.min.js,/p/js/cgr/polskatimes.js,/p/js/rwd/modernizr.foundation.js,/p/js/rwd/foundation5.js,/p/js/rwd/foundation.tooltip.js,/p/js/rwd/foundation.reveal.js,/p/js/rwd/jquery.inview.js,/p/js/rwd/jquery.localscroll-1.2.7-min.js,/p/js/rwd/jquery.scrollTo-1.4.3.1-min.js,/o/jquerytools/jquery.nanoscroller.js,/p/js/regionalne/kategorie_wiecej.js,/p/js/regionalne/rozwin_boks.js,/p/js/rwd/material_spolecznosci.js,/o/js/cgr/track.js&amp;v=11140890&amp;w=89ebf411140890_ffbedf11140890_01240011140890_ada0ac11140890_4b6e9d11140890_72e1d911140890_e042a311140890_9177d511140890_07c27111140890_54a3f911140890_e3446211140890_4ac5fe11140890_8996ad11140890_c4dff611140890_150c7211140890_c36bd511140890_674f9611140890_59ce5711140890_f0dc1511140890"></script>
+
+    
+    <script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/criteo.js?6c3c0811140890"></script>
+
+
+                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                    <title>Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji - Dziennikzachodni.pl</title>
+                            <meta name="description" content="Zdaniem sądu gen. Mieczysław K., były szef śląskiej policji nie współpracował z mafią paliwową i nie brał łapówek za sprzedaż tajnych informacji">
+                                <meta name="keywords" content="Wiadomości, Dziennik Zachodni, kluk proces uniewinniony, generał mafia paliwa">
+                                <meta name="robots" content="index, follow">
+                                                                <meta name="google-site-verification" content="BnmV1zOnHvmMbnprNvtj7vj-x-OlF8YzJWqXJImDSMA">
+                        <link rel="canonical" href="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html">
+                                                                                                                                                                                                                                                                                                                                                                                            <meta name="rating" content="general">
+                                <meta name="revisit-after" content="1 day">
+                                                                                <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                                <meta name="fragment" content="!">
+                                                                <meta name="news_keywords" content="kluk proces uniewinniony, generał mafia paliwa">
+                                <meta name="thumbnail" content="http://d-pt.ppstatic.pl/k/r/5/db/c0/4efb2eec08458_m.jpg?1353384488">
+            
+
+
+            <meta property="article:publisher" content="http://www.facebook.com/dziennikzachodni">
+                <meta property="article:author" content="http://www.facebook.com/dziennikzachodni">
+                <meta property="og:image" content="http://d-pt.ppstatic.pl/k/r/5/db/c0/4efb2eec08458_o.jpg?1353384488">
+                <meta property="og:title" content="Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji">
+                <meta property="og:url" content="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html">
+                <meta property="og:type" content="article">
+                <meta property="og:site_name" content="Dziennikzachodni.pl">
+                <meta property="og:description" content="Zdaniem sądu gen. Mieczysław K., były szef śląskiej policji nie współpracował z mafią paliwową i nie brał łapówek za sprzedaż  tajnych informacji.">
+    
+    <link rel="apple-touch-icon" href="http://s-pt.ppstatic.pl/g/favicon/mobilne/dziennik_zachodni.png?1">
+
+
+
+<link href="http://s-pt.ppstatic.pl/g/favicon/dziennik_zachodni.ico" rel="shortcut icon">
+      <!--[if IE]>
+    <meta http-equiv="imagetoolbar" content="no">
+<![endif]-->
+
+      <script type="text/javascript">
+  GR('oTrackGettracker', { prefix: '', account: 'UA-2770843-7', domain: '.dziennikzachodni.pl', setAllowAnchor: true });
+      GR('oTrackGettracker', { prefix: 'b', account: 'UA-2770843-19', domain: '.dziennikzachodni.pl' });
+    </script>
+
+  
+<script type="text/javascript">
+  jQuery(function() {
+    jQuery("img.lazy").appear(function() { }); // hac
+    jQuery("img.lazy").removeClass('lazy').lazyload({
+      effect:"fadeIn",
+      threshold : 10,
+      failure_limit : 100
+    });
+    // inicjalizacja obsługi boksów asynchronicznych
+    GR('o_async_inicjalizuj_pt', '/artykul/', '487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t', 'html', '//www.dziennikzachodni.pl/ajax/laduj_asynchronicznie/', '', 0);
+  });
+</script>
+
+  <script><!--
+(function(){
+  var images = [];
+
+  images[0] = new Image();
+  images[0].src = "//mreg.hit.gemius.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=zCg7YHhOsJtjE6VokPRvTvU57H8Fg1CHYpw2HlADJcH.z7&et=view";
+
+  images[1] = new Image();
+  images[1].src =  "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=ciI1xEcaVW5n8SYdF3KOItU77Ok1EDiTYtK0XgK_zen.u7&et=view";
+})();
+//--></script>
+
+    <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  var pp_gemius_identifier = '.AhL0..APAJxrDC2mDBXgXZ2nF7Bgkyeqml8Er..u4z.m7';
+  function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+  gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+  (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+  gt.setAttribute('defer','defer'); gt.src=l+'://pro.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+  //--><!]]>
+  
+  </script>
+  <script>
+    var gfkSstConf = {
+      "url": "config.sensic.net/pl1-sst-w.js",
+      "media" : "dziennikzachodniPL",
+      "content" : "dz_artykul_wiadomosci_56"
+    };
+    
+      (function (w, d, c, s, id) {
+        if (d.getElementById(id)) {return;}
+          w[id] = w[id] || function () {
+            if ("undefined" == typeof gfkSstApi) {w[id].queue.push(arguments[0]);
+      } else {gfkSstApi.impression(arguments[0]);}
+          };
+        w[id].queue = w[id].queue || [];
+        var tag = d.createElement(s); var el = d.getElementsByTagName(s)[0];
+        tag.id = id; tag.async = true; tag.src = '//' + c.url;
+        el.parentNode.insertBefore(tag, el);
+      })(window, document, gfkSstConf, 'script', 'gfkSst');
+    
+  </script>
+
+ 
+  </head>
+  <!--[if lt IE 9 ]>    <body class="lt-ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if IE 9]> <body class="ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <body class="regionalne stronaMaterialu widokDesktop">
+  <!--<![endif]-->
+      <script>
+  dataLayer = [{
+      }];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TX38WF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TX38WF');</script>
+  <!-- End Google Tag Manager -->
+
+        <div id="piano-root"></div><script type="text/javascript">
+var pianoVariables = {
+  service_id: '220',
+  mode: 'bar_normal',
+  method_verify: true
+};
+var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+
+  var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+})();
+</script>  <div id="kontener-static">  <div id="pasek-media-plywajacy" class="pasekMediaPlus skrocony przyklejony" style="display:none">
+    <div class="row">
+      <header class="columns">
+        <span id="menu-mobilne-przycisk" class="show-for-medium-down" title="Menu">Menu</span>        <h1>
+          <a href="http://www.dziennikzachodni.pl" data-tracker="/nowa_karta/naglowek/dziennikzachodni">
+              <img src="http://s-pt.ppstatic.pl/g/logo_naglowek/dziennikzachodni.png?11140890.png" alt="Dziennik Zachodni">
+
+          </a>
+        </h1>
+                          <h2>
+            <a href="http://www.dziennikzachodni.pl/wiadomosci/" data-tracker="/nowa_karta/naglowek/kategoria_mat/ /wiadomosci/">
+                              <span>Wiadomości</span>
+                          </a>
+          </h2>
+                <ul class="kategorieNaglowek schowaj"></ul>
+      </header>
+      <ul class="columns logowanie">
+                  <li class="zaloguj"><a class="loginWarstwa" data-tracker="naglowek/zaloguj" title="Zaloguj się do serwisu Dziennik Zachodni" href="http://www.dziennikzachodni.pl/logowanie/" rel="nofollow" id="naglowek-link-login">Zaloguj się</a></li>
+                <li class="szukaj schowaj">
+          <div>
+            <a title="szukaj" href="http://www.dziennikzachodni.pl/szukaj/">Szukaj</a>
+            <form action="http://www.dziennikzachodni.pl/wyszukiwanie/" method="post" id="wyszukiwarka-mobile">
+              <input type="search" name="szukaj_slowo" placeholder="Wpisz czego szukasz" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</div><div id="ad-gora1" class="adSrodek hide-for-medium-down naglowekTlo"></div>
+<div id="logo-serwisu"></div>
+
+    <script type="text/javascript">
+        (function () {
+            GR('wstawReklame', {
+                nazwa: 'gora1',
+                rodzic: '#ad-gora1',
+            });
+        })();
+    </script>
+
+<script><!--
+(function(){
+  try{
+    var adrequest = new XMLHttpRequest();
+    var hitrequest = new XMLHttpRequest();
+ 
+    adrequest.open("GET", "//myao.adocean.pl/_" + new Date().getTime() + "/ad.js?id=nJpB5gBsvEYqjNEhFhRQd_sR3A.T7LA9bTdPlUvbjW7.47", true);
+    adrequest.withCredentials = true;
+    adrequest.send(null);
+  
+    hitrequest.open("GET", "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.js?l=71&id=p301ZHcRQYCaGuv9TDX3pvUI.D5REaSbzAnb3DaDtQL.f7&et=view", true);
+    hitrequest.withCredentials = true;
+    hitrequest.send(null);
+  } catch (e) {}
+})();
+//--></script>
+
+
+<script>
+    (function(){
+      var czyZainicjalizowany =  oG_OSA['facebookZainicjalizowany'] || false;
+      if(!czyZainicjalizowany) {
+          FB.init({
+            appId: '422216331140540',
+            xfbml: true,
+            cookie: true,
+            oauth: true,
+            version: 'v2.2'
+          });
+          oG_OSA['facebookZainicjalizowany'] = true;
+      }
+    })();
+</script>
+
+    <div class="blok menu" id="LinkArea:men">
+  <div class="row">
+    <div class="columns large-12" id="LinkArea:menMob">
+            <ul id="menu-mobilne" style="display: none;">
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/wiadomosci/" class="ellipsis menu1Poziom" id="LinkArea:menuMob1">Wiadomości</a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/sport/" class="ellipsis menu1Poziom" id="LinkArea:menuMob2">Sport</a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/dz24/" class="ellipsis menu1Poziom" id="LinkArea:menuMob3">DZ24</a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/opinie/" class="ellipsis menu1Poziom" id="LinkArea:menuMob4">Opinie</a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/serwisy/" class="ellipsis menu1Poziom" id="LinkArea:menuMob5">Serwisy</a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/studniowki/" class="ellipsis menu1Poziom" id="LinkArea:menuMob6">Studniówki</a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/" class="ellipsis menu1Poziom" id="LinkArea:menuMob7">Aktywne Beskidy</a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/stylzycia/" class="ellipsis menu1Poziom" id="LinkArea:menuMob8">Styl życia </a>
+          </li>
+                            <li>
+            <a href="http://www.dziennikzachodni.pl/quizy/" class="ellipsis menu1Poziom" id="LinkArea:menuMob9">Quizy</a>
+          </li>
+                                  <li id="horoskopy-mobilne">
+          <a href="http://www.dziennikzachodni.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+        </li>
+                  <li id="biznes-mobilne">
+            <a href="http://www.strefabiznesu.dziennikzachodni.pl" class="menu1Poziom" target="_blank">Biznes</a>
+          </li>
+                                    <li id="agro-mobilne">
+            <a href="http://strefaagro.dziennikzachodni.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+                                    <li class="zaloguj"><a class="loginWarstwa" title="Zaloguj się do serwisu" href="http://www.dziennikzachodni.pl/logowanie/" rel="nofollow">Zaloguj</a></li>
+              </ul>
+    </div>
+    <div class="columns large-12" id="LinkArea:menGl">
+      <ul id="menu-glowne" class="hide-for-medium-down">
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/wiadomosci/" class="menu1Poziom" id="LinkArea:menuGl1">Wiadomości</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo11">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/katowice/" id="LinkArea:menGlPo111">Katowice</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/sosnowiec/" id="LinkArea:menGlPo112">Sosnowiec</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/czestochowa/" id="LinkArea:menGlPo113">Częstochowa</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/bielskobiala/" id="LinkArea:menGlPo114">Bielsko-Biała</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/gliwice/" id="LinkArea:menGlPo115">Gliwice</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/rybnik/" id="LinkArea:menGlPo116">Rybnik</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/bytom/" id="LinkArea:menGlPo117">Bytom</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/bedzin/" id="LinkArea:menGlPo118">Będzin</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/bierun/" id="LinkArea:menGlPo119">Bieruń</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/chorzow/" id="LinkArea:menGlPo1110">Chorzów</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo12">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/cieszyn/" id="LinkArea:menGlPo121">Cieszyn</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/dabrowagornicza/" id="LinkArea:menGlPo122">Dąbrowa Górnicza</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/jastrzebiezdroj/" id="LinkArea:menGlPo123">Jastrzębie-Zdrój</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/jaworzno/" id="LinkArea:menGlPo124">Jaworzno</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/klobuck/" id="LinkArea:menGlPo125">Kłobuck</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/lubliniec/" id="LinkArea:menGlPo126">Lubliniec</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/mikolow/" id="LinkArea:menGlPo127">Mikołów</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/myslowice/" id="LinkArea:menGlPo128">Mysłowice</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/myszkow/" id="LinkArea:menGlPo129">Myszków</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/piekaryslaskie/" id="LinkArea:menGlPo1210">Piekary Śląskie</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo13">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/pszczyna/" id="LinkArea:menGlPo131">Pszczyna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/raciborz/" id="LinkArea:menGlPo132">Racibórz</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/rudaslaska/" id="LinkArea:menGlPo133">Ruda Śląska</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/siemianowiceslaskie/" id="LinkArea:menGlPo134">Siemianowice Śląskie</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/swietochlowice/" id="LinkArea:menGlPo135">Świętochłowice</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/tarnowskiegory/" id="LinkArea:menGlPo136">Tarnowskie Góry</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/tychy/" id="LinkArea:menGlPo137">Tychy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/wodzislawslaski/" id="LinkArea:menGlPo138">Wodzisław Śląski</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/zabrze/" id="LinkArea:menGlPo139">Zabrze</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/zawiercie/" id="LinkArea:menGlPo1310">Zawiercie</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo14">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/zory/" id="LinkArea:menGlPo141">Żory</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/zywiec/" id="LinkArea:menGlPo142">Żywiec</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/knurow/" id="LinkArea:menGlPo143">Knurów</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/rybnik/" id="LinkArea:menGlPo144">Rybnik</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/slask/" id="LinkArea:menGlPo145">Śląsk</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/zaglebie/" id="LinkArea:menGlPo146">Zagłębie</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/beskidy/" id="LinkArea:menGlPo147">Beskidy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/czestochowa/" id="LinkArea:menGlPo148">Częstochowa</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/wiadomosci/otymsiemowi/" id="LinkArea:menGlPo149">O tym się mówi</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                    </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/sport/" class="menu1Poziom" id="LinkArea:menuGl2">Sport</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo21">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/komentarzsportowy/" id="LinkArea:menGlPo211">Komentarz sportowy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/pilkanozna/" id="LinkArea:menGlPo212">Piłka nożna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/sportyzimowe/" id="LinkArea:menGlPo213">Sporty zimowe</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/hokej/" id="LinkArea:menGlPo214">Hokej</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/siatkowka/" id="LinkArea:menGlPo215">Siatkówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/pilkareczna/" id="LinkArea:menGlPo216">Piłka ręczna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/ekstraklasa/" id="LinkArea:menGlPo217">Ekstraklasa</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/gkskatowice/" id="LinkArea:menGlPo218">GKS Katowice</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/gornikzabrze/" id="LinkArea:menGlPo219">Górnik Zabrze</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/piastgliwice/" id="LinkArea:menGlPo2110">Piast Gliwice</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo22">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/podbeskidziebb/" id="LinkArea:menGlPo221">Podbeskidzie B-B</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/rozwojkatowice/" id="LinkArea:menGlPo222">Rozwój Katowice</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/ruchchorzow/" id="LinkArea:menGlPo223">Ruch Chorzów</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/zaglebiesosnowiec/" id="LinkArea:menGlPo224">Zagłębie Sosnowiec</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/gkstychy/" id="LinkArea:menGlPo225">GKS Tychy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/poloniabytom/" id="LinkArea:menGlPo226">Polonia Bytom</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/ligiregionalne/" id="LinkArea:menGlPo227">Ligi regionalne</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/tourdepologne/" id="LinkArea:menGlPo228">Tour de Pologne</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/sport/plebiscytpilkarski/" id="LinkArea:menGlPo229">Plebiscyt piłkarski</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9293848,wybierz-stok-na-szostke-rusza-nasz-plebiscyt-na-najlepszy-osrodek-narciarski-glosuj,id,t.html" id="LinkArea:menGlM21">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/db/5c/5698d81340460_o,size,380x238,q,71,h,d63bd3.jpg" class="lazy schowaj">
+                                                    <h3 >Wybierz Stok na szóstkę! Rusza nasz plebiscyt na najlepszy ośrodek narciarski [GŁOSUJ]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9290692,euro-2016-w-pilce-recznej-katowice-chorwacja-bialorus-zdjecia,id,t.html" id="LinkArea:menGlM22">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/0a/7f/5698f5f7e547c_o,size,380x238,q,71,h,25a31f.jpg" class="lazy schowaj">
+                                                    <h3 >Euro 2016 w piłce ręcznej KATOWICE Chorwacja - Białoruś ZDJĘCIA</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/dz24/" class="menu1Poziom" id="LinkArea:menuGl3">DZ24</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9287759,wypadek-na-ulicy-karpackiej-w-chorzowie-dwie-osoby-w-szpitalu,id,t.html" id="LinkArea:menGlM31">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/0c/df/5696be895efe2_o,size,380x238,q,71,h,9bde48.jpg" class="lazy schowaj">
+                                                    <h3 >Wypadek na ulicy Karpackiej w Chorzowie. Dwie osoby w szpitalu</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9287355,pozar-w-mieszkaniu-przy-ulicy-katowickiej-w-chorzowie,id,t.html" id="LinkArea:menGlM32">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/29/83/56969f003846c_o,size,380x238,q,71,h,07a41c.jpg" class="lazy schowaj">
+                                                    <h3 >Pożar w mieszkaniu przy ulicy Katowickiej w Chorzowie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9279701,wypadek-w-kozieglowach-dwie-osoby-trafily-do-szpitala,id,t.html" id="LinkArea:menGlM33">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/28/3a/5694283f49112_o,size,380x238,q,71,h,dfe5ad.jpg" class="lazy schowaj">
+                                                    <h3 >Wypadek w Koziegłowach. Dwie osoby trafiły do szpitala</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9278647,kolizja-na-dk94-w-sosnowcu-zderzenie-dwoch-aut,id,t.html" id="LinkArea:menGlM34">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/80/a6/5693ea32c3dd4_o,size,380x238,q,71,h,8ad160.jpg" class="lazy schowaj">
+                                                    <h3 >Kolizja na DK94 w Sosnowcu. Zderzenie dwóch aut</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/opinie/" class="menu1Poziom" id="LinkArea:menuGl4">Opinie</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo41">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/opinie/felietony/" id="LinkArea:menGlPo411">Felietony</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/opinie/komentarze/" id="LinkArea:menGlPo412">Komentarze</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/opinie/wywiady/" id="LinkArea:menGlPo413">Wywiady</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9294608,posel-pieta-o-slazakach-korfanty-kazalby-do-was-strzelac,id,t.html" id="LinkArea:menGlM41">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/c7/91/569900bd969a5_o,size,380x238,q,71,h,3973c2.jpg" class="lazy schowaj">
+                                                    <h3 >Poseł Pięta o Ślązakach: Korfanty kazałby do was strzelać </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9292943,sakiewicz-moze-to-przypadek-ale-jak-doszlo-do-zmian-w-telewizji-wszystko-sie-uspokoilo,id,t.html" id="LinkArea:menGlM42">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/37/01/56989e92d9490_o,size,380x238,crop,0.0013x0.0000x0.9920x0.9510,q,71,h,40c261.jpg" class="lazy schowaj">
+                                                    <h3 >Sakiewicz: Może to przypadek, ale jak doszło do zmian w telewizji, wszystko się uspokoiło</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9292865,smog-nas-zabija-polska-ma-najgorsze-powietrze-w-calej-unii-europejskiej,id,t.html" id="LinkArea:menGlM43">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/dc/16/5698987aa185b_o,size,380x238,q,71,h,c06044.jpg" class="lazy schowaj">
+                                                    <h3 >Smog nas zabija. Polska ma najgorsze powietrze w całej Unii Europejskiej</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/serwisy/" class="menu1Poziom" id="LinkArea:menuGl5">Serwisy</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo51">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/historia/" id="LinkArea:menGlPo511">Historia</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/inwestycje/" id="LinkArea:menGlPo512">Inwestycje</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/kultura/" id="LinkArea:menGlPo513">Kultura</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/prawojazdy/" id="LinkArea:menGlPo514">Prawo jazdy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/zdrowie/" id="LinkArea:menGlPo515">Zdrowie</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/polityka/" id="LinkArea:menGlPo516">Polityka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/kosciol/" id="LinkArea:menGlPo517">Kościół</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                          <div class="listaKat columns medium-3" id="LinkArea:menGlPo52">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/komunikacja/" id="LinkArea:menGlPo521">Komunikacja</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/wakacje/" id="LinkArea:menGlPo522">Wakacje</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/naszesprawy/" id="LinkArea:menGlPo523">Nasze sprawy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/eko/" id="LinkArea:menGlPo524">Eko</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/magazyndz/" id="LinkArea:menGlPo525">Magazyn DZ</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/serwisy/wosp/" id="LinkArea:menGlPo526">WOŚP</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9294608,posel-pieta-o-slazakach-korfanty-kazalby-do-was-strzelac,id,t.html" id="LinkArea:menGlM51">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/c7/91/569900bd969a5_o,size,380x238,q,71,h,3973c2.jpg" class="lazy schowaj">
+                                                    <h3 >Poseł Pięta o Ślązakach: Korfanty kazałby do was strzelać </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9291442,ranking-szkol-nauki-jazdy-kategorii-b-za-2015-rok-w-wojewodztwie-slaskim,id,t.html" id="LinkArea:menGlM52">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/60/73/5697e1eab448c_o,size,380x238,q,71,h,47a321.jpg" class="lazy schowaj">
+                                                    <h3 >Ranking szkół nauki jazdy kategorii B za 2015 rok w województwie śląskim</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/studniowki/" class="menu1Poziom" id="LinkArea:menuGl6">Studniówki</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9293470,bytom-studniowka-2016-jak-wygladaja-przygotowania-w-i-lo-im-smolenia,id,t.html" id="LinkArea:menGlM61">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/8d/da/5698c6a31cdd2_o,size,380x238,q,71,h,f145db.jpg" class="lazy schowaj">
+                                                    <h3 >Bytom: Studniówka 2016. Jak wyglądają przygotowania w I LO im. Smolenia?</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9293095,studniowka-zse-im-korfantego-w-katowicach-maturzysci-bawili-sie-w-bialym-domu-w-paniowkach,id,t.html" id="LinkArea:menGlM62">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/44/b7/5698ac6963838_o,size,380x238,q,71,h,bcd648.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka ZSE im. Korfantego w Katowicach. Maturzyści bawili się w Białym Domu w Paniówkach</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/zdjecia/9292841,studniowka-2016-tak-sie-bawia-maturzysci-i-lo-im-leona-kruczkowskiego-w-tychach-zdjecia,16682665,id,t,zid.html" id="LinkArea:menGlM63">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/9e/f9/56989011e21b8_o,size,380x238,crop,0.0000x0.0007x0.9953x0.7004,q,71,h,9e97ef.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka 2016: Tak się bawią maturzyści I LO im. Leona Kruczkowskiego w Tychach ZDJĘCIA</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9287547,studniowka-2016-i-lo-im-karola-miarki-w-mikolowie-zdjecia,id,t.html" id="LinkArea:menGlM64">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/24/b9/5696b00f0bc8a_o,size,380x238,q,71,h,de52c5.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka 2016 I LO im. Karola Miarki w Mikołowie [ZDJĘCIA]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/" class="menu1Poziom" id="LinkArea:menuGl7">Aktywne Beskidy</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo71">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/aktualnosci/" id="LinkArea:menGlPo711">Aktualności</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/nastokach/" id="LinkArea:menGlPo712">Na stokach</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/pogoda/" id="LinkArea:menGlPo713">Pogoda</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/atrakcje/" id="LinkArea:menGlPo714">Atrakcje</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/inwestycje/" id="LinkArea:menGlPo715">Inwestycje</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/bezpieczenstwo/" id="LinkArea:menGlPo716">Bezpieczeństwo</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/aktywnebeskidy/gminypartnerskie/" id="LinkArea:menGlPo717">Gminy partnerskie</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9293848,wybierz-stok-na-szostke-rusza-nasz-plebiscyt-na-najlepszy-osrodek-narciarski-glosuj,id,t.html" id="LinkArea:menGlM71">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/db/5c/5698d81340460_o,size,380x238,q,71,h,d63bd3.jpg" class="lazy schowaj">
+                                                    <h3 >Wybierz Stok na szóstkę! Rusza nasz plebiscyt na najlepszy ośrodek narciarski [GŁOSUJ]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9293502,beskidy-zima-wrocila-w-istebnej-szusuja-od-730,id,t.html" id="LinkArea:menGlM72">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/1d/76/5698c58ef144b_o,size,380x238,q,71,h,a58d80.jpg" class="lazy schowaj">
+                                                    <h3 >Beskidy: Zima wróciła! W Istebnej szusują od... 7.30!</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9284831,beskidy-chwilowo-na-plusie-ale-dla-narciarzy-warunki-dobre,id,t.html" id="LinkArea:menGlM73">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/f1/da/569628a808b5e_o,size,380x238,q,71,h,2a6f66.jpg" class="lazy schowaj">
+                                                    <h3 >Beskidy: chwilowo na plusie, ale dla narciarzy warunki dobre</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/stylzycia/" class="menu1Poziom" id="LinkArea:menuGl8">Styl życia </a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo81">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/stylzycia/gwiazdy/" id="LinkArea:menGlPo811">Gwiazdy</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/stylzycia/moda/" id="LinkArea:menGlPo812">Moda</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.dziennikzachodni.pl/stylzycia/luzik/" id="LinkArea:menGlPo813">Luzik</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9289592,monika-ordowska-w-ckm-zdjecia-nago-prezenterki-moniki-ordowskiej-tv4,id,t.html" id="LinkArea:menGlM81">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e7/c1/56978609231c9_o,size,380x238,q,71,h,da595c.jpg" class="lazy schowaj">
+                                                    <h3 >Monika Ordowska w CKM ZDJĘCIA nago prezenterki Moniki Ordowskiej TV4</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/zdjecia/9290004,magiczne-zdjecia-psow-alicji-zmyslowskiej-20latka-z-rudy-slaskiej-podbija-swiat-galeria-zdjec,16677552,id,t,zid.html" id="LinkArea:menGlM82">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/2e/e9/56979c39e8ecb_o,size,380x238,crop,0.0020x0.0330x0.9907x0.9310,q,71,h,ce75dd.jpg" class="lazy schowaj">
+                                                    <h3 >Magiczne zdjęcia psów Alicji Zmysłowskiej. 20-latka z Rudy Śląskiej podbija świat [GALERIA ZDJĘĆ]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9290314,oscary-2016-ogloszono-nominacje-zjawa-i-mad-max-faworytami,id,t.html" id="LinkArea:menGlM83">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/8e/3b/5697be5888898_o,size,380x238,q,71,h,c4c6f2.jpg" class="lazy schowaj">
+                                                    <h3 >Oscary 2016: ogłoszono nominacje. "Zjawa" i "Mad Max" faworytami</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.dziennikzachodni.pl/quizy/" class="menu1Poziom" id="LinkArea:menuGl9">Quizy</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9190825,gwiezdne-wojny-quiz-sprawdz-swoja-wiedze-o-sadze-star-wars,id,t.html" id="LinkArea:menGlM91">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/89/e3/566ed3053d8b1_o,size,380x238,q,71,h,d3c482.jpg" class="lazy schowaj">
+                                                    <h3 >GWIEZDNE WOJNY QUIZ: sprawdź swoją wiedzę o sadze STAR WARS</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.dziennikzachodni.pl/artykul/9150537,barborkowy-quiz-gorniczy-sprawdz-czy-znasz-wyrazy-uzywane-w-kopalni,id,t.html" id="LinkArea:menGlM92">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/77/51/56618e3b0fd73_o,size,380x238,q,71,h,67c950.jpg" class="lazy schowaj">
+                                                    <h3 >BARBÓRKOWY QUIZ GÓRNICZY. Sprawdź, czy znasz wyrazy używane w kopalni!</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="http://www.dziennikzachodni.pl/quiz/1216,swieto_niepodleglosci_co_wiesz_o_11_listopada_quiz_dz,q,t.html" id="LinkArea:menGlM93">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/14/e6/564338db96dbf_o,size,380x238,q,71,h,63190e.jpg" class="lazy schowaj">
+                                                    <h3 >Dzisiaj Święto Niepodległości 11 listopada 2015: Świętuj i rozwiąż quiz i Święcie Niepodległości</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="http://www.dziennikzachodni.pl/quiz/1216,swieto_niepodleglosci_co_wiesz_o_11_listopada_quiz_dz,q,t.html" id="LinkArea:menGlM94">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/9d/70/5640908050181_o,size,380x238,q,71,h,5918ac.jpg" class="lazy schowaj">
+                                                    <h3 >Święto niepodległości. Co wiesz o 11 listopada [QUIZ DZ]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                                  <li id="biznes-menu" class="bezPodmenu">
+            <a href="http://www.strefabiznesu.dziennikzachodni.pl" class="menu1Poziom" target="_blank">Biznes</a>
+                      </li>
+                          <li id="agro-menu" class="bezPodmenu">
+            <a href="http://strefaagro.dziennikzachodni.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+        
+        <li id="ogloszenia-menu">
+          <a href="http://www.dziennikzachodni.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+                      <div class="rozwijane">
+              <a href="http://www.gratka.pl/ogloszenia/dodaj.html" target="_blank">Zamów ogłoszenie w gratce</a>
+              <a href="http://ogloszenia.gratka.pl/widget.html" target="_blank">Zamów ogłoszenie w prasie</a>
+            </div>
+                  </li>
+        <li id="wyszukaj-menu" class="bezPodmenu">
+          <a class="menu1Poziom">Szukaj</a>
+          <div class="wyszukiwarka">
+            <form action="http://www.dziennikzachodni.pl/wyszukiwanie/" method="post">
+              <input type="search" placeholder="Wpisz czego szukasz" name="szukaj_slowo" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div><div class="adSrodek row hide-for-medium-down" id="gora2">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "gora2", pokazUkryjRodzica: true, rodzic: '#gora2', cssClass: "marginD" });</script>
+</div>      <div class="row">
+                  <div id="nawigator" class="twelve columns">  <div id="lokalizator" class="row hide-for-small-down">
+    <div class="twelve columns">
+                            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+            <a href="http://www.dziennikzachodni.pl/" title="Dziennik Zachodni" itemprop="url"><span itemprop="title">Dziennik Zachodni</span></a>
+          </div>
+                                <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+          <a href="http://www.dziennikzachodni.pl/wiadomosci/" title="Wiadomości" itemprop="url"><span itemprop="title">Wiadomości</span></a>
+        </div>
+                        Były szef śląskiej policji gen. Mieczysław K. oczyszczony z...
+              </div>
+  </div>
+</div>
+              </div>
+          
+    
+    <div class="kontener">
+      
+      
+                  <div class="row">
+        <div class="columns">
+          <h1>Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji</h1>
+        </div>
+      </div>
+            <div class="row">
+        <div id="glowna-kolumna" class="columns large-8">
+          
+                     <script type="text/javascript">
+    
+    aktualnaStrona = 0;
+</script>
+    
+
+
+
+<script type="text/javascript">
+  GR("zaladujPlikJS", "http://s-pt.ppstatic.pl/p/js/akcja.js", "plik");
+</script>
+<div class="row">
+  <article id="material" class="columns">
+      
+<header class="materialSzczegoly">
+  
+            
+      <p class="nazwisko autorPT">
+        <b>AMC</b>
+              </p>
+      
+              <p class="zrodlo show-for-small-down">
+                                          <span title="Źródło materiału: Dziennik Zachodni">
+              <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/dziennikzachodni.gif?11140890123" alt="Dziennik Zachodni" >
+            </span>
+                  </p>
+      
+        
+  
+      <p class="aktualizacja">
+      <time class="show-for-medium-up" datetime="2011-12-28T16:03:13+01:00">
+        28 grudnia 2011 
+              </time>
+      <time class="show-for-small-down" datetime="2011-12-28T16:03:13+01:00">
+        28.12.2011
+              </time>
+              Aktualizacja: 
+        <time class="show-for-medium-up" datetime="2011-12-28T16:08:04+01:00">28 grudnia 2011 16:08</time>
+        <time class="show-for-small-down" datetime="2011-12-28T16:08:04+01:00">28.12.2011 16:08</time>
+          </p>
+    
+  
+      <p class="zrodlo show-for-medium-up">
+                          <span title="Źródło materiału: Dziennik Zachodni">
+          <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/dziennikzachodni.gif?11140890123" alt="Dziennik Zachodni" >
+        </span>
+          </p>
+    
+</header>
+
+  <ul id="narzedzia" data-url="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html">
+    <li class="facebook wyzsze opis popup" data-tracker="artykul/klikniecie/fb-gora">
+      <a data-url="https://www.facebook.com/sharer/sharer.php?u=http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html&amp;title=Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">
+          <iframe src="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href=http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;share=true&amp;width=200&amp;height=20" scrolling="no" width="200" height="20"></iframe>
+        </span>
+      </a>
+    </li>
+    <li class="twitter wyzsze opis popup">
+      <a data-url="http://twitter.com/home?status=Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji+http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Twitterze</span>
+      </a>
+    </li>
+    <li class="googleplus wyzsze opis popup">
+      <a data-url="https://plus.google.com/share?url=http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Google+</span>
+      </a>
+    </li>
+    
+    <li class="przeslij bezTekstu">
+      <a rel="nofollow" id="narzedzia-przeslij">Prześlij</a>
+      <div>
+        
+        <form id="form-polec" method="post">
+          <fieldset>
+            <legend>Poleć znajomemu ten artykuł</legend>
+            <label for="email">Adres email:</label>
+            <input id="email" type="text" name="email">
+            <span class="blad">Niepoprawny adres email</span>
+            <button type="submit" name="wyslij">Wyślij</button>
+          </fieldset>
+        </form>
+      </div>
+    </li>
+    <li class="drukuj opis">
+      <a href="#drukuj_dol" rel="nofollow" id="narzedzia-drukuj" onclick="window.open('/drukuj/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html', '', 'width=780,height=500,scrollbars=1');">
+        <span class="ukryty">Drukuj artykuł</span>
+      </a>
+    </li>
+    <li class="wielkosc bezTekstu">
+      <a rel="nofollow">Zmień wielkość czcionki</a>
+      <div>
+        <div class="pomniejsz" onclick="Czcionka.pomniejsz();" title="Mniejsza czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_pomniejsz.png">Mniejsza czcionka</div>
+        <div class="powieksz" onclick="Czcionka.powieksz();" title="Większa czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_powieksz.png">Większa czcionka</div>
+      </div>
+    </li>
+    <li class="komentarze wyzsze opis">
+              <a href="#dodaj-komentarz" data-tracker="artykul/klikniecie/komentarze-gora" rel="nofollow" title="25 Komentarzy">
+              <div class="wartosc">25</div>
+        <span class="ukryty">Komentarze</span>
+      </a>
+    </li>
+  </ul>
+  <script>
+    
+      jQuery("#form-polec").submit(function() {
+          var wyrazenie = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+          if(wyrazenie.test(jQuery(this).find("#email").val())) {
+              jQuery(this).find("span.blad").removeClass("widoczny");
+              jQuery(this).find("#email").removeClass("blad");
+              return true;
+          } else {
+              jQuery(this).find("#email").addClass("blad");
+              jQuery(this).find("span.blad").addClass("widoczny");
+              return false;
+          }
+      });
+
+      jQuery("#narzedzia .facebook").hover(
+        function() {
+          jQuery(this).toggleClass("hover");
+          jQuery(this).click();
+        },
+        function() {
+          jQuery(this).toggleClass("hover");
+      });
+
+      var Czcionka = {
+          aktualnie : 3,
+          
+          zmien : function () {
+              jQuery("#material").attr("data-rozmiar", this.aktualnie);
+          },
+          
+          powieksz : function () {
+              if (this.aktualnie < 6) this.aktualnie++;
+              this.zmien();
+              return false;
+          },
+
+          pomniejsz : function () {
+              if (this.aktualnie > 0) this.aktualnie--;
+              this.zmien();
+              return false;
+          }
+      }
+      
+      function Pozycjonuj() {
+          var poz = jQuery("#material").offset(),
+              scrollTop = jQuery(window).scrollTop(),
+              przesuniecie = jQuery("#pasek-media-plus").outerHeight(true) + 30,
+              doWysokosci = jQuery("#material footer").offset().top - 25,
+              narzedzia = jQuery("#narzedzia");
+              
+          if(poz.top <= scrollTop + przesuniecie) {
+              if(scrollTop + przesuniecie + narzedzia.outerHeight(true) < doWysokosci) {
+                  narzedzia.css({
+                      "top": przesuniecie + 20,
+                      "position": "fixed",
+                      "left": poz.left - narzedzia.outerWidth(true),
+                  });
+              } else {
+                  narzedzia.css({
+                      "top": jQuery('#material footer').offset().top - poz.top - narzedzia.outerHeight(true) + 20,
+                      "position": "absolute",
+                      "left": -narzedzia.outerWidth(true),
+                  });
+              }
+          } else {
+              narzedzia.css({
+                  "top": 35,
+                  "position": "absolute",
+                  "left": -narzedzia.outerWidth(true),
+              });
+          }
+      }
+      
+      jQuery(window).on("scroll resize load", function(){
+          Pozycjonuj();
+      });
+      liczbySpolecznosciRegionalne();
+    
+  </script>
+              <div class="zdjecieGlowne show-for-medium-up" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="thumbnail" content="http://d-pt.ppstatic.pl/k/r/5/db/c0/4efb2eec08458_o.jpg?1353384488">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAGkAQMAAAAiwoCVAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPElEQVR42u3BgQAAAADDoPlTH+ECVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8A5VMAAHYnuRmAAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/kadry/k/r/5/db/c0/4efb2eec08458_o,size,969x565,q,71,h,250180.jpg" alt="Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji" class="lazy">
+                      <p class="zdjeciePodpis">
+                            <span>&copy;arc. dz</span>            </p>
+                  </div>
+        <section class="zajawka">
+      Zdaniem sądu gen. Mieczysław K., były szef śląskiej policji nie współpracował z mafią paliwową i nie brał łapówek za sprzedaż  tajnych informacji.
+    </section>
+    
+            <div class="zdjecieGlowne show-for-small-down" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="thumbnail" content="http://d-pt.ppstatic.pl/k/r/5/db/c0/4efb2eec08458_o.jpg?1353384488">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGQAQAAAAAWiOyIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAACKSURBVHja7MwxAQAACAOgaf/OWmInBGAuXRuhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUFvwAYv0EH9Z9tOkAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/5/db/c0/4efb2eec08458_o,size,640x400,q,71,h,75ddea.jpg" alt="Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji" class="lazy">
+                      <p class="zdjeciePodpis">
+                            <span>&copy;arc. dz</span>            </p>
+                  </div>
+      
+
+            <section id="tresc" >
+                        <div class="wstawka waska hide-for-medium-down dodatekTresc">
+  <div class="materialyPodobne">
+    <h3>Materiały podobne</h3>
+    <ul>
+              <li>
+                   <a href="http://www.dziennikzachodni.pl/artykul/204782,sprawa-mieczyslawa-k-bylego-komendanta-kwp-w-katowicach-rozpocznie-sie-od-nowa,id,t.html" data-tracker="nowa_karta/podobne/1">
+            <h4>Sprawa Mieczysława K. byłego komendanta KWP w Katowicach rozpocznie się od nowa</h4>
+          </a>
+        </li>
+              <li>
+                   <a href="http://www.dziennikzachodni.pl/artykul/9041841,general-policji-mieczyslaw-kluk-niewinny-bedzie-domagal-sie-2-mln-zl-zadoscuczynienia,id,t.html" data-tracker="nowa_karta/podobne/2">
+            <h4>Generał policji Mieczysław Kluk niewinny. Będzie domagał się 2 mln zł zadośćuczynienia </h4>
+          </a>
+        </li>
+              <li>
+                   <a href="http://www.dziennikzachodni.pl/artykul/9044891,general-kluk-niewinny-byly-szef-slaskiej-policji-walczyl-w-sadach-10-lat,id,t.html" data-tracker="nowa_karta/podobne/3">
+            <h4>Generał Kluk niewinny. Były szef śląskiej policji walczył w sądach 10 lat </h4>
+          </a>
+        </li>
+          </ul>
+  </div>
+</div>Wyrok 1,5 roku więzienia usłyszał jedynie za grożenie bronią oficerom CBŚ, którzy 10 lat temu zatrzymali go w rodzinnym domu w Izbiskach pod Częstochową. To w końcu jest finał najgłośniejszego procesu ostatnich lat!<br><br><b><a href="http://www.dziennikzachodni.pl/wiadomosci/380102,jutro-wyrok-w-sprawie-bylego-szefa-slaskiej-policji,id,t.html" title="GENERAŁ MIECZYSŁAW K. ZAMIESZANY W AFERĘ PALIWOWĄ - CZYTAJ O SZCZEGÓŁACH">GENERAŁ MIECZYSŁAW K. ZAMIESZANY W AFERĘ PALIWOWĄ - CZYTAJ O SZCZEGÓŁACH</a></b><br><div id="reklama_srodtekst_0" class="adSrodekSzeroki reklama_srodtekst"><div class="pt_srodtekst"><div class="clear">
+              <script type="text/javascript">
+                GR("wstawReklame","srodek1");
+              </script></div></div></div><br><a href="http://wielkopolska.naszemiasto.pl/artykul/663192,wybory-psl-znow-zwyciezyl-przed-sadem,id,t.html#utm_medium=alz&utm_source=dziennikzachodni.pl&utm_campaign=artykul" target="_blank" class="alz" data-alz="sad-apelacyjny">Sąd Apelacyjny</a> w Szczecinie skazał generała i uniewinnił baronów paliwowych. To ostateczne wyroki. Sąd uznał, że m.in. prokurator Marek Wełna z krakowskiej prokuratury nie udowodnił istnienia mafii paliwowej, a akt oskarżenia miał miejscami kompromitujące błędy.<br><br>Mieczysław K., były szef śląskiej policji do więzienia już nie trafi. W areszcie tymczasowym siedział bowiem ponad trzy lata. Dostał też odszkodowanie za przewlekłość postępowania.<br><br>Ze służby odszedł na emeryturę na długo przed postawieniem mu zarzutów. Powodem była choroba - borelioza.<br><br>K. będzie musiał jednak jeszcze raz stawić się przed sądem. Do ponownego rozpatrzenia sędziowie skierowali  bowiem wątek sprawy dotyczący przekazywania przez policjantów dokumentów służbowych. Chodziło o fax wysłany ze śląskiej komendy, który znaleziono u przedsiębiorców w  Szczecinie.<br><br>Pozostałym oskarżonym, w tym byłym policjantom CBŚ sąd utrzymał wyroki w mocy (od roku do 7 lat więzienia).<br><br><b>* CZYTAJ KONIECZNIE:</b><br><a href="http://dziennikzachodni.pl"><img src="http://nm.dz.com.pl/dz.png"/></a><br>*<b><a href="http://www.dziennikzachodni.pl/artykul/486379,slaskim-pierdola-roku-2011-zostaje-zdjecia,id,t.html" title="ŚLĄSKIM PIERDOŁĄ ROKU 2011 ZOSTAJE...">ŚLĄSKIM PIERDOŁĄ ROKU 2011 ZOSTAJE...</a></b><br>*<b><a href="http://www.dziennikzachodni.pl/artykul/487231,dlugie-weekendy-2012-roku-zaplanuj-poradnik,id,t.html" title="ZAPLANUJ DŁUGIE WEEKENDY 2012 ROKU">ZAPLANUJ DŁUGIE WEEKENDY 2012 ROKU</a></b><br><a href="http://slask.naszemiasto.pl"><img src="http://nm.dz.com.pl/nm.png"/></a><br><b><a href="http://bytom.naszemiasto.pl/artykul/galeria/1208417,konkurs-fotograficzny-upoluj-zime-ze-ski-dolina,id,t.html" title="WIELKI KONKURS. Pokaż zimę na Śląsku i wygraj narciarski WEEKEND!">WIELKI KONKURS. Pokaż zimę na Śląsku i wygraj narciarski WEEKEND!</a><a href="http://slask.naszemiasto.pl/artykul/galeria/1193005,najpiekniejsze-choinki-w-wojewodztwie-slaskim-glosowanie,galeria,id,t,tm.html" title="Wybieramy NAJFAJNIEJSZĄ CHOINKĘ w woj. śląskim. ZAGŁOSUJ na swoją!">Wybieramy NAJFAJNIEJSZĄ CHOINKĘ w woj. śląskim. ZAGŁOSUJ na swoją!</a></b> 
+                                                                    </section>
+
+    <footer class="row">
+                    <div id="nota-wydawnicza" class="columns">
+          <div class="right">
+            <p class="chmurka" >Rozpowszechnianie niniejszego artykułu możliwe jest tylko i&nbsp;wyłącznie
+              zgodnie z postanowieniami <a href="http://www.dziennikzachodni.pl/artykul/3712114,nota-wydawnicza,id,t.html">&bdquo;Regulaminu korzystania z&nbsp;artykułów prasowych&rdquo;</a> i&nbsp;po wcześniejszym uiszczeniu należności, zgodnie z&nbsp;<a href="http://www.dziennikzachodni.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapresse,id,t.html">cennikiem</a>.
+            </p>
+          </div>
+        </div>
+      
+        
+      <div class="columns">
+          <div id="material-tagi">
+      Tagi:
+      <ul>
+                  <li><a data-tracker="nowa_karta/tag/1" href="/tag/kluk-proces-uniewinniony.html">kluk proces uniewinniony</a></li>
+                  <li><a data-tracker="nowa_karta/tag/2" href="/tag/general-mafia-paliwa.html">generał mafia paliwa</a></li>
+                  <li><a data-tracker="nowa_karta/tag/3" href="/tag/piotr-komorowski-sztum.html">piotr komorowski sztum</a></li>
+                  <li><a data-tracker="nowa_karta/tag/4" href="/tag/komorowski-sztum.html">komorowski sztum</a></li>
+                  <li><a data-tracker="nowa_karta/tag/5" href="/tag/komorowski-piotr-sztum.html">komorowski piotr sztum</a></li>
+                  <li><a data-tracker="nowa_karta/tag/6" href="/tag/skad-uniewinnienie-mieczyslawa-kluka.html">skad uniewinnienie mieczysława kluka</a></li>
+                  <li><a data-tracker="nowa_karta/tag/7" href="/tag/piotr-komorowski-sztum-digger.html">piotr komorowski sztum digger</a></li>
+              </ul>
+  </div>
+
+      </div>
+
+      <div class="waskiAddthis columns"><div addthis:url="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html" class="addthis_toolbox addthis_default_style  "><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_button_tweet" ></a></div><script type="text/javascript">GR("dodajOnload", function() { addthis.init(); } );</script></div>        </footer>
+    <div id="sonda-mobile" class="row"></div>
+              <div class="row">
+        <div class="columns">
+          <div class="contentStream kd_ns_placement" data-ns-type="simplePlacement4" data-ns-hash="b2161f9dcf4550b8fdbd4ea4819b4ac9">
+            <script src="http://emisja.contentstream.pl/aldente/kd_process_function.js" async="async" ></script>
+          </div>
+        </div>
+      </div>
+      </article>
+</div>
+
+
+
+<script type="text/javascript">
+(function() {
+var strona = 1, strony = false;
+(function(d){var c=1,b,f=$("material-tagi").getElementsByTagName("a"),a=f.length;for(b=0;b<a;b++){var e=f[b].innerHTML.replace(" ","-").toLowerCase();d.push({elements:[f[b]],href:"/onclick/tag/"+e})}GR("$$","materialZrodlo",$("material"),"",function(g){d.push({elements:[g],href:"/onclick/zrodlo/link"})});d.push({elements:[GR("$","zmniejszTekst")],href:"/onclick/narzedzia/tekst-zmniejsz"});d.push({elements:[GR("$","powiekszTekst")],href:"/onclick/narzedzia/tekst-powieksz"});d.push({elements:[GR("$","narzedzia-komentarze")],href:"/onclick/narzedzia/komentarze"});d.push({elements:[GR("$","narzedzia-przeslij")],href:"/onclick/narzedzia/przeslij"});d.push({elements:[GR("$","narzedzia-drukuj")],href:"/onclick/narzedzia/drukuj"});d.push({elements:[$("zmniejszTekst")],href:"/onclick/material/zmniejsz-tekst"});d.push({elements:[$("powiekszTekst")],href:"/onclick/material/powieksz-tekst"});d.push({elements:[$("narzedziaWyslijZnajomym")],href:"/onclick/material/wyslij-znajomym"});d.push({elements:[$("drukuj_gora")],href:"/onclick/material/drukuj-gora"});jQuery("#mat-podobne a").each(function(){d.push({elements:[this],href:"/onclick/boks-podobne/link-"+c++})})})(oG_OSA.tracking);(function(){var e=GR("$","sm-sa"),c=GR("pobierzPozycje",e),a=40;if(jQuery("#sm-sa").attr("data-odstep")){a=parseInt(jQuery("#sm-sa").attr("data-odstep"))}function b(){if(c==undefined){return}var f=GR("pobierzPozycjeScroll");if(f[1]>c.y-a){e.style.position="fixed";e.style.top=a+"px"}else{e.style.position="absolute";e.style.top=0+"px"}}GR("dodajOnload",function(){setTimeout(function(){c=GR("pobierzPozycje",e);Zdarzenia.zaczep(window,"scroll",b);Zdarzenia.zaczep(window,"resize",b);b()},1000)});var d="medium";przesunSondeNaDol=function(f){var h,g=typeof f=="undefined"||f.matches;if(g&&d!="small"){h=jQuery("#sonda-mobile");if(h){h.append(jQuery(".sondaMaterial aside:visible"));d="small"}}},przeniesSondeDoTresci=function(f){var g=typeof f=="undefined"||f.matches;if(g&&d=="small"){jQuery(".sondaMaterial:visible").append(jQuery("#sonda-mobile aside"));d="medium"}},obsluzZmianeRozmiaru=function(){var f=jQuery(window).width();if(f<480){przesunSondeNaDol()}else{przeniesSondeDoTresci()}};if(window.matchMedia){smallCheck=window.matchMedia("(max-width: 479px)");fullCheck=window.matchMedia("(min-width: 480px)");smallCheck.addListener(przesunSondeNaDol);fullCheck.addListener(przeniesSondeDoTresci)}else{jQuery(window).resize(obsluzZmianeRozmiaru);obsluzZmianeRozmiaru()}obsluzZmianeRozmiaru()}());(function(){if(!!window.chrome){for(var a=0;a<strony;a++){if((strona-1)!==a){jQuery("#tresc_"+a).empty()}}}jQuery(document).ready(function(){jQuery("#tresc .pokazMiniatury").toggle(function(){jQuery(this).addClass("rozwiniete").html("Ukryj miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").show();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").hide()},function(){jQuery(this).removeClass("rozwiniete").html("Pokaż miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").hide();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").show()})})})();
+})();
+</script>
+
+  <script type="text/javascript">
+GR('wywolajReklamy', 1, 'WajrcbEjiE5NjjhWT.F9hszEw4SmgtKB.na2_lQK19n.L7', function() {
+    if ('function' === typeof adoceangratkaplrfdfgrfhgt) {
+        adoceangratkaplrfdfgrfhgt();
+    }
+});
+GR('wstawReklame', 'verboomInterText');
+</script>
+
+  <script type="text/javascript">
+      (function($) {
+          if (!$.browser.opera) {
+              GR('pDodajdozaznaczenia', {
+                  pole: $('#material')
+              });
+          };
+      })(jQuery);
+</script>
+  <div id="srodek2" class="row textC hide-for-medium-down">
+    
+      <script type="text/javascript">
+        GR("wstawReklame", {nazwa: "srodek2", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek2', szerokosc: 985, mierzOkno: true});
+      </script>
+    
+  </div>
+<section id="material-komentarze" class="row">
+  <header class="columns">
+    <h2>Komentarze</h2>
+          <div class="sortowanie">
+                  <a href="487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,-1,id,t,so.html#art-komentarze" class="wybrane">najnowsze</a>
+                  <a href="487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,1,id,t,so.html#art-komentarze">najstarsze</a>
+              </div>
+      </header>
+
+  
+            <div id="dodaj-komentarz" class="columns">
+        <form id="form-komentarz" class="formKomentarz row" action="#material-komentarze" method="post">
+          <div class="medium-2 columns avatar">
+                          <img width="120" height="120" src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="">
+                      </div>
+          <div class="medium-10 columns">
+            <p class="autor">Dodajesz komentarz jako: <b>Gość</b></p>
+            <p>
+              <input type="hidden" name="dodaj_komentarz" value="1">
+              <input type="hidden" name="id_post_rodzic" value="0">
+              <input type="hidden" name="id_post_korzen" value="0">
+              <input type="hidden" id="zwin-rozwin-wszystkie" value="1">
+              <input type="hidden" name="regulamin" value="1">            </p>
+            <p>
+              <label for="komentarz-temat">Tytuł komentarza</label>
+              <input type="text" name="temat" id="komentarz-temat" value="">
+            </p>
+                          <p>
+                <label for="komentarz-podpis">Podpis</label>
+                <input type="text" name="autor" id="komentarz-podpis" value="">
+              </p>
+                        <p class="tresc">
+              <label for="komentarz-tresc">Komentarz</label>
+              <textarea name="tresc" rows="4" cols="96" id="komentarz-tresc"></textarea>
+            </p>
+
+            <p class="regulamin medium-6 columns">
+              Dodając komentarz, akceptujesz <a class="regulaminLink" target="_blank" href="http://www.dziennikzachodni.pl/regulamin/">regulamin forum</a>
+            </p>
+
+            <p class="pozostalo medium-6 columns">
+              <span id="komentarz-tresc-limit">Liczba znaków do wpisania: <b></b></span>
+            </p>
+
+            <p class="right">
+              <input type="submit" name="dodaj_komentarz" value="Dodaj komentarz" class="button">
+              <a href="http://www.dziennikzachodni.pl/logowanie/" class="loginWarstwa button">zaloguj się</a>            </p>
+          </div>
+        </form>
+      </div>
+      
+  <div id="dodaj-odpowiedz" class="columns" style="display:none;">
+              <form class="formKomentarz" action="#dodaj-odpowiedz" method="post">
+        <p class="autor">Dodajesz komentarz jako: <b>Gość</b></p>
+        <p>
+          <input type="hidden" name="dodaj_komentarz" value="1">
+          <input type="hidden" name="id_post_rodzic" id="id-post-rodzic" value="">
+          <input type="hidden" name="id_post_korzen" id="id-post-korzen" value="">
+          <input type="hidden" name="strona" id="id-post-strona" value="">
+          <input type="hidden" name="regulamin" value="1">        </p>
+        <p>
+          <label for="odpowiedz-temat">Tytuł komentarza</label>
+          <input class="inputText" type="text" name="temat" id="odpowiedz-temat" placeholder="Tytuł" value="">
+        </p>
+        <p>
+                      <label for="odpowiedz-podpis">Podpis</label>
+            <input class="inputText" type="text" name="autor" id="odpowiedz-podpis" value="" placeholder="Podpis">
+                 </p>
+        <p>
+          <label for="odpowiedz-tresc">Komentarz</label>
+          <textarea name="tresc" rows="4" cols="96" id="odpowiedz-tresc" placeholder="Treść komentarza"></textarea>
+        </p>
+        <p class="left">
+           Dodając komentarz, akceptujesz <a class="regulaminLink" href="http://www.dziennikzachodni.pl/regulamin/" target="_blank">regulamin forum</a>
+        </p>
+        <p class="right">
+          <input type="submit" name="dodaj_komentarz" value="dodaj" class="button">
+          <a href="http://www.dziennikzachodni.pl/logowanie/" class="loginWarstwa button">zaloguj się</a>        </p>
+      </form>
+      </div>
+
+  <div class="forumZglos" id="zglos-naruszenie" style="display: none; ">
+    <b>Uzasadnij naruszenie regulaminu:</b>
+    <form class="formUsunOdp" method="post" id="form-zglos-naruszenie">
+      <p>
+        <input type="hidden" name="zglos_post" id="zglos-post" value="">
+        <textarea name="komunikat"></textarea>
+      </p>
+      <p class="przyciskUsun right"><input type="submit" class="button" name="zglos_watek" value="Zgłoś naruszenie"></p>
+    </form>
+  </div>
+  
+    <div id="art-komentarze" class="columns">
+            
+    <div id="komentarz-1876553" data-id="1876553" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>:P</h4>
+            <p class="metryka">
+                              <b>xxx</b> (gość)
+                            <time datetime="2012-01-01T16:50:22+01:00">01.01.12,&nbsp;16:50:22</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1876553); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1876553" class="kciuki">
+                                <a href="?id_post=1876553&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1876553-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>15</span> </a>
+                <a href="?id_post=1876553&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1876553-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>18</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p>Niech żyje VI RP, państwo ładu i porządku, dobrobytu i wysokiej stopy życiowej, yyy zaraz przecież to III RP dopiero, przepraszam wygłupiłem sie ......</p>
+                                    </div>
+                                <div id="zwin-rozwin-1876553">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1876553, 1876553, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1876553"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1860534" data-id="1860534" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>Odwalcie się od prokuratora p.Marka Wełny</h4>
+            <p class="metryka">
+                              <b>sztumiak</b> (gość)
+                            <time datetime="2011-12-30T21:33:04+01:00">30.12.11,&nbsp;21:33:04</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1860534); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1860534" class="kciuki">
+                                <a href="?id_post=1860534&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1860534-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>21</span> </a>
+                <a href="?id_post=1860534&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1860534-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>15</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">Gdyby nie prokurator Wełna mafia paliwowa dalej zatruwałaby środowisko naturalne w całej Polsce.Jemu powiat sztumski zawdzięcza oczyszczenie Sztumu z chwastów w postaci mafiosa Komorowskiego, jego...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">Gdyby nie prokurator Wełna mafia paliwowa dalej zatruwałaby środowisko naturalne w całej Polsce.Jemu powiat sztumski zawdzięcza oczyszczenie Sztumu z chwastów w postaci mafiosa Komorowskiego, jego pracowników i doradców, którzy ponoszą odpowiedzialność za  dewastację środowiska naturalnego okolic Sztumu i Malborka. Ci ludzie z firmy Digger odpowiadają za zaniechanie gdyż udawali, że nie wiedzieli co się działo w Sztumie i okolicach w wyniku działalnośći firmy Digger.Ponadto bezmózgi ślepo wykonujący rozkazy Komora w osobach J.Stop..skiego ze Sztumu  i M. Kl..ny ze Starego Targu zatruli środowisko naturalne w okolicy Starego Miasta gm.Stary Dzierzgoń wylewając ogromne ilości mazi pochodzącej z przerabiania oleju opałowego na napędowy. To świństwo wylewano też w innych miejscach.Te łajzy robiłyby to dalej, ale krakowska prokuratura w ostatniej chwili zabrała się za tych pachołków.Policja sztumska, malborska i gdańska były bezradne.Komor czuł się bardzo pewnie po części dlatego, że miał opłaconych policjantów z Malborka i Sztumu.Prokurator Wełna wyeliminował tych policjantów z szeregów policji, a także zabrał się za tych, którzy zdążyli odejść na emeryturę.Krakowska prokuratura wykonała bardzo dobrą robotę.Sztum i Malbork dziękują za wielkie porządki czyli usunięcie bardzo szkodliwych chwastów.<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1860534">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1860534, 1860534, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1860534"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1858834" data-id="1858834" data-id-watek="135255" data-id-material="487951" class="koment row korzen">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>Jeszcze raz</h4>
+            <p class="metryka">
+                              <b>były</b> (gość)
+                            <time datetime="2011-12-30T16:44:43+01:00">30.12.11,&nbsp;16:44:43</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1858834); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1858834" class="kciuki">
+                                <a href="?id_post=1858834&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1858834-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>19</span> </a>
+                <a href="?id_post=1858834&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1858834-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>14</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">Panowie policjanci pamiętajcie, że też kiedyś będziecie emerytami. Nie czujcie satysfakcji z zamykania  swoich byłych kolegów. Tym bardziej  gdzie czujecie  wątpliwości co do słuszności  decyzji...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">Panowie policjanci pamiętajcie, że też kiedyś będziecie emerytami. Nie czujcie satysfakcji z zamykania  swoich byłych kolegów. Tym bardziej  gdzie czujecie  wątpliwości co do słuszności  decyzji  prokuratorów ,bo kiedyś możecie sami być zamykani  na tej samej podstawie.<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1858834">
+                              <a href="#" class="pokaz-ukryj watek-ukryj right hide-for-small-down" onclick="zwin_rozwin_komentarz(1858834);return false;" title="Ukryj opinie">odpowiedzi (2)</a>
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1858834, 1858834, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1858834"></div>
+                  </div>
+      </div>
+
+              <hr class="hide-for-small-down">
+        <div class="komentarzPodrzedny columns medium-10 medium-offset-2">
+            
+    <div id="komentarz-1877150" data-id="1877150" data-id-watek="135255" data-id-material="487951" class="koment row korzen">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>policjant</h4>
+            <p class="metryka">
+                              <b>yo</b> (gość)
+                            <time datetime="2012-01-01T21:53:39+01:00">01.01.12,&nbsp;21:53:39</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1877150); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1877150" class="kciuki">
+                                <a href="?id_post=1877150&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1877150-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>22</span> </a>
+                <a href="?id_post=1877150&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1877150-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>13</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">nie do ciebie należy głos, nie tobie pisane wyroki, jak bedziesz policjanten to dopiero zrozumiesz o co w tym wszytkim chodzi a narazie śpij, pij, pracuj , kochaj się z żoną i płac podatki cywilu...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">nie do ciebie należy głos, nie tobie pisane wyroki, jak bedziesz policjanten to dopiero zrozumiesz o co w tym wszytkim chodzi a narazie śpij, pij, pracuj , kochaj się z żoną i płac podatki cywilu bo od tego jesteś, wywody zostaw dla swoich kolegów<br />
+<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1877150">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1877150, 1858834, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1877150"></div>
+                  </div>
+      </div>
+
+              <hr class="hide-for-small-down">
+        <div class="komentarzPodrzedny columns medium-10 medium-offset-2">
+            
+    <div id="komentarz-1920546" data-id="1920546" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>zjebane mózgi</h4>
+            <p class="metryka">
+                              <b>Ossendrecht</b> (gość)
+                            <time datetime="2012-01-06T14:07:47+01:00">06.01.12,&nbsp;14:07:47</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1920546); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1920546" class="kciuki">
+                                <a href="?id_post=1920546&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1920546-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>28</span> </a>
+                <a href="?id_post=1920546&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1920546-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>20</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">przez takie szmaty jak ty ten kraj upada!!! nszczęście ja płace podatki w Belgi i niemusze mieć wyrzutów sumienia że będziesz pierdził za moje podatki na emeryturce mundurowej-teraz wiesz w czym...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">przez takie szmaty jak ty ten kraj upada!!! nszczęście ja płace podatki w Belgi i niemusze mieć wyrzutów sumienia że będziesz pierdził za moje podatki na emeryturce mundurowej-teraz wiesz w czym polega problem?!!- na półgłowkach i ciemnocie polskiej która dopuszcza do takich pomysłów.<br />
+ty sie też kochj z żoną jak ci jeszcze rogi nie wyrosly i ciągnij nadkomisarzowi'<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1920546">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1920546, 1858834, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1920546"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+        </div>
+          </div>
+  
+        </div>
+          </div>
+  
+    <div id="komentarz-1858763" data-id="1858763" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>Ziobro</h4>
+            <p class="metryka">
+                              <b>normalny</b> (gość)
+                            <time datetime="2011-12-30T16:25:39+01:00">30.12.11,&nbsp;16:25:39</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1858763); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1858763" class="kciuki">
+                                <a href="?id_post=1858763&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1858763-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>24</span> </a>
+                <a href="?id_post=1858763&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1858763-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>12</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">Ten człowiek /jeżeli tak go można nazwać/ tak uwielbiany przez kołtuństwo ,zniszczył wielu ludziom życie, kariery zawodowe  itd. On, jeżeli ma honor sam powinien zniknąć z życia publicznego a nie...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">Ten człowiek /jeżeli tak go można nazwać/ tak uwielbiany przez kołtuństwo ,zniszczył wielu ludziom życie, kariery zawodowe  itd. On, jeżeli ma honor sam powinien zniknąć z życia publicznego a nie udawać obrońcy ludzi pracujących. <span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1858763">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1858763, 1858763, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1858763"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1858224" data-id="1858224" data-id-watek="135255" data-id-material="487951" class="koment row korzen">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>farsa</h4>
+            <p class="metryka">
+                              <b>b</b> (gość)
+                            <time datetime="2011-12-30T13:26:22+01:00">30.12.11,&nbsp;13:26:22</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1858224); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1858224" class="kciuki">
+                                <a href="?id_post=1858224&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1858224-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>28</span> </a>
+                <a href="?id_post=1858224&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1858224-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>9</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p>ale farsa kur..............a na woźnikach u kawa??kto wóde walił chwdp!!!!!!! miejmy nadzieje ze piekło istnieje!!!</p>
+                                    </div>
+                                <div id="zwin-rozwin-1858224">
+                              <a href="#" class="pokaz-ukryj watek-ukryj right hide-for-small-down" onclick="zwin_rozwin_komentarz(1858224);return false;" title="Ukryj opinie">odpowiedzi (1)</a>
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1858224, 1858224, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1858224"></div>
+                  </div>
+      </div>
+
+              <hr class="hide-for-small-down">
+        <div class="komentarzPodrzedny columns medium-10 medium-offset-2">
+            
+    <div id="komentarz-1920552" data-id="1920552" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>podatnik</h4>
+            <p class="metryka">
+                              <b>Jurek</b> (gość)
+                            <time datetime="2012-01-06T14:09:26+01:00">06.01.12,&nbsp;14:09:26</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1920552); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1920552" class="kciuki">
+                                <a href="?id_post=1920552&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1920552-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>26</span> </a>
+                <a href="?id_post=1920552&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1920552-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>24</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p>masz racje jebać mundurowych!!! Ziobro na prezydenta to zamknie ten chlew jakim jest polski wymiar sprawiedliwości!!!</p>
+                                    </div>
+                                <div id="zwin-rozwin-1920552">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1920552, 1858224, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1920552"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+        </div>
+          </div>
+  
+    <div id="komentarz-1857791" data-id="1857791" data-id-watek="135255" data-id-material="487951" class="koment row wyrozniony">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header title="To jest najlepiej oceniany komentarz">
+            <h4>Przecież gen.K. to przestępca, a mafia paliwowa istniała</h4>
+            <p class="metryka">
+                              <b>sztumiak</b> (gość)
+                            <time datetime="2011-12-30T11:29:05+01:00">30.12.11,&nbsp;11:29:05</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1857791); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1857791" class="kciuki">
+                                <a href="?id_post=1857791&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1857791-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>47</span> </a>
+                <a href="?id_post=1857791&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1857791-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>11</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">Prawda jest taka, że Mieczysław K. to bandyta w mundurze, a mafia paliwowa istniała i miała się dobrze.Ten cały M.K. to straszny burak.Nie rozumiem słów sędziego, że mafia paliwowa nie...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">Prawda jest taka, że Mieczysław K. to bandyta w mundurze, a mafia paliwowa istniała i miała się dobrze.Ten cały M.K. to straszny burak.Nie rozumiem słów sędziego, że mafia paliwowa nie istniała.Jeżeli nie udowodniono temu burakowi współpracy z mafią paliwową to nie znaczy, że ta mafia nie istniała. Po prostu ten prostak generał miał dobrych adwokatów.Dobrze, że przesiedział w pudle choć te 3 lata.Za współpracę z mafią paliwową dostałby więcej.Mieszkam w Sztumie. Tu rządził przez kilka lat mafioso paliwowy Piotr Komorowski.Jego działalność przyczyniła się do zniszczenia środowiska naturalnego w wielu miejscach naszego powiatu.Był otoczony sztabem prawników i doradców finansowych wiernych mu jak psy. Pracownicy bali się go jak ognia i bali się mówić prawdę o przekrętach Komora.Policjanci ze Sztumu bardzo niechętnie zajmowali się sprawami dotyczącymi tego mafiosy.Bali się nawet chodzić do jego siedziby gdy musieli wykonać czynności służbowe w sprawie jego przekrętów.Komor swoje 3 lata odsiedział. Teraz pławi się w luksusach. Sztum jest już wolny gdyż mafioso wyniósł się stąd.W związku z powyższym  jak sędzia może powiedzieć, że mafia paliwowa nie istniała.<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1857791">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1857791, 1857791, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1857791"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1857745" data-id="1857745" data-id-watek="135255" data-id-material="487951" class="koment row wyrozniony">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header title="To jest najlepiej oceniany komentarz">
+            <h4>MIECIO</h4>
+            <p class="metryka">
+                              <b>JA</b> (gość)
+                            <time datetime="2011-12-30T11:18:58+01:00">30.12.11,&nbsp;11:18:58</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1857745); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1857745" class="kciuki">
+                                <a href="?id_post=1857745&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1857745-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>52</span> </a>
+                <a href="?id_post=1857745&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1857745-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>42</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p>MIECIO POWINIEN BYĆ JESZCZE ROZLICZONY ZA TRANSPORT CODZIENNY SWOJEGO DWORU Z CZĘSTOCHOWY BO FACHOWCÓW W KATOWICACH NIE BYŁO???</p>
+                                    </div>
+                                <div id="zwin-rozwin-1857745">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1857745, 1857745, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1857745"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1857049" data-id="1857049" data-id-watek="135255" data-id-material="487951" class="koment row korzen">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>Wełna był na tą aferą napalony, ale nie nawiedzony ... Szczytno 2005 r, prorokowano taki finał.</h4>
+            <p class="metryka">
+                              <b>emeryt</b> (gość)
+                            <time datetime="2011-12-30T08:04:20+01:00">30.12.11,&nbsp;08:04:20</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1857049); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1857049" class="kciuki">
+                                <a href="?id_post=1857049&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1857049-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>45</span> </a>
+                <a href="?id_post=1857049&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1857049-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>9</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">Jak widać, wg Sądu afery paliwowej nie było. Aferzystami pozostali tylko policjanci. A może to następstwo tego, że policjanci koszty procesów pokrywali tylko ze swoich emerytur i rent, a pozostali...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">Jak widać, wg Sądu afery paliwowej nie było. Aferzystami pozostali tylko policjanci. A może to następstwo tego, że policjanci koszty procesów pokrywali tylko ze swoich emerytur i rent, a pozostali oskarżeni (teraz niewinni) mieli kasę na ten cel od Pana Boga, albo Wysoki Sąd został nawiedzony przez Ducha Świętego.<br />
+CBA do roboty!<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1857049">
+                              <a href="#" class="pokaz-ukryj watek-ukryj right hide-for-small-down" onclick="zwin_rozwin_komentarz(1857049);return false;" title="Ukryj opinie">odpowiedzi (1)</a>
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1857049, 1857049, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1857049"></div>
+                  </div>
+      </div>
+
+              <hr class="hide-for-small-down">
+        <div class="komentarzPodrzedny columns medium-10 medium-offset-2">
+            
+    <div id="komentarz-1857557" data-id="1857557" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>sie czepiasz</h4>
+            <p class="metryka">
+                              <b>xxx</b> (gość)
+                            <time datetime="2011-12-30T10:26:12+01:00">30.12.11,&nbsp;10:26:12</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1857557); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1857557" class="kciuki">
+                                <a href="?id_post=1857557&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1857557-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>38</span> </a>
+                <a href="?id_post=1857557&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1857557-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>9</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">Przecież sądy w Polsce są niezawisłe, apolityczne itd. chyba wyroki jakie zapadają są zgodne z prawem i kunsztem sędziowskim. Sędziowie suwerennie podejmują decyzje o tymczasowym aresztowaniu,...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">Przecież sądy w Polsce są niezawisłe, apolityczne itd. chyba wyroki jakie zapadają są zgodne z prawem i kunsztem sędziowskim. Sędziowie suwerennie podejmują decyzje o tymczasowym aresztowaniu, skazaniu lub uniewinnieniu i odpowiadają za to swoim dobrym imieniem i honorem. Jeśli taki sędzia skazał by mnie bez dowodów byłby dla mnie zerem, a jego dane podałbym do publicznej wiadomości jako osoby niewiarygodnej i być może skorumpowanej. Ale tu można by dużo pisać na ten temat.<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1857557">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1857557, 1857049, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1857557"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+        </div>
+          </div>
+  
+    <div id="komentarz-1853760" data-id="1853760" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>szkoda człowieka</h4>
+            <p class="metryka">
+                              <b>claudiusz</b> (gość)
+                            <time datetime="2011-12-29T21:01:47+01:00">29.12.11,&nbsp;21:01:47</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1853760); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1853760" class="kciuki">
+                                <a href="?id_post=1853760&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1853760-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>36</span> </a>
+                <a href="?id_post=1853760&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1853760-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>37</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">No i co ,że neiwinny skoro zniszczono go jako policjanta a policjantem jest się całe życie nawet na emce media mówią były policjant to  lub tamto. Teraz nie do końca wiadomo czy niewinny czy...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">No i co ,że neiwinny skoro zniszczono go jako policjanta a policjantem jest się całe życie nawet na emce media mówią były policjant to  lub tamto. Teraz nie do końca wiadomo czy niewinny czy zabrakło dowodów.  <span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1853760">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1853760, 1853760, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1853760"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+    <div id="komentarz-1853090" data-id="1853090" data-id-watek="135255" data-id-material="487951" class="koment row">
+
+      <div class="komentarzWiersz">
+
+        <div class="avatar columns medium-2">
+                      <img src="http://s-pt.ppstatic.pl/g/regionalne/zaslepka.png" alt="Autor komentarza nie dodał zdjęcia">
+                  </div>
+
+        <div class="tresc columns medium-10">
+          <header>
+            <h4>heh</h4>
+            <p class="metryka">
+                              <b>xxx</b> (gość)
+                            <time datetime="2011-12-29T18:17:50+01:00">29.12.11,&nbsp;18:17:50</time>
+                          </p>
+            <p class="komentarzNarzedzia">
+                            <a title="Zgłoś naruszenie regulaminu" class="komentarzZglosNaruszenie" href="#" onclick="zglos_naruszenie(1853090); return false;">Zgłoś naruszenie treści</a>
+              <span id="komentarz-ocena-1853090" class="kciuki">
+                                <a href="?id_post=1853090&amp;ocena=plus" rel="nofollow" class="kciukGora" id="plus-1853090-135255-1-DESC" title="Oceń pozytywnie ten komentarz"> / <span>41</span> </a>
+                <a href="?id_post=1853090&amp;ocena=minus" rel="nofollow" class="kciukDol" id="minus-1853090-135255-1-DESC" title="Oceń negatywnie ten komentarz"> / <span>16</span> </a>
+              </span>
+            </p>
+          </header>
+
+          <div>
+                                          <p class="krotkaTresc">Mam nadzieję że Pan Komendant złoży wniosek do sądu o zadośćuczynienie, za te 3 lata więzienia, zszarganą opinie, stracone pieniądze na obrońców itp. Ja mając taką pozycję sugerował bym jakieś 10...<span class="wiecej">rozwiń całość</span></p>
+                <p class="pelnaTresc schowaj">Mam nadzieję że Pan Komendant złoży wniosek do sądu o zadośćuczynienie, za te 3 lata więzienia, zszarganą opinie, stracone pieniądze na obrońców itp. Ja mając taką pozycję sugerował bym jakieś 10 milionów odszkodowania plus jakieś drobne za każdy dzień odsiadki. Albo żyjemy w państwie prawa poproszę o 10 baniek.<span class="mniej">zwiń</span></p>
+                                    </div>
+                                <div id="zwin-rozwin-1853090">
+                            <a class="komentarzOdpowiedz button right" href="#" onclick="odpowiedz(1853090, 1853090, 1);return false;">skomentuj</a>
+            </div>
+
+            <div id="formularz-1853090"></div>
+                  </div>
+      </div>
+
+          </div>
+  
+      
+
+
+<div class="stronicowanie">
+    
+            <span class="aktywna">1</span>
+                <a href="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,2,id,t,nk.html#art-komentarze#art-komentarze" class="ukryteNaMobilnych" rel="next">2</a>
+                <a href="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,3,id,t,nk.html#art-komentarze#art-komentarze" class="ukryteNaMobilnych">3</a>
+        
+    
+    <a href="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,2,id,t,nk.html#art-komentarze#art-komentarze" class="strzalka strzalkaZTlem nastepnaStrz shadow" rel="next" title="następna strona">&rsaquo;</a>
+    <a href="http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,3,id,t,nk.html#art-komentarze#art-komentarze" class="strzalka strzalkaZTlem ostatniaStrz shadow" title="ostatnia strona">&raquo;</a>
+  </div>
+
+  </div>
+  
+ 
+
+</section>
+<script type="text/javascript">
+  GR('zaladujPlikJS', 'http://s-pt.ppstatic.pl/p/js/komentarze.js?11140890');
+
+
+  jQuery('#art-komentarze input[name="usun_watek"]').click(function() {
+      if (confirm("Czy na pewno chcesz usunąć wątek?")) {
+          return true;
+      }
+      return false;
+  });
+    
+  jQuery('#material-komentarze input[name="dodaj_komentarz"]').click(function() {
+      var submit = jQuery(this);
+      if (submit.data('wyslane') === true) {
+          return false;
+      } else {
+          submit.data('wyslane', true);
+      }
+  });
+    
+  GR("o_formularz_inicjalizuj", "form-komentarz", {multi: "fK", "plik": sUrl + "/p/js/komentarze_formularz.js"});
+  
+  jQuery(document).ready(function(){
+    var max = 4000;
+    
+    function przelicz_znaki() {
+      var self = jQuery('#komentarz-tresc');
+      if (self.length == 0) {
+        return;
+      }
+      if (jQuery(self).val().length > max){
+        jQuery(self).val(jQuery(self).val().substr(0, max));
+      }
+
+      ilosc_znakow = max - jQuery(self).val().length;
+      ilosc_enterow = jQuery(self).val().split(/\\n/).length - 1;
+      ilosc_znakow = ilosc_znakow + ilosc_enterow - ilosc_enterow*100;
+      jQuery('#komentarz-tresc-limit > b').html(''+(ilosc_znakow)+'');
+    }
+  
+    przelicz_znaki();
+    jQuery('#komentarz-tresc').keyup(function() {
+      przelicz_znaki();
+    });
+  });
+  podepnij_kciuki = function(idx, self) {
+    var tmp = jQuery(self).attr('id').split('-'), id_post = tmp[1], ocena = tmp[0] == 'plus' ? 1 : -1, 
+      id_watek = tmp[2], strona = tmp[3], sortowanie = tmp[4];
+    jQuery(self).click(function(event) {
+      event.preventDefault();
+      ocen(id_post, ocena, id_watek, strona, sortowanie, jQuery(this).find('span'));
+    });
+  };
+  
+  jQuery('.kciukGora, .kciukDol').each(podepnij_kciuki);
+  
+  
+  (function(){
+    var dane_kontroler = {
+      katalog : "/artykul/",
+      wartosc : "487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t",
+      rozszerzenie : "html",
+      strona : 1,
+      async: 1,
+      regionalne: 1
+    };
+    id_modul = 1000;
+    liczba_stron = 3;
+
+    function pokaz_formularz_z_bledami() {
+      odpowiedz(0, 0, 1);
+    }
+
+    
+    
+
+    var wiecej = jQuery(document.createElement('input')).attr('id', 'komentarze-wiecej').attr('type', 'button')
+      .val('Pokaż więcej komentarzy').addClass('button').click(function() {
+        pobierz_nastepna_strone(false);
+
+        if (liczba_stron <= dane_kontroler.strona) {
+          jQuery('#komentarze-wiecej').remove();
+        }
+      });
+      
+      function pobierz_nastepna_strone(wszystkie) {
+          dane_kontroler.strona++;
+          jQuery.get('/ajax/laduj_asynchronicznie/'+id_modul+'.html', dane_kontroler, function(data) {
+            jQuery('#art-komentarze').append(data).find('.kciukGora, .kciukDol').each(podepnij_kciuki);
+            if (wszystkie && dane_kontroler.strona < liczba_stron) {
+                pobierz_nastepna_strone(wszystkie);
+            }
+          });
+      }
+      
+      var wszystkie = jQuery(document.createElement('input')).attr('id', 'komentarze-wszystkie').attr('type', 'button')
+      .val('Pokaż wszystkie komentarze').addClass('button').click(function() {
+        jQuery('#komentarze-wiecej').remove();
+        jQuery(this).hide();
+        pobierz_nastepna_strone(true);
+      });
+    jQuery('#art-komentarze .stronicowanie').remove();
+
+    if (liczba_stron > dane_kontroler.strona) {
+      jQuery('#art-komentarze').after(wiecej);
+      
+            
+      tr = [];
+      
+    }
+    
+    tr = [];
+    tr.push({elements: GR('$$', 'regulaminLink', $('dodaj-komentarz')), href: '/onclick/komentarze/dodaj-komentarz-regulamin-link'});
+    tr.push({elements: GR('$$', 'regulaminLink', $('dodaj-odpowiedz')), href: '/onclick/komentarze/dodaj-odpowiedz-regulamin-link'});
+    tr.push({elements: GR('$$', 'przyciskWyslij', $('dodaj-komentarz')), href: '/onclick/komentarze/dodaj-komentarz-wyslij'});
+    tr.push({elements: GR('$$', 'przyciskWyslij', $('dodaj-odpowiedz')), href: '/onclick/komentarze/dodaj-odpowiedz-wyslij'});
+    tr.push({elements: [$('link-zwin-rozwin-wszystkie')], href: '/onclick/komentarze/zwin-wszystkie'});
+    tr.push({elements: GR('$$', 'kciukGora', $('art-komentarze')), href: '/onclick/komentarze/kciuk-gora'});
+    tr.push({elements: GR('$$', 'kciukDol', $('art-komentarze')), href: '/onclick/komentarze/kciuk-dol'});
+    tr.push({elements: GR('$$', 'komentarzOdpowiedz', $('art-komentarze')), href: '/onclick/komentarze/odpowiedz'});
+    GR('$$', 'ikonaNarzedzia', $('art-komentarze'), '', function(e) {
+      var nazwa = e.innerHTML.replace(" ", "-");
+      tr.push({elements: [e], href: '/onclick/komentarze/' + nazwa.trim()});
+    });
+    tr.push({elements: [$('komentarze-wiecej')], href: '/onclick/komentarze/pokaz-wiecej'});
+    GR('oTrackEvents', tr);
+    
+  })();
+
+
+    (function($){
+        $(document).on('click', '#art-komentarze .koment .wiecej', function() {
+            $(this).parents('.tresc').find('.pelnaTresc').removeClass('schowaj');
+            $(this).parents('.krotkaTresc').addClass('schowaj');
+        });
+        $(document).on('click', '#art-komentarze .koment .mniej', function(){
+            $(this).parents('.pelnaTresc').addClass('schowaj');
+            $(this).parents('.tresc').find('.krotkaTresc').removeClass('schowaj');
+        });
+        if (window.location.hash && window.location.hash.match(/komentarz-\d/)) {
+            $(window).load(function() {
+                setTimeout(function() {
+                    window.scrollTo(0, $(window.location.hash).offset().top - 50);
+                }, 1000);
+            });
+        }
+    })(jQuery)
+</script>
+<div id="srodek3" class="row textC adSrodek hide-for-medium-down">
+  <script type="text/javascript">
+    GR("wstawReklame", {nazwa: "srodek3", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek3', szerokosc: 1200, mierzOkno: true});
+  </script>
+</div>
+  <div id="okazjon" class="row textC">
+    <script type="text/javascript">
+      GR("wstawReklame", {nazwa: "okazjon", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#okazjon', szerokosc: 1200, mierzOkno: true});
+    </script>
+  </div>
+         </div>
+        <div id="prawa-kolumna" class="columns show-for-large-up large-4">
+           <section class="blok aktualnosci">
+  <header>
+    <a data-tracker="nowa_karta/aktualnosci/naglowek" href="http://www.dziennikzachodni.pl/aktualnosci/">
+      <h2>Najnowsze wiadomości</h2>
+    </a>
+  </header>
+  <ul>
+          <li>
+        <time datetime="2016-01-15T16:40:51+01:00">16:40</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/1" href="//www.dziennikzachodni.pl/artykul/9294660,bielskobiala-grupa-kradla-z-aut-nawigacje-radia-i-akumulatory,id,t.html">
+            <span>Bielsko-Biała: Grupa kradła z aut nawigacje, radia i akumulatory</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T16:24:00+01:00">16:24</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/2" href="//www.dziennikzachodni.pl/artykul/9294868,euro-2016-pilkarzy-recznych-kibice-w-spodku-w-katowicach,id,t.html">
+            <span>Euro 2016 piłkarzy ręcznych: Kibice w Spodku w Katowicach</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T16:06:00+01:00">16:06</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/3" href="//www.dziennikzachodni.pl/artykul/9294700,chasydzi-w-lelowie-modla-sie-na-grobie-cadyka-dawida-bidermana-zdjecia,id,t.html">
+            <span>Chasydzi w Lelowie modlą się na grobie cadyka Dawida Bidermana [ZDJĘCIA]</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T15:55:34+01:00">15:55</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/4" href="//www.dziennikzachodni.pl/artykul/9294282,lubliniec-piekarze-i-cukiernicy-pokazali-ze-maja-fach-w-reku-zdjecia,id,t.html">
+            <span>Lubliniec: Piekarze i cukiernicy pokazali, że mają fach w ręku [ZDJĘCIA]</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T15:25:00+01:00">15:25</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/5" href="//www.dziennikzachodni.pl/artykul/9294608,posel-pieta-o-slazakach-korfanty-kazalby-do-was-strzelac,id,t.html">
+            <span>Poseł Pięta o Ślązakach: Korfanty kazałby do was strzelać </span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T14:41:29+01:00">14:41</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/6" href="//www.dziennikzachodni.pl/artykul/9294442,prezes-rekordu-bielskobiala-futsal-wzial-sie-z-przypadku,id,t.html">
+            <span>Prezes Rekordu Bielsko-Biała: futsal wziął się z przypadku</span>
+          </a>
+          
+        </p>
+      </li>
+            <script type="text/javascript">GR("wstawReklame","link1", '', '', '', false);</script>
+  </ul>
+  <a class="zobaczWiecej" href="http://www.dziennikzachodni.pl/aktualnosci/" data-tracker="nowa_karta/aktualnosci/zobacz_wiecej"><span>Zobacz więcej</span></a>
+</section>
+  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa1">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa1", cssStyle: "margin-bottom: 5px", rodzic: '#prawa1', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+  <h2>Najczęściej czytane</h2>
+</header>
+<div id="najczesciej-czytane" class="row ranking">
+  <ol class="columns" id="LinkArea:najCzyt">
+                  <li>
+          <a href="//www.dziennikzachodni.pl/artykul/9287957,ranking-szkol-2016-perspektywy-najlepsze-licea-i-technika-ranking-perspektywy-2016,id,t.html" id="LinkArea:najCzyt1" data-tracker="nowa_karta/najczesciejczytane/1">
+            <span>Ranking Szkół 2016 PERSPEKTYWY Najlepsze licea i technika RANKING...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.dziennikzachodni.pl/artykul/9293160,dramatyczny-apel-zgwalconej-kasi-z-bedzina-twierdzi-ze-zgwalcil-ja-policjant-z-kpp-bedzin,id,t.html" id="LinkArea:najCzyt2" data-tracker="nowa_karta/najczesciejczytane/2">
+            <span>Dramatyczny apel zgwałconej Kasi z Będzina. Twierdzi, że zgwałcił...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.dziennikzachodni.pl/artykul/9284239,wypadek-w-katowicach-karambol-w-sosnowcu-drogi-zamienily-sie-w-lodowiska-gdzie-sa-piaskarki,id,t.html" id="LinkArea:najCzyt3" data-tracker="nowa_karta/najczesciejczytane/3">
+            <span>Wypadek w Katowicach, karambol w Sosnowcu: Drogi zamieniły się w...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.dziennikzachodni.pl/artykul/9282196,halina-g-sprzedawala-modelki-ze-slaska-do-domow-publicznych-we-wloszech-zeznaja-pokrzywdzone,id,t.html" id="LinkArea:najCzyt4" data-tracker="nowa_karta/najczesciejczytane/4">
+            <span>Halina G. sprzedawała modelki ze Śląska do domów publicznych we...</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.dziennikzachodni.pl/artykul/9278711,pawel-kukiz-w-bielskubialej-tlumy-na-spotkaniu-zdjecia,id,t.html" id="LinkArea:najCzyt5" data-tracker="nowa_karta/najczesciejczytane/5">
+            <span>Paweł Kukiz w Bielsku-Białej. Tłumy na spotkaniu [ZDJĘCIA]</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.dziennikzachodni.pl/artykul/9289596,egzamin-zawodowy-2016-pytania-i-odpowiedzi-egzaminu-z-wszystkich-zawodow-w-technikach-i-zawodowkach,id,t.html" id="LinkArea:najCzyt6" data-tracker="nowa_karta/najczesciejczytane/6">
+            <span>Egzamin zawodowy 2016 PYTANIA i ODPOWIEDZI egzaminu z wszystkich...</span>
+          </a>
+          
+        </li>
+            </ol>
+</div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa2">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa2", cssStyle: "margin-bottom: 5px", rodzic: '#prawa2', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+      <a href="http://www.dziennikzachodni.pl/" data-tracker="nowa_karta/autopromocja/gora/naglowek" title="DZ poleca">
+    <h2>DZ poleca</h2>
+      </a>
+  </header>
+<div class="autopromocja gora" id="LinkArea:promArBg">
+            <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/1"  href="http://www.dziennikzachodni.pl/studniowki/" id="LinkArea:promArBg1">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/72/11/56956700404ba_k27.jpg?1452772461" alt="Studniówki 2016. Zobacz, zdjęcia ze swojej studniówki. Porady, przesądy, tradycje">
+        <p>Studniówki 2016. Zobacz, zdjęcia ze swojej studniówki. Porady, przesądy, tradycje</p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/2"  href="http://www.dziennikzachodni.pl/artykul/9289592,monika-ordowska-w-ckm-zdjecia-nago-prezenterki-moniki-ordowskiej-tv4,id,t.html" id="LinkArea:promArBg2">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/8d/76/56978c41850eb_k27.jpg?1452772461" alt="Piękna prezenterka telewizyjna Monika Ordowska w CKM Ale zdjęcia! ">
+        <p>Piękna prezenterka telewizyjna Monika Ordowska w CKM Ale zdjęcia! </p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/3"  href="http://www.dziennikzachodni.pl/artykul/9266475,inwestycja-na-medal-plebiscyt-dziennika-zachodniego-glosuj,id,t.html" id="LinkArea:promArBg3">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/07/23/56962a0eeccc9_k27.jpg?1452772461" alt="Inwestycja na medal PLEBISCYT DZ. Wybieramy najlepsze osiedla, domy, lofty, najlepszych deweloperów">
+        <p>Inwestycja na medal PLEBISCYT DZ. Wybieramy najlepsze osiedla, domy, lofty, najlepszych deweloperów</p>
+      </a>
+      </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa3">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa3", cssStyle: "margin-bottom: 5px", rodzic: '#prawa3', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok wideoMaterial">
+  <header>
+    <h2>Wideo</h2>
+  </header>
+  <div class="materialy">
+          <a href="//www.dziennikzachodni.pl/artykul/9293714,poldark-wichry-losu-w-tvp-opis-1-odcinek-w-internecie-juz-dzis-wideo,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt1" data-tracker="nowa_karta/wideo_artykul/1">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/7c/55/5698cfe904fe5_o,size,445x270,q,71,h,39c6e1.jpg" alt="Emisja serialu „Poldark – Wichry losu&amp;quot; dziś w TVP 1 i w internecie">
+            <h3>„Poldark – Wichry losu&quot; w TVP OPIS 1. odcinek w...</h3>
+    </a>
+    
+          <a href="//www.dziennikzachodni.pl/artykul/9293652,pieta-korfanty-kazalby-do-was-strzelac-mniejszosc-slaska-w-sejmie-na-zywo-drwiny-ze-slazakow,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt2" data-tracker="nowa_karta/wideo_artykul/2">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/42/55/5698c9fa3a672_o,size,445x270,q,71,h,0d957e.jpg" alt="W porządku obrad Sejmu znalazła się dyskusja nad projektem ustawy uznającej narodowość śląską i język sląski">
+            <h3>Pięta: Korfanty kazałby do Was strzelać! Mniejszość...</h3>
+    </a>
+    
+          <a href="//www.dziennikzachodni.pl/artykul/9293454,cloverfield-2-zobaczcie-mocny-zwiastun-thrillera-od-jj-abramsa,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt3" data-tracker="nowa_karta/wideo_artykul/3">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/83/f1/5698c402c7b73_o,size,445x270,q,71,h,b17a76.jpg" alt="10 Cloverfield Lane">
+            <h3>Cloverfield 2? Zobaczcie mocny zwiastun thrillera od J.J....</h3>
+    </a>
+    
+          <a href="//www.dziennikzachodni.pl/artykul/9291442,ranking-szkol-nauki-jazdy-kategorii-b-za-2015-rok-w-wojewodztwie-slaskim,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt4" data-tracker="nowa_karta/wideo_artykul/4">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/60/73/5697e1eab448c_o,size,445x270,q,71,h,aef0ba.jpg" alt="Ranking szkół jazdy">
+            <h3>Ranking szkół nauki jazdy kategorii B za 2015 rok w...</h3>
+    </a>
+    
+    </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa4">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa4", cssStyle: "margin-bottom: 5px", rodzic: '#prawa4', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section id="Plista">
+  <div data-widget="plista_widget_sidebar"></div>
+  <script type="text/javascript">
+  if (!window.PLISTA || !PLISTA.publickey) {
+      window.PLISTA = {
+          publickey: 'fc4b20b63bdb5494c6314dfd',
+          item:           {
+              objectid: '487951',//unique ID, alphanumeric
+              title: 'Były szef śląskiej policji gen. Mieczysław K. oczyszczony z zarzutów korupcji',//max 255 characters
+              text: 'Zdaniem sądu gen. Mieczysław K., były szef śląskiej policji nie współpracował z mafią paliwową i nie brał łapówek za sprzedaż  tajnych informacji.',//max 255 characters
+              url: 'http://www.dziennikzachodni.pl/artykul/487951,byly-szef-slaskiej-policji-gen-mieczyslaw-k-oczyszczony-z-zarzutow-korupcji,id,t.html',//max 1024 characters
+              img: 'http://d-pt.ppstatic.pl/k/r/5/db/c0/4efb2eec08458_p.jpg?1353384488',//max 255 characters
+              created_at: '1325084593'//UNIX timestamp
+          }
+                };
+      (function(){
+          var n='script',d=document,s=d.createElement(n),s0=d.getElementsByTagName(n)[0];
+          s.async='async';
+          s.type='text/javascript';
+          s.src=(d.location.protocol==='https:'?'https:':'http:')+'//static.plista.com/async.js';
+          s0.parentNode.insertBefore(s,s0);
+      }());
+  }
+  //if possible place this script tag just before the closing body tag
+  </script>
+</section>
+         </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="twelve columns" id="reklama-dol1">
+        <script type="text/javascript">GR("wstawReklame",{nazwa: "dol1", rodzic: '#reklama-dol1', szerokosc: 970, mierzOkno: true,pokazUkryjRodzica: true});</script>
+      </div>
+    </div>
+
+          <footer>
+        <div class="adSrodek" id="tapeta">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "tapeta", pokazUkryjRodzica: true, rodzic: '#tapeta', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div class="adSrodek" id="layer">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "layer", pokazUkryjRodzica: true, rodzic: '#layer', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div id="LinkArea:stopka">
+  <div id="stopka-zwijane">
+    <div class="row zwinRozwin"><a class="zwijak show-for-medium-up">SERWISY PARTNERSKIE</a><a class="zwijak hide-for-medium-up">SERWISY REGIONALNE</a></div>
+    <div class="stopkaZakladka redakcja" id="LinkArea:stopkaRed">
+      <div class="row">
+        <div class="columns medium-4 kontakt">
+          <h4>KONTAKT Z REDAKCJĄ:</h4>
+          <p>tel.: <b><a href="tel:32 634 22 24">32 634 22 24</a></b>
+          <b><a href="mailto:redakcja@dz.com.pl">redakcja@dz.com.pl</a></b></p>
+                </div>
+        <div class="columns large-2 medium-4 socialMedia">
+          <h4>JESTEŚMY RÓWNIEŻ NA:</h4>
+          <a href="https://www.facebook.com/dziennikzachodni" target="_blank" data-tracker="stopka/facebook" title="Dziennik Zachodni na Facebooku">Facebook</a>          <a href="https://twitter.com/zachodni" target="_blank" data-tracker="stopka/twitter" title="Dziennik Zachodni na Twitterze">Twitter</a>          <a href="https://plus.google.com/116988919077102732585" target="_blank" data-tracker="stopka/google" title="Dziennik Zachodni na Google +">Google+</a>        </div>
+        <div class="columns large-4 show-for-large-up">
+          <h4>SERWISY POWIATOWE:</h4>
+          <ul>
+                          <li><a href="/katowice/" data-tracker="stopka/powiatowe//katowice/">Katowice</a></li>
+                          <li><a href="/sosnowiec/" data-tracker="stopka/powiatowe//sosnowiec/">Sosnowiec</a></li>
+                          <li><a href="/bielskobiala/" data-tracker="stopka/powiatowe//bielskobiala/">Bielsko-Biała</a></li>
+                          <li><a href="/rybnik/" data-tracker="stopka/powiatowe//rybnik/">Rybnik</a></li>
+                          <li><a href="/czestochowa/" data-tracker="stopka/powiatowe//czestochowa/">Częstochowa</a></li>
+                          <li><a href="/gliwice/" data-tracker="stopka/powiatowe//gliwice/">Gliwice</a></li>
+                          <li><a href="/chorzow/" data-tracker="stopka/powiatowe//chorzow/">Chorzów</a></li>
+                          <li><a href="/zabrze/" data-tracker="stopka/powiatowe//zabrze/">Zabrze</a></li>
+                          <li><a href="/bytom/" data-tracker="stopka/powiatowe//bytom/">Bytom</a></li>
+                      </ul>
+        </div>
+        <div class="columns large-2 medium-4">
+          <p>Dziennik Zachodni jest częścią:<br>
+          <a href="http://polskapress.pl"><img src="http://s-pt.ppstatic.pl/g/regionalne/polskapress.png" alt="Grupa Wydawnicza Polska Press Sp. z o.o."></a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="stopkaZakladka serwisy ukryta">
+      <div class="row">
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaOgl">
+          <h4>SERWISY OGŁOSZENIOWE:</h4>
+          <ul>
+                      <li><a href="http://www.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/www.gratka.pl">Ogłoszenia</a></li>
+                      <li><a href="http://dom.gratka.pl/mieszkania/katowice/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/mieszkania/katowice/">Mieszkania Katowice</a></li>
+                      <li><a href="http://dom.gratka.pl/domy/katowice/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/domy/katowice/">Domy Katowice</a></li>
+                      <li><a href="http://moto.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl">Motoryzacja</a></li>
+                      <li><a href="http://moto.gratka.pl/katowice/" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl/katowice/">Samochody Katowice</a></li>
+                      <li><a href="http://praca.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl">Praca</a></li>
+                      <li><a href="http://praca.gratka.pl/katowice/" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl/katowice/">Oferty pracy Katowice</a></li>
+                      <li><a href="http://alegratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/alegratka.pl">Ogłoszenia drobne</a></li>
+                    </ul>
+        </div>
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaPar">
+          <h4>SERWISY PARTNERSKIE:</h4>
+          <ul>
+                          <li><a href="http://www.telemagazyn.pl" data-tracker="stopka/partnerskie/http://www.telemagazyn.pl" target="_blank">Program TV - Telemagazyn</a></li>
+                          <li><a href="http://ekstraklasa.net" data-tracker="stopka/partnerskie/http://ekstraklasa.net" target="_blank">Piłka nożna - Ekstraklasa.net</a></li>
+                          <li><a href="http://www.polskatimes.pl" data-tracker="stopka/partnerskie/http://www.polskatimes.pl" target="_blank">Polskatimes</a></li>
+                          <li><a href="http://www.wiadomosci24.pl/" data-tracker="stopka/partnerskie/http://www.wiadomosci24.pl/" target="_blank">Wiadomości - Wiadomości24</a></li>
+                          <li><a href="http://regiodom.pl/" data-tracker="stopka/partnerskie/http://regiodom.pl/" target="_blank">Dom nieruchomości - regioDom</a></li>
+                          <li><a href="http://www.motofakty.pl" data-tracker="stopka/partnerskie/http://www.motofakty.pl" target="_blank">Motoryzacja - Motofakty</a></li>
+                          <li><a href="http://www.regiopraca.pl/" data-tracker="stopka/partnerskie/http://www.regiopraca.pl/" target="_blank">Praca - regioPraca</a></li>
+                          <li><a href="http://naszemiasto.pl" data-tracker="stopka/partnerskie/http://naszemiasto.pl" target="_blank">Informacje lokalne - Nasze Miasto</a></li>
+                          <li><a href="http://gra.pl" data-tracker="stopka/partnerskie/http://gra.pl" target="_blank">Gry - Gra.pl</a></li>
+                      </ul>
+        </div>
+        <div class="columns medium-6 small-12" id="LinkArea:stopkaReg">
+          <h4>SERWISY REGIONALNE:</h4>
+          <ul class="kolumny">
+                          <li><a href="http://www.dziennikbaltycki.pl" data-tracker="stopka/regionalne/http://www.dziennikbaltycki.pl" target="_blank">Dziennik Bałtycki</a></li>
+                          <li><a href="http://www.dziennikzachodni.pl" data-tracker="stopka/regionalne/http://www.dziennikzachodni.pl" target="_blank">Dziennik Zachodni</a></li>
+                          <li><a href="http://www.dzienniklodzki.pl" data-tracker="stopka/regionalne/http://www.dzienniklodzki.pl" target="_blank">Dziennik Łódzki</a></li>
+                          <li><a href="http://www.echodnia.eu" data-tracker="stopka/regionalne/http://www.echodnia.eu" target="_blank">Echo Dnia</a></li>
+                          <li><a href="http://www.gazetakrakowska.pl" data-tracker="stopka/regionalne/http://www.gazetakrakowska.pl" target="_blank">Gazeta Krakowska</a></li>
+                          <li><a href="http://www.gazetalubuska.pl" data-tracker="stopka/regionalne/http://www.gazetalubuska.pl" target="_blank">Gazeta Lubuska</a></li>
+                          <li><a href="http://www.pomorska.pl" data-tracker="stopka/regionalne/http://www.pomorska.pl" target="_blank">Gazeta Pomorska</a></li>
+                          <li><a href="http://www.gazetawroclawska.pl" data-tracker="stopka/regionalne/http://www.gazetawroclawska.pl" target="_blank">Gazeta Wrocławska</a></li>
+                          <li><a href="http://www.wspolczesna.pl" data-tracker="stopka/regionalne/http://www.wspolczesna.pl" target="_blank">Gazeta Współczesna</a></li>
+                          <li><a href="http://www.gk24.pl" data-tracker="stopka/regionalne/http://www.gk24.pl" target="_blank">Głos Koszaliński - GK24.pl</a></li>
+                          <li><a href="http://www.gp24.pl" data-tracker="stopka/regionalne/http://www.gp24.pl" target="_blank">Głos Pomorza - GP24.pl</a></li>
+                          <li><a href="http://www.gs24.pl" data-tracker="stopka/regionalne/http://www.gs24.pl" target="_blank">Głos Szczeciński - GS24.pl</a></li>
+                          <li><a href="http://www.gloswielkopolski.pl" data-tracker="stopka/regionalne/http://www.gloswielkopolski.pl" target="_blank">Głos Wielkopolski</a></li>
+                          <li><a href="http://www.kurierlubelski.pl" data-tracker="stopka/regionalne/http://www.kurierlubelski.pl" target="_blank">Kurier Lubelski</a></li>
+                          <li><a href="http://www.poranny.pl" data-tracker="stopka/regionalne/http://www.poranny.pl" target="_blank">Kurier Poranny</a></li>
+                          <li><a href="http://www.nto.pl" data-tracker="stopka/regionalne/http://www.nto.pl" target="_blank">Nowa Trybuna Opolska</a></li>
+                          <li><a href="http://www.nowiny24.pl" data-tracker="stopka/regionalne/http://www.nowiny24.pl" target="_blank">Nowiny</a></li>
+                          <li><a href="http://www.to.com.pl" data-tracker="stopka/regionalne/http://www.to.com.pl" target="_blank">Tygodnik Ostrołęcki</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      <div id="stopka-aplikacje" class="show-for-small-down">
+      <div class="row">
+        <div class="columns">
+          Nasze Aplikacje:
+          <ul>
+                          <li class="android"><a href="https://market.android.com/details?id=pl.gratka.technologie.android.czytnik.dziennikzachodni&amp;feature=more_from">Android</a></li>
+                                      <li class="ios"><a href="http://itunes.apple.com/pl/app/dziennik-zachodni/id374493181?mt=8">iOS</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    <div id="stopka-pasek">
+    <ul class="row" id="LinkArea:stopkaPas">
+      <li><a data-tracker="stopka/glowna" href="/" class="show-for-small-down">Strona Główna</a></li>
+      <li><a data-tracker="stopka/mapaserwisu" href="http://www.dziennikzachodni.pl/mapa_serwisu/" class="hide-for-small-down">Mapa serwisu</a></li>
+      <li><a data-tracker="stopka/indeks" href="http://indeks.dziennikzachodni.pl" class="hide-for-small-down">Indeks</a></li>
+      <li><a data-tracker="stopka/dlaprasy" href="http://www.polskatimes.pl/213,dla-prasy,id,t.html" target="_blank" class="hide-for-small-down">Dla prasy</a></li>
+      <li><a data-tracker="stopka/kontakt" href="/onas/" class="show-for-small-down">Kontakt</a></li>
+      <li><a data-tracker="stopka/onas" href="/onas/" class="hide-for-small-down">O nas</a></li>
+      <li><a data-tracker="stopka/regulamin" href="http://www.dziennikzachodni.pl/regulamin/">Regulamin</a></li>
+      <li><a data-tracker="stopka/prywatnosc" href="http://www.polskatimes.pl/stronaglowna/243942,polityka-prywatnosci,id,t.html" class="hide-for-small-down">Prywatność</a></li>
+      <li><a data-tracker="stopka/reklama" href="http://reklama.polskapresse.pl/dzienniki/189,pid,polska_dziennik_zachodni.html" class="hide-for-small-down">Reklama</a></li>
+      <li><a data-tracker="stopka/egazety" href="http://prasa24.pl" target="_blank" rel="nofollow" class="hide-for-small-down">eGazety</a></li>
+      <li><a data-tracker="stopka/newsletter" href="http://www.dziennikzachodni.pl/newsletter/">Newsletter</a></li>
+      <li><a data-tracker="stopka/notawydawnicza" href="/artykul/3712114,nota-wydawnicza,id,t.html" class="notaWydawnicza">Nota wydawnicza</a></li>
+              <li><a data-tracker="stopka/logowanie" href="/logowanie">Logowanie</a></li>
+            <li class="powrot"><a data-tracker="stopka/powrotGora" href="#" class="show-for-small-down">Powrót do góry</a></li>
+    </ul>
+  </div>
+
+  <div class="row" id="stopka-dol">
+    <div id="LinkArea:stopkaDol">
+      <p class="columns medium-8">
+                  <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a>
+                 informuje, że wszystkie treści ukazujące się w serwisie Dziennik Zachodni podlegają ochronie.
+        <a href="http://www.dziennikzachodni.pl/artykul/561093,prawa-autorskie,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.<br>
+        Jesteś zainteresowany kupnem treści? <a href="http://www.polskatimes.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapressepl,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.
+      </p>
+      <p class="columns medium-4">&copy; 2000 - 2016 <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a></p>
+    </div>
+  </div>
+</div>
+          <a href="http://dz.sugester.pl/" id="sugester" rel="external">Twoja sugestia</a>
+    <div class="cookieContainer">
+  <div class="cookieTooltip">
+    <span class="tooltipZamknij" title="Zamknij"></span>
+    <div class="cookieTekst">
+      <p class="cookieTytul">Korzystamy z cookies i local storage.</p>
+      <p>Bez zmiany ustawień pliki są zapisywane na urządzeniu. Więcej przeczytasz <a href="/artykul/243942,polityka-prywatnosci,id,t.html" rel="external">tutaj</a>.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  
+      (function ($) {
+        $('.tooltipZamknij').click(function () {
+          var data = new Date();
+          data.setDate(data.getDate() + 365);
+          data = data.toUTCString();
+          document.cookie = 'polityka_prywatnosci_cookies=true; expires=' + data + '; path = /';
+          $('.cookieTooltip').fadeOut(400);
+        });
+      })(jQuery);
+  
+</script>
+
+      </footer>
+    
+    
+          <div id="poza-gridem"><script type="text/javascript">GR("wstawReklame", "fiszka", "fb-slider-reklama");</script><script type="text/javascript">
+    oG_OSA.onclick_id = 'inne';
+      GR('oTrackEvents', oG_OSA.tracking);
+  </script>
+<script type="text/javascript">GR('oAnonimid');</script>
+
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">
+  var _vrq = _vrq || [];
+  _vrq.push(['id', 307]);
+  _vrq.push(['automate', false]);
+  _vrq.push(['track', function(){}]);
+  (function(d, a){
+    var s = d.createElement(a),
+    x = d.getElementsByTagName(a)[0];
+    s.async = true;
+    s.src = '//a.visualrevenue.com/vrs.js';
+    x.parentNode.insertBefore(s, x);
+  })(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+
+</div>
+      </body>
+</html>

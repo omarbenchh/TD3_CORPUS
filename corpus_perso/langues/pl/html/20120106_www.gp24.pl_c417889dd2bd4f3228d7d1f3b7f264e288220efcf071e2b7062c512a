@@ -1,0 +1,1447 @@
+
+  
+
+
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,700|PT+Sans:400,700&subset=latin,latin-ext">
+    <link rel="stylesheet" href="http://s-pt.ppstatic.pl/www/merge/?typ=css&amp;p=/o/css/cookies.css,/p/css/serwisy/regionalne_artykul.css,/p/css/rwd/slick.css,/p/css/nanoScroller.css,/p/css/rwd/foundation5mod.css,/p/css/serwisy/regionalne.css&amp;v=11140890&amp;w=75dda511140890_9b3f5811140890_739c2a11140890_e4bdda11140890_f9b66611140890_1a6bde11140890" type="text/css" >
+
+    
+    <script type="text/javascript">var czyMobilne = !1, czyTablet = !1;</script><script type="text/javascript">if(!GR) { var GR = function() { return; }; }var oG_OSA = {"serwis":"polskatimes", "sUrl":"http://s-pt.ppstatic.pl","debug":false, "iframeReklama":"http://gratka.pl/reklama/", "tracking": [], "vat":{"stawka":0.23,"procent":23,"brutto":1.23}, "trybReklamy": "new", "czyBot": false, "adOceanEmiter":"ad.adocean.pl", "adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77", "kodowanie":"utf-8", "wersja_serwisu":"11140890", "typAnalytics":"GA"};</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/jquery/1.8.3/jquery.min.js?20150630"></script>
+<script type="text/javascript">if (GR && !GR.DOM) {jQuery=jQuery.noConflict(true);}</script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/osnowa.js?c836e611140890"></script>
+<script type="text/javascript" src="//ad.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/reklama.js?95712311140890"></script>
+<script type="text/javascript">var adMiejsce = {"dol1":"adoceanadyfennorpui","fiszka":"adoceanadvgltqllued","gora1":"adoceanadshckejfjfc","gora2":"adoceanadpijqhwontx","layer":"adoceanadmjqgltisos","okazjon":"adoceanadzjhnoqsgxr","prawa1":"adoceanadwkotbomlsm","prawa2":"adoceanadtlfkflgqyh","prawa3":"adoceanadqmmqiiquxc","prawa4":"adoceanadnndhmvjjcb","srodek1":"adoceanadkoknpsdomw","srodek2":"adoceanadxortcqnslr","srodek3":"adoceanadupikgnhhbq","srodek4":"adoceanadraqqjkrlll","tapeta":"adoceanadobhhnxkqgg","verboomInterText":"adoceanadlconquefaf"};
+
+  var adO = {"keys":["glospomorza,artykul,ros,material,slupsk,wiadomosci,pomorze,material_4765619,S\u0142upsk,dieta,bal,sylwester,cera,suknia,b\u00f3stwo"],"vars":[],"minSzerokosc":1000,"kodMaster":"ecVXgmFX50j3O.YEgsgz_0S5Pvqymu9N_UOxymbA7rD.j7","adOceanPreviewId":"es0MDtR27TJ5qmPbU1oLvl44zanRnCboWYQVAmmCUj..77"};
+
+  var hasFlash = (
+    (navigator.plugins !== "undefined" && typeof navigator.plugins["Shockwave Flash"] === "object")
+    || (window.ActiveXObject && (new ActiveXObject("ShockwaveFlash.ShockwaveFlash")) !== false)
+  );
+
+  if (hasFlash) {
+    adO.keys.push('flash');
+  }
+
+  var ciastkoCriteo = GR('pobierzCookie', 'crtg_rta');
+
+  if (ciastkoCriteo && ';' == ciastkoCriteo.charAt(ciastkoCriteo.length-1)) {
+    ciastkoCriteo = ciastkoCriteo.substring(0, ciastkoCriteo.length-1);
+  }
+
+  if (ciastkoCriteo) {
+    var kluczeIWartosci = unescape(ciastkoCriteo).split(";");
+    var dlugosc = kluczeIWartosci.length;
+
+    for (var i = 0; i < dlugosc; i++) {
+      var kluczIWartosc = kluczeIWartosci[i].split("=");
+      adO.vars[kluczIWartosc[0]] = parseInt(kluczIWartosc[1]);
+    }
+  }
+    GR('wywolajReklamy', 1, adO);
+  
+</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fba07d53bd07def&async=1?201601"></script>
+<script type="text/javascript" src="//connect.facebook.net/pl_PL/sdk.js"></script>
+<script type="text/javascript" src="http://s-pt.ppstatic.pl/www/merge/?typ=js&amp;p=/o/jquerytools/jquery.cookie.js,/p/js/regionalne/menu_gorne.js,/p/js/regionalne/stopka.js,/p/js/regionalne/naglowek_skrocony.js,/o/jquerytools/jquery.lazyload-1.9.3.js,/o/jquerytools/jquery.appear-1.1.1.min.js,/p/js/cgr/polskatimes.js,/p/js/rwd/modernizr.foundation.js,/p/js/rwd/foundation5.js,/p/js/rwd/foundation.tooltip.js,/p/js/rwd/foundation.reveal.js,/p/js/rwd/jquery.inview.js,/p/js/rwd/jquery.localscroll-1.2.7-min.js,/p/js/rwd/jquery.scrollTo-1.4.3.1-min.js,/o/jquerytools/jquery.nanoscroller.js,/p/js/regionalne/kategorie_wiecej.js,/p/js/regionalne/rozwin_boks.js,/p/js/rwd/material_spolecznosci.js,/o/js/cgr/track.js&amp;v=11140890&amp;w=89ebf411140890_ffbedf11140890_01240011140890_ada0ac11140890_4b6e9d11140890_72e1d911140890_e042a311140890_9177d511140890_07c27111140890_54a3f911140890_e3446211140890_4ac5fe11140890_8996ad11140890_c4dff611140890_150c7211140890_c36bd511140890_674f9611140890_59ce5711140890_f0dc1511140890"></script>
+
+    
+    <script type="text/javascript" src="http://s-pt.ppstatic.pl/o/js/criteo.js?6c3c0811140890"></script>
+
+
+                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                    <title>Sylwester. Zrób się na bóstwo w trzy dni - gp24.pl</title>
+                            <meta name="description" content="Jak po świątecznej bieganinie znaleźć czas dla siebie i w ekspresowym tempie przemienić się w królową balu? Przeczytaj nasz poradnik">
+                                <meta name="keywords" content="Słupsk, Wiadomości, Głos Pomorza, Słupsk, dieta, bal, sylwester, cera, suknia, bóstwo">
+                                <meta name="robots" content="index, follow">
+                                                                <meta name="google-site-verification" content="Ae1xgwnBjsvlFrkskeJh6JHDpqEX6r1yzSZKZsbgQyk">
+                        <link rel="canonical" href="http://www.gp24.pl/wiadomosci/slupsk/art/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html">
+                                                                                                                                                                                                                                                                                                                                                                                            <meta name="rating" content="general">
+                                <meta name="revisit-after" content="1 day">
+                                                                                <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                                <meta name="fragment" content="!">
+                                                                <meta name="news_keywords" content="Słupsk, dieta, bal, sylwester, cera,suknia,bóstwo">
+                                <meta name="thumbnail" content="http://d-pt.ppstatic.pl/k/r/1/cb/2b/55ba7a286d313_m.jpg?1441320962">
+            
+
+
+            <meta property="article:publisher" content="http://www.facebook.com/gp24pl">
+                <meta property="article:author" content="http://www.facebook.com/gp24pl">
+                <meta property="og:image" content="http://d-pt.ppstatic.pl/k/r/1/cb/2b/55ba7a286d313_o.jpg?1441320962">
+                <meta property="og:title" content="Sylwester. Zrób się na bóstwo w trzy dni">
+                <meta property="og:url" content="http://www.gp24.pl/wiadomosci/slupsk/art/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html">
+                <meta property="og:type" content="article">
+                <meta property="og:site_name" content="gp24.pl">
+                <meta property="og:description" content="Jak po świątecznej bieganinie znaleźć czas dla siebie i w ekspresowym tempie przemienić się w królową balu? Przeczytaj nasz poradnik.  
+
+">
+    
+    <link rel="apple-touch-icon" href="http://s-pt.ppstatic.pl/g/favicon/mobilne/glos_pomorza.png?1">
+
+
+
+<link href="http://s-pt.ppstatic.pl/g/favicon/glos_pomorza.ico" rel="shortcut icon">
+      <!--[if IE]>
+    <meta http-equiv="imagetoolbar" content="no">
+<![endif]-->
+
+      <script type="text/javascript">
+  GR('oTrackGettracker', { prefix: '', account: 'UA-954015-6', domain: '.gp24.pl', setAllowAnchor: true });
+      GR('oTrackGettracker', { prefix: 'b', account: 'UA-2770843-19', domain: '.gp24.pl' });
+    </script>
+
+  
+<script type="text/javascript">
+  jQuery(function() {
+    jQuery("img.lazy").appear(function() { }); // hac
+    jQuery("img.lazy").removeClass('lazy').lazyload({
+      effect:"fadeIn",
+      threshold : 10,
+      failure_limit : 100
+    });
+    // inicjalizacja obsługi boksów asynchronicznych
+    GR('o_async_inicjalizuj_pt', '/artykul/', '4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t', 'html', '//www.gp24.pl/ajax/laduj_asynchronicznie/', '', 0);
+  });
+</script>
+
+  <script><!--
+(function(){
+  var images = [];
+
+  images[0] = new Image();
+  images[0].src = "//mreg.hit.gemius.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=zCg7YHhOsJtjE6VokPRvTvU57H8Fg1CHYpw2HlADJcH.z7&et=view";
+
+  images[1] = new Image();
+  images[1].src =  "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.gif?l=71&id=ciI1xEcaVW5n8SYdF3KOItU77Ok1EDiTYtK0XgK_zen.u7&et=view";
+})();
+//--></script>
+
+    <script type="text/javascript">
+  <!--//--><![CDATA[//><!--
+  var pp_gemius_identifier = 'nAg1L4gvHTRo3.lmitgAv6ScXtcu.G9IAkWAsyYDKur.g7';
+  function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+  gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+  (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+  gt.setAttribute('defer','defer'); gt.src=l+'://pro.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+  //--><!]]>
+  
+  </script>
+  <script>
+    var gfkSstConf = {
+      "url": "config.sensic.net/pl1-sst-w.js",
+      "media" : "gp24PL",
+      "content" : "gp24_artykul_slupsk_3073"
+    };
+    
+      (function (w, d, c, s, id) {
+        if (d.getElementById(id)) {return;}
+          w[id] = w[id] || function () {
+            if ("undefined" == typeof gfkSstApi) {w[id].queue.push(arguments[0]);
+      } else {gfkSstApi.impression(arguments[0]);}
+          };
+        w[id].queue = w[id].queue || [];
+        var tag = d.createElement(s); var el = d.getElementsByTagName(s)[0];
+        tag.id = id; tag.async = true; tag.src = '//' + c.url;
+        el.parentNode.insertBefore(tag, el);
+      })(window, document, gfkSstConf, 'script', 'gfkSst');
+    
+  </script>
+
+ 
+  </head>
+  <!--[if lt IE 9 ]>    <body class="lt-ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if IE 9]> <body class="ie9 regionalne stronaMaterialu widokDesktop"> <![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!-->
+  <body class="regionalne stronaMaterialu widokDesktop">
+  <!--<![endif]-->
+      <script>
+  dataLayer = [{
+      }];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PZV8V5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PZV8V5');</script>
+  <!-- End Google Tag Manager -->
+
+        <div id="piano-root"></div><script type="text/javascript">
+var pianoVariables = {
+  service_id: '267',
+  mode: 'bar_normal',
+  method_verify: true
+};
+var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = pianoHostProtocol + 'pl.bar.pianomedia.eu/bar.js';
+
+  var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+})();
+</script>  <div id="kontener-static">  <div id="pasek-media-plywajacy" class="pasekMediaPlus skrocony przyklejony" style="display:none">
+    <div class="row">
+      <header class="columns">
+        <span id="menu-mobilne-przycisk" class="show-for-medium-down" title="Menu">Menu</span>        <h1>
+          <a href="http://www.gp24.pl" data-tracker="/nowa_karta/naglowek/glospomorza">
+              <img src="http://s-pt.ppstatic.pl/g/logo_naglowek/glospomorza.png?11140890.png" alt="Głos Pomorza">
+
+          </a>
+        </h1>
+                          <h2>
+            <a href="http://www.gp24.pl/wiadomosci/slupsk/" data-tracker="/nowa_karta/naglowek/kategoria_mat/ /wiadomosci/slupsk/">
+                              <span>Słupsk</span>
+                          </a>
+          </h2>
+                <ul class="kategorieNaglowek schowaj"></ul>
+      </header>
+      <ul class="columns logowanie">
+                  <li class="zaloguj"><a class="loginWarstwa" data-tracker="naglowek/zaloguj" title="Zaloguj się do serwisu Głos Pomorza" href="http://www.gp24.pl/logowanie/" rel="nofollow" id="naglowek-link-login">Zaloguj się</a></li>
+                <li class="szukaj schowaj">
+          <div>
+            <a title="szukaj" href="http://www.gp24.pl/szukaj/">Szukaj</a>
+            <form action="http://www.gp24.pl/wyszukiwanie/" method="post" id="wyszukiwarka-mobile">
+              <input type="search" name="szukaj_slowo" placeholder="Wpisz czego szukasz" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</div><div id="ad-gora1" class="adSrodek hide-for-medium-down naglowekTlo"></div>
+<div id="logo-serwisu"></div>
+
+    <script type="text/javascript">
+        (function () {
+            GR('wstawReklame', {
+                nazwa: 'gora1',
+                rodzic: '#ad-gora1',
+            });
+        })();
+    </script>
+
+<script><!--
+(function(){
+  try{
+    var adrequest = new XMLHttpRequest();
+    var hitrequest = new XMLHttpRequest();
+ 
+    adrequest.open("GET", "//myao.adocean.pl/_" + new Date().getTime() + "/ad.js?id=nJpB5gBsvEYqjNEhFhRQd_sR3A.T7LA9bTdPlUvbjW7.47", true);
+    adrequest.withCredentials = true;
+    adrequest.send(null);
+  
+    hitrequest.open("GET", "//smpl.hit.ppdb.pl/_" + new Date().getTime() + "/redot.js?l=71&id=p301ZHcRQYCaGuv9TDX3pvUI.D5REaSbzAnb3DaDtQL.f7&et=view", true);
+    hitrequest.withCredentials = true;
+    hitrequest.send(null);
+  } catch (e) {}
+})();
+//--></script>
+
+
+<script>
+    (function(){
+      var czyZainicjalizowany =  oG_OSA['facebookZainicjalizowany'] || false;
+      if(!czyZainicjalizowany) {
+          FB.init({
+            appId: '433280360150290',
+            xfbml: true,
+            cookie: true,
+            oauth: true,
+            version: 'v2.2'
+          });
+          oG_OSA['facebookZainicjalizowany'] = true;
+      }
+    })();
+</script>
+
+    <div class="blok menu" id="LinkArea:men">
+  <div class="row">
+    <div class="columns large-12" id="LinkArea:menMob">
+            <ul id="menu-mobilne" style="display: none;">
+                  <li>
+            <a href="http://www.gp24.pl/wiadomosci/" class="ellipsis menu1Poziom" id="LinkArea:menuMob1">Wiadomości</a>
+          </li>
+                            <li>
+            <a href="http://www.gp24.pl/sport/" class="ellipsis menu1Poziom" id="LinkArea:menuMob2">Sport</a>
+          </li>
+                            <li>
+            <a href="http://www.gp24.pl/motofakty/" class="ellipsis menu1Poziom" id="LinkArea:menuMob3">Motofakty</a>
+          </li>
+                            <li>
+            <a href="http://www.gp24.pl/loteria-glosu/" class="ellipsis menu1Poziom" id="LinkArea:menuMob4">Loteria Głosu</a>
+          </li>
+                            <li>
+            <a href="http://www.gp24.pl/studniowki/" class="ellipsis menu1Poziom" id="LinkArea:menuMob5">STUDNIOWKI</a>
+          </li>
+                            <li>
+            <a href="http://www.gp24.pl/serwisy/" class="ellipsis menu1Poziom" id="LinkArea:menuMob6">Serwisy</a>
+          </li>
+                            <li>
+            <a href="http://www.gp24.pl/kultura/" class="ellipsis menu1Poziom" id="LinkArea:menuMob7">KULTURA</a>
+          </li>
+                            <li>
+            <a href="http://www.gp24.pl/akcja-redakcja/" class="ellipsis menu1Poziom" id="LinkArea:menuMob8">Akcja Redakcja</a>
+          </li>
+                                  <li id="horoskopy-mobilne">
+          <a href="http://www.gp24.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+        </li>
+                  <li id="biznes-mobilne">
+            <a href="http://www.strefabiznesu.gp24.pl" class="menu1Poziom" target="_blank">Biznes</a>
+          </li>
+                                    <li id="agro-mobilne">
+            <a href="http://strefaagro.gp24.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+                                    <li class="zaloguj"><a class="loginWarstwa" title="Zaloguj się do serwisu" href="http://www.gp24.pl/logowanie/" rel="nofollow">Zaloguj</a></li>
+              </ul>
+    </div>
+    <div class="columns large-12" id="LinkArea:menGl">
+      <ul id="menu-glowne" class="hide-for-medium-down">
+                  <li>
+            <a href="http://www.gp24.pl/wiadomosci/" class="menu1Poziom" id="LinkArea:menuGl1">Wiadomości</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo11">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gp24.pl/wiadomosci/slupsk/" id="LinkArea:menGlPo111">Słupsk</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/wiadomosci/ustka/" id="LinkArea:menGlPo112">Ustka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/wiadomosci/bytow/" id="LinkArea:menGlPo113">Bytów</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/wiadomosci/miastko/" id="LinkArea:menGlPo114">Miastko</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/wiadomosci/lebork/" id="LinkArea:menGlPo115">Lębork</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/wiadomosci/pomorze/" id="LinkArea:menGlPo116">Pomorze</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9294624,znaleziono-zwloki-63latka-w-kamienicy-przy-ul-mickiewicza-policja-bada-sprawe,id,t.html" id="LinkArea:menGlM11">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/3d/f6/569901e1de339_o,size,380x238,q,71,h,d3cd29.jpg" class="lazy schowaj">
+                                                    <h3 >Znaleziono zwłoki 63-latka w kamienicy przy ul. Mickiewicza. Policja bada sprawę </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9294024,zatrzymania-w-slupsku-zwiazane-z-narkotykami-i-dopalaczami,id,t.html" id="LinkArea:menGlM12">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/5f/f6/5699039be7a08_o,size,380x238,q,71,h,084063.jpg" class="lazy schowaj">
+                                                    <h3 >Zatrzymania w Słupsku związane z narkotykami i dopalaczami</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9291950,chirurdzy-ogolni-i-onkolodzy-chca-odejsc-z-pracy-w-slupskim-szpitalu-szczegoly,id,t.html" id="LinkArea:menGlM13">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/58/4c/569888ad2a5a4_o,size,380x238,q,71,h,2a5b86.jpg" class="lazy schowaj">
+                                                    <h3 >Chirurdzy ogólni i onkolodzy chcą odejść z pracy w słupskim szpitalu (szczegóły)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gp24.pl/sport/" class="menu1Poziom" id="LinkArea:menuGl2">Sport</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo21">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gp24.pl/sport/pilka-nozna/" id="LinkArea:menGlPo211">Piłka nożna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/sport/pilka-reczna/" id="LinkArea:menGlPo212">Piłka ręczna</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/sport/siatkowka/" id="LinkArea:menGlPo213">Siatkówka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/sport/lekkoatletyka/" id="LinkArea:menGlPo214">Lekkoatletyka</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/sport/sporty-walki/" id="LinkArea:menGlPo215">Sporty walki</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/sport/czarni/" id="LinkArea:menGlPo216">Czarni</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/sport/inne-dyscypliny/" id="LinkArea:menGlPo217">Inne dyscypliny</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/sport/pilka-nozna/art/9291940,pierwszy-sparing-druteksu-bytovii-test-dla-nowych-graczy,id,t.html" id="LinkArea:menGlM21">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/83/57/56988739350d2_o,size,380x238,q,71,h,d21169.jpg" class="lazy schowaj">
+                                                    <h3 >Pierwszy sparing Druteksu- Bytovii - test dla nowych graczy</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/sport/czarni/art/9289950,najnowszy-odcinek-magazynu-gp24-basket-wideo,id,t.html" id="LinkArea:menGlM22">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/fd/22/569795c9cdb7c_o,size,380x238,q,71,h,3bff95.jpg" class="lazy schowaj">
+                                                    <h3 >Najnowszy odcinek magazynu GP24 Basket (wideo)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/sport/pilka-nozna/art/9284087,gryf-slupsk-juz-trenuje-przed-runda-wiosenna,id,t.html" id="LinkArea:menGlM23">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/43/f6/5695ebacc8812_o,size,380x238,q,71,h,e884a7.jpg" class="lazy schowaj">
+                                                    <h3 >Gryf Słupsk już trenuje przed rundą wiosenną</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gp24.pl/motofakty/" class="menu1Poziom" id="LinkArea:menuGl3">Motofakty</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo31">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gp24.pl/motofakty/na-drogach/" id="LinkArea:menGlPo311">Na drogach</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/motofakty/aktualnosci/" id="LinkArea:menGlPo312">Aktualności</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/motofakty/slupski-ring/" id="LinkArea:menGlPo313">Słupski ring</a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/pomorze/art/9290652,s6-mozna-budowac-decyzja-srodowiskowa-utrzymana,id,t.html" id="LinkArea:menGlM31">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/16/e1/5697bd43e2b70_o,size,380x238,q,71,h,509669.jpg" class="lazy schowaj">
+                                                    <h3 >S6 można budować, decyzja środowiskowa utrzymana </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/motofakty/aktualnosci/art/9284081,rozmowa-ze-zbigniewem-wiczkowskim-o-bezpieczenstwie,id,t.html" id="LinkArea:menGlM32">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/19/b1/5697432bb30f7_o,size,380x238,q,71,h,dd2863.jpg" class="lazy schowaj">
+                                                    <h3 >Rozmowa ze Zbigniewem Wiczkowskim o bezpieczeństwie</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/motofakty/aktualnosci/art/9278219,koniec-z-parkowaniem-na-starzynskiego-bedzie-deptak,id,t.html" id="LinkArea:menGlM33">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/7c/09/5693ca77780bd_o,size,380x238,q,71,h,06906d.jpg" class="lazy schowaj">
+                                                    <h3 >Koniec z parkowaniem na Starzyńskiego. Będzie deptak</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gp24.pl/loteria-glosu/" class="menu1Poziom" id="LinkArea:menuGl4">Loteria Głosu</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/loteria-glosu/art/8955079,startuje-wielka-loteria-w-glosie,id,t.html" id="LinkArea:menGlM41">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/9b/44/560a3cec0780c_o,size,380x238,q,71,h,c3505a.jpg" class="lazy schowaj">
+                                                    <h3 >Startuje wielka loteria w Głosie!</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/loteria-glosu/art/8412514,zwyciezczyni-poprzedniej-loterii-glosu-obejrzala-juz-wygrane-mieszkanie-wideo,id,t.html" id="LinkArea:menGlM42">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/88/b4/560a3e2119912_o,size,380x238,q,71,h,f93ccd.jpg" class="lazy schowaj">
+                                                    <h3 >Zwyciężczyni poprzedniej loterii Głosu obejrzała już wygrane mieszkanie [wideo]</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/loteria-glosu/art/8014823,masz-pytania-w-sprawie-loterii-skontaktuj-sie-z-nami,id,t.html" id="LinkArea:menGlM43">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/28/aa/55f9636d62119_o,size,380x238,crop,0.1087x0.1520x0.7533x0.6293,q,71,h,d3c022.jpg" class="lazy schowaj">
+                                                    <h3 >Masz pytania w sprawie loterii? Skontaktuj się z nami</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/loteria-glosu/art/8014681,regulamin-loterii-wygraj-auto-z-glosem,id,t.html" id="LinkArea:menGlM44">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/c0/fb/55f961f511176_o,size,380x238,q,71,h,be5e31.jpg" class="lazy schowaj">
+                                                    <h3 >Regulamin loterii "Wygraj auto z Głosem"</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gp24.pl/studniowki/" class="menu1Poziom" id="LinkArea:menuGl5">STUDNIOWKI</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/studniowki/art/9253716,studniowki-2016-poinformuj-nas-o-twoim-balu,id,t.html" id="LinkArea:menGlM51">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e5/b7/568a8ab02ecb0_o,size,380x238,q,71,h,7f4a16.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówki 2016. Poinformuj nas o twoim balu</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/studniowki/art/4848219,studniowki-w-slupsku-i-regionie-przezyjmy-to-jeszcze-raz-wideostory,id,t.html" id="LinkArea:menGlM52">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/73/fa/55bc5bdcaaad5_o,size,380x238,q,71,h,41af57.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówki w Słupsku i regionie. Przeżyjmy to jeszcze raz (wideostory)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/studniowki/gal/4847973,studniowka-zespolu-szkol-ekonomicznouslugowych-w-bytowie-zdjecia-wideo,7410691,id,t,zid.html" id="LinkArea:menGlM53">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/f0/a9/55bc5a515b2d3_o,size,380x238,q,71,h,513301.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówka &#8203;Zespołu Szkół Ekonomiczno-Usługowych w Bytowie (zdjęcia, wideo)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/studniowki/art/4847933,studniowki-slupskiego-rolniczaka-i-ekonomika-zdjecia-wideo,id,t.html" id="LinkArea:menGlM54">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/81/f1/55bc599ab5f00_o,size,380x238,q,71,h,d4c110.jpg" class="lazy schowaj">
+                                                    <h3 >Studniówki słupskiego rolniczaka i ekonomika (zdjęcia, wideo)</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gp24.pl/serwisy/" class="menu1Poziom" id="LinkArea:menuGl6">Serwisy</a>
+                          <div class="rozwijane">
+                <div class="row">
+                                                                                <div class="listaKat columns medium-3" id="LinkArea:menGlPo61">
+                        <ul>
+                                                  <li>
+                            <a href="http://www.gp24.pl/serwisy/stop-dopalaczom/" id="LinkArea:menGlPo611">Stop dopalaczom</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/serwisy/tarcza-antyrakietowa/" id="LinkArea:menGlPo612">Tarcza antyrakietowa</a>
+                          </li>
+                                                  <li>
+                            <a href="http://www.gp24.pl/serwisy/cztery-lapy/" id="LinkArea:menGlPo613">cztery lapy </a>
+                          </li>
+                                                </ul>
+                      </div>
+                                      
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9294024,zatrzymania-w-slupsku-zwiazane-z-narkotykami-i-dopalaczami,id,t.html" id="LinkArea:menGlM61">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/5f/f6/5699039be7a08_o,size,380x238,q,71,h,084063.jpg" class="lazy schowaj">
+                                                    <h3 >Zatrzymania w Słupsku związane z narkotykami i dopalaczami</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/serwisy/stop-dopalaczom/art/9288519,wpadli-w-bytowie-z-marihuana-i-dopalaczami,id,t.html" id="LinkArea:menGlM62">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a6/62/5697402ec3687_o,size,380x238,q,71,h,0f7795.jpg" class="lazy schowaj">
+                                                    <h3 >Wpadli w Bytowie z marihuaną i dopalaczami</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="http://www.gk24.pl/serwisy/stop-dopalaczom/art/9281003,17latek-wymiotowal-na-ulicy-przyznal-ze-zazyl-dopalacze,id,t.html" id="LinkArea:menGlM63">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/3b/93/5694d921c0039_o,size,380x238,q,71,h,16b684.jpg" class="lazy schowaj">
+                                                    <h3 >17-latek wymiotował na ulicy. Przyznał, że zażył dopalacze</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gp24.pl/kultura/" class="menu1Poziom" id="LinkArea:menuGl7">KULTURA</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9294312,weekend-pelen-wydarzen-kulturalnych,id,t.html" id="LinkArea:menGlM71">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d0/74/5698f04fd5420_o,size,380x238,q,71,h,3c9bd1.jpg" class="lazy schowaj">
+                                                    <h3 >Weekend pełen wydarzeń kulturalnych </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9290390,dominik-nowak-dyrektor-nowego-teatru-w-reklamie-loterii-paragonowej-wideo,id,t.html" id="LinkArea:menGlM72">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/54/01/5698b15b1857a_o,size,380x238,q,71,h,a845bf.jpg" class="lazy schowaj">
+                                                    <h3 >Dominik Nowak, dyrektor Nowego Teatru, w reklamie Loterii Paragonowej (wideo) </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9292080,casting-do-wyborow-miss-i-mistera-ziemi-pomorskiej,id,t.html" id="LinkArea:menGlM73">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e0/84/569803978a535_o,size,380x238,q,71,h,b72324.jpg" class="lazy schowaj">
+                                                    <h3 >Casting do wyborów Miss i Mistera Ziemi Pomorskiej </h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9293650,paulla-i-kony-wystapili-w-kobylnicy,id,t.html" id="LinkArea:menGlM74">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/e9/9a/5698c9e211cce_o,size,380x238,q,71,h,18caf9.jpg" class="lazy schowaj">
+                                                    <h3 >Paulla i Kony wystąpili w Kobylnicy</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                  <li>
+            <a href="http://www.gp24.pl/akcja-redakcja/" class="menu1Poziom" id="LinkArea:menuGl8">Akcja Redakcja</a>
+                          <div class="rozwijane">
+                <div class="row">
+                  
+                                                        <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9282094,rozklady-jazdy-wroca-niebawem-na-przystanki,id,t.html" id="LinkArea:menGlM81">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/5f/e6/56951d0148832_o,size,380x238,q,71,h,a4b05b.jpg" class="lazy schowaj">
+                                                    <h3 >Rozkłady jazdy wrócą niebawem na przystanki</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/wiadomosci/slupsk/art/9281976,za-duzy-podjazd-dla-niepelnosprawnych,id,t.html" id="LinkArea:menGlM82">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d0/89/5695179f9daaf_o,size,380x238,q,71,h,bc121d.jpg" class="lazy schowaj">
+                                                    <h3 >Za duży podjazd dla niepełnosprawnych?</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/akcja-redakcja/art/9276656,smieci-zamiast-do-kontenera-trafily-na-plac,id,t.html" id="LinkArea:menGlM83">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/0b/9b/569371963433a_o,size,380x238,q,71,h,e551e8.jpg" class="lazy schowaj">
+                                                    <h3 >Śmieci, zamiast do kontenera, trafiły na plac</h3>
+                        </article>
+                      </a>
+                    </div>
+                                      <div class="wybranyArt columns medium-3">
+                      <a href="//www.gp24.pl/akcja-redakcja/art/9252692,czytelnik-pyta-o-gaz-a-pgm-nie-pokazuje-rozliczenia,id,t.html" id="LinkArea:menGlM84">
+                        <article>
+                                                      <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/13/47/568a440f426b9_o,size,380x238,q,71,h,8c6fc4.jpg" class="lazy schowaj">
+                                                    <h3 >Czytelnik pyta o gaz, a PGM nie pokazuje rozliczenia</h3>
+                        </article>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                      </li>
+                                  <li id="biznes-menu" class="bezPodmenu">
+            <a href="http://www.strefabiznesu.gp24.pl" class="menu1Poziom" target="_blank">Biznes</a>
+                      </li>
+                          <li id="agro-menu" class="bezPodmenu">
+            <a href="http://strefaagro.gp24.pl" class="menu1Poziom" target="_blank">Agro</a>
+          </li>
+        
+        <li id="ogloszenia-menu">
+          <a href="http://www.gp24.pl/ogloszenia/" class="menu1Poziom">Ogłoszenia</a>
+                      <div class="rozwijane">
+              <a href="http://www.gratka.pl/ogloszenia/dodaj.html" target="_blank">Zamów ogłoszenie w gratce</a>
+              <a href="http://nadaj.pl" target="_blank">Zamów ogłoszenie w prasie</a>
+            </div>
+                  </li>
+        <li id="wyszukaj-menu" class="bezPodmenu">
+          <a class="menu1Poziom">Szukaj</a>
+          <div class="wyszukiwarka">
+            <form action="http://www.gp24.pl/wyszukiwanie/" method="post">
+              <input type="search" placeholder="Wpisz czego szukasz" name="szukaj_slowo" autocomplete="off">
+              <input type="submit" value="Wyszukaj">
+            </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div><div class="adSrodek row hide-for-medium-down" id="gora2">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "gora2", pokazUkryjRodzica: true, rodzic: '#gora2', cssClass: "marginD" });</script>
+</div>      <div class="row">
+                  <div id="nawigator" class="twelve columns">  <div id="lokalizator" class="row hide-for-small-down">
+    <div class="twelve columns">
+                            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+            <a href="http://www.gp24.pl/" title="Głos Pomorza" itemprop="url"><span itemprop="title">Głos Pomorza</span></a>
+          </div>
+                                <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+          <a href="http://www.gp24.pl/wiadomosci/" title="Wiadomości" itemprop="url"><span itemprop="title">Wiadomości</span></a>
+        </div>
+                        <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="raquo">
+          <a href="http://www.gp24.pl/wiadomosci/slupsk/" title="Słupsk" itemprop="url"><span itemprop="title">Słupsk</span></a>
+        </div>
+                        Sylwester. Zrób się na bóstwo w trzy dni
+              </div>
+  </div>
+</div>
+              </div>
+          
+    
+    <div class="kontener">
+      
+      
+                  <div class="row">
+        <div class="columns">
+          <h1>Sylwester. Zrób się na bóstwo w trzy dni</h1>
+        </div>
+      </div>
+            <div class="row">
+        <div id="glowna-kolumna" class="columns large-8">
+          
+                     <script type="text/javascript">
+    
+    aktualnaStrona = 0;
+</script>
+    
+
+
+
+<script type="text/javascript">
+  GR("zaladujPlikJS", "http://s-pt.ppstatic.pl/p/js/akcja.js", "plik");
+</script>
+<div class="row">
+  <article id="material" class="columns">
+      
+<header class="materialSzczegoly">
+  
+            
+      <p class="nazwisko autorPT">
+        <b>Magdalena Olechnowicz 
+magdalena.olechnowicz@mediaregionalne.pl </b>
+              </p>
+      
+              <p class="zrodlo show-for-small-down">
+                                          <span title="Źródło materiału: Głos Pomorza">
+              <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/glospomorza.gif?11140890123" alt="Głos Pomorza" >
+            </span>
+                  </p>
+      
+        
+  
+      <p class="aktualizacja">
+      <time class="show-for-medium-up" datetime="2011-12-29T04:30:00+01:00">
+        29 grudnia 2011 
+              </time>
+      <time class="show-for-small-down" datetime="2011-12-29T04:30:00+01:00">
+        29.12.2011
+              </time>
+              Aktualizacja: 
+        <time class="show-for-medium-up" datetime="2011-12-28T17:40:15+01:00">28 grudnia 2011 17:40</time>
+        <time class="show-for-small-down" datetime="2011-12-28T17:40:15+01:00">28.12.2011 17:40</time>
+          </p>
+    
+  
+      <p class="zrodlo show-for-medium-up">
+                          <span title="Źródło materiału: Głos Pomorza">
+          <img src="http://s-pt.ppstatic.pl/g/logo_zrodlo/glospomorza.gif?11140890123" alt="Głos Pomorza" >
+        </span>
+          </p>
+    
+</header>
+
+  <ul id="narzedzia" data-url="http://www.gp24.pl/artykul/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html">
+    <li class="facebook wyzsze opis popup" data-tracker="artykul/klikniecie/fb-gora">
+      <a data-url="https://www.facebook.com/sharer/sharer.php?u=http://www.gp24.pl/artykul/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html&amp;title=Sylwester. Zrób się na bóstwo w trzy dni" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">
+          <iframe src="http://www.facebook.com/plugins/like.php?locale=pl_PL&amp;href=http://www.gp24.pl/artykul/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;share=true&amp;width=200&amp;height=20" scrolling="no" width="200" height="20"></iframe>
+        </span>
+      </a>
+    </li>
+    <li class="twitter wyzsze opis popup">
+      <a data-url="http://twitter.com/home?status=Sylwester. Zrób się na bóstwo w trzy dni+http://www.gp24.pl/artykul/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Twitterze</span>
+      </a>
+    </li>
+    <li class="googleplus wyzsze opis popup">
+      <a data-url="https://plus.google.com/share?url=http://www.gp24.pl/artykul/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html" rel="nofollow">
+        <div class="wartosc">0</div>
+        <span class="ukryty">Podziel się na Google+</span>
+      </a>
+    </li>
+    
+    <li class="przeslij bezTekstu">
+      <a rel="nofollow" id="narzedzia-przeslij">Prześlij</a>
+      <div>
+        
+        <form id="form-polec" method="post">
+          <fieldset>
+            <legend>Poleć znajomemu ten artykuł</legend>
+            <label for="email">Adres email:</label>
+            <input id="email" type="text" name="email">
+            <span class="blad">Niepoprawny adres email</span>
+            <button type="submit" name="wyslij">Wyślij</button>
+          </fieldset>
+        </form>
+      </div>
+    </li>
+    <li class="drukuj opis">
+      <a href="#drukuj_dol" rel="nofollow" id="narzedzia-drukuj" onclick="window.open('/drukuj/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html', '', 'width=780,height=500,scrollbars=1');">
+        <span class="ukryty">Drukuj artykuł</span>
+      </a>
+    </li>
+    <li class="wielkosc bezTekstu">
+      <a rel="nofollow">Zmień wielkość czcionki</a>
+      <div>
+        <div class="pomniejsz" onclick="Czcionka.pomniejsz();" title="Mniejsza czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_pomniejsz.png">Mniejsza czcionka</div>
+        <div class="powieksz" onclick="Czcionka.powieksz();" title="Większa czcionka" src="http://s-pt.ppstatic.pl/g/regionalne/aa_powieksz.png">Większa czcionka</div>
+      </div>
+    </li>
+    <li class="komentarze wyzsze opis">
+              <a href="#material-komentarze" data-tracker="artykul/klikniecie/komentarze-gora" rel="nofollow" title="Komentarze">
+              <div class="wartosc">0</div>
+        <span class="ukryty">Komentarze</span>
+      </a>
+    </li>
+  </ul>
+  <script>
+    
+      jQuery("#form-polec").submit(function() {
+          var wyrazenie = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+          if(wyrazenie.test(jQuery(this).find("#email").val())) {
+              jQuery(this).find("span.blad").removeClass("widoczny");
+              jQuery(this).find("#email").removeClass("blad");
+              return true;
+          } else {
+              jQuery(this).find("#email").addClass("blad");
+              jQuery(this).find("span.blad").addClass("widoczny");
+              return false;
+          }
+      });
+
+      jQuery("#narzedzia .facebook").hover(
+        function() {
+          jQuery(this).toggleClass("hover");
+          jQuery(this).click();
+        },
+        function() {
+          jQuery(this).toggleClass("hover");
+      });
+
+      var Czcionka = {
+          aktualnie : 3,
+          
+          zmien : function () {
+              jQuery("#material").attr("data-rozmiar", this.aktualnie);
+          },
+          
+          powieksz : function () {
+              if (this.aktualnie < 6) this.aktualnie++;
+              this.zmien();
+              return false;
+          },
+
+          pomniejsz : function () {
+              if (this.aktualnie > 0) this.aktualnie--;
+              this.zmien();
+              return false;
+          }
+      }
+      
+      function Pozycjonuj() {
+          var poz = jQuery("#material").offset(),
+              scrollTop = jQuery(window).scrollTop(),
+              przesuniecie = jQuery("#pasek-media-plus").outerHeight(true) + 30,
+              doWysokosci = jQuery("#material footer").offset().top - 25,
+              narzedzia = jQuery("#narzedzia");
+              
+          if(poz.top <= scrollTop + przesuniecie) {
+              if(scrollTop + przesuniecie + narzedzia.outerHeight(true) < doWysokosci) {
+                  narzedzia.css({
+                      "top": przesuniecie + 20,
+                      "position": "fixed",
+                      "left": poz.left - narzedzia.outerWidth(true),
+                  });
+              } else {
+                  narzedzia.css({
+                      "top": jQuery('#material footer').offset().top - poz.top - narzedzia.outerHeight(true) + 20,
+                      "position": "absolute",
+                      "left": -narzedzia.outerWidth(true),
+                  });
+              }
+          } else {
+              narzedzia.css({
+                  "top": 35,
+                  "position": "absolute",
+                  "left": -narzedzia.outerWidth(true),
+              });
+          }
+      }
+      
+      jQuery(window).on("scroll resize load", function(){
+          Pozycjonuj();
+      });
+      liczbySpolecznosciRegionalne();
+    
+  </script>
+              <div class="zdjecieGlowne show-for-medium-up" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="thumbnail" content="http://d-pt.ppstatic.pl/k/r/1/cb/2b/55ba7a286d313_o.jpg?1441320962">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAGkAQMAAAAiwoCVAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPElEQVR42u3BgQAAAADDoPlTH+ECVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB8A5VMAAHYnuRmAAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/cb/2b/55ba7a286d313_o,size,969x565,q,71,h,705b3e.jpg" alt="Sylwester. Zrób się na bóstwo w trzy dni" class="lazy">
+                  </div>
+        <section class="zajawka">
+      Jak po świątecznej bieganinie znaleźć czas dla siebie i w ekspresowym tempie przemienić się w królową balu? Przeczytaj nasz poradnik.  
+
+
+    </section>
+    
+            <div class="zdjecieGlowne show-for-small-down" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="thumbnail" content="http://d-pt.ppstatic.pl/k/r/1/cb/2b/55ba7a286d313_o.jpg?1441320962">
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGQAQAAAAAWiOyIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAACKSURBVHja7MwxAQAACAOgaf/OWmInBGAuXRuhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUFvwAYv0EH9Z9tOkAAAAASUVORK5CYII=" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/cb/2b/55ba7a286d313_o,size,640x400,q,71,h,dab899.jpg" alt="Sylwester. Zrób się na bóstwo w trzy dni" class="lazy">
+                  </div>
+      
+
+            <section id="tresc" >
+                        Wystrzałowa kreacja, fajne buty, dobre miejsce i doborowe towarzystwo to tylko połowa sukcesu udanej nocy sylwestrowej. Najważniejsze będzie Twoje samopoczucie i świadomość, że wyglądasz olśniewająco. Dla wszystkich spóźnialskich proponujemy trzydniowy plan awaryjny. <br><br><b>Dzień pierwszy</b> <br>Swoje przygotowania zacznij od szybkiej, ale skutecznej zmiany sposobu odżywiania. <br>- Zbilansowana dieta wpływa nie tylko na sprawne działanie naszego organizmu, ale również na wygląd i samopoczucie - radzi Małgorzata Zdrojewska, <a href="http://praca.gratka.pl/specjalista-dietetyk/#utm_medium=alz&utm_source=gp24.pl&utm_campaign=artykul" target="_blank" class="alz" data-alz="specjalista-dietetyk">specjalista dietetyk</a>, współpracujący z firmą Good Food. - Aby w sylwestra czuć się lekką i pewną siebie kobietą, zrezygnuj z poświątecznych przysmaków, a zamiast tego zaplanuj racjonalnie jadłospis na najbliższe dni.<br><div id="reklama_srodtekst_0" class="adSrodekSzeroki reklama_srodtekst"><div class="pt_srodtekst"><div class="clear">
+              <script type="text/javascript">
+                GR("wstawReklame","srodek1");
+              </script></div></div></div><br>Odprężenie: Przed snem zorganizuj sobie specjalną, relaksującą kąpiel, która równocześnie poprawi jędrność skóry i jej nawilżenie. Do wanny pełnej wody wlej pół litra mleka i szklanki oliwy z oliwek. Dzięki mleku tłuszcz połączy się z wodą. Taka wieczorna kuracja będzie lekarstwem na przesuszoną zimą skórę. <br><br>Skóra: Aby poprawić koloryt i złuszczyć odkryte w sylwestrową noc części ciała, można zastosować peeling kawowy. Wystarczy zaparzyć dwie łyżeczki kawy, odlać wodę, a następnie dodać odrobinę cynamonu i soli. Przygotowaną miksturę wymieszaj z kilkoma łyżeczkami oliwy - do uzyskania odpowiedniej konsystencji. Nacieraj równomiernie problematyczne miejsca przygotowanym peelingiem, a następnie spłucz ciepłą wodą. <br><br><b>Dzień drugi</b><br>Menu drugiego dnia twoich przygotowań musi być równie lekkie i zdrowe, jak dzień wcześniej. Nie zapominaj o piciu dużej ilości wody i zielonej herbaty, która zawiera antyoksydanty i pomaga w oczyszczaniu organizmu z toksyn. <br><br>Włosy: Są jednym z pierwszych elementów kobiecego wyglądu, na które zwracają uwagę mężczyźni. Zadbane i lśniące włosy są swoistą wizytówką każdej kobiety. Jest wiele domowych sposobów na odżywienie włosów, znanych i stosowanych już przez nasze babcie. <br><br>Oto jeden z nich. Przygotuj dwa jajka i oddziel dokładnie żółtka od białek. Do żółtek dodaj sok z połówki cytryny i kilka kropel oleju rycynowego. Przygotowaną miksturę nałóż na mokre włosy, odczekaj 20 minut i dokładnie spłucz głowę letnią wodą. Po wysuszeniu możesz pozostawić je naturalnie rozpuszczone lub upiąć w modny sposób. <br><br>Stopy: Zimą często zapomina się o pielęgnacji tej części ciała, ponieważ i tak chowa się je w pełnych butach. Jednak do balowych sukienek najchętniej wybieramy delikatne szpilki z odkrytymi piętami i palcami. Najprościej w takiej sytuacji byłoby wybrać się do kosmetyczki na pedicure. <br><br>Jeśli jednak zapomniałaś umówić się na wizytę, albo po prostu stawiasz na samodzielność, ten sam zabieg możesz przeprowadzić w domu. Wymocz stopy przez ok. 15 minut w ciepłej wodzie z dodatkiem soli kąpielowej i olejków rumiankowych lub lawendowych. Następnie przygotuj gruboziarnisty peeling cukrowy, mieszając oliwę i cukier w takich proporcjach, aby preparat miał bardziej stałą niż lejącą się konsystencję. Natrzyj dokładnie stopy, aż będą delikatne i gładkie. Cały rytuał nie tylko przywróci urodę twoim stopom, ale również będzie lekarstwem na zmęczone i spuchnięte nogi. <br><br><b>Dzień trzeci</b><br>Podczas trzydniowej, ekspresowej diety nie zapominaj o różnorodności. Tylko w ten sposób będziesz w stanie dostarczyć organizmowi wszystkie niezbędne wartości odżywcze. <br><br>Oczy: Kiedy jesteś zmęczona albo w nie najlepszym humorze, pierwsze, co o tym mówi, to Twoje spojrzenie i oczy. Dlatego właśnie o nie powinnaś zadbać w ostatnim dniu przed wielkim balem. Prostym sposobem jest kompres z herbaty. Wystarczy przygotować bardzo mocny napar z czarnej herbaty i płatki kosmetyczne. Gdy herbata nieco ostygnie, delikatnie namocz w niej wacik i połóż na zamkniętą powiekę. Po kilku chwilach przemyj twarz wodą. Dzięki teinie zasinienia i opuchlizna wokół oczu znikną. <br><br>Cera: Na koniec nie można pominąć zadbania o promienną cerę. Na dobrze nawilżonej i wygładzonej skórze twarzy dłużej utrzymuje się wieczorowy makijaż. Domowym sposobem przygotuj tonik dodający cerze blasku. Do butelki niegazowanej wody wciśnij sok z kilku cytryn (im więcej, tym lepiej). Płyn rozlej do małych woreczków i zamroź. Przed nałożeniem makijażu przemyj twarz jedną rozmrożoną porcją tego toniku. Nawet jeśli 31 grudnia będziesz musiała pracować, ta kuracja w pełni usunie zmęczenie z Twojej twarzy.  <br>
+                                                                    </section>
+
+    <footer class="row">
+                    <div id="nota-wydawnicza" class="columns">
+          <div class="right">
+            <p class="chmurka" >Rozpowszechnianie niniejszego artykułu możliwe jest tylko i&nbsp;wyłącznie
+              zgodnie z postanowieniami <a href="http://www.gp24.plartykuly-archiwalne/art/7453015,nota-wydawnicza,id,t.html">&bdquo;Regulaminu korzystania z&nbsp;artykułów prasowych&rdquo;</a> i&nbsp;po wcześniejszym uiszczeniu należności, zgodnie z&nbsp;<a href="http://www.gp24.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapresse,id,t.html">cennikiem</a>.
+            </p>
+          </div>
+        </div>
+      
+        
+      <div class="columns">
+          <div id="material-tagi">
+      Tagi:
+      <ul>
+                  <li><a data-tracker="nowa_karta/tag/1" href="/tag/slupsk.html">Słupsk</a></li>
+                  <li><a data-tracker="nowa_karta/tag/2" href="/tag/dieta.html">dieta</a></li>
+                  <li><a data-tracker="nowa_karta/tag/3" href="/tag/bal.html">bal</a></li>
+                  <li><a data-tracker="nowa_karta/tag/4" href="/tag/sylwester.html">sylwester</a></li>
+                  <li><a data-tracker="nowa_karta/tag/5" href="/tag/cera.html">cera</a></li>
+                  <li><a data-tracker="nowa_karta/tag/6" href="/tag/suknia.html">suknia</a></li>
+                  <li><a data-tracker="nowa_karta/tag/7" href="/tag/bostwo.html">bóstwo</a></li>
+              </ul>
+  </div>
+
+      </div>
+
+      <div class="waskiAddthis columns"><div addthis:url="http://www.gp24.pl/wiadomosci/slupsk/art/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html" class="addthis_toolbox addthis_default_style  "><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_button_tweet" ></a></div><script type="text/javascript">GR("dodajOnload", function() { addthis.init(); } );</script></div>        </footer>
+    <div id="sonda-mobile" class="row"></div>
+              <div class="row">
+        <div class="columns">
+          <div class="contentStream kd_ns_placement" data-ns-type="simplePlacement4" data-ns-hash="9434583d5c625fe736767e8c31127857">
+            <script src="http://emisja.contentstream.pl/aldente/kd_process_function.js" async="async" ></script>
+          </div>
+        </div>
+      </div>
+      </article>
+</div>
+
+
+
+<script type="text/javascript">
+(function() {
+var strona = 1, strony = false;
+(function(d){var c=1,b,f=$("material-tagi").getElementsByTagName("a"),a=f.length;for(b=0;b<a;b++){var e=f[b].innerHTML.replace(" ","-").toLowerCase();d.push({elements:[f[b]],href:"/onclick/tag/"+e})}GR("$$","materialZrodlo",$("material"),"",function(g){d.push({elements:[g],href:"/onclick/zrodlo/link"})});d.push({elements:[GR("$","zmniejszTekst")],href:"/onclick/narzedzia/tekst-zmniejsz"});d.push({elements:[GR("$","powiekszTekst")],href:"/onclick/narzedzia/tekst-powieksz"});d.push({elements:[GR("$","narzedzia-komentarze")],href:"/onclick/narzedzia/komentarze"});d.push({elements:[GR("$","narzedzia-przeslij")],href:"/onclick/narzedzia/przeslij"});d.push({elements:[GR("$","narzedzia-drukuj")],href:"/onclick/narzedzia/drukuj"});d.push({elements:[$("zmniejszTekst")],href:"/onclick/material/zmniejsz-tekst"});d.push({elements:[$("powiekszTekst")],href:"/onclick/material/powieksz-tekst"});d.push({elements:[$("narzedziaWyslijZnajomym")],href:"/onclick/material/wyslij-znajomym"});d.push({elements:[$("drukuj_gora")],href:"/onclick/material/drukuj-gora"});jQuery("#mat-podobne a").each(function(){d.push({elements:[this],href:"/onclick/boks-podobne/link-"+c++})})})(oG_OSA.tracking);(function(){var e=GR("$","sm-sa"),c=GR("pobierzPozycje",e),a=40;if(jQuery("#sm-sa").attr("data-odstep")){a=parseInt(jQuery("#sm-sa").attr("data-odstep"))}function b(){if(c==undefined){return}var f=GR("pobierzPozycjeScroll");if(f[1]>c.y-a){e.style.position="fixed";e.style.top=a+"px"}else{e.style.position="absolute";e.style.top=0+"px"}}GR("dodajOnload",function(){setTimeout(function(){c=GR("pobierzPozycje",e);Zdarzenia.zaczep(window,"scroll",b);Zdarzenia.zaczep(window,"resize",b);b()},1000)});var d="medium";przesunSondeNaDol=function(f){var h,g=typeof f=="undefined"||f.matches;if(g&&d!="small"){h=jQuery("#sonda-mobile");if(h){h.append(jQuery(".sondaMaterial aside:visible"));d="small"}}},przeniesSondeDoTresci=function(f){var g=typeof f=="undefined"||f.matches;if(g&&d=="small"){jQuery(".sondaMaterial:visible").append(jQuery("#sonda-mobile aside"));d="medium"}},obsluzZmianeRozmiaru=function(){var f=jQuery(window).width();if(f<480){przesunSondeNaDol()}else{przeniesSondeDoTresci()}};if(window.matchMedia){smallCheck=window.matchMedia("(max-width: 479px)");fullCheck=window.matchMedia("(min-width: 480px)");smallCheck.addListener(przesunSondeNaDol);fullCheck.addListener(przeniesSondeDoTresci)}else{jQuery(window).resize(obsluzZmianeRozmiaru);obsluzZmianeRozmiaru()}obsluzZmianeRozmiaru()}());(function(){if(!!window.chrome){for(var a=0;a<strony;a++){if((strona-1)!==a){jQuery("#tresc_"+a).empty()}}}jQuery(document).ready(function(){jQuery("#tresc .pokazMiniatury").toggle(function(){jQuery(this).addClass("rozwiniete").html("Ukryj miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").show();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").hide()},function(){jQuery(this).removeClass("rozwiniete").html("Pokaż miniatury");var b=jQuery(this).closest(".miniatury");b.find(".wersjaRozwinieta").hide();jQuery(this).closest(".galeriaMaterial").find(".wersjaZwinieta").show()})})})();
+})();
+</script>
+
+  <script type="text/javascript">
+GR('wywolajReklamy', 1, 'WajrcbEjiE5NjjhWT.F9hszEw4SmgtKB.na2_lQK19n.L7', function() {
+    if ('function' === typeof adoceangratkaplrfdfgrfhgt) {
+        adoceangratkaplrfdfgrfhgt();
+    }
+});
+GR('wstawReklame', 'verboomInterText');
+</script>
+
+  <script type="text/javascript">
+      (function($) {
+          if (!$.browser.opera) {
+              GR('pDodajdozaznaczenia', {
+                  pole: $('#material')
+              });
+          };
+      })(jQuery);
+</script>
+  <div id="srodek2" class="row textC hide-for-medium-down">
+    
+      <script type="text/javascript">
+        GR("wstawReklame", {nazwa: "srodek2", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek2', szerokosc: 985, mierzOkno: true});
+      </script>
+    
+  </div>
+<section id="material-komentarze" class="row ipboard">
+  <header class="columns">
+    <h2><a href="http://forum.gp24.pl">Komentarze</a></h2>
+  </header>
+  <div id="art-komentarze" class="columns">
+            <div class="koment row">
+        <div class="komentarzWiersz">
+          <div class="tresc columns">
+            <header>
+              <p class="metryka">
+                <b>kate</b>                <time>29 grudnia, 07:28</time>              </p>
+            </header>
+            <div>
+              <p>
+                <a href="http://forum.gp24.pl/sylwester-zrob-sie-na-bostwo-w-trzy-dni-t70030/?view=findpost&p=811477">                Troche za późno na taki artukuł.                </a>              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+        </div>
+  <div id="dodaj-komentarz" class="columns">
+    <form action="http://forum.gp24.pl/index.php?act=sxo_post&amp;do=new_post" method="post">
+      <input type="hidden" name="category" value="/wiadomosci/slupsk/" />
+      <input type="hidden" name="sxoid" value="4765619" />
+      <input type="hidden" name="sxolink" value="/wiadomosci/slupsk/art/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html" />
+      <input type="hidden" name="sxotitle" value="Sylwester. Zrób się na bóstwo w trzy dni" />
+      <input type="submit" value="Dodaj komentarz"  class="komentarzOdpowiedz button" />
+    </form>
+    <div class="linkiForum">
+              <a href="http://forum.gp24.pl/sylwester-zrob-sie-na-bostwo-w-trzy-dni-t70030/" title="Zobacz wszystkie komentarze" class="wszystkieKomentarze">
+          Wszystkie komentarze (1)
+        </a>
+        <script>
+          jQuery('.komentarze .wartosc').text('1');
+        </script>
+            <a href="http://forum.gp24.pl" title="forum.gp24.pl" class="right">
+        forum.gp24.pl
+      </a>
+    </div>
+  </div>
+</section><div id="srodek3" class="row textC adSrodek hide-for-medium-down">
+  <script type="text/javascript">
+    GR("wstawReklame", {nazwa: "srodek3", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#srodek3', szerokosc: 1200, mierzOkno: true});
+  </script>
+</div>
+  <div id="okazjon" class="row textC">
+    <script type="text/javascript">
+      GR("wstawReklame", {nazwa: "okazjon", cssClass: "marginGD", pokazUkryjRodzica: true, rodzic: '#okazjon', szerokosc: 1200, mierzOkno: true});
+    </script>
+  </div>
+         </div>
+        <div id="prawa-kolumna" class="columns show-for-large-up large-4">
+           <section class="blok aktualnosci">
+  <header>
+    <a data-tracker="nowa_karta/aktualnosci/naglowek" href="http://www.gp24.pl/aktualnosci/">
+      <h2>Najnowsze wiadomości</h2>
+    </a>
+  </header>
+  <ul>
+          <li>
+        <time datetime="2016-01-15T15:22:00+01:00">15:22</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/1" href="//www.gp24.pl/wiadomosci/slupsk/art/9294624,znaleziono-zwloki-63latka-w-kamienicy-przy-ul-mickiewicza-policja-bada-sprawe,id,t.html">
+            <span>Znaleziono zwłoki 63-latka w kamienicy przy ul. Mickiewicza. Policja bada sprawę </span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T14:50:00+01:00">14:50</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/2" href="//www.gp24.pl/wiadomosci/slupsk/art/9294494,zarzad-powiatu-slupskiego-zwolnil-dyrektor-osrodka-wychowawczego-marie-janusz,id,t.html">
+            <span>Zarząd Powiatu Słupskiego zwolnił dyrektor ośrodka wychowawczego Marię Janusz</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T14:30:00+01:00">14:30</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/3" href="//www.gp24.pl/sportowiec-roku/art/9294432,w-sobote-wielki-bal-mistrzow-sportu-glosu,id,t.html">
+            <span>W sobotę Wielki Bal Mistrzów Sportu „Głosu”</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T14:30:00+01:00">14:30</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/4" href="//www.gp24.pl/wiadomosci/slupsk/art/9294456,kolizja-z-udzialem-trzech-aut-w-globinie-kobieta-w-ciazy-w-szpitalu-zdjecia-wideo,id,t.html">
+            <span>Kolizja z udziałem trzech aut w Głobinie. Kobieta w ciąży w szpitalu (zdjęcia, wideo)</span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T14:20:00+01:00">14:20</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/5" href="//www.gp24.pl/wiadomosci/slupsk/art/9294312,weekend-pelen-wydarzen-kulturalnych,id,t.html">
+            <span>Weekend pełen wydarzeń kulturalnych </span>
+          </a>
+          
+        </p>
+      </li>
+          <li>
+        <time datetime="2016-01-15T13:32:00+01:00">13:32</time>
+        <p>
+          <a data-tracker="nowa_karta/aktualnosci/6" href="http://www.gs24.pl/wiadomosci/szczecin/art/9293802,pirat-drogowy-z-al-wyzwolenia-w-szczecinie-zatrzymany-zarzuty-dla-podejrzanego,id,t.html">
+            <span>Prawie rozjechał pieszego na pasach. 21-letni pirat drogowy ze Szczecina zatrzymany[wideo]</span>
+          </a>
+          
+        </p>
+      </li>
+            <script type="text/javascript">GR("wstawReklame","link1", '', '', '', false);</script>
+  </ul>
+  <a class="zobaczWiecej" href="http://www.gp24.pl/aktualnosci/" data-tracker="nowa_karta/aktualnosci/zobacz_wiecej"><span>Zobacz więcej</span></a>
+</section>
+  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa1">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa1", cssStyle: "margin-bottom: 5px", rodzic: '#prawa1', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+  <h2>Najczęściej czytane</h2>
+</header>
+<div id="najczesciej-czytane" class="row ranking">
+  <ol class="columns" id="LinkArea:najCzyt">
+                  <li>
+          <a href="//www.gp24.pl/wiadomosci/slupsk/art/9289480,10-lekarzy-ze-slupskiego-szpitala-zlozylo-wymowienia-z-pracy,id,t.html" id="LinkArea:najCzyt1" data-tracker="nowa_karta/najczesciejczytane/1">
+            <span>10 lekarzy ze słupskiego szpitala złożyło wymówienia z pracy</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gp24.pl/wiadomosci/slupsk/art/9289612,w-widzinie-znaleziono-cialo-31letniego-mezczyzny,id,t.html" id="LinkArea:najCzyt2" data-tracker="nowa_karta/najczesciejczytane/2">
+            <span>W Widzinie znaleziono ciało 31-letniego mężczyzny</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gp24.pl/wiadomosci/slupsk/art/9284089,wyjmowali-pieniadze-z-puszek-sztab-wosp-wyjasnia-sprawe,id,t.html" id="LinkArea:najCzyt3" data-tracker="nowa_karta/najczesciejczytane/3">
+            <span>Wyjmowali pieniądze z puszek? Sztab WOŚP wyjaśnia sprawę</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gp24.pl/strona-glowna/art/9279483,slupsk-operacja-sie-udala-a-zdrowa-kobieta-zmarla-w-szpitalu,id,t.html" id="LinkArea:najCzyt4" data-tracker="nowa_karta/najczesciejczytane/4">
+            <span>Słupsk: operacja się udała, a zdrowa kobieta zmarła w szpitalu</span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gp24.pl/wiadomosci/slupsk/art/9284859,wybite-szyby-w-kawiarni-gora-lodowa-szukaja-wandala,id,t.html" id="LinkArea:najCzyt5" data-tracker="nowa_karta/najczesciejczytane/5">
+            <span>Wybite szyby w kawiarni Góra Lodowa. Szukają wandala </span>
+          </a>
+          
+        </li>
+                        <li>
+          <a href="//www.gp24.pl/wiadomosci/slupsk/art/9281908,zdrowa-32latka-zmarla-w-szpitalu-szczegoly,id,t.html" id="LinkArea:najCzyt6" data-tracker="nowa_karta/najczesciejczytane/6">
+            <span>Zdrowa 32-latka zmarła w szpitalu (szczegóły)</span>
+          </a>
+          
+        </li>
+            </ol>
+</div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa2">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa2", cssStyle: "margin-bottom: 5px", rodzic: '#prawa2', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok"><header>
+      <a href="www.gp24.pl" data-tracker="nowa_karta/autopromocja/gora/naglowek" title="GP24 poleca">
+    <h2>GP24 poleca</h2>
+      </a>
+  </header>
+<div class="autopromocja gora" id="LinkArea:promArBg">
+            <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/1"  target="_blank"  href="http://www.gk24.pl/kultura/art/9291600,tribute-to-michael-jackson-symfonicznie-gwiazdy-estrady-w-przebojach-krola-popu,id,t.html" id="LinkArea:promArBg1">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/20/64/5698ef9877723_k27.jpg?1452863507" alt="Tribute to Michael Jackson Symfonicznie: gwiazdy estrady w przebojach Króla Popu">
+        <p>Tribute to Michael Jackson Symfonicznie: gwiazdy estrady w przebojach Króla Popu</p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/2"  target="_blank"  href="http://www.zbrodniepomorza.pl/artykul/9130697,ostatnia-cela-smierci-w-polsce,1,id,t,sg.html#galeria-material" id="LinkArea:promArBg2">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/28/ea/56937ebe1f481_k27.jpg?1452863507" alt="Zobacz ostatnią celę śmierci w Polsce">
+        <p>Zobacz ostatnią celę śmierci w Polsce</p>
+      </a>
+                <a class="autopromoLink" data-tracker="nowa_karta/autopromocja/gora/3"  target="_blank"  href="http://www.zbrodniepomorza.pl/artykul/9130671,sluzba-na-czterech-lapach,id,t.html" id="LinkArea:promArBg3">
+        <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADIAQMAAACjyqroAAAAA1BMVEX///+nxBvIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAHklEQVRo3u3BAQ0AAADCoPdPbQ8HFAAAAAAAAADwYiAIAAFkack9AAAAAElFTkSuQmCC" data-original="http://d-pt.ppstatic.pl/k/r/1/77/2d/56937f9c2a943_k27.jpg?1452863507" alt="Pies policyjny bez kagańca to rzadki widok. Jest zarezerwowany tylko dla groźnych przestępców. ">
+        <p>Pies policyjny bez kagańca to rzadki widok. Jest zarezerwowany tylko dla groźnych przestępców. </p>
+      </a>
+      </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa3">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa3", cssStyle: "margin-bottom: 5px", rodzic: '#prawa3', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section class="blok wideoMaterial">
+  <header>
+    <h2>Wideo</h2>
+  </header>
+  <div class="materialy">
+          <a href="//www.gp24.pl/polska-i-swiat/art/9293988,sondaz-nowoczesna-dogania-pis-sld-nad-kreska-video,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt1" data-tracker="nowa_karta/wideo_artykul/1">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/b6/53/5698dfcb28927_o,size,445x270,q,71,h,b90766.jpg" alt="Sondaż: Nowoczesna dogania PiS. SLD nad kreską [VIDEO]">
+            <h3>Sondaż: Nowoczesna dogania PiS. SLD nad kreską [VIDEO]</h3>
+    </a>
+    
+          <a href="//www.gp24.pl/wiadomosci/slupsk/art/9294456,kolizja-z-udzialem-trzech-aut-w-globinie-kobieta-w-ciazy-w-szpitalu-zdjecia-wideo,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt2" data-tracker="nowa_karta/wideo_artykul/2">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/77/e6/5698f6bf7d148_o,size,445x270,crop,0.0000x0.0462x0.9960x0.8053,q,71,h,f08fd5.jpg" alt="Kobieta kierująca vw polo wyjeżdżała z posesji na drogę krajową 210. Uderzyła w bok mercedesa, który wcześniej wyprzedzał vw golfa.">
+            <h3>Kolizja z udziałem trzech aut w Głobinie. Kobieta w ciąży...</h3>
+    </a>
+    
+          <a href="//www.gp24.pl/wiadomosci/slupsk/art/9290390,dominik-nowak-dyrektor-nowego-teatru-w-reklamie-loterii-paragonowej-wideo,id,t.html"  class="tekst wideo" id="LinkArea:wideoArt3" data-tracker="nowa_karta/wideo_artykul/3">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/54/01/5698b15b1857a_o,size,445x270,crop,0.0300x0.1510x0.9240x0.8410,q,71,h,2da98e.jpg" alt="Dominik Nowka dyrektor Nowego Teatru w Słupsku.">
+            <h3>Dominik Nowak, dyrektor Nowego Teatru, w reklamie Loterii...</h3>
+    </a>
+    
+          <a href="//www.gp24.pl/wiadomosci/bytow/art/9293726,bytow-ignoruja-ostrzezenia-i-spaceruja-po-lodzie,id,t.html"  class="tekst galeria wideo" id="LinkArea:wideoArt4" data-tracker="nowa_karta/wideo_artykul/4">
+              <img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAACqCAMAAABS8uCAAAAAA1BMVEX///+nxBvIAAAAQ0lEQVR42u3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8G+1SgABWl7cCgAAAABJRU5ErkJggg==" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/d0/e0/5698d09515a71_o,size,445x270,crop,0.0000x0.1876x0.9960x0.8053,q,71,h,64cff0.jpg" alt="Bytów. Ignorują ostrzeżenia i spacerują po lodzie ">
+            <h3>Bytów. Ignorują ostrzeżenia i spacerują po lodzie </h3>
+    </a>
+    
+    </div>
+</section>  <div class="adSrodek hide-for-medium-down">
+      <div id="prawa4">
+        <script type="text/javascript">
+          GR("wstawReklame", { nazwa: "prawa4", cssStyle: "margin-bottom: 5px", rodzic: '#prawa4', szerokosc: 300 });
+        </script>
+      </div>
+  </div>
+<section id="Plista">
+  <div data-widget="plista_widget_sidebar"></div>
+  <script type="text/javascript">
+  if (!window.PLISTA || !PLISTA.publickey) {
+      window.PLISTA = {
+          publickey: 'b6b7404bf8875b4b6883de2d',
+          item:           {
+              objectid: '4765619',//unique ID, alphanumeric
+              title: 'Sylwester. Zrób się na bóstwo w trzy dni',//max 255 characters
+              text: 'Jak po świątecznej bieganinie znaleźć czas dla siebie i w ekspresowym tempie przemienić się w królową balu? Przeczytaj nasz poradnik.  \n\n',//max 255 characters
+              url: 'http://www.gp24.pl/wiadomosci/slupsk/art/4765619,sylwester-zrob-sie-na-bostwo-w-trzy-dni,id,t.html',//max 1024 characters
+              img: 'http://d-pt.ppstatic.pl/k/r/1/cb/2b/55ba7a286d313_p.jpg?1441320962',//max 255 characters
+              created_at: '1325129400'//UNIX timestamp
+          }
+                };
+      (function(){
+          var n='script',d=document,s=d.createElement(n),s0=d.getElementsByTagName(n)[0];
+          s.async='async';
+          s.type='text/javascript';
+          s.src=(d.location.protocol==='https:'?'https:':'http:')+'//static.plista.com/async.js';
+          s0.parentNode.insertBefore(s,s0);
+      }());
+  }
+  //if possible place this script tag just before the closing body tag
+  </script>
+</section>
+         </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="twelve columns" id="reklama-dol1">
+        <script type="text/javascript">GR("wstawReklame",{nazwa: "dol1", rodzic: '#reklama-dol1', szerokosc: 970, mierzOkno: true,pokazUkryjRodzica: true});</script>
+      </div>
+    </div>
+
+          <footer>
+        <div class="adSrodek" id="tapeta">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "tapeta", pokazUkryjRodzica: true, rodzic: '#tapeta', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div class="adSrodek" id="layer">
+  <script type="text/javascript">GR("wstawReklame", {nazwa: "layer", pokazUkryjRodzica: true, rodzic: '#layer', szerokosc: 1000, cssClass: "marginD" });</script>
+</div><div id="LinkArea:stopka">
+  <div id="stopka-zwijane">
+    <div class="row zwinRozwin"><a class="zwijak show-for-medium-up">SERWISY PARTNERSKIE</a><a class="zwijak hide-for-medium-up">SERWISY REGIONALNE</a></div>
+    <div class="stopkaZakladka redakcja" id="LinkArea:stopkaRed">
+      <div class="row">
+        <div class="columns medium-4 kontakt">
+          <h4>KONTAKT Z REDAKCJĄ:</h4>
+          <p>tel.: <b><a href="tel: 59 848 81 00, 59 848 81 36"> 59 848 81 00, 59 848 81 36</a></b>
+          <b><a href="mailto:alarm@gp24.pl">alarm@gp24.pl</a></b></p>
+                </div>
+        <div class="columns large-2 medium-4 socialMedia">
+          <h4>JESTEŚMY RÓWNIEŻ NA:</h4>
+          <a href="https://www.facebook.com/gp24pl" target="_blank" data-tracker="stopka/facebook" title="Głos Pomorza na Facebooku">Facebook</a>          <a href="https://twitter.com/gp24_pl" target="_blank" data-tracker="stopka/twitter" title="Głos Pomorza na Twitterze">Twitter</a>          <a href="https://plus.google.com/108697147983207450441" target="_blank" data-tracker="stopka/google" title="Głos Pomorza na Google +">Google+</a>        </div>
+        <div class="columns large-4 show-for-large-up">
+          <h4>SERWISY POWIATOWE:</h4>
+          <ul>
+                          <li><a href="/wiadomosci/bytow" data-tracker="stopka/powiatowe//wiadomosci/bytow">Bytów</a></li>
+                          <li><a href="/wiadomosci/czluchow" data-tracker="stopka/powiatowe//wiadomosci/czluchow">Człuchów</a></li>
+                          <li><a href="/wiadomosci/lebork" data-tracker="stopka/powiatowe//wiadomosci/lebork">Lębork</a></li>
+                          <li><a href="/wiadomosci/miastko" data-tracker="stopka/powiatowe//wiadomosci/miastko">Miastko</a></li>
+                          <li><a href="/wiadomosci/slupsk" data-tracker="stopka/powiatowe//wiadomosci/slupsk">Słupsk</a></li>
+                          <li><a href="/wiadomosci/ustka" data-tracker="stopka/powiatowe//wiadomosci/ustka">Ustka</a></li>
+                      </ul>
+        </div>
+        <div class="columns large-2 medium-4">
+          <p>Głos Pomorza jest częścią:<br>
+          <a href="http://polskapress.pl"><img src="http://s-pt.ppstatic.pl/g/regionalne/polskapress.png" alt="Grupa Wydawnicza Polska Press Sp. z o.o."></a></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="stopkaZakladka serwisy ukryta">
+      <div class="row">
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaOgl">
+          <h4>SERWISY OGŁOSZENIOWE:</h4>
+          <ul>
+                      <li><a href="http://www.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/www.gratka.pl">Ogłoszenia</a></li>
+                      <li><a href="http://dom.gratka.pl/mieszkania/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/mieszkania/warszawa/">Mieszkania Warszawa</a></li>
+                      <li><a href="http://dom.gratka.pl/domy/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/dom.gratka.pl/domy/warszawa/">Domy Warszawa</a></li>
+                      <li><a href="http://moto.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl">Motoryzacja</a></li>
+                      <li><a href="http://moto.gratka.pl/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/moto.gratka.pl/warszawa/">Samochody Warszawa</a></li>
+                      <li><a href="http://praca.gratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl">Praca</a></li>
+                      <li><a href="http://praca.gratka.pl/warszawa/" target="_blank" data-tracker="stopka/ogloszeniowe/praca.gratka.pl/warszawa/">Oferty pracy Warszawa</a></li>
+                      <li><a href="http://alegratka.pl" target="_blank" data-tracker="stopka/ogloszeniowe/alegratka.pl">Ogłoszenia drobne</a></li>
+                    </ul>
+        </div>
+        <div class="columns medium-3 show-for-medium-up" id="LinkArea:stopkaPar">
+          <h4>SERWISY PARTNERSKIE:</h4>
+          <ul>
+                          <li><a href="http://www.telemagazyn.pl" data-tracker="stopka/partnerskie/http://www.telemagazyn.pl" target="_blank">Program TV - Telemagazyn</a></li>
+                          <li><a href="http://ekstraklasa.net" data-tracker="stopka/partnerskie/http://ekstraklasa.net" target="_blank">Piłka nożna - Ekstraklasa.net</a></li>
+                          <li><a href="http://www.polskatimes.pl" data-tracker="stopka/partnerskie/http://www.polskatimes.pl" target="_blank">Polskatimes</a></li>
+                          <li><a href="http://www.wiadomosci24.pl/" data-tracker="stopka/partnerskie/http://www.wiadomosci24.pl/" target="_blank">Wiadomości - Wiadomości24</a></li>
+                          <li><a href="http://regiodom.pl/" data-tracker="stopka/partnerskie/http://regiodom.pl/" target="_blank">Dom nieruchomości - regioDom</a></li>
+                          <li><a href="http://www.motofakty.pl" data-tracker="stopka/partnerskie/http://www.motofakty.pl" target="_blank">Motoryzacja - Motofakty</a></li>
+                          <li><a href="http://www.regiopraca.pl/" data-tracker="stopka/partnerskie/http://www.regiopraca.pl/" target="_blank">Praca - regioPraca</a></li>
+                          <li><a href="http://naszemiasto.pl" data-tracker="stopka/partnerskie/http://naszemiasto.pl" target="_blank">Informacje lokalne - Nasze Miasto</a></li>
+                          <li><a href="http://gra.pl" data-tracker="stopka/partnerskie/http://gra.pl" target="_blank">Gry - Gra.pl</a></li>
+                      </ul>
+        </div>
+        <div class="columns medium-6 small-12" id="LinkArea:stopkaReg">
+          <h4>SERWISY REGIONALNE:</h4>
+          <ul class="kolumny">
+                          <li><a href="http://www.dziennikbaltycki.pl" data-tracker="stopka/regionalne/http://www.dziennikbaltycki.pl" target="_blank">Dziennik Bałtycki</a></li>
+                          <li><a href="http://www.dziennikzachodni.pl" data-tracker="stopka/regionalne/http://www.dziennikzachodni.pl" target="_blank">Dziennik Zachodni</a></li>
+                          <li><a href="http://www.dzienniklodzki.pl" data-tracker="stopka/regionalne/http://www.dzienniklodzki.pl" target="_blank">Dziennik Łódzki</a></li>
+                          <li><a href="http://www.echodnia.eu" data-tracker="stopka/regionalne/http://www.echodnia.eu" target="_blank">Echo Dnia</a></li>
+                          <li><a href="http://www.gazetakrakowska.pl" data-tracker="stopka/regionalne/http://www.gazetakrakowska.pl" target="_blank">Gazeta Krakowska</a></li>
+                          <li><a href="http://www.gazetalubuska.pl" data-tracker="stopka/regionalne/http://www.gazetalubuska.pl" target="_blank">Gazeta Lubuska</a></li>
+                          <li><a href="http://www.pomorska.pl" data-tracker="stopka/regionalne/http://www.pomorska.pl" target="_blank">Gazeta Pomorska</a></li>
+                          <li><a href="http://www.gazetawroclawska.pl" data-tracker="stopka/regionalne/http://www.gazetawroclawska.pl" target="_blank">Gazeta Wrocławska</a></li>
+                          <li><a href="http://www.wspolczesna.pl" data-tracker="stopka/regionalne/http://www.wspolczesna.pl" target="_blank">Gazeta Współczesna</a></li>
+                          <li><a href="http://www.gk24.pl" data-tracker="stopka/regionalne/http://www.gk24.pl" target="_blank">Głos Koszaliński - GK24.pl</a></li>
+                          <li><a href="http://www.gp24.pl" data-tracker="stopka/regionalne/http://www.gp24.pl" target="_blank">Głos Pomorza - GP24.pl</a></li>
+                          <li><a href="http://www.gs24.pl" data-tracker="stopka/regionalne/http://www.gs24.pl" target="_blank">Głos Szczeciński - GS24.pl</a></li>
+                          <li><a href="http://www.gloswielkopolski.pl" data-tracker="stopka/regionalne/http://www.gloswielkopolski.pl" target="_blank">Głos Wielkopolski</a></li>
+                          <li><a href="http://www.kurierlubelski.pl" data-tracker="stopka/regionalne/http://www.kurierlubelski.pl" target="_blank">Kurier Lubelski</a></li>
+                          <li><a href="http://www.poranny.pl" data-tracker="stopka/regionalne/http://www.poranny.pl" target="_blank">Kurier Poranny</a></li>
+                          <li><a href="http://www.nto.pl" data-tracker="stopka/regionalne/http://www.nto.pl" target="_blank">Nowa Trybuna Opolska</a></li>
+                          <li><a href="http://www.nowiny24.pl" data-tracker="stopka/regionalne/http://www.nowiny24.pl" target="_blank">Nowiny</a></li>
+                          <li><a href="http://www.to.com.pl" data-tracker="stopka/regionalne/http://www.to.com.pl" target="_blank">Tygodnik Ostrołęcki</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+      <div id="stopka-aplikacje" class="show-for-small-down">
+      <div class="row">
+        <div class="columns">
+          Nasze Aplikacje:
+          <ul>
+                          <li class="android"><a href="https://play.google.com/store/apps/details?id=com.mecom.gp24.pl">Android</a></li>
+                                      <li class="ios"><a href="http://itunes.apple.com/pl/app/gp24.pl/id463411988?mt=8">iOS</a></li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    <div id="stopka-pasek">
+    <ul class="row" id="LinkArea:stopkaPas">
+      <li><a data-tracker="stopka/glowna" href="/" class="show-for-small-down">Strona Główna</a></li>
+      <li><a data-tracker="stopka/mapaserwisu" href="http://www.gp24.pl/mapa_serwisu/" class="hide-for-small-down">Mapa serwisu</a></li>
+      <li><a data-tracker="stopka/indeks" href="http://indeks.gp24.pl" class="hide-for-small-down">Indeks</a></li>
+      <li><a data-tracker="stopka/dlaprasy" href="http://www.polskatimes.pl/213,dla-prasy,id,t.html" target="_blank" class="hide-for-small-down">Dla prasy</a></li>
+      <li><a data-tracker="stopka/kontakt" href="" class="show-for-small-down">Kontakt</a></li>
+      <li><a data-tracker="stopka/onas" href="" class="hide-for-small-down">O nas</a></li>
+      <li><a data-tracker="stopka/regulamin" href="http://www.gp24.pl/regulamin/">Regulamin</a></li>
+      <li><a data-tracker="stopka/prywatnosc" href="http://www.polskatimes.pl/stronaglowna/243942,polityka-prywatnosci,id,t.html" class="hide-for-small-down">Prywatność</a></li>
+      <li><a data-tracker="stopka/reklama" href="http://www.gp24.pl/o-nas/art/7377722,kontakt-z-reklama,id,t.html" class="hide-for-small-down">Reklama</a></li>
+      <li><a data-tracker="stopka/egazety" href="http://prasa24.pl" target="_blank" rel="nofollow" class="hide-for-small-down">eGazety</a></li>
+      <li><a data-tracker="stopka/newsletter" href="http://www.gp24.pl/newsletter/">Newsletter</a></li>
+      <li><a data-tracker="stopka/notawydawnicza" href="artykuly-archiwalne/art/7453015,nota-wydawnicza,id,t.html" class="notaWydawnicza">Nota wydawnicza</a></li>
+              <li><a data-tracker="stopka/logowanie" href="/logowanie">Logowanie</a></li>
+            <li class="powrot"><a data-tracker="stopka/powrotGora" href="#" class="show-for-small-down">Powrót do góry</a></li>
+    </ul>
+  </div>
+
+  <div class="row" id="stopka-dol">
+    <div id="LinkArea:stopkaDol">
+      <p class="columns medium-8">
+                  <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a>
+                 informuje, że wszystkie treści ukazujące się w serwisie Głos Pomorza podlegają ochronie.
+        <a href="" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.<br>
+        Jesteś zainteresowany kupnem treści? <a href="http://www.polskatimes.pl/artykul/563209,licencja-na-artykuly-publikowane-w-portalach-polskapressepl,id,t.html" class="link">Dowiedz&nbsp;się&nbsp;więcej</a>.
+      </p>
+      <p class="columns medium-4">&copy; 2000 - 2016 <a href="http://polskapress.pl" class="link">Polska&nbsp;Press&nbsp;Sp.&nbsp;z&nbsp;o.o.</a></p>
+    </div>
+  </div>
+</div>
+    <div class="cookieContainer">
+  <div class="cookieTooltip">
+    <span class="tooltipZamknij" title="Zamknij"></span>
+    <div class="cookieTekst">
+      <p class="cookieTytul">Korzystamy z cookies i local storage.</p>
+      <p>Bez zmiany ustawień pliki są zapisywane na urządzeniu. Więcej przeczytasz <a href="/artykul/243942,polityka-prywatnosci,id,t.html" rel="external">tutaj</a>.</p>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  
+      (function ($) {
+        $('.tooltipZamknij').click(function () {
+          var data = new Date();
+          data.setDate(data.getDate() + 365);
+          data = data.toUTCString();
+          document.cookie = 'polityka_prywatnosci_cookies=true; expires=' + data + '; path = /';
+          $('.cookieTooltip').fadeOut(400);
+        });
+      })(jQuery);
+  
+</script>
+
+      </footer>
+    
+    
+          <div id="poza-gridem"><script type="text/javascript">GR("wstawReklame", "fiszka", "fb-slider-reklama");</script><script type="text/javascript">
+    oG_OSA.onclick_id = 'inne';
+      GR('oTrackEvents', oG_OSA.tracking);
+  </script>
+<script type="text/javascript">GR('oAnonimid');</script>
+</div>
+      </body>
+</html>

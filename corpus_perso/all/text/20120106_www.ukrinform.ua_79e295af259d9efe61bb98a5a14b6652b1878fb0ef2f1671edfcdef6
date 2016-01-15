@@ -1,0 +1,1573 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Новини Укрінформ</title>
+	<meta name="description" content="Новини України та світу. Укрінформ – останні новини, новини дня, новини політики, новини економіки, соціальні новини, новини культури, новини спорту, міжнародні новини – цілодобово в оперативному режимі українською, російською, англійською, німецькою та іспанською мовами." />
+	<meta name="keywords" content="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="google-site-verification" content="xRZQvl9-j1Gugn6blLe4gm_jE3JyMfyaHTHDXWvNGnM" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta property="og:title" content="Новини Укрінформ" />
+	<meta property="og:url" content="http://www.ukrinform.ua/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Новини України та світу. Укрінформ – останні новини, новини дня, новини політики, новини економіки, соціальні новини, новини культури, новини спорту, міжнародні новини – цілодобово в оперативному режимі українською, російською, англійською, німецькою та іспанською мовами." />
+	<meta property="og:image" content="http://www.ukrinform.ua/img/img_none.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:title" content="Новини Укрінформ" />
+	
+	<link type="text/css" rel="stylesheet" href="/css/reset.css" />
+		<link type="text/css" rel="stylesheet" href="/css/style.css?13" />
+	    <link type="text/css" rel="stylesheet" href="/css/jquery.tosrus.all.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    
+    <link rel="alternate" hreflang="ru" href="http://www.ukrinform.ru" />
+    <link rel="alternate" hreflang="en" href="http://www.ukrinform.net" />
+    <link rel="alternate" hreflang="es" href="http://www.ukrinform.es" />
+    <link rel="alternate" hreflang="de" href="http://www.ukrinform.de" />
+    <link rel="alternate" hreflang="ch" href="http://china.ukrinform.ua" />
+        
+	<link rel="shortcut icon" href="/img/favicon.ico" />
+	<link rel="apple-touch-icon" href="/img/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/img/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/img/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/img/touch-icon-ipad-retina.png">
+    
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&amp;subset=latin,cyrillic-ext,cyrillic' rel='stylesheet' type='text/css'>
+    <!--  longrids only -->
+    <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,400italic&amp;subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+    <!--  longrids only -->	
+</head><body>
+<div id="wrapper">
+<div class="greyLine"><div></div></div>
+
+	<div id="leftMenu" class="siteMenu">
+    
+    <form action="/redirect.php" method="post">
+		<div>
+		<input type="hidden" name="type" value="search">
+		<input type="text" name="params[query]" placeholder="Пошук" value="" id="shortSearchField" />
+		<a href="#"></a>
+		</div>
+    </form>
+
+    <div class="leftMenuBody">
+        <ul class="leftMenu">
+    	            <li><a href="/rubric-politycs">Політика</a></li>
+                     <li><a href="/rubric-economics">Економіка</a></li>
+                     <li><a href="/rubric-abroad">Світ</a></li>
+                     <li><a href="/rubric-society">Суcпільcтво</a></li>
+                     <li><a href="/rubric-culture">Культура</a></li>
+                     <li><a href="/rubric-regions">Регіони</a></li>
+                     <li><a href="/rubric-sport">Спорт</a></li>
+                     <li><a href="/rubric-diaspora">Діаcпора</a></li>
+                     <li><a href="/rubric-technology">Технології</a></li>
+                     <li><a href="/rubric-tourism">Туризм</a></li>
+                 </ul>
+
+        <!-- Submenu begin -->
+		<div class="submenu">
+	        <ul class="greyMenu">
+	        		
+	        	<li><a href="/info/uatv.html">UA/TV</a></li>
+	           		            <li><a href="/block-analytics">Аналітика</a></li>
+		         	            <li><a href="/block-interview">Інтерв'ю</a></li>
+		         	            <li><a href="/block-photo">Фото</a></li>
+		         	            <li><a href="/block-video">Відео</a></li>
+		         	            <li><a href="/block-blogs">Блоги</a></li>
+		         	            <li><a href="/block-infographics">Інфографіка</a></li>
+		         	            <li><a href="/block-longreads">Лонгріди</a></li>
+		         	            <li><a href="/block-projects">Проекти</a></li>
+		         	            <li><a href="/block-uatv">UA/TV</a></li>
+		         	            <li><a href="/block-conferences">Конференції</a></li>
+		         	            <li><a href="/block-releases">Релізи та анонси</a></li>
+		         	            <li><a href="/info/about_agency.html">Про Агентство</a></li>
+	        </ul>
+        </div>
+		<!-- Submenu end -->
+		
+		<ul class="greyMenu">
+			        	<li><a href="/info/uatv.html">UA/TV</a></li>
+           	            <li><a href="/info/about_agency.html">Про Агентство</a></li>
+            <li><a class="moreLink" href="javascript:void(0)">Більше</a> &raquo;</li>
+        </ul>
+
+        <div class="social">
+            <a href="https://www.facebook.com/Ukrinform?fref=ts" target="_blank" title="Facebook"></a>
+            <a href="https://twitter.com/UKRINFORM" target="_blank" title="Twitter"></a>
+            <a href="https://www.youtube.com/user/UkrinformTV" target="_blank" title="Youtube"></a>
+            <a href="https://plus.google.com/116893939264092607598/posts" target="_blank" title="Google Plus"></a>
+        </div>
+    </div>
+
+</div>
+
+	<div id="container">
+	<div id="header">
+    <div class="topLine">
+        <div class="topLineBody">
+            <a class="mobileButton" href="#"><span></span></a>
+
+			<ul class="language_dt">
+			    				<li class="active"><a href="http://www.ukrinform.ua" >Укр</a></li>
+			    				<li><a href="http://www.ukrinform.ru" >Рус</a></li>
+			    				<li><a href="http://www.ukrinform.net" >Eng</a></li>
+			    				<li><a href="http://www.ukrinform.es" >Esp</a></li>
+			    				<li><a href="http://www.ukrinform.de" >Deu</a></li>
+			    				<li><a href="http://china.ukrinform.ua" >中文</a></li>
+			    			</ul>
+			
+			<ul class="language">
+			    <li>
+			        <div><a href="#">Укр</a></div>
+			        <ul>
+			    					<li><a href="http://www.ukrinform.ru" >Рус</a></li>
+			    					<li><a href="http://www.ukrinform.net" >Eng</a></li>
+			    					<li><a href="http://www.ukrinform.es" >Esp</a></li>
+			    					<li><a href="http://www.ukrinform.de" >Deu</a></li>
+			    					<li><a href="http://china.ukrinform.ua" >中文</a></li>
+			    					</ul>
+				</li>
+			</ul>
+
+            <ul class="mainMenu">
+                        	<li >
+            		<a href="/block-lastnews"  data-id="">Новини</a>
+            	</li>
+                        	<li >
+            		<a href="http://sub.ukrinform.ua" target="_blank" data-id="peredplata">Передплата</a>
+            	</li>
+                        	<li >
+            		<a href="http://photo.ukrinform.ua/ukr/" target="_blank" data-id="">Фотобанк</a>
+            	</li>
+                        	<li >
+            		<a href="/block-conferences"  data-id="">Прес-центр</a>
+            	</li>
+                        	<li >
+            		<a href="/info/uatv.html"  data-id="uatv">Live</a>
+            	</li>
+                        </ul>
+        </div>
+
+        <div id="mobileMenu" class="siteMenu">
+            
+            <form action="/redirect.php" method="post">
+		        <!-- js loads content here -->
+    		</form>
+            
+            <div class="leftMenuBody">
+                
+                <ul class="leftMenu">
+                    <!-- js loads content here -->
+                </ul>
+                
+                <ul class="greyMenu">
+	            	<!-- js loads content here -->
+	            </ul>
+
+                <div class="social">
+                    <a href="#"></a>
+                    <a href="#"></a>
+                    <a href="#"></a>
+                    <a href="#"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    <div class="logo">
+        <a href="/"><img src="/img/logo_ukr.svg" alt="" /></a>
+        <span class="slogan">Мультимедійна платформа іномовлення України</span>
+        <p>15 січня, п`ятниця, 16:43</p>
+    </div>
+    
+</div>
+	
+	<div id="content">
+		
+<div class="topAnons">
+            
+        <a href="http://www.ukrinform.ua/rubric-health/1945561-yak-rozpiznati-grip-rekomendatsiji-moz.html" class="anonBig">
+            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/360_480_1452840026-5301.jpg" alt=""/>
+            
+            <span class="anonGradient"></span>
+            <span class="anonText">
+                <span class="anonTitle"><div>Інфографіка</div>  Як розпізнати грип - рекомендації МОЗ</span>
+                <span class="anonDate">сьогодні 05:37</span>
+            </span>
+        </a>
+            
+        <a href="/rubric-economics/1945902-noviy-shovkoviy-shlyah-ukrajina-vidpravila-pershiy-potyag-u-kitay-v-obhid-rf.html">
+            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/360_240_1452868264-9219-foto-dumskaya.jpg" alt=""/>
+            
+            <span class="anonGradient"></span>
+            <span class="anonText">
+                <span class="anonTitle">  Новий "Шовковий шлях": Україна відправила перший потяг у Китай в обхід РФ</span>
+                <span class="anonDate">сьогодні 15:16</span>
+            </span>
+        </a>
+            
+        <a href="/rubric-abroad/1945890-rosiya-rvetsya-u-pare-za-bud-yaku-tsinu-djerelo.html">
+            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/360_240_1452865412-8447.jpg" alt=""/>
+            
+            <span class="anonGradient"></span>
+            <span class="anonText">
+                <span class="anonTitle"><div>Ексклюзив</div>  Росія рветься у ПАРЄ за будь-яку ціну - джерело</span>
+                <span class="anonDate">сьогодні 15:09</span>
+            </span>
+        </a>
+            
+        <a href="/rubric-politycs/1945680-pislya-zayav-rf-pro-novu-tishu-obstrili-tilki-posilyuyutsya-geraschenko.html">
+            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/360_240_1451991719-6835.jpg" alt=""/>
+            
+            <span class="anonGradient"></span>
+            <span class="anonText">
+                <span class="anonTitle">  Після заяв РФ про нову "тишу" обстріли тільки посилюються - Геращенко</span>
+                <span class="anonDate">сьогодні 11:21</span>
+            </span>
+        </a>
+            
+        <a href="/rubric-society/1945666-kurortniy-sezon-v-okupovanomu-krimu-virishili-ryatuvati-molebnyami.html">
+            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/360_240_1452850598-9547.jpg" alt=""/>
+            
+            <span class="anonGradient"></span>
+            <span class="anonText">
+                <span class="anonTitle">  Курортний сезон в окупованому Криму вирішили рятувати молебнями</span>
+                <span class="anonDate">сьогодні 11:04</span>
+            </span>
+        </a>
+    </div>
+		
+		<div class="infoBlock">
+		    		   
+		    
+		    <div class="uatv_news">
+    <a href="/info/uatv.html" class="UT">&nbsp;</a> <!-- Link on UT page -->
+    <p class="marquee">
+
+	
+		<span>
+            <font>16:24</font>
+            Ощадбанк подав позов до Сбербанку РФ        </span>
+		
+		<span>
+            <font>15:55</font>
+            Україна запустила потяг у КНР в обхід РФ
+        </span>
+		
+		<span>
+            <font>15:24</font>
+            У зоні АТО все ще напружено        </span>
+		
+		<span>
+            <font>15:11</font>
+            МЗС вимагає від РФ дбати про Херсонес        </span>
+		
+		<span>
+            <font>14:56</font>
+            РФ має повернути і Донбас, і Крим - ЄП        </span>
+	    </p>
+</div>
+  
+		    
+<div class="others">
+    <h2><a href="/block-lastnews">Останні новини</a></h2>
+
+    <div>
+        <div class="othersBody">
+                                
+                    <div class="othersBold" >
+                        <a href="/rubric-regions/1945979-u-derjustanovi-mariupolya-planuvali-terakt-sbu.html" title="15.01.2016 16:35 У держустанові Маріуполя планували теракт - СБУ">
+                        <span class="otherTime">16:35</span>
+                        <span class="othersRed">Фото</span>                        У держустанові Маріуполя планували теракт - СБУ</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-abroad/1945977-smerti-v-alpah-studentiv-na-nebezpechniy-shil-poviv-psihichno-hvoriy-vchitel.html" title="15.01.2016 16:33 Смерті в Альпах: студентів на небезпечний схил повів психічно хворий вчитель">
+                        <span class="otherTime">16:33</span>
+                                                Смерті в Альпах: студентів на небезпечний схил повів психічно хворий вчитель</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-society/1945974-sagaydachnogo-modernizuyut.html" title="15.01.2016 16:31 «Сагайдачного» модернізують">
+                        <span class="otherTime">16:31</span>
+                                                «Сагайдачного» модернізують</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-regions/1945969-klichko-zaboroniv-pidvischuvati-tsini-na-liki-vid-gripu.html" title="15.01.2016 16:19 Кличко заборонив підвищувати ціни на ліки від грипу ">
+                        <span class="otherTime">16:19</span>
+                                                Кличко заборонив підвищувати ціни на ліки від грипу </a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-economics/1945961-ukrajina-chekae-na-priednannya-turkmenistanu-do-shovkovogo-shlyahu.html" title="15.01.2016 16:07 Україна чекає на приєднання Туркменістану до &quot;Шовкового шляху&quot;">
+                        <span class="otherTime">16:07</span>
+                                                Україна чекає на приєднання Туркменістану до "Шовкового шляху"</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-abroad/1945962-yunker-bez-shengenu-evro-ne-matime-sensu.html" title="15.01.2016 16:07 Юнкер: Без Шенгену євро не матиме сенсу">
+                        <span class="otherTime">16:07</span>
+                                                Юнкер: Без Шенгену євро не матиме сенсу</a>
+					</div>
+                                        
+                    <div class="othersBold" >
+                        <a href="/rubric-abroad/1945958-nuland-zustrilasya-z-surkovim-za-zachinenimi-dverima-zmi.html" title="15.01.2016 16:01 Нуланд зустрілася з Сурковим за зачиненими дверима - ЗМІ">
+                        <span class="otherTime">16:01</span>
+                                                Нуланд зустрілася з Сурковим за зачиненими дверима - ЗМІ</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-politycs/1945954-pomer-eks-deputat-vid-svobodi.html" title="15.01.2016 15:59 Помер екс-депутат від Свободи">
+                        <span class="otherTime">15:59</span>
+                                                Помер екс-депутат від Свободи</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-abroad/1945945-kurs-evro-u-rosiji-vje-85.html" title="15.01.2016 15:55 Курс євро у Росії – вже 85">
+                        <span class="otherTime">15:55</span>
+                                                Курс євро у Росії – вже 85</a>
+					</div>
+                                        
+                    <div class="othersBold" >
+                        <a href="/rubric-economics/1945947-oschadbank-podav-pozov-do-sberbanku-rf.html" title="15.01.2016 15:55 Ощадбанк подав позов до Сбербанку РФ">
+                        <span class="otherTime">15:55</span>
+                                                Ощадбанк подав позов до Сбербанку РФ</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-society/1945940-sotsproekt-i-ya-ne-movchatimu-ukrajintsi-bez-koruptsiji-projiti-mojut.html" title="15.01.2016 15:52 Соцпроект &quot;...і я не мовчатиму!&quot;: українці без корупції прожити можуть">
+                        <span class="otherTime">15:52</span>
+                                                Соцпроект "...і я не мовчатиму!": українці без корупції прожити можуть</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-society/1945942-v-ukrajini-zavtra-hurtovini-do-9-morozu.html" title="15.01.2016 15:52 В Україні завтра хуртовини, до 9° морозу">
+                        <span class="otherTime">15:52</span>
+                                                В Україні завтра хуртовини, до 9° морозу</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-abroad/1945938-u-nebi-nad-gavayami-ne-roziyshlisya-dva-viyskovi-litaki.html" title="15.01.2016 15:51 У небі над Гаваями не розійшлися два військові гелікоптери">
+                        <span class="otherTime">15:51</span>
+                        <span class="othersRed">Оновлено</span>                        У небі над Гаваями не розійшлися два військові гелікоптери</a>
+					</div>
+                                        
+                    <div class="othersBold" >
+                        <a href="/rubric-society/1945936-u-lvovi-avariyno-siv-litak-mau.html" title="15.01.2016 15:43 У Львові аварійно сів літак МАУ">
+                        <span class="otherTime">15:43</span>
+                                                У Львові аварійно сів літак МАУ</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-politycs/1945934-saakashvili-nazvav-noviy-koshmar-dlya-putina.html" title="15.01.2016 15:40 Саакашвілі назвав новий кошмар для Путіна">
+                        <span class="otherTime">15:40</span>
+                                                Саакашвілі назвав новий кошмар для Путіна</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-politycs/1945928-u-groysmana-sprostuvali-chutki-pro-taemne-golosuvannya-zmin-do-konstitutsiji.html" title="15.01.2016 15:36 У Гройсмана спростували чутки про таємне голосування змін до Конституції">
+                        <span class="otherTime">15:36</span>
+                                                У Гройсмана спростували чутки про таємне голосування змін до Конституції</a>
+					</div>
+                                        
+                    <div class="othersBold" >
+                        <a href="/rubric-society/1945918-u-kievi-prolunali-dva-vibuhi.html" title="15.01.2016 15:26 У Києві пролунали два вибухи">
+                        <span class="otherTime">15:26</span>
+                                                У Києві пролунали два вибухи</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-society/1945912-u-kvitashvili-kajut-scho-likiv-vid-gripu-dosit.html" title="15.01.2016 15:24 У Квіташвілі кажуть, що ліків від грипу досить">
+                        <span class="otherTime">15:24</span>
+                                                У Квіташвілі кажуть, що ліків від грипу досить</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-regions/1945914-sud-u-spravi-26-lyutogo-perenesli.html" title="15.01.2016 15:24 Суд у «справі 26 лютого» перенесли">
+                        <span class="otherTime">15:24</span>
+                                                Суд у «справі 26 лютого» перенесли</a>
+					</div>
+                                        
+                    <div>
+                        <a href="/rubric-economics/1945908-z-pochatku-roku-mayje-tisyacha-ukrajinskih-kompaniy-otrimali-dozvil-na-torgivlyu-z-es-pavlenko.html" title="15.01.2016 15:21 З початку року майже тисяча українських компаній отримали дозвіл на торгівлю з ЄС – Павленко">
+                        <span class="otherTime">15:21</span>
+                                                З початку року майже тисяча українських компаній отримали дозвіл на торгівлю з ЄС – Павленко</a>
+					</div>
+                            </div>
+        
+        <div class="more">
+            <a href="/block-lastnews">Всі новини</a>
+            <div></div>
+        </div>
+    </div>
+</div>
+		    
+<h2><a href="/block-analytics">Аналітика</a></h2>
+<div class="analitic">
+    <div class="analiticBody">
+
+                    <div>
+                    <a href="/rubric-health/1945684-grip-2016-osterigatisya-ale-y-opiratisya.html">
+                        <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452862540-3889.jpg" alt="Грип-2016: остерігатися, але й опиратися"/>
+                        <span class="analiticGradient"></span>
+                        <span class="analiticText">
+                            <span>Грип-2016: остерігатися, але й опиратися</span>
+                        </span>
+                    </a>
+
+                    <p class="analiticName"><a href="/rubric-health/1945684-grip-2016-osterigatisya-ale-y-opiratisya.html">Грип і зима завжди приходять разом, приблизно в один і той самий час, але ми щоразу дивуємося - що, знову? Звідки вони взялися?&nbsp;
+</a></p>
+
+                    <p class="analiticDate">
+                        сьогодні 16:00&nbsp; &middot; &nbsp;                     </p>
+                </div>
+                             <div>
+                    <a href="/rubric-politycs/1945722-nezruchni-zapitannya-ta-vertep-kolyadnikiv.html">
+                        <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452782262-4787.jpg" alt="Незручні запитання та вертеп колядників "/>
+                        <span class="analiticGradient"></span>
+                        <span class="analiticText">
+                            <span>Незручні запитання та вертеп колядників </span>
+                        </span>
+                    </a>
+
+                    <p class="analiticName"><a href="/rubric-politycs/1945722-nezruchni-zapitannya-ta-vertep-kolyadnikiv.html">На прес-конференції Президента журналісти цікавилися Гризловим, Шокіним та Бойком і пригощалися цукерками &laquo;Рошен&raquo;
+</a></p>
+
+                    <p class="analiticDate">
+                        сьогодні 11:29&nbsp; &middot; &nbsp;                     </p>
+                </div>
+                             <div>
+                    <a href="/rubric-society/1945412-proftehosvita-yak-yarmo-mistsevi-byudjeti-trischat.html">
+                        <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452846402-8737.jpg" alt="Профтехосвіта як ярмо. Місцеві бюджети тріщать"/>
+                        <span class="analiticGradient"></span>
+                        <span class="analiticText">
+                            <span>Профтехосвіта як ярмо. Місцеві бюджети тріщать</span>
+                        </span>
+                    </a>
+
+                    <p class="analiticName"><a href="/rubric-society/1945412-proftehosvita-yak-yarmo-mistsevi-byudjeti-trischat.html">Колективи профтехучилищ опиняються у&nbsp;&quot;підвішеному&quot; стані
+</a></p>
+
+                    <p class="analiticDate">
+                        сьогодні 10:00&nbsp; &middot; &nbsp;                     </p>
+                </div>
+                             <div>
+                    <a href="/rubric-society/1945118-moskovskiy-patriarhat-yak-komisar-gibridnoji-viyni.html">
+                        <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452776859-2850.jpg" alt="Московський патріархат як комісар гібридної війни"/>
+                        <span class="analiticGradient"></span>
+                        <span class="analiticText">
+                            <span>Московський патріархат як комісар гібридної війни</span>
+                        </span>
+                    </a>
+
+                    <p class="analiticName"><a href="/rubric-society/1945118-moskovskiy-patriarhat-yak-komisar-gibridnoji-viyni.html">УПЦ МП продовжує щедро оплачувати роботу антиукраїнських пропагандистів
+</a></p>
+
+                    <p class="analiticDate">
+                        вчора 13:38&nbsp; &middot; &nbsp;                     </p>
+                </div>
+                 </div>
+
+    <div class="more">
+        <a href="/block-analytics">Бiльше аналiтики</a>
+        <div></div>
+    </div>
+</div>
+		
+			<div class="connective">
+			    
+<div class="interview">
+    <h2><a href="/block-interview">Інтерв’ю</a></h2>
+
+                <dl>
+                <dt><a href="/rubric-politycs/1945464-mikola-polozov-rosiyskiy-advokat-zahisnik-ahtema-chiygoza.html"><img src="http://static.ukrinform.com/photos/2015_12/thumb_files/80_80_1451077917-9398.jpg" alt=""/></a></dt>
+                <dd>
+                    <div><a href="/rubric-politycs/1945464-mikola-polozov-rosiyskiy-advokat-zahisnik-ahtema-chiygoza.html">Микола Полозов, російський адвокат, захисник Ахтема Чийгоза</a></div>
+                    <p><a href="/rubric-politycs/1945464-mikola-polozov-rosiyskiy-advokat-zahisnik-ahtema-chiygoza.html">Савченко сказала: &laquo;Давай! Кримським татарам, які потрапили в біду, потрібно допомагати&raquo;
+</a></p>
+                </dd>
+            </dl>
+                    <dl>
+                <dt><a href="/rubric-politycs/1945062-roman-bezsmertniy-predstavnik-ukrajini-v-politichniy-pidgrupi-tristoronnoji-kontaktnoji-grupi-v-minsku.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/80_80_1452773112-8894.jpg" alt=""/></a></dt>
+                <dd>
+                    <div><a href="/rubric-politycs/1945062-roman-bezsmertniy-predstavnik-ukrajini-v-politichniy-pidgrupi-tristoronnoji-kontaktnoji-grupi-v-minsku.html">Роман Безсмертний, представник України в Тристоронній контактній групі у Мінську</a></div>
+                    <p><a href="/rubric-politycs/1945062-roman-bezsmertniy-predstavnik-ukrajini-v-politichniy-pidgrupi-tristoronnoji-kontaktnoji-grupi-v-minsku.html">Ртуть розлилася, і збирати її дуже непросто
+</a></p>
+                </dd>
+            </dl>
+                    <dl>
+                <dt><a href="/rubric-politycs/1941535-oleg-sinyutka-golova-lvivskoji-oblderjadministratsiji.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/80_80_1452413846-2848.jpg" alt=""/></a></dt>
+                <dd>
+                    <div><a href="/rubric-politycs/1941535-oleg-sinyutka-golova-lvivskoji-oblderjadministratsiji.html">Олег Синютка, голова Львівської облдержадміністрації</a></div>
+                    <p><a href="/rubric-politycs/1941535-oleg-sinyutka-golova-lvivskoji-oblderjadministratsiji.html">Президент має сентименти до Львівщини
+</a></p>
+                </dd>
+            </dl>
+                    <dl>
+                <dt><a href="/rubric-abroad/1940986-lyudmila-davidovich-tvo-genkonsula-ukrajini-v-toronto.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/80_80_1452072810-7237.jpg" alt=""/></a></dt>
+                <dd>
+                    <div><a href="/rubric-abroad/1940986-lyudmila-davidovich-tvo-genkonsula-ukrajini-v-toronto.html">Людмила Давидович, т.в.о. генконсула України в Торонто</a></div>
+                    <p><a href="/rubric-abroad/1940986-lyudmila-davidovich-tvo-genkonsula-ukrajini-v-toronto.html">До Канади все більше українців їдуть навчатися, а не іммігрують
+</a></p>
+                </dd>
+            </dl>
+                    <dl>
+                <dt><a href="/rubric-abroad/1941587-oleksandr-melnik-frantsuzkiy-ucheniy-profesor-z-geopolitiki.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/80_80_1452080707-6970.jpg" alt=""/></a></dt>
+                <dd>
+                    <div><a href="/rubric-abroad/1941587-oleksandr-melnik-frantsuzkiy-ucheniy-profesor-z-geopolitiki.html">Олександр Мельник, французький вчений, професор з геополітики</a></div>
+                    <p><a href="/rubric-abroad/1941587-oleksandr-melnik-frantsuzkiy-ucheniy-profesor-z-geopolitiki.html">Конфлікт між Ріядом і Тегераном вигідний Росії
+</a></p>
+                </dd>
+            </dl>
+        
+    <div class="more">
+        <a href="/block-interview">Бiльше iнтерв’ю</a>
+        <div></div>
+    </div>
+</div>
+				<div class="twitter">
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<a class="twitter-timeline" width="300" height="650" lang="en" href="https://twitter.com/UKRINFORM" data-widget-id="440474428862783488">Твиты пользователя @UKRINFORM</a>
+</div>
+			</div>
+			
+			<div class="projectsPartner">
+			    
+<div class="projectsBlock">
+<h2></h2>
+<div class="projects" style="padding-top:25px;">
+
+<!-- banner place #main_0_300x250_ukr  start -->
+
+<!-- Птичка -->
+<!-- /52555387/ukrinform.ua_300x250_2 -->
+<div>
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/52555387/ukrinform.ua_300x250_2', [300, 250], 'div-gpt-ad-1448535084878-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+</div>
+<div id='div-gpt-ad-1448535084878-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1448535084878-0'); });
+</script>
+</div>
+<!-- Птичка -->
+    
+<!--  Rich Media Адмиксер -->
+<div id='admixer_ba7eb8e0a4ac42bcbbdf005b2db65190_zone_8024_sect_478_site_465_rnd_722733603'></div>
+<script type="text/javascript">
+    window.amSlots = (window.amSlots || []); window.amSlots.push({ z: 'ba7eb8e0-a4ac-42bc-bbdf-005b2db65190', ph: 'admixer_ba7eb8e0a4ac42bcbbdf005b2db65190_zone_8024_sect_478_site_465_rnd_722733603', i: 'inv-nets' });
+</script>
+<!--  Rich Media Адмиксер -->
+<!-- banner place #main_0_300x250_ukr end --></div>
+
+
+</div>
+
+<div class="googleCompanion">
+	<div>
+		
+<!-- banner place #main_300x250_ukr  start -->
+
+<!-- Птичка -->
+<!-- /52555387/ukrinform.ua_300x250 -->
+<div>
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script>
+
+ // GPT slots
+ var gptAdSlots = [];
+ googletag.cmd.push(function() {
+
+   // Define a size mapping object. The first parameter to addSize is
+   // a viewport size, while the second is a list of allowed ad sizes.
+   var mapping = googletag.sizeMapping().
+
+   addSize([0, 0], []). 
+
+   addSize([740, 0], [300, 250]).build();
+
+   // Define the GPT slot
+   gptAdSlots[0] = googletag.defineSlot('/52555387/ukrinform.ua_300x250', [300, 250], 'div-gpt-ad-1448535047080-0').
+       defineSizeMapping(mapping).
+       addService(googletag.pubads());
+
+   // Start ad fetching
+   googletag.enableServices();
+ });
+</script>
+
+</div>
+<div id='div-gpt-ad-1448535047080-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1448535047080-0'); });
+</script>
+</div>
+<!-- Птичка -->
+    
+<!--  Rich Media Адмиксер -->
+<div id='admixer_ba7eb8e0a4ac42bcbbdf005b2db65190_zone_8024_sect_478_site_465_rnd_722733603'></div>
+<script type="text/javascript">
+    window.amSlots = (window.amSlots || []); window.amSlots.push({ z: 'ba7eb8e0-a4ac-42bc-bbdf-005b2db65190', ph: 'admixer_ba7eb8e0a4ac42bcbbdf005b2db65190_zone_8024_sect_478_site_465_rnd_722733603', i: 'inv-nets' });
+</script>
+<!--  Rich Media Адмиксер -->
+  
+  <!--  Get Site Control -->
+  <script>
+  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/31245/script.js');
+</script>
+<!--  Get Site Control -->
+
+<!-- banner place #main_300x250_ukr end -->	</div>
+</div>
+
+ 
+
+<div class="partner">
+    <h2><a href="/block-partner">Новини партнерів</a></h2>
+    <div>
+        <div class="partnerBody">
+            
+                    <div>
+                        <p>30.12.2015 12:15</p>
+                        <a href="/rubric-other_news/1938789-ilham-aliev-zvernuvsya-do-spivvitchiznikiv.html">Посольство Азербайджанської Республіки в Україні вітає співвітчизників</a>
+                    </div>
+                    
+                    <div>
+                        <p>28.12.2015 09:50</p>
+                        <a href="/rubric-other_news/1937696-tarifi-na-energonosiji-dlya-naselennya-i-agrariji-golovniy-bil-deputativ-vinnitskoji-oblasnoji-radi.html">Тарифи на енергоносії для населення і аграрії – «головний біль» депутатів Вінницької обласної ради</a>
+                    </div>
+                    
+                    <div>
+                        <p>24.12.2015 10:39</p>
+                        <a href="/rubric-other_news/1935919-energetikiv-vinnichchini-privitali-kerivniki-oblradi-ta-voda.html">Енергетиків Вінниччини привітали керівники облРади та ВОДА </a>
+                    </div>
+                            </div>
+
+        <div class="more">
+            <a href="/block-partner">Бiльше</a>
+            <div></div>
+        </div>
+    </div>
+</div>			    			</div>
+		</div>
+		
+		<div class="photoVideo">
+	<div>
+		        <div class="topVideo">
+		<h2>Фото i вiдео</h2>
+	
+		<div class="youtube">
+    		<p><a href="https://www.youtube.com/user/UkrinformTV"><span class="youtubeNormal">Перейти на наш канал youtube</span></a></p>
+		</div>
+		
+		<div style="clear: both;"></div>
+
+			<div class="topPlayer">
+			    <div class="topVideoFrame">
+		    		<iframe width="620" height="380" src="https://www.youtube.com/embed/1vvQxSTeVzk" style="border:0;" ></iframe>
+				</div>
+	        
+	        	<div class="videoName"><a href="https://www.youtube.com/channel/UCt3igz3aIXfS108KV_jZsMA">UA|TV Live</a></div>
+	        	<div class="videoInfo"> • 05.01.2016 12:37</div>
+			</div>
+		
+			<div class="video_ads">
+	        	
+<!-- banner place #main_240x350_ukr  start -->
+
+<!-- библиотека Admixer-->
+<script type='text/javascript'>
+    (function () {
+        var w = window, d = document;
+        w.admixZArr = (w.admixZArr || []);
+        w.admixerSmOptions = (w.admixerSmOptions || {});
+        w.admixerSmOptions.showAdsOnLoad = true;
+    })();
+</script>
+<script type="text/javascript" src="http://cdn.admixer.net/scriptlib/asm2.js?v=3"></script>
+<!-- библиотека Admixer-->
+
+<!--  Admixer-->
+<div id='admixer_9ac96406a4184575813c436ce4a432ac_zone_8847_sect_478_site_465_rnd_683490025'></div>
+<script type="text/javascript">
+    window.amSlots = (window.amSlots || []); window.amSlots.push({ z: '9ac96406-a418-4575-813c-436ce4a432ac', ph: 'admixer_9ac96406a4184575813c436ce4a432ac_zone_8847_sect_478_site_465_rnd_683490025', i: 'inv-nets' });
+</script>
+<!--  Admixer-->
+<!-- banner place #main_240x350_ukr end -->			</div>        
+		</div>
+	
+		                
+        
+        
+
+        
+        <div class="videoBlocks">
+            <h2><a href="/block-video">Відео</a></h2>
+
+                            <dl>
+                    <dt>
+                        <a href="/rubric-regions/1945691-do-boyovikiv-ne-pustili-lexus-iz-groshima.html">
+                            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452850054-5443.jpg" alt=""/>
+                            <span></span>
+                        </a>
+                    </dt>
+                    <dd>
+                        <p><a href="/rubric-regions/1945691-do-boyovikiv-ne-pustili-lexus-iz-groshima.html">До бойовиків не пустили Lexus із грошима</a></p>
+                        <div>470 Переглядів •  сьогодні 11:29</div>
+                    </dd>
+                </dl>
+                            <dl>
+                    <dt>
+                        <a href="/rubric-abroad/1945135-kafe-kariyon-u-pariji-vidkrilosya-upershe-pislya-teraktiv.html">
+                            <img src="http://static.ukrinform.com/photos/2015_11/thumb_files/300_200_1448022756-7157.jpg" alt=""/>
+                            <span></span>
+                        </a>
+                    </dt>
+                    <dd>
+                        <p><a href="/rubric-abroad/1945135-kafe-kariyon-u-pariji-vidkrilosya-upershe-pislya-teraktiv.html">Кафе «Карійон» у Парижі відкрилося уперше після терактів</a></p>
+                        <div>503 Переглядів •  вчора 14:03</div>
+                    </dd>
+                </dl>
+                            <dl>
+                    <dt>
+                        <a href="/rubric-culture/1945120-adel-zachitala-rep-i-rozpovila-pro-rizdvyaniy-alkogolizm.html">
+                            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452771560-3882.jpg" alt=""/>
+                            <span></span>
+                        </a>
+                    </dt>
+                    <dd>
+                        <p><a href="/rubric-culture/1945120-adel-zachitala-rep-i-rozpovila-pro-rizdvyaniy-alkogolizm.html">Адель зачитала реп і розповіла про різдвяний алкоголізм</a></p>
+                        <div>653 Переглядів •  вчора 13:39</div>
+                    </dd>
+                </dl>
+                            <dl>
+                    <dt>
+                        <a href="/rubric-abroad/1945052-vidkrita-rosiya-pererahuvala-siriysku-kampaniyu-v-zarplatah-i-pensiyah.html">
+                            <img src="http://static.ukrinform.com/photos/2015_12/thumb_files/300_200_1451417921-3763-putin.jpg" alt=""/>
+                            <span></span>
+                        </a>
+                    </dt>
+                    <dd>
+                        <p><a href="/rubric-abroad/1945052-vidkrita-rosiya-pererahuvala-siriysku-kampaniyu-v-zarplatah-i-pensiyah.html">"Відкрита Росія" перерахувала сирійську кампанію в зарплатах і пенсіях</a></p>
+                        <div>999 Переглядів •  вчора 12:39</div>
+                    </dd>
+                </dl>
+                    </div>
+
+        <div class="more">
+            <a href="/block-video">Більше відео</a>
+            <div></div>
+        </div>
+
+        
+        <h2><a href="/block-photo">Фото</a></h2>
+
+        <div class="photoreports">
+
+                            <div>
+                    <a href="/rubric-regions/1945979-u-derjustanovi-mariupolya-planuvali-terakt-sbu.html">
+                <span class="photoreportsImage">
+                <img src="http://static.ukrinform.com/photos/2015_12/thumb_files/300_200_1449711309-7421-sbu-foto-sotsseti.jpg"  alt=""/></span>
+                        <span>У держустанові Маріуполя планували теракт - СБУ</span>
+                    </a>
+
+                    <p>49 Переглядів • сьогодні 16:35</p>
+                </div>
+                            <div>
+                    <a href="/rubric-regions/1945879-vibuh-gazu-v-ukrajinsku-pid-zavalami-zaginuli-dvoe-ditey.html">
+                <span class="photoreportsImage">
+                <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452862247-8689.jpg"  alt=""/></span>
+                        <span>Вибух газу в Українську: під завалами загинули двоє дітей</span>
+                    </a>
+
+                    <p>374 Переглядів • сьогодні 14:57</p>
+                </div>
+                            <div>
+                    <a href="/rubric-regions/1945832-u-dnipropetrovsku-zatrimali-grabijnikiv-avtozapravki.html">
+                <span class="photoreportsImage">
+                <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452859764-2824.jpg"  alt=""/></span>
+                        <span>У Дніпропетровську затримали грабіжників автозаправки</span>
+                    </a>
+
+                    <p>334 Переглядів • сьогодні 14:13</p>
+                </div>
+                            <div>
+                    <a href="/rubric-other_news/1945786-foto-tijnya-9-15-sichnya.html">
+                <span class="photoreportsImage">
+                <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452851565-8842.jpeg"  alt=""/></span>
+                        <span>Фото тижня. 9-15 січня</span>
+                    </a>
+
+                    <p>309 Переглядів • сьогодні 14:00</p>
+                </div>
+                    </div>
+
+        <div class="more">
+            <a href="/block-photo">Більше фото</a>
+            <div></div>
+        </div>
+
+    </div>
+</div>		
+<div class="publicBlock">
+    <div class="platform">
+        <h2><a href="/block-blogs">Громадська платформа</a></h2>
+
+        <a class="redactionChoose" href="http://www.ukrinform.ru/rubric-lastnews/1945513-kryim-obratnaya-peremotka.html">
+        	
+            <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/630_360_1452814378-8546.jpg" alt="Громадська платформа" />
+            <span class="redactionGradient"></span>
+            
+            <span class="redactionTitle"><span>
+            Крим. Зворотня перемотка</span></span>
+            <span class="redactionAuthor">
+            	<img src="http://static.ukrinform.com/photos/2015_09/thumb_files/80_80_1443634508-9752.jpg" alt="Олександра Решмеділова" />
+            	<span class="redactionInfo">
+            		<span class="redactionName">Олександра Решмеділова</span>
+            		<span class="redactionDate">сьогодні 01:36</span>
+            	</span>
+            </span>
+        </a>
+
+       		<div class="platformBlocks">
+			<dl>
+				<dt>
+                <a href="/rubric-other_news/1945506-tretiy-front-rosiji.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_250_1452812187-6990.jpg" alt="Третій фронт Росії" /></a>
+            	<p><a href="/rubric-other_news/1945506-tretiy-front-rosiji.html">Третій фронт Росії</a></p>
+            	</dt>
+            	
+            	<dd>
+                <a href="/rubric-other_news/1945506-tretiy-front-rosiji.html"><img src="http://static.ukrinform.com/photos/2015_09/thumb_files/80_80_1443200599-1263.jpg" alt="Олександра Решмеділова" /></a>
+                <div class="authorInfo">
+                    <p>Сергій Таран</p>
+                    <div>сьогодні 01:00</div>
+                </div>
+            	</dd>
+        	</dl>
+         </div>
+    </div>
+
+    <div class="platformBlocks">
+         
+          
+         <dl>
+            <dt>
+                <a href="http://www.ukrinform.ru/rubric-lastnews/1945525-homut-i-konstruktivnost.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452547782-7292.jpg" alt="" /></a>
+            	<p><a href="http://www.ukrinform.ru/rubric-lastnews/1945525-homut-i-konstruktivnost.html">Хомут і "конструктивність"</a></p>
+            </dt>
+            <dd>
+                <a href="http://www.ukrinform.ru/rubric-lastnews/1945525-homut-i-konstruktivnost.html"><img src="http://static.ukrinform.com/photos/2015_10/thumb_files/80_80_1445810479-2469.jpg" alt="" /></a>
+                <div class="authorInfo">
+                    <p>Віталій Портников</p>
+                    <div>сьогодні 02:12</div>
+                </div>
+            </dd>
+        </dl>
+         
+         <dl>
+            <dt>
+                <a href="/rubric-other_news/1945523-tse-viyna-proti-tsivilizatsiji.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452816078-7817.jpg" alt="" /></a>
+            	<p><a href="/rubric-other_news/1945523-tse-viyna-proti-tsivilizatsiji.html">Це війна проти цивілізації</a></p>
+            </dt>
+            <dd>
+                <a href="/rubric-other_news/1945523-tse-viyna-proti-tsivilizatsiji.html"><img src="http://static.ukrinform.com/photos/2015_10/thumb_files/80_80_1445245172-3597.jpg" alt="" /></a>
+                <div class="authorInfo">
+                    <p>Зорян Шкіряк</p>
+                    <div>сьогодні 02:02</div>
+                </div>
+            </dd>
+        </dl>
+         
+         <dl>
+            <dt>
+                <a href="/rubric-other_news/1945531-yakutska-nasmishka-nad-rosiyskimi-zakonami.html"><img src="http://static.ukrinform.com/photos/2016_01/thumb_files/300_200_1452817587-7201.jpg" alt="" /></a>
+            	<p><a href="/rubric-other_news/1945531-yakutska-nasmishka-nad-rosiyskimi-zakonami.html">Якутська насмішка над російськими законами</a></p>
+            </dt>
+            <dd>
+                <a href="/rubric-other_news/1945531-yakutska-nasmishka-nad-rosiyskimi-zakonami.html"><img src="http://static.ukrinform.com/photos/2015_11/thumb_files/80_80_1448917842-8099.jpg" alt="" /></a>
+                <div class="authorInfo">
+                    <p>Тарас Колісник</p>
+                    <div>сьогодні 02:28</div>
+                </div>
+            </dd>
+        </dl>
+        
+        <div class="more">
+            <a href="/block-blogs">Всі блоги</a>
+            <div></div>
+        </div>
+    </div>
+</div>
+		
+		
+		<div class="banner970">
+<!-- banner place #main_970_ukr  start -->
+
+<!-- Птичка -->
+<!-- /52555387/ukrinform.ua_970x90_bottom -->
+<div>
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<script>
+
+ // GPT slots
+ var gptAdSlots = [];
+ googletag.cmd.push(function() {
+
+   // Define a size mapping object. The first parameter to addSize is
+   // a viewport size, while the second is a list of allowed ad sizes.
+   var mapping = googletag.sizeMapping().
+
+   addSize([0, 0], [320, 100]). 
+
+   addSize([1000, 0], [970, 90]).build();
+
+   // Define the GPT slot
+   gptAdSlots[0] = googletag.defineSlot('/52555387/ukrinform.ua_970x90_bottom', [[320, 100], [970, 90]], 'div-gpt-ad-1448535200247-0').
+       defineSizeMapping(mapping).
+       addService(googletag.pubads());
+
+   // Start ad fetching
+   googletag.enableServices();
+ });
+</script>
+</div>
+<div id='div-gpt-ad-1448535200247-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1448535200247-0'); });
+</script>
+</div>
+<!-- Птичка -->
+<!-- banner place #main_970_ukr end --></div>
+		
+		<div class="dayPhoto">
+    <div>
+        <a href="http://photo.ukrinform.ua/ukr" target="_blank"><h2>Фото дня</h2></a>
+        <p>Українські бійці ведуть спостереження в "сірій зоні" / Фото: Олена Худякова, Укрінформ</p>
+        <a href="http://photo.ukrinform.ua/ukr" target="_blank">
+        <img src="http://static.ukrinform.com/photos/2016_01/thumb_files/960_640_1452842055-4860-ukrainskie-boytsyi-vedut-nablyudenie-v-seroy-zone-foto-elena-hudyakova-ukrinform.jpg" alt="Українські бійці ведуть спостереження в &quot;сірій зоні&quot; / Фото: Олена Худякова, Укрінформ" />
+        </a>
+    </div>
+</div>	    <script>
+    
+      function onYouTubeIframeAPIReady() {
+		    	  player0 = new YT.Player('player0');
+    	  player1 = new YT.Player('player1');
+    	  player2 = new YT.Player('player2');
+    	  player3 = new YT.Player('player3');
+    	  //alert('api is ready');
+      }
+ 
+	  function onPlayerReady(event) {
+        //event.target.playVideo();
+      }
+
+	  function loadVideo(code) {
+		player.loadVideoById(code);	
+		};
+
+	function stopVideo() {
+		player0.stopVideo();
+		player1.stopVideo();
+		player2.stopVideo();
+		player3.stopVideo();
+		};		
+</script>
+
+
+<div class="pressCenter">
+	<div>
+	<h2><a href="/block-conferences">Прес-центр</a></h2>
+	    
+	<ul class="bxPager">
+			<li><a data-slide-index="0" href="#">
+		 
+			Соціальні гарантії військовослужбовців Національної гвардії України</a>
+		</li>
+				<li><a data-slide-index="1" href="#">
+		 
+			Культурне середовище та ситуація в Криму</a>
+		</li>
+				<li><a data-slide-index="2" href="#">
+		 
+			Яким буде паспорт громадянина України в новому році</a>
+		</li>
+				<li><a data-slide-index="3" href="#">
+		 
+			Щодо результатів діяльності Військово-цивільного координаційного штабу медичної допомоги</a>
+		</li>
+			</ul>
+
+	<div class="pressTabs">
+    <ul>
+     
+        <li>
+            <div class="video-container">
+                <iframe id="player0" src="http://www.youtube.com/embed/lQ6EBz662m4?rel=0&amp;enablejsapi=1&amp;controls=1" frameborder="0" width="560" height="315"></iframe>
+            </div>
+            
+            <dl>
+                <dt><a href="/rubric-pressconference/1943985-sotsialni-garantiji-viyskovoslujbovtsiv-natsionalnoji-gvardiji-ukrajini-zala-1.html">Преc-конференція: Соціальні гарантії військовослужбовців Національної гвардії України</a></dt>
+                <dd>
+                    <div>сьогодні 11:00  • зала 1</div>
+                    <p>15 січня об 11.00 відбулася прес-конференція на тему: &quot;Соціальні гарантії військовослужбовців Національної гвардії України&quot;. (Зала 1)
+ <a href="/rubric-pressconference/1943985-sotsialni-garantiji-viyskovoslujbovtsiv-natsionalnoji-gvardiji-ukrajini-zala-1.html">Детальніше</a></p>
+                </dd>
+            </dl>
+        </li>
+	 
+        <li>
+            <div class="video-container">
+                <iframe id="player1" src="http://www.youtube.com/embed/MNwxQJL2CrI?rel=0&amp;enablejsapi=1&amp;controls=1" frameborder="0" width="560" height="315"></iframe>
+            </div>
+            
+            <dl>
+                <dt><a href="/rubric-presentation/1943976-kulturne-seredovische-ta-situatsiya-v-krimu-zala-1.html">Презентація: Культурне середовище та ситуація в Криму</a></dt>
+                <dd>
+                    <div>вчора 12:30  • зала 1</div>
+                    <p>14 січня о 12.30 відбулася презентація комплексного дослідження &laquo;Культурне середовище та ситуація в Криму&raquo;.&nbsp; (Зала 1)
+ <a href="/rubric-presentation/1943976-kulturne-seredovische-ta-situatsiya-v-krimu-zala-1.html">Детальніше</a></p>
+                </dd>
+            </dl>
+        </li>
+	 
+        <li>
+            <div class="video-container">
+                <iframe id="player2" src="http://www.youtube.com/embed/NVZV9uBUQrY?rel=0&amp;enablejsapi=1&amp;controls=1" frameborder="0" width="560" height="315"></iframe>
+            </div>
+            
+            <dl>
+                <dt><a href="/rubric-pressconference/1939366-yakim-bude-pasport-gromadyanina-ukrajini-v-novomu-rotsi-zala-1.html">Преc-конференція: Яким буде паспорт громадянина України в новому році</a></dt>
+                <dd>
+                    <div>05.01.2016 12:00  • зала 1</div>
+                    <p>5 січня о 12.00 відбулася прес-конференція на тему: &laquo;Запровадження паспорта громадянина України у формі картки&raquo;. (Зала 1)
+ <a href="/rubric-pressconference/1939366-yakim-bude-pasport-gromadyanina-ukrajini-v-novomu-rotsi-zala-1.html">Детальніше</a></p>
+                </dd>
+            </dl>
+        </li>
+	 
+        <li>
+            <div class="video-container">
+                <iframe id="player3" src="http://www.youtube.com/embed/9NEaAa9U-xc?rel=0&amp;enablejsapi=1&amp;controls=1" frameborder="0" width="560" height="315"></iframe>
+            </div>
+            
+            <dl>
+                <dt><a href="/rubric-briefing_ukr/1938393-schodo-rezultativ-diyalnosti-viyskovo-tsivilnogo-koordinatsiynogo-shtabu-medichnoji-dopomogi-zala-1.html">Брифінг: Щодо результатів діяльності Військово-цивільного координаційного штабу медичної допомоги</a></dt>
+                <dd>
+                    <div>30.12.2015 11:00  • зала 1</div>
+                    <p>30 грудня об 11.00 відбувся брифінг щодо результатів діяльності Військово-цивільного координаційного штабу медичної допомоги. (Зала 1)
+ <a href="/rubric-briefing_ukr/1938393-schodo-rezultativ-diyalnosti-viyskovo-tsivilnogo-koordinatsiynogo-shtabu-medichnoji-dopomogi-zala-1.html">Детальніше</a></p>
+                </dd>
+            </dl>
+        </li>
+	    </ul>
+	</div>
+	
+	<div class="more">
+		<div></div>
+		<a href="/block-conferences">Більше прес-конференцій</a>
+	</div>
+	
+		    <div class="pressBottom">
+	        <h2><a href="/block-conferences">Анонси</a></h2>
+			<div class="pressAnons">
+	    		<ul>
+	    			        		<li>
+	            		<div>19.01.2016 11:00</div>
+	            		<p><a href="/rubric-pressconference/1944335-skasuvannya-gospodarskogo-kodeksu-dumka-regulyatoriv-zala-1.html">Скасування Господарського кодексу: думка регуляторів та бізнес асоціацій (Зала 1)</a></p>
+	        		</li>
+	        		        		<li>
+	            		<div>19.01.2016 12:00</div>
+	            		<p><a href="/rubric-meeting2/1943801-posol-izrajilyu-eliav-belotserkovski-gist-pres-klubu-diplomati-bez-kravatok-zala-2.html">Посол  Ізраїлю Еліав Бєлоцерковські - гість прес-клубу "Дипломати без краваток" (Зала 2)</a></p>
+	        		</li>
+	        		        		<li>
+	            		<div>20.01.2016 11:00</div>
+	            		<p><a href="/rubric-pressconference/1945749-nelegalniy-vidobutok-pisku-v-kijivskiy-oblasti-hto-zaroblyae-ta-hto-prikrivae-nelegalniy-biznes-zala-1.html">Нелегальний видобуток піску в Київській області. Хто заробляє та хто прикриває нелегальний бізнес? (Зала 1)</a></p>
+	        		</li>
+	        				    </ul>
+			</div>
+	    </div>
+	    	    
+	</div>
+</div>
+	</div>
+	
+		<div id="footer">
+    <div class="footerMenu">
+        <div>
+            <p>Рубрики</p>
+            <ul>
+            	<!-- js loads content here -->
+            </ul>
+        </div>
+        
+        <div>
+            <p>Агентство</p>
+            
+            <ul>
+                        	<li><a href="/info/about_agency.html">Про нас</a></li>
+         	            	<li><a href="/info/subscribe_conditions.html">Передплата</a></li>
+         	            	<li><a href="/info/services.html">Послуги</a></li>
+         	            	<li><a href="/info/reg_rules.html">Правила користування</a></li>
+         	            	<li><a href="/info/uatv.html"></a></li>
+         	            </ul>
+        </div>
+	</div>
+
+    <ul class="footerCarte">
+    </ul>
+
+    <ul class="footerSocial">
+        <li><a href="https://www.facebook.com/Ukrinform?fref=ts"><span class="socialIcon"></span><span class="socialName">Facebook</span></a></li>
+        <li><a href="https://twitter.com/UKRINFORM"><span class="socialIcon"></span><span class="socialName">Twitter</span></a></li>
+        <li><a href="https://www.youtube.com/user/UkrinformTV"><span class="socialIcon"></span><span class="socialName">Youtube</span></a></li>
+        <li><a href="https://plus.google.com/116893939264092607598/posts"><span class="socialIcon"></span><span class="socialName">Google+</span></a></li>
+    </ul>
+
+    <p>При цитуванні і використанні будь-яких матеріалів в Інтернеті відкриті для пошукових систем гіперпосилання не нижче першого абзацу на «ukrinform.ua» — обов’язкові. Цитування і використання матеріалів у офлайн-медіа, мобільних додатках, SmartTV можливе лише з письмової згоди "ukrinform.ua". Матеріали з маркуванням «Реклама» публікуються на правах реклами.</p>
+    <p>© 2015 Укрінформ. Усі права застережені.</p>
+    
+	<!--bigmir)net TOP 100-->
+	<script type="text/javascript"><!--
+	function BM_Draw(oBM_STAT){
+	document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;">&nbsp;</div><div style="font:10px Tahoma;background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><span style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</span></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'//i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;">&nbsp;</div></div></td></tr></table>');
+	}
+	//-->
+	</script>
+	<script type="text/javascript"><!--
+	bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16795256,s:16795256,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+	for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+	try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+	else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+	try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+	try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+	r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400);bm.v^=r.length}
+	bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+	bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="//c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+	//-->
+	</script>
+	<noscript>
+	<a href="http://www.bigmir.net/" target="_blank"><img src="//c.bigmir.net/?v16795256&amp;s16795256&amp;t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" style="border:0;" /></a>
+	</noscript>
+	<!--bigmir)net TOP 100-->
+
+	<!-- Google analytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-29460605-1', 'auto');
+	  //ga('create', 'UA-67426538-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+	(function (d, w, c) {
+	    (w[c] = w[c] || []).push(function() {
+	        try {
+	            w.yaCounter12812155 = new Ya.Metrika({id:12812155});
+	        } catch(e) { }
+	    });
+	
+	    var n = d.getElementsByTagName("script")[0],
+	        s = d.createElement("script"),
+	        f = function () { n.parentNode.insertBefore(s, n); };
+	    s.type = "text/javascript";
+	    s.async = true;
+	    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+	
+	    if (w.opera == "[object Opera]") {
+	        d.addEventListener("DOMContentLoaded", f, false);
+	    } else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="//mc.yandex.ru/watch/12812155" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+	
+	
+              
+    <div class="design">Дизайн сайту — <a target="_blank" href="http://laconicastudio.com/">Студія «Laconica»</a></div>
+</div>
+
+<a class="full" href="#">Повна версія сайту</a>
+<div class="sliderButton"></div>
+<div class="sliderBack"></div>
+	<a class="extendedLink" href="#extended"></a>
+	
+	<div id="extended">
+		<form name="extended_search" action="/redirect.php" method="post">
+			<div class="searchDiv">
+				<input type="hidden" name="type" value="search" />
+				<input type="hidden" name="params[date_beg]"	value="" id="search_date_beg" />
+				<input type="hidden" name="params[date_end]" value="" id="search_date_end" />
+				<input type="submit" value="" />
+				<input type="text" name="params[query]" placeholder="Пошук" id="extendedSearchField" />
+			</div>
+			
+			<a class="extendedAncor" href="#"><span class="extendedOpen">Розширений пошук</span><span class="extendedClose">Приховати розширений пошук</span></a>
+
+			<div class="calendarBlock">
+			
+				<div class="rubrics">
+					<select name="params[rubric_id]">
+						<option value="0">Всi рубрики</option>
+												<option value="101">Політика</option>
+												<option value="111">Економіка</option>
+												<option value="112">Світ</option>
+												<option value="105">Суcпільcтво</option>
+												<option value="104">Культура</option>
+												<option value="102">Регіони</option>
+												<option value="107">Спорт</option>
+												<option value="161">Діаcпора</option>
+												<option value="103">Технології</option>
+												<option value="113">Туризм</option>
+											</select>
+				</div>
+
+				<div class="select_date_wrap">
+				
+					<div class="select_title">За період:</div>
+					
+					<div class="date start_date">
+						<div></div>
+						<input type="text" id="search_dp_from" name="from" value="">
+					</div>
+			
+					<div class="dash">-</div>
+			
+					<div class="date end_date">
+						<div></div>
+						<input type="text" id="search_dp_to" name="to" value="15.01.2016">
+					</div>
+				</div>
+		 
+			</div>
+		</form>
+	</div>
+	
+		<div id="some-element"></div>
+	</div>
+</div>
+
+<!-- common  -->
+		<script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+		<script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/js/hammer.min.js"></script>
+		<script type="text/javascript" src="/js/FlameViewportScale.js"></script>
+		<script type="text/javascript" src="/js/jquery.selectbox.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.fadeSliderToggle.js"></script>
+		<script type="text/javascript" src="/js/jquery.tosrus.min.all.js"></script>
+		
+		<!--  коды бан.сетей -->
+		<script type="text/javascript" src="/js/adfox.asyn.code.ver3.js"></script>
+		<script type="text/javascript" src="/js/adfox.asyn.code.scroll.js"></script>
+		<script async src="https://cdn.onthe.io/io.js?ocFxC4OqdQWa"></script>
+				
+		<!--  index only -->
+		 
+		
+		<link href="/css/marguee.css" rel="stylesheet" type="text/css" />
+		<script type='text/javascript' src="/js/prefixfree.js"></script>
+		<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+		<script type="text/javascript" src="/js/jquery.bxslider.min.js"></script>  
+		   
+<script type="text/javascript" >
+function date2timestamp(myDate) {
+	 myDate=myDate.split(".");
+	 return (new Date(parseInt(myDate[2], 10), parseInt(myDate[1], 10) - 1 , parseInt(myDate[0]), 10).getTime())/1000;
+};
+
+$(document).ready(function(){
+
+			$(".moreLink").click(function(){ 
+				$('.submenu').fadeSliderToggle()
+				return false; 
+				});
+	
+			$(".mobileButton").click(function(){
+				$('#mobileMenu').fadeSliderToggle()
+				return false;
+				});
+			
+			$(".language div").click(function(){
+			    $(".language ul").fadeSliderToggle();
+			    return false;
+			});
+
+            $(".analiticMobile > li").click(function(){
+                $(this).next().fadeSliderToggle()
+                return false;
+            });
+            
+            $(window).scroll(function () {
+                $(".language ul").hide();
+                $("#mobileMenu").hide();
+                $(".analiticMobile ul").hide();
+            });
+			
+			$("ul.language li ul li").click(function(){
+				window.location.href = $('a', this).attr('href');
+			});
+
+			$("ul.leftMenu").html( $("ul.leftMenu:first").html() ); // set menu content for all items 
+			$("ul.footerCarte").html( $("ul.greyMenu:first").html() ); // .. and for footer
+			$("ul.NewMenu").html( $("ul.MainMenu:first").html() ); // set menu content 
+			$("div.footerMenu div ul:first").html( $("ul.leftMenu:first").html() ); // footer: rubrics
+			$(".siteMenu form").html(  $(".siteMenu form:first").html() ); // дублирование для мобильных
+			$("div#mobileMenu div.leftMenuBody .greyMenu").html(  $("div.submenu .greyMenu").html() ); // меню для мобильных
+
+			/* extended search */
+			 $('#leftMenu form div a').click(function(){
+                 $(".extendedLink").trigger('click');
+                 var str = $('#leftMenu form input[type="text"]').val();
+                 $('#extendedSearchField').val(str);
+             });
+             $('#mobileMenu form div a').click(function(){
+                 $(".extendedLink").trigger('click');
+                 var str = $('#mobileMenu form input[type="text"]').val();
+                 $('#extendedSearchField').val(str);
+             });
+             $('.extendedLink').tosrus({
+                 slides:{ load: 'visible'},
+                 buttons: false,
+                 drag: false
+             });
+
+             $('.rubrics select').selectbox();
+             $('select.styled').selectbox();
+             
+             $(".extendedAncor").click(function(){
+                 $(this).toggleClass('searchClose');
+                 $(this).next().fadeSliderToggle()
+                 return false;
+             });
+
+							
+				$.datepicker.regional['uk'] = {
+						closeText: 'Закрити',
+						prevText: '&#x3C;',
+						nextText: '&#x3E;',
+						currentText: 'Сьогодні',
+						monthNames: ['Січень','Лютий','Березень','Квітень','Травень','Червень',
+						'Липень','Серпень','Вересень','Жовтень','Листопад','Грудень'],
+						monthNamesShort: ['Січ','Лют','Бер','Кві','Тра','Чер',
+						'Лип','Сер','Вер','Жов','Лис','Гру'],
+						dayNames: ['неділя','понеділок','вівторок','середа','четвер','п’ятниця','субота'],
+						dayNamesShort: ['нед','пнд','вів','срд','чтв','птн','сбт'],
+						dayNamesMin: ['Нд','Пн','Вт','Ср','Чт','Пт','Сб'],
+						weekHeader: 'Тиж',
+						dateFormat: 'dd.mm.yy',
+						firstDay: 1,
+						isRTL: false,
+						showMonthAfterYear: false,
+						yearSuffix: ''};
+					             
+  			$("#search_dp_from").datepicker({
+				dateFormat: "dd.mm.yy",
+				minDate: "-5Y", 
+				maxDate: "0",
+				defaultDate: "-1m",
+				changeMonth: true,
+				numberOfMonths: 2,
+				onClose: function( selectedDate ) {
+         	        $( "#search_dp_to" ).datepicker( "option", "minDate", selectedDate );
+         	      }
+         	    });
+			$( "#search_dp_to" ).datepicker({
+				//regional: "ru",
+				minDate: "-5Y", 
+				maxDate: "0",
+				dateFormat: "dd.mm.yy",
+				defaultDate: "0",
+				changeMonth: true,
+				numberOfMonths: 2,
+				onClose: function( selectedDate ) {
+         	        $("#search_dp_from").datepicker( "option", "maxDate", selectedDate );
+         	      }
+         	    });
+			
+
+			$.datepicker.setDefaults( $.datepicker.regional[ "uk" ] );
+
+			$('form[name=extended_search]').submit(function() {
+				$('#search_date_beg').val( date2timestamp( $('#search_dp_from').val() ) );
+				$('#search_date_end').val( date2timestamp( $('#search_dp_to').val() ) );
+				});
+
+			  
+             /* extended search */
+
+
+
+				// social buttons for blogs/interviews/infographics
+				setTimeout(function() { 
+				
+					// counter values
+					var i=1;
+					$('#ya_share span.b-share-btn__wrap span:nth-child(even)').each(function(){ 
+			 			$('#sharedFixed ul li:nth-child('+i+') div').html(  parseInt( $(this).html()) );
+						i++;  
+					}) ;
+
+					// link values
+					var i=1;
+					$('#ya_share span.b-share-btn__wrap a').each(function(){ 
+						var $socialSource = $( this );
+						$('#sharedFixed ul li:nth-child('+i+') a').attr( 'href', $socialSource.attr('href') );
+						i++;
+						}) ;
+				
+					i=null;
+
+					// дублирование контента для нижнего блока
+					$('#sharedFixedDouble').html( $('#sharedFixed').html() ); 
+
+					// анимация
+					    $("#sharedFixed").animate({
+					        opacity: '1',
+					    });
+				    
+				}, 6000);
+					
+             
+				
+
+		})
+		
+		</script>
+<script type="text/javascript">
+$(document).ready(function(){
+    var is_mobile = false;
+    if( $('#some-element').css('display')=='none') {
+        is_mobile = true;
+    }
+
+    /*
+    var slider = $('.sliderMenu ul').bxSlider({
+        infiniteLoop: false,
+        hideControlOnEnd: true,
+        pager: false,
+        touchEnabled: !is_mobile
+    });
+	*/
+	
+    var slider3 = $('.pressTabs ul').bxSlider({
+        pagerCustom: '.bxPager',
+        controls: true,
+        maxSlides: 1,
+        minSlides: 1,
+        moveSlides: 1,
+        // video: true,
+        onSlideBefore: function(){ // action on change slide
+        	stopVideo(); // stop all playing video
+          },
+        touchEnabled: !is_mobile
+    });
+   
+    var slider2 = $('.pressAnons ul').bxSlider({
+        infiniteLoop: false,
+        hideControlOnEnd: true,
+        pager: false,
+        touchEnabled: !is_mobile
+    });
+    
+    $('.projects ul').bxSlider({
+        controls: false,
+        maxSlides: 1,
+        touchEnabled: true
+    });
+
+    $('.sliderButton').click(function(e){
+        e.preventDefault();
+    });
+
+    $('.sliderBack').click(function(e){
+        e.preventDefault();
+    });
+
+});
+
+
+$(window).bind("load resize",function() {
+    $('#mobileMenu').each(function(){
+        if($(this).css("position") == "static") {
+            $(this).css({height: $(window).height() - 45});
+        }
+    });
+
+    $('.infoBlock').each(function(){
+        if($(this).css("width") == "290px") {
+            $(".sliderButton").trigger('click');
+        } else {
+            $(".sliderBack").trigger('click');
+        }
+    });
+});
+</script>
+
+
+<style type="text/css">
+	.sliderMenu {display:block;}
+</style>
+        
+
+<!-- banner place #common_main_ukr  start -->
+
+<!-- код баннеров на морде -->
+  
+<!-- banner place #common_main_ukr end -->        
+</body>
+</html>

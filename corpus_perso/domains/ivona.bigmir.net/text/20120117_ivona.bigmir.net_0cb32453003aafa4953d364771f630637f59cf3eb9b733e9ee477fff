@@ -1,0 +1,1810 @@
+<!doctype html>
+<!--[if lt IE 8]>      <html class="lt-ie10 lt-ie9 lt-ie8" id="no-js" lang="ru"> <![endif]-->
+<!--[if IE 8]>         <html class="lt-ie10 lt-ie9"        id="no-js" lang="ru"> <![endif]-->
+<!--[if IE 9]>         <html class="lt-ie10"               id="no-js" lang="ru"> <![endif]-->
+<!--[if gt IE 9]><!--> <html                               id="no-js" lang="ru"> <!--<![endif]-->
+<head>
+<script>
+        function deviceType() {
+            var ua = navigator.userAgent.toLowerCase();
+            var isAndroid = /(android)/g.test(ua);
+            var isApple = /(ipad|iphone|ipod)/g.test(ua);
+            var isWp = /(phone)/g.test(ua);
+            var isMobile = isAndroid || isApple || isWp;
+            var screenSize = window.screen.width; //(window.screen.height > window.screen.width)?window.screen.height:window.screen.width;
+            var androidTablet =  isAndroid && (!/(mobile)/g.test(ua) || screenSize > 1000);
+            var iPad = /(ipad)/g.test(ua);
+            if (androidTablet || iPad) return 'tablet';
+            else if (isApple && !iPad || isAndroid && !androidTablet || isWp) return 'mobile';
+            else return 'desktop';
+        }
+        var device = deviceType();
+        var matches = document.cookie.match(new RegExp("(?:^|; )" + 'nomobile'.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+        if (device == 'mobile' && !/\/\/m\./.test(document.location.href) && (!matches || matches[1] != '1')) document.location.href=document.location.href.replace(/\/\//, '//m.');
+    </script>
+<script>document.documentElement.id = 'js';</script>
+
+        
+
+
+				                
+
+
+                                        
+	<link rel="canonical" href="//ivona.bigmir.net/psihologia/relate/sex/324392-Seks-po-ljubvi-polezen-dlja-zdorov-ja"/>
+
+    <link rel="alternate" media="only screen and (max-width: 1000px)" href="http://m.ivona.bigmir.net/psihologia/relate/sex/324392-Seks-po-ljubvi-polezen-dlja-zdorov-ja" >
+
+                            <title>Секс по любви полезен для здоровья - Секс - все о сексе, сексуальные отношения мужчины и женщины - Секс - IVONA - bigmir)net - IVONA</title>
+    
+<meta name="google-site-verification" content="4fwLM9je1HGcMNAxWkTsO9NIcbvFlDrTNbSQFMpVxzc" />
+<meta name='yandex-verification' content='4e05111b9f122dc9' />
+
+    
+<meta name="description" content="К такому выводы пришли американские ученые. Оказывается,  что интимная близость с любимым человеком положительно влияет на физическое и психологическое состояние человека" />
+
+<meta name="keywords" content="секс по любви, польза от секса"/>
+ 
+<meta name="news_keywords" content="секс по любви, польза от секса" />
+<meta name="Author" content="bigmir)net" />
+<meta property="fb:app_id" content="194342087279729"/>
+<meta property="fb:admins" content="100000254195287"/>
+<meta property="og:title" content="Секс по любви полезен для здоровья"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://ivona.bigmir.net/psihologia/relate/sex/324392-Seks-po-ljubvi-polezen-dlja-zdorov-ja"/>
+
+
+
+
+	<meta property="og:image" content="http://v.img.com.ua/nxs94/b/600x500/6/3c/2ce65cf16fafe84522906aa27c4863c6.jpg"/>
+    <link rel="image_src" href="http://v.img.com.ua/nxs94/b/600x500/6/3c/2ce65cf16fafe84522906aa27c4863c6.jpg" />
+
+
+<meta property="og:site_name" content="Ivona"/>
+
+
+<meta charset="windows-1251" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<link href="//bm.img.com.ua/a/berlin/project/ivona/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+<script>
+	var BM_MAIN_DOMAIN = '.bigmir.net';
+	var HOST = 'ivona.bigmir.net';
+	var USER_ID = 0;
+	var SITE_ID = 57;
+	var PAGE_ID = 324392;
+	var BM_IMG_SERVER = '//bm.img.com.ua/';
+	var BM_IMG_STORAGE = '//v.img.com.ua/b/';
+	if (parent && parent != window && !parent.bm_forever) parent.location.href = window.location.href;
+	
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1436448313/a/common/js/holder.js"></script>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1425394980/a/berlin/common/plugins/voter/voter.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1447082316/a/berlin/common/plugins/gallery2/gallery_lightbox.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1367247423/a/berlin/common/plugins/comment/comment.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1415362394/a/berlin/common/css/plugins/comment.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1335346295/a/berlin_lux/common/plugins/fancybox2/jquery.fancybox.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1328712099/a/berlin/common/plugins/jqmodal/jqmodal.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1396429505/a/cdn/css/normalize.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1435154778/a/berlin/common/css/fw_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1272007644/a/berlin/common/css/plugins/b-popup_beta.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1427118512/a/berlin/project/ivona/main_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1447083457/a/berlin/common/css/v4_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1432625200/a/berlin/common/plugins/article/article_tmp.css"/>
+<link rel="stylesheet" title="screen style" type="text/css" href="//bm.img.com.ua/vrsn1444146991/a/berlin/project/ivona/project_tmp.css"/>
+
+
+                        <script type="text/javascript">$().ready(function(){ $.get('?_ctr=ratepage&id=324392&r'+Math.random()); });</script>
+            
+
+
+
+
+<script>
+
+            var holderKeyword = (typeof(holderKeyword) != "undefined" ? holderKeyword+',' : "") + "nofamily";
+    
+</script>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<meta name="google-translate-customization" content="65807ca731073584-fd04a3c280dcb9dd-ga4266b77f745c687-f"></meta>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-555STV"
+                           height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-555STV');</script>
+<!-- End Google Tag Manager -->
+
+
+
+</head>
+
+<body data-bmm-project="ivona">
+
+    <script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+        var pp_gemius_identifier = 'p8XlnPr45Qo.xhw1UPw0KOVD76bdVlrzdKKahEz0Y7f.M7';
+        function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+        gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+        (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+        gt.setAttribute('defer','defer'); gt.src=l+'://kpmediagaua.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+        //--><!]]>
+    </script>
+
+<!--[if lt IE 8]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload', function() { CFInstall.check({ mode:'overlay'})})</script>
+<![endif]-->
+
+<div id="fb-root"></div>
+<div id="vk_api_transport"></div>
+
+
+
+
+
+
+    <section class="l-container l-container_upper" data-bmm="upper-header">
+        <div class="b-upper">
+                                
+                            
+        <div data-el="upper_panel_cnt"></div>
+
+        <script>
+
+            $(function(){
+
+                bmLoadUpperPanel();
+                setInterval(bmLoadUpperPanel, 1000*60*5);
+
+                function bmLoadUpperPanel() {
+
+                    $.ajax({
+                        type: "GET",
+                        url: '//ivona.bigmir.net/?_tpl=upper_panel&upperPanelVersion=old&mode=&target=&ajax=1&r='+Math.random(),
+                        xhrFields: {
+                            withCredentials: true
+                        },
+                        crossDomain: true,
+                        success : function(data) {
+                            $('[data-el="upper_panel_cnt"]').html(data);
+                            $('[data-el="username"]').on('click.upperpanel', function() {
+                                $('[data-el="services_btn"]').click();
+                            });
+                            $('[data-el="login-trigger"]').on('click', function() {
+                                login_show();
+                                return false;
+                            });
+                            $('[data-el="services_btn"]').one('click', (function() {
+                                $('[data-el="servicesTop"]')
+                                        .append($('[data-el="services"]').clone(true).html())
+                                        .find('.b-services__list-item').detach().end()
+                                        .find('.b-services__part:last').detach();
+                                var items_per_column = 6;
+                                var $curr_col = $('[data-el="servicesTop"] .b-services__part').first();
+                                $('[data-el="services"] .b-services__list-item').each(function(i, el) {
+                                    //$curr_col.find('ul').append($(el).clone(true));
+                                    $curr_col.find('ul').append($(el).clone(true).children('a').attr('href', $(el).clone(true).children('a').attr('href').replace('mport_on_bm_footer', 'mport_on_all_service')).parent());
+                                    if (i % items_per_column == items_per_column-1) $curr_col = $curr_col.next();
+                                });
+                            })).click(function(e) {
+                                $('[data-el="upper_panel"]').slideUp('fast');
+                                $('[data-el="upper_panel_details"]').slideDown('fast');
+                                $('body').on('mouseup.upperpanel', function(el) {
+                                    $('[data-el="upper_panel"]').slideDown('fast');
+                                    $('[data-el="upper_panel_details"]').slideUp('fast');
+                                    $('body').off('mouseup.upperpanel');
+                                });
+                                return false;
+                            });
+                            var $bms = $('[data-el="upper_panel"]').data('bms');
+                            var $bmps = $('[data-el="upper_panel"]').data('bmps');
+                            var bms = $.cookie('BMS');
+                            var bmps = $.cookie('BMPS');
+                            if ( (document.location.host == 'mport.ua' || document.location.host == 'sport.bigmir.net.oll.tv') &&  $bms!='' && $bms!='undefined' && $bms != undefined && bms != $bms) {
+                                $.cookie('BMS', $bms, { expires: 1, path: '/' });
+                                console.log('need reload!');
+                                //document.location.reload();
+                            }
+
+                            if ( (document.location.host == 'mport.ua' || document.location.host == 'sport.bigmir.net.oll.tv') && $bmps!='' && $bmps!='undefined' && $bmps != undefined && bmps != $bmps) {
+                                $.cookie('BMPS', $bmps, { expires: 1, path: '/' });
+                            }
+
+                            if (bms == 'undefined' || bms == '') $.cookie('BMS', null);
+                            if (bmps == 'undefined' || bmps == '') $.cookie('BMPS', null);
+                        }
+                    });
+                }
+
+            });
+        </script>
+
+    
+                    </div>
+    </section>
+
+
+<div class="l-container l-container_main" id="container_main">
+
+    
+        
+    
+
+    
+        <div class="b-banner-container">
+            
+
+
+    
+    
+            <div class="b-banner_top" id="banner_top">
+                <center>
+                    <div id="banner_top_ph" class="top_banner" style="min-height: 90px; height: auto !important; height: 90px">
+                        <script>
+                                new holder("banner_top_ph", {"block":5459,"keyword":typeof(holderKeyword) != "undefined" ? holderKeyword : ""} );
+                        </script>
+                    </div>
+                </center>
+        </div>
+    
+        </div>
+    
+
+    
+
+        <div class="l-wrapper g-clearfix" id="g-page_outline">
+
+            
+                
+
+    <div class="l-header" data-bmm="header">
+        <header class="b-metro-header">
+            <div class="b-metro-header-inner g-clearfix">
+                <a class="b-metro-logo" href="/" data-bmm="logo"></a>
+                <div class="b-metro-header__main">
+
+                                            
+
+
+    <nav class="b-metro-hot-themes" data-bmm="trending">
+        <ul class="b-metro-hot-themes__list">
+                                                <li class="b-metro-hot-themes__list-item">
+                                                    <a class="b-metro-hot-themes__list-item__title" href="http://ivona.bigmir.net/health/consultation?trending_id=1003&trending_id=1049" title="Онлайн-консультации врачей" onclick="GATracker.track('ivona', 'Онлайн-консультации врачей', 'Горячие темы');" data-trending="1049">Онлайн-консультации врачей</a>
+                                            </li>
+                                    </ul>
+    </nav>
+
+
+                        <a href="/" class="b-metro-sitename">Женский портал</a>
+                    
+                    
+                    
+                    <div class="b-metro-header-search">
+                        <div class="b-metro-header-search-inner"><form action="/search" method="get"><input class="b-metro-header-search__input" type="text" name="s" autocomplete="off" placeholder="Найти в разделе" onfocus="$(this).closest('.b-metro-header-search').addClass('b-metro-header-search_active');" /><input class="b-metro-header-search__submit" type="submit" value="Искать" /></form></div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <nav class="b-metro-menu">
+                                                                                            
+            <ul class="b-metro-menu__list">
+                                                                                                                                                        
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_87">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/showbiz">Шоу-Biz</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_1982">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/beauty">Мода и Красота</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_1987">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/health">Здоровье</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                b-metro-menu__list-item_active                                                                                                mid_91">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/relate">Он и Она</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_1966">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/pregnancy">Беременность</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_93">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/deti">Дети</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_96">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/cooking">Кулинария</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_1988">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/house">Дом</a>
+                                                    </li>
+
+                                                                                                                                                                            
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_330147">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/lifestyle">Стиль жизни</a>
+                                                    </li>
+
+                                                                                                
+                        <li class="b-metro-menu__list-item
+                                                                                                                                mid_300049">
+
+                            
+                                                        <a class="b-metro-menu__list-item__title" href="http://ivona.bigmir.net/horo">Гороскопы</a>
+                                                    </li>
+
+                                                                                                                                                                                                                                                                        
+                            </ul>
+
+            
+                <ul class="b-metro-submenu__list"><li class="b-metro-submenu__list-item"><a class="b-metro-submenu__list-item__title" href="http://ivona.bigmir.net/psihologia/relate/relationship">Отношения</a></li><li class="b-metro-submenu__list-item"><a class="b-metro-submenu__list-item__title" href="http://ivona.bigmir.net/psihologia/relate/wedding">Свадьба</a></li><li class="b-metro-submenu__list-item b-metro-submenu__list-item_active"><a class="b-metro-submenu__list-item__title" href="http://ivona.bigmir.net/psihologia/relate/sex">Секс</a></li><li class="b-metro-submenu__list-item"><a class="b-metro-submenu__list-item__title" href="http://ivona.bigmir.net/psihologia/relate/family">Семья</a></li></ul>
+                    </nav>
+    </div>
+
+
+
+            
+
+            
+                                    
+                            
+
+            
+                                    
+    
+            
+                    <div class="b-metro-trendings" data-bmm="trending"><div class="b-metro-trendings__header">Тренды:</div><ul class="b-metro-trendings__list"><li class="b-metro-trendings__list-item"><a class="b-metro-trendings__list-item__title" href="http://ivona.bigmir.net/itogi2015?trending_id=1141" title="Итоги 2015 года" onclick="GATracker.track('ivona', 'Итоги 2015 года', 'цНПЪВХЕ РЕЛШ');" data-trending="1141">Итоги 2015 года</a></li><li class="b-metro-trendings__list-item"><a class="b-metro-trendings__list-item__title" href="http://ivona.bigmir.net/health/consultation?trending_id=1003" title="Онлайн-консультации врачей" onclick="GATracker.track('ivona', 'Онлайн-консультации врачей', 'цНПЪВХЕ РЕЛШ');" data-trending="1003">Онлайн-консультации врачей</a></li><li class="b-metro-trendings__list-item"><a class="b-metro-trendings__list-item__title" href="http://ivona.bigmir.net/Kak_pohudet_k_letu_Sekrety_strojnoj_figury?trending_id=1059" title="Секреты стройной фигуры" onclick="GATracker.track('ivona', 'Секреты стройной фигуры', 'цНПЪВХЕ РЕЛШ');" data-trending="1059">Секреты стройной фигуры</a></li></ul></div>
+            
+                            
+
+            
+                                    
+                            
+
+            
+ 	<div class="l-page g-clearfix" id="page_main_block">
+		         <div class="l-col_all g-clearfix">
+            
+
+                            
+
+            
+            
+            
+                    
+                
+ 
+
+    <script>
+        $().ready(function(){
+            $('blockquote[data-img]').each(function (index, el) {
+                $e = $(el);
+                $e.wrap('<div></div>').parent().load('?_tpl=quotation',
+                        {
+                            _tpl:'quotation',
+                            img:$e.attr('data-img'),
+                            name:$e.attr('data-name'),
+                            position:$e.attr('data-position'),
+                            text:$e.html()
+                        }
+                );
+            });
+        });
+    </script>
+
+
+    
+ 
+
+	<script>
+		$().ready(function(){
+			$('img[data-b="beforeAfterSlidebar"]').each(function (index, el) {
+				$e = $(el);
+				var id = 'beforeafter' + Math.floor(Math.random()*99999);
+				var img1 = $e.data('img1');
+				var img2 = $e.data('img2');
+				var caption = $e.data('caption');
+				var size = $e.data('size');
+				var html = '<div class="b-before-after" data-b="beforeAfterSlidebar">' +
+						'<div class="b-before-after-section">' +
+						'<div class="b-before-after-slide1" data-el="topImage">' +
+						'<img class="b-before-after__image" style="width: 620px;" src="' + img1.replace('80x60',
+								size) + '" ' +
+						'alt=""/></div>' +
+						'<div class="b-before-after-slide2">' +
+						'<img class="b-before-after__image" style="width: 620px;" src="' + img2.replace('80x60',
+								size) + '" alt=""/></div>' +
+						'<div class="b-before-after-slider" data-el="sliderButton"></div>' +
+						'</div>' +
+						'<div class="b-before-after-caption">' +
+						'<span class="b-before-after-caption__info">'+caption+'</span></div></div>';
+
+				$e.wrap('<div id="'+id+'"></div>').parent().html(html);
+				$('body').on('mousemove', '#'+id+'>div', function(e) {
+					var offset = $(this).offset();
+					var iTopWidth = (e.pageX - offset.left);
+					$(this).find('[data-el="topImage"]').width(iTopWidth);
+					$(this).find('[data-el="sliderButton"]').css('left', iTopWidth);
+				});
+			});
+
+		});
+	</script>
+
+
+
+    
+
+
+
+
+
+
+
+            <div class="l-bigcol" data-bmm="lcol">
+
+                
+
+	
+	
+
+    
+    
+        <div class="b-article b-article_oldstyle _page_with_content">
+
+		
+
+<script type="text/javascript">
+	$().ready(function(){
+		
+		$('.b-voter ._byes, .b-voter ._bno').on('click', function(e) {
+			if ($(this).hasClass('voted'))
+				return false;
+			var n = '';
+			var ryn = $(this).find('span:last');
+			var voter = $(this).parents('.b-voter');
+			if (voter.data('name') != '' && typeof voter.data('name') != 'undefined') {
+				n = voter.data('name') + '';
+				n = n.replace(/nxs(\d+)\//, '');
+			}
+			$.ajax({
+				url: '',
+				type: 'GET',
+				dataType: 'json',
+				timeOut: 1000,
+				data: {
+					'_ctr': 'voteNew',
+					'action': 'vote',
+					'ajax': 1,
+					'variant': $(this).attr('variant'),
+					'id': 324392,
+					'name': n,
+									},
+				success: function (xml) {
+					voter.find('._voted').show();
+//                        voter.find('._ryes, ._rno').show();
+					ryn.text(ryn.text()*1+1);
+					voter.find('._byes').addClass('voted');
+					voter.find('._bno').addClass('voted');
+				}
+			});
+			return false;
+		});
+		
+		$('.b-voter').on('reload', function(e) {
+			var n = '';
+			var voter = $(this);
+			if (voter.data('name') != '' && typeof voter.data('name') != 'undefined') {
+				n = voter.data('name') + '';
+				n = n.replace(/nxs(\d+)\//, '');
+			}
+			$('._voted').hide();
+			$.ajax({
+				url: '',
+				type: 'GET',
+				dataType: 'json',
+				timeOut: 1000,
+				data: {
+					'_ctr': 'voteNew',
+					'action': 'getVoteData',
+					'ajax': 1,
+					'id': 324392,
+					'name': n,
+														},
+				success: function (xml) {
+					if (xml.canVote != undefined && xml.canVote == 0) {
+						voter.find('._byes').addClass('voted');
+						voter.find('._bno').addClass('voted');
+						voter.find('._ryes, ._rno').show();
+					}
+					else {
+						voter.find('._byes, ._bno').removeClass('voted');
+//                        	voter.find('._ryes, ._rno').hide();
+					}
+//                        $('#kpid').text($('._bigImage').attr('kpid'));
+					voter.find('._ryes').text(xml.rate_plus);
+					voter.find('._rno').text(xml.rate_minus);
+					voter.show();
+				}
+			});
+		});
+		$('.b-voter').trigger('reload');
+	});
+</script>
+
+
+		
+
+
+
+
+        <article class="b-article__body" data-bmm="articlebody">
+                                                    
+            
+                <h1 class="b-article__title">Секс по любви полезен для здоровья</h1>
+
+                
+
+<script>
+    $(function(){
+        // themes events
+            });
+</script>
+
+
+
+
+                
+			
+
+            
+                
+
+<div class="b-social-share g-media__medium_visible" data-el="socialLeft">
+	<div class="b-social-share__list">
+		<a class="b-social-share__list-item b-social-share__list-item_vk" href="http://s.bigmir.net/share/?s=vkontakte&text=%D1%E5%EA%F1+%EF%EE+%EB%FE%E1%E2%E8+%EF%EE%EB%E5%E7%E5%ED+%E4%EB%FF+%E7%E4%EE%F0%EE%E2%FC%FF" target="_blank" rel="nofollow" title="Разместить ссылку в Vkontakte"></a>
+		<a class="b-social-share__list-item b-social-share__list-item_fb" href="http://s.bigmir.net/share/?s=facebook&text=%D1%E5%EA%F1+%EF%EE+%EB%FE%E1%E2%E8+%EF%EE%EB%E5%E7%E5%ED+%E4%EB%FF+%E7%E4%EE%F0%EE%E2%FC%FF" target="_blank" rel="nofollow" title="Разместить ссылку в Facebook"></a>
+		<a class="b-social-share__list-item b-social-share__list-item_tw" href="http://s.bigmir.net/share/?s=twitter&text=%D1%E5%EA%F1+%EF%EE+%EB%FE%E1%E2%E8+%EF%EE%EB%E5%E7%E5%ED+%E4%EB%FF+%E7%E4%EE%F0%EE%E2%FC%FF" target="_blank" rel="nofollow" title="Разместить ссылку в Twitter"></a>
+		<a class="b-social-share__list-item b-social-share__list-item_gplus" href="http://s.bigmir.net/share/?s=googleplus&text=%D1%E5%EA%F1+%EF%EE+%EB%FE%E1%E2%E8+%EF%EE%EB%E5%E7%E5%ED+%E4%EB%FF+%E7%E4%EE%F0%EE%E2%FC%FF" target="_blank" rel="nofollow" title="Разместить ссылку в Google Plus"></a>
+	</div>
+</div>
+
+<script>
+	$().ready(function(){
+		// init floating left social plugin
+		$(function() {
+			var $el = $('[data-el="socialLeft"]');
+			var offset = $el.offset();
+			var topPadding = 30; // equal to height of upper panel block
+			$(window).scroll(function() {
+//				var parentH = $el.parent().height();
+
+				if ($(window).scrollTop() > offset.top - topPadding) {
+					$el.addClass('is-fixed').css({
+						'left': offset.left
+					});
+
+					/*                if (parentH > $(window).scrollTop() - offset.top + topPadding) {
+					 $el.stop().animate({ marginTop: $(window).scrollTop() - offset.top + topPadding });
+					 } else {
+					 $el.stop().animate({ marginTop: parentH + topPadding });
+					 }*/
+				}
+				else {
+					$el.removeClass('is-fixed').css({
+						'left': 'auto'
+					});
+
+//                $el.stop().animate({ marginTop: 0 });
+				};
+			});
+		});
+	});
+</script>
+            
+
+			
+                                    <div class="b-article-metadata">
+                        <time class="b-article-metadata__element b-article-metadata__element_datetime">17&nbsp;января&nbsp'12&nbsp;15:02</time><a href="#comments" class="b-article-metadata__element b-article-metadata__element_comments">Комментариев: 0</a>
+
+
+                    </div>
+                
+			
+
+			
+                                                                                        <div class="b-article__description">К такому выводы пришли американские ученые. Оказывается,  что интимная близость с любимым человеком положительно влияет на физическое и психологическое состояние человека.</div>
+                
+                
+                                                                                                                                                                    
+                    
+                    
+                                                                                    <div class="b-article-figure-container" data-b="figure">
+                                    <figure class="b-article-figure b-article-figure_large">
+                                        <div class="b-article-figure__image-outer">
+                                                <img class="b-article-figure__image" src="http://v.img.com.ua/nxs94/b/600x500/6/3c/2ce65cf16fafe84522906aa27c4863c6.jpg" alt="Секс по любви является отличным антидепрессантом" data-el="image" />
+                                        </div>
+                                                                                    <div class="b-article-figure__data" data-el="data">
+                                                <figcaption class="b-article-figure__caption" data-el="caption">Секс по любви является отличным антидепрессантом</figcaption>
+                                                <span class="b-article-figure__source" data-el="source">shuttertock</span>                                            </div>
+                                                                            </figure>
+                                </div>
+                                                                        
+                    <script>
+                        $(function() {
+                            $('#article_slider').data('images', [
+                                                                    { 'src' : '//v.img.com.ua/b/300x200/6/3c/2ce65cf16fafe84522906aa27c4863c6.jpg', 'text' : 'Секс по любви является отличным антидепрессантом', 'source' : 'shuttertock' }                                                            ]);
+                            $('#article_slider').data('image_max', 1);
+                        });
+                    </script>
+                
+
+                <div class="b-article__text _articleContent">
+                    <p>
+	Ученым из университета Огайо удалось доказать что секс по любви может иметь целебные свойства.<br />
+	Интимная близость с любимым человеком не только превращает сексуальный процесс в нечто особенное и незабываемое, но и&nbsp; укрепляет наше здоровье.</p>
+<p>
+	<strong>Читай также:<a accesskey="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" charset="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" class="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" href="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" id="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" lang="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" name="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" rel="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" style="/psihologia/relate/sex/324164-pochemu-muzhchiny-soglasny-platit--za-seks;" tabindex="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" title="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks" type="/psihologia/relate/sex/324164-Pochemu-muzhchiny-soglasny-platit--za-seks">&nbsp;Почему мужчины согласны платить за секс</a></strong><br />
+	<br />
+	Во время занятий сексом у людей происходит выброс различных гормонов в кровь. А если партнеры испытывают друг к другу нежные чувства, у них также происходит выброс допамина, который выводит из организма холестерин и оказывает благоприятное влияние психику.</p>
+<p>
+	Если же рассматривать секс только как физиологический процесс, когда человек слепо следует инстинктам, в организме вырабатываются вещества, которые способствуют накоплению жиров.</p>
+<p>
+	<strong>Читай также:&nbsp;<a accesskey="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" charset="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" class="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" href="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" id="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" lang="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" name="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" rel="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" style="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa;" tabindex="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" title="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa" type="/psihologia/relate/sex/324068-7-strashnyh-vragov-seksa">7 страшных врагов секса</a></strong><br />
+	<br />
+	Ученые уверены, что секс по любви является отличным антидепрессантом, а также замедляет старение организма, является незаменимым средством от сердечнососудистых заболеваний и замечательной профилактикой простуды. &nbsp;</p>
+<p>
+	<strong>Читай также:<a accesskey="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" charset="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" class="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" href="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" id="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" lang="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" name="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" rel="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" style="/psihologia/relate/sex/323697-poza-69--za-i-protiv;" tabindex="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" title="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv" type="/psihologia/relate/sex/323697-Poza-69--Za-i-protiv">&nbsp;Поза 69: За и против</a></strong></p>
+
+                    
+
+	                </div>
+                
+
+                
+                			
+
+            			
+            
+
+            <div class="b-article__footer g-clearfix">
+
+                <!-- share:4 -->
+
+
+
+
+
+    <div id="sharing-bottom" class="b-share">
+        <div class="b-share-column"><span class="b-share__text">Поделись:</span><a class="b-share__icon b-share__icon_vk"data-soc-type="vkontakte"data-soc-title="%D1%E5%EA%F1+%EF%EE+%EB%FE%E1%E2%E8+%EF%EE%EB%E5%E7%E5%ED+%E4%EB%FF+%E7%E4%EE%F0%EE%E2%FC%FF"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в Vkontakte"></a><a class="b-share__icon b-share__icon_fb"data-soc-type="facebook"data-soc-title="Секс по любви полезен для здоровья"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в Facebook" ></a><a class="b-share__icon b-share__icon_tw"data-soc-type="twitter"data-soc-title="%D1%E5%EA%F1+%EF%EE+%EB%FE%E1%E2%E8+%EF%EE%EB%E5%E7%E5%ED+%E4%EB%FF+%E7%E4%EE%F0%EE%E2%FC%FF"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в Twitter"></a><a class="b-share__icon b-share__icon_gplus"data-soc-type="googleplus"href="javascript:;" target="_blank" rel="nofollow" title="Разместить ссылку в GooglePlus"></a><a class="b-share__icon b-share__icon_print" href="?_tplmode=print" target="_blank" rel="nofollow" title="Печать"></a><a class="b-share__icon b-share__icon_mail" hashonly="1" href="mailto:?subject=Seks%20po%20lubvi%20polezen%20dlya%20zdorovya&body=http://ivona.bigmir.net/psihologia/relate/sex/324392-Seks-po-ljubvi-polezen-dlja-zdorov-ja" rel="nofollow" title="Отправить другу"></a></div>    </div>
+
+    <script>
+        $('#sharing-bottom a[data-soc-type]').click(function(){
+            if ($(this).attr('data-soc-type') == 'facebook') GShare.handle(this);
+            else {
+                var elem = this;
+                var params = [];
+                var host = 'http://s.bigmir.net/share/';
+                for (var i = 0; i < elem.attributes.length; i++) {
+                    switch (elem.attributes[i].name) {
+                        case 'data-soc-title':
+                            params.push('text=' + elem.attributes[i].value);
+                            break;
+                        case 'data-soc-desc':
+                            params.push('desc=' + elem.attributes[i].value);
+                            break;
+                        case 'data-soc-img':
+                            var $el_img = $(elem.attributes[i].value + ':visible');
+                            if ($el_img.length){
+                                params.push('media=' + $el_img.attr('src'));
+                            }
+                            break;
+                        case 'data-soc-type':
+                            params.push('s=' + elem.attributes[i].value);
+                            break;
+                    }
+                }
+                params.push('url=' + document.location.href);
+                var query = host + '?' + params.join('&');
+                window.open(query,'_blank');
+            }
+            return false;
+        });
+        function GlobalShare()
+        {
+
+        }
+        GlobalShare.prototype.handle = function(elem)
+        {
+            var params = new Object();
+            for (var i = 0; i < elem.attributes.length; i++) {
+                if (elem.attributes[i].name == 'data-soc-type') {
+                    var method = elem.attributes[i].value;
+                }
+                if (elem.attributes[i].name.indexOf('data-soc') > -1) {
+                    var key = elem.attributes[i].name.substring(9);
+                    var value = elem.attributes[i].value;
+                    if (elem.attributes[i].name == 'data-soc-img') {
+                        value = '';
+                        var $el_img = $(elem.attributes[i].value + ':visible');
+                        if ($el_img.length){
+                            value = $el_img.attr('src');
+                        }
+                    }
+                    if (value)
+                        params[key] = value;
+                }
+            }
+            params['url'] = encodeURIComponent(document.location.href);
+            console.log(params);
+            this[method](params);
+        }
+        GlobalShare.prototype.facebook = function(params)
+        {
+            var descSymbolLimit = 170;
+            var desc = params.desc || ($('meta[name="description"]').attr('content'));
+
+            if ( desc.length > descSymbolLimit ) {
+                desc = (desc.substring(0, descSymbolLimit)) + '...';
+            }
+
+            FB.ui({
+                method: 'feed',
+                display: 'popup',
+                name: params.title,
+                link: decodeURIComponent(params.url),
+                picture: (params.img || $('meta[property="og:image"]').attr('content')),
+                description: desc
+            });
+
+            return false;
+        }
+        var GShare = new GlobalShare();
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId: 194342087279729,
+                status: true, cookie: true, xfbml: true,
+                channelUrl  : 'http://ivona.bigmir.net/fb_cu.html'  // custom channel
+            });
+        };
+
+        
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/ru_RU/all.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        
+    </script>
+<!--end b-share -->
+
+                                                                            <div class="b-article__tags">
+                        <span class="b-article__tags-title">Теги:</span> <a class="b-article__tags-item" href="/tag/секс+по+любви">секс по любви</a>, <a class="b-article__tags-item" href="/tag/польза+от+секса">польза от секса</a>                    </div>
+                
+                <div class="b-follow g-clearfix">
+
+                
+                                    
+    
+    <div class="b-follow__header-outer">
+        <div class="b-follow__header">Не пропусти другие интересные статьи, подпишись:</div>
+    </div>
+
+    <ul class="b-follow__list">
+        <li class="b-follow__list-item"><div class="b-follow__list-item__title-outer"><a href="https://www.facebook.com/Ivona.bigmir.net" class="b-follow__list-item__title" target="_blank">Ivona в facebook</a></div><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.0";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-like" data-href="https://www.facebook.com/Ivona.bigmir.net" data-layout="standard" data-action="like" data-show-faces="true" data-share="false" data-width="310"></div></li><li class="b-follow__list-item"><div class="b-follow__list-item__title-outer"><a href="https://vk.com/ivona_bigmir_net" class="b-follow__list-item__title" target="_blank">Ivona ВКонтакте</a></div><style>#vk_subscribe iframe {height: 55px;}</style><script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script><!-- VK Widget --><div id="vk_subscribe"></div><script type="text/javascript">VK.Widgets.Subscribe("vk_subscribe", {height: 55}, -26278004);</script></li>
+    </ul>
+</div>
+
+                <div class="b-article__column">
+                                            
+
+
+
+                                        <div class="b-article__footer-part b-article__footer-part_error">Если вы заметили ошибку, выделите текст и нажмите Ctrl+Enter, чтобы сообщить об этом редакции</div>
+                </div>
+
+                <div class="b-article__column">
+                                                                                                                                                                                                            <div class="b-article__footer-part b-article__footer-part_source">Источник: <a href="http://IVONA bigmir)net" rel="nofollow" class="b-article__source">IVONA bigmir)net</a></div>
+                                    </div>
+            </div>
+            
+        </article>
+
+    </div>
+
+    
+                    
+
+                
+    
+    
+                                                                                                    
+                        
+	<div class="" data-bmm="ph_above_connected"><div class="g-cl_m"></div><span data-bmm="widget_431" data-bmm-title="in-page video banner"><script type="text/javascript">
+<!--
+ 
+// ASDFGH
+// http://ivona.bigmir.net/p
+// 0
+// 3615
+
+var vhblockID=3615, date=new Date();
+document.write('<scr'+'ipt type="text/javascript" src="http://i.holder.com.ua/t/content.y'+
+(date.getFullYear()%100)+date.getMonth()+date.getDate()+'.js"></scr'+'ipt>');
+//-->
+</script></span><div class="g-cl_m"></div><div class="g-cl_m"></div><span data-bmm="widget_1417" data-bmm-title="Advark аналог контент-ролла НЕ для UA"><!-- should be visible only for non-ua -->
+<div id='advark_cr'></div>
+<script type='text/javascript'>
+    <!--
+        (function(){
+        if (!window.advark) window.advark = { id:'4579-3-1' };
+        if (!window.advark.s) window.advark.s = {};
+        window.advark.s.crElement = 'advark_cr'; // ID вашего элемента на странице (или DOM-элемент), где будет отображаться реклама
+        window.advark.s.crWidth = 640; // Ширина элемента при расхлопе
+        window.advark.s.crHeight = 360; // Высота элемента при расхлопе
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'http://s3.advarkads.com/modules/cr.js?v=' + Math.random();
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+    //-->
+</script></span><div class="g-cl_m"></div></div>
+
+    
+        <div class="g-cl"></div>
+        <div class="b-block" data-bmm="connectedarticles">
+
+            <header class="b-block__header-outer">
+                <h3 class="b-block__header">Статьи по теме</h3>
+            </header>
+
+            <div class="b-articles-connected">
+                <ul class="b-articles-connected__list"><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/330514-Seks-reshaet-vse-problemy');" class="b-articles-connected__list-item__link" href="/psihologia/relate/sex/330514-Seks-reshaet-vse-problemy"><img class="b-articles-connected__list-item__image" src="http://v.img.com.ua/nxs154/b/120x90/b/2d/6b1f17f668b3aa8e6a8764a27b3b72db.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/330514-Seks-reshaet-vse-problemy');" class="b-articles-connected__list-item__title" href="/psihologia/relate/sex/330514-Seks-reshaet-vse-problemy">Секс решает все проблемы</a><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex');" class="b-articles-connected__list-item__section" href="/psihologia/relate/sex"> Секс</a></div></div></li><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/335081-Shkola-seksa--S-kem--skol-ko-i-kak-chasto-');" class="b-articles-connected__list-item__link" href="/psihologia/relate/sex/335081-Shkola-seksa--S-kem--skol-ko-i-kak-chasto-"><img class="b-articles-connected__list-item__image" src="http://v.img.com.ua/nxs227/b/120x90/a/08/9d02575feb8f071de8a5d3964be2708a.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/335081-Shkola-seksa--S-kem--skol-ko-i-kak-chasto-');" class="b-articles-connected__list-item__title" href="/psihologia/relate/sex/335081-Shkola-seksa--S-kem--skol-ko-i-kak-chasto-">Школа секса: С кем, сколько и как часто?</a><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex');" class="b-articles-connected__list-item__section" href="/psihologia/relate/sex"> Секс</a></div></div></li><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/337752-Poleznyj-seks--I-dlja-tela--i-dlja-dushi');" class="b-articles-connected__list-item__link" href="/psihologia/relate/sex/337752-Poleznyj-seks--I-dlja-tela--i-dlja-dushi"><img class="b-articles-connected__list-item__image" src="http://v.img.com.ua/nxs139/b/120x90/a/9e/2947896ee91f5ae19606456102f189ea.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/337752-Poleznyj-seks--I-dlja-tela--i-dlja-dushi');" class="b-articles-connected__list-item__title" href="/psihologia/relate/sex/337752-Poleznyj-seks--I-dlja-tela--i-dlja-dushi">Полезный секс: И для тела, и для души</a><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex');" class="b-articles-connected__list-item__section" href="/psihologia/relate/sex"> Секс</a></div></div></li><li class="b-articles-connected__list-item"><div class="b-articles-connected__list-item-inner g-clearfix"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/316857-Seks-polezen-dlja-zhenskogo-serdca');" class="b-articles-connected__list-item__link" href="/psihologia/relate/sex/316857-Seks-polezen-dlja-zhenskogo-serdca"><img class="b-articles-connected__list-item__image" src="http://v.img.com.ua/nxs125/b/120x90/6/e2/ebcccf82a3a2dc4a6b1595bf27b69e26.jpg" alt="" /></a><div class="b-articles-connected__list-item__main"><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex/316857-Seks-polezen-dlja-zhenskogo-serdca');" class="b-articles-connected__list-item__title" href="/psihologia/relate/sex/316857-Seks-polezen-dlja-zhenskogo-serdca">Секс полезен для женского сердца</a><a onmouseup="GATracker.track('ivona', 'Он и Она Секс','psihologia/relate/sex');" class="b-articles-connected__list-item__section" href="/psihologia/relate/sex"> Секс</a></div></div></li></ul>
+            </div>
+        </div>
+
+        <div class="g-cl"></div>
+    
+	<div class="" data-bmm="ph_below_connected"><div class="g-cl_m"></div><span data-bmm="widget_679" data-bmm-title="Карусель_630*125_Ивона"><!-- System.Holder code
+site: 342 bigmir.net block: 2904 Ivona (630x270) -->
+<script type="text/javascript" src="http://h.holder.com.ua/s?b2904&tj&hwww.bigmir.net/&r81275"></script></span><div class="g-cl_m"></div><span data-bmm="widget_1283" data-bmm-title="Join женский сегмент Ivona горизонтальный"><!--  News Join -->
+
+<style>
+.join_informer_3383 * { border: none; padding: 0; margin: 0; }
+.join_informer_3383 { text-align:left; clear: both; padding: 5px;}
+.join_informer_3383 a.join_link, a.join_text {font-size: 13px; font-family: Arial; margin-bottom:10px; color:#000000;text-decoration:none; font-weight:normal;}
+.join_informer_3383 a.join_link:hover, a.join_text:hover { color:#000000;text-decoration:underline;}
+.join_informer_3383 .join_img {width: 160px; height: 160px;  margin-right: 2px; }
+</style>
+
+<div class="join_informer_3383" id="join_informer_3383"></div>
+
+<!-- Асинхронный код, 23.04.2015 -->
+<script type="text/javascript">  (function() {
+var i = document.createElement("script"); i.type = "text/javascript"; i.async = true; i.charset = "UTF-8";
+i.src = "http://partner.join.com.ua/async/3383/";
+var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i, s);
+})();</script>
+<!--  News Join --></span></div>
+
+    
+            
+
+    
+                    <div class="" data-bmm="ph_above_comments_630"><div class="g-cl_m"></div><span data-bmm="widget_1313" data-bmm-title="Товарный информер marketgid #28465"><div id="1313_6878"></div><script>jQuery(document).on("geoloaded", function() {var gYes="", gNo="UA", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1313_6878").html("<!-- MarketGidComposite Start --> <div id=\"MarketGidScriptRootC580512\"> <div id=\"MarketGidPreloadC580512\"><\/div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById'; var i=d[ce]('iframe');i[st][ds]=n;d[gi](\"MarketGidScriptRootC580512\")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln(\"<ht\"+\"ml><bo\"+\"dy><\/bo\"+\"dy><\/ht\"+\"ml>\");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi](\"MarketGidScriptRootC580512\");}var dv=iw[ce]('div');dv.id=\"MG_ID\";dv[st][ds]=n;dv.innerHTML=580512;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=\"\/\/jsc.marketgid.com\/b\/i\/bigmir.net.580512.js?t=\"+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})(); <\/script> <\/div> <!-- MarketGidComposite End -->");});jQuery().ready(function(){jQuery.getJSON("//sg.bigmir.net/geoip/?get=simple", function(data) {jQuery(document).data("GEOIP_COUNTRY_CODE", data.GEOIP_COUNTRY_CODE); jQuery(document).trigger("geoloaded");});});</script></span></div>
+        
+        <a name="comments"></a>
+                               <div class="g-cl_m"></div>
+
+
+
+
+	<div class="g-cl"></div>
+	<!-- Global comment layer -->
+	<div id="comment_header_layer" class="b-comment">
+	<a id="CMNT_ANCHOR_0" name="CMNT_ANCHOR_0"></a>
+
+<div class="b-comment_form">
+	        <script type="text/javascript">
+            var global_comment_settings_text2='Добавить комментарий';
+            ;
+        </script>
+
+	<b style="font-size:16px;">Комментариев</b>&nbsp;<span class="g-small c-gray" id="CMNT_ID_TOTAL_QTY">(0)</span>
+
+
+	
+<!-- комментарии -->
+<div id="CMNT_ID_0" >
+	<div style="width:100%">
+        <div class="b-comment_disclaimer">
+            Оставляя комментарий, пожалуйста, помните о том, что содержание и тон Вашего сообщения могут задеть чувства реальных людей, непосредственно или косвенно имеющих отношение к данной новости. Пользователи, которые нарушают эти правила грубо или систематически, будут заблокированы.
+            <br><a href="http://info.bigmir.net/rules_bigmir" target="_blank">Полная версия правил</a>
+        </div>
+
+        <div class="g-cl_m"></div>
+
+		<form method="post" action="http://ivona.bigmir.net/psihologia/relate/sex/324392-Seks-po-ljubvi-polezen-dlja-zdorov-ja?p=0&display=ALL#CMNT_ANCHOR_0" id="commAddForm" onSubmit="javascript: return proceedComSubmit();">
+							<label for="name">Имя:</label>
+				<div class="g-cl"></div>
+				<input type="text" name="userName" class="g-inp b-comment_inp _userName" value="гость" maxlength="15" onfocus="javascript:clearUNameBoxInput(this, true, 'гость');" onblur="javascript:clearUNameBoxInput(this, false, 'гость');" />
+				<div class="g-cl_s"></div>
+			
+
+            <div>
+                <span class="g-fl"><label for="cmnt_text">Комментарий:</label></span>
+                <span class="c-gray g-fr g-small" style="margin-top:1px;">Осталось&nbsp;<b id="inpComment324392_ticker">600</b>&nbsp;символов</span>
+                <div class="g-cl"></div>
+            </div>
+            <div class="g-cl"></div>
+
+			<textarea class="g-textar b-comment_textar g-fl"  rows="8" id="cmnt_text" name="cmnt_text" onkeyup="limitInputText(this, 600, 'inpComment324392_ticker');" onchange="limitInputText(this, 600, 'inpComment324392_ticker');"></textarea>
+
+
+
+            
+
+		<div class="g-cl_s"></div>
+
+
+        		                    <div class="g-cl_m"></div>
+            			<div class="g-cl"></div>
+			<input type="submit" value="Добавить" class="g-fl g-mr_b _submit_btn " style="font-weight:700;"/>
+
+                            <div>
+                    <div class="g-recaptcha" style="float:right;margin-right:10px" id="gRecaptcha"></div>
+                </div>
+                <script src='https://www.google.com/recaptcha/api.js'></script>
+                <script>
+                    var globalReCaptchaResponse='';
+                    function gCaptchaCallback(response) {
+                        $('.g-recaptcha').hide();
+                        //$('._submit_btn').show();
+                        globalReCaptchaResponse = response;
+                        $('._submit_btn').click();
+                        $('#gRecaptcha').html('');
+                    }
+
+                    function gaCaptchaInit() {
+                        $('._submit_btn').hide();
+                        if ($('#gRecaptcha').html() == '') {
+                            var pubKey = '6Lc_1gUTAAAAAK0GOv0-TZe1Gfytfry5cnO9B4cj';
+                            grecaptcha.render(
+                                'gRecaptcha',
+                                {'sitekey': pubKey, 'callback': gCaptchaCallback}
+                            )
+                        }
+                    }
+
+                    gaCaptchaInit();
+
+                </script>
+            
+		
+
+
+
+			<input type="button" name="cancel_comment" value="Отменить" style="display:none" />
+
+			<input type="hidden" name="ID" value="0" />
+			<input type="hidden" name="addcomment" readonly />
+			<input type="hidden" name="sortMode" value="DESC" />
+			<input type="hidden" name="currentPage" value="0" readonly />
+			<input type="hidden" name="displayModeCurrent" value="ALL" readonly />
+			<div class="g-cl_m"></div>
+		</form>
+	</div></div>
+
+</div>
+
+
+
+
+	<!-- Блок добавить коммент
+	<div class="plashka pl_tech">
+		<div class="pl_out"></div>
+		<div class="pl_in"></div>
+		<div class="box_pad">
+			<div class="clear_small"></div>
+            <div class="fr" id="cControllerLayer"></div>
+			<b>Комментариев</b>&nbsp;<span class="gray small" id="CMNT_ID_TOTAL_QTY">(0)</span>
+
+            <div class="clear_small2"></div>
+            <div class="clear"></div>
+        </div>
+		<div class="boxing" style="padding-left:9px;margin-left:0px;margin:-1px 0 0 0 !ie;background:#fff9eb;width:614px !ie">
+
+	
+        </div>
+        <div class="clear2"></div>
+        <div id="brd456g" class="bord_b1" style="background:#FFECC5;margin-left:1px;"></div>
+        <div class="bord_b2"  style="margin-left:2px;"></div>
+
+	</div>
+ -->
+
+<div class="g-cl_m"></div>
+	
+	<!-- coment -->
+
+	<div class="coment1">
+
+		<div id="comment_threads">	</div><!-- // end comment_threads --></div><!-- end coment -->	</div><!-- // End Global comment layer -->	<script type="text/javascript" language="JavaScript"><!--		// --- global comment variables container --- //		/*		window.commJsGlVar = {			bmImgServer : "//bm.img.com.ua/",			commCaptchaWebPath : "http://main.bigmir.net/include/c_captcha.inc.php",			commScriptFullUrl : "http://ivona.bigmir.net/psihologia/relate/sex/324392-Seks-po-ljubvi-polezen-dlja-zdorov-ja",			commTplIdPrefix : "CMNT_ID_",			commTplAnchorPrefix : "CMNT_ANCHOR_",			commNullId : "0",			commID : "0",			commErrorMsg : Boolean()		};		*/		// --- end comment global variables container --- //		$().ready(function(){			initComments(false);		});			var commSortOrder = "DESC";			//-->	</script>
+
+                    
+            
+
+    
+
+
+<script type="text/javascript">
+
+    $(function() {
+        $("._fancybox2").fancybox({
+            openEffect	: 'elastic',
+            closeEffect	: 'elastic',
+            helpers : {
+                title : {
+                    type : 'inside'
+                }
+            }
+        });
+    });
+
+</script>
+
+	
+
+
+                                    
+            
+    
+                                                                                                                        
+
+
+
+    <!-- |||||||||| -->
+
+    <div class="b-block b-tagcloud">
+        <header class="b-block__header-outer">
+            <h5 class="b-block__header">Популярные теги</h5>
+        </header>
+        <ul class="b-tagcloud__list">
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E7%E0%ED%FF%F2%FC%F1%FF+%E0%ED%E0%EB%FC%ED%FB%EC+%F1%E5%EA%F1%EE%EC" >заняться анальным сексом</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%E5%EA%F1-%F1%EC%F1+%EC%F3%E6%F7%E8%ED%E5" >секс-смс мужчине</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EE%F0%E3%E0%E7%EC" >оргазм</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F2%E5%F5%ED%E8%EA%E0+%EC%E8%ED%E5%F2%E0" >техника минета</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%EE%E1%EB%E0%E7%ED%E8%F2%FC+%EC%F3%E6%F7%E8%ED%F3" >соблазнить мужчину</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%F3%ED%ED%E8%EB%E8%ED%E3%F3%F1" >куннилингус</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EC%E8%ED%E5%F2" >минет</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%E0%EA+%E4%E5%EB%E0%F2%FC+%EC%E8%ED%E5%F2" >как делать минет</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EF%EE%E7%FB+%E2+%F1%E5%EA%F1%E5" >позы в сексе</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%E5%EA%F1%F3%E0%EB%FC%ED%EE%E5+%E7%E4%EE%F0%EE%E2%FC%E5" >сексуальное здоровье</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E0%ED%E0%EB%FC%ED%FB%E9+%F1%E5%EA%F1" >анальный секс</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%E0%EA+%E4%E5%EB%E0%F2%FC+%EA%F3%ED%ED%E8%EB%E8%ED%E3%F3%F1" >как делать куннилингус</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%E5%EA%F1%F3%E0%EB%FC%ED%FB%E5+%F1%EC%F1" >сексуальные смс</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E9%EE%E3%E0" >йога</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%E0%EA+%EF%F0%E0%E2%E8%EB%FC%ED%EE+%E7%E0%ED%E8%EC%E0%F2%FC%F1%FF+%EE%F0%E0%EB%FC%ED%FB%EC+%F1%E5%EA%F1%EE%EC" >как правильно заниматься оральным сексом</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EE%F0%E0%EB%FC%ED%FB%E9+%F1%E5%EA%F1" >оральный секс</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%E0%EA+%EF%F0%E0%E2%E8%EB%FC%ED%EE+%E4%E5%EB%E0%F2%FC+%EC%E8%ED%E5%F2" >как правильно делать минет</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EF%EE%E7%FB+%E4%EB%FF+%E0%ED%E0%EB%FC%ED%EE%E3%EE+%F1%E5%EA%F1%E0" >позы для анального секса</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%E5%EA%F1%F3%E0%EB%FC%ED%FB%E5+%EF%F0%E5%E4%EF%EE%F7%F2%E5%ED%E8%FF" >сексуальные предпочтения</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EF%EE%E7%FB" >позы</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EC%E0%F1%F2%F3%F0%E1%E0%F6%E8%FF" >мастурбация</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%EF%EE%F0%F2" >спорт</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E0%E7%E1%F3%EA%E0+%E8%E4%E5%E0%EB%FC%ED%EE%E9+%EB%FE%E1%EE%E2%ED%E8%F6%FB" >азбука идеальной любовницы</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%E5%EA%F1%F3%E0%EB%FC%ED%FB%E5+%EF%EE%E7%E8%F6%E8%E8" >сексуальные позиции</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%EE%F0%EE%EB%E5%E2%F1%EA%E8%E9+%EC%E8%ED%E5%F2" >королевский минет</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%E0%ED%E0%EB%FC%ED%FB%E9+%F1%E5%EA%F1+%E1%E5%E7+%E1%EE%EB%E8" >анальный секс без боли</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%F1%E5%EA%F1" >секс</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%EB%E8%E7%EC%E0+%EF%E5%F0%E5%E4+%E0%ED%E0%EB%FC%ED%FB%EC+%F1%E5%EA%F1%EE%EC" >клизма перед анальным сексом</a>
+                                    </li>
+                            <li class="b-tagcloud__list-item">
+                                            <a class="b-tagcloud__list-item__title" href="/tag/%EA%E0%EA+%E3%EE%F2%EE%E2%E8%F2%FC%F1%FF+%EA+%E0%ED%E0%EB%FC%ED%EE%EC%F3+%F1%E5%EA%F1%F3" >как готовиться к анальному сексу</a>
+                                    </li>
+                    </ul>
+    </div>
+
+
+
+
+
+
+                                            
+                                    
+                <div class="g-cl"></div>
+            </div>
+        
+            <div class="l-smallcol _page_height_content" data-bmm="rcol" data-role="col-right">
+
+                
+
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+        
+            			
+                                            <div class="b-banner_sm"><span>Реклама</span><div class="g-cl"></div>
+                    <div id="banner_right_ph" class="right_banner">
+                        <script>
+                                new holder("banner_right_ph", {"delay":100,"block":1929,"keyword":typeof(holderKeyword) != "undefined" ? holderKeyword : ""} );
+                        </script>
+                    </div>
+                </div>
+                    
+    
+
+                                        
+                    <div class="b-widgets g-clearfix" data-bmm="ph_320_below_rbanner"><span data-bmm="widget_1258" data-bmm-title="Товарный информер marketgid #28399"><div id="1258_3845"></div><script>jQuery(document).on("geoloaded", function() {var gYes="", gNo="UA", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1258_3845").html("<!-- MarketGidComposite Start --> <div id=\"MarketGidScriptRootC579344\"> <div id=\"MarketGidPreloadC579344\"><\/div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById'; var i=d[ce]('iframe');i[st][ds]=n;d[gi](\"MarketGidScriptRootC579344\")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln(\"<ht\"+\"ml><bo\"+\"dy><\/bo\"+\"dy><\/ht\"+\"ml>\");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi](\"MarketGidScriptRootC579344\");}var dv=iw[ce]('div');dv.id=\"MG_ID\";dv[st][ds]=n;dv.innerHTML=579344;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=\"\/\/jsc.marketgid.com\/b\/i\/bigmir.net.579344.js?t=\"+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})(); <\/script> <\/div> <!-- MarketGidComposite End -->");});</script></span><span data-bmm="widget_1119" data-bmm-title="JOIN для ГБМ не-Украина"><!-- System.Holder code
+site: 342 bigmir.net block: 4196 join_300x333 segment: 9317 join_300x333 (320x100) -->
+<script type="text/javascript" src="http://h.holder.com.ua/s?b4196&s9317&tj&hwww.bigmir.net/&r17664"></script></span></div>
+                    
+
+        
+
+
+                    
+
+
+
+
+
+            
+
+
+    
+    
+        
+        
+    <!-- holder banner + -->
+    <div class="b-banner_sm"><span>Реклама</span>
+		<div id="holder300"></div>
+	<script type="text/javascript">
+		var holder300 = null;
+        holder300 = new holder("holder300",{ block:1444});
+	</script>
+    </div>
+    <!-- holder banner - -->
+
+
+
+ 
+                
+        	
+
+        
+        
+        
+
+            
+            
+
+<div class="b-widgets g-clearfix" data-bmm="ph_320_above_rbanner3"><span data-bmm="widget_1155" data-bmm-title="Благотворительность UBB Ивона 320"><div id="1155_5623"></div><script>jQuery(document).on("geoloaded", function() {var gYes="UA", gNo="", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1155_5623").html("<a href=\"http:\/\/h.holder.com.ua\/c?tz&z1585&b85025&s03908&r[rndID]&u\" target=\"_blank\" style=\"display: block;\"><img src=\"http:\/\/bm.img.com.ua\/widget\/6eb9dd074d3e5a60a620add4464014df.png\" alt=\"\"  style=\"display: block;\"\/><\/a>\r\n\r\n<script type=\"text\/javascript\">(new Image()).src='http:\/\/h.holder.com.ua\/s?b1585&s3908&tz&a85025&r'+Math.random();<\/script>");});</script></span></div>
+
+<!--площадка 3294 3rd-->
+
+<div class="b-banner_sm g-clearfix">
+    <span>Реклама</span>    
+        <script>
+            if (typeof DISABLE_HOLDER == 'undefined' || !DISABLE_HOLDER) {
+                var hldr = "&r" + Math.round((Math.random() * 10000000));
+                document.cookie = "holder=1; path=/";
+                if (document.cookie)hldr += "&c1";
+                hldr += "&" + escape((self != top) ? "f" + document.referrer : "h" + window.location.href);
+                document.write('<iframe width="300" height="250" scrolling="no" src="http://h.holder.com.ua/s?b3294&tf' + hldr + '" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0"></iframe>');
+            }
+        </script>
+    
+</div>
+
+
+    
+
+
+
+
+            
+
+        
+        
+
+		
+
+
+
+
+
+
+    
+
+                
+                                            
+                            <div class="b-widgets g-clearfix" data-bmm="ph_r_bottom_320"><span data-bmm="widget_1282" data-bmm-title="Join женский сегмент Ivona вертикальный"><div id="1282_2261"></div><script>jQuery(document).on("geoloaded", function() {var gYes="", gNo="UA", g=jQuery(document).data("GEOIP_COUNTRY_CODE"); if ((gYes=="" || gYes.match(g)) && (gNo=="" || !gNo.match(g))) jQuery("#1282_2261").html("<!--  News Join -->\r\n\r\n<style>\r\n.join_informer_3382 * { border: none; padding: 0; margin: 0; }\r\n.join_informer_3382 { text-align:left; clear: both; padding: 5px; border: 1px solid #ad0707; background-color:#FFFFFF;}\r\n.join_informer_3382 a.join_link, a.join_text {font-size: 13px; font-family: Arial; margin-bottom:10px; color:#000000;text-decoration:none; font-weight:normal;}\r\n.join_informer_3382 a.join_link:hover, a.join_text:hover { color:#000000;text-decoration:underline;}\r\n.join_informer_3382 .join_img {width: 100px; height: 100px;  margin-right: 2px; }\r\n<\/style>\r\n\r\n<div class=\"join_informer_3382\" id=\"join_informer_3382\"><\/div>\r\n\r\n<!-- \u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u044b\u0439 \u043a\u043e\u0434, 23.04.2015 -->\r\n<script type=\"text\/javascript\">  (function() {\r\nvar i = document.createElement(\"script\"); i.type = \"text\/javascript\"; i.async = true; i.charset = \"UTF-8\";\r\ni.src = \"http:\/\/partner.join.com.ua\/async\/3382\/\";\r\nvar s = document.getElementsByTagName(\"script\")[0]; s.parentNode.insertBefore(i, s);\r\n})();<\/script>\r\n<!--  News Join -->");});</script></span><span data-bmm="widget_778" data-bmm-title="Informer TOCHKA IVONA"><script language="JavaScript" src="http://h.holder.com.ua/s?b3986&s9203&tj&c1"></script></span><span data-bmm="widget_1279" data-bmm-title="Redtram Ivona"><div id="n4p_27788">Loading...</div>
+<script type="text/javascript" charset="utf-8">
+  (function(d,s){
+    var o=d.createElement(s);
+    o.async=true;
+    o.type="text/javascript";
+    o.charset="utf-8";
+    o.src="http://js.ru.redtram.com/n4p/0/27/ticker_27788.js";
+    var x=d.getElementsByTagName(s)[0];
+    x.parentNode.insertBefore(o,x);
+  })(document,"script");
+</script></span><span data-bmm="widget_47" data-bmm-title="Ivona Dnevnik MarketGidNews"><div style="padding:9px; border-radius: 5px; -moz-border-radius:5px; -webkit-border-radius: 5px; border:1px #E0CFE7 solid;">
+
+<!-- MarketGidNews Start -->
+<div id="MarketGid8583" class="news-block-magick"><center>
+<a href="http://marketgid.com/" target="_blank">Загрузка...</a>
+</center></div>
+<!-- MarketGidNews End -->
+
+<!-- pered </body> -->
+<script type="text/javascript">
+    var MarketGidDate = new Date();
+    document.write('<scr'+'ipt type="text/javascript" '
+    +'src="http://jsn.dt00.net/i/v/ivona.bigmir.net.8583.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()
+    + '" charset="windows-1251" ></scr'+'ipt>');
+    </script>
+
+</div></span><span data-bmm="widget_1311" data-bmm-title="Новости мира_320"><!-- System.Holder code bigmir.net bigmir_novostimira segment: bigmir_novostimira 320x220-->
+<script type="text/javascript">
+<!--
+(function(){var d=document,wl=window.location,p='http'+(wl.protocol=='https:'?'s:':':'),
+l="&r"+Math.round((Math.random()*10000000)),n=navigator.userAgent;
+d.cookie="b=1; path=/";if(d.cookie.indexOf('b=')!=-1&&!(n.indexOf('Safari')!=-1&&n.indexOf('Chrome')==-1))l+="&c1";
+l+="&"+escape((self!=top)?"f"+d.referrer:"h"+wl.href);
+d.write('<scr'+'ipt type="text/javascript" src="'+p+'//h.holder.com.ua/s?tj&b5174&s11186'+l+'"></scr'+'ipt>');})();
+//--></script></span></div>
+
+                           
+                                                            
+
+            </div>
+        </div>
+
+        <div class="g-cl_m"></div>
+        <div class="g-cl_sb"></div>
+        
+
+                            
+
+
+            
+        
+
+<!-- for data-bmm on carousel "inside Ivona" when it's 3 or 4 items in it-->
+                <!--end data-bmm -->
+    <div class="b-block" data-bmm="inside_ivona_four">
+                <header class="b-block__header-outer">
+            <h3 class="b-block__header">
+                                    Внутри Ivona
+                            </h3>
+        </header>
+                <div class="b-carousel-inside b-carousel-inside_twocol  _carousel" qty="4">
+            <div class="b-carousel-inside__control-container">
+                <button class="b-carousel-inside__control b-carousel-inside__control_prev _carousel_prev">
+                    <span class="b-carousel-inside__control-inner"></span>
+                </button>
+                <button class="b-carousel-inside__control b-carousel-inside__control_next _carousel_next">
+                    <span class="b-carousel-inside__control-inner"></span>
+                </button>
+            </div>
+            <div class="b-carousel-inside__list-outer">
+                <ul class="b-carousel-inside__list _slider"><li class="b-carousel-inside__list-item _item" style="" title="Письмо Деду Морозу: О чем мечтает сын Потапа"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/deti">Дети</a></h5><a class="b-carousel-inside__list-item__link" href="/deti/development/424208-Pis-mo-Dedu-Morozu--O-chem-mechtaet-syn-Potapa"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs14/b/200x150/f/d4/5fa18ae5ac7b45221129db570e252d4f.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/deti/development/424208-Pis-mo-Dedu-Morozu--O-chem-mechtaet-syn-Potapa"><h4 class="b-carousel-inside__list-item__title">Письмо Деду Морозу: О чем мечтает сын Потапа</h4></a></li><li class="b-carousel-inside__list-item _item" style="" title="Что подарить ребенку на Новый год: Оригинальные идеи"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/deti">Дети</a></h5><a class="b-carousel-inside__list-item__link" href="/deti/424735-Chto-podarit-rebenku-na-Novyj-god-Original-nye-idei"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs21/b/200x150/1/ac/f4af20ef6abd8326d4827375f6eaaac1.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/deti/424735-Chto-podarit-rebenku-na-Novyj-god-Original-nye-idei"><h4 class="b-carousel-inside__list-item__title">Что подарить ребенку на Новый год: Оригинальны...</h4></a></li><li class="b-carousel-inside__list-item _item" style="" title="Как преодолеть страх перед родами: Совет психолога"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/pregnancy">Беременность</a></h5><a class="b-carousel-inside__list-item__link" href="/pregnancy/beremennost_i_rody/424598-Kak-preodolet--strah-pered-rodami--Sovet-psihologa"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs131/b/200x150/c/f6/5e2b3da79d1a081b59557c8cbb64bf6c.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/pregnancy/beremennost_i_rody/424598-Kak-preodolet--strah-pered-rodami--Sovet-psihologa"><h4 class="b-carousel-inside__list-item__title">Как преодолеть страх перед родами: Совет психо...</h4></a></li><li class="b-carousel-inside__list-item _item" style="" title="Как встречают Рождество в разных странах мира"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/cooking">Кулинария</a></h5><a class="b-carousel-inside__list-item__link" href="/cooking/toowners/323369-Kak-vstrechajut-Rozhdestvo-v-raznyh-stranah-mira"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs146/b/200x150/e/12/8f814235c61357198a8840e06e69612e.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/cooking/toowners/323369-Kak-vstrechajut-Rozhdestvo-v-raznyh-stranah-mira"><h4 class="b-carousel-inside__list-item__title">Как встречают Рождество в разных странах мира</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Как забеременеть: Идеальный секс"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/pregnancy">Беременность</a></h5><a class="b-carousel-inside__list-item__link" href="/pregnancy/416114-Kak-zaberemenet---Ideal-nyj-seks"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs59/b/200x150/9/7e/323d281d53da6602ee291cb201d607e9.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/pregnancy/416114-Kak-zaberemenet---Ideal-nyj-seks"><h4 class="b-carousel-inside__list-item__title">Как забеременеть: Идеальный секс</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Что нужно знать о родах"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/pregnancy">Беременность</a></h5><a class="b-carousel-inside__list-item__link" href="/pregnancy/416593-Chto-nuzhno-znat--o-rodah"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs237/b/200x150/b/a7/6d412efb528de38f76d414c8d0404a7b.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/pregnancy/416593-Chto-nuzhno-znat--o-rodah"><h4 class="b-carousel-inside__list-item__title">Что нужно знать о родах</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Новый год 2016: Короткие пожелания"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/prazdniki">Праздники</a></h5><a class="b-carousel-inside__list-item__link" href="/prazdniki/423649-Novyj-god-2016--Korotkie-pozhelanija"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs107/b/200x150/d/f4/dcb2d59d71f7fb5bbc29c0e097ac2f4d.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/prazdniki/423649-Novyj-god-2016--Korotkie-pozhelanija"><h4 class="b-carousel-inside__list-item__title">Новый год 2016: Короткие пожелания</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Письмо Деду Морозу: О чем мечтает сын Александра Павлика"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/deti">Дети</a></h5><a class="b-carousel-inside__list-item__link" href="/deti/development/423935-Pis-mo-Dedu-Morozu--O-chem-mechtaet-syn-Aleksandra-Pavlika"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs137/b/200x150/f/72/6c3a60621da3f01c7b18bef64ae6072f.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/deti/development/423935-Pis-mo-Dedu-Morozu--O-chem-mechtaet-syn-Aleksandra-Pavlika"><h4 class="b-carousel-inside__list-item__title">Письмо Деду Морозу: О чем мечтает сын Александ...</h4></a></li><li class="b-carousel-inside__list-item _item" style="display:none;" title="Фото дня: Только мама – одна на свете"><h5 class="b-carousel-inside__list-item__category-outer"><a class="b-carousel-inside__list-item__category" href="/pregnancy">Беременность</a></h5><a class="b-carousel-inside__list-item__link" href="/pregnancy/article/424687-Foto-dnja--Tol-ko-mama---odna-na-svete"><img class="b-carousel-inside__list-item__image" src="http://v.img.com.ua/nxs239/b/200x150/3/94/17488a6aa70ed136904c8afdd5666943.jpg" alt=""/></a><a class="b-carousel-inside__list-item__main _title" href="/pregnancy/article/424687-Foto-dnja--Tol-ko-mama---odna-na-svete"><h4 class="b-carousel-inside__list-item__title">Фото дня: Только мама – одна на свете</h4></a></li></ul>
+            </div>
+        </div>
+    </div>
+
+
+            
+        
+
+        <div class="g-cl"></div>
+	</div>
+
+
+        </div>
+
+    
+
+    
+        
+<footer class="l-footer" data-bmm="footer">
+            <div class="b-net-preview g-clearfix">
+            <div class="obzor_seti_obolon"><div class="b-network g-small">
+        <div id="holder_980x90_0"></div>
+        <script type="text/javascript">
+            new holder("holder_980x90_0",{block:4600,segment:10091});
+        </script>
+
+        <!-- PRICE.UA ADDITIONAL CODE -->
+
+        <style>
+            .b-network {
+                text-align: center;
+            }
+
+            #holder_bottom {
+                display: inline-block;
+                float: none !important;
+            }
+
+            .mtbottom_priceua.mtr3{display:inline-block}
+            .mtbottom_priceua.mtr3{height:240px;}
+            .mtbottom_priceua.mtr3:hover{background-color:#FFFFFF}
+            .mtbottom_priceua.mtr3 table{border-spacing:1px 0px}
+            .mtbottom_priceua.mtr3 tr{height:240px;}
+            .mtbottom_priceua.mtr3 td{padding:0px;text-align:center!important;width:140px;}
+            .mtbottom_priceua.mtr3 td:hover{background-color:#FFF}
+            .mtbottom_priceua.mtr3 .img{width:130px;height:130px;border-width:1px;border-color:#333366;border-style:solid;;background-color: #ffffff}
+            .mtbottom_priceua.mtr3.img-top .img{margin-bottom:1px}
+            .mtbottom_priceua.mtr3.img-left .img{margin-right:1px}
+            .mtbottom_priceua.mtr3.img-right .img{margin-left:1px}
+            .mtbottom_priceua.mtr3.img-top .btn,
+            .mtbottom_priceua.mtr3.img-left .btn,
+            .mtbottom_priceua.mtr3.img-right .btn{margin-top:1px}
+            .mtbottom_priceua.mtr3 .img:hover{width:130px;}
+            .mtbottom_priceua.mtr3 .hdr a{font-family:Trebuchet MS, Helvetica, sans-serif;font-size:14px;color:#000080;font-weight:bold;text-decoration:none;font-style:none;}
+            .mtbottom_priceua.mtr3 .hdr a:hover{font-size:14px;color:#e00;font-weight:normal;font-weight:bold;text-decoration:underline;font-style:none;}
+            .mtbottom_priceua.mtr3 .txt a{font-family:Trebuchet MS, Helvetica, sans-serif;font-size:13px;color:#000000;font-weight:none;text-decoration:none;font-style:none;}
+            .mtbottom_priceua.mtr3 .txt a:hover{font-size:13px;color:#e00;font-weight:none;text-decoration:underline;font-style:none;}
+            .mtbottom_priceua.mtr3 .btn{background-color:#008000;padding:4px 8px;font-size:14px;left:50%;-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-webkit-transform:translateX(-50%);-o-transform:translateX(-50%);transform:r translateX(-50%);}
+            .mtbottom_priceua.mtr3 .btn:hover{background-color:#999;font-size:13px}
+            .mtbottom_priceua.mtr3 .btn a{color:#FFF;font-family:Trebuchet MS, Helvetica, sans-serif;font-weight:none;text-decoration:none;font-style:none;}
+            .mtbottom_priceua.mtr3 .btn a:hover{color:#333;font-weight:none;text-decoration:none;font-style:none;}
+
+        </style>
+        <div class="mtr3 inner img-top mtbottom_priceua">
+            <table id="PRICEUA">
+                <td>
+                    <div class="img">
+                        <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();">
+                            <img src="http://h.holder.com.ua/s?ti&b5540&c1"></a></div>
+                    <div class="hdr">
+                        <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();">	Поисковая <br>система цен</a></div>
+                    <div class="txt">
+                        <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();"></a></div>
+                    <div class="btn">
+                        <a href="http://price.ua/" class="_no_bm_clicks" target="_blank" onclick="(new Image()).src='http://h.holder.com.ua/s?b1585&amp;s3908&amp;tz&amp;a103902&amp;r='+Math.random();">Подробнее</a></div></td>
+            </table>
+        </div>
+        <!-- PRICE.UA ADDITIONAL END -->
+        <div class="g-cl_m"></div>
+    </div>
+</div>
+
+        </div>
+    
+    <div class="b-footer">
+        <div class="b-services__logo-outer">
+            <a class="b-services__logo"  href="//bigmir.net"></a>
+        </div>
+        <div id="all_services">
+            <ul class="b-services" data-el="services">
+                <li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//auto.bigmir.net" class="b-services__list-item__title b-services__list-item__title_important">Авто</a></li><li class="b-services__list-item"><a href="//autosale.bigmir.net" class="b-services__list-item__title">Автопродажа</a></li><li class="b-services__list-item"><a href="//afisha.bigmir.net" class="b-services__list-item__title">Афиша</a></li><li class="b-services__list-item"><a href="//video.bigmir.net" class="b-services__list-item__title">Видео</a></li><li class="b-services__list-item"><a href="//otvet.bigmir.net" class="b-services__list-item__title">Вопрос-ответ</a></li></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//goroskop.bigmir.net" class="b-services__list-item__title">Гороскопы</a></li><li class="b-services__list-item"><a href="//dnevnik.bigmir.net" class="b-services__list-item__title">Дневники</a></li><li class="b-services__list-item"><a href="//love.bigmir.net" class="b-services__list-item__title">Знакомства</a></li><li class="b-services__list-item"><a href="//ivona.bigmir.net" class="b-services__list-item__title">Ivona</a></li><li class="b-services__list-item"><a href="//games.bigmir.net" class="b-services__list-item__title">Игры</a></li></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//map.bigmir.net" class="b-services__list-item__title">Карты</a></li><li class="b-services__list-item"><a href="//mport.ua?utm_source=ivona&utm_medium=link&utm_campaign=mport_on_bm_footer" class="b-services__list-item__title">MPort</a></li><li class="b-services__list-item"><a href="//finance.bigmir.net/realty/lun" class="b-services__list-item__title">Недвижимость</a></li><li class="b-services__list-item"><a href="//news.bigmir.net" class="b-services__list-item__title">Новости</a></li><li class="b-services__list-item"><a href="//market.bigmir.net/" class="b-services__list-item__title">Онлайн-магазин</a></li></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//cards.bigmir.net" class="b-services__list-item__title">Открытки</a></li><li class="b-services__list-item"><a href="//weather.bigmir.net" class="b-services__list-item__title">Погода</a></li><li class="b-services__list-item"><a href="//mail.bigmir.net" class="b-services__list-item__title">Почта</a></li><li class="b-services__list-item"><a href="//prikol.bigmir.net" class="b-services__list-item__title">Приколы</a></li><li class="b-services__list-item"><a href="//finance.bigmir.net/jooble" class="b-services__list-item__title">Работа</a></li><!-- temp fix column length --></ul></li><li class="b-services__part"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//top.bigmir.net" class="b-services__list-item__title">Рейтинг</a></li><li class="b-services__list-item"><a href="//sun.bigmir.net" class="b-services__list-item__title">Sun</a></li><li class="b-services__list-item"><a href="//sport.bigmir.net" class="b-services__list-item__title">Спорт</a></li><li class="b-services__list-item"><a href="//afisha.bigmir.net/tv/program" class="b-services__list-item__title">ТВ-программа</a></li><li class="b-services__list-item"><a href="//techno.bigmir.net" class="b-services__list-item__title">Техно</a></li></ul></li><li class="b-services__part b-services__part_short"><ul class="b-services__part__list"><li class="b-services__list-item"><a href="//tour.bigmir.net" class="b-services__list-item__title">Туризм</a></li><li class="b-services__list-item"><a href="//finance.bigmir.net" class="b-services__list-item__title">Финансы</a></li><li class="b-services__list-item"><a href="//photo.bigmir.net" class="b-services__list-item__title">Фото</a></li><li class="b-services__list-item"><a href="//ivona.bigmir.net/showbiz" class="b-services__list-item__title">Шоу-Biz</a></li></ul></li>
+            </ul>
+        </div>
+        <div class="b-copyright">
+            <div class="b-copyright__promo">Материалы, отмеченные знаками "Реклама", "PR", "Спецпроект", "Новости компаний", "Актуально", "Промо", публикуются на правах рекламы.</div>
+            <div class="b-copyright__text">&copy; 2000-2016, ООО "ДИДЖИТАЛ ВЕНЧЕЗ". Все права защищены.</div>
+            <ul class="b-copyright__list">
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/">Помощь</a></li>
+                <li class="b-copyright__list-item">
+                                            <a class="b-copyright__list-item__title" href="//info.bigmir.net/rules_ivona">Правила</a>
+                                    </li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="mailto:bigmir-ivona@uovgroup.net">Связаться&nbsp;с&nbsp;нами</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="mailto:info@bigmir.net">Разместить&nbsp;свои&nbsp;видеоматериалы</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/materials">Использование&nbsp;материалов</a></li><br>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/contract">Пользовательское&nbsp;Соглашение</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//info.bigmir.net/privacy_policy">Политика&nbsp;в&nbsp;сфере&nbsp;конфиденциальности&nbsp;и&nbsp;персональных&nbsp;данных</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//job.i.ua/info/vacancy/692624/" target="_blank" rel="nofollow">Вакансии</a></li>
+            </ul>
+            <ul class="b-copyright__list">
+                <li class="b-copyright__list-item">Реклама&nbsp;на&nbsp;сайте:</li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//digimedia.com.ua/" target="_blank">Cейлз-хаус "Диджимедиа"</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//mi6.ua/feedback" target="_blank">Интернет-агентство "МІ6"</a></li>
+                <li class="b-copyright__list-item"><a class="b-copyright__list-item__title" href="//special.bigmir.net/" target="_blank">Наши спецпроекты</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+<script>
+    
+    $(window).load(function (){
+        var showFooter = false;
+        $(window).on('scroll', function() {
+            var pageScroll = window.pageYOffset || document.documentElement.scrollTop,
+                bottomScroll = pageScroll + $(window).height(),
+                footerTop = $('[data-bmm="footer"]').offset().top;
+            if(bottomScroll > footerTop){
+                if (!showFooter){
+                    (new Image()).src='http://h.holder.com.ua/s?b1585&s3908&tz&a93677&r'+Math.random();
+                    showFooter = true;
+                }
+            }else {
+                showFooter = false;
+            }
+        });
+    });
+    
+</script>
+    
+
+</div>
+
+<div class="b-disclaimer" data-b="cookie">
+    <div class="b-disclaimer__content">
+        <div>Для удобства пользования сайтом используются Cookies.  Подробнее <a href="http://info.bigmir.net/privacy_policy" class="b-disclaimer__link">здесь</a></div>
+        <span class="b-disclaimer__button" data-el="close" title="Закрыть"></span>
+    </div>
+</div>
+
+<script>
+
+function setCookie(name, value, expires, path, domain, secure) {
+    if (expires == undefined) expires = 30;
+    if (path == undefined) path = '/';
+    if (domain == undefined) domain = '';
+    var today = new Date();
+    today.setTime(today.getTime());
+    if (expires) expires = expires * 1000 * 60 * 60 * 24;
+    var expires_date = new Date(today.getTime() + (expires));
+    document.cookie = name + "=" + escape(value) +
+            ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
+            ( ( path ) ? ";path=" + path : "" ) +
+            ( ( domain ) ? ";domain=" + domain : "" ) +
+            ( ( secure ) ? ";secure" : "" );
+}
+
+function getCookie(c_name) {
+    if (document.cookie.length>0) {
+        c_start=document.cookie.indexOf(c_name + "=");
+        if (c_start!=-1) {
+            c_start=c_start + c_name.length+1;
+            c_end=document.cookie.indexOf(";",c_start);
+            if (c_end==-1) c_end=document.cookie.length;
+            return unescape(document.cookie.substring(c_start,c_end));
+        }
+    }
+    return "";
+}
+
+$().ready(function() {
+    var showCookieDisclaimer = getCookie('bm_cookie_disclaimer');
+    if (showCookieDisclaimer == '') {
+        $('[data-b="cookie"]').show();
+        $('[data-b="cookie"]').find('[data-el="close"]').on('click', function() {
+            $('[data-b="cookie"]').slideUp();
+            setCookie('bm_cookie_disclaimer', 1, 30);
+        });
+    } else {
+        $('[data-b="cookie"]').hide();
+    }
+});
+</script>
+
+<div class="b-upwards" data-b="up">
+    <span class="b-upwards__arrow"></span>
+</div>
+
+<div id="bm_login_window" class="b-modal b-modal_slideintop" data-b="login-popup">
+    <div class="b-login__close" data-el="close" id="bm_login_close"></div>
+    <div class="b-modal__inner" data-el="inner"></div>
+</div>
+<div id="bm_login_overlay" class="b-modal__overlay"></div>
+
+<div class="b-px">
+        <!--bigmir)net TOP 100 Part 1-->
+    <script type="text/javascript" language="javascript"><!--
+    bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={ o:1,v:16792470,s:16792470,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+    for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+    try{ if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+    else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){ ;}
+    try{ bm.y=bmN.javaEnabled()?1:0}catch(e){ ;}
+    try{ bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){ ;}
+    r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){ bm.f=escape(r).slice(0,400);bm.v^=r.length}
+    bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+    bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+    //-->
+    </script>
+    <noscript><img src="http://c.bigmir.net/?v16792470&s16792470&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+    <!--bigmir)net TOP 100 Part 1-->
+
+<!--bigmir)net TOP 100 Part 1-->
+<script type="text/javascript" language="javascript"><!--
+bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={ o:1,v:23,s:23,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+try{ if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){ ;}
+try{ bm.y=bmN.javaEnabled()?1:0}catch(e){ ;}
+try{ bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){ ;}
+r=bmD.referrer.slice(7);if(r&&r.split('/')[0]!=window.location.host){ bm.f=escape(r).slice(0,400);bm.v^=r.length}
+bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+//-->
+</script>
+<noscript><img src="http://c.bigmir.net/?v23&s23&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+<!--bigmir)net TOP 100 Part 1-->
+
+<!-- google analytics -->
+
+<script type="text/javascript">
+
+</script>
+<!-- end of google analytics -->
+
+    
+    <!-- I.UA GIF 1x1 -->
+    <script type="text/javascript" language="javascript"><!--
+    iS='<img src="http://r.i.ua/s?u11&p0&n'+Math.random();
+    iD=document;if(!iD.cookie)iD.cookie="b=b; path=/";if(iD.cookie)iS+='&c1';
+    iS+='&d'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)
+    +"&w"+screen.width+'&h'+screen.height;
+    iT=iR=iD.referrer.replace(iP=/^[a-z]*:\/\//,'');iH=window.location.href.replace(iP,'');
+    ((iI=iT.indexOf('/'))!=-1)?(iT=iT.substring(0,iI)):(iI=iT.length);
+    if(iT!=iH.substring(0,iI))iS+='&f'+escape(iR);
+    iS+='&r'+escape(iH);
+    iD.write(iS+'" border="0" width="1" height="1" style="position:absolute;"/>');
+    //-->
+    </script>
+    <!-- End of I.UA GIF 1x1 -->
+
+
+
+
+
+
+</div>
+
+<script src="//bm.img.com.ua/a/common/js/fb_utils.js"></script>
+
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1447073788/a/berlin/common/plugins/article/article.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1430145165/a/berlin/common/plugins/comment/comment.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1335346295/a/berlin_lux/common/plugins/fancybox2/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1388068350/a/berlin/common/plugins/carousel/carousel_tmp.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1447082316/a/berlin/common/plugins/gallery2/gallery.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1411458694/a/berlin/common/plugins/gaStat/gaStat.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1270643623/a/berlin/common/plugins/jqmodal/jqmodal.min.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1285054715/a/berlin/common/plugins/cookie/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1297865153/a/berlin/common/js/plugins/jquery.scrollTo.js"></script>
+<script type="text/javascript" src="//bm.img.com.ua/vrsn1452603948/a/berlin/common/js/fw_tmp.js"></script>
+
+
+<div class="" data-bmm="ph_page_bottom"></div>
+
+
+    <noscript>
+        <img src="//juke.mmi.bemobile.ua/bug/pic.gif?siteid=bigmir.net" alt="" />
+    </noscript>
+    <script>
+        var tns_already, tnscm_adn = tnscm_adn || [];
+        (function(c,m){if(c.indexOf&&c.indexOf(m)<0){c.unshift(m);}}(tnscm_adn,"inline_cm"));
+        if ("undefined"==typeof(tns_already) || null==tns_already || 0==tns_already)
+        {
+            tns_already=1;
+            var i=new Image();
+            i.src="//juke.mmi.bemobile.ua/bug/pic.gif?siteid=bigmir.net&j=1&nocache="+Math.random();
+
+            (function(){
+                var p=document.getElementsByTagName('head')[0];
+                var s=document.createElement("script");
+                s.type="text/javascript";
+                s.src="//source.mmi.bemobile.ua/cm/cm.js";
+                s.async = true;
+                p.appendChild(s);
+            })();
+        };
+    </script>
+
+
+
+
+	
+
+
+	
+	<script>
+		$(document).ready(function(){
+
+                function getCookie(name) {
+                    var cookie = " " + document.cookie;
+                    var search = " " + name + "=";
+                    var setStr = null;
+                    var offset = 0;
+                    var end = 0;
+                    if (cookie.length > 0) {
+                        offset = cookie.indexOf(search);
+                        if (offset != -1) {
+                            offset += search.length;
+                            end = cookie.indexOf(";", offset);
+                            if (end == -1) {
+                                end = cookie.length;
+                            }
+                            setStr = unescape(cookie.substring(offset, end));
+                        }
+                    }
+                    return(setStr);
+                }
+
+                function init(){
+					var containers = $('[data-container="poll"]').filter('[data-ajax="1"]').filter(':not([data-inited="1"])');
+
+					containers.each(function(index, element){
+						var container = $(element);
+
+						if(typeof container.data('poll') != 'undefined' || typeof container.data('purl') != 'undefined')
+						{
+							var urlComponent = [];
+							var elData = container.data();
+							var purl = typeof container.data('purl') != 'undefined' ? container.data('purl') : '/';
+
+							delete elData.container;
+
+							for (key in elData)
+								urlComponent.push(key + '=' + encodeURIComponent(elData[key]));
+							urlComponent = urlComponent.join('&');
+
+							// GET query to obtain poll body
+							var result = $.get(purl+'?_tpl=poll&'+urlComponent+'&BMS='+getCookie('BMS')+'&r'+Math.random());
+
+							result.then(function (data) {
+								// defer replaceWith till request returns
+								if (data) {
+									container.replaceWith(data);
+								}
+							});
+						}
+
+					})
+				}
+				init();
+				$('body').on('poll_init', init); // for ajax insertion
+
+		});
+	</script>
+	
+
+
+
+</body>
+</html>

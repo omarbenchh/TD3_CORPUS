@@ -1,0 +1,717 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>SunLive - Coin swallow hospitalises boy - The Bay's News First</title>
+<meta name="description" content="Coin swallow hospitalises boy - Sunlive - The Bay's News First">
+<meta name="keywords" content="coin,swallow,hospitalises,boy">
+<link rel="stylesheet" href="/assets/css/style.css?v=9" type="text/css" />
+<link rel="apple-touch-icon" href="touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png">
+<script type="text/javascript" src="/assets/js/html5.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "e45d8bef-05ac-4a46-9195-09bfaa52e1e0", doNotHash: true, doNotCopy: false, hashAddressBar: false});</script>
+<script type="text/javascript">
+	$(document).ready(function() {
+
+		$('.tab_button .button').click(function(){
+			if($(this).hasClass('active')!=true)
+			{
+				$('.tab_button .button').removeClass('active');
+				$(this).addClass('active');
+				tab_index=$(this).index('.tab_button .button');
+				$('.tab_content .tab').hide();
+				$('.tab_content .tab:eq('+tab_index+')').fadeIn(0);
+			}
+		
+		});
+			
+	});
+    
+</script>
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+
+<script type='text/javascript'>
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/9777248/SkyScraper_2_Competitions', [160, 600], 'div-gpt-ad-1386905007124-0').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/TheSun_160x160', [160, 160], 'div-gpt-ad-1386905007124-1').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/TheSun_160x160_EdPicks', [160, 160], 'div-gpt-ad-1386905007124-2').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/TheSun_160x160_Latest', [160, 160], 'div-gpt-ad-1386905007124-3').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/TheSun_160x160_OpPoll', [160, 160], 'div-gpt-ad-1386905007124-4').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/TheSun_160x600_Skyscraper', [160, 600], 'div-gpt-ad-1386905007124-5').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/TheSun_468x60_Banner', [468, 60], 'div-gpt-ad-1386905007124-6').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/TheSun_760x120_Banner', [760, 120], 'div-gpt-ad-1386905007124-7').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/Tile_2_Base_of_latest_news', [160, 160], 'div-gpt-ad-1386905007124-8').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/Tile_3_Base_of_political_beat', [160, 160], 'div-gpt-ad-1386905007124-9').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/AdSkins', [1, 1], 'div-gpt-ad-1402452777647-0').addService(googletag.pubads());
+		googletag.defineSlot('/9777248/SunLive-MREC-News', [300, 250], 'div-gpt-ad-1406158713826-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>
+<meta property="og:image" content="http://www.sunlive.co.nz/assets/images/site/120116-air-ambulance.jpg">
+				<script src="/assets/js/jquery.prettyPhoto.js"></script>
+		<link rel="stylesheet" href="/assets/css/prettyPhoto.css" media="screen"/>
+<script type="text/javascript">
+
+var popupWindow=null;
+function popup(mypage,myname,w,h,pos,infocus){
+
+if (pos == 'random')
+{LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+else
+{LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
+settings='width='+ w + ',height='+ h + ',top=' + TopPosition + ',left=' + LeftPosition + ',scrollbars=yes,location=yes,directories=no,status=no,menubar=yes,toolbar=no,resizable=yes';popupWindow=window.open('',myname,settings);
+if(infocus=='front'){popupWindow.focus();popupWindow.location=mypage;}
+if(infocus=='back'){popupWindow.blur();popupWindow.location=mypage;popupWindow.blur();}
+
+}
+
+function openPage(page,title,wdt,hgt,rsz) {
+
+	tags = 'width=' + wdt + ', height=' + hgt + ', resizeable=yes, scrollbars=yes';
+
+	window.open(page,title,tags);
+
+}
+
+function refreshPage() {
+
+	location.reload(true);
+
+}
+
+</script>
+		
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://www.sunlive.co.nz/news/20820-coin-swallow-hospitalises-boy.html";
+xajax.config.statusMessages = false;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: /xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+
+<script type='text/javascript' charset='UTF-8'>
+/* <![CDATA[ */
+xajax_voteInPoll = function() { return xajax.request( { xjxfun: 'voteInPoll' }, { parameters: arguments } ); };
+xajax_goLogin = function() { return xajax.request( { xjxfun: 'goLogin' }, { parameters: arguments } ); };
+xajax_setSiteRegion = function() { return xajax.request( { xjxfun: 'setSiteRegion' }, { parameters: arguments } ); };
+/* ]]> */
+</script>
+
+		
+<style type="text/css">
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+  body {
+  	width: 1020px;
+  }
+  .bx-controls-direction a.bx-prev{
+  	width: 25px;
+  	height: 25px;
+  	top: 218px;
+  	right: 225px;
+	background:url('/assets/images/slider_prev_i.png')
+  }
+  .bx-controls-direction a.bx-next{
+  	width: 25px;
+  	height: 25px;
+  	top: 218px;
+  	background:url('/assets/images/slider_next_i.png');
+  }
+}
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+  body {
+  	width: 1020px;
+  }
+  .bx-controls-direction a.bx-prev{
+  	width: 30px;
+  	height: 30px;
+  	top: 218px;
+  	right: 225px;
+	background:url('/assets/images/slider_prev_i.png')
+  }
+  .bx-controls-direction a.bx-next{
+  	width: 30px;
+  	height: 30px;
+  	top: 218px;
+  	background:url('/assets/images/slider_next_i.png');
+  }
+}
+</style>
+</head>
+
+<body>
+	<div class="gradstyle"></div>
+	<div id="blackout"></div>
+	<div id="page"></div>
+	<!--wrapper-->
+    <div class="wrapper" id="wrapper" style="position: relative;">
+    	<div id="lclk" style="width: 0px; height: 0px; position: absolute;"></div>
+    	<div id="rclk" style="width: 0px; height: 0px; position: absolute; margin-left: 1180px"></div>
+    	<!--header-->
+        <header style="width: 990px;">
+        	<div style="width: 990px; height: 40px;">
+        		<div class="network_bar">
+					<img src="/assets/images/sunmedia-network.png" align="left" style="padding: 3px 20px 3px 3px;">
+					<ul>
+						<li style="padding: 0px;">
+							<div class="network_item">
+								<div class="content"><a>SUNLIVE <img src="/assets/images/more_arrow.png"></a></div>
+							</div>
+
+							<ul>
+                    			<li><a onClick="xajax_setSiteRegion('1');">SunLive - Western Bay</a></li>
+                    			<li><a onClick="xajax_setSiteRegion('3');">SunLive - Eastern Bay</a></li>
+                    			<li><a onClick="xajax_setSiteRegion('4');">SunLive - Thames Coromandel</a></li>
+                			</ul>
+            			</li>
+        			</ul>
+					<div class="network_item baydriver">
+						<div class="content"><a href="http://www.theweekendsun.co.nz" target="_blank">THE WEEKEND SUN</a></div>
+					</div>
+					<div class="network_item baydriver">
+						<div class="content"><a href="http://www.baydriver.co.nz" target="_blank">BAY DRIVER</a></div>
+					</div>
+					<div class="network_item waterline">
+						<div class="content"><a href="http://www.waterline.co.nz" target="_blank">WATERLINE</a></div>
+					</div>
+					<div class="network_item coastandcountry">
+						<div class="content"><a href="http://www.coastandcountrynews.co.nz" target="_blank">COAST &amp; COUNTRY NEWS</a></div>
+					</div>	
+				</div>
+			</div>
+        	<!--header-top-->
+            <div class="header-top">
+                <!--header-left-->
+                <div id="top_buttons" class="header-left">
+                    <a href="/register.html" class="orange_btn">JOIN FREE</a>
+                    <a onClick="login();" class="orange_btn">LOGIN</a>
+                </div>
+                <!--header-middle-->
+                <div class="header-middle">
+                	<p class="date">Saturday, January 16, 2016</p>
+                	</div>
+                <!--header-right-->
+                <div class="header-right">
+                	<form action="/searchresults.html" method="post">
+                    	<input style="border: 0px;" type="text" name="search" placeholder="Search" value=""/>
+                        <button type="submit"><span class="go">GO</span></button>
+                    </form>
+                </div>
+                <div class="clearfix"></div>
+             </div>
+             <!--full_banner-->
+       <div class="full_banner" id="bannerSpace"><a href="/index.html"><img align="left" vspace="9" hspace="4" src="/assets/images/logos/1/sunlive-logo.jpg" alt="SunLive - The Bay's news first" title="SunLive - The Bay's news first" class="headImg" border="0" /></a><!-- TheSun_760x120_Banner -->
+<div id='div-gpt-ad-1386905007124-7' style='width:760px; height:120px; float: right; margin-bottom: 2px; '>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-7'); });
+</script>
+</div></div>
+       <div class="clearfix"></div>
+             <!--menu1-->
+             <div id="menu1">
+             	<ul>
+                	<li><a href="/">HOME</a></li>
+                    <li><a href="/news/1_1_news.html">LOCAL NEWS</a>
+                    	<ul>
+                        	<li><a href="/news/1_2_politics.html">Politics</a></li>
+                            <li><a href="/news/1_3_council.html">Council</a></li>
+                            <li><a href="/news/1_4_business-&amp;-markets.html">Business & Markets</a></li>
+                            <li><a href="/news/1_5_health.html">Health</a></li>
+                            <li><a href="/news/1_6_environment.html">Environment</a></li>
+                            <li><a href="/news/1_7_motoring.html">Motoring</a></li>
+                            <li><a href="http://www.waterline.co.nz" target="_blank">Marine</a></li>
+                            <li><a href="/news/1_9_technology.html">Technology</a></li>
+                            <li><a href="/news/1_10_property.html">Property</a></li>
+                            <li><a href="http://www.coastandcountrynews.co.nz" target="_blank">Rural</a></li>
+                            <li><a href="/news/1_12_city-life.html">City Life</a></li>
+                            <li><a href="/news/1_15_education.html">Education</a></li>
+                            <li><a href="/news/1_37_crime.html">Crime</a></li>
+                            <li><a href="/news/1_39_entertainment.html">Entertainment</a></li>
+                            <li><a href="/news/1_40_local-elections.html">Local Elections</a></li>
+                            <li><a href="/archive.html">News Archive</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/news/2_sport.html">SPORT</a>
+                    	<ul>
+                        	<li><a href="/sports-draws.html">Sport Draws</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/news/3_lifestyle.html">LIFESTYLE</a>
+                    	<ul>
+                        	<li><a href="/news/3_18_bay-today.html">Bay Today</a></li>
+                            <li><a href="/competitions.html">Competitions</a></li>
+                            <li><a href="/news/3_20_dvd-reviews.html">DVD Reviews</a></li>
+                            <li><a href="/gig-guide.html">Gig Guide</a></li>
+                            <li><a href="/horoscopes.html">Horoscopes</a></li>
+                            <li><a href="/news/3_23_music.html">Music</a></li>
+                            <li><a href="/news/3_24_oh-baby!.html">Oh Baby!</a></li>
+                            <li><a href="/whats-on.html">Whats On</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/weather-and-tides.html">WEATHER &amp; TIDES</a></li>
+                    <li><a href="/blogs/">BLOGS &amp; OPINION</a>
+                    	<ul>
+                        	<li><a href="/blogs/1_sport.html">Sport</a></li>
+                            <li><a href="/blogs/3_technology.html">Technology</a></li>
+                            <li><a href="/blogs/7_business.html">Business</a></li>
+                            <li><a href="/blogs/16_regular-columnists.html">Regular Columnists</a></li>
+                            <li><a href="/blogs/17_all-about-wine.html">All About Wine</a></li>
+                            <li><a href="/blogs/18_politics.html">Politics</a></li>
+                            <li><a href="/blogs/20_rural.html">Rural</a></li>
+                            <li><a href="/blogs/21_arts-&-fashion.html">Arts &amp; Fashion</a></li>
+                            <li><a href="/blogs/23_food-and-wine.html">Food and Wine</a></li>
+                            <li><a href="/blogs/25_health.html">Health</a></li>
+                            <li><a href="/blogs/27_travel.html">Travel</a></li>
+                            <li><a href="/blogs/29_property.html">Property</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/photo-galleries.html">GALLERIES</a></li>
+                    <li><a href="/classifieds.html">CLASSIFIEDS </a></li>
+                    <li><a href="http://www.waterline.co.nz" target="_blank">WATERLINE</a></li>
+                    <li><a href="http://www.baydriver.co.nz" target="_blank">BAY DRIVER</a></li>
+                    <li><a href="/contact-us.html">CONTACT US</a>
+                    	<ul>
+                        	<li><a href="/our-services.html">Our Services</a></li>
+                            <li><a href="/about-us.html">About Us</a></li>
+                            <li><a href="/terms-and-conditions.html">Terms &amp; Conditions</a></li>
+                            <li><a href="/refund-policy.html">Refund Policy</a></li>
+                            <li><a href="/advertising-media-pack.html">Advertising / Media Pack</a></li>
+                        </ul>
+                    </li>
+                    <i class="clearfix"></i>
+                </ul>
+             </div>
+              <!--menu2-->
+              <div id="menu2">
+             	<ul>
+                	<li><a href="/news/4_28_letters-to-the-editor.html">LETTERS TO ED</a></li>
+                    <li><a href="/news/1_3_council.html">COUNCIL</a></li>
+					<li><a href="http://www.waterline.co.nz/" target="_blank">MARINE</a></li>
+					<li><a href="/videos/index.html">VIDEOS</a></li>
+					<li><a href="/whats-on.html">WHAT'S ON</a></li>
+					<li><a href="/competitions.html">COMPETITIONS</a></li>
+					<li><a href="http://www.coastandcountrynews.co.nz" target="_blank">RURAL</a></li>
+					<li><a href="/news/6_34_funeral-notices.html">FUNERAL NOTICES</a></li>
+					<li><a href="/news/1_10_property.html">PROPERTY</a></li>
+                    <li><a>PUBLICATIONS</a>
+                    	<ul>
+                        	<li><a href="/the-weekend-sun.html">The Weekend Sun</a></li>
+                            <li><a href="/new-farm-dairies.html">New Farm Dairies</a></li>
+                            <li><a href="/news/4_28_letters-to-the-editor.html">Letters to the Editor</a></li>
+                            <li><a href="/coast-and-country.html">Coast &amp; Country</a></li>
+                            <li><a href="/avoscene.html">Avoscene</a></li>
+                            <li><a href="http://www.waterline.co.nz" target="_blank">Waterline Magazine</a></li>
+                            <li><a href="http://www.baydriver.co.nz" target="_blank">Bay Driver</a></li>
+                            <li><a href="/sun-creative.html">Sun Creative</a></li>
+                            <li><a href="/house-of-the-year.html">House of the Year</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="http://www.freeviewnz.tv/tv_channels_and_listings/" target="_blank">TV LISTINGS</a></li>
+                    <i class="clearfix"></i>
+                </ul>
+             </div>
+             <div class="clearfix"></div>
+        </header>
+        <!--end_header-->
+        <!--main_content-->
+        <div id="main_content" class="main_content" style="width: 990px;">
+        	<!--left_bar-->
+            <div class="left_bar">
+            	<div class="ad_small">
+            		<!-- TheSun_160x160 -->
+					<div id='div-gpt-ad-1386905007124-1' style='width:160px; height:160px;'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-1'); });
+						</script>
+					</div>
+				</div>
+                <div class="clearfix"></div>
+                <!--tabs-->
+                <div class="tabs">
+                	<!--tab_button-->
+                    <div class="tab_button">
+                    	<div class="button active">LATEST</div>
+                        <div class="button latest">TRENDING</div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <!--tab_content-->
+                    <div class="tab_content">
+                   		<div class="tab display">
+                       		<ul>
+								<li><a href="/news/117464-bridge-crash-vehicle-found.html">Bridge crash vehicle found</a></li>
+	<li><a href="/news/117461-mauao-base-track-reopens.html">Mauao base track re-opens</a></li>
+	<li><a href="/news/117458-arrest-warrants-issued-bay-men.html">Arrest warrants issued for Bay men</a></li>
+	<li><a href="/news/117449-2016-road-toll-already-at-15.html">2016 road toll already at 15</a></li>
+	<li><a href="/news/117437-greens-objection-to-seabed-mining.html">Green’s objection to seabed mining</a></li>
+	<li><a href="/news/117431-bays-50m-lotto-prize-wins.html">Bay’s $50M Lotto prize wins</a></li>
+	<li><a href="/news/117428-mauao-opening-decision-delayed.html">Mauao opening decision delayed</a></li>
+	<li><a href="/news/117422-building-consents-up-bay.html">Building consents up in the Bay</a></li>
+	<li><a href="/news/117403-harbour-bridge-crash-delays.html">Harbour Bridge crash delays</a></li>
+	<li><a href="/news/117401-the-day-summer-did-runner.html">The day Summer did a runner</a></li>
+	<li><a href="/news/117398-sevens-set-to-kickoff-rotorua.html">Sevens set to kick-off in Rotorua</a></li>
+	<li><a href="/news/117395-road-works-to-cause-travel-delays.html">Road works to cause travel delays</a></li>
+	<li><a href="/news/117392-business-man-arrested-fraud.html">Business man arrested for fraud</a></li>
+	<li><a href="/news/117382-think-before-you-dive.html">Think before you dive in</a></li>
+	<li><a href="/news/117391-fuelled-up-basketball.html">Fuelled up for Basketball</a></li>
+	
+                           	</ul>
+                        </div>
+                        <!--tab-->
+                        <div class="tab">
+                        	<ul>
+								<li><a href="/news/117329-fire-on-the-mount.html">Fire on The Mount</a></li>
+	<li><a href="/news/117167-serious-crash-closes-highway.html">Serious crash closes highway</a></li>
+	<li><a href="/news/117341-fire-setbacks-mauao-recovery-programme.html">Fire setbacks Mauao recovery programme</a></li>
+	<li><a href="/news/117157-bay-judge-found-dead-home.html">Bay judge found dead in home</a></li>
+	<li><a href="/news/117331-blaze-rips-through-mauao.html">Blaze rips through Mauao</a></li>
+	<li><a href="/news/117316-car-and-boat-crash-on-totara-street.html">Car and boat crash on Totara Street</a></li>
+	<li><a href="/news/117170-six-injured-highway-crash.html">Six injured in highway crash</a></li>
+	<li><a href="/news/117358-mauao-fire-cause-still-unknown.html">Mauao fire cause still unknown</a></li>
+	<li><a href="/news/117370-safety-issues-close-mount.html">Safety issues close the Mount</a></li>
+	<li><a href="/news/117191-sh29-crash-victims-icu.html">SH29 crash victims in ICU</a></li>
+	<li><a href="/news/117235-train-hits-car-otumoetai.html">Train hits car in Otumoetai</a></li>
+	<li><a href="/news/117100-fleeing-car-crashes-near-te-maunga.html">Fleeing car crashes near Te Maunga</a></li>
+	<li><a href="/news/117268-driver-fails-to-stop-red-light.html">Driver fails to stop for red light</a></li>
+	<li><a href="/news/116987-crash-reported-on-sh29.html">Crash reported on SH29</a></li>
+	<li><a href="/news/117182-crash-reported-near-bayfair.html">Crash reported near Bayfair</a></li>
+	
+                            </ul>
+                        </div>
+                        <div class="static_tab display">
+                            <!--join_now-->
+                            <div class="ad_small">
+                            	<!-- Tile_2_Base_of_latest_news -->
+								<div id='div-gpt-ad-1386905007124-8' style='width:160px; height:160px;'>
+									<script type='text/javascript'>
+										googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-8'); });
+									</script>
+								</div>
+							</div>
+                            <!--political-->
+                            <div class="political">
+                            	<h3 class="beat"><a href="/news/7_political-beat.html">POLITICAL BEAT</a></h3>
+                                <ul>
+                                    <li><a href="/news/117455-new-appointments-to-cri-boards.html">New appointments to CRI boards</a></li>
+	<li><a href="/news/117446-fund-to-encourage-curious-minds.html">Fund to encourage curious minds</a></li>
+	<li><a href="/news/117343-targeting-maori-smokers.html">Targeting Maori smokers</a></li>
+	<li><a href="/news/117319-warning-on-marine-parks.html">Warning on marine parks </a></li>
+	<li><a href="/news/117301-greens-dont-like-fishing-park.html">Greens don’t like fishing park</a></li>
+	
+                                </ul>
+                            </div>
+                            <div class="ad_small">
+                            	<!-- Tile_3_Base_of_political_beat -->
+								<div id='div-gpt-ad-1386905007124-9' style='width:160px; height:160px;'>
+									<script type='text/javascript'>
+										googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-9'); });
+									</script>
+								</div>
+							</div>
+                             <!--political police_beat-->
+                             <div class="political police_beat">
+                            	<h3 class="beat"><a href="/news/9_police-beat.html">POLICE BEAT</a></h3>
+                                <ul>
+                                    <li><a href="/news/117337-arrest-following-serious-crash.html">Arrest following serious crash</a></li>
+	<li><a href="/news/117289-fatal-truck-crash.html">Fatal truck crash</a></li>
+	<li><a href="/news/117271-stolen-silver-jaguar-sovereign.html">Stolen silver Jaguar Sovereign</a></li>
+	<li><a href="/news/117256-boulder-beach-name-release.html">Boulder Beach name release</a></li>
+	<li><a href="/news/117205-body-mataura-river.html">Body in Mataura River</a></li>
+	
+                                </ul>
+                            </div>
+                            <!--political opinion_poll-->
+                            <div class="political opinion_poll">
+                               				
+                            	<h3 class="beat"><a href="/pollresults.html">OPINION POLL</a></h3>
+                                <p class="poll">Should the Mount have a permanent i-Site?</p>
+                                <span id="pollArea">
+                                <form name="pollForm" id="pollForm" onSubmit="return false;">
+                                <input type="hidden" name="pid" value="580">
+                                <table style="width: 145px; margin-bottom: 5px;">
+									<tr><td valign="top"><input type="radio" name="pollanswer" id="answer_1" value="1" style="margin: 5px 5px 0px 0px;"></td><td>Yes</td></tr>
+					<tr><td colspan="2" style="border-bottom:1px solid #eeeded;"></td></tr><tr><td valign="top"><input type="radio" name="pollanswer" id="answer_2" value="2" style="margin: 5px 5px 0px 0px;"></td><td>No</td></tr>
+					<tr><td colspan="2" style="border-bottom:1px solid #eeeded;"></td></tr>
+								</table>
+								</form>
+								<a class="orange_btn" onClick="xajax_voteInPoll(xajax.getFormValues('pollForm'),'1');">VOTE</a>
+								</span>
+                    			<a href="/pollresults.html" class="orange_btn">RESULTS</a>
+
+                                <br/><br/>
+                                <div class="ad_small">
+                                	<!-- TheSun_160x160_OpPoll -->
+									<div id='div-gpt-ad-1386905007124-4' style='width:160px; height:160px;'>
+										<script type='text/javascript'>
+											googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-4'); });
+										</script>
+									</div>
+								</div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <!--end_left_bar-->
+			            <!--central-->
+             <div class="central middle">
+            	<!--central_left-->
+                <div class="central_left">           
+                
+					<!-- TheSun_468x60_Banner -->
+					<div id='div-gpt-ad-1386905007124-6' style='width:468px; height:60px;'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-6'); });
+						</script>
+					</div>
+
+                	<a class="link" href="/index.html">Home</a> >> <a class="link" href="/news/1_local-news.html">Local News</a> >> <a class="link" href="/news/1_1_local-news.html">Local News</a>
+					
+					<!--SOCIAL-->
+
+					<div class="news_detail">
+				<h2 class="main_title">Coin swallow hospitalises boy</h2>
+				<p class="subhead"></p>
+				<p class="posted">Posted at 8:56am Monday 16 Jan, 2012</p>
+				</div>
+				<div class="social_icons"><span class="st_facebook_hcount" displayText="Share"></span><span class="st_twitter_hcount" displayText="Tweet"></span><span class="st_googleplus_hcount" displayText="Google +"></span><div class="email_page" onClick="openPage('/email_friend.php','Email','720','420','no');"></div><a href="/news/printer-friendly/20820-coin-swallow-hospitalises-boy.html" target="_blank"><div class="print_page"></div></a></div>
+				<div class="slideShow" style="border: 0; padding: 0px;"></div>
+				<div class="news_des">
+				<p><strong>A Tauranga boy is receiving medical treatment after he reportedly swallowed a $2 coin.</strong></p>
+<p><strong><img src="../assets/images/site/120116-air-ambulance.jpg" alt="" width="468" height="220" /><br /></strong></p>
+<p>At about 6.30pm the Westpac Waikato Air Ambulance airlifted a 10-year-old Tauranga boy from Tauranga Hospital to Waikato Hospital.</p>
+<p>Air ambulance pilot Dan Harcourt says the swallowed coin had lodged in the boy's throat causing a constant gagging reflex.</p>
+
+				
+
+				<div style="margin-left: 90px; margin-top: 20px;">
+				<!-- SunLive MREC News -->
+<div id="div-gpt-ad-1406158713826-0" style="width:300px; height:250px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display("div-gpt-ad-1406158713826-0"); });
+</script>
+</div><br/>
+				</div>
+				<div class="social_icons"><span class="st_facebook_hcount" displayText="Share"></span><span class="st_twitter_hcount" displayText="Tweet"></span><span class="st_googleplus_hcount" displayText="Google +"></span><div class="email_page" onClick="openPage('/email_friend.php','Email','720','420','no');"></div><a href="/news/printer-friendly/20820-coin-swallow-hospitalises-boy.html" target="_blank"><div class="print_page"></div></a></div>
+				</div>
+					
+					
+	
+					<div class="comments"><h2 class="comment">COMMENTS</h2>
+						<div class="post">There are no comments on this article.</div>
+					</div>
+<h2>Post a Comment</h2>You must be logged in to make a comment.<br/><br/><a onClick="login();" class="orange_btn">LOGIN NOW</a>
+
+                </div>
+                <div class="central_right">
+                	<div class="viewed">
+                    <h4 class="most_viewed"><a href="#">MOST VIEWED THIS WEEK</a></h4>
+                    	<ul>
+                            <li><a href="/news/117329-fire-on-the-mount.html">Fire on The Mount</a></li><li><a href="/news/117167-serious-crash-closes-highway.html">Serious crash closes highway</a></li><li><a href="/news/117341-fire-setbacks-mauao-recovery-programme.html">Fire setbacks Mauao recovery programme</a></li><li><a href="/news/117157-bay-judge-found-dead-home.html">Bay judge found dead in home</a></li><li><a href="/news/117331-blaze-rips-through-mauao.html">Blaze rips through Mauao</a></li><li><a href="/news/117316-car-and-boat-crash-on-totara-street.html">Car and boat crash on Totara Street</a></li><li><a href="/news/117170-six-injured-highway-crash.html">Six injured in highway crash</a></li><li><a href="/news/117358-mauao-fire-cause-still-unknown.html">Mauao fire cause still unknown</a></li><li><a href="/news/117370-safety-issues-close-mount.html">Safety issues close the Mount</a></li><li><a href="/news/117191-sh29-crash-victims-icu.html">SH29 crash victims in ICU</a></li><li><a href="/news/117235-train-hits-car-otumoetai.html">Train hits car in Otumoetai</a></li><li><a href="/news/117100-fleeing-car-crashes-near-te-maunga.html">Fleeing car crashes near Te Maunga</a></li><li><a href="/news/117268-driver-fails-to-stop-red-light.html">Driver fails to stop for red light</a></li><li><a href="/news/116987-crash-reported-on-sh29.html">Crash reported on SH29</a></li><li><a href="/news/117182-crash-reported-near-bayfair.html">Crash reported near Bayfair</a></li>
+                        </ul>
+                        <!--ad_block-->
+                        <div class="ad_block_cr">
+                        	<!-- TheSun_160x160_Latest -->
+							<div id='div-gpt-ad-1386905007124-3' style='width:160px; height:160px;'>
+								<script type='text/javascript'>
+									googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-3'); });
+								</script>
+							</div>
+						</div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="viewed">
+                    <h4 class="most_viewed"><a href="#">MOST COMMENTED</a></h4>
+                    	<ul>
+                            <li><a href="/news/116209-retailer-slams-waterfront-plan.html">Retailer slams waterfront plan</a></li><li><a href="/news/116779-permanent-isite-proposed-mount.html">Permanent i-Site proposed for Mount</a></li><li><a href="/news/115840-feedback-on-te-puke-options-sought.html">Feedback on Te Puke options sought</a></li><li><a href="/news/116360-slow-driver-holds-up-traffic.html">Slow driver holds up traffic</a></li><li><a href="/news/117023-your-thoughts-on-civic-centre-style.html">﻿Your thoughts on civic centre style</a></li><li><a href="/news/116966-opposition-to-state-housing-sale.html">Opposition to state housing sale</a></li><li><a href="/news/116509-national-road-toll-at-321-2015.html">National road toll at 321 for 2015</a></li><li><a href="/news/116866-civic-centre-debate-begins.html">Civic centre debate begins</a></li><li><a href="/news/115939-twocar-crash-at-mcdonalds.html">Two-car crash at McDonald’s</a></li><li><a href="/news/115610-dealing-and-to-beggars.html">Dealing with, and to, the beggars</a></li>
+                        </ul>
+                        <!--ad_block-->
+                        <div class="ad_block_cr">
+                        	<!-- TheSun_160x160_EdPicks -->
+							<div id='div-gpt-ad-1386905007124-2' style='width:160px; height:160px;'>
+								<script type='text/javascript'>
+									googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-2'); });
+								</script>
+							</div>
+						</div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div> 
+                <div class="clearfix"></div>
+            </div>
+            <!--end_central-->
+			<!--VJS-->
+            <!--right_bar-->
+            <div class="right_bar">
+            	<!--add_block-->
+                <div class="add_block">
+					<!-- TheSun_160x600_Skyscraper -->
+					<div id='div-gpt-ad-1386905007124-5' style='width:160px; height:600px;'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-5'); });
+						</script>
+					</div>
+                </div>
+                <!--competition-->
+                <div class="competition">
+                	<h2 class="competion"><a href="/competitions.html">COMPETITION</a></h2>
+                    <a href="/competitions.html"><img src="/assets/newsletter/competitions.jpg" border="0"></a>
+                </div>
+                <!--add_block-->
+                <div class="add_block">
+                	<!-- SkyScraper_2_Competitions -->
+					<div id='div-gpt-ad-1386905007124-0' style='width:160px; height:600px;'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1386905007124-0'); });
+						</script>
+					</div>
+                </div>
+                <!--competition bay today-->
+                <div class="competition bay today">
+                	<h2 class="competion"><a href="/news/3_18_bay-today.html">BAY TODAY</a></h2>
+					<a href="/news/3_18_bay-today.html"><img src="../assets/images/site/150105-sml-Papamoa-Beach-sunset-by-Rachel-Stewart.jpg"></a><br/><p><em>Papamoa Beach sunset. By Rachel Stewart.</em> Send us your photos and stories from around the Bay of Plenty. <strong>Email:</strong> <a>photos@thesun.co.nz</a><a href="mailto:photos@thesun.co.nz"><br /></a></p>
+                </div>
+                <!--competition oh baby-->
+                <div class="competition oh baby">
+                	<h2 class="competion"><a href="/news/3_24_oh-baby!.html">OH BABY!</a></h2>
+					<img src="../assets/images/site/Tracey-and-John-Lourie-SL.jpg"><br/><a href="/news/3_24_oh-baby!.html"><i>Click here to see our newest residents.</i></a>
+                </div>
+            </div>
+		</div>
+		<div id="supp"></div>
+        <div class="clearfix"></div>
+        <!--end main_content-->
+        <!--footer-->
+        <footer style="width: 990px;">
+        	<nav class="footer_nav">
+            	<ul>
+                	<li><a href="/index.html">HOME</a></li>
+                    <li><a href="/news/1_1_news.html">LOCAL NEWS</a></li>
+                    <li><a href="/news/2_sport.html">SPORT</a></li>
+                    <li><a href="/news/3_lifestyle.html">LIFESTYLE</a></li>
+                    <li><a href="/whats-on.html">WHAT'S ON</a></li>
+                    <li><a href="/competitions.html">COMPETITIONS</a></li>
+                    <li><a href="/news/1_11_rural.html">RURAL</a></li>
+                    <li><a href="/news/6_34_funeral-notices.html">FUNERAL NOTICES</a></li>
+                    <li><a href="/contact-us.html">CONTACT US</a></li>
+                    <i class="clearfix"></i>
+                </ul>
+            </nav>
+            <div class="copy_right">
+   	      <p class="copy">&copy;2016 Sun Media Ltd - All Rights Reserved </p>
+                <a class="sun" href="#"><img src="/assets/images/sun_media.png" alt="" /></a>
+                <i class="clearfix"></i>
+            </div>
+        </footer>
+        <div class="clearfix"></div>
+    </div>
+    <script type="text/javascript">
+		function reloadPage(){document.location.reload();}function createForm(){var e;var t;if(typeof window.innerWidth=="number"){e=window.innerWidth;t=window.innerHeight}else if(document.documentElement&&(document.documentElement.clientWidth||document.documentElement.clientHeight)){e=document.documentElement.clientWidth;t=document.documentElement.clientHeight}else if(document.body&&(document.body.clientWidth||document.body.clientHeight)){e=document.body.clientWidth;t=document.body.clientHeight}e=e/2-150;t=t/2-200;body='<div id="newForm" class="formPopup" style="top:'+t+"px; left: "+e+'px;"><form name="loginForm" id="loginForm" onSubmit="return false;">';body+="<table>	";body+='<tr align="left">';body+="<th><h3>Login</h3><br/></th>";body+="</tr>";body+='<tr><td>Email: </td><td><input id="username" class="text" type="text" name="username"></td></tr>';body+='<tr><td>Password: </td><td><input class="text" type="password" name="password"></td></tr>';body+='<tr><td>Remember Me: </td><td><input type="checkbox" name="rememberme" value="1"></td></tr>';body+='<tr><td align="right" colspan="2"><br/><input type="submit" class="button" name="submit" value="Log In" onClick="xajax_goLogin(xajax.getFormValues(\'loginForm\'));"><input type="button" class="button" value="Cancel" onClick="dismissForm();"></td></tr>';body+='<tr><td colspan="2"><br/>Forgot your password? <a onClick="dismissForm(\'1\');">Click Here</a></td></tr>';body+="</table>";body+="</form></div>";$("#page").prepend(body);$("#username").focus()}function dismissForm(e){document.getElementById("blackout").style.visibility="hidden";document.getElementById("blackout").style.display="none";removeElement("newForm");if(e=="1"){document.location.href="/forgot-password.html"}else{window.location.reload()}}function login(){document.getElementById("blackout").style.visibility="visible";document.getElementById("blackout").style.display="block";createForm()}function removeElement(e){var t=document.getElementById(e);t.parentNode.removeChild(t)}
+	</script>
+
+	<!-- GOOGLE ANALYTICS -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-10384727-1', 'sunlive.co.nz');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+	<!-- END GOOGLE ANALYTICS -->
+
+		
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+	<!-- COPYRIGHT 2012 Nielsen Online -->
+	<script type="text/javascript" src="//secure-nz.imrworldwide.com/v60.js">
+	</script>
+	<script type="text/javascript">
+	 var pvar = { cid: "nz-sunmedia", content: "0", server: "secure-nz" };
+	 var trac = nol_t(pvar);
+	 trac.record().post();
+	</script>
+	<noscript>
+	 <div>
+	 <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-sunmedia&amp;cg=0&amp;cc=1&amp;ts=noscript"
+	 width="1" height="1" alt="" />
+	 </div>
+	</noscript>
+	<!-- END Nielsen Online SiteCensus V6.0 -->
+	<!-- START Nielsen Online SiteCensus V6.0 -->
+	<!-- COPYRIGHT 2012 Nielsen Online -->
+	<script type="text/javascript">
+	 var pvar = { cid: "nz-adhub", content: "0", server: "secure-nz" };
+	 var trac = nol_t(pvar);
+	 trac.record().post();
+	</script>
+	<noscript>
+	 <div>
+	 <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-adhub&amp;cg=0&amp;cc=1&amp;ts=noscript"
+	 width="1" height="1" alt="" />
+	 </div>
+	</noscript>
+	<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- AdSkins -->
+<div id='div-gpt-ad-1402452777647-0' style='width:1px; height:1px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1402452777647-0'); });
+</script>
+</div>
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+	(function() {
+		var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+		em.src = ('https:' == document.location.protocol ? 'https://nz-ssl' : 'http://nz-cdn') + '.effectivemeasure.net/em.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+	})();
+</script>
+<noscript>
+	<img src="//nz.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+</body>
+</html>
