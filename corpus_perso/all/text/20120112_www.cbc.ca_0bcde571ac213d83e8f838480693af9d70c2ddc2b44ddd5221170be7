@@ -433,7 +433,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
         
         
          
-        
+                
 	
 
 
@@ -445,7 +445,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		
 			<div class="showinfo">
 				<div class="nowplaying">
-					<a href="/video/#/Radio/Local_Shows/Manitoba">
+					<a href="/video/#/News/Canada/Manitoba/Livestream">
 					Radio One	
 					</a>
 				</div>
@@ -866,14 +866,11 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/canada/manitoba/alex-suber-blue-bomber-contract-1.3405303" class="complexlink media">
-								<img title='' height='79' alt='suber-alex-05735905' width='140' class='media-side' src='http://i.cbc.ca/1.2513174.1390859574!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/suber-alex-05735905.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Alex Suber signs 1-day contract to retire from CFL as Blue Bomber</span>
+							<a  href="/news/canada/manitoba/ice-climber-scales-frozen-tower-on-frigid-winnipeg-day-1.3407852" class="complexlink media">
+								<img title='' height='79' alt='Ice climber, Winnipeg' width='140' class='media-side' src='http://i.cbc.ca/1.3407862.1453059456!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/ice-climber-winnipeg.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">Ice climber scales frozen tower on frigid Winnipeg day</span>
 									<span class="lineuproll-extra">
-																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/manitoba/alex-suber-blue-bomber-contract-1.3405303"></span></span>
-    <span class="offscreen">comments</span>
-   
+																					<span class="lineuproll-icons"> 
 	
 		</span>
 																			</span>
@@ -887,10 +884,24 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/west-end-youth-safe-space-funding-1.3405156">Manitoba kicks in $380K for all-hours youth safe space in Winnipeg's West End</a>
+							<a  href="/news/canada/toronto/freeman-verdict-1.3407656">Jury convicts 2 in Leanne Freeman murder</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> 
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/manitoba/winnipeg-new-music-festival-gives-audience-lego-like-seating-experience-1.3407715">Winnipeg New Music Festival gives audience Lego-like seating experience</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/manitoba/west-end-youth-safe-space-funding-1.3405156"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/manitoba/winnipeg-new-music-festival-gives-audience-lego-like-seating-experience-1.3407715"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -904,12 +915,9 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/canada-us-real-estate-1.3405145">Canadians eager to sell U.S. properties, Arizona real estate agent says</a>
+							<a  href="/news/canada/manitoba/a-few-bold-souls-brave-extreme-cold-in-winnipeg-at-the-forks-1.3407782">A few bold souls brave extreme cold in Winnipeg at The Forks</a>
 							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/manitoba/canada-us-real-estate-1.3405145"></span></span>
-    <span class="offscreen">comments</span>
-   
+																	<span class="lineuproll-icons"> 
 	
 		</span>
 															</span>
@@ -921,30 +929,14 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/winnipeg-deep-freeze-1.3405139">Winnipeggers go back into the deep freeze</a>
+							<a  href="/news/canada/manitoba/david-bowie-cover-music-in-high-demand-at-winnipeg-record-store-owner-says-1.3407273">David Bowie cover music in high demand at Winnipeg record store, owner says</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/manitoba/winnipeg-deep-freeze-1.3405139"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/manitoba/david-bowie-cover-music-in-high-demand-at-winnipeg-record-store-owner-says-1.3407273"></span></span>
     <span class="offscreen">comments</span>
    
-	
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/pedestrian-hit-main-street-winnipeg-1.3405200">Pedestrian hit by car on Main Street, sent to hospital</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/manitoba/pedestrian-hit-main-street-winnipeg-1.3405200"></span></span>
-    <span class="offscreen">comments</span>
-   
-	
+	    	    		    		    	    		    		    		
+			<span class="icon_video">video</span>
 		</span>
 															</span>
 						</li>
@@ -1060,12 +1052,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/business/markets-dollar-oil-1.3405067" class="complexlink media">
-								<img title='' height='79' alt='Loonie canadian dollar 20150130' width='140' class='media-side' src='http://i.cbc.ca/1.3153847.1436993640!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/loonie-canadian-dollar-20150130.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Loonie dips below 69 cents US as oil drops another 5%</span>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316" class="complexlink media">
+								<img title='' height='79' alt='DEM 2016 Sanders' width='140' class='media-side' src='http://i.cbc.ca/1.3406498.1452897045!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/dem-2016-sanders.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">'Vanilla socialist' Bernie Sanders jams a wrench into the Clinton juggernaut</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/markets-dollar-oil-1.3405067"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1081,64 +1073,66 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/health/cadmium-jewelry-ardene-aldo-1.3404036">Cadmium in low-cost jewelry may create toxic bling</a>
+							<a  href="/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614">Burkina Faso attacks: 6 Quebecers killed were on humanitarian trip</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/cadmium-jewelry-ardene-aldo-1.3404036"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614"></span></span>
+    <span class="offscreen">comments</span>
+   
+	    	    		    		    	    		    		    		
+			<span class="icon_video">video</span>
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/health/drug-trial-france-death-1.3407803">Man in botched painkiller drug trial dies in France</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/drug-trial-france-death-1.3407803"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/technology/spacex-launch-climate-satellite-1.3407778">Satellite launched but SpaceX rocket damaged on landing</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/technology/spacex-launch-climate-satellite-1.3407778"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459">'They think we're terrorists': Men behind 'suspicious' photographs at Vancouver mall speak out</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459"></span></span>
     <span class="offscreen">comments</span>
    
 	    	    		    		    		
 			<span class="icon_video">video</span>
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/hamilton/news/tim-bosma-slaying-jury-selection-in-millard-smich-trial-starts-monday-1.3400581">'This only happens in TV and in movies': Tim Bosma killing reads like crime novel</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
-	    	    		    		    	    		    		    		
-			<span class="icon_video">video</span>
-				<span class="icon_audio">audio</span>
-	</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/women-on-the-money-social-media-1.3403812">Your picks for female faces on Canadian currency </a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/women-on-the-money-social-media-1.3403812"></span></span>
-    <span class="offscreen">comments</span>
-   
-	
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/montreal/guy-turcotte-sentencing-1.3404902">Guy Turcotte not eligible for parole for 17 years after killing his children</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/guy-turcotte-sentencing-1.3404902"></span></span>
-    <span class="offscreen">comments</span>
-   
-	
 		</span>
 															</span>
 						</li>
@@ -1174,31 +1168,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/iteam/not-pretty-health-violations-in-manitoba-nail-salons-go-unreported-1.3400312">Not pretty: Health violations in Manitoba nail salons go unreported</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/woman-catches-dramatic-crash-on-dashcam-in-winnipeg-1.3400947">Woman catches dramatic crash on dashcam in Winnipeg</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/first-nations-leader-questions-why-she-was-treated-like-a-thief-in-winnipeg-store-1.3398247">First Nations leader questions why she was treated like a thief in Winnipeg store</a>
+							<a  href="/news/canada/manitoba/fire-rips-through-destroys-historic-glenboro-building-1.3407576">Fire rips through, destroys historic Glenboro building</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1222,7 +1192,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/woman-homicide-winnipeg-2016-1.3401559">Tanya Nepinak's sisters charged with murder in Winnipeg rooming house stabbing</a>
+							<a  href="/news/canada/manitoba/winnipeg-new-music-festival-gives-audience-lego-like-seating-experience-1.3407715">Winnipeg New Music Festival gives audience Lego-like seating experience</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1234,7 +1204,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/driver-escapes-after-truck-breaks-through-ice-near-split-lake-1.3403002">Driver escapes after truck breaks through ice near Split Lake</a>
+							<a  href="/news/canada/manitoba/animals-on-winnipeg-s-streets-suffer-as-temperatures-drop-1.3407324">Animals on Winnipeg's streets suffer as temperatures drop</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1246,7 +1216,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/manitoba-id-cards-1.3398862">Manitobans to receive all-in-one ID cards starting in 2017</a>
+							<a  href="/news/canada/manitoba/alyssa-selman-winnipeg-jockey-paralyzed-in-june-adjusts-to-life-at-home-1.3407494">Alyssa Selman, Winnipeg jockey paralyzed in June, adjusts to life at home</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1258,7 +1228,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/mountie-takes-woman-home-from-jail-to-pursue-a-personal-relationship-1.2893487">Mountie takes woman home from jail to 'pursue a personal relationship'</a>
+							<a  href="/news/canada/manitoba/family-orphaned-refugees-winnipeg-1.3404732">Family of 11 refugee children from Somalia arrive in Winnipeg</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1270,7 +1240,31 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/manitoba/winnipeg-researcher-makes-predicting-kidney-failure-easy-with-simple-equation-1.3399857">Winnipeg researcher makes predicting kidney failure easy with simple equation</a>
+							<a  href="/news/canada/manitoba/extreme-cold-warning-issued-yet-again-for-southern-manitoba-1.3407205">Extreme cold warning issued — yet again — for southern Manitoba</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/manitoba/david-bowie-cover-music-in-high-demand-at-winnipeg-record-store-owner-says-1.3407273">David Bowie cover music in high demand at Winnipeg record store, owner says</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/manitoba/police-arrest-man-after-kenaston-robbery-shooting-and-erratic-chase-1.3407039">Police arrest man after Kenaston robbery, shooting and erratic chase</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1374,7 +1368,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 </style><footer id="cbc-globalfooter" class="sclt-globalFooter"><div class="cbc-globalfooter-section"><h2>Explore CBC</h2><ul><li><a href="http://www.cbc.ca">CBC Home</a></li><li><a href="http://www.cbc.ca/television/">TV</a></li><li><a href="http://www.cbc.ca/radio/">Radio</a></li><li><a href="http://www.cbc.ca/news">News</a></li><li><a href="http://www.cbc.ca/sports">Sports</a></li><li><a href="http://music.cbc.ca/">Music</a></li><li><a href="/arts/">Arts</a></li><li><a href="http://www.cbc.ca/kidscbc/">Kids</a></li><li><a href="http://www.cbc.ca/news/canada#region-nav">Local</a></li><li><a href="http://www.cbc.ca/documentaries/">Documentaries</a></li><li><a href="http://www.cbc.ca/punchline/">Comedy</a></li><li><a href="http://www.cbc.ca/books/">Books</a></li><li><a href="http://www.cbc.ca/parents/">Parents</a></li><li><a href="http://www.cbc.ca/news/aboriginal">Aboriginal</a></li><li><a href="http://www.cbc.ca/weather/">Weather</a></li><li><a href="http://www.cbc.ca/connects/">CBC Connects</a></li><li><a href="http://www.cbc.ca/archives/">Digital Archives</a></li><li><a href="http://www.cbc.ca/games/">Games</a></li><li><a href="http://www.cbc.ca/contests/">Contests</a></li><li><a href="http://www.cbc.ca/sitemap/">Site Map</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Stay Connected</h2><ul><li><a href="http://www.cbc.ca/mobile/services/">Mobile</a></li><li><a href="http://www.cbc.ca/rss/">RSS</a></li><li><a href="http://www.cbc.ca/radio/podcasts/">Podcasts</a></li><li><a href="http://subscriptions.cbc.ca/listmanagement">Newsletters &amp; Alerts</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Services and Information</h2><ul><li><a href="http://www.cbc.radio-canada.ca/en">Corporate Info</a></li><li><a href="http://www.cbc.ca/appearances/">Public Appearances</a></li><li><a href="http://www.cbc.ca/sitemap/">Commercial Services</a></li><li><a href="http://www.cbc.ca/permissions/">Reuse &amp; Permission</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/termsofuse.html">Terms of Use</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/privacy.html">Privacy Policy</a></li><li><a href="http://www.cbcshop.ca/">CBC Shop</a></li><li><a href="http://www.cbc.ca/connects/">Help</a></li><li><a href="http://www.cbc.ca/connects/">Contact Us</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/jobs/">Jobs</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/doing-business-with-us/">Doing Business with Us</a></li><li><a href="/productionfacilities/">Renting Facilities</a></li></ul></div><div class="cbc-globalfooter-bottom"><div class="cbc-globalfooter-logo"><p class="cbc"><a href="http://www.cbc.radio-canada.ca/">CBC</a></p><a href="http://www.cbc.radio-canada.ca/"><img class="cbc-globalfooter-logo" src="/i/o/globalnav/v14/images/cbc-gem.svg" width="40" height="40" alt="CBC gem logo"></a><p class="rc"><a href="http://www.cbc.radio-canada.ca/">Radio-Canada</a></p></div><div class="cbc-globalfooter-copyright"><p>©2016 CBC/Radio-Canada. All rights reserved</p></div><div class="cbc-globalfooter-bottom-link" lang="fr-CA"><a href="http://ici.radio-canada.ca/" hreflang="fr-CA">Visitez Radio-Canada.ca</a></div><div class="clear"></div></div></footer><script src="/i/o/globalnav/v14/scripts/globalfooter.js"></script><script>(function() {
 try{var a=
 {l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""}
-,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src=“//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
+,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
 {var g= "//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}
 catch(h){}};
 })();</script>

@@ -217,19 +217,20 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/235432/p
 		<div class="latest focuses">
 	<ul class="articles">
 		
-				<li>
+				<li >
 				<div class="focus-li-wrap">
 				<a href="/news/367640-konec-prazdnikam-v-kieve-organizovani-punkti-priema-novogodnih-elok.html"><img src="/upload/articles/2016/01/15/small/1452838957_priem.jpg" alt="" /></a><a href="/news/367640-konec-prazdnikam-v-kieve-organizovani-punkti-priema-novogodnih-elok.html" class="focus-title">Конец праздникам: в Киеве организованы пункты приема новогодних елок</a>				</div>
 		</li>
-				 		<li>
+				 		<li >
 				<div class="focus-li-wrap">
 				<a href="/articles/367528-u-nas-umirayut-ne-ot-grippa-a-ot-cen-na-lekarstva.html"><img src="/upload/articles/2016/01/14/small/1452756551_grippp.jpg" alt="" /></a><a href="/articles/367528-u-nas-umirayut-ne-ot-grippa-a-ot-cen-na-lekarstva.html" class="focus-title">У нас умирают не от гриппа, а от цен на лекарства!</a>				</div>
 		</li>
-				 		<li>
+				 		<li class="cut">
 				<div class="focus-li-wrap">
 				<a href="/articles/367396-vidavit-vse-s-kakim-byudzhetom-budet-zhit-ukraina-v-2016-godu.html"><img src="/upload/articles/2016/01/12/small/1452623502_byudzhet_2016.jpg" alt="" /></a><a href="/articles/367396-vidavit-vse-s-kakim-byudzhetom-budet-zhit-ukraina-v-2016-godu.html" class="focus-title">Выдавить все: с каким бюджетом будет жить Украина в 2016 году?</a>				</div>
 		</li>
 				 	</ul>
+        <div class="more"></div>
 	<div class="clearfix"></div>
 </div>
 
@@ -266,7 +267,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/235432/p
 	});
 </script>
 <div class="selected-poll">
-	<form action="/poll/add_vote.html" id="FromUaPollExportForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="data[_Token][key]" value="2c6e5697f35dc8525618f17169197a03a12574d4" id="Token475682340"/></div>	<h4>Какой год был лучшим в Вашей жизни?</h4>
+	<form action="/poll/add_vote.html" id="FromUaPollViewForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="data[_Token][key]" value="9848a8e5daf489e19c1305cd8f21ca5638112d11" id="Token764724299"/></div>	<h4>Какой год был лучшим в Вашей жизни?</h4>
         <ul class="nav polls phide">
 		<li>
 		<label class="radio"><input type="hidden" name="data[FromUaPoll][answer]" id="FromUaPollAnswer_" value=""/><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2015" value="2015" />2015</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2014" value="2014" />2014</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2013" value="2013" />2013</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2012" value="2012" />2012</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2011" value="2011" />2011</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2010" value="2010" />2010</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2005" value="2005" />2005</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer2004" value="2004" />2004</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer1998" value="1998" />1998</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer1991" value="1991" />1991</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswer1981" value="1981" />1981</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswerOnVperedi" value="Он впереди" />Он впереди</label></li><li><label class="radio"><input type="radio" name="data[FromUaPoll][answer]" id="FromUaPollAnswerDrugoe" value="Другое" />Другое</label>		</li>
@@ -274,7 +275,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/235432/p
                 <div id="poll-down-arrow"></div>
         	<div style="padding: 0 5px;">
 	<input type="hidden" name="data[FromUaPoll][id]" value="318" id="FromUaPollId"/><button class="btn" type="submit">Голосовать</button><a href="/polls.html" class="pull-right polls-archive">Все опросы</a>	</div>
-	<div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="b23c2ac7cb54c02c7f00156312e5c2328582a4c6%3AFromUaPoll.id" id="TokenFields1327990932"/><input type="hidden" name="data[_Token][unlocked]" value="" id="TokenUnlocked1199823009"/></div></form>	<div class="clearfix"></div>
+	<div style="display:none;"><input type="hidden" name="data[_Token][fields]" value="b23c2ac7cb54c02c7f00156312e5c2328582a4c6%3AFromUaPoll.id" id="TokenFields602140133"/><input type="hidden" name="data[_Token][unlocked]" value="" id="TokenUnlocked2077916338"/></div></form>	<div class="clearfix"></div>
 </div>
 	</div>
 </div><div id="widget-specproekti" class="widget widget-specproekti widget-specprojects widget-highlighted">
@@ -510,15 +511,15 @@ document.write('<div id="un_zone_place'+param.bn+'"></div>');
 <div id="47_gallery" class="frames gallery-frames">
 	<div class="frames_container 47-frames_container">
 				<div class="slide">
-			<a href="/news/367728-neft-desheveet-na-glazah-brent-opustilas-do-29-3.html" class="photo" title="Нефть дешевеет на глазах: Brent опустилась до $29,3"><img src="/upload/articles/2016/01/15/medium/1452868136_79448_900.jpg" alt="" /></a><a class = "caption" href=/news/367728-neft-desheveet-na-glazah-brent-opustilas-do-29-3.html><span class = "sdf gallery-caption-warp">Нефть дешевеет на глазах: Brent опустилась до $29,3</span></a>		</div>
+			<a href="/news/367794-vesti-s-fronta-za-poslednie-sutki-net-ni-pogibshih-ni-ranennih-karta.html" class="photo" title="Вести с фронта: за последние сутки нет ни погибших, ни раненных. КАРТА"><img src="/upload/articles/2016/01/17/medium/1453038624_Motuzyanik_4_777x437.jpg" alt="" /></a><a class = "caption" href=/news/367794-vesti-s-fronta-za-poslednie-sutki-net-ni-pogibshih-ni-ranennih-karta.html><span class = "sdf gallery-caption-warp">Вести с фронта: за последние сутки нет ни погибших, ни раненных. КАРТА</span></a>		</div>
 				<div class="slide">
-			<a href="/news/367721-oschadbank-podal-v-sud-na-sberbank-rossii.html" class="photo" title="«Ощадбанк» подал в суд на «Сбербанк России»"><img src="/upload/articles/2016/01/15/medium/1452866475_35a1bf9be08b1a59874f7bfc4c35841c.jpeg" alt="" /></a><a class = "caption" href=/news/367721-oschadbank-podal-v-sud-na-sberbank-rossii.html><span class = "sdf gallery-caption-warp">«Ощадбанк» подал в суд на «Сбербанк России»</span></a>		</div>
+			<a href="/news/367786-ukraina-oficialno-prekratila-tovarooborot-s-anneksirovannim-krimom.html" class="photo" title="Украина официально прекратила товарооборот с аннексированным Крымом"><img src="/upload/articles/2016/01/17/medium/1453026305_krim_vata.jpg" alt="" /></a><a class = "caption" href=/news/367786-ukraina-oficialno-prekratila-tovarooborot-s-anneksirovannim-krimom.html><span class = "sdf gallery-caption-warp">Украина официально прекратила товарооборот с аннексированным Крымом</span></a>		</div>
 				<div class="slide">
-			<a href="/news/367713-poroshenko-rasskazal-o-slepom-traste-i-roshen-pod-davleniem-vneshnih-patriotov.html" class="photo" title="Порошенко рассказал о «слепом трасте» и Roshen под давлением «внешних патриотов»"><img src="/upload/articles/2016/01/15/medium/1452860254_Roshen.jpg" alt="" /></a><a class = "caption" href=/news/367713-poroshenko-rasskazal-o-slepom-traste-i-roshen-pod-davleniem-vneshnih-patriotov.html><span class = "sdf gallery-caption-warp">Порошенко рассказал о «слепом трасте» и Roshen под давлением «внешних патриотов»</span></a>		</div>
+			<a href="/news/367784-i-v-dnepropetrovske-teper-est-svoya-patrulnaya-policiya.html" class="photo" title="И в Днепропетровске теперь есть своя патрульная полиция"><img src="/upload/articles/2016/01/17/medium/1453023845_a7eda62_dne1.jpg" alt="" /></a><a class = "caption" href=/news/367784-i-v-dnepropetrovske-teper-est-svoya-patrulnaya-policiya.html><span class = "sdf gallery-caption-warp">И в Днепропетровске теперь есть своя патрульная полиция</span></a>		</div>
 				<div class="slide">
-			<a href="/news/367707-grivna-prosedaet-na-mezhbanke-uzhe-24-20-za-dollar.html" class="photo" title="Гривна проседает на межбанке: уже 24,20 за доллар"><img src="/upload/articles/2016/01/15/medium/1452856995_215667_default.jpg" alt="" /></a><a class = "caption" href=/news/367707-grivna-prosedaet-na-mezhbanke-uzhe-24-20-za-dollar.html><span class = "sdf gallery-caption-warp">Гривна проседает на межбанке: уже 24,20 за доллар</span></a>		</div>
+			<a href="/news/367780-v-burkina-faso-ot-ruk-terroristov-pogibla-ukrainskaya-semya.html" class="photo" title="В Буркина-Фасо от рук террористов погибла украинская семья"><img src="/upload/articles/2016/01/17/medium/1453020121_5bf0528_1.jpg" alt="" /></a><a class = "caption" href=/news/367780-v-burkina-faso-ot-ruk-terroristov-pogibla-ukrainskaya-semya.html><span class = "sdf gallery-caption-warp">В Буркина-Фасо от рук террористов погибла украинская семья</span></a>		</div>
 				<div class="slide">
-			<a href="/news/367708-tragediya-v-ukrainske-spasateli-nashli-telo-esche-odnogo-rebenka.html" class="photo" title="Трагедия в Украинске: спасатели нашли тело еще одного ребенка "><img src="/upload/articles/2016/01/15/medium/1452857459_205564.jpg" alt="" /></a><a class = "caption" href=/news/367708-tragediya-v-ukrainske-spasateli-nashli-telo-esche-odnogo-rebenka.html><span class = "sdf gallery-caption-warp">Трагедия в Украинске: спасатели нашли тело еще одного ребенка </span></a>		</div>
+			<a href="/news/367779-s-irana-snyati-sankcii-na-rinok-nefti-vihodit-esche-odin-moschnii-igrok.html" class="photo" title="С Ирана сняты санкции. На рынок нефти выходит еще один мощный игрок"><img src="/upload/articles/2016/01/17/medium/1453019522_oil.jpg" alt="" /></a><a class = "caption" href=/news/367779-s-irana-snyati-sankcii-na-rinok-nefti-vihodit-esche-odin-moschnii-igrok.html><span class = "sdf gallery-caption-warp">С Ирана сняты санкции. На рынок нефти выходит еще один мощный игрок</span></a>		</div>
 			</div>
 	<a href="#" class="frame-prev 47-frame-prev"></a>
 	<a href="#" class="frame-next 47-frame-next"></a>
@@ -531,7 +532,7 @@ document.write('<div id="un_zone_place'+param.bn+'"></div>');
         	<div class="block-body">
 		<div class="latest articles">
 		<ul class="articles">
-		<li><span class="label">16:49</span><a href="/news/367723-torgovaya-diskriminaciya-so-storoni-rf-ukraina-napravila-zhalobu-chlenam-vto.html">Торговая дискриминация со стороны РФ: Украина направила жалобу членам ВТО </a></li><li><span class="label">16:30</span><a href="/news/367722-vzriv-v-ukrainske-sledovateli-rasskazali-chto-proizoshlo-na-samom-dele.html">Взрыв в Украинске: следователи рассказали, что произошло на самом деле</a></li><li><span class="label">16:28</span><a href="/news/367728-neft-desheveet-na-glazah-brent-opustilas-do-29-3.html">Нефть дешевеет на глазах: Brent опустилась до $29,3</a></li><li><span class="label">16:01</span><a href="/news/367721-oschadbank-podal-v-sud-na-sberbank-rossii.html">«Ощадбанк» подал в суд на «Сбербанк России»</a></li><li><span class="label">15:31</span><a href="/news/367716-ukraina-zapustila-vazhnii-poezd-v-obhod-rf.html">Украина запустила важный поезд в обход РФ</a></li>	</ul>
+		<li><span class="label">16:49</span><a href="/news/367794-vesti-s-fronta-za-poslednie-sutki-net-ni-pogibshih-ni-ranennih-karta.html">Вести с фронта: за последние сутки нет ни погибших, ни раненных. КАРТА</a></li><li><span class="label">15:46</span><a href="/news/367792-zhenskaya-sbornaya-ukraini-po-biatlonu-viigrala-estafetu-na-etape-kubka-mira.html">Женская сборная Украины по биатлону выиграла эстафету на этапе Кубка мира</a></li><li><span class="label">13:30</span><a href="/news/367787-decentralizaciya-v-deistvii-v-ukraine-vpervie-prohodyat-vibori-starosti.html">Децентрализация в действии. В Украине впервые проходят выборы старосты</a></li><li><span class="label">13:03</span><a href="/news/367786-ukraina-oficialno-prekratila-tovarooborot-s-anneksirovannim-krimom.html">Украина официально прекратила товарооборот с аннексированным Крымом</a></li><li><span class="label">12:15</span><a href="/news/367784-i-v-dnepropetrovske-teper-est-svoya-patrulnaya-policiya.html">И в Днепропетровске теперь есть своя патрульная полиция</a></li>	</ul>
 	<div class="clearfix"></div>
 </div>
 

@@ -135,8 +135,8 @@
 					<div id="banner_top">
 						<div class="region region-banner-top">
 <div id="block-block-1" class="block block-block region-odd even region-count-1 count-14">
-<center><div class="content"><div style="text-align:center;">
-	<a href="https://ad.doubleclick.net/ddm/clk/300421135;127406602;i" target="_blank"><img src="/userfiles/-=Banners=-/BAM_TheCherryOrchard_RussianBazaar_600x90.gif" style="border: 3px black solid" /></a></div>
+<center><div class="content"><div style="text-align:center;color:white">
+	<a href="http://www.qbecf.com" target="_blank"><img src="/userfiles/-=Banners=-/bannerBoulevard.gif" style="border: 3px black solid" /></a></div>
 </div></center>
 </div> <!-- /.block -->
 <!--------------------------- THE CONTENT -------------------------->
@@ -299,6 +299,16 @@ var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
         <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
      
+  <div class="views-field-title"><span class="field-content"><img width="82" height="32" alt="" src="/upload/mnews/ru/0_72431300_1452970860_small.png"><a href="/ru/mnews/202138.htm">Террорист еще поживет</a></span></div>
+  <div class="views-field-field-news-date-value"><span class="field-content"><span class="date-display-single">01/16/2016 14:01</span></span>
+  </div>
+  <div class="views-field-view-node"><span class="field-content"><a href="/ru/mnews/202138.htm">подробнее »</a></span></div>
+  </div>
+
+    </div>
+        <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+     
   <div class="views-field-title"><span class="field-content"><img width="82" height="32" alt="" src="/upload/mnews/ru/0_53139500_1452796877_small.png"><a href="/ru/mnews/201980.htm">Скончался Леонид Жаботинский</a></span></div>
   <div class="views-field-field-news-date-value"><span class="field-content"><span class="date-display-single">01/14/2016 13:41</span></span>
   </div>
@@ -383,16 +393,6 @@ var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
   <div class="views-field-field-news-date-value"><span class="field-content"><span class="date-display-single">01/11/2016 16:56</span></span>
   </div>
   <div class="views-field-view-node"><span class="field-content"><a href="/ru/mnews/201701.htm">подробнее »</a></span></div>
-  </div>
-
-    </div>
-        <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-     
-  <div class="views-field-title"><span class="field-content"><img width="82" height="32" alt="" src="/upload/mnews/ru/0_33979400_1452542895_small.png"><a href="/ru/mnews/201695.htm">Вертушка прикладной дипломатии</a></span></div>
-  <div class="views-field-field-news-date-value"><span class="field-content"><span class="date-display-single">01/11/2016 15:08</span></span>
-  </div>
-  <div class="views-field-view-node"><span class="field-content"><a href="/ru/mnews/201695.htm">подробнее »</a></span></div>
   </div>
 
     </div>

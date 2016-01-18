@@ -278,7 +278,7 @@
                     iframeState = false,
                     eventer = window[eventMethod],
                     messageEvent = (eventMethod == "attachEvent") ? "onmessage" : "message",
-                    iframeSRC = 'http://squid.gazeta.pl/sqpwgl/pwif?luid=7e50a94da39c7c8c4c3a7132&domain=C90ggebhSUo1X9oanHXHcQ';
+                    iframeSRC = 'http://squid.gazeta.pl/sqpwgl/pwif?luid=ff44f345da93cdfa4e1cb014&domain=C90ggebhSUo1X9oanHXHcQ';
 
                 // cookie fix for IE8    
                 setCompatibilityCookie('wyborczaXYZ', 'test', 1);

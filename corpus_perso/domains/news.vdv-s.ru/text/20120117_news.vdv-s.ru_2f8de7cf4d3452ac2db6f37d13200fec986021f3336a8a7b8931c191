@@ -88,33 +88,41 @@
           </div>
           <div class="logo-data">
             <div id="hwr" class="informer mini">
-              <time class="date" datetime="2016-01-15">Волгоград, <a href="http://calendar.vdv-s.ru" title="календарь событий - что будет в Волгограде"><span class="dow">пятница, </span><span class="d">15 января</span></a></time>
+              <time class="date" datetime="2016-01-17">Волгоград, <a href="http://calendar.vdv-s.ru" title="календарь событий - что будет в Волгограде"><span class="dow">, </span><span class="d">17 января</span></a></time>
               <div class="wthrs">
                 <div class="wthr">
-                  <div class="d">вечером</div>
-                  <img class="i" src="http://static.vdv-s.ru/img/hwr/n.moon.c4.png" />
-                  <div class="t">-3°</div>
+                  <div class="d">ночью</div>
+                  <img class="i" src="http://static.vdv-s.ru/img/hwr/n.moon.c2.png" />
+                  <div class="t">-1°..-0°</div>
                 </div>
                 <div class="wthr sm">
                   <div class="d">завтра днем</div>
-                  <img class="i" src="http://static.vdv-s.ru/img/hwr/d.sun.c2.png" />
-                  <div class="t">-7°..-5°</div>
+                  <img class="i" src="http://static.vdv-s.ru/img/hwr/d.sun.c4.png" />
+                  <div class="t">-0°</div>
                 </div>
               </div>
               <ul class="events">
-                <li>
-                  <span title="через 2 дня">скоро</span>
+                <li class="sel">
+                  <span>сегодня</span>
+                  <a href="http://calendar.vdv-s.ru/2016/01/16/hokkey-jan2016/">Первенство по хоккею</a>
+                </li>
+                <li class="sel">
+                  <span>сегодня</span>
                   <a href="http://calendar.vdv-s.ru/2016/01/17/den-snega-2016/">День снега</a>
                 </li>
+                <li class="sel">
+                  <span>сегодня</span>
+                  <a href="http://calendar.vdv-s.ru/2016/01/17/hokkey-fest-2016/">Хоккейный праздник</a>
+                </li>
                 <li>
-                  <span title="через 16 дней">скоро</span>
+                  <span title="через 14 дней">скоро</span>
                   <a href="http://calendar.vdv-s.ru/2016/01/31/bitva-na-volge-2016/">«Битва на Волге»</a>
                 </li>
               </ul>
               <div class="prices">
                 <div class="currency">
-                  <span class="quote fa-usd up" title="курс доллара США">76,52</span>
-                  <span class="quote fa-euro up" title="курс евро">83,15</span>
+                  <span class="quote fa-usd up" title="курс доллара США">76,57</span>
+                  <span class="quote fa-euro up" title="курс евро">83,30</span>
                 </div>
                 <a href="http://auto.vdv-s.ru/benzin/" class="fuel" title="цены на бензин на автозаправках Волгоград">
                   <div class="hdr fa-gas">Топливо:</div>
@@ -134,9 +142,9 @@
               </div>
               <div class="btm traffic">
                 <a href="http://auto.vdv-s.ru/probki/" title="пробки в Волгограде">
-                  <img src="http://static.vdv-s.ru/img/ya-traffic-red.png" alt="" />
-                  <b>7</b>
-                  <span> баллов</span>
+                  <img src="http://static.vdv-s.ru/img/ya-traffic-green.png" alt="" />
+                  <b>2</b>
+                  <span> балла</span>
                 </a>
               </div>
               <div class="btm services">
@@ -155,7 +163,6 @@
         <div class="navigation">
           <div class="mmenu">
             <nav>
-              <a href="http://new-year.vdv-s.ru" title="Новый год в Волгограде">Новый год</a>
               <a href="http://news.vdv-s.ru" title="Новости Волгограда" class="sel">Новости</a>
               <a href="http://banking.vdv-s.ru" title="Банки Волгограда, кредиты, финансы">Финансы</a>
               <a href="http://business.vdv-s.ru" title="бизнес Волгограда, проект Путь к успеху">Бизнес</a>
@@ -260,18 +267,18 @@
       <div class="center">
 <!--noindex-->
         <div class="hotnews">
-          <a class="ctext impt" href="/incident/?news=272447">
-            <img class="img" src="http://news.vdv-s.ru/pics/t50/99379.jpg" alt="свиной грипп умерли" />
-            <time datetime="2016-01-15 14:40"><em>сегодня</em> | 14:40</time>
-            <h3>В Камышине два человека умерли от свиного гриппа</h3>
+          <a class="ctext impt" href="/incident/?news=272486">
+            <img class="img" src="http://news.vdv-s.ru/pics/t50/99423.jpg" alt="На севере Волгограда обнаружено тело зверски убитого мужчины" />
+            <time datetime="2016-01-17 12:06"><em>сегодня</em> | 12:06</time>
+            <h3>На севере Волгограда обнаружено тело зверски убитого мужчины<span class="comm">8</span></h3>
           </a>
-          <a class="ctext impt" href="/incident/?news=272445">
-            <img class="img" src="http://news.vdv-s.ru/pics/t50/99375.jpg" alt="насильники Котельниковский" />
+          <a class="ctext impt" href="/incident/?news=272483">
+            <img class="img" src="http://news.vdv-s.ru/pics/t50/99428.jpg" alt="автобус наезд пенсионерка" />
             <span class="ovrls">
-              <img src="http://static.vdv-s.ru/img/news_overlay/pht.png" alt="ФОТО" onmouseover="ovrl(this)" />
+              <img src="http://static.vdv-s.ru/img/news_overlay/vid.png" alt="ВИДЕО" onmouseover="ovrl(this)" />
             </span>
-            <time datetime="2016-01-15 14:10"><em>сегодня</em> | 14:10</time>
-            <h3>Под Волгоградом двое отморозков изнасиловали 16-летнюю девушку<span class="comm">12</span></h3>
+            <time datetime="2016-01-17 10:34"><em>сегодня</em> | 10:34</time>
+            <h3>В Волжском пассажирский автобус сбил пенсионерку на остановке</h3>
           </a>
         </div>
 <!--/noindex-->
@@ -353,16 +360,15 @@
               </div>
               <div class="block">
                 <div class="bulls">
-                  <a class="bull" href="http://stroyka.vdv-s.ru/stroyka/blagoustroystvo/?details=4043145">
+                  <a class="bull" href="http://stroyka.vdv-s.ru/mebel/?details=4043217">
                     <span class="cat">Строительство, ремонт и обустройство</span>
-                    <img src="http://vdv-s.ru/files/t150/10/23/2116012950419576032.jpeg" />
-                    <span class="txt">БАССЕЙНЫ, фильтровальные системы, вкладыши для бассейнов, химия. Пленочное покрытие ПВХ в уже существующий бассейн.</span>
-                    <span class="phn">73-25-18, 72-69-48, 8-917-338-89-96</span>
+                    <span class="txt">МЕБЕЛЬ на заказ. Кухни, шкафы-купе, стенки, прихожие, встроенная мебель, торговое оборудование. Дизайн и замер бесплатно. Пенсионерам - скидки.</span>
+                    <span class="phn">50-53-30, 8-927-511-66-87</span>
                   </a>
-                  <a class="bull" href="http://stroyka.vdv-s.ru/remont/?details=4043077">
-                    <span class="cat">Строительство, ремонт и обустройство</span>
-                    <span class="txt">АБСОЛЮТНО все виды отделочных работ. Гарантия качества. Договор. Квартиры под ключ.</span>
-                    <span class="phn">98-48-29, 8-919-986-03-29</span>
+                  <a class="bull" href="http://market.vdv-s.ru/hitech/climat/?details=4043221">
+                    <span class="cat">Бытовая и оргтехника</span>
+                    <span class="txt">СПЛИТ-СИСТЕМЫ от бытовых до промышленных. Продажа, установка любой сложности, обслуживание, чистка. Консультации специалиста. Форма оплаты любая. Все районы и область. "Гарант-климат".</span>
+                    <span class="phn">50-68-68, 50-45-77, 50-63-63</span>
                   </a>
                 </div>
               </div>
@@ -408,24 +414,32 @@
                   <div class="form small" style="text-align:center">
                     <a class="fctrl btn def" href="http://news.vdv-s.ru/buzz/#add">прислать новость</a>
                   </div>
-                  <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8788">
-                    <h3>Чиновники отбирают жилье у матери с малышом</h3>
+                  <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8792">
+                    <img class="img" src="http://news.vdv-s.ru/files/t100/5/6116016197697445954.jpg" alt="Во имя баллистической ракеты" />
+                    <h3>Во имя баллистической ракеты</h3>
                     <div class="i">
-                      <time datetime="2016-01-15 12:04">12:04</time>
+                      <time datetime="2016-01-16 19:07">16 <em>янв</em></time>
+                      <span class="txt dot">Грамота в фойе волгоградской физакадемии.</span>
+                    </div>
+                  </a>
+                  <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8788">
+                    <h3>Чиновники отбирают жилье у матери с малышом<span class="comm">5</span></h3>
+                    <div class="i">
+                      <time datetime="2016-01-15 12:04">15 <em>янв</em></time>
                       <span class="txt dot">Меня обманули наши чиновники. В 2012 году мною был приобретён земельный участок под ИЖС 3 сот у собственника. Оформили, как положено, договор купли-продажи, зарегистрировали его в...</span>
                     </div>
                   </a>
                   <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8787">
                     <img class="img" src="http://news.vdv-s.ru/files/t100/5/5116015111133058070.jpg" alt="Санаторий Эльтон продали частникам!!!" />
-                    <h3>Санаторий Эльтон продали частникам!!!<span class="comm">4</span></h3>
+                    <h3>Санаторий Эльтон продали частникам!!!<span class="comm">17</span></h3>
                     <div class="i">
-                      <time datetime="2016-01-15 11:01">11:01</time>
+                      <time datetime="2016-01-15 11:01">15 <em>янв</em></time>
                       <span class="txt dot">Государственное прибыльное учреждение просто так взяли и продали в частные руки!!! Как можно так безжалостно разбазаривать гос имущество! Кто за это ответит, что 300 человек остан...</span>
                     </div>
                   </a>
                   <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8783">
                     <img class="img" src="http://news.vdv-s.ru/files/t100/5/41160141528530123318.jpg" alt="Городская пещера" />
-                    <h3>Городская пещера<span class="comm">12</span></h3>
+                    <h3>Городская пещера<span class="comm">22</span></h3>
                     <div class="i">
                       <time datetime="2016-01-14 15:28">14 <em>янв</em></time>
                       <span class="txt dot">Станция скоростного трамвая "Ельшанка", как и полагается подземелью, с гулких сводов роняет на своих посетителей тяжелые капли талой воды. Надеемся, что руководство МУП «Метроэлек...</span>
@@ -433,7 +447,7 @@
                   </a>
                   <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8782">
                     <img class="img" src="http://news.vdv-s.ru/files/t100/5/41160141525109929592.jpg" alt="Собака-друг человека?" />
-                    <h3>Собака-друг человека?<span class="comm">16</span></h3>
+                    <h3>Собака-друг человека?<span class="comm">30</span></h3>
                     <div class="i">
                       <time datetime="2016-01-14 15:25">14 <em>янв</em></time>
                       <span class="txt dot">В Краснооктябрьском районе Волгограда, в окрестностях остановки "Стадион Монолит" рыщет стая бездомных собак. Число голодных животных ежедневно увеличивается. Сегодня, 14 января 2...</span>
@@ -441,104 +455,110 @@
                   </a>
                   <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8776">
                     <img class="img" src="http://news.vdv-s.ru/files/t100/5/31160131050897329392.jpg" alt="Жертвы гололеда" />
-                    <h3>Жертвы гололеда<span class="comm">6</span></h3>
+                    <h3>Жертвы гололеда<span class="comm">8</span></h3>
                     <div class="i">
                       <time datetime="2016-01-13 09:05">13 <em>янв</em></time>
                       <span class="txt dot">Третья продольная, путепровод перед Семью ветрами в сторону центра.</span>
-                    </div>
-                  </a>
-                  <a class="llink" href="http://news.vdv-s.ru/buzz/?item=8775">
-                    <img class="img" src="http://news.vdv-s.ru/files/t100/5/311601385739510663.jpg" alt="Плоды ЕГЭ" />
-                    <h3>Плоды ЕГЭ<span class="comm">11</span></h3>
-                    <div class="i">
-                      <time datetime="2016-01-13 08:57">13 <em>янв</em></time>
-                      <span class="txt dot">Вывеска в самом центре Волгограда, на пр. Ленина</span>
                     </div>
                   </a>
                 </div>
                 <div class="lastcomments c2">
                   <h2>Последние комментарии</h2>
                   <div>
-                    <div class="ni" id="272445">
+                    <div class="ni" id="271967">
                       <h3>
-                        <a href="/incident/?news=272445">Под Волгоградом двое отморозков изнасиловали 16-летнюю девушку<span class="comm">12</span></a>
+                        <a href="/society/?news=271967">Мэрия Волгограда будет оплачивать VIP-обслуживание городских чиновников в аэропорту из бюджета<span class="comm">13</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>17:23</time><span class="txt dot">Да-да ну конечно изнасиловали нецелованную малолеточку!Поехать этой шалавенке с мужиками и пить водку это уже норма,для таких вот "девочек"!!!!!</span></div>
+          <time>22:13</time><span class="txt dot">Россия это стран лжи и цинизма в которой народ это быдло, а всем рулят олигархи через своих назначенных чиновников... Всё Путём товарищи!!!</span></div>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>17:18</time><span class="txt dot">...очередную шалаву изнасиловали...не смешите,она и поехала за этим и хватит выставлять их невинными жертвами!</span></div>
-                      <div class="i"><span class="nick">Гость</span>,
-          <time>16:57</time><span class="txt dot">Зачем ехать с двумя мужиками в поле," после туманного намека - надо мол поговорить " ? Она сама по ходу отморозок-экстрималка !Ну а эти два ишака !Луч...</span></div>
-                      <div class="i"><span class="nick">Гость</span>,
-          <time>16:22</time><span class="txt dot">мужику 44 года, а он отморозок, нет чтобы молодого тормознуть, сам ту же. она ему в дочери годиться, что у нее на уме в 16 лет. если сильно хотелось н...</span></div>
+          <time>21:09</time><span class="txt dot">Ага всего 10 прилётоулётов в год...</span></div>
                     </div>
-                    <div class="ni" id="272337">
+                    <div class="ni" id="272489">
                       <h3>
-                        <a href="/incident/?news=272337">В центре Волгограда водитель избил битой пешехода, которого сбил<span class="comm">104</span></a>
+                        <a href="/society/?news=272489">Инспектор ДПС не пропустил «скорую помощь» с грудным ребенком из-за кортежа<span class="comm">5</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>17:22</time><span class="txt dot">Респект за адекватный отзыв! </span></div>
+          <time>22:08</time><span class="txt dot">Пока в стране 90 % народа - это стадо ВАТНИКОВ слепо верующих воровской путинской элитке и кремлёвским СМИ льющим пафосную ложь про "духовные скрепы" ...</span></div>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:37</time><span class="txt dot">не вритеКаждое утро по Елецкой езжу. Там постоянно бабульки/деды и сумасшедшие тетки под колеса кидаются в том месте, ГДЕ ИМ УДОБНО. Хотя там переходо...</span></div>
+          <time>21:25</time><span class="txt dot">Это Россия все крутые справедливости нет!</span></div>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:23</time><span class="txt dot">агаВолгоград - это ведь столица бейсбола!</span></div>
+          <time>21:10</time><span class="txt dot">Давить его надо было. Водиле скорой ничего бы не было. </span></div>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>15:58</time><span class="txt dot">Надо же, тебя белого и пушистого испортили три мужика... </span></div>
+          <time>20:42</time><span class="txt dot">у полицейского приказ и он не смеет не слушать,он служит,это человеческий фактор пропускать или не пропускать,но действия полицейского правомерны полн...</span></div>
                     </div>
-                    <div class="ni" id="272414">
+                    <div class="ni" id="272484">
                       <h3>
-                        <a href="/incident/?news=272414">Банду налетчиков и разбойников из Волгоградской области судят на Урале<span class="comm">7</span></a>
+                        <a href="/incident/?news=272484">На юге Волгограда молодой человек попал под колеса машины, которую тащили на буксире<span class="comm">8</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:45</time><span class="txt dot">В Волгограде все коммерсы платят мусорам. Если не платят-значит сами мусора.</span></div>
-                      <div class="i"><span class="nick">Гость</span>,
-          <time>15:44</time><span class="txt dot">"продолжайте наблюдение. мы с вами свяжемся. свободны" (с)</span></div>
+          <time>22:02</time><span class="txt dot">и глупой...</span></div>
                     </div>
-                    <div class="ni" id="272424">
+                    <div class="ni" id="272486">
                       <h3>
-                        <a href="/incident/?news=272424">Из похоронного бюро под Волгоградом похитили плазменный телевизор<span class="comm">1</span></a>
+                        <a href="/incident/?news=272486">На севере Волгограда обнаружено тело зверски убитого мужчины<span class="comm">8</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:32</time><span class="txt dot">не телевизор надо смотреть а свечки ставить по усопшим, и хотя бы делать вид, что соболезнуют людям, а не мультики и боевики смотреть, когда приходят ...</span></div>
+          <time>21:25</time><span class="txt dot">Ну так хороший ствол денег стоит. А Ты за три копейки  хочешь. Рогатку тогда купи себе, на нее не надо лицензию. </span></div>
+                      <div class="i"><span class="nick">Гость</span>,
+          <time>19:11</time><span class="txt dot">У нас каждый иметь ствол никогда не будет и нормальный люди тоже,только бандитам это возможно!</span></div>
                     </div>
-                    <div class="ni" id="272348">
+                    <div class="ni" id="272451">
                       <h3>
-                        <a href="/society/?news=272348">Волгоградцам предлагают жаловаться на нерадивых дворников<span class="comm">10</span></a>
+                        <a href="/society/?news=272451">В Волжском появился арт-объект - признание в любви городу<span class="comm">1</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:31</time><span class="txt dot">А кто вам чистит двор и дорожки посыпает? Директор вашего ЖЭУ-5 или всё таки дворники.</span></div>
-                      <div class="i"><span class="nick">Гость</span>,
-          <time>16:29</time><span class="txt dot">А куда можно пожаловаться на обнаглевших и разжиревших чиновников? Дворники получают копейки , выходят на работу в свои выходные дни , которые не всег...</span></div>
+          <time>21:12</time><span class="txt dot">пипец</span></div>
                     </div>
-                    <div class="ni" id="272433">
+                    <div class="ni" id="272417">
                       <h3>
-                        <a href="/incident/?news=272433">Под Волгоградом уличные грабители избили и обобрали 48-летнего инвалида<span class="comm">1</span></a>
+                        <a href="/incident/?news=272417">В Дзержинской районе пироманы сожгли «Мерседес Бенц»<span class="comm">7</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:29</time><span class="txt dot">разве у инвалида могут водиться большие деньги, отморозки идите к тем, кто живет за высокими заборами и ездят на крузаках! очко слабое, вот и выбирают...</span></div>
+          <time>20:58</time><span class="txt dot">Честные и порядочные люди иномарку позволить себе в принципе не могут - иномарки только у рвачей и ворья, мажоров и жуликов - так что пусть и дальше г...</span></div>
+                      <div class="i"><span class="nick">Гость</span>,
+          <time>19:14</time><span class="txt dot">с такой частотой не жгут нигде</span></div>
                     </div>
-                    <div class="ni" id="272378">
+                    <div class="ni" id="272311">
                       <h3>
-                        <a href="/society/?news=272378">В Волгограде водитель с битой и покалеченный им пешеход претензий друг к другу не имеют<span class="comm">38</span></a>
+                        <a href="/incident/?news=272311">Под Волгоградом от тоски по семье покончил с собой 33-летний мужчина<span class="comm">11</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:25</time><span class="txt dot">а почему коммент про "неверных" удалили? вполне нормальный, неагрессивный коммент. про это даже в кино показывали, "9я рота" называется. так что и зде...</span></div>
-                      <div class="i"><span class="nick">Гость</span>,
-          <time>15:46</time><span class="txt dot">Ну и что ты заныл, деда ударили- деградация СТРАНЫ!!!! Вот на кавказе...А что на кавказе- там убийств и изнасилований нет? Вот как раз твои хваленые к...</span></div>
+          <time>20:52</time><span class="txt dot">Вранье !! Он не хотел умирать ! Он просто дозу не расщитал</span></div>
                     </div>
-                    <div class="ni" id="272437">
+                    <div class="ni" id="272485">
                       <h3>
-                        <a href="/incident/?news=272437">Под Волгоградом кража коньяка из магазина попала на видео<span class="comm">3</span></a>
+                        <a href="/incident/?news=272485">Волгоградка на продаже модели танка лишилась 16 тысяч рублей<span class="comm">7</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:24</time><span class="txt dot">синька чмо, зато любит коньяк, небось Мальборо курит !!!</span></div>
+          <time>20:12</time><span class="txt dot">++++++++++++++++++++, а ещё населения с рабским мышлением - и это главная проблема!</span></div>
+                      <div class="i"><span class="nick">Гость</span>,
+          <time>19:21</time><span class="txt dot">И что, будут ли искать мошенников??? Неет! Буквально позавчера аналогичная ситуация была... звонили с номера +79622195287 </span></div>
                     </div>
-                    <div class="ni" id="272296">
+                    <div class="ni" id="271835">
                       <h3>
-                        <a href="/medcine/?news=272296">В Волжском проинспектировали детскую больницу и стоматологическую поликлинику<span class="comm">3</span></a>
+                        <a href="/society/?news=271835">Водитель внедорожника, сбивший насмерть роллера в центре Волгограда, признал свою вину<span class="comm">23</span></a>
                       </h3>
                       <div class="i"><span class="nick">Гость</span>,
-          <time>16:01</time><span class="txt dot">Всю кровь попили эти бандиты в белых халатах</span></div>
+          <time>20:07</time><span class="txt dot">Не стоит так долго ждать - справедливое правосудие должно быть быстрым и неотвратимым - не хрен с мажором сопли живать - распилить эту тварь пополам и...</span></div>
+                      <div class="i"><span class="nick">Гость</span>,
+          <time>19:24</time><span class="txt dot">Бог ему отомстит...</span></div>
+                    </div>
+                    <div class="ni" id="272185">
+                      <h3>
+                        <a href="/details/?news=272185">Штрафы-2016: сколько и за что придется платить волгоградским автомобилистам<span class="comm">14</span></a>
+                      </h3>
+                      <div class="i"><span class="nick">Гость</span>,
+          <time>19:47</time><span class="txt dot">ГДЕ ДОРОГИ ТО?</span></div>
+                    </div>
+                    <div class="ni" id="227534">
+                      <h3>
+                        <a href="/incident/?news=227534">Под Волгоградом парень взорвался в гостях у родственников<span class="comm">50</span></a>
+                      </h3>
+                      <div class="i"><span class="nick">Гость</span>,
+          <time>19:40</time><span class="txt dot">Да достали эти люди пусть едут к себе в Дагестан и Чечню и там взрываются!!!</span></div>
+                      <div class="i"><span class="nick">Гость</span>,
+          <time>19:20</time><span class="txt dot">у черных глаз наточен - на овец. первая, а для большинства единственная, их любовь. а гранаты они берут вместо виагры</span></div>
                     </div>
                   </div>
                 </div>
@@ -597,13 +617,13 @@
       </div>
       <div class="line"></div>
       <div class="aside r">
-        <aside><!--noindex--><div class="section"><a class="ctext" href="/society/?news=272372"><img class="img" src="http://news.vdv-s.ru/pics/t50/99312.jpg" alt="По мнению Сергея Горнякова, «конкурс - это одна из новых форм со" /><time datetime="2016-01-14 10:52">14 <em>янв</em> | 10:52</time><h3>Интернет-портал «Все для Вас» одержал победу в номинации «Лучшее интернет-издание»</h3></a><a class="ctext" href="/business/?news=270968"><img class="img" src="http://news.vdv-s.ru/pics/t50/97839.jpg" alt="«Все для Вас» - теперь и в «Сбербанк Онлайн»" /><time datetime="2015-12-07 13:17">7 <em>дек</em> 2015 | 13:17</time><h3>«Все для Вас» - теперь и в «Сбербанк Онлайн»</h3></a></div><div class="feedblock news"><div class="h3"><a href="http://news.vdv-s.ru">Новости</a><div id="feedHdr" class="tabs rep"><span onclick="feedFilter('newsTapeItmsR',this)" class="sel" rel="region=3,4">волгоградские</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="">все</span></div></div><a class="ctext actual" href="/society/?news=272442"><img src="http://news.vdv-s.ru/pics/240/99373.jpg" alt="вузы черный список" /><h3>Два волгоградских вуза попали в «черный список» Рособрнадзора</h3><i></i></a><div id="feedSbHdr" class="tabs"><span onclick="feedFilter('newsTapeItmsR',this)" rel="type=stat" class="fa-star sel">популярные</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="type=comments" class="fa-comments ">обсуждаемые</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="" class="fa-flash">срочные</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="type=mmedia" class="fa-camera">фото/видео</span></div><div class="newsfeed"><div id="newsTapeItmsR" class="cnt" rel="full" style="opacity:1"><a class="ctext impt" href="/incident/?news=272447"><img class="img" src="http://news.vdv-s.ru/pics/t50/99379.jpg" alt="свиной грипп умерли" /><time datetime="2016-01-15 14:40"><em>сегодня</em> | 14:40</time><h3>В Камышине два человека умерли от свиного гриппа</h3></a><a class="ctext" href="/society/?news=272406"><img class="img" src="http://news.vdv-s.ru/pics/t50/99338.jpg" alt="В Волгограде киллеры в масках Микки-Маусов, расстрелявшие коммер" /><time datetime="2016-01-14 17:26">14 <em>янв</em> | 17:26</time><h3>В Волгограде киллеры в масках Микки-Маусов, расстрелявшие коммерсанта, получили 32,5 года колонии на двоих<span class="comm">2</span></h3></a><a class="ctext impt" href="/incident/?news=272445"><img class="img" src="http://news.vdv-s.ru/pics/t50/99375.jpg" alt="насильники Котельниковский" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/pht.png" alt="ФОТО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-15 14:10"><em>сегодня</em> | 14:10</time><h3>Под Волгоградом двое отморозков изнасиловали 16-летнюю девушку<span class="comm">12</span></h3></a><a class="ctext" href="/incident/?news=272337"><img class="img" src="http://news.vdv-s.ru/pics/t50/99270.jpg" alt="водитель избил битой пешехода" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/vid.png" alt="ВИДЕО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-13 13:43">13 <em>янв</em> | 13:43</time><h3>В центре Волгограда водитель избил битой пешехода, которого сбил<span class="comm">104</span></h3></a><a class="ctext impt" href="/society/?news=272378"><img class="img" src="http://news.vdv-s.ru/pics/t50/99310.jpg" alt="избиение пенсионера битой " /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/pht.png" alt="ФОТО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-14 12:01">14 <em>янв</em> | 12:01</time><h3>В Волгограде водитель с битой и покалеченный им пешеход претензий друг к другу не имеют<span class="comm">38</span></h3></a><a class="ctext" href="/incident/?news=272403"><img class="img" src="http://news.vdv-s.ru/pics/t50/99336.jpg" alt="Волгоградец бесследно пропал, уйдя за хлебом" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/pht.png" alt="ФОТО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-14 16:37">14 <em>янв</em> | 16:37</time><h3>Волгоградец бесследно пропал, уйдя за хлебом<span class="comm">6</span></h3></a><a class="ctext impt" href="/incident/?news=272425"><img class="img" src="http://news.vdv-s.ru/pics/t50/99356.jpg" alt="Под Волгоградом в ДТП пострадала 14-летняя девочка и пенсионерка" /><time datetime="2016-01-15 10:01"><em>сегодня</em> | 10:01</time><h3>Под Волгоградом в ДТП пострадали 14-летняя девочка и пенсионерка<span class="comm">2</span></h3></a><a class="ctext" href="/incident/?news=272408"><img class="img" src="http://news.vdv-s.ru/pics/t50/99340.jpg" alt="Волгоградец изнасиловал понравившуюся ему женщину во время перво" /><time datetime="2016-01-14 19:01">14 <em>янв</em> | 19:01</time><h3>Волгоградец изнасиловал женщину во время первого после общения в Сети свидания<span class="comm">11</span></h3></a><a class="ctext" href="/society/?news=272329"><img class="img" src="http://news.vdv-s.ru/pics/t50/99262.jpg" alt="гололед" /><time datetime="2016-01-13 11:38">13 <em>янв</em> | 11:38</time><h3>В Волгограде до конца дня продлили экстренное предупреждение<span class="comm">4</span></h3></a><a class="ctext" href="/society/?news=272407"><img class="img" src="http://news.vdv-s.ru/pics/t50/99339.jpg" alt="Прокуратура Волгограда оспаривает чересчур мягкий приговор дирек" /><time datetime="2016-01-14 18:09">14 <em>янв</em> | 18:09</time><h3>Прокуратура Волгограда оспаривает чересчур мягкий приговор директору благотворительного фонда<span class="comm">7</span></h3></a><a class="ctext" href="/incident/?news=272417"><img class="img" src="http://news.vdv-s.ru/pics/t50/99349.jpg" alt="горит мерседес" /><time datetime="2016-01-15 08:43"><em>сегодня</em> | 08:43</time><h3>В Дзержинской районе пироманы сожгли «Мерседес Бенц»<span class="comm">2</span></h3></a><a class="ctext" href="/society/?news=272415"><img class="img" src="http://news.vdv-s.ru/pics/t50/99347.jpg" alt="новые автобусы" /><time datetime="2016-01-15 08:26"><em>сегодня</em> | 08:26</time><h3>В Волгоградскую область поступят 72 новых автобуса<span class="comm">3</span></h3></a><a class="ctext" href="/incident/?news=272414"><img class="img" src="http://news.vdv-s.ru/pics/t50/99346.jpg" alt="Банду налетчиков и разбойников из Волгоградской области судят на" /><time datetime="2016-01-15 08:26"><em>сегодня</em> | 08:26</time><h3>Банду налетчиков и разбойников из Волгоградской области судят на Урале<span class="comm">7</span></h3></a><a class="ctext" href="/realty/?news=272419"><img class="img" src="http://news.vdv-s.ru/pics/t50/99355.jpg" alt="новоселье" /><time datetime="2016-01-15 09:05"><em>сегодня</em> | 09:05</time><h3>В Волгограде расселят два аварийных дома в Советском районе</h3></a><a class="ctext" href="/incident/?news=272437"><img class="img" src="http://news.vdv-s.ru/pics/t50/99369.jpg" alt="Под Волгоградом кража коньяка из магазина попала на видео" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/vid.png" alt="ВИДЕО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-15 12:42"><em>сегодня</em> | 12:42</time><h3>Под Волгоградом кража коньяка из магазина попала на видео<span class="comm">3</span></h3></a></div></div><div onclick="divexpand(this, document.getElementById('newsTapeItmsR'), '540px', 'свернуть', this.getElementsByTagName('span')[0], 'btn flt l fa-chevron-up')" class="btn flt l fa-chevron-down"><span>развернуть</span></div><a href="http://news.vdv-s.ru/feed/" class="btn flt r">все новости</a></div><div id="smi2adblock_81255"><a href="http://smi2.net/">Новости СМИ2</a></div><script type="text/javascript" charset="utf-8"><!--//-->
+        <aside><!--noindex--><div class="section"><a class="ctext" href="/business/?news=270968"><img class="img" src="http://news.vdv-s.ru/pics/t50/97839.jpg" alt="«Все для Вас» - теперь и в «Сбербанк Онлайн»" /><time datetime="2015-12-07 13:17">7 <em>дек</em> 2015 | 13:17</time><h3>«Все для Вас» - теперь и в «Сбербанк Онлайн»</h3></a></div><div class="feedblock news"><div class="h3"><a href="http://news.vdv-s.ru">Новости</a><div id="feedHdr" class="tabs rep"><span onclick="feedFilter('newsTapeItmsR',this)" class="sel" rel="region=3,4">волгоградские</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="">все</span></div></div><a class="ctext actual" href="/details/?news=272453"><img src="http://news.vdv-s.ru/pics/240/99390.jpg" alt="Выходные в Волгограде 16-17 января" /><h3>Выходные в Волгограде 16-17 января</h3><i>Приближаются выходные. Портал "Всё для Вас" подготовил афишу культурных, спортивных и развлекательных мероприятий ближайшего уикенда.</i></a><div id="feedSbHdr" class="tabs"><span onclick="feedFilter('newsTapeItmsR',this)" rel="type=stat" class="fa-star sel">популярные</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="type=comments" class="fa-comments ">обсуждаемые</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="" class="fa-flash">срочные</span><span onclick="feedFilter('newsTapeItmsR',this)" rel="type=mmedia" class="fa-camera">фото/видео</span></div><div class="newsfeed"><div id="newsTapeItmsR" class="cnt" rel="full" style="opacity:1"><a class="ctext impt" href="/incident/?news=272486"><img class="img" src="http://news.vdv-s.ru/pics/t50/99423.jpg" alt="На севере Волгограда обнаружено тело зверски убитого мужчины" /><time datetime="2016-01-17 12:06"><em>сегодня</em> | 12:06</time><h3>На севере Волгограда обнаружено тело зверски убитого мужчины<span class="comm">8</span></h3></a><a class="ctext impt" href="/auto/?news=272478"><img class="img" src="http://news.vdv-s.ru/pics/t50/99415.jpg" alt="дтп саратовская газель взрыв" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/vid.png" alt="ВИДЕО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-16 22:15">16 <em>янв</em> | 22:15</time><h3>ДТП со взрывом на трассе Волгоград-Саратов попало на видео</h3></a><a class="ctext" href="/incident/?news=272485"><img class="img" src="http://news.vdv-s.ru/pics/t50/99424.jpg" alt="мошенники" /><time datetime="2016-01-17 11:39"><em>сегодня</em> | 11:39</time><h3>Волгоградка на продаже модели танка лишилась 16 тысяч рублей<span class="comm">7</span></h3></a><a class="ctext" href="/incident/?news=272484"><img class="img" src="http://news.vdv-s.ru/pics/t50/99422.jpg" alt="наезд на пешехода советский район " /><time datetime="2016-01-17 11:02"><em>сегодня</em> | 11:02</time><h3>На юге Волгограда молодой человек попал под колеса машины, которую тащили на буксире<span class="comm">8</span></h3></a><a class="ctext" href="/details/?news=271623"><img class="img" src="http://news.vdv-s.ru/pics/t50/98528.jpg" alt="взрыв" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/vid.png" alt="ВИДЕО" onmouseover="ovrl(this)" /></span><time datetime="2015-12-21 11:40">21 <em>дек</em> 2015 | 11:40</time><h3>В квартире, ставшей эпицентром взрыва в Волгограде, могли находиться взрывчатые вещества<span class="comm">75</span></h3></a><a class="ctext" href="/incident/?news=272460"><img class="img" src="http://news.vdv-s.ru/pics/t50/99395.jpg" alt="Перебегавшую дорогу семилетнюю девочку сбили в Волгограде" /><time datetime="2016-01-16 09:34">16 <em>янв</em> | 09:34</time><h3>Перебегавшую дорогу семилетнюю девочку сбили в Волгограде<span class="comm">18</span></h3></a><a class="ctext" href="/society/?news=272476"><img class="img" src="http://news.vdv-s.ru/pics/t50/99410.jpg" alt="Шаманов Маресьев Каимышин" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/pht.png" alt="ФОТО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-16 19:32">16 <em>янв</em> | 19:32</time><h3>На 100-летие Мересьева Волгоградский регион может посетить Владимир Путин<span class="comm">4</span></h3></a><a class="ctext" href="/incident/?news=272470"><img class="img" src="http://news.vdv-s.ru/pics/t50/99406.jpg" alt="пожар Жирновск погибшие" /><time datetime="2016-01-16 12:41">16 <em>янв</em> | 12:41</time><h3>На пожаре в Волгоградской области погибли двое</h3></a><a class="ctext impt" href="/incident/?news=272483"><img class="img" src="http://news.vdv-s.ru/pics/t50/99428.jpg" alt="автобус наезд пенсионерка" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/vid.png" alt="ВИДЕО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-17 10:34"><em>сегодня</em> | 10:34</time><h3>В Волжском пассажирский автобус сбил пенсионерку на остановке</h3></a><a class="ctext" href="/society/?news=272490"><img class="img" src="http://news.vdv-s.ru/pics/t50/99429.jpg" alt="Волгоград погода пасмурно" /><time datetime="2016-01-17 21:26"><em>сегодня</em> | 21:26</time><h3>Крещенские морозы обойдут Волгоград стороной</h3></a><a class="ctext" href="/politics/?news=272480"><img class="img" src="http://news.vdv-s.ru/pics/t50/99417.jpg" alt="госудма инициатива волгограда" /><time datetime="2016-01-17 09:18"><em>сегодня</em> | 09:18</time><h3>В Госдуме рассмотрят инициативу волгоградских парламентариев по борьбе с коррупцией</h3></a><a class="ctext" href="/incident/?news=227534"><img class="img" src="http://news.vdv-s.ru/pics/t50/52422.jpg" alt="Под Волгоградом парень взорвался в гостях у родственников" /><time datetime="2012-07-25 17:46">25 <em>июл</em> 2012 | 17:46</time><h3>Под Волгоградом парень взорвался в гостях у родственников<span class="comm">50</span></h3></a><a class="ctext" href="/society/?news=272482"><img class="img" src="http://news.vdv-s.ru/pics/t50/99419.jpg" alt="птицы подкормка" /><time datetime="2016-01-17 09:43"><em>сегодня</em> | 09:43</time><h3>В Волгоградской области голодают птицы<span class="comm">1</span></h3></a><a class="ctext" href="/incident/?news=272466"><img class="img" src="http://news.vdv-s.ru/pics/t50/99402.jpg" alt="На севере Волгограда грузовой «МАЗ» переехал слесаря" /><time datetime="2016-01-16 11:03">16 <em>янв</em> | 11:03</time><h3>На севере Волгограда грузовой «МАЗ» переехал слесаря<span class="comm">3</span></h3></a><a class="ctext" href="/incident/?news=272445"><img class="img" src="http://news.vdv-s.ru/pics/t50/99375.jpg" alt="насильники Котельниковский" /><span class="ovrls"><img src="http://static.vdv-s.ru/img/news_overlay/pht.png" alt="ФОТО" onmouseover="ovrl(this)" /></span><time datetime="2016-01-15 14:10">15 <em>янв</em> | 14:10</time><h3>Под Волгоградом двое отморозков изнасиловали 16-летнюю девушку<span class="comm">42</span></h3></a></div></div><div onclick="divexpand(this, document.getElementById('newsTapeItmsR'), '540px', 'свернуть', this.getElementsByTagName('span')[0], 'btn flt l fa-chevron-up')" class="btn flt l fa-chevron-down"><span>развернуть</span></div><a href="http://news.vdv-s.ru/feed/" class="btn flt r">все новости</a></div><div id="smi2adblock_81255"><a href="http://smi2.net/">Новости СМИ2</a></div><script type="text/javascript" charset="utf-8"><!--//-->
   (function() {
     var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
     sc.src = 'http://news.smi2.ru/data/js/81255.js'; sc.charset = 'utf-8';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
   }());
-//</script><div class="feedblock buzz"><div class="h3"><a class="ttl" href="http://news.vdv-s.ru/buzz/">Народные новости</a><div class="rep">Ждём ваших материалов!</div></div><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8788"><time datetime="2016-01-15 12:04"><em>сегодня</em> | 12:04</time><h3>Чиновники отбирают жилье у матери с малышом</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8787"><img class="img" src="http://news.vdv-s.ru/files/t100/5/5116015111133058070.jpg" alt="Санаторий Эльтон продали частникам!!!" /><time datetime="2016-01-15 11:01"><em>сегодня</em> | 11:01</time><h3>Санаторий Эльтон продали частникам!!!</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8783"><img class="img" src="http://news.vdv-s.ru/files/t100/5/41160141528530123318.jpg" alt="Городская пещера" /><time datetime="2016-01-14 15:28">14 <em>янв</em> | 15:28</time><h3>Городская пещера</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8782"><img class="img" src="http://news.vdv-s.ru/files/t100/5/41160141525109929592.jpg" alt="Собака-друг человека?" /><time datetime="2016-01-14 15:25">14 <em>янв</em> | 15:25</time><h3>Собака-друг человека?</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8776"><img class="img" src="http://news.vdv-s.ru/files/t100/5/31160131050897329392.jpg" alt="Жертвы гололеда" /><time datetime="2016-01-13 09:05">13 <em>янв</em> | 09:05</time><h3>Жертвы гололеда</h3></a><a href="http://news.vdv-s.ru/buzz/" class="btn flt r">все новости</a></div><div id="n4p_29811">Loading...</div><script type="text/javascript" charset="utf-8">
+//</script><div class="feedblock buzz"><div class="h3"><a class="ttl" href="http://news.vdv-s.ru/buzz/">Народные новости</a><div class="rep">Ждём ваших материалов!</div></div><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8792"><img class="img" src="http://news.vdv-s.ru/files/t100/5/6116016197697445954.jpg" alt="Во имя баллистической ракеты" /><time datetime="2016-01-16 19:07">16 <em>янв</em> | 19:07</time><h3>Во имя баллистической ракеты</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8788"><time datetime="2016-01-15 12:04">15 <em>янв</em> | 12:04</time><h3>Чиновники отбирают жилье у матери с малышом</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8787"><img class="img" src="http://news.vdv-s.ru/files/t100/5/5116015111133058070.jpg" alt="Санаторий Эльтон продали частникам!!!" /><time datetime="2016-01-15 11:01">15 <em>янв</em> | 11:01</time><h3>Санаторий Эльтон продали частникам!!!</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8783"><img class="img" src="http://news.vdv-s.ru/files/t100/5/41160141528530123318.jpg" alt="Городская пещера" /><time datetime="2016-01-14 15:28">14 <em>янв</em> | 15:28</time><h3>Городская пещера</h3></a><a class="ctext" href="http://news.vdv-s.ru/buzz/?item=8782"><img class="img" src="http://news.vdv-s.ru/files/t100/5/41160141525109929592.jpg" alt="Собака-друг человека?" /><time datetime="2016-01-14 15:25">14 <em>янв</em> | 15:25</time><h3>Собака-друг человека?</h3></a><a href="http://news.vdv-s.ru/buzz/" class="btn flt r">все новости</a></div><div id="n4p_29811">Loading...</div><script type="text/javascript" charset="utf-8">
   (function(d,s){
     var o=d.createElement(s);
     o.async=true;
@@ -618,7 +638,7 @@
     var x=d.getElementsByTagName(s)[0];
     x.parentNode.insertBefore(o,x);
   })(document,"script");
-</script><div class="feedblock blg avtoham"><div class="h3"><a href="http://news.vdv-s.ru/avtoham/">Поймай нарушителя</a></div><a class="ctext" href="http://news.vdv-s.ru/avtoham/?item=8715"><time datetime="2015-12-18 13:12">18 <em>дек</em> 2015 | 13:12</time><h3>Езда по встречке</h3><img src="http://news.vdv-s.ru/files/t100/6/511511181312778458779.jpg" alt="Езда по встречке" /></a></div><div class="feedblock afisha"><div class="h3"><a href="http://news.vdv-s.ru/afisha/">Афиша</a></div><div class="feed"><a href="http://news.vdv-s.ru/afisha/kino/events/krid-nasledie-rokki/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4613.jpg" alt="Крид: Наследие Рокки" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/strogo-na-zapad/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4610.jpg" alt="Строго на Запад" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/les-prizrakov/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4614.jpg" alt="Лес призраков" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/ehlvin_i_burunduki_grandioznoe-burunduklyuchenie/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4611.jpg" alt="Элвин и бурундуки: Грандиозное бурундуключение" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/sestry/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4612.jpg" alt="Сестры" /></a></div><a href="http://news.vdv-s.ru/afisha/" class="btn flt r">вся афиша</a></div><div class="feedblock horos"><div class="h3"><a href="/horos/">Гороскоп</a></div><a class="ctext" href="/horos/"><img class="img" src="http://static.vdv-s.ru/img/horus.png" alt="ежедневный гороскоп Волгоград" /><h3>Гороскоп на 15 января</h3> </a></div><div class="feedblock blg"><div class="h3"><a href="http://joy.vdv-s.ru/">Приколы</a></div><a class="ctext" href="http://joy.vdv-s.ru/?item=8789"><time datetime="2016-01-15 17:35"><em>сегодня</em> | 17:35</time><h3>На страже</h3><img src="http://joy.vdv-s.ru/files/t100/4/51160151735980941083.jpg" alt="На страже" /></a></div><div class="feedblock tabs"><input id="tab_1" type="radio" name="tab" /><input id="tab_2" type="radio" name="tab" /><input id="tab_3" type="radio" name="tab" /><input id="tab_4" type="radio" name="tab" /><label for="tab_1" id="tab_l1" class="itm fa-vk">Вконтакте</label><label for="tab_2" id="tab_l2" class="itm fa-facebook-square">Facebook</label><label for="tab_3" id="tab_l3" class="itm fa-odnokl">Одноклассники</label><label for="tab_4" id="tab_l4" class="itm fa-twitter">Twitter</label><div class="br"></div><div class="tabs_cont"><div id="tab_c1"><div id="vk_groups"></div><script type="text/javascript">VK.Widgets.Group("vk_groups", {mode: 0, width: "300", height: "300", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 39976117);</script></div><div id="tab_c2"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fvdv.volgograd&amp;width&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=567968189880462" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:258px;" allowTransparency="true"></iframe></div><div id="tab_c3"><div id="ok_group_widget"></div><script>!function (d, id, did, st) {var js = d.createElement("script"); js.src = "http://connect.ok.ru/connect.js"; js.onload = js.onreadystatechange = function(){if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete"){if (!this.executed) {this.executed = true; setTimeout(function(){OK.CONNECT.insertGroupWidget(id,did,st);},0);}}}; d.documentElement.appendChild(js);}(document,"ok_group_widget","51480652284066","{width:305,height:285}");</script></div><div id="tab_c4"><a class="twitter-timeline" href="https://twitter.com/vdv_volgograd" data-widget-id="486125023887757313" width="300" height="300">Твиты пользователя @vdv_volgograd</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><script type="text/javascript">document.getElementById('tab_'+(Math.floor(Math.random()*4)+1)).checked=true</script></div><!--/noindex--></aside>
+</script><div class="feedblock blg avtoham"><div class="h3"><a href="http://news.vdv-s.ru/avtoham/">Поймай нарушителя</a></div><a class="ctext" href="http://news.vdv-s.ru/avtoham/?item=8715"><time datetime="2015-12-18 13:12">18 <em>дек</em> 2015 | 13:12</time><h3>Езда по встречке</h3><img src="http://news.vdv-s.ru/files/t100/6/511511181312778458779.jpg" alt="Езда по встречке" /></a></div><div class="feedblock afisha"><div class="h3"><a href="http://news.vdv-s.ru/afisha/">Афиша</a></div><div class="feed"><a href="http://news.vdv-s.ru/afisha/kino/events/krid-nasledie-rokki/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4613.jpg" alt="Крид: Наследие Рокки" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/strogo-na-zapad/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4610.jpg" alt="Строго на Запад" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/les-prizrakov/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4614.jpg" alt="Лес призраков" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/ehlvin_i_burunduki_grandioznoe-burunduklyuchenie/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4611.jpg" alt="Элвин и бурундуки: Грандиозное бурундуключение" /></a><a href="http://news.vdv-s.ru/afisha/kino/events/sestry/"><img src="http://news.vdv-s.ru/pics/afisha/t100/4612.jpg" alt="Сестры" /></a></div><a href="http://news.vdv-s.ru/afisha/" class="btn flt r">вся афиша</a></div><div class="feedblock horos"><div class="h3"><a href="/horos/">Гороскоп</a></div><a class="ctext" href="/horos/"><img class="img" src="http://static.vdv-s.ru/img/horus.png" alt="ежедневный гороскоп Волгоград" /><h3>Гороскоп на 17 января</h3> </a></div><div class="feedblock blg"><div class="h3"><a href="http://joy.vdv-s.ru/">Приколы</a></div><a class="ctext" href="http://joy.vdv-s.ru/?item=8791"><time datetime="2016-01-16 10:32">16 <em>янв</em> | 10:32</time><h3>Морозные новости</h3><span>Собирал с балкона белье. Поломал трусы.</span></a></div><div class="feedblock tabs"><input id="tab_1" type="radio" name="tab" /><input id="tab_2" type="radio" name="tab" /><input id="tab_3" type="radio" name="tab" /><input id="tab_4" type="radio" name="tab" /><label for="tab_1" id="tab_l1" class="itm fa-vk">Вконтакте</label><label for="tab_2" id="tab_l2" class="itm fa-facebook-square">Facebook</label><label for="tab_3" id="tab_l3" class="itm fa-odnokl">Одноклассники</label><label for="tab_4" id="tab_l4" class="itm fa-twitter">Twitter</label><div class="br"></div><div class="tabs_cont"><div id="tab_c1"><div id="vk_groups"></div><script type="text/javascript">VK.Widgets.Group("vk_groups", {mode: 0, width: "300", height: "300", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 39976117);</script></div><div id="tab_c2"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fvdv.volgograd&amp;width&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=567968189880462" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:258px;" allowTransparency="true"></iframe></div><div id="tab_c3"><div id="ok_group_widget"></div><script>!function (d, id, did, st) {var js = d.createElement("script"); js.src = "http://connect.ok.ru/connect.js"; js.onload = js.onreadystatechange = function(){if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete"){if (!this.executed) {this.executed = true; setTimeout(function(){OK.CONNECT.insertGroupWidget(id,did,st);},0);}}}; d.documentElement.appendChild(js);}(document,"ok_group_widget","51480652284066","{width:305,height:285}");</script></div><div id="tab_c4"><a class="twitter-timeline" href="https://twitter.com/vdv_volgograd" data-widget-id="486125023887757313" width="300" height="300">Твиты пользователя @vdv_volgograd</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div><script type="text/javascript">document.getElementById('tab_'+(Math.floor(Math.random()*4)+1)).checked=true</script></div><!--/noindex--></aside>
       </div>
     </div>
     <div id="upper" onclick="scrollUp(0)"></div>
@@ -650,7 +670,7 @@
               <a href="http://www.yandex.ru/cy?base=0&amp;host=www.vdv-s.ru" onmouseover="this.target='_blank'" rel="nofollow">
                 <img src="http://www.yandex.ru/cycounter?www.vdv-s.ru" width="88" height="31" alt="Яндекс цитирования" />
               </a>
-              <img src="http://vdv-s.ru/hit?id=c0a80101569913410004ecfb00002d8a" alt="" />
+              <img src="http://vdv-s.ru/hit?id=c0a80101569bffe2000ffdff00002415" alt="" />
             </div>
 <!--/noindex-->
           </div>

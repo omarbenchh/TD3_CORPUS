@@ -45,11 +45,11 @@
     <div id="header" class="header row-fluid">
         <div class="span8 push clearfix">
 
-            <div class="header-date-date">15</div>
+            <div class="header-date-date">18</div>
 <div class="header-date">
     <div class="header-date-today">сегодня</div>
     <div class="header-date-month">января</div>
-    <div class="header-date-day">пятница</div>
+    <div class="header-date-day">понедельник</div>
 </div>            <div class="site-brand">
                 <div class="site-age">18+</div>
                 <div id="site-logo" class="site-logo">
@@ -111,27 +111,25 @@
                 <div class="row-fluid">
                     <div class="span5">
                         
-                            <div class="meta indent"><img src="/img/refresh.gif" alt=""> обновлено в&nbsp;23:25 / <a href="http://pogoda.amur.info">погода</a></div>
+                            <div class="meta indent"><img src="/img/refresh.gif" alt=""> обновлено в&nbsp;05:55 / <a href="http://pogoda.amur.info">погода</a></div>
                             <div class="weather-temp pull-left">
-                                <span class="temp-sign">&minus;</span><span class="temp-value">22</span><span class="temp-dec">.3°</span>
+                                <span class="temp-sign">&minus;</span><span class="temp-value">28</span><span class="temp-dec">.8°</span>
                             </div>
                             <div class="wind-bar pull-left">
-                                <div class="nobr">ветер <img src="/img/weather/wind/NE.gif" alt="ENE" title="ENE"> 2.2&nbsp;м/c</div>
-                                <div class="nobr">давл. 773.4&nbsp;мм</div>
+                                <div class="nobr">ветер <img src="/img/weather/wind/SE.gif" alt="SSE" title="SSE"> 0.0&nbsp;м/c</div>
+                                <div class="nobr">давл. 768.2&nbsp;мм</div>
                             </div>
 
                                             </div>
                     <div class="span3">
 
                         <div class="meta text-center">сегодня</div>
-                                                    <div class="text-center"><img src="/img/weather/clear-cloudy.gif" alt="переменная облачность" title="переменная облачность"> -16..-18</div>
-                            <div class="text-center"><img src="/img/weather/night-clear-cloudy.gif" alt="небольшая облачность" title="небольшая облачность"> -27..-29</div>
+                                                    <div class="text-center"><img src="/img/weather/clear-cloudy.gif" alt="переменная облачность" title="переменная облачность"> -13..-15</div>
+                            <div class="text-center"><img src="/img/weather/night-clear-cloudy.gif" alt="переменная облачность" title="переменная облачность"> -25..-27</div>
                                             </div>
 
                     <div class="span3">
                         <div class="meta text-center">завтра</div>
-                                                    <div class="text-center"><img src="/img/weather/clear-cloudy.gif" alt="небольшая облачность" title="небольшая облачность"> -15..-17</div>
-                            <div class="text-center"><img src="/img/weather/night-clear-cloudy.gif" alt="переменная облачность" title="переменная облачность"> -27..-29</div>
                                             </div>
                 </div>
             </div>
@@ -410,21 +408,21 @@
 
                                                                                     <div class="article art icle-type-news article-view-compact">
                                     <div class="meta article-info pop">
-                                                                                сегодня, 15:05 / 
+                                                                                15&nbsp;января, 15:05 / 
                                         Общество                                         / <a href="/news/2016/01/15/105755#comments">5&nbsp;комментариев</a>                                    </div>
                                     <div class="media-heading article-title"><a href="/news/2016/01/15/105755">16 января в Благовещенске пройдёт акция помощи Насте Дубогрызовой – малышке со страшным диагнозом </a></div>
                                 </div>
                                 <hr class="compact">
                                                             <div class="article art icle-type-news article-view-compact">
                                     <div class="meta article-info pop">
-                                                                                вчера, 17:44 / 
+                                                                                14&nbsp;января, 17:44 / 
                                         В России и мире                                                                            </div>
                                     <div class="media-heading article-title"><a href="/news/2016/01/14/105708">Учёные: три чашки кофе в день способны уменьшить грудь</a></div>
                                 </div>
                                 <hr class="compact">
                                                             <div class="article art icle-type-news article-view-compact">
                                     <div class="meta article-info pop">
-                                                                                вчера, 15:40 / 
+                                                                                14&nbsp;января, 15:40 / 
                                         В России и мире                                         / <a href="/news/2016/01/14/105691#comments">4&nbsp;комментария</a>                                    </div>
                                     <div class="media-heading article-title"><a href="/news/2016/01/14/105691">Обама поручил здравоохранению США победить рак</a></div>
                                 </div>
@@ -639,9 +637,9 @@
                                                     <td><a  href="http://www.amur.info/news/2016/01/12/">12</a></td>
                                                     <td><a  href="http://www.amur.info/news/2016/01/13/">13</a></td>
                                                     <td><a  href="http://www.amur.info/news/2016/01/14/">14</a></td>
-                                                    <td><span  >15</span></td>
-                                                    <td class="text-error"><span  >16</span></td>
-                                                    <td class="text-error"><span  >17</span></td>
+                                                    <td><a  href="http://www.amur.info/news/2016/01/15/">15</a></td>
+                                                    <td class="text-error"><a  href="http://www.amur.info/news/2016/01/16/">16</a></td>
+                                                    <td class="text-error"><a  href="http://www.amur.info/news/2016/01/17/">17</a></td>
                                             </tr>
                                     <tr>
                                                     <td><span  >18</span></td>
@@ -781,10 +779,10 @@
                                             <option value="12">12</option>
                                             <option value="13">13</option>
                                             <option value="14">14</option>
-                                            <option value="15" selected>15</option>
+                                            <option value="15">15</option>
                                             <option value="16">16</option>
                                             <option value="17">17</option>
-                                            <option value="18">18</option>
+                                            <option value="18" selected>18</option>
                                             <option value="19">19</option>
                                             <option value="20">20</option>
                                             <option value="21">21</option>
@@ -850,25 +848,25 @@
                                                                                     <div id="block-www-popular" class="block-www-popular block well clearfix"><div class="row-fluid">
             <div class="span6">
                 <div class="block-title block-title-compact">Популярное сегодня</div>
-                                                                                        <div class="meta"><strong>+5582</strong></strong> / новости</div>
+                                                                                        <div class="meta"><strong>+445</strong></strong> / новости</div>
                             <div class="media-heading article-title">
-                                <a href="http://www.amur.info/news/2016/01/14/105718">Родственники убитой в Тынде Анны Котик хотят похоронить её на Украине и просят помощи</a>
+                                <a href="http://www.amur.info/news/2016/01/17/105811">У Амура и Тимура появился блог в «Живом журнале»</a>
                             </div>
-                                                                                                <div class="meta"><strong>+3216</strong></strong> / новости</div>
+                                                                                                <div class="meta"><strong>+343</strong></strong> / новости</div>
                             <div class="media-heading article-title">
-                                <a href="http://www.amur.info/news/2016/01/14/105717">Амурчанка, передавшая ВИЧ-инфекцию своим партнёрам, лишилась свободы</a>
+                                <a href="http://www.amur.info/news/2016/01/16/105802">Гинеколог в Свободном, не заметивший беременность двух сестёр, привлечён к ответственности</a>
                             </div>
-                                                                                                <div class="meta"><strong>+2348</strong></strong> / новости</div>
+                                                                                                <div class="meta"><strong>+150</strong></strong> / новости</div>
                             <div class="media-heading article-title">
-                                <a href="http://www.amur.info/news/2016/01/15/105767">На Благовещенской ТЭЦ во время обеда повесился рабочий</a>
+                                <a href="http://www.amur.info/news/2016/01/17/105819">На 11-м километре Игнатьевского шоссе перевернулась малолитражка</a>
                             </div>
-                                                                                                <div class="meta"><strong>+2089</strong></strong> / Александр Ярошенко</div>
+                                                                                                <div class="meta"><strong>+71</strong></strong> / новости</div>
                             <div class="media-heading article-title">
-                                <a href="http://www.amur.info/column/yaroshenko/6139">Губернаторский кислород</a>
+                                <a href="http://www.amur.info/news/2016/01/17/105816">В Свободненском районе с трассы слетела иномарка</a>
                             </div>
-                                                                                                <div class="meta"><strong>+2011</strong></strong> / новости</div>
+                                                                                                <div class="meta"><strong>+61</strong></strong> / новости</div>
                             <div class="media-heading article-title">
-                                <a href="http://www.amur.info/news/2016/01/14/105695">За пару минут до наступления Нового года под Белогорском произошло смертельное ДТП</a>
+                                <a href="http://www.amur.info/news/2016/01/17/105810">Амурским полицейским пожаловались на сильный химический запах в одном из домов села Низинное</a>
                             </div>
                                                                             <hr class="visible-phone">
             </div>
@@ -877,46 +875,46 @@
     <!--            <div class="block-title block-title-compact"><a href="http://forum.amur.info/">Форум</a> / <a href="http://blogs.amur.info/">Блоги</a></div>-->
                 <div id="popular-blogs" class="popular-tabs">
                     
-                                                    <div class="meta"><strong>+479</strong> / <a href="http://blogs.amur.info/87803/">Антон  Патоков</a></div>
-                            <div class="media-heading article-title"><a href="http://blogs.amur.info/87803/6225/">Согревающий суп по-мексикански</a></div>
+                                                    <div class="meta"><strong>+35</strong> / <a href="http://blogs.amur.info/847/">Виталий Злочевский</a></div>
+                            <div class="media-heading article-title"><a href="http://blogs.amur.info/847/6233/">Счетчики воды. </a></div>
                         
                     
-                                                    <div class="meta"><strong>+460</strong> / <a href="http://blogs.amur.info/1617/">Дмитрий Гудзовский</a></div>
-                            <div class="media-heading article-title"><a href="http://blogs.amur.info/1617/6227/">О tempora! O mores! Праздничный инфантилизм</a></div>
+                                                    <div class="meta"><strong>+34</strong> / <a href="http://blogs.amur.info/putilov/">Игорь Путилов</a></div>
+                            <div class="media-heading article-title"><a href="http://blogs.amur.info/putilov/6234/">О китайском интернете, школах и отношении к иностранцам</a></div>
                         
                     
-                                                    <div class="meta"><strong>+361</strong> / <a href="http://blogs.amur.info/putilov/">Игорь Путилов</a></div>
-                            <div class="media-heading article-title"><a href="http://blogs.amur.info/putilov/6222/">Немного старого доброго Хэйхэ. Нынешнее положение дел </a></div>
+                                                    <div class="meta"><strong>+15</strong> / <a href="http://blogs.amur.info/putilov/">Игорь Путилов</a></div>
+                            <div class="media-heading article-title"><a href="http://blogs.amur.info/putilov/6230/">Коротко и ясно о Китае</a></div>
                         
                     
-                                                    <div class="meta"><strong>+319</strong> / <a href="http://blogs.amur.info/86498/">Игорь Павлов</a></div>
-                            <div class="media-heading article-title"><a href="http://blogs.amur.info/86498/6218/">Хирург-убийца. Понять и простить</a></div>
+                                                    <div class="meta"><strong>+13</strong> / <a href="http://blogs.amur.info/680/">Амур.инфо  </a></div>
+                            <div class="media-heading article-title"><a href="http://blogs.amur.info/680/243/">Ветрянка у взрослых: как я болела :(</a></div>
                         
                     
-                                                    <div class="meta"><strong>+292</strong> / <a href="http://blogs.amur.info/13635/">Святослав  Шевченко</a></div>
-                            <div class="media-heading article-title"><a href="http://blogs.amur.info/13635/6226/">Фильм «Выживший»: месть оставляю Господу</a></div>
+                                                    <div class="meta"><strong>+11</strong> / <a href="http://blogs.amur.info/5560/">Каро Жамкочян</a></div>
+                            <div class="media-heading article-title"><a href="http://blogs.amur.info/5560/4906/">ЛИЛИТ ОГАНЕСЯН</a></div>
                         
                                     </div>
                 <div id="popular-forum" class="popular-tabs hide">
                     
-                        <div class="meta"><strong>+1454</strong> / <a href="http://forum.amur.info/chat/">Свободный полёт</a></div>
-                        <div class="media-heading article-title"><a href="http://forum.amur.info/chat/44090/?page=last">Подарю, возьму в дар (только даром или обмен на ФВ - шоколадка, пачка сока, ...)</a></div>
+                        <div class="meta"><strong>+164</strong> / <a href="http://forum.amur.info/goverment/">Политика и власть</a></div>
+                        <div class="media-heading article-title"><a href="http://forum.amur.info/goverment/63680/?page=last">Новая реальность: американский доллар будет стоить ... рублей</a></div>
 
                     
-                        <div class="meta"><strong>+1059</strong> / <a href="http://forum.amur.info/city/">Жизнь города и области</a></div>
-                        <div class="media-heading article-title"><a href="http://forum.amur.info/city/60196/?page=last">СОС " Спасем общими силами" ветка Амурского Общества Защиты Животных.</a></div>
-
-                    
-                        <div class="meta"><strong>+813</strong> / <a href="http://forum.amur.info/city/">Жизнь города и области</a></div>
-                        <div class="media-heading article-title"><a href="http://forum.amur.info/city/52037/?page=last">Барахолка (ОБЯЗАТЕЛЬНО читать ПРАВИЛА в первом сообщении темы)</a></div>
-
-                    
-                        <div class="meta"><strong>+776</strong> / <a href="http://forum.amur.info/city/">Жизнь города и области</a></div>
-                        <div class="media-heading article-title"><a href="http://forum.amur.info/city/96684/?page=last">Поможем бездомным животным вместе! (г. Благовещенск и Амурская область)</a></div>
-
-                    
-                        <div class="meta"><strong>+741</strong> / <a href="http://forum.amur.info/smi/">СМИ</a></div>
+                        <div class="meta"><strong>+82</strong> / <a href="http://forum.amur.info/smi/">СМИ</a></div>
                         <div class="media-heading article-title"><a href="http://forum.amur.info/smi/42357/?page=last">Свежая новость</a></div>
+
+                    
+                        <div class="meta"><strong>+76</strong> / <a href="http://forum.amur.info/chat/">Свободный полёт</a></div>
+                        <div class="media-heading article-title"><a href="http://forum.amur.info/chat/43932/?page=last">Обсуждение фильмов</a></div>
+
+                    
+                        <div class="meta"><strong>+54</strong> / <a href="http://forum.amur.info/city/">Жизнь города и области</a></div>
+                        <div class="media-heading article-title"><a href="http://forum.amur.info/city/42873/?page=last">Фирмы Амурской области и мы, потребители - белый и черный списки</a></div>
+
+                    
+                        <div class="meta"><strong>+48</strong> / <a href="http://forum.amur.info/city/">Жизнь города и области</a></div>
+                        <div class="media-heading article-title"><a href="http://forum.amur.info/city/56184/?page=last">Выставки кошек</a></div>
 
                                     </div>
             </div>
@@ -926,17 +924,17 @@
                                                             <div id="block-www-announces" class="block-www-announces block well clearfix"><div class="row-fluid">
                             <div class="span6">
                     <div class="article article-type-news article-view-announce">
-                                                    <div class="meta article-info pop">сегодня, 02:29 / Блоги                                 / <a href="http://blogs.amur.info/1617/6227/#comments">10&nbsp;комментариев</a> 
+                                                    <div class="meta article-info pop">15&nbsp;января, 20:43 / Власть                                 / <a href="http://www.amur.info/news/2016/01/15/105787#comments">49&nbsp;комментариев</a> 
                             </div>
-                            <h2 class="media-heading article-title"><a href="http://blogs.amur.info/1617/6227/">Блог Дмитрия Гудзовского: О tempora! O mores! Праздничный инфантилизм</a></h2>
+                            <h2 class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105787">Власти гарантировали, что банкротства Амурской области не будет</a></h2>
                                             </div>
                 </div>
                         <hr class="visible-phone">
                             <div class="span6">
                     <div class="article article-type-news article-view-announce">
-                        <div class="meta article-info pop">сегодня, 10:22  / Общество                             
+                        <div class="meta article-info pop">вчера, 13:56  / Экономика                             / <a href="http://www.amur.info/news/2016/01/17/105812#comments">30&nbsp;комментариев</a> 
                         </div>
-                                                    <h2 class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105729">Как провести выходные в Благовещенске</a></h2>
+                                                    <h2 class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105812">Продажи легковых автомобилей в России в минувшем году упали на 36 %</a></h2>
                                                 </div>
                 </div>
                     </div>
@@ -956,72 +954,72 @@
     <h2 class="block-title block-title-compact">Десять последних новостей</h2>
 
                     <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 23:11 / Общество     
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 20:39 / Общество     / <a href="http://www.amur.info/news/2016/01/17/105821#comments">2&nbsp;комментария</a> 
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105791">Амурские власти в 2016 году планируют сократить число безработных за счёт «мегапроектов» и поддержки малого бизнеса</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105821">Леонардо Ди Каприо рассказал, что хотел бы сыграть в кино Владимира Путина</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 22:28 / Власть     
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 20:23 / Происшествия     / <a href="http://www.amur.info/news/2016/01/17/105820#comments">2&nbsp;комментария</a> 
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105790">Глава Приамурья признался, что хочет стать отцом и даже придумал имя для сына</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105820">В посёлке Снежногорский огонь уничтожил гараж и находящийся в нём автомобиль</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 22:06 / Власть     / <a href="http://www.amur.info/news/2016/01/15/105789#comments">8&nbsp;комментариев</a> 
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 19:47 / Происшествия     
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105789">Губернатор Александр Козлов об обсуждениях его личности в Сети: «Грязь любого ранит, кто себя уважает»</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105819">На 11-м километре Игнатьевского шоссе перевернулась малолитражка</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 20:55 / Общество     
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 19:28 / Культура     
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105788">След тигрицы Илоны снова нашли в Хинганском заповеднике </a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105818">В краеведческом музее капелла «Возрождение» исполнила святочные рассказы</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 20:43 / Власть     / <a href="http://www.amur.info/news/2016/01/15/105787#comments">31&nbsp;комментарий</a> 
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 18:40 / Культура     
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105787">Власти гарантировали, что банкротства Амурской области не будет</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105817">На VII Российской-китайской ярмарке культуры и искусства могут выступить «Казаки России»</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 20:23 / Общество     / <a href="http://www.amur.info/news/2016/01/15/105786#comments">1&nbsp;комментарий</a> 
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 17:42 / Происшествия     / <a href="http://www.amur.info/news/2016/01/17/105816#comments">6&nbsp;комментариев</a> 
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105786">Между Благовещенском и Читой возобновлено автобусное сообщение</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105816">В Свободненском районе с трассы слетела иномарка</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 20:07 / Экономика     / <a href="http://www.amur.info/news/2016/01/15/105785#comments">12&nbsp;комментариев</a> 
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 17:30 / Общество     / <a href="http://www.amur.info/news/2016/01/17/105815#comments">6&nbsp;комментариев</a> 
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105785">Губернатор: Амурская область намерена искать пути денежных поступлений со строительства объектов Газпрома</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105815">В эфире «Эха Москвы в Благовещенске»: купание в проруби и экономическая ситуация в стране</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 19:39 / Власть     / <a href="http://www.amur.info/news/2016/01/15/105783#comments">1&nbsp;комментарий</a> 
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 13:56 / Экономика     / <a href="http://www.amur.info/news/2016/01/17/105812#comments">30&nbsp;комментариев</a> 
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105783">Губернатор о недосформированном правительстве: «Мы же не на пикник собираемся»</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105812">Продажи легковых автомобилей в России в минувшем году упали на 36 %</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 19:34 / Общество     / <a href="http://www.amur.info/news/2016/01/15/105784#comments">1&nbsp;комментарий</a> 
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 13:15 / Общество     / <a href="http://www.amur.info/news/2016/01/17/105811#comments">7&nbsp;комментариев</a> 
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105784">Дальневосточным пожарным выплатили долги по зарплате</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105811">У Амура и Тимура появился блог в «Живом журнале»</a></div>
         </div>
 
                             <hr class="compact">
                 <div class="article article-type-news article-view-compact">
-            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->сегодня, 19:33 / Общество     
+            <div class="meta article-info pop"><!--<strong class="text-error">видео</strong> / -->вчера, 11:27 / Происшествия     / <a href="http://www.amur.info/news/2016/01/17/105810#comments">2&nbsp;комментария</a> 
             </div>
-            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/15/105777">Белогорск преодолел экватор отопительного сезона</a></div>
+            <div class="media-heading article-title"><a href="http://www.amur.info/news/2016/01/17/105810">Амурским полицейским пожаловались на сильный химический запах в одном из домов села Низинное</a></div>
         </div>
 
                 </div>

@@ -192,7 +192,7 @@
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="top" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -206,7 +206,7 @@
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="oop" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -921,7 +921,7 @@
 					
 				
 																<ul class="info cld flt-l fnt-13" aria-label="social links and weather">
-					<li class="flt-l first" title="Today's date" aria-haspopup="true">15/01/16</li>
+					<li class="flt-l first" title="Today's date" aria-haspopup="true">17/01/16</li>
 					
                   
     
@@ -931,8 +931,8 @@
 		    				
 
 <li class="flt-l">	
-	<span class='ico-weather ico-sunny_spells'><a  class="show-weather-popup" href="#" title="5 day forecast">
-		-2&deg;C to 5&deg;C Sunny spells
+	<span class='ico-weather ico-heavy_snow'><a  class="show-weather-popup" href="#" title="5 day forecast">
+		1&deg;C to 2&deg;C Heavy snow
 	</a></span>
 </li>  
 <div id="weather-lightbox" class="whyregister-lightbox dis-n">
@@ -941,74 +941,26 @@
 			<a href="" class="close" title="close">Close<b>X</b></a>
 		</div>
 					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Friday
-					<span class="day-month">15 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">5&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-2&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North west</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">16 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Saturday
-					<span class="day-month">16 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-3&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North west</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">12 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
 				<p class="weekday weekDay flt-l">Sunday
 					<span class="day-month">17 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
+				  <p class="weatherOutlookHeading">Heavy snow</p>
+  <div class='wico-weather wico-heavy_snow'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
     <span class="day-month">2&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">1&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">5 mph</span>
+    <span class="day-month">3 mph</span>
   </p>
 
 			</div>
@@ -1021,15 +973,15 @@
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
+    <span class="day-month">3&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">0&deg;c</span>
+    <span class="day-month">-3&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
     <span class="day-month">11 mph</span>
@@ -1040,6 +992,54 @@
 				<p class="weekday weekDay flt-l">Tuesday
 					<span class="day-month">19 Jan</span>
 				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">2&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">-2&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">North</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">4 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Wednesday
+					<span class="day-month">20 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">3&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">-1&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">East</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">3 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Thursday
+					<span class="day-month">21 Jan</span>
+				</p>
 				  <p class="weatherOutlookHeading">Cloudy</p>
   <div class='wico-weather wico-cloudy'>
   </div>
@@ -1048,15 +1048,15 @@
     <span class="day-month">3&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">0&deg;c</span>
+    <span class="day-month">1&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">6 mph</span>
+    <span class="day-month">10 mph</span>
   </p>
 
 			</div>
@@ -1450,7 +1450,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu1,artmpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1462,7 +1462,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="2x1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1503,7 +1503,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1515,7 +1515,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu2,artmpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1527,7 +1527,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1539,7 +1539,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1551,7 +1551,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1563,7 +1563,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1701,7 +1701,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1949,7 +1949,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1981,40 +1981,26 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.northamptonchron.co.uk/news/crime/detectives-investigating-northampton-man-s-murder-issue-appeal-for-information-about-former-student-1-7163042 title="Jon Casey" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7163049!/image/3207837978.jpg_gen/derivatives/articleWidgetDeriv_140px/3207837978.jpg" alt="Jon Casey"></a>
+				<a href=http://www.northamptonchron.co.uk/news/local/photos-beautiful-snow-pictures-from-across-northamptonshire-plus-an-updated-forecast-from-local-weather-experts-1-7164984 title="Rothwell. By Lee Dockerill." class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7164972!/image/3353292608.jpg_gen/derivatives/articleWidgetDeriv_140px/3353292608.jpg" alt="Rothwell. By Lee Dockerill."></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.northamptonchron.co.uk/news/crime/detectives-investigating-northampton-man-s-murder-issue-appeal-for-information-about-former-student-1-7163042 title="Detectives investigating Northampton man’s murder issue appeal for information about former student">Detectives investigating Northampton man’s murder issue appeal for information about former student</a>
+					<a href=http://www.northamptonchron.co.uk/news/local/photos-beautiful-snow-pictures-from-across-northamptonshire-plus-an-updated-forecast-from-local-weather-experts-1-7164984 title="PHOTOS: Beautiful snow pictures from across Northamptonshire... plus an updated forecast from local weather experts">PHOTOS: Beautiful snow pictures from across Northamptonshire... plus an updated forecast from local weather experts</a>
 				</h3>
-				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/crime" title="Crime">Crime</a></div>
+				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/local" title="Local">Local</a></div>
 			</div>
 			</article>
 		</li>
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.northamptonchron.co.uk/news/crime/northamptonshire-manslaughter-trial-our-lives-have-changed-forever-1-7162585 title="The family of Lorenzo Galluci have issued a statement following the trial of the man accused of killing him" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7162441!/image/3167855691.jpg_gen/derivatives/articleWidgetDeriv_140px/3167855691.jpg" alt="The family of Lorenzo Galluci have issued a statement following the trial of the man accused of killing him"></a>
+			<div class="teaser-card__image teaser-card__image--no-image">
+				<a href=http://www.northamptonchron.co.uk/news/local/snowfall-across-northamptonshire-overnight-but-should-we-expect-more-on-sunday-1-7164742 title="Snowfall across  Northamptonshire overnight... but should we expect more on Sunday?" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="" alt="Snowfall across  Northamptonshire overnight... but should we expect more on Sunday?"></a>
 			</div>
-						<div class="teaser-card__text teaser-card__text--">						
+						<div class="teaser-card__text teaser-card__text--no-image">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.northamptonchron.co.uk/news/crime/northamptonshire-manslaughter-trial-our-lives-have-changed-forever-1-7162585 title="Northamptonshire manslaughter trial: ‘Our lives have changed forever’">Northamptonshire manslaughter trial: ‘Our lives have changed forever’</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/crime" title="Crime">Crime</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.northamptonchron.co.uk/news/local/missing-sisters-with-links-to-northamptonshire-town-found-safe-and-well-1-7163331 title="Destiny and Tequilla Stead" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7159959!/image/182894431.jpg_gen/derivatives/articleWidgetDeriv_140px/182894431.jpg" alt="Destiny and Tequilla Stead"></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.northamptonchron.co.uk/news/local/missing-sisters-with-links-to-northamptonshire-town-found-safe-and-well-1-7163331 title="Missing sisters with links to Northamptonshire town found safe and well">Missing sisters with links to Northamptonshire town found safe and well</a>
+					<a href=http://www.northamptonchron.co.uk/news/local/snowfall-across-northamptonshire-overnight-but-should-we-expect-more-on-sunday-1-7164742 title="Snowfall across  Northamptonshire overnight... but should we expect more on Sunday?">Snowfall across  Northamptonshire overnight... but should we expect more on Sunday?</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/local" title="Local">Local</a></div>
 			</div>
@@ -2023,40 +2009,54 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.northamptonchron.co.uk/news/crime/man-convicted-of-killing-northamptonshire-man-after-driving-into-him-in-car-park-1-7162426 title="Lorenzo Gallucci died after he was hit by a car in the Splash pool car park in Rushden" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7162424!/image/2354830140.jpg_gen/derivatives/articleWidgetDeriv_140px/2354830140.jpg" alt="Lorenzo Gallucci died after he was hit by a car in the Splash pool car park in Rushden"></a>
+				<a href=http://www.northamptonchron.co.uk/news/local/dogs-and-cats-can-get-ill-too-vets-warning-over-winter-hazards-for-pets-1-7163029 title="Pet owners urged to consider the health of their dogs and cats this winter" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7163028!/image/4245744269.jpg_gen/derivatives/articleWidgetDeriv_140px/4245744269.jpg" alt="Pet owners urged to consider the health of their dogs and cats this winter"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.northamptonchron.co.uk/news/crime/man-convicted-of-killing-northamptonshire-man-after-driving-into-him-in-car-park-1-7162426 title="Man convicted of killing Northamptonshire man after driving into him in car park">Man convicted of killing Northamptonshire man after driving into him in car park</a>
+					<a href=http://www.northamptonchron.co.uk/news/local/dogs-and-cats-can-get-ill-too-vets-warning-over-winter-hazards-for-pets-1-7163029 title="‘Dogs and cats can get ill too’ - Vets warning over winter hazards for pets">‘Dogs and cats can get ill too’ - Vets warning over winter hazards for pets</a>
 				</h3>
-				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/crime" title="Crime">Crime</a></div>
+				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/local" title="Local">Local</a></div>
 			</div>
 			</article>
 		</li>
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.northamptonchron.co.uk/news/crime/teenager-arrested-in-connection-with-robbery-at-northamptonshire-shop-1-7163260 title="" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7153147!/image/1603202958.jpg_gen/derivatives/articleWidgetDeriv_140px/1603202958.jpg" alt=""></a>
+				<a href=http://www.northamptonchron.co.uk/news/local/could-dry-january-do-more-harm-than-good-1-7162971 title="Could Dry January actualy be worse for you?" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7162969!/image/3959317948.jpg_gen/derivatives/articleWidgetDeriv_140px/3959317948.jpg" alt="Could Dry January actualy be worse for you?"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.northamptonchron.co.uk/news/crime/teenager-arrested-in-connection-with-robbery-at-northamptonshire-shop-1-7163260 title="Teenager arrested in connection with robbery at Northamptonshire shop">Teenager arrested in connection with robbery at Northamptonshire shop</a>
+					<a href=http://www.northamptonchron.co.uk/news/local/could-dry-january-do-more-harm-than-good-1-7162971 title="Could dry January do more harm than good?">Could dry January do more harm than good?</a>
 				</h3>
-				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/crime" title="Crime">Crime</a></div>
+				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/local" title="Local">Local</a></div>
 			</div>
 			</article>
 		</li>
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.northamptonchron.co.uk/news/crime/items-stolen-from-construction-site-in-northamptonshire-town-1-7163083 title="" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7132943!/image/1258090580.jpg_gen/derivatives/articleWidgetDeriv_140px/1258090580.jpg" alt=""></a>
+				<a href=http://www.northamptonchron.co.uk/news/local/northampton-mum-s-diet-dream-comes-true-1-7164257 title="Sharon Hiles  after losing 11 stone" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7164255!/image/1022944568.jpg_gen/derivatives/articleWidgetDeriv_140px/1022944568.jpg" alt="Sharon Hiles  after losing 11 stone"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.northamptonchron.co.uk/news/crime/items-stolen-from-construction-site-in-northamptonshire-town-1-7163083 title="Items stolen from construction site in Northamptonshire town">Items stolen from construction site in Northamptonshire town</a>
+					<a href=http://www.northamptonchron.co.uk/news/local/northampton-mum-s-diet-dream-comes-true-1-7164257 title="Northampton mum’s diet dream comes true">Northampton mum’s diet dream comes true</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/local" title="Local">Local</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--">
+				<a href=http://www.northamptonchron.co.uk/news/crime/drink-driver-who-killed-northants-grandmother-after-his-vehicle-mounted-pavement-jailed-for-five-years-1-7163764 title="Andrew Den-Drijver has been jailed for five years after he admitted causing the death of Janice Buckland, aged 51, by dangerous driving" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7163758!/image/2525389338.jpg_gen/derivatives/articleWidgetDeriv_140px/2525389338.jpg" alt="Andrew Den-Drijver has been jailed for five years after he admitted causing the death of Janice Buckland, aged 51, by dangerous driving"></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.northamptonchron.co.uk/news/crime/drink-driver-who-killed-northants-grandmother-after-his-vehicle-mounted-pavement-jailed-for-five-years-1-7163764 title="Drink-driver who killed Northants grandmother after his vehicle mounted pavement jailed for five years">Drink-driver who killed Northants grandmother after his vehicle mounted pavement jailed for five years</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.northamptonchron.co.uk/news/crime" title="Crime">Crime</a></div>
 			</div>
@@ -2236,7 +2236,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/northampton.jp/news" 
 			data-adtag-pos="mpu5" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=cloudy" 
 			data-nav="news"
 			data-pgid="13402290" 
 			data-trigger-once="gpt:ready"></div>					

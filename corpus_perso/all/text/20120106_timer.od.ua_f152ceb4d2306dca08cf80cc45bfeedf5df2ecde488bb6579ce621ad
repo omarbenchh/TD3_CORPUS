@@ -193,190 +193,190 @@ $(".beware").live('click', function(event){
 
 		<h2 class="first">Хроника дня</h2>
 		<div>
-			<article class="clearfix headline">
-				<time class="small fr">Сегодня 17:24</time>
-<!--				<span class="topic"><a class="red" href="/rubric/skandaly/">Скандалы</a></span> -->
-				<p><a href="/news/meru_zatoki_grozit_tyurma_za_razbazarivanie_pribrejnih_zemel_838.html">Мэру Затоки грозит тюрьма за разбазаривание прибрежных земель</a></p>
+			<article class="clearfix">
+				<time class="small fr">Вчера 21:37</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/u_munitsipalnih_slujaschih_akkermana_dobavilsya_vneplanoviy_vihodnoy_823.html">У муниципальных служащих Аккермана добавился внеплановый выходной</a></p>
 																 
-				<span title="3 фотографии" class="counter photos">3</span>				 
+				<span title="1 фотография" class="counter photos">1</span>				 
 							</article>
 
 			<article class="clearfix">
-				<time class="small fr">Сегодня 17:21</time>
-<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
-				<p><a href="/news/na_tairovskom_rinke_sgorel_torgoviy_pavilon_105.html">На Таировском рынке сгорел торговый павильон </a></p>
+				<time class="small fr">Вчера 19:15</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/odesskiy_aeroport_nadeetsya_nachat_prinimat_reysi_utrom_674.html">В Одесском аэропорту надеются начать принимать рейсы утром</a></p>
 																 
 								 
 							</article>
 
 			<article class="clearfix">
-				<time class="small fr">Сегодня 17:00</time>
+				<time class="small fr">Вчера 18:52</time>
 <!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
-				<p><a href="/news/v_kiliyskom_rayone_propal_58_letniy_mujchina_252.html">В Килийском районе пропал 58-летний мужчина </a></p>
+				<p><a href="/news/chast_odessitov_ostanetsya_bez_sveta_v_ponedelnik_spisok_domov_641.html">Часть одесситов останется без света в понедельник (список домов)</a></p>
+																 
+								 
+							</article>
+
+			<div></div>
+			<article class="clearfix">
+				<time class="small fr">Вчера 18:12</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/odesskiy_televeduschiy_vozobnovlyaet_vipusk_peredachi_zakritoy_pri_yanukoviche_126.html">Одесский телеведущий возобновляет выпуск передачи, закрытой при Януковиче</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix headline">
+				<time class="small fr">Вчера 17:42</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/truhanov_prosit_odesskih_bossov_sdelat_podchinennim_vihodnoy_18_yanvarya_373.html">Снегопад: Труханов просит одесских боссов сделать подчинённым выходной 18 января</a></p>
 																 
 				<span title="1 фотография" class="counter photos">1</span>				 
 							</article>
 
+			<article class="clearfix">
+				<time class="small fr">Вчера 17:41</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/izmail_boretsya_so_snegopadom_926.html">Измаил борется со снегопадом</a></p>
+																 
+				<span title="6 фотографий" class="counter photos">6</span>				 
+							</article>
+
+			<article class="clearfix">
+				<time class="small fr">Вчера 17:17</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/odessa_musor_vivozyat_hleb_zavozyat_253.html">Одесса: мусор вывозят, хлеб - завозят</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix">
+				<time class="small fr">Вчера 17:07</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/34_poselka_v_odesskoy_oblasti_ostalis_bez_sveta_217.html">34 посёлка в Одесской области остались без света</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix">
+				<time class="small fr">Вчера 16:59</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/chast_jiteley_ilichevska_ostalis_bez_vodi_134.html">Жители Ильичёвска остались без воды</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix">
+				<time class="small fr">Вчера 16:47</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/shkoli_ilichevska_zakrivayutsya_na_karantin_126.html">Школы Ильичёвска закрываются на карантин</a></p>
+																 
+								 
+							</article>
+
 			<div></div>
 			<article class="clearfix headline">
-				<time class="small fr">Сегодня 16:56</time>
-<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
-				<p><a href="/news/antisanktsionniy_marshrut_poezd_iz_ilichevska_v_kitay_poydet_cherez_dva_morya_no_zato_v_obhod_rossii_454.html">Антисанкционный маршрут: поезд из Ильичёвска в Китай пойдёт через два моря, но зато в обход России</a></p>
+				<time class="small fr">Вчера 16:32</time>
+<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
+				<p><a href="/news/v_odesse_nachali_ostanavlivatsya_tramvai_975.html">В Одессе начали останавливаться трамваи</a></p>
 																 
 				<span title="2 фотографии" class="counter photos">2</span>				 
 							</article>
 
 			<article class="clearfix">
-				<time class="small fr">Сегодня 16:33</time>
-<!--				<span class="topic"><a class="red" href="/rubric/sport/">Спорт</a></span> -->
-				<p><a href="/news/odessitov_priglashayut_na_basketbolnoe_derbi_899.html">Одесситов приглашают на баскетбольное дерби</a></p>
+				<time class="small fr">Вчера 16:16</time>
+<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
+				<p><a href="/news/v_dtp_na_peresipi_pogib_voenniy_vrach_796.html">В ДТП на Пересыпи погиб военный врач</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix headline">
+				<time class="small fr">Вчера 15:24</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/odesskaya_oblast_lyudi_sidyat_bez_sveta_i_transporta_734.html">Одесская область: люди сидят без света и транспорта из-за снегопада</a></p>
 																 
 								 
 							</article>
 
 			<article class="clearfix">
-				<time class="small fr">Сегодня 16:13</time>
+				<time class="small fr">Вчера 15:04</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/saakashvili_potsapalsya_s_donetskim_gubernatorom_512.html">Саакашвили поцапался с донецким губернатором</a></p>
+																 
+				<span title="2 фотографии" class="counter photos">2</span>				 
+							</article>
+
+			<article class="clearfix">
+				<time class="small fr">Вчера 14:18</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/odessa_aeroport_zakrit_iz_za_nepogodi_709.html">Одесса: аэропорт закрыт из-за непогоды</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix headline">
+				<time class="small fr">Вчера 13:42</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/tramvai_poka_hodyat_997.html">Трамваи пока ходят, но не в Черноморку</a></p>
+																 
+				<span title="5 фотографий" class="counter photos">5</span>				 
+							</article>
+
+			<article class="clearfix headline">
+				<time class="small fr">Вчера 13:29</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/snegopad_v_odesse_prodlitsya_esche_sutki_773.html">Снегопад в Одессе продлится ещё сутки</a></p>
+																 
+				<span title="4 фотографии" class="counter photos">4</span>				 
+							</article>
+
+			<article class="clearfix headline">
+				<time class="small fr">Вчера 13:12</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/meriya_raportuet_o_voyne_so_snegopadom_149.html">Мэрия рапортует о войне со снегопадом</a></p>
+																 
+				<span title="12 фотографий" class="counter photos">12</span>				 
+							</article>
+
+			<article class="clearfix">
+				<time class="small fr">Вчера 13:07</time>
+<!--				<span class="topic"><a class="red" href="/rubric//"></a></span> -->
+				<p><a href="/news/odessa_vvijenie_mejdugorodnih_i_prigorodnih_avtobusov_prekrascheno_307.html">Одесса: междугородние автобусы не ходят</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix headline">
+				<time class="small fr">Вчера 13:03</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<p><a href="/news/snegopad_avtotrassi_odesskoy_oblasti_zakriti_dlya_gruzovikov_379.html">Снегопад: автотрассы Одесской области закрыты для грузовиков</a></p>
+																 
+								 
+							</article>
+
+			<article class="clearfix headline">
+				<time class="small fr">Позавчера 20:18</time>
 <!--				<span class="topic"><a class="red" href="/rubric/politika_i_vlast/">Политика и власть</a></span> -->
-				<p><a href="/news/gaydar_nakonets_naznachili_zamom_saakashvili_469.html">Гайдар наконец назначили замом Саакашвили </a></p>
+				<p><a href="/news/port_yujniy_pereimenuyut_nazvanie_napominaet_o_moskovskoy_okkupatsii_749.html">Порт «Южный» переименуют: название напоминает об оккупации рабами-московитами</a></p>
 																 
-				<span title="1 фотография" class="counter photos">1</span>				 
+				<span title="5 фотографий" class="counter photos">5</span>				 
 							</article>
 
 			<article class="clearfix">
-				<time class="small fr">Сегодня 16:06</time>
-<!--				<span class="topic"><a class="red" href="/rubric/biznes_i_ekonomika/">Бизнес и экономика</a></span> -->
-				<p><a href="/news/inflyatsiya_v_odesskoy_oblasti_sostavila_za_god_45.html">Инфляция в Одесской области составила за год 45% </a></p>
+				<time class="small fr">Позавчера 19:11</time>
+<!--				<span class="topic"><a class="red" href="/rubric//"></a></span> -->
+				<p><a href="/news/na_deribasovskoy_proshel_patrioticheskiy_vertep_367.html">На Дерибасовской прошёл «патриотический» вертеп</a></p>
+																 
+				<span title="17 фотографий" class="counter photos">17</span>				 
+							</article>
+
+			<article class="clearfix">
+				<time class="small fr">Позавчера 18:23</time>
+<!--				<span class="topic"><a class="red" href="/rubric/skandaly/">Скандалы</a></span> -->
+				<p><a href="/news/nalogoviki_iz_yali_u_odesskogo_vinodela_produktsiyu_na_10_millionov_244.html">Налоговики изъяли у одесского винодела продукцию на 10 миллионов </a></p>
 																 
 								 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 15:40</time>
-<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
-				<p><a href="/news/vzriv_v_donetskoy_mnogoetajke_pod_zavalami_nashli_telo_mladentsa_257.html">Взрыв в донецкой многоэтажке: под завалами нашли тело младенца </a></p>
-																 
-								 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 15:20</time>
-<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
-				<p><a href="/news/v_dtp_na_lyustdorfskoy_doroge_pogib_chelovek_887.html">В ДТП на Люстдорфской дороге погиб человек </a></p>
-																 
-				<span title="3 фотографии" class="counter photos">3</span>				 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 15:11</time>
-<!--				<span class="topic"><a class="red" href="/rubric/takoe/">Такое</a></span> -->
-				<p><a href="/news/yandeks_perevodchik_viuchil_elfiyskiy_yazik_ko_dnyu_rojdeniya_tolkiena_583.html">Яндекс.Переводчик выучил эльфийский язык ко дню рождения Толкиена </a></p>
-																 
-				<span title="1 фотография" class="counter photos">1</span>				 
-							</article>
-
-			<div></div>
-			<article class="clearfix">
-				<time class="small fr">Сегодня 14:53</time>
-<!--				<span class="topic"><a class="red" href="/rubric/politika_i_vlast/">Политика и власть</a></span> -->
-				<p><a href="/news/nardep_yatsenyuka_prizivaet_razobratsya_s_korruptsionnimi_shemami_saakashvili_126.html">Нардеп Яценюка призывает разобраться с коррупционными схемами Саакашвили </a></p>
-																 
-				<span title="1 фотография" class="counter photos">1</span>				 
-							</article>
-
-			<article class="clearfix headline">
-				<time class="small fr">Сегодня 14:37</time>
-<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
-				<p><a href="/news/komandir_odesskogo_spetsbatalona_207.html">Командир одесского спецбатальона «Шторм» поссорился с руководством полиции и подал в отставку</a></p>
-																 
-								 
-							</article>
-
-			<article class="clearfix headline">
-				<time class="small fr">Сегодня 14:35</time>
-<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
-				<p><a href="/news/na_odesskoy_tets_proizoshla_avariya_735.html">На Одесской ТЭЦ произошла авария</a></p>
-																 
-								 
-							</article>
-
-			<article class="clearfix headline">
-				<time class="small fr">Сегодня 14:20</time>
-<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
-				<p><a href="/news/v_odesskih_shkolah_vveli_karantin_na_ocheredi_detsadi_i_uchilischa_697.html">В одесских школах ввели карантин, на очереди детсады и училища </a></p>
-																 
-				<span title="1 фотография" class="counter photos">1</span>				 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 14:10</time>
-<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
-				<p><a href="/news/sud_otkazalsya_naznachat_zalog_dlya_kulikovtse_272.html">Суд отказался назначать залог для «куликовцев»</a></p>
-								<a class="scenario" href="/syujet/sud_po_delu_2_maya/">Суд по делу 2 мая</a>								 
-								 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 14:10</time>
-<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
-				<p><a href="/news/izmail_vspominaet_aleksandra_malamena_pogibshego_ot_vzriva_v_kafe_552.html">Измаил вспоминает Александра Маламена, погибшего от взрыва в кафе</a></p>
-																 
-								 
-							</article>
-
-			<article class="clearfix headline">
-				<time class="small fr">Сегодня 13:45</time>
-<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
-				<p><a href="/news/nalichniy_dollar_v_odesse_prodayut_po_26_griven_15_kopeek_438.html">Наличный доллар в Одессе продают по 26 гривен 15 копеек</a></p>
-								<a class="scenario" href="/syujet/valyutnaya_panika/">Валютная паника</a>								 
-								 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 13:16</time>
-<!--				<span class="topic"><a class="red" href="/rubric/kriminal/">Криминал</a></span> -->
-				<p><a href="/news/vstupil_v_silu_prigovor_dlya_ubiytsi_odesskogo_regbista_15_let_lisheniya_svobodi_109.html">Вступил в силу приговор для убийцы одесского регбиста: 15 лет лишения свободы</a></p>
-																 
-				<span title="1 фотография" class="counter photos">1</span>				 
-							</article>
-
-			<article class="clearfix headline">
-				<time class="small fr">Сегодня 12:50</time>
-<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
-				<p><a href="/news/v_donetskoy_oblasti_progremel_vzriv_pogib_4_letniy_rebenok_esche_odnogo_ischut_105.html">В Донецкой области прогремел взрыв: погиб 4-летний ребёнок, ещё одного ищут </a></p>
-																 
-				<span title="3 фотографии" class="counter photos">3</span>				 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 12:25</time>
-<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
-				<p><a href="/news/ilichevsk_neizvestnie_nochyu_sojgli_kafe_i_kiosk_s_shaurmoy_915.html">Ильичёвск: неизвестные ночью сожгли кафе и киоск с шаурмой</a></p>
-																 
-				<span title="3 фотографии" class="counter photos">3</span>				 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 12:00</time>
-<!--				<span class="topic"><a class="red" href="/rubric/politika_i_vlast/">Политика и власть</a></span> -->
-				<p><a href="/news/sud_po_delu_2_maya_zaschita_prosit_izmenit_meru_presecheniya_na_domashniy_arest_935.html">Суд по делу 2 мая: защита просит изменить меру пресечения на домашний арест </a></p>
-								<a class="scenario" href="/syujet/sud_po_delu_2_maya/">Суд по делу 2 мая</a>								 
-								 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 11:34</time>
-<!--				<span class="topic"><a class="red" href="/rubric/proisshestviia/">Происшествия</a></span> -->
-				<p><a href="/news/izmailskiy_rayon_na_meste_pojara_v_zabroshennom_dome_nashli_trup_346.html">Измаильский район: на месте пожара в заброшенном доме нашли труп </a></p>
-																 
-								 
-							</article>
-
-			<article class="clearfix">
-				<time class="small fr">Сегодня 11:06</time>
-<!--				<span class="topic"><a class="red" href="/rubric/politika_i_vlast/">Политика и власть</a></span> -->
-				<p><a href="/news/glava_apparata_odesskoy_oga_esche_nemnojechko_torguet_211.html">Глава аппарата Одесской ОГА ещё немножечко торгует </a></p>
-																 
-				<span title="1 фотография" class="counter photos">1</span>				 
 							</article>
 
 		</div>
@@ -428,11 +428,11 @@ $(".beware").live('click', function(event){
 		<h2 class="first-search"><a href="/anonsi/">Анонсы</a></h2>
 		<div>
 			<article class="clearfix">
-				<a href="/anonsi/odessitov_pozdravit_s_novim_godom_knijnaya_feya_360.html"><img class="photo_med" src="/uploads/2015/12/1449479481_6289.jpg" alt="" /></a>
-				<time class="small fr">26 декабря 2015 г.</time>
+				<a href="/anonsi/v_odesse_prozvuchit_zolotaya_kollektsiya_jazz_blues_rock_n_roll_522.html"><img class="photo_med" src="/uploads/2015/12/1450967470_3494.jpg" alt="" /></a>
+				<time class="small fr">7 февраля 2015 г.</time>
 <!--				<span class="topic"><a class="red" href="/rubric/kultura_i_iskusstvo/">Культура и искусство</a></span> -->
-				<h3><a href="/anonsi/odessitov_pozdravit_s_novim_godom_knijnaya_feya_360.html">Одесситов поздравит с Новым годом Книжная Фея</a></h3>
-				<p><a href="/anonsi/odessitov_pozdravit_s_novim_godom_knijnaya_feya_360.html">В выставочном зале Одесского историко-краеведческого музея 26 декабря в 14:00 состоится открытие выставки детского рисунка «Новогодний визит Книжной Феи».</a></p>
+				<h3><a href="/anonsi/v_odesse_prozvuchit_zolotaya_kollektsiya_jazz_blues_rock_n_roll_522.html">В Одессе прозвучит «Золотая Коллекция: Jazz, Blues, Rock'n'roll»</a></h3>
+				<p><a href="/anonsi/v_odesse_prozvuchit_zolotaya_kollektsiya_jazz_blues_rock_n_roll_522.html">7 февраля в 19:00 в Одесской филармонии в рамках тура «Золотая Коллекция: Jazz, Blues, Rock’n’Roll» оркестр Performance Big Band представит концерт для истинных ценителей музыки. </a></p>
 																 
 				<span title="1 фотография" class="counter photos">1</span>				 
 				 
@@ -444,23 +444,23 @@ $(".beware").live('click', function(event){
 		<h2><a href="/video/">Видео</a></h2>
 		<div>
 			<article class="clearfix">
-				<div id="media_101914">
-					<a href="/video/bez_kupyur_kak_saakashvili_na_antikorruptsionnom_forume_vistupal_741.html"><img class="photo_med" src="/uploads/2015/12/1450971730_4475.jpg" alt="" /></a></div>
+				<div id="media_102585">
+					<a href="/video/na_raschistku_snega_pod_ofisom_saakashvili_sil_i_tehniki_ne_jaleyut_videofakt_592.html"><img class="photo_med" src="/uploads/2016/01/na_raschistku_snega_pod_ofisom_saakashvili_sil_i_tehniki_ne_jaleyut_videofakt_1567.jpg" alt="" /></a></div>
 <script type='text/javascript'>
-  jwplayer('media_101914').setup({
+  jwplayer('media_102585').setup({
     'flashplayer': 'http://timer-odessa.net/uploads/jwplayer/player.swf',
-	'image': 'http://timer-odessa.net/uploads/2015/12/1450971730_4475.jpg',
-    'file': 'https://youtu.be/szx0vg7tc6M',
+	'image': 'http://timer-odessa.net/uploads/2016/01/na_raschistku_snega_pod_ofisom_saakashvili_sil_i_tehniki_ne_jaleyut_videofakt_1567.jpg',
+    'file': 'https://youtu.be/eOLApTW_79g',
 	'skin': 'http://timer-odessa.net/uploads/jwplayer/skins/bekle.zip',
     'controlbar': 'over',
     'width': '269',
     'height': '180'
   });
 </script>
-				<time class="small fr">24 декабря 2015 г.</time>
-<!--				<span class="topic"><a class="red" href="/rubric/politika_i_vlast/">Политика и власть</a></span> -->
-				<h3><a href="/video/bez_kupyur_kak_saakashvili_na_antikorruptsionnom_forume_vistupal_741.html">Без купюр: как Саакашвили на Антикоррупционном форуме выступал </a></h3>
-				<p><a href="/video/bez_kupyur_kak_saakashvili_na_antikorruptsionnom_forume_vistupal_741.html">Тремя главными проблемами Украины губернатор называет «коррупцию, коррупцию и ещё раз коррупцию».</a></p>
+				<time class="small fr">Вчера</time>
+<!--				<span class="topic"><a class="red" href="/rubric/obshchestvo/">Общество</a></span> -->
+				<h3><a href="/video/na_raschistku_snega_pod_ofisom_saakashvili_sil_i_tehniki_ne_jaleyut_videofakt_592.html">На расчистку снега под офисом Саакашвили сил и техники не жалеют (видеофакт)</a></h3>
+				<p><a href="/video/na_raschistku_snega_pod_ofisom_saakashvili_sil_i_tehniki_ne_jaleyut_videofakt_592.html">Мощностей снегоуборочной техники едва хватает на поддержание в проезжем состоянии одесских улиц, но расчистка снега у здания ОГА у коммунальщиков явно в приоритете.</a></p>
 																 
 								 
 				 
@@ -486,7 +486,7 @@ $(".beware").live('click', function(event){
 
 		<br><br>
 <!-- реклама -->
-<div><div><a href="http://timer.od.ua/bm/go.php?ID=491" onClick="_gaq.push(['_trackEvent', 'Click', 'Banne', 'position4']);" target="_blank"><img src="http://timer.od.ua/bm/files/3405709-3686700.jpg"></a></div></div>
+<div></div>
 <div class="GetB" RID="37"></div>
 <div></div>
 <div><!-- 47 --></div>
@@ -555,7 +555,7 @@ VK.Widgets.Group("vk_groups", {mode: 0, width: "240", height: "430"}, 34505279);
 			<img id="logo_small" src="/templ/img/logo_timer_small.gif" alt="Таймер" />
 			<p>
 <!--				<span class="phone">+38 (063) </span><br />-->
-				<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="d3babdb5bc93a7babeb6a1fdbcb7fda6b2">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">
+				<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="f891969e97b88c91959d8ad6979cd68d99">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">
 /* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("data-cfhash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}t.parentNode.removeChild(t);}}catch(u){}}()/* ]]> */</script>
 			</p>
 		</div>
@@ -710,4 +710,4 @@ function getRandomInt(min, max)
 </body>
 </html>
 
-<!--2016-01-15 17:34:18 0.614, [!cached]-->
+<!--2016-01-18 00:21:40 0.605, [!cached]-->

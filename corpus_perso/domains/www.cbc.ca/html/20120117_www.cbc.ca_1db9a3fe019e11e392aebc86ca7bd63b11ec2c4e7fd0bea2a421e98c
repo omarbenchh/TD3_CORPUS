@@ -450,14 +450,15 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
 
 
-<!--The Early Edition-->
 
 
 
 
 
 
- 
+
+
+
 
 	
 		<div id="functionalMod" class="sclt-mastheadbox">
@@ -467,8 +468,8 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		
 			<div class="showinfo">
 				<div class="nowplaying">
-					<a href="/earlyedition/">
-					The Early Edition	
+					<a href="/Radio/Local+Shows/British+Columbia">
+					CBC Radio One	
 					</a>
 				</div>
 								
@@ -483,7 +484,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		</div>
 		
 		<div id="functionalModImage">
-			<img src="/bc/images/masthead/earlyedition.png" alt="host picture" />
+			<img src="/bc/images/masthead/radioone.png" alt="host picture" />
 		</div>
 		
 	
@@ -885,12 +886,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/canada/british-columbia/mortgage-broker-commissions-spark-heated-debate-1.3404628" class="complexlink media">
-								<img title='' height='79' alt='hi-mortgage' width='140' class='media-side' src='http://i.cbc.ca/1.1492731.1379032333!/httpImage/image.jpg_gen/derivatives/16x9tight_140/hi-mortgage.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Mortgage broker commissions spark heated debate</span>
+							<a  href="/news/canada/british-columbia/portmetrovancouver-richmond-landuse-malcolmbrody-1.3407735" class="complexlink media">
+								<img title='' height='79' alt='Port Metro Vancouver fire' width='140' class='media-side' src='http://i.cbc.ca/1.2982051.1425510592!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/port-metro-vancouver-fire.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">Feud brews between Port Metro Vancouver and Richmond mayor</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/mortgage-broker-commissions-spark-heated-debate-1.3404628"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/portmetrovancouver-richmond-landuse-malcolmbrody-1.3407735"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -906,10 +907,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/business/house-prices-crea-1.3405205">Toronto, Vancouver push average Canadian house price up 12% to $454,342 in December</a>
+							<a  href="/news/canada/british-columbia/pacific-centre-mall-photographers-find-sympathy-on-social-media-1.3407392">Online comments allege racial profiling of 3 men taking photos at Vancouver's Pacific Centre</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/house-prices-crea-1.3405205"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/pacific-centre-mall-photographers-find-sympathy-on-social-media-1.3407392"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -923,14 +924,15 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/vancouver-police-men-video-pacific-centre-mall-1.3405011">Police aim to identify men taking videos at Vancouver mall</a>
+							<a  href="/news/canada/british-columbia/last-working-coal-mine-on-vancouver-island-shuts-down-marking-end-of-era-1.3407339">Last working coal mine on Vancouver Island shuts down, marking end of era</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/vancouver-police-men-video-pacific-centre-mall-1.3405011"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/last-working-coal-mine-on-vancouver-island-shuts-down-marking-end-of-era-1.3407339"></span></span>
     <span class="offscreen">comments</span>
    
-	
-		</span>
+	    	    		    		    		
+				<span class="icon_audio">audio</span>
+	</span>
 															</span>
 						</li>
 														
@@ -940,14 +942,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/missing-person-kitsilano-beach-1.3404952">2 men recovered from waters off Kits beach, says coast guard</a>
+							<a  href="/news/canada/british-columbia/chief-robert-joseph-residential-school-survivor-to-receive-social-justice-award-1.3406266">'We start with every little step' says residential school survivor on reconciliation and social justice award</a>
 							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/missing-person-kitsilano-beach-1.3404952"></span></span>
-    <span class="offscreen">comments</span>
-   
-	
-		</span>
+																	<span class="lineuproll-icons"> 
+	    	    		    		    		
+				<span class="icon_audio">audio</span>
+	</span>
 															</span>
 						</li>
 														
@@ -957,13 +957,14 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/safeway-stabbing-1.3405025">Police investigate stabbing at Safeway in East Vancouver</a>
+							<a  href="/news/canada/british-columbia/syrianrefugees-volunteer-coordination-immigrantservices-1.3404134">Volunteer director says everyone can help refugees in B.C.</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/safeway-stabbing-1.3405025"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/syrianrefugees-volunteer-coordination-immigrantservices-1.3404134"></span></span>
     <span class="offscreen">comments</span>
    
-	
+	    	    		    		    		
+			<span class="icon_video">video</span>
 		</span>
 															</span>
 						</li>
@@ -999,12 +1000,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/business/markets-dollar-oil-1.3405067" class="complexlink media">
-								<img title='' height='79' alt='Loonie canadian dollar 20150130' width='140' class='media-side' src='http://i.cbc.ca/1.3153847.1436993640!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/loonie-canadian-dollar-20150130.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Loonie below 69 cents as oil dumps another 5% to $29 a barrel</span>
+							<a  href="/news/world/burkina-faso-survivors-1.3407898" class="complexlink media">
+								<img title='' height='79' alt='AFP_755MH' width='140' class='media-side' src='http://i.cbc.ca/1.3407933.1453065229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/afp-755mh.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">'Wounded people were crying out': Survivors detail escaping death in Burkina Faso attack</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/markets-dollar-oil-1.3405067"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/world/burkina-faso-survivors-1.3407898"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1020,44 +1021,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/health/cadmium-jewelry-ardene-aldo-1.3404036">Cadmium in low-cost jewelry may create toxic bling</a>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316">'Vanilla socialist' Bernie Sanders jams a wrench into the Clinton juggernaut</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/cadmium-jewelry-ardene-aldo-1.3404036"></span></span>
-    <span class="offscreen">comments</span>
-   
-	    	    		    		    		
-			<span class="icon_video">video</span>
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/hamilton/news/tim-bosma-slaying-jury-selection-in-millard-smich-trial-starts-monday-1.3400581">'This only happens in TV and in movies': Tim Bosma killing reads like crime novel</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
-	    	    		    		    	    		    		    		
-			<span class="icon_video">video</span>
-				<span class="icon_audio">audio</span>
-	</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/women-on-the-money-social-media-1.3403812">McClung, Bondar and Rempel among readers' picks for female faces on the money</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/women-on-the-money-social-media-1.3403812"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1071,14 +1038,48 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/business/sending-remittances-low-dollar-1.3404145">Weak loonie means immigrants and foreign workers have less to send home </a>
+							<a  href="/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614">Quebecers killed in Burkina Faso identified, including family of 4</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/sending-remittances-low-dollar-1.3404145"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614"></span></span>
     <span class="offscreen">comments</span>
    
-	    	    		    		    		
+	    	    		    		    	    		    		    		
 			<span class="icon_video">video</span>
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/trending/new-york-times-canada-hip-1.3407773">New York Times calls Canada suddenly 'hip,' prompting online mockery</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/trending/new-york-times-canada-hip-1.3407773"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/world/clinton-sanders-debate-primaries-1.3407915">Clinton, Sanders take Democratic battle to the stage in last debate before primaries </a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/world/clinton-sanders-debate-primaries-1.3407915"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
 		</span>
 															</span>
 						</li>
@@ -1151,7 +1152,67 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/vancouver-police-men-video-pacific-centre-mall-1.3405011">Vancouver police aim to identify men taking video at Pacific Centre Mall</a>
+							<a  href="/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459">Pacific Centre photos: Mohammed Sharaz, son Salahuddin and Mohammed Kareem speak out</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/vancouver-mall-video-men-1.3406619">Mohammed Sharaz reveals why his group took photos that aroused Vancouver suspicions</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/pacific-centre-mall-photographers-find-sympathy-on-social-media-1.3407392">Pacific Centre mall photographers find sympathy on social media</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/a-sleep-expert-s-tips-on-taking-your-best-nap-1.3406696">A sleep expert's tips on taking your best nap</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/last-working-coal-mine-on-vancouver-island-shuts-down-marking-end-of-era-1.3407339">Last working coal mine on Vancouver Island shuts down, marking end of era</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/portmetrovancouver-richmond-landuse-malcolmbrody-1.3407735">Port Metro Vancouver eyes Richmond land to develop for industrial use</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1175,7 +1236,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/missing-person-kitsilano-beach-1.3404952">2 men recovered from waters off Kitsilano Beach, says Canadian Coast Guard</a>
+							<a  href="/news/canada/british-columbia/man-flips-audi-in-vancouver-1.3407600">Man taken to hospital after flipping Audi in Vancouver</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1187,67 +1248,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/mortgage-broker-commissions-spark-heated-debate-1.3404628">Mortgage broker commissions spark heated debate</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/safeway-stabbing-1.3405025">Police investigate stabbing at Safeway in East Vancouver</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/charlie-hebdo-alan-kurdi-cartoon-1.3403085">Charlie Hebdo cartoon on Alan Kurdi is 'disgusting,' says aunt</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/charlie-hebdo-cartoon-alan-kurdi-1.3404798">Charlie Hebdo cartoon part of freedom of speech, rights groups say</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/greyhound-bus-flips-hixon-bc-1.3403917">Greyhound bus flips over on Highway 97 south of Prince George</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/british-columbia/canadian-whisky-emerging-as-serious-contender-says-expert-1.3404285">Canadian whisky emerging as serious contender says expert</a>
+							<a  href="/news/canada/british-columbia/ted-harrison-canadian-painter-dead-at-88-1.2913170">Ted Harrison, Canadian painter, dead at 88</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1278,115 +1279,114 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 								</h3>
 	</div>
 	<div class="carousel-body module-body">
-		<div id="carousel_7_1133_1378498650-14498" class="scroller">
+		<div id="carousel_7_1133_1378498650-21075" class="scroller">
 			<div class="scroller-wrapper layoutcontext">
 				<ul>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/mortgage-broker-commissions-spark-heated-debate-1.3404628" class="complexlink">
+									    		 		<a href="/news/canada/british-columbia/portmetrovancouver-richmond-landuse-malcolmbrody-1.3407735" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='hi-mortgage' width='100%' src='http://i.cbc.ca/1.1492731.1379032333!/httpImage/image.jpg_gen/derivatives/16x9tight_140/hi-mortgage.jpg' />				    									<span class="promo-label label mortgagebrokers">Mortgage brokers</span>
+        					    			<img title='' height='79' alt='Port Metro Vancouver fire' width='100%' src='http://i.cbc.ca/1.2982051.1425510592!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/port-metro-vancouver-fire.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Port Metro Vancouver eyes Richmond land to develop for industrial use</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/pacific-centre-mall-photographers-find-sympathy-on-social-media-1.3407392" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Mohammed Sharaz and Mohammed Kareem' width='100%' src='http://i.cbc.ca/1.3407516.1452999311!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/mohammed-sharaz-and-mohammed-kareem.JPG' />				    								</p>		
+			<p class="promo-title complexlink-target">Pacific Centre mall photographers find sympathy on social media</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/last-working-coal-mine-on-vancouver-island-shuts-down-marking-end-of-era-1.3407339" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='coal' width='100%' src='http://i.cbc.ca/1.3407355.1452983092!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/coal.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Last working coal mine on Vancouver Island shuts down, marking end of era</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/chief-robert-joseph-residential-school-survivor-to-receive-social-justice-award-1.3406266" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Chief Dr. Robert Joseph receives order of BC' width='100%' src='http://i.cbc.ca/1.3114695.1434411551!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/chief-dr-robert-joseph-receives-order-of-bc.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Chief Robert Joseph, residential school survivor, to receive social justice award</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/syrianrefugees-volunteer-coordination-immigrantservices-1.3404134" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Refugees arrive ' width='100%' src='http://i.cbc.ca/1.3404166.1452799973!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/refugees-arrive.jpg' />				    									<span class="promo-label label ourvancouver">Our Vancouver</span>
 						</p>		
-			<p class="promo-title complexlink-target">Call for fee disclosure sparks heated debate</p>
+			<p class="promo-title complexlink-target">Volunteer director says everyone can help refugees in B.C.</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/business/house-prices-crea-1.3405205" class="complexlink">
+									    		 		<a href="/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='canada housing realtor real estate' width='100%' src='http://i.cbc.ca/1.2674495.1402663726!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/canada-housing-realtor-real-estate.JPG' />				    								</p>		
-			<p class="promo-title complexlink-target">Average Canadian house price up another 12% to $454,342</p>
+        					    			<img title='' height='79' alt='MohammedKareem-MohammedSharaz-SalahuddinSharaz' width='100%' src='http://i.cbc.ca/1.3407466.1452994906!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/mohammedkareem-mohammedsharaz-salahuddinsharaz.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Pacific Centre photos: Mohammed Sharaz, son Salahuddin and Mohammed Kareem speak out</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/vancouver-police-men-video-pacific-centre-mall-1.3405011" class="complexlink">
+									    		 		<a href="/news/canada/british-columbia/man-flips-audi-in-vancouver-1.3407600" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Pacific Centre Mall men' width='100%' src='http://i.cbc.ca/1.3405015.1452841631!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/pacific-centre-mall-men.JPG' />				    								</p>		
-			<p class="promo-title complexlink-target">Police aim to identify men taking videos at Vancouver mall</p>
+        					    			<img title='' height='79' alt='Vancouver rollover' width='100%' src='http://i.cbc.ca/1.3407604.1453027601!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/vancouver-rollover.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Man taken to hospital after flipping Audi in Vancouver</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/missing-person-kitsilano-beach-1.3404952" class="complexlink">
+									    		 		<a href="/news/canada/nova-scotia/haliffax-marijuana-panel-1.3407110" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Kits beach rescue' width='100%' src='http://i.cbc.ca/1.3405008.1452839891!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/kits-beach-rescue.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">2 men recovered from waters off Kitsilano Beach, says Canadian Coast Guard</p>
+        					    			<img title='' height='79' alt='marijuana' width='100%' src='http://i.cbc.ca/1.3347340.1449087708!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/marijuana.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Marijuana myths, effects on teens probed by panel in Halifax</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/safeway-stabbing-1.3405025" class="complexlink">
+									    		 		<a href="/news/canada/british-columbia/christmas-lost-ultrasound-photo-1.3406472" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='East Vancouver stabbing' width='100%' src='http://i.cbc.ca/1.3405026.1452846508!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/east-vancouver-stabbing.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Police investigate stabbing at Safeway in East Vancouver</p>
+        					    			<img title='' height='79' alt='NANAIMO LOST ULTRASOUND PHOTO' width='100%' src='http://i.cbc.ca/1.3406479.1452895516!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/nanaimo-lost-ultrasound-photo.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Nanaimo grandma reunited with Christmas gift </p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/aboriginal/the-revenant-not-an-indigenous-story-1.3404007" class="complexlink">
+									    		 		<a href="/news/canada/british-columbia/public-libraries-metrovancouver-support-resumes-1.3407314" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='The Revenant' width='100%' src='http://i.cbc.ca/1.3250476.1443630917!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/the-revenant.jpg' />				    									<span class="promo-label label opinion">Opinion</span>
+        					    			<img title='' height='79' alt='Kristen Andrews' width='100%' src='http://i.cbc.ca/1.3407315.1452986747!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/kristen-andrews.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Not just for books: Public libraries provide services for new Canadians</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/suspicious-death-investigated-in-quesnel-b-c-1.3407412" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='hi-bc-archive-rcmp-car-door' width='100%' src='http://i.cbc.ca/1.1489060.1379069254!/httpImage/image.jpg_gen/derivatives/16x9tight_140/hi-bc-archive-rcmp-car-door.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Suspicious death investigated in Quesnel, B.C.</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/world/burkina-faso-hotel-attack-1.3407326" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='AFP_75563' width='100%' src='http://i.cbc.ca/1.3407469.1452993570!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/afp-75563.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Burkina Faso hotel attack leaves 6 Canadians from Quebec dead</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/truck-loggers-association-elects-first-female-president-in-73-year-history-1.3406840" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Jacqui Beban' width='100%' src='http://i.cbc.ca/1.3406847.1452908217!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/jacqui-beban.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Truck Loggers Association elects first female president in 73-year history</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/a-sleep-expert-s-tips-on-taking-your-best-nap-1.3406696" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='nap' width='100%' src='http://i.cbc.ca/1.3406714.1452901648!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/nap.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">A sleep expert's tips on taking your best nap</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/british-columbia/tea-sparrow-curates-and-mails-healthy-teas-to-customers-1.3404312" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='tea' width='100%' src='http://i.cbc.ca/1.3406324.1452890895!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/tea.jpg' />				    									<span class="promo-label label ourvancouver">Our Vancouver</span>
 						</p>		
-			<p class="promo-title complexlink-target">The Revenant is not an indigenous story</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/charlie-hebdo-cartoon-alan-kurdi-1.3404798" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Charlie Hebdo Alan Kurdi' width='100%' src='http://i.cbc.ca/1.3403106.1452815201!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/charlie-hebdo-alan-kurdi.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Charlie Hebdo cartoon part of freedom of speech, rights groups say</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/the-revenant-metro-vancouver-special-effects-pro-nominated-for-an-oscar-1.3404907" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Cameron Waldbauer' width='100%' src='http://i.cbc.ca/1.3404919.1452827972!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/cameron-waldbauer.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">The Revenant: Metro Vancouver special-effects pro nominated for an Oscar</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/child-behaviour-reward-based-systems-don-t-work-psychologist-says-1.3404812" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='136801946' width='100%' src='http://i.cbc.ca/1.3404846.1452822685!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/136801946.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Child behaviour: Reward-based systems don't work, psychologist says</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/sports/hockey/nhl/kuznetsov-shines-capitals-beat-canucks-1.3404478" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='miller-ryan-14-01-2016' width='100%' src='http://i.cbc.ca/1.3404868.1452823992!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/miller-ryan-14-01-2016.jpg' />				    									<span class="promo-label label recap">Recap</span>
-						</p>		
-			<p class="promo-title complexlink-target">Evgeny Kuznetsov leads Capitals over Canucks </p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/surrey-sewer-costs-bridgeview-1.3404831" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Shannon Walker' width='100%' src='http://i.cbc.ca/1.3404859.1452823492!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/shannon-walker.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">New Surrey sewer system costs stink, residents say</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/rat-study-ubc-chealsea-himsworth-1.3404617" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Superstorm Rats' width='100%' src='http://i.cbc.ca/1.3390503.1452032457!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/superstorm-rats.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Rise in rat population a threat to human health says UBC study</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/sports/baseball/mlb/brett-lawrie-former-blue-jays-signs-deal-white-sox-1.3404878" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Brett Lawrie' width='100%' src='http://i.cbc.ca/1.3404888.1452825084!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/brett-lawrie.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Brett Lawrie, former Blue Jay, signs 1-year deal with White Sox</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/vancouver-matchmaking-app-doesn-t-need-you-1.3404324" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Bernie' width='100%' src='http://i.cbc.ca/1.3404377.1452805898!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/bernie.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Vancouver matchmaking app doesn't need you</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/british-columbia/assfish-royal-bc-museum-display-1.3404806" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Assfish' width='100%' src='http://i.cbc.ca/1.3404816.1452820603!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/assfish.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Assfish goes on display at the Royal B.C. Museum in Victoria</p>
+			<p class="promo-title complexlink-target">Tea Sparrow curates and mails healthy teas to customers</p>
 								</a>
 							</li>
 				    				</ul>
@@ -1406,7 +1406,7 @@ CBC.Queue.push({
 		YUI(yo).use('scroller', function(Y, result) {
 			if (result.success){
 				var instance = new CBC.APP.Scroller();
-				var conf = { parentid:"carousel_7_1133_1378498650-14498", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
+				var conf = { parentid:"carousel_7_1133_1378498650-21075", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
 		  		instance.init(Y, conf);
 			}
 		});
@@ -1439,7 +1439,7 @@ CBC.Queue.push({
 </style><footer id="cbc-globalfooter" class="sclt-globalFooter"><div class="cbc-globalfooter-section"><h2>Explore CBC</h2><ul><li><a href="http://www.cbc.ca">CBC Home</a></li><li><a href="http://www.cbc.ca/television/">TV</a></li><li><a href="http://www.cbc.ca/radio/">Radio</a></li><li><a href="http://www.cbc.ca/news">News</a></li><li><a href="http://www.cbc.ca/sports">Sports</a></li><li><a href="http://music.cbc.ca/">Music</a></li><li><a href="/arts/">Arts</a></li><li><a href="http://www.cbc.ca/kidscbc/">Kids</a></li><li><a href="http://www.cbc.ca/news/canada#region-nav">Local</a></li><li><a href="http://www.cbc.ca/documentaries/">Documentaries</a></li><li><a href="http://www.cbc.ca/punchline/">Comedy</a></li><li><a href="http://www.cbc.ca/books/">Books</a></li><li><a href="http://www.cbc.ca/parents/">Parents</a></li><li><a href="http://www.cbc.ca/news/aboriginal">Aboriginal</a></li><li><a href="http://www.cbc.ca/weather/">Weather</a></li><li><a href="http://www.cbc.ca/connects/">CBC Connects</a></li><li><a href="http://www.cbc.ca/archives/">Digital Archives</a></li><li><a href="http://www.cbc.ca/games/">Games</a></li><li><a href="http://www.cbc.ca/contests/">Contests</a></li><li><a href="http://www.cbc.ca/sitemap/">Site Map</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Stay Connected</h2><ul><li><a href="http://www.cbc.ca/mobile/services/">Mobile</a></li><li><a href="http://www.cbc.ca/rss/">RSS</a></li><li><a href="http://www.cbc.ca/radio/podcasts/">Podcasts</a></li><li><a href="http://subscriptions.cbc.ca/listmanagement">Newsletters &amp; Alerts</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Services and Information</h2><ul><li><a href="http://www.cbc.radio-canada.ca/en">Corporate Info</a></li><li><a href="http://www.cbc.ca/appearances/">Public Appearances</a></li><li><a href="http://www.cbc.ca/sitemap/">Commercial Services</a></li><li><a href="http://www.cbc.ca/permissions/">Reuse &amp; Permission</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/termsofuse.html">Terms of Use</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/privacy.html">Privacy Policy</a></li><li><a href="http://www.cbcshop.ca/">CBC Shop</a></li><li><a href="http://www.cbc.ca/connects/">Help</a></li><li><a href="http://www.cbc.ca/connects/">Contact Us</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/jobs/">Jobs</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/doing-business-with-us/">Doing Business with Us</a></li><li><a href="/productionfacilities/">Renting Facilities</a></li></ul></div><div class="cbc-globalfooter-bottom"><div class="cbc-globalfooter-logo"><p class="cbc"><a href="http://www.cbc.radio-canada.ca/">CBC</a></p><a href="http://www.cbc.radio-canada.ca/"><img class="cbc-globalfooter-logo" src="/i/o/globalnav/v14/images/cbc-gem.svg" width="40" height="40" alt="CBC gem logo"></a><p class="rc"><a href="http://www.cbc.radio-canada.ca/">Radio-Canada</a></p></div><div class="cbc-globalfooter-copyright"><p>©2016 CBC/Radio-Canada. All rights reserved</p></div><div class="cbc-globalfooter-bottom-link" lang="fr-CA"><a href="http://ici.radio-canada.ca/" hreflang="fr-CA">Visitez Radio-Canada.ca</a></div><div class="clear"></div></div></footer><script src="/i/o/globalnav/v14/scripts/globalfooter.js"></script><script>(function() {
 try{var a=
 {l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""}
-,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src=“//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
+,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
 {var g= "//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}
 catch(h){}};
 })();</script>

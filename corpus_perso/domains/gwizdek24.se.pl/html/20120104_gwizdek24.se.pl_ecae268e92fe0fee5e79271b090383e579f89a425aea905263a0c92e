@@ -35,7 +35,7 @@
 <meta name="msvalidate.01" content="9CD4A96D8A076527F07FD24CFCDE5489" />
 <!-- FB:  -->
 <link rel="publisher" href="https://plus.google.com/false"/>
-<link rel="stylesheet" type="text/css" href="http://www.wctv.tv/templates/R_CSS.css?site=/&c=y&abc=150116B" />
+<link rel="stylesheet" type="text/css" href="http://www.wctv.tv/templates/R_CSS.css?site=/&c=y&abc=170116B" />
 <link rel="alternate" type="application/rss+xml" href="/news/headlines/index.rss2" title="WCTV RSS Feed">
 <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <link rel="shortcut icon" href="http://media.graytvinc.com/designimages/favicon11.ico" type="image/x-icon">
@@ -785,7 +785,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=137110613";_qc+="&7=42701";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=137110613&7=42701&25=0&18=0.8171314811367058">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=137110613&7=42701&25=0&18=0.9153140231472582">
 </noscript>
 
 		<!-- python-requests/2.9.1 -->
@@ -845,7 +845,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 						 						<div id="topNav" class="navbar navbar-static-top">
 	<div class="sidepad" style="min-height: 40px;">
 		<ul class="nav">
-			<li><p class="text-info navTime" style="">January 15, 2016</p></li>
+			<li><p class="text-info navTime" style="">January 17, 2016</p></li>
 		</ul>
 				<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
 			<ul class="nav pull-right">
@@ -1160,7 +1160,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		<div class="span7">
 		</div>
 		<div class="span7 text_right">
-			<a rel="external" href="http://www.wctv.tv/news/headlines/Carter-Announces-New-Commander-for-Middle-East-365378121.html" title="Carter Announces New Commander for Middle East">Carter Announces New Commander for Middle East <button class="btn btn-mini" type="button"><i class="icon-chevron-right"></i></button></a> 
+			<a rel="external" href="http://www.wctv.tv/news/headlines/Florida-Group-Helps-Rescue-Golden-Retrievers-from-Turkey-365583021.html" title="Florida Group Helps Rescue Golden Retrievers from Turkey">Florida Group Helps Rescue Golden Retrievers from Turkey <button class="btn btn-mini" type="button"><i class="icon-chevron-right"></i></button></a> 
 		</div>
 </div>
 													<div id="circularhub_module_6265"></div><script src="//api.circularhub.com/6265/5e1f5f0baa628c98/circularhub_module.js"></script>
@@ -1222,7 +1222,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 				autoplay: false,
 				plugins: {
 											dfp: {
-							adTagUrl: 'http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/301721715/WCTV&ciu_szs&impl=s&gdfp_req=1&ad_rule=1&vpos=preroll&env=vp&output=xml_vast2&unviewed_position_start=1&correlator=[timestamp]&cmsid=755&vid=ANV_GRTV_3397788'
+							adTagUrl: 'http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/301721715/WCTV&ciu_szs&impl=s&gdfp_req=1&ad_rule=1&vpos=preroll&env=vp&output=xml_vast2&unviewed_position_start=1&correlator=[timestamp]&cmsid=755&vid=ANV_GRTV_3399728'
 						},
 										analytics: {
 						pdb: 44424179
@@ -1270,16 +1270,16 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 	<div class="row-fluid clearfix">
 	<div class="span14">
 		<ol>
-																				<li><a href="http://www.wctv.tv/news/headlines/Student-Arrested-for-Pulling-Knife-at-Leon-High-School-365079851.html">Video Shows Student Pulling Knife at Leon High School</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Thousands-Gather-at-Capitol-365305261.html">Thousands Gather at Capitol for 'Enough is Enough' Rally</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Leon-High-School-Under-Heightened-Security-After-Unverified-Social-Media-Threat-365271361.html">Leon High School Placed Under Heightened Security after Unverified Social Media Threat</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Residents-Report-Hearing-Loud-Booms-Across-Big-Bend-365382981.html">Residents Report Hearing Loud "Booms" Across Big Bend</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Sanford-Teen-Claims-2-Million-Powerball-Prize-365328881.html">Sanford Teen Claims $2 Million Powerball Prize</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Homeland-Security-Cant-Confirm-or-Deny-Located-Afghan-Trainee-361054651.html">Homeland Security: Can't Confirm or Deny Located Afghan Trainee</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/New-Trial-For-Woman-Accused-Of-Luring-Ex-To-His-death-365101461.html">Jury Finds Teen Guilty in Ex-Boyfriend's Murder</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Powerball-Winners-in-Florida-Tennessee-and-California-365248961.html">Update: Winning Florida Powerball Ticket Sold in Melbourne Beach</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Worker-Crushed-by-Concrete-Wall-at-Waste-Water-Facility-365374991.html">Worker Crushed by Concrete Wall at Waste Water Facility</a></li>
-																																	<li><a href="http://www.wctv.tv/news/headlines/Local-Powerball-Players-Disappointed-in-Not-Winning-Jackpot-365350291.html">Local Powerball Players Disappointed in Not Winning Historic $1.5 Billion Jackpot</a></li>
+																				<li><a href="http://www.wctv.tv/news/headlines/Police-Looking-For-Suspect-After-Powerball-Buying-Teen-Is-Killed-365530621.html">Police Looking For Suspect After Powerball Buying Teen Is Killed</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/One-person-Dead-in-Madison-County-ATV-Accident-365571031.html">One person Dead in Madison County ATV Accident</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/Protest-At-Florida-Captiol-Confederate-Flag-365539501.html">Protest At Florida Captiol: Confederate Flag</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/19-Year-Old-Florida-Man-First-Time-Player-Wins-2M-Powerball-365530541.html">19-Year-Old Florida Man, First Time Player Wins, $2M Powerball</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/Patient-Needing-Lung-Transplant-Hospital-Transfer-Dies-365560051.html">Patient Needing Lung Transplant, Hospital Transfer Dies</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/Police-Driver-Shot-During-Acworth-Traffic-Stop-Pulled-Gun-365530721.html">Police: Driver Shot During Acworth Traffic Stop Pulled Gun</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/23-Year-Old-Florida-Woman-With-Leukemia-Marries-at-Hospital-365547541.html">23-Year-Old Florida Woman With Leukemia Marries at Hospital</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/2-Dead-Several-Injured-After-Severe-weather-In-Florida-365573891.html">2 Dead, Several Injured After Severe weather In Florida</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/Lakeland-Walmart-Less-than-Two-Weeks-to-Close-its-Doors-365529241.html">Lakeland Walmart: Less than Two Weeks to Close its Doors</a></li>
+																																	<li><a href="http://www.wctv.tv/news/headlines/One-Person-Treated-After-Early-Morning-Fire-In-Tallahassee-365529381.html">One Person Treated After Early Morning Fire In Tallahassee</a></li>
 																																																									</ol>
 	</div>
 </div>

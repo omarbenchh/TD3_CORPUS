@@ -15,7 +15,7 @@
   <meta name="msvalidate.01" content="9F163006E5764032AF275E9300E48EF4" />
   <meta name="Generator" content="ELF" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7b3693e03b","applicationID":"5054451","transactionName":"c1pfRBMNWQlXSxpYUUdGHkMJDUI=","queueTime":0,"applicationTime":128,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7b3693e03b","applicationID":"5054451","transactionName":"c1pfRBMNWQlXSxpYUUdGHkMJDUI=","queueTime":0,"applicationTime":151,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
 <script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
   <title>Shellfish toxin warning for Bay of Plenty | Radio New Zealand News</title>
     <meta name="description" content="The Waikato District Health Board has issued a warning about a potentially fatal shellfish toxin affecting the Bay of Plenty.">
@@ -112,7 +112,7 @@
     <div class="print-logo"><img src="/x/logos/home-print-af2ab6697d975b29a256793b51b32b99546b924dd969a8186e9a88f541df7ace.png" width="225" height="73" alt="Radio New Zealand"></div><!-- end print-logo -->
     <div class="gc">
       <div class="c-site-time">
-        <p>Saturday&nbsp; 16 January &thinsp;-&thinsp;  4:55 am &nbsp;<span>NZT</span></p>
+        <p>Monday&nbsp; 18 January &thinsp;-&thinsp; 10:10 am &nbsp;<span>NZT</span></p>
       </div>
       <div class="span12 main-nav-mobile nav-search-wrapper">
         <nav class="span8 main-nav-mobile alpha main-nav">
@@ -191,18 +191,18 @@
 
       <h3 class="sidebar-heading">Regional</h3>
       <ul class="story-links t-top-links">
-          <li><a href="/news/regional/294190/elderly-woman-killed-in-west-auckland">Elderly woman killed in West Auckland</a></li>
-          <li><a href="/news/regional/294162/smoke-from-scrub-fire-engulfs-napier">Smoke from scrub fire engulfs Napier</a></li>
-          <li><a href="/news/regional/294177/man-tried-to-force-ex-partner-to-drink-his-blood">Man tried to force ex-partner to drink his blood</a></li>
+          <li><a href="/news/regional/294292/wellington-fog-leaves-flight-backlog">Wellington fog leaves flight backlog</a></li>
+          <li><a href="/news/regional/294303/there&#39;s-no-room-inn-the-capital">There&#39;s no room inn the capital</a></li>
+          <li><a href="/news/regional/294290/hunt-for-killer-enters-fourth-day">Hunt for killer enters fourth day</a></li>
       </ul>
 
         <h3 class="sidebar-heading">Top News stories</h3>
   <ul class="story-links">
-      <li><a href="/news/regional/294190/elderly-woman-killed-in-west-auckland">Elderly woman killed in West Auckland</a></li>
-      <li><a href="http://www.radionz.co.nz/news/sport/294188/top-two-seeds-beaten-in-asb-classic">Top two seeds beaten in ASB Classic</a></li>
-      <li><a href="/news/national/294184/house-prices-a-&#39;catastrophic-regulatory-failure&#39;">House prices a &#39;catastrophic regulatory failure&#39;</a></li>
-      <li><a href="/news/business/294192/nz-netflix-customers-ready-to-boycott">NZ Netflix customers ready to boycott</a></li>
-      <li><a href="/news/national/294186/dame-kiri&#39;s-operatic-masterclass">Dame Kiri&#39;s operatic masterclass</a></li>
+      <li><a href="/news/national/294312/mother-hits-back-at-cannabis-report">Mother hits back at cannabis report</a></li>
+      <li><a href="/news/national/294309/it&#39;s-going-to-be-a-marvellous-monday">It&#39;s going to be a marvellous Monday</a></li>
+      <li><a href="http://www.radionz.co.nz/international/pacific-news/294297/immigration-detention-time-on-nauru-and-manus-at-record-high">Asylum seekers spending record time on Nauru, Manus</a></li>
+      <li><a href="/news/regional/294292/wellington-fog-leaves-flight-backlog">Wellington fog leaves flight backlog</a></li>
+      <li><a href="/news/world/294304/man-dies-after-drug-trial-reports">Man dies after drug trial - reports</a></li>
   </ul>
 
     

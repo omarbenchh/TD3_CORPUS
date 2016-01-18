@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html class="no-js tablet" resource-version="1.63.2"  data-ab="99,26,12"
+<html class="no-js tablet" resource-version="1.63.2"  data-ab="99,26,99,12"
  data-articleId="4ffc4c451900174ddc8011b3"
  data-ch="health"
  data-gs="allergies"
  data-template-type="FLEXIBLEARTICLE"
  itemscope itemtype="http://schema.org/Article">
 <!--
-<globe-environment environment="prod" application="globe" dataCenter="ny" serverName="nyglobe11" />
+<globe-environment environment="prod" application="globe" dataCenter="ny" serverName="nyglobe13" />
 <globe-server version="1.63.2" vendor="" title="Globe Server" />
-<globe-resources version="1.63.2" loadStartTime="1452806795780" loadTimeTaken="3833" />
+<globe-resources version="1.63.2" loadStartTime="1452806808446" loadTimeTaken="3653" />
 -->
 <head>
 
@@ -44,7 +44,7 @@
 		var node = document.getElementsByTagName("script")[0];
 		node.parentNode.insertBefore(gads, node);
 	})();
-</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.63.2/cache/eNptU0tygzAMvVAznCGZttNF2k2mB5BtBTRxbEYSJNy-DoQGGxbY8nvyQz9bkcrhGTqvFaOgvtmE2AZCQC8VmNjprrUjKi2TYu7QIHhtZo9Z6RyDSobo0GLpZTrVGKS4ydccEQ8mA2wSx6A7BeOf8f7fZsQr8AX5gzlyxnVKnpQwVyfMjjWT2xIGJ1Xd6t79BtIyjwfJ4DyFi5Rc7aMB_wN9FaA3kIcUe2QPQ4ZdI-OR5GXkLMi0fNId3Ta1jZ4Q2DaHeM9oH-3liOCQTQTeTF2iJfBVwNupAcbD1LRVDVjJevwatfLTlqjhRFnurkaW9mpChiMFlOe-JZTCkoRp-unLzDxu5GrUlbQltmOdZ2PlkJLVyWO28rogfqcWzXs-hx7v-6kGW7VsKU3RQUM-n60DRfeelqVdhsXYU2qFAstqCNOHQVZXWqhRtsB9eiQ3Kd6kTzVENya-PBT5DRSmtXi98dGJaSv_-ExellM0dfQPaMi4rg.min.css"></link>
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.63.2/cache/eNqFU0tu4zAMvVALnyFBO5hFppuiB6AkxiaiiAZJ53P7UeN4askCZmGJeiSf-fWqXcAjTNE6QUV78RnxA6SEUTtwPNnr6B-ojkKGpcGAEG1YLBamIyfTArH7iLWVm8w4aeUp5xLRCK4AfCbHZK8GLj7j_ectiGeQE8q7CEuhm4wiGWHJTlg8e6HQIoagXT_aLnwlsjqPb6VAiJROWuv6yA7iB1y6BBcHZUh8QYlwL7AzCx5If4RSCzofv-iGoa1qo58I4oc93wp1ZH86IAQUxyDN1JU9QewSXj8HENzPTdvUQIx8xN8PrvLVInWSVV6ms9O1vJmQ-4ES6vNuEeWwNGOWf_ojFhZXCj3ahtqT-EedF2FjkJO12WKRyrog_sktWu5yDiPednMNWrUcKU_R3lI5n2MAw_CWj7VchyV4odwKA9HNEOYPk25cRuhRW-AuL8lVq52MuYYYHomvH1V-d0rzWW0vf3divuo_PpPX9RQ1OirkHKcPNjqSByNODeh_Hp75lFd9jeVw_gLCDuF5.min.css"></link>
 <script type="text/javascript" src="http://fj.about.com/js/1.63.2/cache/eNp1kN0OgjAMRl_IuGfwL94iWYy326g6GC12nYBPLyZcoMJVk3Par00d1Q0hoERVwNWkIMpSC6zKRwLux7Iq__Tpwzel6TQbjA2xXPZUG485DCNRxo71N50GBW_VE7AgVo6o8hB_bRIfvMwIYylJZm5wQOFe9w0sdpw9tFO5sGo8pKYCGP2LdykK1bOpx0zP8lxvpxyhjQFEhme5O7jKUgfxDfPAjN8.min.js"></script>
 <script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">var abtGenericDomain='j';
 var abtGenericResourceDomain='fj';
@@ -123,6 +123,12 @@ bucketDescription: "mongo bucket",
 bucketName: "mongo",
 bucketTrackingId: "99",
 bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
 }
 ],
 envData: {
@@ -130,7 +136,7 @@ environment: {
 environment: "prod",
 application: "globe",
 dataCenter: "ny",
-serverName: "nyglobe11"
+serverName: "nyglobe13"
 },
 server: {
 version: "1.63.2",
@@ -139,8 +145,8 @@ title: "Globe Server"
 },
 resources : {
 version : "1.63.2",
-loadStartTime : "1452806795780",
-loadTimeTaken : "3833"
+loadStartTime : "1452806808446",
+loadTimeTaken : "3653"
 },
 client : {
 browserUA : "navigator.userAgent",
@@ -163,6 +169,12 @@ bucketName:"afcEnabled",
 bucketTrackingId:"26",
 bucketValue:1
 },{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
 testName:"optimizelyInclusion",
 bucketDescription:"Include Optimizely snippet",
 bucketName:"optimizely",
@@ -176,7 +188,7 @@ environment : {
 environment : "prod",
 application : "globe",
 dataCenter : "ny",
-serverName : "nyglobe11"
+serverName : "nyglobe13"
 },
 server : {
 version : "1.63.2",
@@ -185,8 +197,8 @@ title : "Globe Server"
 },
 resources : {
 version : "1.63.2",
-loadStartTime : "1452806795780",
-loadTimeTaken : "3833"
+loadStartTime : "1452806808446",
+loadTimeTaken : "3653"
 },
 client : {
 browserUA : navigator.userAgent,
@@ -247,7 +259,7 @@ mptCookie = docCookies.getItem('mpt');
 google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
 google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
 google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
-google_ad_channel += ' test99 test26 test12';
+google_ad_channel += ' test99 test26 test99 test12';
 Abt.PageView.setData({
 googleAdChannel: google_ad_channel
 });
@@ -271,7 +283,7 @@ google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+ask
 google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
 google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
 }());
-google_ad_channel += ' test99 test26 test12';
+google_ad_channel += ' test99 test26 test99 test12';
 var google_ad_channel_window = google_ad_channel,
 google_ad_client_window = google_ad_client,
 zNative = 1,
@@ -1441,10 +1453,13 @@ Health Slideshows
 Also from About.com: <a href="http://www.caloriecount.com" data-component="calorieCount" data-source="calorieCount" data-type="calorieCount" data-ordinal="1" rel="nofollow">Calorie Count</a>			</div>
 		</div>
 	</div>
+</div><div id="ribbon-notification" class="ribbon">
+	<div class="message">This site uses cookies. Our <a href="http://www.about.com/legal.htm#cookiepolicy">Privacy Policy</a> has details and opt-out info.</a></div>
+	<a href="#" data-component="defaultCookiesNotification" data-source="defaultCookiesNotification" data-type="ribbonClose" data-ordinal="1" class="close"><span class="sprite x-gray"></span></a>
 </div></footer>
 <!--[if lte IE 8 ]>
     <script src="http://fj.about.com/js/1.63.2/default/ie8.min.js"></script>
-<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.63.2/cache/eNp1UVtOxDAMvBBS7oCEBFIXIRX4dxLvJq0bL46zqJyeaMujgfbHsTy2ZzwZsvF4hEJqKFoDloveDG3xgsmzGA3CqoR_4etM74SJNqHXKFqAnuC0PXofs7LMO6zDW0GZO_iYOwa_03QmcBiYPMq6I7OLQOYcU9RbTWsoJkVJFSwal7CJ1gLKEgVb9i9FD1O9K6-RgFB1GGI3HiA3bp6ILdAjXH4zC43kiQW7ashP0oCQl9AjiAuNnMrWXYktg_gNFzy7MmHSPoDgf7yLaXypNjSnWKkrnZTJ5lX-LCW5dRv4bAQ81RXNeML3TKjVy1W684UTRHIB3dhIQzxUH77fhlM0OsK7Oq4N6ZHmmJbYlFmm_AlVJx5o.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.63.2/cache/eNqFUdFOwzAM_CGk_gMSEkjdhDTg3Um81asbD8cZKl9PRAck0IkXx7rz5ZzLMXUB95DZOibXnTEG0S4JJIObY0uCk2y_wYvCBhUzxlXNzqswr1IvpJaBH-GwLr2nZKLzFdfja0ade3ife4FwZejE4HEQDqj1RBJPwN2JItmtxZqiaKixkNloKatsAVCXqti6XzZ6mMq7Us0MCGWPjsWPm5JxTR1YHPAWzj-dg2blSRT7Esh305CQlrJDUD806xS3_tPYCWhYSSGIzxNG2w2g-JfvKY7PJYbmKU7LlV7z5FLVP2mOvh6DkDqFwOWKRh7xLTFaybJqr3zhBMR-QD82qyFuSg5fZ-OpRp7xrsitMd3zTHGpDSw6NXNKzkncitGePBhJXIH-EXiRkTDV2Aeo8FBV.min.js"></script>
 <script type="text/javascript">    var Abt = window.Abt || {};
     Abt.tagLinks = function() { 
         debug.log('Amazon affiliate link tagging script');

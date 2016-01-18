@@ -162,7 +162,7 @@
         <script type='text/javascript' src='http://ads.avusa.co.za/www/delivery/spcjs.php?block=1'></script>
         <script type="text/javascript" src="http://www.timeslive.co.za/template/common/js/qualification.js"></script>
         <script type="text/javascript">
-            var ord = 342073617580;
+            var ord = 529773367702;
 
             jQuery(function(){
 	        var SelfLocation = window.location.href.split('?');
@@ -272,13 +272,13 @@ googletag.enableServices();
 
 <div id="signin_menu"  >
 
-        <form name="signinForm" id="signin" method="post" action="/auth/login.do;jsessionid=74C3465FC78A313EE93EB6B33C57E3AC.present2.escenic.avusa.co.za"><h3 style="margin-bottom:5px;">Please enter your login details</h3>
+        <form name="signinForm" id="signin" method="post" action="/auth/login.do;jsessionid=5079B7D9D36819BA3B279F4A5346DCC8.present1.escenic.avusa.co.za"><h3 style="margin-bottom:5px;">Please enter your login details</h3>
             <input type="hidden" name="targetUrl" value=""><input type="hidden" name="errorUrl" value="http://www.timeslive.co.za/?filter=login"><input type="hidden" name="homeSectionId" value="36500"><input type="hidden" name="stackId" value="aml"><input type="text" name="userName" tabindex="1" value="Username" onblur="if (this.value == '') {this.value = 'Username';}" onfocus="if (this.value == 'Username') {this.value = '';}" title="Username"><input type="password" name="password" size="10" tabindex="2" value="" title="Password"><input type="submit" tabindex="3" value="Login" class="button">&nbsp;&nbsp;
 
             <a href="http://www.timeslive.co.za/?filter=register">Comment</a>&nbsp;&nbsp;
             <a href="http://www.timeslive.co.za/?filter=resetpassword">Forgot password?</a>
 
-        </form><form name="SSOLoginForm" method="post" action="/auth/login/SSOLogin.do;jsessionid=74C3465FC78A313EE93EB6B33C57E3AC.present2.escenic.avusa.co.za"><!--script type="text/javascript">
+        </form><form name="SSOLoginForm" method="post" action="/auth/login/SSOLogin.do;jsessionid=5079B7D9D36819BA3B279F4A5346DCC8.present1.escenic.avusa.co.za"><!--script type="text/javascript">
                 function setValue(pValue) {
                     document.getElementById("hiddenProviderId").value = pValue;
                     return true;
@@ -500,13 +500,13 @@ function CloseAddSpace()
 						    			
 						    			<div class="blurb" style="background: none;border: none;">
 					                        <div class="span-8">                      
-							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/local/2016/01/15/Mos-Def-wife-mom-and-four-children-must-depart-SA-statement-from-Home-Affairs">
-								                                <img src="http://www.timeslive.co.za/migration_catalog/2009/09/29/mosdef1/ALTERNATES/crop_148x110/mosdef1"  alt="" width="146px" height="110px" />
+							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/local/2016/01/17/Anti-racism-should-taught-in-SA-schools---ANC">
+								                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2016/01/17/2015-11-19t164653z_01_msh02_rtridsp_3_safrica-zuma-successor-19-11-2015-21-11-18-605.jpg/ALTERNATES/crop_148x110/2015-11-19T164653Z_01_MSH02_RTRIDSP_3_SAFRICA-ZUMA-SUCCESSOR-19-11-2015-21-11-18-605.jpg"  alt="" width="146px" height="110px" />
 								                            </a>
 							                            <div>                      
-								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/local/2016/01/15/Mos-Def-wife-mom-and-four-children-must-depart-SA-statement-from-Home-Affairs">Mos Def, wife, mom and four children must depart SA: statement from Home Affairs</a></h3>
+								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/local/2016/01/17/Anti-racism-should-taught-in-SA-schools---ANC">Anti-racism should taught in SA schools - ANC </a></h3>
 								                         <p style="font-size:12px;">
-								                          The Department of Home Affairs wishes to confirm the arrest of Mr Dante Terrell Smith - also known as Mos Def and/or Yasiin Bey - for contravening the immigration laws of the Republic.</p>
+								                          Children should be taught from a young age to be against racism, the ANC's KwaZulu-Natal chairperson Sihle Zikalala said on Sunday. </p>
 						                        
 						                    		</div>	
 							                 </div>
@@ -516,28 +516,28 @@ function CloseAddSpace()
 						         </li>	
 							    	
 					    	<li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/15/‘World-traveller’-Mos-Def-given-14-days-to-leave-South-Africa">
-        							‘World traveller’ Mos Def given 14 days to leave South Africa</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/17/Limpopo-woman-finds-abandoned-newborn-in-pit-toilet">
+        							Limpopo woman finds abandoned newborn in pit toilet</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/15/American-rapper-Mos-Def-arrested-in-South-Africa">
-        							American rapper Mos Def arrested in South Africa</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/17/Rand-weakness-takes-shine-off-fuel-price">
+        							Rand weakness takes shine off fuel price</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/15/De-Klerk-Foundation-asks-Human-Rights-Commission-to-probe-postings-inciting-violence-against-whites">
-        							De Klerk Foundation asks Human Rights Commission to probe postings inciting violence against whites</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sundaytimes/stnews/2016/01/17/The-tragic-tale-of-a-penniless-SA-millionaire">
+        							The tragic tale of a penniless SA millionaire</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/15/Another-heatwave-for-Cape-Town">
-        							Another heatwave for Cape Town</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/16/Gauteng-police-commissioner-redeployed">
+        							Gauteng police commissioner 'redeployed'</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/15/What-did-Cecil-Rhodes-will-say-about-who-should-get-scholarships">
-        							What did Cecil Rhodes' will say about who should get scholarships?</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/16/Unisa-granted-restraining-interdict-against-protesters">
+        							Unisa granted restraining interdict against protesters</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/15/Township-based-businesses-to-get-30-of-Gauteng’s-procurement-spend">
-        							Township-based businesses to get 30% of Gauteng’s procurement spend</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/local/2016/01/16/Wits-gets-interim-court-order‚-extra-security-to-protect-people-and-property">
+        							Wits gets interim court order‚ extra security to protect people and property</a>
 				            </li>	
 					    <!-- 			      <li style="padding-bottom:5px;float:right;width:400px;"> -->
 <!-- 				     <a href="http://telkom.timeslive.co.za"><img alt="telkom_logo" src="http://www.timeslive.co.za/template/common/images/Telkom-Logo.jpg" width="200px"  /></a>              	 -->
@@ -553,13 +553,13 @@ function CloseAddSpace()
 						    			
 						    			<div class="blurb" style="background: none;border: none;">
 					                        <div class="span-8">                      
-							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/africa/2016/01/15/Zimbabwe-struggles-to-find-person-to-fill-hangman-post">
-								                                <img src="http://www.timeslive.co.za/incoming/2012/12/04/noose-gallows-hang/ALTERNATES/crop_148x110/noose+gallows+hang"  alt="" width="146px" height="110px" />
+							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/africa/2016/01/17/Another-Zim-elephant-poisoned-with-cyanide---report">
+								                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2015/10/15/2013-10-29t121005z_01_msh07_rtridsp_3_zimbabwe-29-10-2013-14-10-11-319.jpg/ALTERNATES/crop_148x110/2013-10-29T121005Z_01_MSH07_RTRIDSP_3_ZIMBABWE-29-10-2013-14-10-11-319.jpg"  alt="" width="146px" height="110px" />
 								                            </a>
 							                            <div>                      
-								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/africa/2016/01/15/Zimbabwe-struggles-to-find-person-to-fill-hangman-post">Zimbabwe struggles to find person to fill hangman post</a></h3>
+								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/africa/2016/01/17/Another-Zim-elephant-poisoned-with-cyanide---report">Another Zim elephant poisoned with cyanide - report</a></h3>
 								                         <p style="font-size:12px;">
-								                          Ten years since Zimbabwe's last hangman retired, there has been no one "willing" to fill the post, as locals view the job as "demeaning", according to a report. </p>
+								                          Another elephant has been found dead of cyanide poisoning in north-western Zimbabwe, two months after around 60 elephants were killed in the area, it was reported on Sunday.</p>
 						                        
 						                    		</div>	
 							                 </div>
@@ -569,6 +569,22 @@ function CloseAddSpace()
 						         </li>	
 							    	
 					    	<li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/17/Burkina-Faso-attack-survivors-recall-night-of-horror">
+        							Burkina Faso attack survivors recall night of horror</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/16/Burkina-Fasos-President-Kabore-visits-hotel-hit-by-main-jihadist-attack-AFP">
+        							Burkina Faso's President Kabore visits hotel hit by main jihadist attack: AFP</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/16/Siege-over-at-Burkina-Faso-hotel-restaurant-new-assault-ongoing-minister">
+        							Siege over at Burkina Faso hotel, restaurant, new assault ongoing: minister</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/15/Zimbabwe-struggles-to-find-person-to-fill-hangman-post">
+        							Zimbabwe struggles to find person to fill hangman post</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
 				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/15/Africas-richest-man-to-start-multi-million-operations-in-Zimbabwe">
         							Africa's richest man to start multi-million operations in Zimbabwe</a>
 				            </li>	
@@ -576,22 +592,6 @@ function CloseAddSpace()
 				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/15/Shebab-storm-African-Union-base-in-Somalia-casualties-reported">
         							Shebab storm African Union base in Somalia, casualties reported</a>
 				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/15/UN-reports-gang-rapes-mass-graves-in-Burundi">
-        							UN reports gang-rapes, mass graves in Burundi</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/15/Nigeria-to-launch-new-investigation-of-2014-kidnap-of-Chibok-girls">
-        							Nigeria to launch new investigation of 2014 kidnap of Chibok girls</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/15/Hair-today-Gambia-lifts-headscarf-edict">
-        							Hair today? Gambia lifts headscarf edict</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/africa/2016/01/15/Suspected-Ebola-death-in-Sierra-Leone-hours-after-WHO-gives-all-clear">
-        							Suspected Ebola death in Sierra Leone hours after WHO gives all-clear</a>
-				            </li>	
 					    <!-- 			      <li style="padding-bottom:5px;float:right;width:400px;"> -->
 <!-- 				     <a href="http://telkom.timeslive.co.za"><img alt="telkom_logo" src="http://www.timeslive.co.za/template/common/images/Telkom-Logo.jpg" width="200px"  /></a>              	 -->
 
@@ -606,13 +606,13 @@ function CloseAddSpace()
 						    			
 						    			<div class="blurb" style="background: none;border: none;">
 					                        <div class="span-8">                      
-							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/world/2016/01/15/Oil-prices-tumble-to-new-12-year-lows">
-								                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2016/01/15/2016-01-15t034756z_01_fil501_rtridsp_3_iran-oil-exports-15-01-2016-05-01-21-622.jpg/ALTERNATES/crop_148x110/2016-01-15T034756Z_01_FIL501_RTRIDSP_3_IRAN-OIL-EXPORTS-15-01-2016-05-01-21-622.jpg"  alt="" width="146px" height="110px" />
+							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/world/2016/01/17/IS-abducts-over-400-in-east-Syria-after-deadly-assault">
+								                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2016/01/17/2016-01-16t213440z_01_syr01_rtridsp_3_mideast-crisis-syria-16-01-2016-23-01-53-192.jpg/ALTERNATES/crop_148x110/2016-01-16T213440Z_01_SYR01_RTRIDSP_3_MIDEAST-CRISIS-SYRIA-16-01-2016-23-01-53-192.jpg"  alt="" width="146px" height="110px" />
 								                            </a>
 							                            <div>                      
-								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/world/2016/01/15/Oil-prices-tumble-to-new-12-year-lows">Oil prices tumble to new 12-year lows</a></h3>
+								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/world/2016/01/17/IS-abducts-over-400-in-east-Syria-after-deadly-assault">IS abducts over 400 in east Syria after deadly assault</a></h3>
 								                         <p style="font-size:12px;">
-								                          Oil prices slumped to fresh 12-year low points Friday, as dealers prepared for increased Iranian exports to the market against a backdrop of a global supply glut.</p>
+								                          Jihadists from the Islamic State group have abducted more than 400 Syrian civilians after capturing new ground in a major assault on the city of Deir Ezzor that left dozens dead.</p>
 						                        
 						                    		</div>	
 							                 </div>
@@ -622,28 +622,28 @@ function CloseAddSpace()
 						         </li>	
 							    	
 					    	<li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/15/Jakarta-bloodshed-spotlights-rise-of-IS-affiliate-in-SE-Asia">
-        							Jakarta bloodshed spotlights rise of IS affiliate in SE Asia</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/17/Pope-visits-Rome-synagogue-condemns-violence-in-name-of-religion">
+        							Pope visits Rome synagogue, condemns violence in name of religion</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/15/Russia-has-begun-humanitarian-operations-in-Syria-defence-ministry">
-        							Russia has begun 'humanitarian operations' in Syria: defence ministry</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/17/Three-US-prisoners-freed-by-Iran-due-in-Switzerland-ministry">
+        							Three US prisoners freed by Iran due in Switzerland: ministry</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/15/One-person-brain-dead-five-hospitalised-after-French-drug-trial-mishap-minister">
-        							One person brain-dead, five hospitalised after French drug trial mishap: minister</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/17/Obama-we-have-cut-off-every-path-for-Iran-to-obtain-nuclear-bomb">
+        							Obama: we have cut off every path for Iran to obtain nuclear bomb</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/15/Indonesia-arrests-three-after-attack-search-on-for-more-jihadis">
-        							Indonesia arrests three after attack, search on for more jihadis</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/17/US-Presidential-candidate-Donald-Trump-ventures-among-evangelicals-in-search-for-votes">
+        							US Presidential candidate Donald Trump ventures among evangelicals in search for votes</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Brazilian-soccer-great-Pele-recovering-well-from-hip-surgery-in-New-York">
-        							Brazilian soccer great Pele recovering well from hip surgery in New York</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/17/Sanctions-go-but-doubts-in-Iran-about-better-times">
+        							Sanctions go, but doubts in Iran about better times</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/15/Charlie-Hebdo-cartoon-featuring-drowned-Syrian-boy-causes-outcry">
-        							Charlie Hebdo cartoon featuring drowned Syrian boy causes outcry</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/world/2016/01/16/Italy-rescues-nearly-250-migrants-off-Libya-coastguard">
+        							Italy rescues nearly 250 migrants off Libya: coastguard</a>
 				            </li>	
 					    <!-- 			      <li style="padding-bottom:5px;float:right;width:400px;"> -->
 <!-- 				     <a href="http://telkom.timeslive.co.za"><img alt="telkom_logo" src="http://www.timeslive.co.za/template/common/images/Telkom-Logo.jpg" width="200px"  /></a>              	 -->
@@ -679,13 +679,13 @@ function CloseAddSpace()
 						    			
 						    			<div class="blurb" style="background: none;border: none;">
 					                        <div class="span-8">                      
-							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/politics/2016/01/15/IEC-wont-be-able-to-stop-election-irregularities-Maimane">
-								                                <img src="http://www.timeslive.co.za/migration_catalog/2011/05/18/elections-2011-voting-iec/ALTERNATES/crop_148x110/elections+2011+voting+iec"  alt="" width="146px" height="110px" />
+							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/local/2016/01/17/Anti-racism-should-taught-in-SA-schools---ANC">
+								                                <img src="http://www.timeslive.co.za/Feeds/Reuters_Images/2016/01/17/2015-11-19t164653z_01_msh02_rtridsp_3_safrica-zuma-successor-19-11-2015-21-11-18-605.jpg/ALTERNATES/crop_148x110/2015-11-19T164653Z_01_MSH02_RTRIDSP_3_SAFRICA-ZUMA-SUCCESSOR-19-11-2015-21-11-18-605.jpg"  alt="" width="146px" height="110px" />
 								                            </a>
 							                            <div>                      
-								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/politics/2016/01/15/IEC-wont-be-able-to-stop-election-irregularities-Maimane">IEC won't be able to stop election irregularities: Maimane</a></h3>
+								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/local/2016/01/17/Anti-racism-should-taught-in-SA-schools---ANC">Anti-racism should taught in SA schools - ANC </a></h3>
 								                         <p style="font-size:12px;">
-								                          The Electoral Commission of South Africa (IEC) does not have the capacity to ensure irregularities do not occur during the elections, DA leader Mmusi Maimane said on Friday.</p>
+								                          Children should be taught from a young age to be against racism, the ANC's KwaZulu-Natal chairperson Sihle Zikalala said on Sunday. </p>
 						                        
 						                    		</div>	
 							                 </div>
@@ -695,28 +695,28 @@ function CloseAddSpace()
 						         </li>	
 							    	
 					    	<li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/15/DA-gives-ANC-memo-demanding-Fransman-step-down">
-        							DA gives ANC memo demanding Fransman step down</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/17/Mbeki-said-Zuma-would-be-taken-care-of-should-he-resign---lawyer">
+        							Mbeki said Zuma would be taken care of should he resign - lawyer</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/15/Who-paid-for-ZumaMustFall-billboard-It-is-a-mystery-as-DA-denies-responsibility">
-        							Who paid for #ZumaMustFall billboard? It is a mystery as DA denies responsibility</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/17/DA-says-it-has-proof-Sports-Minister-Mbalula-misled-Parliament-about-Mayweather-tour">
+        							DA says it has proof Sports Minister Mbalula misled Parliament about Mayweather tour</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/15/Zuma-to-lead-SA-delegation-to-World-Economic-Forum">
-        							Zuma to lead SA delegation to World Economic Forum</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/17/Cape-Town-banner-did-its-job-says-the-Zumamustfall-movement">
+        							Cape Town banner did its job, says the #Zumamustfall movement</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/15/Rivonia-three-to-receive-freedom-of-London-and-Sedibeng">
-        							Rivonia three to receive freedom of London and Sedibeng</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sundaytimes/stnews/2016/01/17/Local-elections-may-be-pushed-back-as-IEC-vets-voter-addresses">
+        							Local elections may be pushed back as IEC vets voter addresses</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/thetimes/2016/01/15/SAA-must-leave-nest">
-        							'SAA must leave nest'</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/politics/2016/01/17/ANC-MP-apologises-for-provocative-comments-on-Zuma-Must-Fall-billboard">
+        							ANC MP apologises for provocative comments on 'Zuma Must Fall' billboard</a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/thetimes/2016/01/15/Zuma-moves-to-placate-retirement-savers">
-        							Zuma moves to placate retirement savers</a>
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sundaytimes/stnews/2016/01/17/We-need-Mbekis-wisdom-to-rescue-SA-says-Mathews-Phosa-podcast">
+        							'We need Mbeki's wisdom to rescue SA', says Mathews Phosa (podcast)</a>
 				            </li>	
 					    <!-- 			      <li style="padding-bottom:5px;float:right;width:400px;"> -->
 <!-- 				     <a href="http://telkom.timeslive.co.za"><img alt="telkom_logo" src="http://www.timeslive.co.za/template/common/images/Telkom-Logo.jpg" width="200px"  /></a>              	 -->
@@ -772,13 +772,13 @@ function CloseAddSpace()
 						    			
 						    			<div class="blurb" style="background: none;border: none;">
 					                        <div class="span-8">                      
-							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Sir-Alex-Ferguson-the-John-Lennon-of-football-says-Liverpools-Klopp">
-								                                <img src="http://www.timeslive.co.za/incoming/2016/01/15/jurgen-klopp/ALTERNATES/crop_148x110/Jurgen+Klopp"  alt="" width="146px" height="110px" />
+							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/sport/soccer/2016/01/17/Maritzburg-United-player-Mondli-Cele-killed-in-a-car-accident">
+								                                <img src="http://www.timeslive.co.za/incoming/2016/01/17/mondli-cele/ALTERNATES/crop_148x110/Mondli+Cele"  alt="" width="146px" height="110px" />
 								                            </a>
 							                            <div>                      
-								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Sir-Alex-Ferguson-the-John-Lennon-of-football-says-Liverpools-Klopp">Sir Alex Ferguson the 'John Lennon of football,' says Liverpool's Klopp</a></h3>
+								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/sport/soccer/2016/01/17/Maritzburg-United-player-Mondli-Cele-killed-in-a-car-accident">Maritzburg United player Mondli Cele killed in a car accident </a></h3>
 								                         <p style="font-size:12px;">
-								                          Liverpool's Juergen Klopp described former Manchester United manager Alex Ferguson as the "John Lennon of football" ahead of Sunday's Premier League meeting between the arch-rivals.</p>
+								                          Maritzburg United midfielder Mondli Cele has passed away after he was involved in a car accident in Pietermaritzburg on Saturday evening.</p>
 						                        
 						                    		</div>	
 							                 </div>
@@ -788,28 +788,28 @@ function CloseAddSpace()
 						         </li>	
 							    	
 					    	<li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/16/Southampton-sign-striker-Austin-from-QPR">
+        							Southampton sign striker Austin from QPR</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/16/Prince-Ali-slams-FIFA-election-rule-breach">
+        							Prince Ali slams FIFA election rule 'breach'</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/16/Black-Aces-top-of-PSL-log-after-2-1-win-over-Wits">
+        							Black Aces top of PSL log after 2-1 win over Wits</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Sir-Alex-Ferguson-the-John-Lennon-of-football-says-Liverpools-Klopp">
+        							Sir Alex Ferguson the 'John Lennon of football,' says Liverpool's Klopp</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
 				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Mark-Mayambela-to-join-SuperSport-United-immediately">
         							Mark Mayambela to join SuperSport United immediately </a>
 				            </li>	
 					    <li style="padding-bottom:5px;float:right;width:400px;">
 				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Brazilian-soccer-great-Pele-recovering-well-from-hip-surgery-in-New-York">
         							Brazilian soccer great Pele recovering well from hip surgery in New York</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Sunderland-sign-Senegal-striker-Dame-NDoye">
-        							Sunderland sign Senegal striker Dame N'Doye</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/soccer/2016/01/15/PSL-mulls-delaying-season’s-start-because-of-Rio-Olympics">
-        							PSL mulls delaying season’s start because of Rio Olympics</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/thetimes/2016/01/15/Dolly-ready-for-the-big-stage-after-bedding-in-at-Mamelodi-Sundowns">
-        							Dolly ready for the big stage after bedding-in at Mamelodi Sundowns</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/thetimes/2016/01/15/Bafana-unlikely-to-play-before-Cameroon-double">
-        							Bafana unlikely to play before Cameroon double</a>
 				            </li>	
 					    <!-- 			      <li style="padding-bottom:5px;float:right;width:400px;"> -->
 <!-- 				     <a href="http://telkom.timeslive.co.za"><img alt="telkom_logo" src="http://www.timeslive.co.za/template/common/images/Telkom-Logo.jpg" width="200px"  /></a>              	 -->
@@ -879,13 +879,13 @@ function CloseAddSpace()
 						    			
 						    			<div class="blurb" style="background: none;border: none;">
 					                        <div class="span-8">                      
-							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/sport/cricket/2016/01/15/Root-Stokes-defy-South-Africas-pace-attack-England-164-2-at-tea">
-								                                <img src="http://www.timeslive.co.za/incoming/2016/01/15/james-taylo/ALTERNATES/crop_148x110/James+Taylo"  alt="" width="146px" height="110px" />
+							                        <a style="width:155px;text-align:left;float:left;" href="http://www.timeslive.co.za/sport/cricket/2016/01/17/Former-SA-captain-Graeme-Smith-slams-negative-Proteas-after-Test-series-loss-to-England">
+								                                <img src="http://www.timeslive.co.za/incoming/2016/01/17/smith.jpg/ALTERNATES/crop_148x110/Smith.JPG"  alt="" width="146px" height="110px" />
 								                            </a>
 							                            <div>                      
-								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/sport/cricket/2016/01/15/Root-Stokes-defy-South-Africas-pace-attack-England-164-2-at-tea">Root, Stokes defy South Africa's pace attack, England 164-2 at tea</a></h3>
+								                        <h3 style="padding:0px 0px 10px 0px;"><a style="text-decoration: underline;font-size:16px;"href="http://www.timeslive.co.za/sport/cricket/2016/01/17/Former-SA-captain-Graeme-Smith-slams-negative-Proteas-after-Test-series-loss-to-England">Former SA captain Graeme Smith slams negative Proteas after Test series loss to England</a></h3>
 								                         <p style="font-size:12px;">
-								                          The Proteas were marginally ahead at tea on day two of the third test at The Wanderers on Friday as they had England on 162/4, after great bowling spells by the four-man seam attack.</p>
+								                          Poor management and a negative mind-set contributed to South Africa's home series defeat by England and loss of the number one test ranking, former Proteas captain Graeme Smith said.</p>
 						                        
 						                    		</div>	
 							                 </div>
@@ -895,28 +895,28 @@ function CloseAddSpace()
 						         </li>	
 							    	
 					    	<li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/17/Proteas-captain-AB-de-Villiers-devastated-after-Test-series-loss">
+        							Proteas captain AB de Villiers devastated after Test series loss</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/16/Stuart-Broad-has-Proteas-in-tatters-England-smelling-Test-series-victory">
+        							Stuart Broad has Proteas in tatters, England smelling Test series victory</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/16/Rabada-rattles-England-SA-in-the-lead-at-lunch-on-day-three">
+        							Rabada rattles England, SA in the lead at lunch on day three </a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/15/SA-vs-England-3rd-test-day-2---Bad-light-stops-play">
+        							SA vs England 3rd test day 2 - Bad light stops play</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
+				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/15/Root-Stokes-defy-South-Africas-pace-attack-England-164-2-at-tea">
+        							Root, Stokes defy South Africa's pace attack, England 164-2 at tea</a>
+				            </li>	
+					    <li style="padding-bottom:5px;float:right;width:400px;">
 				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/15/SA-reduce-England-to-27-2-at-lunch-after-posting-morale-boosting-313">
         							SA reduce England to 27-2 at lunch after posting morale-boosting 313</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/15/England-bowl-South-Africa-out-for-313-on-day-two-of-third-Test">
-        							England bowl South Africa out for 313 on day two of third Test</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/15/CSA-‘waiting-for-Bodi-to-identify-co-conspirators’">
-        							CSA ‘waiting for Bodi to identify co-conspirators’</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/thetimes/2016/01/15/SA-dry-up-as-England-deliver-dose-of-discomfort">
-        							SA dry up as England deliver dose of discomfort</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/14/Cricket-South-Africa-confirms-ex-Protea-player-Gulam-Bodi-charged-with-match-fixing">
-        							Cricket South Africa confirms ex-Protea player Gulam Bodi charged with match fixing</a>
-				            </li>	
-					    <li style="padding-bottom:5px;float:right;width:400px;">
-				            	<a style="font-size: 14px;width:390px;text-align:left;margin-left:10px;" href="http://www.timeslive.co.za/sport/cricket/2016/01/14/South-Africa-73-1-at-lunch-on-first-day-of-third-Test-against-England">
-        							South Africa 73-1 at lunch on first day of third Test against England</a>
 				            </li>	
 					    <!-- 			      <li style="padding-bottom:5px;float:right;width:400px;"> -->
 <!-- 				     <a href="http://telkom.timeslive.co.za"><img alt="telkom_logo" src="http://www.timeslive.co.za/template/common/images/Telkom-Logo.jpg" width="200px"  /></a>              	 -->
@@ -1403,9 +1403,9 @@ function CloseAddSpace()
 	            <li class="ht">
 	               <a href="http://www.timeslive.co.za/lifestyle/">Life &amp; Style</a>
 	            </li> 
- 				<li class="ht selected">
+ 				<!--<li class="ht selected">
 	               <a href="http://www.timeslive.co.za/lifestyle/giftguide/" style="background: #222 url(../../template/common/images/arrow.gif) no-repeat 110px 15px;"><div><img src="http://pubads.g.doubleclick.net/gampad/ad?iu=5963/TL-Web/Lifestyle/Gift-Guide&sz=100x40&t=pos%3DGift-Guide-Logo&c=729114" /></div></a>
-	            </li>	
+	            </li>	-->
 	            <li class="ht">
 	               <a href="http://www.timeslive.co.za/lifestyle/family/">Family</a>
 	            </li> 
@@ -1998,8 +1998,51 @@ function CloseAddSpace()
                         </div>
                         <div class="loopcontainer" style="height: 16px; display: block;">
                             <div class="slides">
-                                <div><a href="http://www.timeslive.co.za/local/2016/01/15/Mos-Def-wife-mom-and-four-children-must-depart-SA-statement-from-Home-Affairs">Mos Def, wife, mom and four children must depart SA: statement from Home Affairs</a></div>
+                                <div><a href="http://www.timeslive.co.za/local/2016/01/17/Anti-racism-should-taught-in-SA-schools---ANC">Anti-racism should taught in SA schools - ANC </a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/17/IS-abducts-over-400-in-east-Syria-after-deadly-assault">IS abducts over 400 in east Syria after deadly assault</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/17/Mbeki-said-Zuma-would-be-taken-care-of-should-he-resign---lawyer">Mbeki said Zuma would be taken care of should he resign - lawyer</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/17/Pope-visits-Rome-synagogue-condemns-violence-in-name-of-religion">Pope visits Rome synagogue, condemns violence in name of religion</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/17/Three-US-prisoners-freed-by-Iran-due-in-Switzerland-ministry">Three US prisoners freed by Iran due in Switzerland: ministry</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/17/Obama-we-have-cut-off-every-path-for-Iran-to-obtain-nuclear-bomb">Obama: we have cut off every path for Iran to obtain nuclear bomb</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/17/Sanctions-go-but-doubts-in-Iran-about-better-times">Sanctions go, but doubts in Iran about better times</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/17/US-Presidential-candidate-Donald-Trump-ventures-among-evangelicals-in-search-for-votes">US Presidential candidate Donald Trump ventures among evangelicals in search for votes</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/17/DA-says-it-has-proof-Sports-Minister-Mbalula-misled-Parliament-about-Mayweather-tour">DA says it has proof Sports Minister Mbalula misled Parliament about Mayweather tour</a></div>
+    <div><a href="http://www.timeslive.co.za/business/2016/01/17/Cards-stacked-against-SAs-economic-outlook">Cards stacked against SA's economic outlook</a></div>
+    <div><a href="http://www.timeslive.co.za/sundaytimes/businesstimes/opinion/2016/01/17/IMF-may-yet-be-SAs-last-resort">IMF may yet be SA's last resort</a></div>
+    <div><a href="http://www.timeslive.co.za/sundaytimes/stnews/2016/01/17/Local-elections-may-be-pushed-back-as-IEC-vets-voter-addresses">Local elections may be pushed back as IEC vets voter addresses</a></div>
+    <div><a href="http://www.timeslive.co.za/sundaytimes/stnews/2016/01/17/The-tragic-tale-of-a-penniless-SA-millionaire">The tragic tale of a penniless SA millionaire</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2016/01/17/Rand-weakness-takes-shine-off-fuel-price">Rand weakness takes shine off fuel price</a></div>
+    <div><a href="http://www.timeslive.co.za/sport/cricket/2016/01/17/Former-SA-captain-Graeme-Smith-slams-negative-Proteas-after-Test-series-loss-to-England">Former SA captain Graeme Smith slams negative Proteas after Test series loss to England</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/17/ANC-MP-apologises-for-provocative-comments-on-Zuma-Must-Fall-billboard">ANC MP apologises for provocative comments on 'Zuma Must Fall' billboard</a></div>
+    <div><a href="http://www.timeslive.co.za/sport/soccer/2016/01/17/Maritzburg-United-player-Mondli-Cele-killed-in-a-car-accident">Maritzburg United player Mondli Cele killed in a car accident </a></div>
+    <div><a href="http://www.timeslive.co.za/sundaytimes/stnews/2016/01/17/We-need-Mbekis-wisdom-to-rescue-SA-says-Mathews-Phosa-podcast">'We need Mbeki's wisdom to rescue SA', says Mathews Phosa (podcast)</a></div>
+    <div><a href="http://www.timeslive.co.za/africa/2016/01/17/Burkina-Faso-attack-survivors-recall-night-of-horror">Burkina Faso attack survivors recall night of horror</a></div>
+    <div><a href="http://www.timeslive.co.za/sundaytimes/opinion/2016/01/17/Out-of-touch-Zuma-finds-he-cant-have-his-cake-and-eat-it">Out-of-touch Zuma finds he can't have his cake and eat it</a></div>
+    <div><a href="http://www.timeslive.co.za/sundaytimes/stnews/2016/01/17/ANC-torn-by-Fransman-honey-trap-case">ANC torn by Fransman 'honey trap' case</a></div>
+    <div><a href="http://www.timeslive.co.za/sport/cricket/2016/01/17/Proteas-captain-AB-de-Villiers-devastated-after-Test-series-loss">Proteas captain AB de Villiers devastated after Test series loss</a></div>
+    <div><a href="http://www.timeslive.co.za/sport/cricket/2016/01/16/Stuart-Broad-has-Proteas-in-tatters-England-smelling-Test-series-victory">Stuart Broad has Proteas in tatters, England smelling Test series victory</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/Do-away-with-race-based-policies-says-DAs-Joburg-mayoral-candidate-Herman-Mashaba">Do away with race-based policies, says DA's Joburg mayoral candidate Herman Mashaba</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/COPE-accuses-ANC-of-‘ducking-and-diving’-on-Fransman-debacle">COPE accuses ANC of ‘ducking and diving’ on Fransman debacle</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/ANC-Western-Cape-leader-Marius-Fransman-says-sexual-harassment-allegations-just-nonsense">ANC Western Cape leader Marius Fransman says sexual harassment allegations just 'nonsense'</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/16/Italy-rescues-nearly-250-migrants-off-Libya-coastguard">Italy rescues nearly 250 migrants off Libya: coastguard</a></div>
+    <div><a href="http://www.timeslive.co.za/sport/soccer/2016/01/16/Southampton-sign-striker-Austin-from-QPR">Southampton sign striker Austin from QPR</a></div>
+    <div><a href="http://www.timeslive.co.za/africa/2016/01/16/Burkina-Fasos-President-Kabore-visits-hotel-hit-by-main-jihadist-attack-AFP">Burkina Faso's President Kabore visits hotel hit by main jihadist attack: AFP</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/Herman-Mashaba-announced-as-DAs-Joburg-mayoral-candidate">Herman Mashaba announced as DA's Joburg mayoral candidate</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/Fransman-will-continue-to-lead-Western-Cape-ANC-despite-sexual-harassment-allegations">Fransman will continue to lead Western Cape ANC despite sexual harassment allegations</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/South-Africans-cannot-believe-they-have-an-uneducated-president-says-Zuma">South Africans cannot believe they have an uneducated president, says Zuma</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2016/01/16/Wits-gets-interim-court-order‚-extra-security-to-protect-people-and-property">Wits gets interim court order‚ extra security to protect people and property</a></div>
+    <div><a href="http://www.timeslive.co.za/sport/cricket/2016/01/16/Rabada-rattles-England-SA-in-the-lead-at-lunch-on-day-three">Rabada rattles England, SA in the lead at lunch on day three </a></div>
+    <div><a href="http://www.timeslive.co.za/sport/soccer/2016/01/16/Black-Aces-top-of-PSL-log-after-2-1-win-over-Wits">Black Aces top of PSL log after 2-1 win over Wits</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2016/01/16/Gauteng-police-commissioner-redeployed">Gauteng police commissioner 'redeployed'</a></div>
+    <div><a href="http://www.timeslive.co.za/world/2016/01/16/Iran-nuclear-sanctions-will-be-lifted-today-foreign-minister-Zarif">Iran nuclear sanctions 'will be lifted today': foreign minister Zarif</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2016/01/16/Unisa-granted-restraining-interdict-against-protesters">Unisa granted restraining interdict against protesters</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/Zuma-plans-to-write-his-story-when-he-retires">Zuma plans to write his story when he retires</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/16/DA-to-announce-Joburg-mayoral-candidate">DA to announce Joburg mayoral candidate</a></div>
+    <div><a href="http://www.timeslive.co.za/politics/2016/01/15/City-of-Cape-Town-says-Zuma-Must-Fall-billboard-is-illegal">City of Cape Town says Zuma Must Fall billboard is illegal</a></div>
+    <div><a href="http://www.timeslive.co.za/local/2016/01/15/Mos-Def-wife-mom-and-four-children-must-depart-SA-statement-from-Home-Affairs">Mos Def, wife, mom and four children must depart SA: statement from Home Affairs</a></div>
     <div><a href="http://www.timeslive.co.za/local/2016/01/15/‘World-traveller’-Mos-Def-given-14-days-to-leave-South-Africa">‘World traveller’ Mos Def given 14 days to leave South Africa</a></div>
+    <div><a href="http://www.timeslive.co.za/sundaytimes/businesstimes/2016/01/15/SA-to-import-up-to-6-million-tonnes-of-maize-from-May">SA to import up to 6 million tonnes of maize from May</a></div>
+    <div><a href="http://www.timeslive.co.za/sport/cricket/2016/01/15/SA-vs-England-3rd-test-day-2---Bad-light-stops-play">SA vs England 3rd test day 2 - Bad light stops play</a></div>
     <div><a href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Sir-Alex-Ferguson-the-John-Lennon-of-football-says-Liverpools-Klopp">Sir Alex Ferguson the 'John Lennon of football,' says Liverpool's Klopp</a></div>
     <div><a href="http://www.timeslive.co.za/local/2016/01/15/American-rapper-Mos-Def-arrested-in-South-Africa">American rapper Mos Def arrested in South Africa</a></div>
     <div><a href="http://www.timeslive.co.za/politics/2016/01/15/Who-paid-for-ZumaMustFall-billboard-It-is-a-mystery-as-DA-denies-responsibility">Who paid for #ZumaMustFall billboard? It is a mystery as DA denies responsibility</a></div>
@@ -2015,18 +2058,6 @@ function CloseAddSpace()
     <div><a href="http://www.timeslive.co.za/local/2016/01/15/Another-heatwave-for-Cape-Town">Another heatwave for Cape Town</a></div>
     <div><a href="http://www.timeslive.co.za/world/2016/01/15/Jakarta-bloodshed-spotlights-rise-of-IS-affiliate-in-SE-Asia">Jakarta bloodshed spotlights rise of IS affiliate in SE Asia</a></div>
     <div><a href="http://www.timeslive.co.za/local/2016/01/15/What-did-Cecil-Rhodes-will-say-about-who-should-get-scholarships">What did Cecil Rhodes' will say about who should get scholarships?</a></div>
-    <div><a href="http://www.timeslive.co.za/politics/2016/01/15/IEC-wont-be-able-to-stop-election-irregularities-Maimane">IEC won't be able to stop election irregularities: Maimane</a></div>
-    <div><a href="http://www.timeslive.co.za/sundaytimes/food/2016/01/15/Quiz-How-high-is-your-alcoholic-drinks-IQ">Quiz: How high is your alcoholic drinks IQ? </a></div>
-    <div><a href="http://www.timeslive.co.za/africa/2016/01/15/Africas-richest-man-to-start-multi-million-operations-in-Zimbabwe">Africa's richest man to start multi-million operations in Zimbabwe</a></div>
-    <div><a href="http://www.timeslive.co.za/local/2016/01/15/Gogo-gets-matric-plans-to-open-a-crèche-top-matric-pupil-gets-R150k-car">Gogo gets matric, plans to open a crèche; top matric pupil gets R150k car</a></div>
-    <div><a href="http://www.timeslive.co.za/world/2016/01/15/Russia-has-begun-humanitarian-operations-in-Syria-defence-ministry">Russia has begun 'humanitarian operations' in Syria: defence ministry</a></div>
-    <div><a href="http://www.timeslive.co.za/scitech/2016/01/15/SaveWhatsApp-petition-launches-as-mobile-networks-seek-regulation">#SaveWhatsApp petition launches as mobile networks seek regulation</a></div>
-    <div><a href="http://www.timeslive.co.za/world/2016/01/15/One-person-brain-dead-five-hospitalised-after-French-drug-trial-mishap-minister">One person brain-dead, five hospitalised after French drug trial mishap: minister</a></div>
-    <div><a href="http://www.timeslive.co.za/sport/soccer/2016/01/15/Mark-Mayambela-to-join-SuperSport-United-immediately">Mark Mayambela to join SuperSport United immediately </a></div>
-    <div><a href="http://www.timeslive.co.za/lifestyle/2016/01/15/Happiness-Is-it-in-your-DNA">Happiness: Is it in your DNA?</a></div>
-    <div><a href="http://www.timeslive.co.za/politics/2016/01/15/DA-gives-ANC-memo-demanding-Fransman-step-down">DA gives ANC memo demanding Fransman step down</a></div>
-    <div><a href="http://www.timeslive.co.za/entertainment/celebrity/2016/01/15/David-Bowies-family-to-hold-small-private-funeral">David Bowie's family to hold small, private funeral</a></div>
-    <div><a href="http://www.timeslive.co.za/world/2016/01/15/Indonesia-arrests-three-after-attack-search-on-for-more-jihadis">Indonesia arrests three after attack, search on for more jihadis</a></div>
     </div>
                         </div>
                     </div>
@@ -2047,7 +2078,7 @@ function CloseAddSpace()
 <div id="infobar">
 			    <!-- Start topics ################################################################################# -->
 			   
-			        <form name="searchActionForm" id="tagSearch" method="post" action="/search/;jsessionid=CF4C1914E81AEDB39CC596EFF645EC0A.present2.escenic.avusa.co.za"><div id="topics">
+			        <form name="searchActionForm" id="tagSearch" method="post" action="/search/;jsessionid=2FE22E76B71ABDEB5C1439E110A8F9FD.present1.escenic.avusa.co.za"><div id="topics">
 			                        
 			                        &nbsp;
 			                </div>
@@ -2233,37 +2264,37 @@ $(document).ready(function() {
 <strong>
 								All Share					
 							
-					: 46941.92</strong>
+					: 46960.37</strong>
 <br>
-<span>DOWN -1.58%
+<span>DOWN -1.55%
 					</span>
 </div><div class="minicol down">
 <strong>Top40 - (Tradeable)
-					: 42036.49</strong>
+					: 42105</strong>
 <br>
-<span>DOWN -1.65%
+<span>DOWN -1.49%
 					</span>
 </div><div class="minicol down">
 <strong>
 								Financial 15
 							
-					: 13620.41</strong>
+					: 13683.43</strong>
 <br>
-<span>DOWN -2.94%
+<span>DOWN -2.49%
 					</span>
 </div><div class="minicol down">
 <strong>
 								Industrial 25
 							
-					: 67049.73</strong>
+					: 67064.02</strong>
 <br>
-<span>DOWN -1.21%
+<span>DOWN -1.19%
 					</span>
 </div><div class="minicol down">
 <strong>Resource 10
-					: 23125.72</strong>
+					: 23093.35</strong>
 <br>
-<span>DOWN -1.76%
+<span>DOWN -1.90%
 					</span>
 </div>
 <div class="minicol suppliedby"></div>
@@ -2271,67 +2302,67 @@ $(document).ready(function() {
 						</li>
 						<li style="width:750px"><div class="minicol up">
 <strong>ZAR/USD
-					: 16.7377</strong>
+					: 16.815</strong>
 <br>
-<span>UP 1.72%
+<span>UP 0.18%
 					</span>
-</div><div class="minicol up">
+</div><div class="minicol down">
 <strong>ZAR/GBP
-					: 23.9922</strong>
+					: 23.8949</strong>
 <br>
-<span>UP 1.42%
+<span>DOWN -0.06%
 					</span>
 </div><div class="minicol up">
 <strong>ZAR/EUR
-					: 18.3453</strong>
+					: 18.345</strong>
 <br>
-<span>UP 2.75%
+<span>UP 0.08%
 					</span>
 </div><div class="minicol up">
 <strong>ZAR/JPY
-					: 0.1427</strong>
+					: 0.1432</strong>
 <br>
-<span>UP 2.88%
+<span>UP 0.07%
 					</span>
 </div><div class="minicol down">
 <strong>ZAR/AUD
-					: 11.4548</strong>
+					: 11.5075</strong>
 <br>
-<span>DOWN -0.23%
+<span>DOWN -0.35%
 					</span>
 </div>
 <div class="minicol suppliedby"></div>
 							<div class="clear"></div><br />
 						</li>
-						<li style="width:750px"><div class="minicol up">
+						<li style="width:750px"><div class="minicol">
 <strong>Gold US$/oz
-					: 1096.07</strong>
+					: 1088.61</strong>
 <br>
-<span>UP 1.63%
+<span>UNCHANGED0.00%
 					</span>
-</div><div class="minicol up">
+</div><div class="minicol">
 <strong>Platinum US$/oz
-					: 839.68</strong>
+					: 830.1</strong>
 <br>
-<span>UP 0.61%
+<span>UNCHANGED0.00%
 					</span>
-</div><div class="minicol up">
+</div><div class="minicol">
 <strong>Silver US$/oz
-					: 14.09</strong>
+					: 13.92</strong>
 <br>
-<span>UP 1.81%
+<span>UNCHANGED0.00%
 					</span>
-</div><div class="minicol up">
+</div><div class="minicol">
 <strong>Palladium US$/oz
-					: 494.41</strong>
+					: 495.25</strong>
 <br>
-<span>UP 0.50%
+<span>UNCHANGED0.00%
 					</span>
-</div><div class="minicol down">
+</div><div class="minicol">
 <strong>Brent Crude
-					: 29.57</strong>
+					: 29.22</strong>
 <br>
-<span>DOWN -4.71%
+<span>UNCHANGED0.00%
 					</span>
 </div>
 <div class="minicol suppliedby"></div>
@@ -2354,7 +2385,7 @@ $(document).ready(function() {
 
 
                 <div style="display:none">
-    Fri Jan 15 16:46:14 SAST 2016</div>
+    Sun Jan 17 23:29:47 SAST 2016</div>
 <script type="text/javascript">
     var CurrentUserID = ;
     var CurrentArticleID = 3642273;
@@ -2677,18 +2708,80 @@ be affordable to patients everywhere.     
         </ul>
 
     <div class="tabContent">
-            <input type="hidden" name="fromDate" value="Fri Jan 15 00:00:00 SAST 2016">
-<input type="hidden" name="toDate" value="Fri Jan 15 23:59:59 SAST 2016">
+            <input type="hidden" name="fromDate" value="Sun Jan 17 00:00:00 SAST 2016">
+<input type="hidden" name="toDate" value="Sun Jan 17 23:59:59 SAST 2016">
 
 <ul>
             <li>
                         <h2 style="width:57px; height:57px; padding:0px">1</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2016/01/14/Ranger-accidentally-shoots-colleague-while-being-charged-by-buffalo">
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/15/South-African-telescope-helps-unveil-‘the-most-powerful-supernova-discovered-in-human-history’">
                                 <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
-                                     src="http://www.timeslive.co.za/incoming/2016/01/09/buffalo.jpg/ALTERNATES/crop_55x55/buffalo.jpg">
+                                     src="http://www.timeslive.co.za/incoming/2016/01/15/salt.jpg/ALTERNATES/crop_55x55/SALT.JPG">
                             </a>
                         <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/14/Ranger-accidentally-shoots-colleague-while-being-charged-by-buffalo">Ranger accidentally shoots colleague while being charged by buffalo</a></h3>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/15/South-African-telescope-helps-unveil-‘the-most-powerful-supernova-discovered-in-human-history’">South African telescope helps unveil ‘the most powerful supernova discovered in human history’</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">2</h2>
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/15/SaveWhatsApp-petition-launches-as-mobile-networks-seek-regulation">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/incoming/2014/04/23/whatsapp/ALTERNATES/crop_55x55/whatsapp">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/15/SaveWhatsApp-petition-launches-as-mobile-networks-seek-regulation">#SaveWhatsApp petition launches as mobile networks seek regulation</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">3</h2>
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/07/Pornhub-reveals-what-people-watched-in-2015">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/Getty_Images/2015/05/05/472208394-05-05-2015-09-05-06-675.jpg/ALTERNATES/crop_55x55/472208394-05-05-2015-09-05-06-675.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/07/Pornhub-reveals-what-people-watched-in-2015">Pornhub reveals what people watched in 2015</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">4</h2>
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/14/Family-of-Angolan-rebel-Savimbi-sue-over-Call-of-Duty-character">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/Reuters_Images/2014/11/03/2014-06-12t022928z_01_loa018_rtridsp_3_videogaming-12-06-2014-04-06-09-505.jpg/ALTERNATES/crop_55x55/2014-06-12T022928Z_01_LOA018_RTRIDSP_3_VIDEOGAMING-12-06-2014-04-06-09-505.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/14/Family-of-Angolan-rebel-Savimbi-sue-over-Call-of-Duty-character">Family of Angolan rebel Savimbi sue over 'Call of Duty' character</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">5</h2>
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/14/Rietvlei-Dam-pollution-is-giving-fish-sex-changes-report">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/incoming/2016/01/14/male-female-symbol.jpg/ALTERNATES/crop_55x55/Male+female+symbol.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/14/Rietvlei-Dam-pollution-is-giving-fish-sex-changes-report">Rietvlei Dam pollution is giving fish sex changes: report</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                </ul>
+    </div>
+        <div class="tabContent">
+            <input type="hidden" name="fromDate" value="Sun Jan 10 00:00:00 SAST 2016">
+<input type="hidden" name="toDate" value="Sun Jan 17 23:59:59 SAST 2016">
+
+<ul>
+            <li>
+                        <h2 style="width:57px; height:57px; padding:0px">1</h2>
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/07/Pornhub-reveals-what-people-watched-in-2015">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/Feeds/Getty_Images/2015/05/05/472208394-05-05-2015-09-05-06-675.jpg/ALTERNATES/crop_55x55/472208394-05-05-2015-09-05-06-675.jpg">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/07/Pornhub-reveals-what-people-watched-in-2015">Pornhub reveals what people watched in 2015</a></h3>
                         </div>
                         <div class="clear"></div>
                     </li>
@@ -2705,96 +2798,34 @@ be affordable to patients everywhere.     
                     </li>
                 <li>
                         <h2 style="width:57px; height:57px; padding:0px">3</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2016/01/14/Rietvlei-Dam-pollution-is-giving-fish-sex-changes-report">
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/15/SaveWhatsApp-petition-launches-as-mobile-networks-seek-regulation">
                                 <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
-                                     src="http://www.timeslive.co.za/incoming/2016/01/14/male-female-symbol.jpg/ALTERNATES/crop_55x55/Male+female+symbol.jpg">
+                                     src="http://www.timeslive.co.za/incoming/2014/04/23/whatsapp/ALTERNATES/crop_55x55/whatsapp">
                             </a>
                         <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/14/Rietvlei-Dam-pollution-is-giving-fish-sex-changes-report">Rietvlei Dam pollution is giving fish sex changes: report</a></h3>
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/15/SaveWhatsApp-petition-launches-as-mobile-networks-seek-regulation">#SaveWhatsApp petition launches as mobile networks seek regulation</a></h3>
                         </div>
                         <div class="clear"></div>
                     </li>
                 <li>
                         <h2 style="width:57px; height:57px; padding:0px">4</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2016/01/14/Experts-quit-Broadband-council">
-                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
-                                     src="http://www.timeslive.co.za/sundaytimes/2011/11/19/arthur-goldstuck.jpg/ALTERNATES/crop_55x55/Arthur+Goldstuck.jpg">
-                            </a>
-                        <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/14/Experts-quit-Broadband-council">Experts quit Broadband council</a></h3>
-                        </div>
-                        <div class="clear"></div>
-                    </li>
-                <li>
-                        <h2 style="width:57px; height:57px; padding:0px">5</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2016/01/14/South-Africa-opposes-destruction-of-illegal-ivory">
-                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
-                                     src="http://www.timeslive.co.za/Feeds/ipad_images/2014/07/03/ttp9ivory06-05-06-2014-18-06-03-384-.jpg/ALTERNATES/crop_55x55/TTP9IVORY06-05-06-2014-18-06-03-384-.jpg">
-                            </a>
-                        <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/14/South-Africa-opposes-destruction-of-illegal-ivory">South Africa opposes destruction of illegal ivory</a></h3>
-                        </div>
-                        <div class="clear"></div>
-                    </li>
-                </ul>
-    </div>
-        <div class="tabContent">
-            <input type="hidden" name="fromDate" value="Fri Jan 08 00:00:00 SAST 2016">
-<input type="hidden" name="toDate" value="Fri Jan 15 23:59:59 SAST 2016">
-
-<ul>
-            <li>
-                        <h2 style="width:57px; height:57px; padding:0px">1</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2016/01/07/Pornhub-reveals-what-people-watched-in-2015">
-                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
-                                     src="http://www.timeslive.co.za/Feeds/Getty_Images/2015/05/05/472208394-05-05-2015-09-05-06-675.jpg/ALTERNATES/crop_55x55/472208394-05-05-2015-09-05-06-675.jpg">
-                            </a>
-                        <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/07/Pornhub-reveals-what-people-watched-in-2015">Pornhub reveals what people watched in 2015</a></h3>
-                        </div>
-                        <div class="clear"></div>
-                    </li>
-                <li>
-                        <h2 style="width:57px; height:57px; padding:0px">2</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2016/01/08/Welcome-to-the-Anthropocene---five-ways-we-know-we-hijacked-the-planet">
-                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt="A portion of the International Space Station (top) is seen along with a view of the Midwestern United States at night with Aurora Borealis. File picture"
-                                     src="http://www.timeslive.co.za/Feeds/Reuters_Images/2012/03/27/02-11-2011-20-11-00-524mdf54109.jpg/ALTERNATES/crop_55x55/02-11-2011-20-11-00-524mdf54109.jpg">
-                            </a>
-                        <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/08/Welcome-to-the-Anthropocene---five-ways-we-know-we-hijacked-the-planet">Welcome to the Anthropocene - five ways we know we hijacked the planet</a></h3>
-                        </div>
-                        <div class="clear"></div>
-                    </li>
-                <li>
-                        <h2 style="width:57px; height:57px; padding:0px">3</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2014/11/14/snake-commits-suicide-by-biting-its-own-neck">
-                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
-                                     src="http://www.timeslive.co.za/incoming/2014/11/14/brown_tree_snake_boiga_irregularis_2_usgs_photograph.jpg/ALTERNATES/crop_55x55/Brown_tree_snake_Boiga_irregularis_2_USGS_Photograph.jpg">
-                            </a>
-                        <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2014/11/14/snake-commits-suicide-by-biting-its-own-neck">Snake commits suicide by biting its own neck?</a></h3>
-                        </div>
-                        <div class="clear"></div>
-                    </li>
-                <li>
-                        <h2 style="width:57px; height:57px; padding:0px">4</h2>
-                        <a href="http://www.timeslive.co.za/scitech/2016/01/07/MultiChoice-welcomes-competition-from-Netflix">
-                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
-                                     src="http://www.timeslive.co.za/Feeds/ipad_images/2016/01/07/reed-hastings/ALTERNATES/crop_55x55/Reed+Hastings">
-                            </a>
-                        <div class="most_popular_link_container">
-                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/07/MultiChoice-welcomes-competition-from-Netflix">MultiChoice welcomes competition from Netflix</a></h3>
-                        </div>
-                        <div class="clear"></div>
-                    </li>
-                <li>
-                        <h2 style="width:57px; height:57px; padding:0px">5</h2>
                         <a href="http://www.timeslive.co.za/scitech/2016/01/12/The-64373.76-kilometre-fire-under-the-sea">
                                 <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
                                      src="http://www.timeslive.co.za/Feeds/Reuters_Images/2015/05/07/science-microorganisms-06-05-2015-19-05-07-798.jpg/ALTERNATES/crop_55x55/SCIENCE-MICROORGANISMS-06-05-2015-19-05-07-798.jpg">
                             </a>
                         <div class="most_popular_link_container">
                             <h3><a href="http://www.timeslive.co.za/scitech/2016/01/12/The-64373.76-kilometre-fire-under-the-sea">The 64,373.76 kilometre fire under the sea</a></h3>
+                        </div>
+                        <div class="clear"></div>
+                    </li>
+                <li>
+                        <h2 style="width:57px; height:57px; padding:0px">5</h2>
+                        <a href="http://www.timeslive.co.za/scitech/2016/01/15/South-African-telescope-helps-unveil-‘the-most-powerful-supernova-discovered-in-human-history’">
+                                <img width="55px" height="55px" class="thumbnail thumbnopadbottom" alt=""
+                                     src="http://www.timeslive.co.za/incoming/2016/01/15/salt.jpg/ALTERNATES/crop_55x55/SALT.JPG">
+                            </a>
+                        <div class="most_popular_link_container">
+                            <h3><a href="http://www.timeslive.co.za/scitech/2016/01/15/South-African-telescope-helps-unveil-‘the-most-powerful-supernova-discovered-in-human-history’">South African telescope helps unveil ‘the most powerful supernova discovered in human history’</a></h3>
                         </div>
                         <div class="clear"></div>
                     </li>
@@ -2810,35 +2841,35 @@ be affordable to patients everywhere.     
 
 
 <div class="blurb featured">
-						<a href="http://www.timeslive.co.za/scitech/2016/01/14/Local-is-lekker-for-a-braai---South-African-meat-leaner-than-US-Australian"> <img width="140px" height="110px"
-								src="http://www.timeslive.co.za/Feeds/ipad_images/2013/10/08/sirloin-steak.jpg/ALTERNATES/crop_140x110/Sirloin+steak.jpg"
+						<a href="http://www.timeslive.co.za/scitech/2016/01/15/Fourth-rhino-calf-born-at-Aquila-in-three-months"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/incoming/2015/12/26/rhino27.jpg/ALTERNATES/crop_140x110/rhino27.jpg"
 								alt=""
 								class="thumbnail" />
 							</a>
 						<h3>
-							<a href="http://www.timeslive.co.za/scitech/2016/01/14/Local-is-lekker-for-a-braai---South-African-meat-leaner-than-US-Australian">Local is lekker for a braai - South African meat leaner than US, Australian</a>
+							<a href="http://www.timeslive.co.za/scitech/2016/01/15/Fourth-rhino-calf-born-at-Aquila-in-three-months">Fourth rhino calf born at Aquila in three months</a>
 						</h3>
 						<div class="clear"></div>
 					</div>
 				<div class="blurb featured">
-						<a href="http://www.timeslive.co.za/scitech/2016/01/12/The-64373.76-kilometre-fire-under-the-sea"> <img width="140px" height="110px"
-								src="http://www.timeslive.co.za/Feeds/Reuters_Images/2015/05/07/science-microorganisms-06-05-2015-19-05-07-798.jpg/ALTERNATES/crop_140x110/SCIENCE-MICROORGANISMS-06-05-2015-19-05-07-798.jpg"
+						<a href="http://www.timeslive.co.za/scitech/2016/01/14/Experts-quit-Broadband-council"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/sundaytimes/2011/11/19/arthur-goldstuck.jpg/ALTERNATES/crop_140x110/Arthur+Goldstuck.jpg"
 								alt=""
 								class="thumbnail" />
 							</a>
 						<h3>
-							<a href="http://www.timeslive.co.za/scitech/2016/01/12/The-64373.76-kilometre-fire-under-the-sea">The 64,373.76 kilometre fire under the sea</a>
+							<a href="http://www.timeslive.co.za/scitech/2016/01/14/Experts-quit-Broadband-council">Experts quit Broadband council</a>
 						</h3>
 						<div class="clear"></div>
 					</div>
 				<div class="blurb featured">
-						<a href="http://www.timeslive.co.za/scitech/2016/01/13/Cheap-oil-costing-solar-investors"> <img width="140px" height="110px"
-								src="http://www.timeslive.co.za/Feeds/Reuters_Images/2016/01/13/2016-01-13t053841z_01_ftf811_rtridsp_3_usa-obama-13-01-2016-07-01-14-222.jpg/ALTERNATES/crop_140x110/2016-01-13T053841Z_01_FTF811_RTRIDSP_3_USA-OBAMA-13-01-2016-07-01-14-222.jpg"
+						<a href="http://www.timeslive.co.za/scitech/2016/01/14/Ranger-accidentally-shoots-colleague-while-being-charged-by-buffalo"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/incoming/2016/01/09/buffalo.jpg/ALTERNATES/crop_140x110/buffalo.jpg"
 								alt=""
 								class="thumbnail" />
 							</a>
 						<h3>
-							<a href="http://www.timeslive.co.za/scitech/2016/01/13/Cheap-oil-costing-solar-investors">Cheap oil costing solar investors</a>
+							<a href="http://www.timeslive.co.za/scitech/2016/01/14/Ranger-accidentally-shoots-colleague-while-being-charged-by-buffalo">Ranger accidentally shoots colleague while being charged by buffalo</a>
 						</h3>
 						<div class="clear"></div>
 					</div>
@@ -2854,13 +2885,13 @@ be affordable to patients everywhere.     
 						<div class="clear"></div>
 					</div>
 				<div class="blurb featured">
-						<a href="http://www.timeslive.co.za/scitech/2016/01/13/Climate-change---how-icebergs-fight-back"> <img width="140px" height="110px"
-								src="http://www.timeslive.co.za/incoming/2015/02/05/an-iceberg-in-the-drake-passage.jpg/ALTERNATES/crop_140x110/An+iceberg+in+the+Drake+passage.jpg"
-								alt="An iceberg in the Drake passage"
+						<a href="http://www.timeslive.co.za/scitech/2016/01/15/Nuclear-facilities-in-20-countries-may-be-easy-targets-for-cyberattacks"> <img width="140px" height="110px"
+								src="http://www.timeslive.co.za/Feeds/Reuters_Images/2015/06/21/binary-code/ALTERNATES/crop_140x110/binary+code"
+								alt=""
 								class="thumbnail" />
 							</a>
 						<h3>
-							<a href="http://www.timeslive.co.za/scitech/2016/01/13/Climate-change---how-icebergs-fight-back">Climate change - how icebergs fight back</a>
+							<a href="http://www.timeslive.co.za/scitech/2016/01/15/Nuclear-facilities-in-20-countries-may-be-easy-targets-for-cyberattacks">Nuclear facilities in 20 countries may be easy targets for cyberattacks</a>
 						</h3>
 						<div class="clear"></div>
 					</div>

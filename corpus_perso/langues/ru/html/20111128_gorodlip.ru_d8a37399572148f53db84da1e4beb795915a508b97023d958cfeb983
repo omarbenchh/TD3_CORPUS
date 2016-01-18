@@ -191,8 +191,8 @@
                     
                     <div class="time">
                             <!--<div class="watch">00:00</div>-->
-                                                          <div class="date">15 января 2016</div>
-                              <div class="day">пятница</div>
+                                                          <div class="date">18 января 2016</div>
+                              <div class="day">понедельник</div>
                                                 </div>
                 </div>
                 
@@ -293,7 +293,7 @@
 				<div class="container">
 					<div class="tops">
 						<div class="notice">
-						<img src="/website/static/img/prazdniki/Jan/15.png" style="height: 60px; float: left;"/>
+						<img src="/website/static/img/prazdniki/Jan/18.png" style="height: 60px; float: left;"/>
 						<!--h2 style="width: 230px;float: left;margin-top: 2px;">29 декабря</h2>
 						День розыска забытых благодарностей<br />
 					 
@@ -532,7 +532,7 @@ if (Math.floor(Math.random()*10)>4){
 
         </div>
         <div class="counter">
-            <img src="http://www.vorle.ru/counter/48x1x145287269.png">
+            <img src="http://www.vorle.ru/counter/48x1x145306437.png">
             <img class="block18" src="/portal/design/18.png">
         </div>
         <div class="f468 place_b">

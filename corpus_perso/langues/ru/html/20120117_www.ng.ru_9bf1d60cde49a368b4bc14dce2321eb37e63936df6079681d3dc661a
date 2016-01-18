@@ -38,11 +38,11 @@
 <link href="/bitrix/templates/ng/styles.css?1423744213" type="text/css" rel="stylesheet" />
 <link href="/bitrix/templates/ng/template_styles.css?1421947408" type="text/css" rel="stylesheet" />
 <script type="text/javascript" src="/bitrix/js/main/core/core.js?1350999602"></script>
-<script type="text/javascript">BX.message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1452869408','SERVER_TZ_OFFSET':'10800','USER_TZ_OFFSET':'0','bitrix_sessid':'a9b805ad7a635fa15d39176e438a629b','SITE_ID':'s1','JS_CORE_LOADING':'Загрузка...','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с'})</script>
+<script type="text/javascript">BX.message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','USER_ID':'','SERVER_TIME':'1453066431','SERVER_TZ_OFFSET':'10800','USER_TZ_OFFSET':'0','bitrix_sessid':'59a90b7607f1a14257a1b94d5b706082','SITE_ID':'s1','JS_CORE_LOADING':'Загрузка...','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с'})</script>
 <script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1350999602"></script>
 <script type="text/javascript" src="/bitrix/js/main/session.js?1350999602"></script>
 <script type="text/javascript">
-bxSession.Expand(21600, 'a9b805ad7a635fa15d39176e438a629b', false, '83280cd78250b79753125177135de168');
+bxSession.Expand(21600, '59a90b7607f1a14257a1b94d5b706082', false, 'ffe3137a8b085d90fe357e99683b45dc');
 </script>
 <script type="text/javascript" src="/bitrix/js/main/core/core_window.js?1350999602"></script>
 <meta property="og:type" content="article" />
@@ -141,7 +141,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 			<div class="top">
 				<div class="wrapper">
 					<div class="datetime">
-						<span class="date">Пятница 15.01.2016</span>&nbsp;<span id="timer" class="time">17:50</span>
+						<span class="date">Понедельник 18.01.2016</span>&nbsp;<span id="timer" class="time">00:33</span>
 					</div>
 											<noindex>
 						<div class="enterBlock" id="loginBlock">
@@ -230,14 +230,13 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 			<div class="wrapper">
 				<a href="/" id="logo"><img src="/bitrix/templates/ng//i/logo.png" alt="Независимая" title="Независимая" height="67" width="290"/></a>                                <div class="middle" style="display: inline-flex;">
 	<div class="apps" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">свежие приложения:&nbsp;&nbsp;
-						<a href="http://www.ng.ru/antrakt/">Антракт</a>
-		 и 						<a href="http://www.ng.ru/nvo/">НВО</a>
+						<a href="http://www.ng.ru/dipkurer/">Дипкурьер</a>
 							</div>
 
 			<div class="hapBith">
 			<div class="ramka">&nbsp;</div>
-						<a href="http://www.ng.ru/nvo/2016-01-15/1_bomb.html"><img src="/upload/resize_cache/iblock/2e4/70_70_2/1-1-1.jpg" alt="Бомба для первого председателя" width="63" height="70" /></a>
-	        <a href="http://www.ng.ru/nvo/2016-01-15/1_bomb.html"><span>Бомба для первого председателя</span></a>
+						<a href="http://www.ng.ru/dipkurer/2016-01-18/9_minsk3.html"><img src="/upload/resize_cache/iblock/f0d/70_70_2/6-9-1_s.jpg" alt="Минск-3: невозможен или неизбежен?" width="63" height="70" /></a>
+	        <a href="http://www.ng.ru/dipkurer/2016-01-18/9_minsk3.html"><span>Минск-3: невозможен или неизбежен?</span></a>
 		</div>
 	</div>				<div class="mainnav">
 					<nav class="mainmenu">
@@ -278,35 +277,34 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 <div class="headanons">
                                     
             <div class="anonce">
-                                                                <img src="/bitrix/templates/ng/i/default_picture_60.jpg" width="60" height="60" />
+                                                                                        <img src="/upload/resize_cache/iblock/b09/60_60_2/6-7-1_s.jpg" alt="Мединский: Цензуры нет, и заниматься ею в Минкультуры некому" />
                     
-                    <a href="/news/529594.html">
-                                                    Новости
-                                            </a>
-                    <p><a href="/news/529594.html">Юдаева: Банк России может повысить ключевую ставку</a></p>
+                    <a href="http://www.ng.ru/culture/2016-01-18/7_medinskiy.html">
+                                                	Культура                                            </a>
+                    <p><a href="http://www.ng.ru/culture/2016-01-18/7_medinskiy.html">Мединский: Цензуры нет, и заниматься ею в Минкультуры некому</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">501</div>
-	<div class="share" data-id-button="5295946" id="shareCounter_5295946" title="Поделиться в соцсетях">
+	<div class="stat" title="Количество просмотров">101</div>
+	<div class="share" data-id-button="5296706" id="shareCounter_5296706" title="Поделиться в соцсетях">
 	<span>1</span>
-	<div class="shareBlock" id="shareBlock_5295946" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
+	<div class="shareBlock" id="shareBlock_5296706" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
 		<ul>
-				<li onclick="incSocnetCounter(529594, 'ELEMENT', 'twitter', 5295946);">
+				<li onclick="incSocnetCounter(529670, 'ELEMENT', 'twitter', 5296706);">
 		<script>
 if (__function_exists('twitter_click_6') == false) 
 {
 function twitter_click_6(longUrl) 
 { 
-window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Юдаева: Банк России может повысить ключевую ставку'),'sharer','toolbar=0,status=0,width=726,height=436'); 
+window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Мединский: Цензуры нет, и заниматься ею в Минкультуры некому'),'sharer','toolbar=0,status=0,width=726,height=436'); 
 return false; 
 } 
 }
 </script>
-<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/news/529594.html+Юдаева: Банк России может повысить ключевую ставку" onclick="return twitter_click_6('http://www.ng.ru/news/529594.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
+<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/culture/2016-01-18/7_medinskiy.html+Мединский: Цензуры нет, и заниматься ею в Минкультуры некому" onclick="return twitter_click_6('http://www.ng.ru/culture/2016-01-18/7_medinskiy.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
 </li>
-				<li onclick="incSocnetCounter(529594, 'ELEMENT', 'facebook', 5295946);">
+				<li onclick="incSocnetCounter(529670, 'ELEMENT', 'facebook', 5296706);">
 		<script>
 if (__function_exists('fbs_click') == false) 
 {
@@ -317,9 +315,9 @@ return false;
 } 
 }
 </script>
-<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/news/529594.html&t=Юдаева: Банк России может повысить ключевую ставку" onclick="return fbs_click('http://www.ng.ru/news/529594.html', 'Юдаева: Банк России может повысить ключевую ставку');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
+<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/culture/2016-01-18/7_medinskiy.html&t=Мединский: Цензуры нет, и заниматься ею в Минкультуры некому" onclick="return fbs_click('http://www.ng.ru/culture/2016-01-18/7_medinskiy.html', 'Мединский: Цензуры нет, и заниматься ею в Минкультуры некому');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
 </li>
-				<li onclick="incSocnetCounter(529594, 'ELEMENT', 'lj', 5295946);">
+				<li onclick="incSocnetCounter(529670, 'ELEMENT', 'lj', 5296706);">
 		<script>
 if (__function_exists('lj_click') == false) 
 {
@@ -330,7 +328,7 @@ return false;
 } 
 }
 </script>
-<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/news/529594.html&subject=Юдаева: Банк России может повысить ключевую ставку" onclick="return lj_click('http://www.ng.ru/news/529594.html', 'Юдаева: Банк России может повысить ключевую ставку');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
+<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/culture/2016-01-18/7_medinskiy.html&subject=Мединский: Цензуры нет, и заниматься ею в Минкультуры некому" onclick="return lj_click('http://www.ng.ru/culture/2016-01-18/7_medinskiy.html', 'Мединский: Цензуры нет, и заниматься ею в Минкультуры некому');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
 </li>
 				</ul>
 	</div>
@@ -339,35 +337,34 @@ return false;
                             </div><!-- /.anonce -->
             	                            
             <div class="anonce">
-                                                                <img src="/bitrix/templates/ng/i/default_picture_60.jpg" width="60" height="60" />
+                                                                                        <img src="/upload/resize_cache/iblock/3ee/60_60_2/NATO_R_c.gif" alt="Москва опасается конфликта в Черном море" />
                     
-                    <a href="/news/529592.html">
-                                                    Новости
-                                            </a>
-                    <p><a href="/news/529592.html">Лукашенко призвал сограждан радоваться обильному снегопаду</a></p>
+                    <a href="http://www.ng.ru/armies/2016-01-18/2_conflict.html">
+                                                	Воины и Армии                                            </a>
+                    <p><a href="http://www.ng.ru/armies/2016-01-18/2_conflict.html">Москва опасается конфликта в Черном море</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">486</div>
-	<div class="share" data-id-button="5295927" id="shareCounter_5295927" title="Поделиться в соцсетях">
+	<div class="stat" title="Количество просмотров">630</div>
+	<div class="share" data-id-button="5296987" id="shareCounter_5296987" title="Поделиться в соцсетях">
 	<span>1</span>
-	<div class="shareBlock" id="shareBlock_5295927" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
+	<div class="shareBlock" id="shareBlock_5296987" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
 		<ul>
-				<li onclick="incSocnetCounter(529592, 'ELEMENT', 'twitter', 5295927);">
+				<li onclick="incSocnetCounter(529698, 'ELEMENT', 'twitter', 5296987);">
 		<script>
 if (__function_exists('twitter_click_7') == false) 
 {
 function twitter_click_7(longUrl) 
 { 
-window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Лукашенко призвал сограждан радоваться обильному снегопаду'),'sharer','toolbar=0,status=0,width=726,height=436'); 
+window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Москва опасается конфликта в Черном море'),'sharer','toolbar=0,status=0,width=726,height=436'); 
 return false; 
 } 
 }
 </script>
-<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/news/529592.html+Лукашенко призвал сограждан радоваться обильному снегопаду" onclick="return twitter_click_7('http://www.ng.ru/news/529592.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
+<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/armies/2016-01-18/2_conflict.html+Москва опасается конфликта в Черном море" onclick="return twitter_click_7('http://www.ng.ru/armies/2016-01-18/2_conflict.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
 </li>
-				<li onclick="incSocnetCounter(529592, 'ELEMENT', 'facebook', 5295927);">
+				<li onclick="incSocnetCounter(529698, 'ELEMENT', 'facebook', 5296987);">
 		<script>
 if (__function_exists('fbs_click') == false) 
 {
@@ -378,9 +375,9 @@ return false;
 } 
 }
 </script>
-<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/news/529592.html&t=Лукашенко призвал сограждан радоваться обильному снегопаду" onclick="return fbs_click('http://www.ng.ru/news/529592.html', 'Лукашенко призвал сограждан радоваться обильному снегопаду');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
+<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/armies/2016-01-18/2_conflict.html&t=Москва опасается конфликта в Черном море" onclick="return fbs_click('http://www.ng.ru/armies/2016-01-18/2_conflict.html', 'Москва опасается конфликта в Черном море');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
 </li>
-				<li onclick="incSocnetCounter(529592, 'ELEMENT', 'lj', 5295927);">
+				<li onclick="incSocnetCounter(529698, 'ELEMENT', 'lj', 5296987);">
 		<script>
 if (__function_exists('lj_click') == false) 
 {
@@ -391,7 +388,7 @@ return false;
 } 
 }
 </script>
-<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/news/529592.html&subject=Лукашенко призвал сограждан радоваться обильному снегопаду" onclick="return lj_click('http://www.ng.ru/news/529592.html', 'Лукашенко призвал сограждан радоваться обильному снегопаду');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
+<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/armies/2016-01-18/2_conflict.html&subject=Москва опасается конфликта в Черном море" onclick="return lj_click('http://www.ng.ru/armies/2016-01-18/2_conflict.html', 'Москва опасается конфликта в Черном море');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
 </li>
 				</ul>
 	</div>
@@ -400,34 +397,34 @@ return false;
                             </div><!-- /.anonce -->
             	                            
             <div class="anonce">
-                                                                                        <img src="/upload/resize_cache/iblock/7c0/60_60_2/1-10-1.jpg" alt="Победа в войне должна быть достигнута еще до первого выстрела" />
+                                                                                        <img src="/upload/resize_cache/iblock/fa9/60_60_2/6-11-1_s.jpg" alt="Украина на пороге новых испытаний" />
                     
-                    <a href="http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html">
-                                                	Концепции                                            </a>
-                    <p><a href="http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html">Победа в войне должна быть достигнута еще до первого выстрела</a></p>
+                    <a href="http://www.ng.ru/courier/2016-01-18/11_ukraine.html">
+                                                	Дипкурьер                                            </a>
+                    <p><a href="http://www.ng.ru/courier/2016-01-18/11_ukraine.html">Украина на пороге новых испытаний</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">1069</div>
-	<div class="share" data-id-button="5293938" id="shareCounter_5293938" title="Поделиться в соцсетях">
+	<div class="stat" title="Количество просмотров">157</div>
+	<div class="share" data-id-button="5296648" id="shareCounter_5296648" title="Поделиться в соцсетях">
 	<span>0</span>
-	<div class="shareBlock" id="shareBlock_5293938" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
+	<div class="shareBlock" id="shareBlock_5296648" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
 		<ul>
-				<li onclick="incSocnetCounter(529393, 'ELEMENT', 'twitter', 5293938);">
+				<li onclick="incSocnetCounter(529664, 'ELEMENT', 'twitter', 5296648);">
 		<script>
 if (__function_exists('twitter_click_8') == false) 
 {
 function twitter_click_8(longUrl) 
 { 
-window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Победа в войне должна быть достигнута еще до первого выстрела'),'sharer','toolbar=0,status=0,width=726,height=436'); 
+window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Украина на пороге новых испытаний'),'sharer','toolbar=0,status=0,width=726,height=436'); 
 return false; 
 } 
 }
 </script>
-<a class="twitter" href="http://twitter.com/home/?status=http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html+Победа в войне должна быть достигнута еще до первого выстрела" onclick="return twitter_click_8('http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
+<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/courier/2016-01-18/11_ukraine.html+Украина на пороге новых испытаний" onclick="return twitter_click_8('http://www.ng.ru/courier/2016-01-18/11_ukraine.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
 </li>
-				<li onclick="incSocnetCounter(529393, 'ELEMENT', 'facebook', 5293938);">
+				<li onclick="incSocnetCounter(529664, 'ELEMENT', 'facebook', 5296648);">
 		<script>
 if (__function_exists('fbs_click') == false) 
 {
@@ -438,9 +435,9 @@ return false;
 } 
 }
 </script>
-<a class="facebook" href="http://www.facebook.com/share.php?u=http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html&t=Победа в войне должна быть достигнута еще до первого выстрела" onclick="return fbs_click('http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html', 'Победа в войне должна быть достигнута еще до первого выстрела');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
+<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/courier/2016-01-18/11_ukraine.html&t=Украина на пороге новых испытаний" onclick="return fbs_click('http://www.ng.ru/courier/2016-01-18/11_ukraine.html', 'Украина на пороге новых испытаний');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
 </li>
-				<li onclick="incSocnetCounter(529393, 'ELEMENT', 'lj', 5293938);">
+				<li onclick="incSocnetCounter(529664, 'ELEMENT', 'lj', 5296648);">
 		<script>
 if (__function_exists('lj_click') == false) 
 {
@@ -451,7 +448,7 @@ return false;
 } 
 }
 </script>
-<a class="lj" href="http://www.livejournal.com/update.bml?event=http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html&subject=Победа в войне должна быть достигнута еще до первого выстрела" onclick="return lj_click('http://nvo.ng.ru/concepts/2016-01-15/10_infowar.html', 'Победа в войне должна быть достигнута еще до первого выстрела');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
+<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/courier/2016-01-18/11_ukraine.html&subject=Украина на пороге новых испытаний" onclick="return lj_click('http://www.ng.ru/courier/2016-01-18/11_ukraine.html', 'Украина на пороге новых испытаний');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
 </li>
 				</ul>
 	</div>
@@ -460,34 +457,34 @@ return false;
                             </div><!-- /.anonce -->
             	                            
             <div class="anonce">
-                                                                                        <img src="/upload/resize_cache/iblock/973/60_60_2/fil-p.jpg" alt="Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил" />
+                                                                                        <img src="/upload/resize_cache/iblock/e2d/60_60_2/6-4-3_s.jpg" alt="Протесты на Кубани  аукнутся в других  регионах" />
                     
-                    <a href="http://www.ng.ru/titus/2016-01-15/1_filantropia.html">
-                                                	Филантропия                                            </a>
-                    <p><a href="http://www.ng.ru/titus/2016-01-15/1_filantropia.html">Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил</a></p>
+                    <a href="http://www.ng.ru/economics/2016-01-18/1_kuban.html">
+                                                	Экономика                                            </a>
+                    <p><a href="http://www.ng.ru/economics/2016-01-18/1_kuban.html">Протесты на Кубани  аукнутся в других  регионах</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">848</div>
-	<div class="share" data-id-button="5295149" id="shareCounter_5295149" title="Поделиться в соцсетях">
-	<span>0</span>
-	<div class="shareBlock" id="shareBlock_5295149" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
+	<div class="stat" title="Количество просмотров">408</div>
+	<div class="share" data-id-button="5296949" id="shareCounter_5296949" title="Поделиться в соцсетях">
+	<span>1</span>
+	<div class="shareBlock" id="shareBlock_5296949" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
 		<ul>
-				<li onclick="incSocnetCounter(529514, 'ELEMENT', 'twitter', 5295149);">
+				<li onclick="incSocnetCounter(529694, 'ELEMENT', 'twitter', 5296949);">
 		<script>
 if (__function_exists('twitter_click_9') == false) 
 {
 function twitter_click_9(longUrl) 
 { 
-window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил'),'sharer','toolbar=0,status=0,width=726,height=436'); 
+window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Протесты на Кубани  аукнутся в других  регионах'),'sharer','toolbar=0,status=0,width=726,height=436'); 
 return false; 
 } 
 }
 </script>
-<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/titus/2016-01-15/1_filantropia.html+Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил" onclick="return twitter_click_9('http://www.ng.ru/titus/2016-01-15/1_filantropia.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
+<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/economics/2016-01-18/1_kuban.html+Протесты на Кубани  аукнутся в других  регионах" onclick="return twitter_click_9('http://www.ng.ru/economics/2016-01-18/1_kuban.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
 </li>
-				<li onclick="incSocnetCounter(529514, 'ELEMENT', 'facebook', 5295149);">
+				<li onclick="incSocnetCounter(529694, 'ELEMENT', 'facebook', 5296949);">
 		<script>
 if (__function_exists('fbs_click') == false) 
 {
@@ -498,9 +495,9 @@ return false;
 } 
 }
 </script>
-<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/titus/2016-01-15/1_filantropia.html&t=Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил" onclick="return fbs_click('http://www.ng.ru/titus/2016-01-15/1_filantropia.html', 'Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
+<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/economics/2016-01-18/1_kuban.html&t=Протесты на Кубани  аукнутся в других  регионах" onclick="return fbs_click('http://www.ng.ru/economics/2016-01-18/1_kuban.html', 'Протесты на Кубани  аукнутся в других  регионах');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
 </li>
-				<li onclick="incSocnetCounter(529514, 'ELEMENT', 'lj', 5295149);">
+				<li onclick="incSocnetCounter(529694, 'ELEMENT', 'lj', 5296949);">
 		<script>
 if (__function_exists('lj_click') == false) 
 {
@@ -511,7 +508,7 @@ return false;
 } 
 }
 </script>
-<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/titus/2016-01-15/1_filantropia.html&subject=Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил" onclick="return lj_click('http://www.ng.ru/titus/2016-01-15/1_filantropia.html', 'Точка  трезвости. Сказ о том, как Геннадий Онищенко рецепт человеческого счастья предложил');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
+<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/economics/2016-01-18/1_kuban.html&subject=Протесты на Кубани  аукнутся в других  регионах" onclick="return lj_click('http://www.ng.ru/economics/2016-01-18/1_kuban.html', 'Протесты на Кубани  аукнутся в других  регионах');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
 </li>
 				</ul>
 	</div>
@@ -520,35 +517,34 @@ return false;
                             </div><!-- /.anonce -->
             	    	                                
             <div class="anonce">
-                                                                <img src="/bitrix/templates/ng/i/default_picture_60.jpg" width="60" height="60" />
+                                                                                        <img src="/upload/resize_cache/iblock/482/60_60_2/6-3-1_s.jpg" alt="Интеллигенты потребовали отставки Кадырова" />
                     
-                    <a href="/news/529595.html">
-                                                    Новости
-                                            </a>
-                    <p><a href="/news/529595.html">Курс евро превысил 85 руб. впервые с 2014 года</a></p>
+                    <a href="http://www.ng.ru/politics/2016-01-18/1_kadyrov.html">
+                                                	Политика                                            </a>
+                    <p><a href="http://www.ng.ru/politics/2016-01-18/1_kadyrov.html">Интеллигенты потребовали отставки Кадырова</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">322</div>
-	<div class="share" data-id-button="52959510" id="shareCounter_52959510" title="Поделиться в соцсетях">
+	<div class="stat" title="Количество просмотров">218</div>
+	<div class="share" data-id-button="52968310" id="shareCounter_52968310" title="Поделиться в соцсетях">
 	<span>1</span>
-	<div class="shareBlock" id="shareBlock_52959510" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
+	<div class="shareBlock" id="shareBlock_52968310" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
 		<ul>
-				<li onclick="incSocnetCounter(529595, 'ELEMENT', 'twitter', 52959510);">
+				<li onclick="incSocnetCounter(529683, 'ELEMENT', 'twitter', 52968310);">
 		<script>
 if (__function_exists('twitter_click_10') == false) 
 {
 function twitter_click_10(longUrl) 
 { 
-window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Курс евро превысил 85 руб. впервые с 2014 года'),'sharer','toolbar=0,status=0,width=726,height=436'); 
+window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Интеллигенты потребовали отставки Кадырова'),'sharer','toolbar=0,status=0,width=726,height=436'); 
 return false; 
 } 
 }
 </script>
-<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/news/529595.html+Курс евро превысил 85 руб. впервые с 2014 года" onclick="return twitter_click_10('http://www.ng.ru/news/529595.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
+<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/politics/2016-01-18/1_kadyrov.html+Интеллигенты потребовали отставки Кадырова" onclick="return twitter_click_10('http://www.ng.ru/politics/2016-01-18/1_kadyrov.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
 </li>
-				<li onclick="incSocnetCounter(529595, 'ELEMENT', 'facebook', 52959510);">
+				<li onclick="incSocnetCounter(529683, 'ELEMENT', 'facebook', 52968310);">
 		<script>
 if (__function_exists('fbs_click') == false) 
 {
@@ -559,9 +555,9 @@ return false;
 } 
 }
 </script>
-<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/news/529595.html&t=Курс евро превысил 85 руб. впервые с 2014 года" onclick="return fbs_click('http://www.ng.ru/news/529595.html', 'Курс евро превысил 85 руб. впервые с 2014 года');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
+<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/politics/2016-01-18/1_kadyrov.html&t=Интеллигенты потребовали отставки Кадырова" onclick="return fbs_click('http://www.ng.ru/politics/2016-01-18/1_kadyrov.html', 'Интеллигенты потребовали отставки Кадырова');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
 </li>
-				<li onclick="incSocnetCounter(529595, 'ELEMENT', 'lj', 52959510);">
+				<li onclick="incSocnetCounter(529683, 'ELEMENT', 'lj', 52968310);">
 		<script>
 if (__function_exists('lj_click') == false) 
 {
@@ -572,7 +568,7 @@ return false;
 } 
 }
 </script>
-<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/news/529595.html&subject=Курс евро превысил 85 руб. впервые с 2014 года" onclick="return lj_click('http://www.ng.ru/news/529595.html', 'Курс евро превысил 85 руб. впервые с 2014 года');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
+<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/politics/2016-01-18/1_kadyrov.html&subject=Интеллигенты потребовали отставки Кадырова" onclick="return lj_click('http://www.ng.ru/politics/2016-01-18/1_kadyrov.html', 'Интеллигенты потребовали отставки Кадырова');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
 </li>
 				</ul>
 	</div>
@@ -581,35 +577,34 @@ return false;
                             </div><!-- /.anonce -->
             	                            
             <div class="anonce">
-                                                                                        <img src="/upload/resize_cache/iblock/1ae/60_60_2/001.jpg_Thumbnail1.jpg" alt="Учения МЧС проходят в любую погоду" />
+                                                                                        <img src="/upload/resize_cache/iblock/6b5/60_60_2/6-4-4_s.jpg" alt="Пекин обещает вложить деньги в Россию" />
                     
-                    <a href="http://www.ng.ru/photo/3539/">
-                        							Фото
-						                    </a>
-                    <p><a href="http://www.ng.ru/photo/3539/">Учения МЧС проходят в любую погоду</a></p>
+                    <a href="http://www.ng.ru/economics/2016-01-18/4_china.html">
+                                                	Экономика                                            </a>
+                    <p><a href="http://www.ng.ru/economics/2016-01-18/4_china.html">Пекин обещает вложить деньги в Россию</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">486</div>
-	<div class="share" data-id-button="353911" id="shareCounter_353911" title="Поделиться в соцсетях">
+	<div class="stat" title="Количество просмотров">123</div>
+	<div class="share" data-id-button="52970011" id="shareCounter_52970011" title="Поделиться в соцсетях">
 	<span>0</span>
-	<div class="shareBlock" id="shareBlock_353911" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
+	<div class="shareBlock" id="shareBlock_52970011" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
 		<ul>
-				<li onclick="incSocnetCounter(3539, 'ELEMENT', 'twitter', 353911);">
+				<li onclick="incSocnetCounter(529700, 'ELEMENT', 'twitter', 52970011);">
 		<script>
 if (__function_exists('twitter_click_11') == false) 
 {
 function twitter_click_11(longUrl) 
 { 
-window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Учения МЧС проходят в любую погоду'),'sharer','toolbar=0,status=0,width=726,height=436'); 
+window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Пекин обещает вложить деньги в Россию'),'sharer','toolbar=0,status=0,width=726,height=436'); 
 return false; 
 } 
 }
 </script>
-<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/photo/3539/+Учения МЧС проходят в любую погоду" onclick="return twitter_click_11('http://www.ng.ru/photo/3539/');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
+<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/economics/2016-01-18/4_china.html+Пекин обещает вложить деньги в Россию" onclick="return twitter_click_11('http://www.ng.ru/economics/2016-01-18/4_china.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
 </li>
-				<li onclick="incSocnetCounter(3539, 'ELEMENT', 'facebook', 353911);">
+				<li onclick="incSocnetCounter(529700, 'ELEMENT', 'facebook', 52970011);">
 		<script>
 if (__function_exists('fbs_click') == false) 
 {
@@ -620,9 +615,9 @@ return false;
 } 
 }
 </script>
-<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/photo/3539/&t=Учения МЧС проходят в любую погоду" onclick="return fbs_click('http://www.ng.ru/photo/3539/', 'Учения МЧС проходят в любую погоду');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
+<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/economics/2016-01-18/4_china.html&t=Пекин обещает вложить деньги в Россию" onclick="return fbs_click('http://www.ng.ru/economics/2016-01-18/4_china.html', 'Пекин обещает вложить деньги в Россию');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
 </li>
-				<li onclick="incSocnetCounter(3539, 'ELEMENT', 'lj', 353911);">
+				<li onclick="incSocnetCounter(529700, 'ELEMENT', 'lj', 52970011);">
 		<script>
 if (__function_exists('lj_click') == false) 
 {
@@ -633,7 +628,7 @@ return false;
 } 
 }
 </script>
-<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/photo/3539/&subject=Учения МЧС проходят в любую погоду" onclick="return lj_click('http://www.ng.ru/photo/3539/', 'Учения МЧС проходят в любую погоду');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
+<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/economics/2016-01-18/4_china.html&subject=Пекин обещает вложить деньги в Россию" onclick="return lj_click('http://www.ng.ru/economics/2016-01-18/4_china.html', 'Пекин обещает вложить деньги в Россию');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
 </li>
 				</ul>
 	</div>
@@ -642,34 +637,34 @@ return false;
                             </div><!-- /.anonce -->
             	                            
             <div class="anonce">
-                                                                                        <img src="/upload/resize_cache/iblock/889/60_60_2/5-12-1.jpg" alt="Пережить апокалипсис" />
+                                                                                        <img src="/upload/resize_cache/iblock/e50/60_60_2/6-6-3_s.jpg" alt="Запад отменил досрочные выборы в Молдавии" />
                     
-                    <a href="http://www.ng.ru/style/2016-01-15/12_apocalypse.html">
-                                                	Стиль жизни                                            </a>
-                    <p><a href="http://www.ng.ru/style/2016-01-15/12_apocalypse.html">Пережить апокалипсис</a></p>
+                    <a href="http://www.ng.ru/cis/2016-01-18/1_moldavia.html">
+                                                	СНГ                                            </a>
+                    <p><a href="http://www.ng.ru/cis/2016-01-18/1_moldavia.html">Запад отменил досрочные выборы в Молдавии</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">1253</div>
-	<div class="share" data-id-button="52949112" id="shareCounter_52949112" title="Поделиться в соцсетях">
+	<div class="stat" title="Количество просмотров">109</div>
+	<div class="share" data-id-button="52969512" id="shareCounter_52969512" title="Поделиться в соцсетях">
 	<span>0</span>
-	<div class="shareBlock" id="shareBlock_52949112" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
+	<div class="shareBlock" id="shareBlock_52969512" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
 		<ul>
-				<li onclick="incSocnetCounter(529491, 'ELEMENT', 'twitter', 52949112);">
+				<li onclick="incSocnetCounter(529695, 'ELEMENT', 'twitter', 52969512);">
 		<script>
 if (__function_exists('twitter_click_12') == false) 
 {
 function twitter_click_12(longUrl) 
 { 
-window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Пережить апокалипсис'),'sharer','toolbar=0,status=0,width=726,height=436'); 
+window.open('http://twitter.com/home/?status='+encodeURIComponent(longUrl)+encodeURIComponent(' Запад отменил досрочные выборы в Молдавии'),'sharer','toolbar=0,status=0,width=726,height=436'); 
 return false; 
 } 
 }
 </script>
-<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/style/2016-01-15/12_apocalypse.html+Пережить апокалипсис" onclick="return twitter_click_12('http://www.ng.ru/style/2016-01-15/12_apocalypse.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
+<a class="twitter" href="http://twitter.com/home/?status=http://www.ng.ru/cis/2016-01-18/1_moldavia.html+Запад отменил досрочные выборы в Молдавии" onclick="return twitter_click_12('http://www.ng.ru/cis/2016-01-18/1_moldavia.html');" target="_blank" class="twitter" title="Twitter"><span>Twitter</span></a>
 </li>
-				<li onclick="incSocnetCounter(529491, 'ELEMENT', 'facebook', 52949112);">
+				<li onclick="incSocnetCounter(529695, 'ELEMENT', 'facebook', 52969512);">
 		<script>
 if (__function_exists('fbs_click') == false) 
 {
@@ -680,9 +675,9 @@ return false;
 } 
 }
 </script>
-<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/style/2016-01-15/12_apocalypse.html&t=Пережить апокалипсис" onclick="return fbs_click('http://www.ng.ru/style/2016-01-15/12_apocalypse.html', 'Пережить апокалипсис');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
+<a class="facebook" href="http://www.facebook.com/share.php?u=http://www.ng.ru/cis/2016-01-18/1_moldavia.html&t=Запад отменил досрочные выборы в Молдавии" onclick="return fbs_click('http://www.ng.ru/cis/2016-01-18/1_moldavia.html', 'Запад отменил досрочные выборы в Молдавии');" target="_blank" class="facebook" title="Facebook"><span>Facebook</span></a>
 </li>
-				<li onclick="incSocnetCounter(529491, 'ELEMENT', 'lj', 52949112);">
+				<li onclick="incSocnetCounter(529695, 'ELEMENT', 'lj', 52969512);">
 		<script>
 if (__function_exists('lj_click') == false) 
 {
@@ -693,7 +688,7 @@ return false;
 } 
 }
 </script>
-<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/style/2016-01-15/12_apocalypse.html&subject=Пережить апокалипсис" onclick="return lj_click('http://www.ng.ru/style/2016-01-15/12_apocalypse.html', 'Пережить апокалипсис');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
+<a class="lj" href="http://www.livejournal.com/update.bml?event=http://www.ng.ru/cis/2016-01-18/1_moldavia.html&subject=Запад отменил досрочные выборы в Молдавии" onclick="return lj_click('http://www.ng.ru/cis/2016-01-18/1_moldavia.html', 'Запад отменил досрочные выборы в Молдавии');" target="_blank" class="lj" title="Livejournal"><span>Livejournal</span></a>
 </li>
 				</ul>
 	</div>
@@ -709,7 +704,7 @@ return false;
                     <p><a href="http://www.ng.ru/politics/2015-12-29/100_kommersitog.html">Санкции против России будут сняты летом 2016. Возможно...</a></p>
 					                    <div class="meta">
                         <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">4</div>
-	<div class="stat" title="Количество просмотров">34771</div>
+	<div class="stat" title="Количество просмотров">38999</div>
 	<div class="share" data-id-button="52894113" id="shareCounter_52894113" title="Поделиться в соцсетях">
 	<span>9</span>
 	<div class="shareBlock" id="shareBlock_52894113" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
@@ -799,7 +794,7 @@ return false;
  					<!-- основной блок -->
 	<div class="w700">
 <img src="/bitrix/templates/ng/i/NG_logo_net_160.jpg" width="0"/><script>
-    $.ajax({type:"GET",url:"/ajax/counter.php?sessid=a9b805ad7a635fa15d39176e438a629b",data:{
+    $.ajax({type:"GET",url:"/ajax/counter.php?sessid=59a90b7607f1a14257a1b94d5b706082",data:{
         ID:"368216",
         TYPE: 'i'
     }});
@@ -807,7 +802,7 @@ return false;
 
 		<div class="meta">
 <script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">922</div>
+	<div class="stat" title="Количество просмотров">930</div>
 	<div class="share" data-id-button="3682161" id="shareCounter_3682161" title="Поделиться в соцсетях">
 	<span>0</span>
 	<div class="shareBlock" id="shareBlock_3682161" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
@@ -856,7 +851,7 @@ return false;
 				</ul>
 	</div>
 </div>
-             <!-- 284 /// 87 -->
+             <!-- 285 /// 87 -->
 		</div><!-- /.meta -->
 		<div class="path">
 			<a href="/gazeta/">Газета</a>
@@ -870,11 +865,11 @@ return false;
 		<h1 class="htitle black">Способность людей распознавать вкус жира определяется вариантами одного гена</h1>
 		<div class="linkBlock">
 			<div><a href="?print=Y" class="icprint"><span>Версия для печати</span></a></div>
-						<div><span id="bx_favorite_ARTICLE_368216_9847" class="favorite-container"></span>
+						<div><span id="bx_favorite_ARTICLE_368216_1101" class="favorite-container"></span>
 <script>
 <!--
 	window.arFavorites.push({
-		container:'bx_favorite_ARTICLE_368216_9847',
+		container:'bx_favorite_ARTICLE_368216_1101',
 		type:'ARTICLE',
 		id:'368216',
 		param1: 'IBLOCK',
@@ -1343,7 +1338,7 @@ src="http://js.ru.redtram.com/n4p/n/g/ng.ru_3355.js"></script>    </div>
 						<p class="txt"><a href="/http://www.ng.ru/dayhist/2016-01-14/16_day.html"> </a></p>
 			<div class="meta">
 			<script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">655</div>
+	<div class="stat" title="Количество просмотров">1112</div>
 	<div class="share" data-id-button="5293492" id="shareCounter_5293492" title="Поделиться в соцсетях">
 	<span>0</span>
 	<div class="shareBlock" id="shareBlock_5293492" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
@@ -1400,7 +1395,7 @@ return false;
 						<p class="txt"><a href="/http://www.ng.ru/science/2015-12-30/9_mamont.html">Крупнейших вымерших млекопитающих начали «собирать» по частям, как пазл</a></p>
 			<div class="meta">
 			<script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">2908</div>
+	<div class="stat" title="Количество просмотров">3001</div>
 	<div class="share" data-id-button="5286553" id="shareCounter_5286553" title="Поделиться в соцсетях">
 	<span>1</span>
 	<div class="shareBlock" id="shareBlock_5286553" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
@@ -1461,7 +1456,7 @@ return false;
 						<p class="txt"><a href="/http://www.ng.ru/dayhist/2015-12-29/12_day.html"> </a></p>
 			<div class="meta">
 			<script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">3590</div>
+	<div class="stat" title="Количество просмотров">4006</div>
 	<div class="share" data-id-button="5287244" id="shareCounter_5287244" title="Поделиться в соцсетях">
 	<span>0</span>
 	<div class="shareBlock" id="shareBlock_5287244" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
@@ -1522,9 +1517,9 @@ return false;
 						<p class="txt"><a href="/http://www.ng.ru/dayhist/2015-12-25/12_day.html"> </a></p>
 			<div class="meta">
 			<script src="/bitrix/components/nota/main.share/templates/.default/script.js?1366193376" type="text/javascript"></script><div class="comm" title="Количество комментариев">0</div>
-	<div class="stat" title="Количество просмотров">4529</div>
+	<div class="stat" title="Количество просмотров">4946</div>
 	<div class="share" data-id-button="5283475" id="shareCounter_5283475" title="Поделиться в соцсетях">
-	<span>0</span>
+	<span>1</span>
 	<div class="shareBlock" id="shareBlock_5283475" style="left: -40px; top: 18px; display: none;"><!--  style="top:1050px; left:737px; display:block;"> -->
 	<div class="tail"><!-- хвостик --></div>
 	<h2>Поделиться</h2>
@@ -1577,20 +1572,16 @@ return false;
 	</div><!-- /.w700 -->
 </div>	
 		<aside class="side wide">
- <span><!-- R-115805-1 Яндекс.RTB-блок  -->
-<div id="yandex_ad_R-115805-1"></div>
-<script type="text/javascript">
-    (function(w, n) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Context.AdvManager.render({
-                blockId: "R-115805-1",
-                renderTo: "yandex_ad_R-115805-1",
-                async: false
-            });
-        });
-        document.write('<sc'+'ript type="text/javascript" src="//an.yandex.ru/system/context.js"></sc'+'ript>');
-    })(this, "yandexContextSyncCallbacks");
+ <span><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2784478956446743";
+/* 240X400 */
+google_ad_slot = "3315492793";
+google_ad_width = 240;
+google_ad_height = 400;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></span> 
 <div class="sideitem">
     <h3 class="ntitle"><a href="#">Другие новости</a></h3>

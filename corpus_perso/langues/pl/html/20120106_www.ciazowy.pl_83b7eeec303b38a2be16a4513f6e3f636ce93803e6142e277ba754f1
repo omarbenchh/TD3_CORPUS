@@ -358,8 +358,8 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
 <input type="text" name="comment[guest_user_name]" id="comment-guest_user_name" value="" /></li>
 <li class="captcha_container"><label for="comment-captcha" class="required">Przepisz tekst z obrazka:</label>
 
-<img width="200" height="50" alt="" src="images/captcha/e30d30e9a6cfea9a821fb983b046fe15.png"/><br/>
-<input type="hidden" name="comment[captcha][id]" value="e30d30e9a6cfea9a821fb983b046fe15" helper="formText" id="comment-captcha-id" />
+<img width="200" height="50" alt="" src="images/captcha/ce58caedd716333a0df372fc26b7c194.png"/><br/>
+<input type="hidden" name="comment[captcha][id]" value="ce58caedd716333a0df372fc26b7c194" helper="formText" id="comment-captcha-id" />
 <input type="text" name="comment[captcha][input]" id="comment-captcha-input" value="" helper="formText" /></li>
 <li class="content_container"><label for="comment-content" class="required">Treść komentarza:</label>
 
@@ -524,33 +524,33 @@ $().ready(function() {
     <ul>
                      <li>
                  <span>
-                     +23&nbsp;min                 </span>
-                 <a href="forum/viewtopic.php?f=37&amp;t=688&amp;p=56838#p56838">
-                     HEMOROIDY!!!   pomocy                 </a>
+                     +48&nbsp;min                 </span>
+                 <a href="forum/viewtopic.php?f=73&amp;t=9825&amp;p=56910#p56910">
+                     Reklama firmy                 </a>
              </li>
                      <li>
                  <span>
-                     +25&nbsp;min                 </span>
-                 <a href="forum/viewtopic.php?f=73&amp;t=11692&amp;p=56837#p56837">
-                     Powiększanie piesi własnym tłu...                 </a>
+                     +1&nbsp;godz                 </span>
+                 <a href="forum/viewtopic.php?f=41&amp;t=9846&amp;p=56909#p56909">
+                     Ferie - gdzie warto pojechać z...                 </a>
              </li>
                      <li>
                  <span>
-                     +41&nbsp;min                 </span>
-                 <a href="forum/viewtopic.php?f=41&amp;t=11633&amp;p=56836#p56836">
-                     Nowoczesne meble?                 </a>
+                     +1&nbsp;godz                 </span>
+                 <a href="forum/viewtopic.php?f=29&amp;t=11044&amp;p=56908#p56908">
+                     Czy można w&nbsp;tym kraju żyć bez ...                 </a>
              </li>
                      <li>
                  <span>
-                     +42&nbsp;min                 </span>
-                 <a href="forum/viewtopic.php?f=73&amp;t=11626&amp;p=56835#p56835">
-                     dom ogrzewanie                 </a>
+                     +3&nbsp;godz                 </span>
+                 <a href="forum/viewtopic.php?f=73&amp;t=11389&amp;p=56907#p56907">
+                     Jak się relaksujecie?                 </a>
              </li>
                      <li>
                  <span>
-                     +43&nbsp;min                 </span>
-                 <a href="forum/viewtopic.php?f=41&amp;t=11646&amp;p=56834#p56834">
-                     Stoły i&nbsp;krzesła do salonu                 </a>
+                     +3&nbsp;godz                 </span>
+                 <a href="forum/viewtopic.php?f=73&amp;t=11700&amp;p=56906#p56906">
+                     chemia                 </a>
              </li>
             </ul>
 
@@ -562,7 +562,7 @@ $().ready(function() {
 </div><!-- <div id="forum_box"> -->
 
 	<div id="haslo_dnia_box">
-		<a href="/encyklopedia,zaplemnienie,527.html">Zaplemnienie</a>
+		<a href="/encyklopedia,chromosom,212.html">Chromosom</a>
 	</div>
 <div id="rank_comments_list">
     <div class="tab_1">

@@ -98,7 +98,7 @@ ga('set', {
 'dimension3': "Infectious Diseases / Bacteria / Viruses",
 'dimension5': "older",
 'dimension6': "desktop",
-'dimension8': "3"
+'dimension8': "4"
 });
 
 		var viewportWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
@@ -844,7 +844,7 @@ googletag.cmd.push(function() {
 
 
 <div class="print">
-<a href="?print=2273d3222019eff8b85fabdd3d5005d3" rel="nofollow" title="View print preview" target="_blank"></a>
+<a href="?print=13092eff75bebe73e24e9c70d12d312c" rel="nofollow" title="View print preview" target="_blank"></a>
 </div>
 
 </div><!-- /toolbox -->
@@ -1049,7 +1049,7 @@ googletag.cmd.push(function() {
             <a href="/email-an-article/240221" rel="nofollow" title="email this article">email</a>
             </span>
         </div>        
-		        <div class="print">			            <a href="?print=2273d3222019eff8b85fabdd3d5005d3" rel="nofollow" title="View print preview" target="_blank"><span class="toolbox_label">print</span></a>
+		        <div class="print">			            <a href="?print=13092eff75bebe73e24e9c70d12d312c" rel="nofollow" title="View print preview" target="_blank"><span class="toolbox_label">print</span></a>
         </div>        
 
     </div>
@@ -1143,7 +1143,7 @@ Other source:  <a href="http://www.ecohealthalliance.org" target="_blank" rel="n
 		
 				
 		<p><strong>MLA</strong><br />
-		Paddock, Catharine. "Smuggled Bushmeat, Wildlife Products Bring Viruses Into The US." <i>Medical News Today</i>. MediLexicon, Intl., 11 Jan. 2012. Web.<br>15 Jan. 2016. &lt;http://www.medicalnewstoday.com/articles/240221.php&gt;		</p>
+		Paddock, Catharine. "Smuggled Bushmeat, Wildlife Products Bring Viruses Into The US." <i>Medical News Today</i>. MediLexicon, Intl., 11 Jan. 2012. Web.<br>17 Jan. 2016. &lt;http://www.medicalnewstoday.com/articles/240221.php&gt;		</p>
 		
 		<hr size="1" />
 		
@@ -1250,14 +1250,14 @@ Other source:  <a href="http://www.ecohealthalliance.org" target="_blank" rel="n
 	Exercise in early life affects gut flora, promoting better health	</span>
 		</a></li>
 		<li class="written">
-	<a href="/articles/304453.php" title="Scientists find antibiotic properties in drugs used for other purposes">
-		<span class="headline">
-	Scientists find antibiotic properties in drugs used for other purposes	</span>
-		</a></li>
-		<li class="written">
 	<a href="/articles/304716.php" title="Friendly bacteria regulate immune function in lung cells">
 		<span class="headline">
 	Friendly bacteria regulate immune function in lung cells	</span>
+		</a></li>
+		<li class="written">
+	<a href="/articles/304453.php" title="Scientists find antibiotic properties in drugs used for other purposes">
+		<span class="headline">
+	Scientists find antibiotic properties in drugs used for other purposes	</span>
 		</a></li>
 		<li class="written">
 	<a href="/articles/304551.php" title="Asthma linked to increased risk of shingles">
@@ -1897,16 +1897,6 @@ googletag.cmd.push(function() {
 	<div class="suggested_reading_container ">
 				<div class='suggested_reading_inner column1'>
 				<div class='suggested_item'>
-		<a href="/articles/200665.php?sr" title="Foiling Terror Attacks: New CCTV Technology">
-		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/bioterrorism/thumbs/image4.jpg" alt="" />
-		</div>
-		<span>Foiling Terror Attacks: New CCTV Technology</span>
-		</a>
-	</div>
-				</div>
-						<div class='suggested_reading_inner column2'>
-				<div class='suggested_item'>
 		<a href="/articles/234075.php?sr" title="Foodborne Illness Outbreaks - FDA Says New Pilot Projects Will Aid In The Detection Of Products Responsible">
 		<div class="suggested_item_image">
 			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/regulatoryaffairs/thumbs/image4.jpg" alt="" />
@@ -1915,23 +1905,33 @@ googletag.cmd.push(function() {
 		</a>
 	</div>
 				</div>
+						<div class='suggested_reading_inner column2'>
+				<div class='suggested_item'>
+		<a href="/articles/80598.php?sr" title="Nations Must Cooperate On Unprecedented Scale To Secure Global Public Health, WHO Report">
+		<div class="suggested_item_image">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/public_health/thumbs/image2.jpg" alt="" />
+		</div>
+		<span>Nations Must Cooperate On Unprecedented Scale To Secure Global Public Health, WHO Report</span>
+		</a>
+	</div>
+				</div>
 						<div class='suggested_reading_inner column3'>
+				<div class='suggested_item'>
+		<a href="/articles/278737.php?sr" title="Polio virus detected in sewage sample in Brazil">
+		<div class="suggested_item_image">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/infectious_diseases/thumbs/image3.jpg" alt="" />
+		</div>
+		<span>Polio virus detected in sewage sample in Brazil</span>
+		</a>
+	</div>
+				</div>
+						<div class='suggested_reading_inner column4'>
 				<div class='suggested_item'>
 		<a href="/articles/240591.php?sr" title="Opportunity To Share Important Health Messages Comes From Mass Gatherings">
 		<div class="suggested_item_image">
 			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/infectious_diseases/thumbs/image2.jpg" alt="" />
 		</div>
 		<span>Opportunity To Share Important Health Messages Comes From Mass Gatherings</span>
-		</a>
-	</div>
-				</div>
-						<div class='suggested_reading_inner column4'>
-				<div class='suggested_item'>
-		<a href="/articles/99661.php?sr" title="Should Researchers Have More Access To Birth And Death Data?">
-		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/public_health/thumbs/image3.jpg" alt="" />
-		</div>
-		<span>Should Researchers Have More Access To Birth And Death Data?</span>
 		</a>
 	</div>
 				</div>
@@ -2075,7 +2075,7 @@ twttr.conversion.trackPid('l4bfr');
 }(document, 'script', 'facebook-jssdk'));</script>
 
 	
-	<iframe src="/structure/framework/counters/counters.php?e=ac06b6613d6905fccc0eb723d6c4647c&a=240221&ad=20120111&t=written&t2=aj&ac=61&c=61&u=1&d=0" style="display:none;"></iframe>
+	<iframe src="/structure/framework/counters/counters.php?e=47f0fc12e172e9ea721a3698a6a60666&a=240221&ad=20120111&t=written&t2=aj&ac=61&c=61&u=1&d=0" style="display:none;"></iframe>
 	 
 
 	<script>

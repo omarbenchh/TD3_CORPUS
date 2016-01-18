@@ -290,11 +290,11 @@ var jsonrpcWrapper = document.jsonrpcWrapper;    //]]>
 					<div class="date_time_box">
 													<span id="header_city">Одесса</span>
 												<img src="/design/img/calendar.gif" alt="" width="16"
-							 height="17"/> <span id="header_date">15 января 2016, 17:44</span>
+							 height="17"/> <span id="header_date">17 января 2016, 22:59</span>
 					</div>
 					    <div class="weather_box imgHeight"><!--noindex-->
 	<span id="open_weather_link">
-		<img src="/design/img/pogoda/12_30x30/icon_001.png" height="30" width="30" alt="Ясно, без осадков" /> <span><b>-2... +4 °С</b> Ясно, без осадков</span>
+		<img src="/design/img/pogoda/18_30x30/icon_019.png" height="30" width="30" alt="Облачно, снег" /> <span><b>-5... -2 °С</b> Облачно, снег</span>
 	</span>
 
         <div class="full_weather_box displaynone">
@@ -304,9 +304,9 @@ var jsonrpcWrapper = document.jsonrpcWrapper;    //]]>
                         <p class="name_day">завтра</p>
 
                         <div class="weather_day_right">
-                            <img src="/design/img/pogoda/12_30x30/icon_020.png" alt="Облачно, небольшой дождь" />
+                            <img src="/design/img/pogoda/12_30x30/icon_019.png" alt="Облачно, снег" />
 
-                            <p><b>+4... 5 °С </b><span>Облачно, небольшой дождь</span></p>
+                            <p><b>-7... -6 °С </b><span>Облачно, снег</span></p>
                         </div>
                         <!--.weather_day_right-->
                     </div>
@@ -315,9 +315,9 @@ var jsonrpcWrapper = document.jsonrpcWrapper;    //]]>
                         <p class="name_day">послезавтра</p>
 
                         <div class="weather_day_right">
-                            <img src="/design/img/pogoda/12_30x30/icon_019.png" alt="Облачно, снег" />
+                            <img src="/design/img/pogoda/12_30x30/icon_008_2.png" alt="Переменная облачность, без осадков" />
 
-                            <p><b>-3... -1 °С </b><span>Облачно, снег</span></p>
+                            <p><b>-8... -6 °С </b><span>Переменная облачность, без осадков</span></p>
                         </div>
                         <!--.weather_day_right-->
                     </div>
@@ -404,36 +404,8 @@ var jsonrpcWrapper = document.jsonrpcWrapper;    //]]>
 	<div
 		id="middle">
 		<div class="center">
-			<div class="in-one 6290091 banner_box" style="height:80px;"><div class="carouselNav" id="carouselNav_6290091"  ><div class="sliderNav sliderNav_6290091" id = "sliderNav_6290091_1" data-id="1" >1</div><div class="sliderNav sliderNav_6290091" id = "sliderNav_6290091_2" data-id="2" >2</div><div class="sliderNav sliderNav_6290091" id = "sliderNav_6290091_3" data-id="3" >3</div><div class="sliderNav sliderNav_6290091" id = "sliderNav_6290091_4" data-id="4" >4</div><div class="sliderNav sliderNav_6290091" id = "sliderNav_6290091_5" data-id="5" >5</div><div class="sliderNav sliderNav_6290091" id = "sliderNav_6290091_6" data-id="6" >6</div></div><div class="b-list sliderWrapper" id="box_6290091"></div><div class="sliderStore"><div id="6290091_1" class="banner_box rounding inone 6290091_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex-->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569913efa14bb">
-      <param name="flashvars" value="link1=http%3A%2F%2Fodessadoctor.048.ua" />
-      <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/banner3_doctor_970x80_144741207983.swf" />
-      <param name="wmode" value="opaque" />
-      <!--[if !IE]>-->
-      <object type="application/x-shockwave-flash" data="http://s.citysites.ua/upload/pers/4/jackets/banner3_doctor_970x80_144741207983.swf" width="100%" height="80">
-        <param name="flashvars" value="link1=http%3A%2F%2Fodessadoctor.048.ua" />
-        <param name="wmode" value="opaque" />
-      <!--<![endif]-->
-        <a href="http://odessadoctor.048.ua" target="_blank" rel="nofollow" style="display: block; height: 80px; width: 100%; background: url('http://s.citysites.ua/upload/pers/4/jackets/banner_zaglushka_144792440864.jpg') no-repeat center top;"></a>
-      <!--[if !IE]>-->
-      </object>
-      <!--<![endif]-->
-    </object><!--/noindex--></div><div id="6290091_2" class="banner_box rounding inone 6290091_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex-->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569913efa1501">
-      <param name="flashvars" value="link1=http%3A%2F%2Fodessa.oxford-med.com.ua%2Fservices%2Fcosmetology%2Fomolozhenie-kozhi-vbeam-perfecta%2F" />
-      <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/banner_oxford-med_laz_970x80_141465783437.swf" />
-      <param name="wmode" value="opaque" />
-      <!--[if !IE]>-->
-      <object type="application/x-shockwave-flash" data="http://s.citysites.ua/upload/pers/4/jackets/banner_oxford-med_laz_970x80_141465783437.swf" width="100%" height="80">
-        <param name="flashvars" value="link1=http%3A%2F%2Fodessa.oxford-med.com.ua%2Fservices%2Fcosmetology%2Fomolozhenie-kozhi-vbeam-perfecta%2F" />
-        <param name="wmode" value="opaque" />
-      <!--<![endif]-->
-        
-      <!--[if !IE]>-->
-      </object>
-      <!--<![endif]-->
-    </object><!--/noindex--></div><div id="6290091_3" class="banner_box rounding inone 6290091_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 100%; height: 80px;" src="http://s.citysites.ua/upload/pers/4/jackets/web2_odessa_144835601186/web2_odessa_144835601186.html?clickTAG=http://www.aura-clinic.com/" class="HTMLContainer"></iframe><!--/noindex--></div><div id="6290091_4" class="banner_box rounding inone 6290091_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex--><a href="http://skoda.odessa.ua/specpredlojeniya/" target="_blank" rel="nofollow" style="display: block; height: 80px; width: 100%px; background: url('http://s.citysites.ua/upload/pers/4/jackets/970x80_dlia_048_zamenit_14527871252.gif') no-repeat center top;"></a><!--/noindex--></div><div id="6290091_5" class="banner_box rounding inone 6290091_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex-->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569913efa155a">
+			<div class="in-one 1936547672 banner_box" style="height:80px;"><div class="carouselNav" id="carouselNav_1936547672"  ><div class="sliderNav sliderNav_1936547672" id = "sliderNav_1936547672_1" data-id="1" >1</div><div class="sliderNav sliderNav_1936547672" id = "sliderNav_1936547672_2" data-id="2" >2</div><div class="sliderNav sliderNav_1936547672" id = "sliderNav_1936547672_3" data-id="3" >3</div><div class="sliderNav sliderNav_1936547672" id = "sliderNav_1936547672_4" data-id="4" >4</div><div class="sliderNav sliderNav_1936547672" id = "sliderNav_1936547672_5" data-id="5" >5</div><div class="sliderNav sliderNav_1936547672" id = "sliderNav_1936547672_6" data-id="6" >6</div></div><div class="b-list sliderWrapper" id="box_1936547672"></div><div class="sliderStore"><div id="1936547672_1" class="banner_box rounding inone 1936547672_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569c00ad6d9f5">
       <param name="flashvars" value="link1=http%3A%2F%2Fsushiwok.ua%2Fode%2Fmenu%2Fsets%2F" />
       <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/banner_sushi_wog_4_970x80,_zimnii_144973963031.swf" />
       <param name="wmode" value="opaque" />
@@ -446,8 +418,8 @@ var jsonrpcWrapper = document.jsonrpcWrapper;    //]]>
       <!--[if !IE]>-->
       </object>
       <!--<![endif]-->
-    </object><!--/noindex--></div><div id="6290091_6" class="banner_box rounding inone 6290091_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex-->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569913efa159a">
+    </object><!--/noindex--></div><div id="1936547672_2" class="banner_box rounding inone 1936547672_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569c00ad6da3c">
       <param name="flashvars" value="link1=www.aristo-studio.com.ua" />
       <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/banner_aristo_september_970x80_141035915840.swf" />
       <param name="wmode" value="opaque" />
@@ -460,28 +432,42 @@ var jsonrpcWrapper = document.jsonrpcWrapper;    //]]>
       <!--[if !IE]>-->
       </object>
       <!--<![endif]-->
+    </object><!--/noindex--></div><div id="1936547672_3" class="banner_box rounding inone 1936547672_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 100%; height: 80px;" src="http://s.citysites.ua/upload/pers/4/jackets/odesskiy_doctor_970x80_html_145293884747/odesskiy_doctor_970x80_html_145293884747.html?clickTAG=http://odessadoctor.048.ua" class="HTMLContainer"></iframe><!--/noindex--></div><div id="1936547672_4" class="banner_box rounding inone 1936547672_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex--><a href="http://skoda.odessa.ua/specpredlojeniya/" target="_blank" rel="nofollow" style="display: block; height: 80px; width: 100%px; background: url('http://s.citysites.ua/upload/pers/4/jackets/970x80_dlia_048_zamenit_14527871252.gif') no-repeat center top;"></a><!--/noindex--></div><div id="1936547672_5" class="banner_box rounding inone 1936547672_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 100%; height: 80px;" src="http://s.citysites.ua/upload/pers/4/jackets/web2_odessa_144835601186/web2_odessa_144835601186.html?clickTAG=http://www.aura-clinic.com/" class="HTMLContainer"></iframe><!--/noindex--></div><div id="1936547672_6" class="banner_box rounding inone 1936547672_box " style="height:80px"  data-place="21" data-time="20000" ><!--noindex-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569c00ad6da9f">
+      <param name="flashvars" value="link1=http%3A%2F%2Fodessa.oxford-med.com.ua%2Fservices%2Fcosmetology%2Fomolozhenie-kozhi-vbeam-perfecta%2F" />
+      <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/banner_oxford-med_laz_970x80_141465783437.swf" />
+      <param name="wmode" value="opaque" />
+      <!--[if !IE]>-->
+      <object type="application/x-shockwave-flash" data="http://s.citysites.ua/upload/pers/4/jackets/banner_oxford-med_laz_970x80_141465783437.swf" width="100%" height="80">
+        <param name="flashvars" value="link1=http%3A%2F%2Fodessa.oxford-med.com.ua%2Fservices%2Fcosmetology%2Fomolozhenie-kozhi-vbeam-perfecta%2F" />
+        <param name="wmode" value="opaque" />
+      <!--<![endif]-->
+        
+      <!--[if !IE]>-->
+      </object>
+      <!--<![endif]-->
     </object><!--/noindex--></div></div></div>
             <script>
 $(document).ready(function () {
-    var c6290091 = new carousel();
-    c6290091.qty = "6"
-    c6290091.idSalt = "6290091";
-    c6290091.iterateSlide();
-    c6290091.autoplay = true;
+    var c1936547672 = new carousel();
+    c1936547672.qty = "6"
+    c1936547672.idSalt = "1936547672";
+    c1936547672.iterateSlide();
+    c1936547672.autoplay = true;
     // increase slide after first refresh
     
         
     // handler for direct slide view
-    $(".sliderNav_" + c6290091.idSalt).click(function () {
-        clearTimeout(c6290091.timer);
+    $(".sliderNav_" + c1936547672.idSalt).click(function () {
+        clearTimeout(c1936547672.timer);
         var id = $(this).attr("data-id");
-        c6290091.curId = id;
-        c6290091.iterateSlide();
+        c1936547672.curId = id;
+        c1936547672.iterateSlide();
 
     });
     // handler for refresh button
-    $(".sliderRefresh_" + c6290091.idSalt).click(function () {
-        c6290091.iterateSlide();
+    $(".sliderRefresh_" + c1936547672.idSalt).click(function () {
+        c1936547672.iterateSlide();
     });
 })
 			</script><div class="inner-title">
@@ -553,8 +539,8 @@ $(document).ready(function () {
 					</div>
 	
 
-				<div class="in-one 2029775646 banner_box" style="height:80px;"><div class="carouselNav" id="carouselNav_2029775646"  ><div class="sliderNav sliderNav_2029775646" id = "sliderNav_2029775646_1" data-id="1" >1</div><div class="sliderNav sliderNav_2029775646" id = "sliderNav_2029775646_2" data-id="2" >2</div></div><div class="b-list sliderWrapper" id="box_2029775646"></div><div class="sliderStore"><div id="2029775646_1" class="banner_box rounding inone 2029775646_box " style="height:80px"  data-place="22" data-time="20000" ><!--noindex-->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569913ef7c6fd">
+				<div class="in-one 520537656 banner_box" style="height:80px;"><div class="carouselNav" id="carouselNav_520537656"  ><div class="sliderNav sliderNav_520537656" id = "sliderNav_520537656_1" data-id="1" >1</div><div class="sliderNav sliderNav_520537656" id = "sliderNav_520537656_2" data-id="2" >2</div></div><div class="b-list sliderWrapper" id="box_520537656"></div><div class="sliderStore"><div id="520537656_1" class="banner_box rounding inone 520537656_box " style="height:80px"  data-place="22" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 100%; height: 80px;" src="http://s.citysites.ua/upload/pers/4/jackets/luvena_pered_html_610x80_2_145277922090/luvena_pered_html_610x80_2_145277922090.html?clickTAG=luvena.com.ua" class="HTMLContainer"></iframe><!--/noindex--></div><div id="520537656_2" class="banner_box rounding inone 520537656_box " style="height:80px"  data-place="22" data-time="20000" ><!--noindex-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569c00ad524ec">
       <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/banner_oxford-med_610x80_140195283134.swf" />
       <param name="wmode" value="opaque" />
       <!--[if !IE]>-->
@@ -565,28 +551,28 @@ $(document).ready(function () {
       <!--[if !IE]>-->
       </object>
       <!--<![endif]-->
-    </object><!--/noindex--></div><div id="2029775646_2" class="banner_box rounding inone 2029775646_box " style="height:80px"  data-place="22" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 100%; height: 80px;" src="http://s.citysites.ua/upload/pers/4/jackets/luvena_pered_html_610x80_2_145277922090/luvena_pered_html_610x80_2_145277922090.html?clickTAG=luvena.com.ua" class="HTMLContainer"></iframe><!--/noindex--></div></div></div>
+    </object><!--/noindex--></div></div></div>
             <script>
 $(document).ready(function () {
-    var c2029775646 = new carousel();
-    c2029775646.qty = "2"
-    c2029775646.idSalt = "2029775646";
-    c2029775646.iterateSlide();
-    c2029775646.autoplay = true;
+    var c520537656 = new carousel();
+    c520537656.qty = "2"
+    c520537656.idSalt = "520537656";
+    c520537656.iterateSlide();
+    c520537656.autoplay = true;
     // increase slide after first refresh
     
         
     // handler for direct slide view
-    $(".sliderNav_" + c2029775646.idSalt).click(function () {
-        clearTimeout(c2029775646.timer);
+    $(".sliderNav_" + c520537656.idSalt).click(function () {
+        clearTimeout(c520537656.timer);
         var id = $(this).attr("data-id");
-        c2029775646.curId = id;
-        c2029775646.iterateSlide();
+        c520537656.curId = id;
+        c520537656.iterateSlide();
 
     });
     // handler for refresh button
-    $(".sliderRefresh_" + c2029775646.idSalt).click(function () {
-        c2029775646.iterateSlide();
+    $(".sliderRefresh_" + c520537656.idSalt).click(function () {
+        c520537656.iterateSlide();
     });
 })
 			</script><a name="comment-start"></a><div class="comments comment-wrapper"><div class="top-title">Комментарии</div><div class="right-rounded colored comment_form"><form enctype="application/x-www-form-urlencoded" class=" FsnoDtLabels" action="" method="post"><div class="login"><a href="javascript:void(0);" class="loginza cisinza">Авторизация</a></div><dl class="zend_form">
@@ -602,12 +588,12 @@ $(document).ready(function () {
 
 <input type="text" name="subs" id="subs" value="" placeholder="Имя" />
 
-<img width="70" height="30" alt="" src="/tmp/captcha/2/1200e1b45769ca826a052b1a1ea03494.png" class="captcha-img" />
-<input type="hidden" name="captcha[id]" value="1200e1b45769ca826a052b1a1ea03494" class="required" placeholder="Введите код" id="captcha-id" />
+<img width="70" height="30" alt="" src="/tmp/captcha/4/135f9b68e823ea89df34d4739d7f8259.png" class="captcha-img" />
+<input type="hidden" name="captcha[id]" value="135f9b68e823ea89df34d4739d7f8259" class="required" placeholder="Введите код" id="captcha-id" />
 <input type="text" name="captcha[input]" id="captcha-input" value="" class="required" placeholder="Введите код" />
 
 <input type="submit" name="submit" id="submit" value="Написать" class="btn" /></div></dl></form></div><a href="#" id="cancelReply">Отменить</a><div style="text-align: right;"><!--noindex-->Добавляя комментарий, я принимаю и несу ответственность за выполнение <a target="_blank" rel="nofollow" href="http://www.048.ua/info/rules">Правил cайта</a><!--/noindex--></div> </div><div class="comment-wrapper" data-page='{"id":"95913","type":"news"}'></div><br/><div class="banner_box rounding"><!--noindex-->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569913ef8649f">
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="80" id="jacket569c00ad5892e">
       <param name="flashvars" value="link1=http%3A%2F%2Ftcsavant.com%2F" />
       <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/banner_avant_610x80_2_143574827417.swf" />
       <param name="wmode" value="opaque" />
@@ -629,361 +615,361 @@ $(document).ready(function () {
 									<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1090486"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145286942031.jpg" alt="" /></a>
+					<a href="/news/1091539"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_fyry_145306123210.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1090486">Новый "шелковый путь": первый контейнерный поезд отправился из Ильичевска в Китай (ВИДЕО)</a></p>
-	<div class="date"><span>17:42</span><span>15.01.2016</span></div>			</div>
+				<p><a href="/news/1091539">Дороги в Одесской области немного расчистили, но 24 села остаются без света</a></p>
+	<div class="date"><span>22:00</span><span>17.01.2016</span></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/news/1090458"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145286854010.jpg" alt="" /></a>
+					<a href="/news/1091489"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/p60117-183148_145305145769.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1090458">На Таирово тушили краски и лаки</a></p>
-	<div class="date"><span>17:30</span><span>15.01.2016</span><a href="/news/1090458#comment-start" class="com cc_1090458">1</a></div>			</div>
+				<p><a href="/news/1091489">Хлебный ажиотаж: В Одессе с прилавков исчез продукт №1</a></p>
+	<div class="date"><span>19:30</span><span>17.01.2016</span><a href="/news/1091489#comment-start" class="com cc_1091489">10</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/article/1090446"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145286808263.jpg" alt="" /></a>
+					<a href="/article/1091479"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/ba90fcc070f3_145304942657.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1090446">Адвокаты фигурантов по делу 2 мая накатали жалобу в прокуратуру на действия судей</a></p>
-	<div class="date"><span>17:07</span><span>15.01.2016</span></div>			</div>
+				<p><a href="/article/1091479">Одесское  море в снегопад (фото)</a></p>
+	<div class="date"><span>18:48</span><span>17.01.2016</span><a href="/article/1091479#comment-start" class="com cc_1091479">3</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/463460"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/american-dollars-christmas-tree-17339228_145259872520.jpg" alt="" /></a>
+					<a href="/news/1091478"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145304926510.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/463460">100$ под ёлку: европейская компания начисляет круглую сумму на ваш счет за регистрацию на сайте</a></p>
-	<div class="date"><span class="specialty ad">Новости компаний</span><br /><span>17:00</span><span>15.01.2016</span></div>			</div>
+				<p><a href="/news/1091478">Одесситы предлагают помощь всем, кто застрял в снегу</a></p>
+	<div class="date"><span>18:40</span><span>17.01.2016</span><a href="/news/1091478#comment-start" class="com cc_1091478">27</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1090380"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_2_145286605374.png" alt="" /></a>
+					<a href="/news/1091453"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145304574124.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1090380">Саакашвили: следы "ореховой мафии" ведут в Киев (ФОТО, ВИДЕО)</a></p>
-	<div class="date"><span>16:25</span><span>15.01.2016</span><a href="/news/1090380#comment-start" class="com cc_1090380">3</a></div>			</div>
+				<p><a href="/news/1091453">Из-за снегопада в Одессе остановлены 4 трамвайных маршрута</a></p>
+	<div class="date"><span>18:00</span><span>17.01.2016</span><a href="/news/1091453#comment-start" class="com cc_1091453">2</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1090391"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/0_145286638126.jpg" alt="" /></a>
+					<a href="/news/1091448"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/dsc_0055(1)_145304418421.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1090391">Освобожденные из ливийского плена украинские моряки должны прибыть в Одессу, - МИД</a></p>
-	<div class="date"><span>15:57</span><span>15.01.2016</span><a href="/article/1090391#comment-start" class="com cc_1090391">1</a></div>			</div>
+				<p><a href="/news/1091448">Из-за стихии власть закрыла абсолютно все дороги в Одесской области</a></p>
+	<div class="date"><span>17:30</span><span>17.01.2016</span><a href="/news/1091448#comment-start" class="com cc_1091448">3</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1090353"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/0_145286539790.jpg" alt="" /></a>
+					<a href="/news/1091446"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145304371552.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1090353">С 18 января в одесских школах введут карантин, - горсовет</a></p>
-	<div class="date"><span>15:42</span><span>15.01.2016</span><a href="/news/1090353#comment-start" class="com cc_1090353">3</a></div>			</div>
+				<p><a href="/news/1091446">Стихия зацепила больше всего юг и центр Одесской области</a></p>
+	<div class="date"><span>17:00</span><span>17.01.2016</span><a href="/news/1091446#comment-start" class="com cc_1091446">3</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/news/1090323"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_14528638411_145286452355.jpg" alt="" /></a>
+					<a href="/news/1091437"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/-snejishe_1453041813100.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1090323">На Таирово произошло произошло ДТП . Есть жертвы (ФОТОФАКТ)</a></p>
-	<div class="date"><span>15:32</span><span>15.01.2016</span><a href="/news/1090323#comment-start" class="com cc_1090323">6</a></div>			</div>
+				<p><a href="/news/1091437">Одесский Автомайдан патрулирует улицы и помогает нуждающимся</a></p>
+	<div class="date"><span>16:30</span><span>17.01.2016</span><a href="/news/1091437#comment-start" class="com cc_1091437">11</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/article/1090310"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/poverka-schetchikov_145286411215.jpg" alt="" /></a>
+					<a href="/news/1091419"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_14530389805.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1090310">Одесситы должны знать, что поверка счетчиков бесплатна</a></p>
-	<div class="date"><span>15:29</span><span>15.01.2016</span><a href="/article/1090310#comment-start" class="com cc_1090310">5</a></div>			</div>
+				<p><a href="/news/1091419">Снегоборьба: В Одесской области на дороги уже высыпали больше тысячи тонн песка и 200 тонн соли</a></p>
+	<div class="date"><span>16:00</span><span>17.01.2016</span><a href="/news/1091419#comment-start" class="com cc_1091419">10</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1090283"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/0_145286318761.jpg" alt="" /></a>
+					<a href="/news/1091397"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145303721632.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1090283">Саакашвили рекомендовал отправить школьников на каникулы (ВИДЕО)</a></p>
-	<div class="date"><span>15:00</span><span>15.01.2016</span><a href="/article/1090283#comment-start" class="com cc_1090283">3</a></div>			</div>
+				<p><a href="/news/1091397">В Одессе между Рыбпортом и Черноморкой остановили трамвайное сообщение</a></p>
+	<div class="date"><span>15:30</span><span>17.01.2016</span><a href="/news/1091397#comment-start" class="com cc_1091397">2</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/article/1090267"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/screenshot_1_145286277621.png" alt="" /></a>
+					<a href="/news/1091390"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/db20kmc1bzo_145303693185.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1090267">Одесский аэропорт открывает ночной рейс в Стамбул</a></p>
-	<div class="date"><span>14:56</span><span>15.01.2016</span><a href="/article/1090267#comment-start" class="com cc_1090267">4</a></div>			</div>
+				<p><a href="/news/1091390">В связи с непогодой Труханов объявил в Одессе понедельник выходным</a></p>
+	<div class="date"><span>15:00</span><span>17.01.2016</span><a href="/news/1091390#comment-start" class="com cc_1091390">43</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1090205"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/newsvideopic_rabotniki-promrynka-7-kilometr-perekryli-ovidiop038135_145286067571.jpg" alt="" /></a>
+					<a href="/news/1091350"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_port_145303382526.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1090205">Война за рынок "7 километр" - война продолжается</a></p>
-	<div class="date"><span>14:25</span><span>15.01.2016</span><a href="/article/1090205#comment-start" class="com cc_1090205">7</a></div>			</div>
+				<p><a href="/news/1091350">Стихия: В Одесской области закрыты три порта и канал "Дунай-Черное море"</a></p>
+	<div class="date"><span>14:30</span><span>17.01.2016</span><a href="/news/1091350#comment-start" class="com cc_1091350">1</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1089960"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145285274883.jpg" alt="" /></a>
+					<a href="/news/1091333"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/502_600_145303249589.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089960">Одесские спасатели изготовили 11 буржуек для бойцов АТО под Мариуполем</a></p>
-	<div class="date"><span>14:07</span><span>15.01.2016</span><a href="/news/1089960#comment-start" class="com cc_1089960">9</a></div>			</div>
+				<p><a href="/news/1091333">Опять не выпускают самолет: Одесский аэропорт закрыт на прием и отправку</a></p>
+	<div class="date"><span>14:00</span><span>17.01.2016</span><a href="/news/1091333#comment-start" class="com cc_1091333">1</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/news/1089931"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/granica4_145285186025.jpg" alt="" /></a>
+					<a href="/news/1091322"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_2_145303143346.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089931">В Одессе готовят несколько показательных примеров, чтобы остановить коррупцию в таможне</a></p>
-	<div class="date"><span>13:23</span><span>15.01.2016</span><a href="/news/1089931#comment-start" class="com cc_1089931">12</a></div>			</div>
+				<p><a href="/news/1091322">Стихия в Одесской области: Трассы закрыты, 30 сел без света</a></p>
+	<div class="date"><span>13:30</span><span>17.01.2016</span><a href="/news/1091322#comment-start" class="com cc_1091322">9</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/article/1089894"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_14528506394.jpg" alt="" /></a>
+					<a href="/news/1091290"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/p60117-111117_145302882299.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089894">Ди Каприо рассказал о своей бабушке-одесситке (ВИДЕО)</a></p>
-	<div class="date"><span>13:00</span><span>15.01.2016</span><a href="/article/1089894#comment-start" class="com cc_1089894">11</a></div>			</div>
+				<p><a href="/news/1091290">После пожара: Одесский рынок "Меркурий" превратился в декорации к фильму-катастрофе (ФОТОРЕПОРТАЖ)</a></p>
+	<div class="date"><span>13:00</span><span>17.01.2016</span><a href="/news/1091290#comment-start" class="com cc_1091290">7</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/819954"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/ab907298b28e88b2ba2f98dbb8dc53d881318bc212ee146_pimgpsh_fullsize_distr_142417346789_145285974413.jpg" alt="" /></a>
+					<a href="/news/1091271"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145302707064.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/819954">Мультифункциональное стекло — выбор современных людей ценящих комфорт</a></p>
-	<div class="date"><span class="specialty ad">Новости компаний</span><br /><span>13:00</span><span>15.01.2016</span></div>			</div>
+				<p><a href="/news/1091271">"Демальянс": под Одессой похитили и избили человека</a></p>
+	<div class="date"><span>12:30</span><span>17.01.2016</span><a href="/news/1091271#comment-start" class="com cc_1091271">6</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1090018"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/index_145285451028.jpg" alt="" /></a>
+					<a href="/news/1091230"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145302329510.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1090018">В Одессе  объявлен  карантин в школах до 25 января</a></p>
-	<div class="date"><span>12:45</span><span>15.01.2016</span><a href="/news/1090018#comment-start" class="com cc_1090018">9</a></div>			</div>
+				<p><a href="/news/1091230">В Одессе на дороги вывели всю снегоуборочную технику</a></p>
+	<div class="date"><span>12:00</span><span>17.01.2016</span><a href="/news/1091230#comment-start" class="com cc_1091230">24</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1089865"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145284999170.jpg" alt="" /></a>
+					<a href="/news/1091229"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145302312952.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089865">Не все так плохо в Одессе. По числу ДТП город не попал даже в десятку самых аварийных городов страны</a></p>
-	<div class="date"><span>12:23</span><span>15.01.2016</span><a href="/article/1089865#comment-start" class="com cc_1089865">8</a></div>			</div>
+				<p><a href="/news/1091229">В аварии погиб известный одесский нейрохирург</a></p>
+	<div class="date"><span>11:30</span><span>17.01.2016</span><a href="/news/1091229#comment-start" class="com cc_1091229">27</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1089944"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145285224350.jpg" alt="" /></a>
+					<a href="/news/1091200"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/17_145302011936.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089944">В Одессе горел двухэтажный дом</a></p>
-	<div class="date"><span>12:01</span><span>15.01.2016</span></div>			</div>
+				<p><a href="/news/1091200">В Одессу завезли снег: Как соцсети отреагировали на погоду (ФОТО)</a></p>
+	<div class="date"><span>11:00</span><span>17.01.2016</span><a href="/news/1091200#comment-start" class="com cc_1091200">14</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/news/1089840"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_14528492199.jpg" alt="" /></a>
+					<a href="/news/1091185"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/678(1)_145301924943.jpeg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089840">Дети мечтали – папа написал: одесситы сочинили песню о своем любимом городе (ВИДЕО)</a></p>
-	<div class="date"><span>12:00</span><span>15.01.2016</span><a href="/news/1089840#comment-start" class="com cc_1089840">4</a></div>			</div>
+				<p><a href="/news/1091185">Мэра курортного поселка под Одессой и главного архитектора арестовал суд</a></p>
+	<div class="date"><span>10:30</span><span>17.01.2016</span><a href="/news/1091185#comment-start" class="com cc_1091185">3</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1089864"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/kids_dou2_145284996790.jpg" alt="" /></a>
+					<a href="/news/1091176"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145301840491.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089864">Саакашвили отдал Кадору  под 24-ю Жемчужину земли Минобороны</a></p>
-	<div class="date"><span>11:45</span><span>15.01.2016</span><a href="/news/1089864#comment-start" class="com cc_1089864">21</a></div>			</div>
+				<p><a href="/news/1091176">ГСЧС: На рынке "Меркурий" в Одессе пожар уничтожил 20 магазинов, еще 10 повредил</a></p>
+	<div class="date"><span>10:00</span><span>17.01.2016</span><a href="/news/1091176#comment-start" class="com cc_1091176">5</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/news/1089857"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145284971662.jpg" alt="" /></a>
+					<a href="/news/1091156"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_14530160449.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089857">Число жертв гриппа в Одессе увеличилось до 12 человек</a></p>
-	<div class="date"><span>11:21</span><span>15.01.2016</span><a href="/news/1089857#comment-start" class="com cc_1089857">1</a></div>			</div>
+				<p><a href="/news/1091156">В Одессе развернуты пункты обогрева граждан</a></p>
+	<div class="date"><span>09:30</span><span>17.01.2016</span><a href="/news/1091156#comment-start" class="com cc_1091156">8</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/article/1089812"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1616241_145284870295.jpg" alt="" /></a>
+					<a href="/news/1091139"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_gryzovik_145301365692.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089812">В Одессе очередной  масштабный пожар уничтожил квартиру</a></p>
-	<div class="date"><span>11:12</span><span>15.01.2016</span><a href="/article/1089812#comment-start" class="com cc_1089812">2</a></div>			</div>
+				<p><a href="/news/1091139">Одесса закрыта: Из-за снегопада все подъезды к Одессе и транспортные артерии области закрыты</a></p>
+	<div class="date"><span>09:00</span><span>17.01.2016</span><a href="/news/1091139#comment-start" class="com cc_1091139">12</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/news/1089548"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_povertaisia_jivim_145284117591.jpg" alt="" /></a>
+					<a href="/news/1091023"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145295642224.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089548">«Возвращайся живым»: в Одессе на концерте соберут деньги на нужды военных</a></p>
-	<div class="date"><span>10:33</span><span>15.01.2016</span><a href="/news/1089548#comment-start" class="com cc_1089548">11</a></div>			</div>
+				<p><a href="/news/1091023">Масштабный пожар в Одессе на Котовского локализирован. Угрозы для "Семьи" нет (ФОТО, ДОБАВЛЕНО ВИДЕО)</a></p>
+	<div class="date"><span>16:59</span><span>16.01.2016</span><a href="/news/1091023#comment-start" class="com cc_1091023">7</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1089523"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145284010564.jpg" alt="" /></a>
+					<a href="/news/1090660"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/0_bdd5f_8db66d4a_-1-xl_145289545638.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089523">Шел третий год войны... Саакашвили был в шоке, когда увидел условия службы одесского батальона Шторм в Мариуполе  (ВИДЕО)</a></p>
-	<div class="date"><span>10:00</span><span>15.01.2016</span><a href="/news/1089523#comment-start" class="com cc_1089523">22</a></div>			</div>
+				<p><a href="/news/1090660">Московский патриархат в Одессе гонит верующих в море и готовится освящать бюветы</a></p>
+	<div class="date"><span>16:30</span><span>16.01.2016</span><a href="/news/1090660#comment-start" class="com cc_1090660">29</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1089451"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/d0130b4564f7f3870520503fb43f_145283579169.jpg" alt="" /></a>
+					<a href="/news/1091005"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/4_145295511278.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089451">Родители  одесских школьников обеспокоены отсутствием карантина</a></p>
-	<div class="date"><span>09:23</span><span>15.01.2016</span><a href="/article/1089451#comment-start" class="com cc_1089451">14</a></div>			</div>
+				<p><a href="/news/1091005">На Котовского в Одессе из-за пожара эвакуируют людей из ТЦ "Семья"</a></p>
+	<div class="date"><span>16:28</span><span>16.01.2016</span><a href="/news/1091005#comment-start" class="com cc_1091005">7</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/article/1089457"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1355130189_qwerfvcxz600_145283657188.jpg" alt="" /></a>
+					<a href="/news/1090992"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/6_145295396255.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089457">Сегодня на проспекте Гагарина и Пересыпи не  будет света</a></p>
-	<div class="date"><span class="specialty now">в связи с плановыми ремонтными работами</span><br /><span>09:10</span><span>15.01.2016</span><a href="/article/1089457#comment-start" class="com cc_1089457">1</a></div>			</div>
+				<p><a href="/news/1090992">В Одессе на Котовского горит рынок "Меркурий" (ФОТО, ОБНОВЛЯЕТСЯ)</a></p>
+	<div class="date"><span>16:08</span><span>16.01.2016</span><a href="/news/1090992#comment-start" class="com cc_1090992">17</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1089448"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/3.php_145283419043.jpg" alt="" /></a>
+					<a href="/news/1090658"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145289496830.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089448">Работники КП "Одесгорэлектротранс": водитель молодая и не справилась с управлением (ФОТО)</a></p>
-	<div class="date"><span class="specialty now">ДТП на Старосенной</span><br /><span>08:51</span><span>15.01.2016</span><a href="/article/1089448#comment-start" class="com cc_1089448">8</a></div>			</div>
+				<p><a href="/news/1090658">Одесситы сообщили в полицию адреса работающих казино в городе (ФОТО)</a></p>
+	<div class="date"><span>16:00</span><span>16.01.2016</span><a href="/news/1090658#comment-start" class="com cc_1090658">4</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1083828"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145233282388.jpg" alt="" /></a>
+					<a href="/news/1090606"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/3_main_14528843974.jpeg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1083828">Готовимся к выходным: 5 способов отдохнуть в Одессе уже сегодня (ФОТО)</a></p>
-	<div class="date"><span>08:30</span><span>15.01.2016</span><a href="/news/1083828#comment-start" class="com cc_1083828">4</a></div>			</div>
+				<p><a href="/news/1090606">Одесса готовится к новому удару стихии</a></p>
+	<div class="date"><span>15:30</span><span>16.01.2016</span><a href="/news/1090606#comment-start" class="com cc_1090606">6</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1089295"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_141180685482_145278738686.jpg" alt="" /></a>
+					<a href="/news/1090618"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/morvokzal_odessa_145288737231.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089295">Одесские  полицейские пощипали "наливайки" в спальных районах города</a></p>
-	<div class="date"><span>18:16</span><span>14.01.2016</span><a href="/article/1089295#comment-start" class="com cc_1089295">16</a></div>			</div>
+				<p><a href="/news/1090618">Серпом по взяткам: Одесскую таможню ожидает кадровая революция (ИНФОГРАФИКА)</a></p>
+	<div class="date"><span>15:00</span><span>16.01.2016</span><a href="/news/1090618#comment-start" class="com cc_1090618">13</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/article/1088975"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145277532679.jpg" alt="" /></a>
+					<a href="/news/1090654"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/picturepicture_9506890094307_774_145289421636.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1088975">Одесских чиновников обвинили в сокрытии схем размещения МАФов</a></p>
-	<div class="date"><span>18:00</span><span>14.01.2016</span><a href="/article/1088975#comment-start" class="com cc_1088975">5</a></div>			</div>
+				<p><a href="/news/1090654">Организаторы массовой трагедии в Одессе 2 мая 2014 года до середины марта останутся за решеткой</a></p>
+	<div class="date"><span>14:30</span><span>16.01.2016</span><a href="/news/1090654#comment-start" class="com cc_1090654">11</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/news/1088953"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145277471962.jpg" alt="" /></a>
+					<a href="/news/1090608"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/lzxsxsbja7y_145288476530.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1088953">Крещенские купания в Одессе пройдут под треск крещенских морозов</a></p>
-	<div class="date"><span>17:00</span><span>14.01.2016</span><a href="/news/1088953#comment-start" class="com cc_1088953">6</a></div>			</div>
+				<p><a href="/news/1090608">Под Одессой вместо ремонта дорог, устанавливают предупредительные знаки (ФОТО)</a></p>
+	<div class="date"><span>14:00</span><span>16.01.2016</span><a href="/news/1090608#comment-start" class="com cc_1090608">5</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1089245"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/2_145278375037.jpg" alt="" /></a>
+					<a href="/article/1090921"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/screenshot_6_14529456417.png" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1089245">В Одессе полиция прикрыла три подпольных казино (ФОТО)</a></p>
-	<div class="date"><span>16:56</span><span>14.01.2016</span><a href="/news/1089245#comment-start" class="com cc_1089245">7</a></div>			</div>
+				<p><a href="/article/1090921">Ничего не меняется или как  в Одессе и Харькове отжали магазины сети Symbol без объяснения</a></p>
+	<div class="date"><span>13:53</span><span>16.01.2016</span><a href="/article/1090921#comment-start" class="com cc_1090921">13</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1089149"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/1_145278053450.jpg" alt="" /></a>
+					<a href="/news/1090639"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/12514521_962973727126523_1377120337_n_145289066583.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089149">Истоник в ГСЧС в Одессе: "Малибу" замкнуло</a></p>
-	<div class="date"><span>16:36</span><span>14.01.2016</span><a href="/article/1089149#comment-start" class="com cc_1089149">8</a></div>			</div>
+				<p><a href="/news/1090639">Руководство курортного поселка под Одессой попалось на земельных аферах (ВИДЕО)</a></p>
+	<div class="date"><span>13:30</span><span>16.01.2016</span><a href="/news/1090639#comment-start" class="com cc_1090639">8</a></div>			</div>
 		</div>
 				</div>
 				<div class="items half wide">
 					<div class="item">
 							<div class="image">
-					<a href="/news/1088928"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145277384731.jpg" alt="" /></a>
+					<a href="/news/1090644"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/img_8795-e1452807587677-300x169_145289145049.png" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/news/1088928">Саакашвили пошептал! Кучурган начали благоустраивать</a></p>
-	<div class="date"><span>16:09</span><span>14.01.2016</span><a href="/news/1088928#comment-start" class="com cc_1088928">9</a></div>			</div>
+				<p><a href="/news/1090644">В Одесской области под главной ёлкой райцентра произошла масштабная авария (ВИДЕО)</a></p>
+	<div class="date"><span>13:00</span><span>16.01.2016</span><a href="/news/1090644#comment-start" class="com cc_1090644">4</a></div>			</div>
 		</div>
 				<div class="item last">
 							<div class="image">
-					<a href="/article/1089147"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/0_145278043298.jpg" alt="" /></a>
+					<a href="/news/1090585"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/indexsmall/upload/images/news/icon/_145287927436.jpg" alt="" /></a>
 				</div>
 					
 			<div class="text">
-				<p><a href="/article/1089147">В Одессе от калифорнийского гриппа умер еще один человек</a></p>
-	<div class="date"><span>16:01</span><span>14.01.2016</span><a href="/article/1089147#comment-start" class="com cc_1089147">14</a></div>			</div>
+				<p><a href="/news/1090585">Дорожники просят автомобилистов не выезжать сегодня и завтра из Одессы</a></p>
+	<div class="date"><span>12:30</span><span>16.01.2016</span><a href="/news/1090585#comment-start" class="com cc_1090585">4</a></div>			</div>
 		</div>
 				</div>
 			<a href="/news/cat/last/2" class="btn_grey button loader">Ещё новости...</a>
@@ -1014,8 +1000,8 @@ $(document).ready(function () {
 		</ul>
 </div>
 </div>
-<div class="in-one 254103409 banner_box" style="height:200px;"><div class="carouselNav" id="carouselNav_254103409"  ><div class="sliderNav sliderRefresh_254103409" >↻</div></div><div class="b-list sliderWrapper" id="box_254103409"></div><div class="sliderStore"><div id="254103409_1" class="banner_box rounding update 254103409_box " style="height:200px"  data-place="27" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 345px; height: 200px;" src="http://s.citysites.ua/upload/pers/4/jackets/kuhny_kolss_345x200_pr_145260511465/kuhny_kolss_345x200_pr_145260511465.html" class="HTMLContainer"></iframe><!--/noindex--></div><div id="254103409_2" class="banner_box rounding update 254103409_box " style="height:200px"  data-place="27" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 345px; height: 200px;" src="http://s.citysites.ua/upload/pers/4/jackets/fk_barselona_345x200_14525197506/fk_barselona_345x200_14525197506.html?clickTAG=http://fcbescoladubai.com/ukraine/" class="HTMLContainer"></iframe><!--/noindex--></div><div id="254103409_3" class="banner_box rounding update 254103409_box " style="height:200px"  data-place="27" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 345px; height: 200px;" src="http://s.citysites.ua/upload/pers/4/jackets/web_(3)_144974084465/web_(3)_144974084465.html" class="HTMLContainer"></iframe><!--/noindex--></div><div id="254103409_4" class="banner_box rounding update 254103409_box " style="height:200px"  data-place="27" data-time="20000" ><!--noindex-->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="345" height="200" id="jacket569913ef8a909">
+<div class="in-one 1533070437 banner_box" style="height:200px;"><div class="carouselNav" id="carouselNav_1533070437"  ><div class="sliderNav sliderRefresh_1533070437" >↻</div></div><div class="b-list sliderWrapper" id="box_1533070437"></div><div class="sliderStore"><div id="1533070437_1" class="banner_box rounding update 1533070437_box " style="height:200px"  data-place="27" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 345px; height: 200px;" src="http://s.citysites.ua/upload/pers/4/jackets/fk_barselona_345x200_14525197506/fk_barselona_345x200_14525197506.html?clickTAG=http://fcbescoladubai.com/ukraine/" class="HTMLContainer"></iframe><!--/noindex--></div><div id="1533070437_2" class="banner_box rounding update 1533070437_box " style="height:200px"  data-place="27" data-time="20000" ><!--noindex--><iframe style="border: 0px; width: 345px; height: 200px;" src="http://s.citysites.ua/upload/pers/4/jackets/web_(3)_144974084465/web_(3)_144974084465.html" class="HTMLContainer"></iframe><!--/noindex--></div><div id="1533070437_3" class="banner_box rounding update 1533070437_box " style="height:200px"  data-place="27" data-time="20000" ><!--noindex-->
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="345" height="200" id="jacket569c00ad5c466">
       <param name="movie" value="http://s.citysites.ua/upload/pers/4/jackets/048_its_noiabr_144829078768.swf" />
       <param name="wmode" value="opaque" />
       <!--[if !IE]>-->
@@ -1029,25 +1015,25 @@ $(document).ready(function () {
     </object><!--/noindex--></div></div></div>
             <script>
 $(document).ready(function () {
-    var c254103409 = new carousel();
-    c254103409.qty = "4"
-    c254103409.idSalt = "254103409";
-    c254103409.showSlide();
-    c254103409.autoplay = false;
+    var c1533070437 = new carousel();
+    c1533070437.qty = "3"
+    c1533070437.idSalt = "1533070437";
+    c1533070437.showSlide();
+    c1533070437.autoplay = false;
     // increase slide after first refresh
-    c254103409.curId ++;
+    c1533070437.curId ++;
         
     // handler for direct slide view
-    $(".sliderNav_" + c254103409.idSalt).click(function () {
-        clearTimeout(c254103409.timer);
+    $(".sliderNav_" + c1533070437.idSalt).click(function () {
+        clearTimeout(c1533070437.timer);
         var id = $(this).attr("data-id");
-        c254103409.curId = id;
-        c254103409.iterateSlide();
+        c1533070437.curId = id;
+        c1533070437.iterateSlide();
 
     });
     // handler for refresh button
-    $(".sliderRefresh_" + c254103409.idSalt).click(function () {
-        c254103409.iterateSlide();
+    $(".sliderRefresh_" + c1533070437.idSalt).click(function () {
+        c1533070437.iterateSlide();
     });
 })
 			</script><div class="right_add_news gray_box rounding">
@@ -1066,38 +1052,38 @@ $(document).ready(function () {
 	</div><!--.top-->
 	<ul id="weekComList">
 			<li>
-				<a class="imagelink" href="/article/1083640"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/1_145227409435.jpg" alt="" /></a>
-				<div class="info">
-					<h3><a href="/article/1083640">Об астрономии и религии: почему Украина отмечает Рождество 7 января</a></h3>
-					<div class="items"><div class="date"><span>09:00</span><span>10.01.2016</span><a href="/article/1083640#comment-start" class="com cc_1083640">78</a></div></div><!--.news_head-->
-				</div><!--.info-->
-			</li>
-			<li>
 				<a class="imagelink" href="/article/1086940"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/gripp_14526260772.jpg" alt="" /></a>
 				<div class="info">
 					<h3><a href="/article/1086940">Калифорнийский грипп в Одессе. Никто  никого не  хочет  пугать. Но...</a></h3>
-					<div class="items"><div class="date"><span>21:05</span><span>12.01.2016</span><a href="/article/1086940#comment-start" class="com cc_1086940">53</a></div></div><!--.news_head-->
+					<div class="items"><div class="date"><span>21:05</span><span>12.01.2016</span><a href="/article/1086940#comment-start" class="com cc_1086940">54</a></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 			<li>
-				<a class="imagelink" href="/news/1084074"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/_145237290566.jpg" alt="" /></a>
+				<a class="imagelink" href="/news/1091390"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/db20kmc1bzo_145303693185.jpg" alt="" /></a>
 				<div class="info">
-					<h3><a href="/news/1084074">В Одессе со стрельбой военные моряки остановили диверсантов</a></h3>
-					<div class="items"><div class="date"><span>09:30</span><span>10.01.2016</span><a href="/news/1084074#comment-start" class="com cc_1084074">39</a></div></div><!--.news_head-->
+					<h3><a href="/news/1091390">В связи с непогодой Труханов объявил в Одессе понедельник выходным</a></h3>
+					<div class="items"><div class="date"><span>15:00</span><span>17.01.2016</span><a href="/news/1091390#comment-start" class="com cc_1091390">43</a></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 			<li>
-				<a class="imagelink" href="/news/1083934"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/attachment.php_145234194437.jpg" alt="" /></a>
+				<a class="imagelink" href="/news/1090624"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/pic_88d063d3b4132e0bf3cec05176f54b94_145288846949.jpg" alt="" /></a>
 				<div class="info">
-					<h3><a href="/news/1083934">В Одессе "разули" машину-прокладку (ФОТО)</a></h3>
-					<div class="items"><div class="date"><span>16:00</span><span>09.01.2016</span><a href="/news/1083934#comment-start" class="com cc_1083934">38</a></div></div><!--.news_head-->
+					<h3><a href="/news/1090624">Официально: Гайдар стала заместителем Саакашвили</a></h3>
+					<div class="items"><div class="date"><span>08:30</span><span>16.01.2016</span><a href="/news/1090624#comment-start" class="com cc_1090624">35</a></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 			<li>
-				<a class="imagelink" href="/news/1083597"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/_145226565247.jpg" alt="" /></a>
+				<a class="imagelink" href="/news/1086652"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/4_145260522478.jpg" alt="" /></a>
 				<div class="info">
-					<h3><a href="/news/1083597">Саакашвили создал штаб по ликвидации последствий стихии</a></h3>
-					<div class="items"><div class="date"><span>17:00</span><span>08.01.2016</span><a href="/news/1083597#comment-start" class="com cc_1083597">33</a></div></div><!--.news_head-->
+					<h3><a href="/news/1086652">В одесских супермаркетах торгуют игрушечными машинками МЧС и Минобороны РФ (ФОТО)</a></h3>
+					<div class="items"><div class="date"><span>15:24</span><span>12.01.2016</span><a href="/news/1086652#comment-start" class="com cc_1086652">33</a><span class="media"><img src="/design/img/icon_photo2.png" alt="" /></span></div></div><!--.news_head-->
+				</div><!--.info-->
+			</li>
+			<li>
+				<a class="imagelink" href="/news/1090660"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/0_bdd5f_8db66d4a_-1-xl_145289545638.jpg" alt="" /></a>
+				<div class="info">
+					<h3><a href="/news/1090660">Московский патриархат в Одессе гонит верующих в море и готовится освящать бюветы</a></h3>
+					<div class="items"><div class="date"><span>16:30</span><span>16.01.2016</span><a href="/news/1090660#comment-start" class="com cc_1090660">29</a></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 	</ul>
@@ -1113,21 +1099,14 @@ $(document).ready(function () {
 				<a class="imagelink" href="/article/1066826"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/1_145051964111.jpg" alt="" /></a>
 				<div class="info">
 					<h3><a href="/article/1066826">Аваков: В деле 2 мая фигурирует активист "Правого Сектора"</a></h3>
-					<div class="items"><div class="date"><span>17:00</span><span>19.12.2015</span><a href="/article/1066826#comment-start" class="com cc_1066826">83</a></div></div><!--.news_head-->
-				</div><!--.info-->
-			</li>
-			<li>
-				<a class="imagelink" href="/news/1065046"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/_145035883671.jpg" alt="" /></a>
-				<div class="info">
-					<h3><a href="/news/1065046">Нардеп: В субботу сепаратисты готовятся объявить об автономии одесской Бессарабии</a></h3>
-					<div class="items"><div class="date"><span>15:10</span><span>17.12.2015</span><a href="/news/1065046#comment-start" class="com cc_1065046">82</a></div></div><!--.news_head-->
+					<div class="items"><div class="date"><span>17:00</span><span>19.12.2015</span><a href="/article/1066826#comment-start" class="com cc_1066826">84</a></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 			<li>
 				<a class="imagelink" href="/article/1083640"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/1_145227409435.jpg" alt="" /></a>
 				<div class="info">
 					<h3><a href="/article/1083640">Об астрономии и религии: почему Украина отмечает Рождество 7 января</a></h3>
-					<div class="items"><div class="date"><span>09:00</span><span>10.01.2016</span><a href="/article/1083640#comment-start" class="com cc_1083640">78</a></div></div><!--.news_head-->
+					<div class="items"><div class="date"><span>09:00</span><span>10.01.2016</span><a href="/article/1083640#comment-start" class="com cc_1083640">80</a></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 			<li>
@@ -1135,6 +1114,13 @@ $(document).ready(function () {
 				<div class="info">
 					<h3><a href="/news/1079286">Люди, которые меняют Одессу: 22 истории, вдохновляющие на действие. Часть первая</a></h3>
 					<div class="items"><div class="date"><span>09:00</span><span>02.01.2016</span><a href="/news/1079286#comment-start" class="com cc_1079286">72</a><span class="media"><img src="/design/img/icon_photo2.png" alt="" /></span></div></div><!--.news_head-->
+				</div><!--.info-->
+			</li>
+			<li>
+				<a class="imagelink" href="/news/1066119"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/img_8280_145043956310.jpg" alt="" /></a>
+				<div class="info">
+					<h3><a href="/news/1066119">Одесса, кроме декоммунизации, нуждается еще в "деимпериализации" (ФОТО)</a></h3>
+					<div class="items"><div class="date"><span>13:50</span><span>18.12.2015</span><a href="/news/1066119#comment-start" class="com cc_1066119">71</a><span class="media"><img src="/design/img/icon_photo2.png" alt="" /></span></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 	</ul>
@@ -1157,7 +1143,7 @@ $(document).ready(function () {
 				<a class="imagelink" href="/news/959730"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/small/upload/images/news/icon/_144222008334.jpg" alt="" /></a>
 				<div class="info">
 					<h3><a href="/news/959730">Несмотря на неприятие «русского мира» в Одессе, террористы продолжают его насаждать</a></h3>
-					<div class="items"><div class="date"><span>12:10</span><span>14.09.2015</span><a href="/news/959730#comment-start" class="com cc_959730">267</a></div></div><!--.news_head-->
+					<div class="items"><div class="date"><span>12:10</span><span>14.09.2015</span><a href="/news/959730#comment-start" class="com cc_959730">274</a></div></div><!--.news_head-->
 				</div><!--.info-->
 			</li>
 			<li>
@@ -1176,15 +1162,7 @@ $(document).ready(function () {
 			</li>
 	</ul>
 </div>
-<div class="banner_box rounding"><!--noindex--><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- citysites_300x250 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-1997604921077896"
-     data-ad-slot="5887160856"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><!--/noindex--></div><div class="banner_box rounding"><!--noindex--><div id="n4p_27345">Loading...</div>
+<div class="banner_box rounding"><!--noindex--><iframe style="border: 0px; width: 345px; height: 200px;" src="http://s.citysites.ua/upload/pers/4/jackets/kuhny_kolss_345x200_pr_145260511465/kuhny_kolss_345x200_pr_145260511465.html" class="HTMLContainer"></iframe><!--/noindex--></div><div class="banner_box rounding"><!--noindex--><div id="n4p_27345">Loading...</div>
 <script type="text/javascript" charset="utf-8">
   (function(d,s){
     var o=d.createElement(s);
@@ -1200,7 +1178,7 @@ $(document).ready(function () {
     var x=d.getElementsByTagName(s)[0];
     x.parentNode.insertBefore(o,x);
   })(document,"script");
-</script> <!--/noindex--></div><div class="banner_box rounding"><!--noindex-->
+</script> <!--/noindex--></div><div class="banner_box rounding"><!--noindex--><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- citysites_300x250 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:300px;height:250px"
@@ -1212,38 +1190,38 @@ $(document).ready(function () {
 		<div class="top"><h4>Важные новости</h4></div>
 		<ul>
 							<li>
-					<a class="imagelink" href="/news/1090380"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/_2_145286605374.png" alt="" /></a>
+					<a class="imagelink" href="/news/1091489"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/p60117-183148_145305145769.jpg" alt="" /></a>
 					<div class="info">
-						<h3><a href="/news/1090380">Саакашвили: следы "ореховой мафии" ведут в Киев (ФОТО, ВИДЕО)</a></h3>
-						<div class="items"><div class="date"><span>16:25</span><span>15.01.2016</span><a href="/news/1090380#comment-start" class="com cc_1090380">3</a><span class="media"><img src="/design/img/icon_photo2.png" alt="" /></span><span class="media"><img src="/design/img/icon_video.png" alt="" /></span></div></div><!--.news_head-->
+						<h3><a href="/news/1091489">Хлебный ажиотаж: В Одессе с прилавков исчез продукт №1</a></h3>
+						<div class="items"><div class="date"><span>19:30</span><span>17.01.2016</span><a href="/news/1091489#comment-start" class="com cc_1091489">10</a></div></div><!--.news_head-->
 					</div>
 				</li>
 								<li>
-					<a class="imagelink" href="/news/1089857"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/_145284971662.jpg" alt="" /></a>
+					<a class="imagelink" href="/news/1091478"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/1_145304926510.jpg" alt="" /></a>
 					<div class="info">
-						<h3><a href="/news/1089857">Число жертв гриппа в Одессе увеличилось до 12 человек</a></h3>
-						<div class="items"><div class="date"><span>11:21</span><span>15.01.2016</span><a href="/news/1089857#comment-start" class="com cc_1089857">1</a></div></div><!--.news_head-->
+						<h3><a href="/news/1091478">Одесситы предлагают помощь всем, кто застрял в снегу</a></h3>
+						<div class="items"><div class="date"><span>18:40</span><span>17.01.2016</span><a href="/news/1091478#comment-start" class="com cc_1091478">27</a></div></div><!--.news_head-->
 					</div>
 				</li>
 								<li>
-					<a class="imagelink" href="/news/1087547"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/_145268080983.jpg" alt="" /></a>
+					<a class="imagelink" href="/news/1091453"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/_145304574124.jpg" alt="" /></a>
 					<div class="info">
-						<h3><a href="/news/1087547">После очистки одесских дорог от автохамов, центр города можно будет пересечь всего за 5 минут, - Дубенко</a></h3>
-						<div class="items"><div class="date"><span>14:00</span><span>13.01.2016</span><a href="/news/1087547#comment-start" class="com cc_1087547">13</a></div></div><!--.news_head-->
+						<h3><a href="/news/1091453">Из-за снегопада в Одессе остановлены 4 трамвайных маршрута</a></h3>
+						<div class="items"><div class="date"><span>18:00</span><span>17.01.2016</span><a href="/news/1091453#comment-start" class="com cc_1091453">2</a></div></div><!--.news_head-->
 					</div>
 				</li>
 								<li>
-					<a class="imagelink" href="/news/1087118"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/1_145266879086.jpg" alt="" /></a>
+					<a class="imagelink" href="/news/1091350"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/_port_145303382526.jpg" alt="" /></a>
 					<div class="info">
-						<h3><a href="/news/1087118">Спасатели пока не знают, отчего сгорел "Малибу"</a></h3>
-						<div class="items"><div class="date"><span>09:01</span><span>13.01.2016</span><a href="/news/1087118#comment-start" class="com cc_1087118">6</a></div></div><!--.news_head-->
+						<h3><a href="/news/1091350">Стихия: В Одесской области закрыты три порта и канал "Дунай-Черное море"</a></h3>
+						<div class="items"><div class="date"><span>14:30</span><span>17.01.2016</span><a href="/news/1091350#comment-start" class="com cc_1091350">1</a></div></div><!--.news_head-->
 					</div>
 				</li>
 								<li>
-					<a class="imagelink" href="/article/1086940"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/gripp_14526260772.jpg" alt="" /></a>
+					<a class="imagelink" href="/news/1091333"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/squarebig/upload/images/news/icon/502_600_145303249589.jpg" alt="" /></a>
 					<div class="info">
-						<h3><a href="/article/1086940">Калифорнийский грипп в Одессе. Никто  никого не  хочет  пугать. Но...</a></h3>
-						<div class="items"><div class="date"><span>21:05</span><span>12.01.2016</span><a href="/article/1086940#comment-start" class="com cc_1086940">53</a></div></div><!--.news_head-->
+						<h3><a href="/news/1091333">Опять не выпускают самолет: Одесский аэропорт закрыт на прием и отправку</a></h3>
+						<div class="items"><div class="date"><span>14:00</span><span>17.01.2016</span><a href="/news/1091333#comment-start" class="com cc_1091333">1</a></div></div><!--.news_head-->
 					</div>
 				</li>
 						</ul>
@@ -1278,20 +1256,20 @@ var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i,
 	<div class="top tab">
 		<h4>Фоторепортажи</h4>
 		<ul class="num">
-			<li data-contentid="1090380" class="active"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
+			<li data-contentid="1091479" class="active"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
+			<li data-contentid="1091290"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
+			<li data-contentid="1091200"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
+			<li data-contentid="1091023"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
+			<li data-contentid="1090992"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
+			<li data-contentid="1083787"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
+			<li data-contentid="1090380"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
 			<li data-contentid="1089448"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
 			<li data-contentid="1083828"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
 			<li data-contentid="1089245"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
 			<li data-contentid="1088900"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
-			<li data-contentid="1088706"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
-			<li data-contentid="1083825"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
-			<li data-contentid="1083814"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
-			<li data-contentid="1086908"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
-			<li data-contentid="1086652"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
-			<li data-contentid="1086090"><img src="/design/img/afisha_marker.png" alt="" width="11" height="11" /></li>
 		</ul>
 	</div><!--.top-->
-	<div contentid="1090380" class="media_content"><div class="big_img_box"><a href="/news/1090380"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/_2_145286605374.png" alt="Саакашвили: следы &quot;ореховой мафии&quot; ведут в Киев (ФОТО, ВИДЕО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1090380">Саакашвили: следы "ореховой мафии" ведут в Киев (ФОТО, ВИДЕО)</a></h3></div><!--.media_content--><div contentid="1089448" class="media_content" style="display:none;"><div class="big_img_box"><a href="/article/1089448"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/3.php_145283419043.jpg" alt="Работники КП &quot;Одесгорэлектротранс&quot;: водитель молодая и не справилась с управлением (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/article/1089448">Работники КП "Одесгорэлектротранс": водитель молодая и не справилась с управлением (ФОТО)</a></h3></div><!--.media_content--><div contentid="1083828" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1083828"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/1_145233282388.jpg" alt="Готовимся к выходным: 5 способов отдохнуть в Одессе уже сегодня (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1083828">Готовимся к выходным: 5 способов отдохнуть в Одессе уже сегодня (ФОТО)</a></h3></div><!--.media_content--><div contentid="1089245" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1089245"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/2_145278375037.jpg" alt="В Одессе полиция прикрыла три подпольных казино (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1089245">В Одессе полиция прикрыла три подпольных казино (ФОТО)</a></h3></div><!--.media_content--><div contentid="1088900" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1088900"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/3_145277313536.jpg" alt="Одесский губернатор ушел под землю, чтобы побороть коррупцию (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1088900">Одесский губернатор ушел под землю, чтобы побороть коррупцию (ФОТО)</a></h3></div><!--.media_content--><div contentid="1088706" class="media_content" style="display:none;"><div class="big_img_box"><a href="/article/1088706"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/821069-gdmzlch0gyo_145276485320.jpg" alt="В Одессе на Старосенной площади произошло шокирующее ДТП (фото)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/article/1088706">В Одессе на Старосенной площади произошло шокирующее ДТП (фото)</a></h3></div><!--.media_content--><div contentid="1083825" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1083825"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/1_145233254050.jpg" alt="Вечер кинопремьер в Одессе: какой же новый фильм посмотреть сегодня? (ФОТО, ВИДЕО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1083825">Вечер кинопремьер в Одессе: какой же новый фильм посмотреть сегодня? (ФОТО, ВИДЕО)</a></h3></div><!--.media_content--><div contentid="1083814" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1083814"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/1_145233154620.jpg" alt="Театральный вечер в Одессе: а на какой спектакль пойдешь ты? (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1083814">Театральный вечер в Одессе: а на какой спектакль пойдешь ты? (ФОТО)</a></h3></div><!--.media_content--><div contentid="1086908" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1086908"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/2016-01-12_19.41.58_14526221433.jpg" alt="В поселке Котовского - масштабный пожар. Горит &quot;Малибу&quot; (ФОТО. ОБНОВЛЯЕТСЯ)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1086908">В поселке Котовского - масштабный пожар. Горит "Малибу" (ФОТО. ОБНОВЛЯЕТСЯ)</a></h3></div><!--.media_content--><div contentid="1086652" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1086652"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/4_145260522478.jpg" alt="В одесских супермаркетах торгуют игрушечными машинками МЧС и Минобороны РФ (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1086652">В одесских супермаркетах торгуют игрушечными машинками МЧС и Минобороны РФ (ФОТО)</a></h3></div><!--.media_content--><div contentid="1086090" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1086090"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/15_145258859016.jpg" alt="Одесситы переключились на  одежду «из вторых рук» (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1086090">Одесситы переключились на  одежду «из вторых рук» (ФОТО)</a></h3></div><!--.media_content--></div><!--.gray_box-->
+	<div contentid="1091479" class="media_content"><div class="big_img_box"><a href="/article/1091479"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/ba90fcc070f3_145304942657.jpg" alt="Одесское  море в снегопад (фото)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/article/1091479">Одесское  море в снегопад (фото)</a></h3></div><!--.media_content--><div contentid="1091290" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1091290"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/p60117-111117_145302882299.jpg" alt="После пожара: Одесский рынок &quot;Меркурий&quot; превратился в декорации к фильму-катастрофе (ФОТОРЕПОРТАЖ)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1091290">После пожара: Одесский рынок "Меркурий" превратился в декорации к фильму-катастрофе (ФОТОРЕПОРТАЖ)</a></h3></div><!--.media_content--><div contentid="1091200" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1091200"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/17_145302011936.jpg" alt="В Одессу завезли снег: Как соцсети отреагировали на погоду (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1091200">В Одессу завезли снег: Как соцсети отреагировали на погоду (ФОТО)</a></h3></div><!--.media_content--><div contentid="1091023" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1091023"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/1_145295642224.jpg" alt="Масштабный пожар в Одессе на Котовского локализирован. Угрозы для &quot;Семьи&quot; нет (ФОТО, ДОБАВЛЕНО ВИДЕО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1091023">Масштабный пожар в Одессе на Котовского локализирован. Угрозы для "Семьи" нет (ФОТО, ДОБАВЛЕНО ВИДЕО)</a></h3></div><!--.media_content--><div contentid="1090992" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1090992"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/6_145295396255.jpg" alt="В Одессе на Котовского горит рынок &quot;Меркурий&quot; (ФОТО, ОБНОВЛЯЕТСЯ)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1090992">В Одессе на Котовского горит рынок "Меркурий" (ФОТО, ОБНОВЛЯЕТСЯ)</a></h3></div><!--.media_content--><div contentid="1083787" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1083787"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/1_145232977647.jpg" alt="Одесса incognita: История, которая исчезает на глазах (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1083787">Одесса incognita: История, которая исчезает на глазах (ФОТО)</a></h3></div><!--.media_content--><div contentid="1090380" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1090380"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/_2_145286605374.png" alt="Саакашвили: следы &quot;ореховой мафии&quot; ведут в Киев (ФОТО, ВИДЕО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1090380">Саакашвили: следы "ореховой мафии" ведут в Киев (ФОТО, ВИДЕО)</a></h3></div><!--.media_content--><div contentid="1089448" class="media_content" style="display:none;"><div class="big_img_box"><a href="/article/1089448"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/3.php_145283419043.jpg" alt="Работники КП &quot;Одесгорэлектротранс&quot;: водитель молодая и не справилась с управлением (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/article/1089448">Работники КП "Одесгорэлектротранс": водитель молодая и не справилась с управлением (ФОТО)</a></h3></div><!--.media_content--><div contentid="1083828" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1083828"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/1_145233282388.jpg" alt="Готовимся к выходным: 5 способов отдохнуть в Одессе уже сегодня (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1083828">Готовимся к выходным: 5 способов отдохнуть в Одессе уже сегодня (ФОТО)</a></h3></div><!--.media_content--><div contentid="1089245" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1089245"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/2_145278375037.jpg" alt="В Одессе полиция прикрыла три подпольных казино (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1089245">В Одессе полиция прикрыла три подпольных казино (ФОТО)</a></h3></div><!--.media_content--><div contentid="1088900" class="media_content" style="display:none;"><div class="big_img_box"><a href="/news/1088900"><img src="http://www.s.048.ua/section/newsIconCis2/subdir/topday/upload/images/news/icon/3_145277313536.jpg" alt="Одесский губернатор ушел под землю, чтобы побороть коррупцию (ФОТО)" /></a><div class="arrow left"></div><div class="arrow right"></div></div><h3><a href="/news/1088900">Одесский губернатор ушел под землю, чтобы побороть коррупцию (ФОТО)</a></h3></div><!--.media_content--></div><!--.gray_box-->
 <div class="gray_box rounding media_box trailers">
 	<div class="top tab">
 		<h4>Видеорепортажи</h4>
@@ -1311,13 +1289,76 @@ var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i,
 	<div contentid="0" class="media_content">
 		<div class="video">
 			<div class="big_img_box">
+				<iframe width="315" height="177" src="https://www.youtube.com/embed/mKI8wgdIwNs?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
+				<div class="arrow right"></div>
+			</div><!--.big_img_box-->
+		</div><!--.video-->
+		<h3><a href="/news/1091229">В аварии погиб известный одесский нейрохирург</a></h3>
+	</div><!--.media_content-->
+	<div contentid="1" class="media_content" style="display:none;">
+		<div class="video">
+			<div class="big_img_box">
+				<iframe width="315" height="236" src="https://www.youtube.com/embed/2M-oMWqf3Ak?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
+				<div class="arrow right"></div>
+			</div><!--.big_img_box-->
+		</div><!--.video-->
+		<h3><a href="/news/1091023">Масштабный пожар в Одессе на Котовского локализирован. Угрозы для "Семьи" нет (ФОТО, ДОБАВЛЕНО ВИДЕО)</a></h3>
+	</div><!--.media_content-->
+	<div contentid="2" class="media_content" style="display:none;">
+		<div class="video">
+			<div class="big_img_box">
+				<iframe width="315" height="177" src="https://www.youtube.com/embed/MOpsPdWD49A?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
+				<div class="arrow right"></div>
+			</div><!--.big_img_box-->
+		</div><!--.video-->
+		<h3><a href="/article/1090921">Ничего не меняется или как  в Одессе и Харькове отжали магазины сети Symbol без объяснения</a></h3>
+	</div><!--.media_content-->
+	<div contentid="3" class="media_content" style="display:none;">
+		<div class="video">
+			<div class="big_img_box">
+				<iframe width="315" height="177" src="https://www.youtube.com/embed/13hTlczeB98?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
+				<div class="arrow right"></div>
+			</div><!--.big_img_box-->
+		</div><!--.video-->
+		<h3><a href="/news/1090644">В Одесской области под главной ёлкой райцентра произошла масштабная авария (ВИДЕО)</a></h3>
+	</div><!--.media_content-->
+	<div contentid="4" class="media_content" style="display:none;">
+		<div class="video">
+			<div class="big_img_box">
+				<iframe width="315" height="177" src="https://www.youtube.com/embed/7YAlx_DLs9k?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
+				<div class="arrow right"></div>
+			</div><!--.big_img_box-->
+		</div><!--.video-->
+		<h3><a href="/news/1090630">В Одессе рядом со студгородком обнаружили аптеку, где продавались наркотики (ВИДЕО)</a></h3>
+	</div><!--.media_content-->
+	<div contentid="5" class="media_content" style="display:none;">
+		<div class="video">
+			<div class="big_img_box">
+				<iframe width="315" height="177" src="https://www.youtube.com/embed/jyGk5aJyeKA?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
+				<div class="arrow right"></div>
+			</div><!--.big_img_box-->
+		</div><!--.video-->
+		<h3><a href="/article/1090809">Ночью на поселке Котовского произошло масштабное ДТП (ФОТО, ВИДЕО)</a></h3>
+	</div><!--.media_content-->
+	<div contentid="6" class="media_content" style="display:none;">
+		<div class="video">
+			<div class="big_img_box">
+				<iframe width="315" height="236" src="https://www.youtube.com/embed/hdvi2_Y3qkA?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
+				<div class="arrow right"></div>
+			</div><!--.big_img_box-->
+		</div><!--.video-->
+		<h3><a href="/news/1090604">В Одессе "лихачей" на дорогах будут ловить видеофиксаторы</a></h3>
+	</div><!--.media_content-->
+	<div contentid="7" class="media_content" style="display:none;">
+		<div class="video">
+			<div class="big_img_box">
 				<iframe width="315" height="177" src="https://www.youtube.com/embed/rS2_kzKp8YA?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
 				<div class="arrow right"></div>
 			</div><!--.big_img_box-->
 		</div><!--.video-->
 		<h3><a href="/news/1090486">Новый "шелковый путь": первый контейнерный поезд отправился из Ильичевска в Китай (ВИДЕО)</a></h3>
 	</div><!--.media_content-->
-	<div contentid="1" class="media_content" style="display:none;">
+	<div contentid="8" class="media_content" style="display:none;">
 		<div class="video">
 			<div class="big_img_box">
 				<iframe width="315" height="177" src="https://www.youtube.com/embed/rOoWc8sDDHw?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
@@ -1326,7 +1367,7 @@ var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i,
 		</div><!--.video-->
 		<h3><a href="/news/1090380">Саакашвили: следы "ореховой мафии" ведут в Киев (ФОТО, ВИДЕО)</a></h3>
 	</div><!--.media_content-->
-	<div contentid="2" class="media_content" style="display:none;">
+	<div contentid="9" class="media_content" style="display:none;">
 		<div class="video">
 			<div class="big_img_box">
 				<iframe width="315" height="177" src="https://www.youtube.com/embed/fNJI2A0v8yI?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
@@ -1334,69 +1375,6 @@ var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i,
 			</div><!--.big_img_box-->
 		</div><!--.video-->
 		<h3><a href="/article/1089894">Ди Каприо рассказал о своей бабушке-одесситке (ВИДЕО)</a></h3>
-	</div><!--.media_content-->
-	<div contentid="3" class="media_content" style="display:none;">
-		<div class="video">
-			<div class="big_img_box">
-				<iframe width="315" height="177" src="https://www.youtube.com/embed/lafNVTnci9c?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
-				<div class="arrow right"></div>
-			</div><!--.big_img_box-->
-		</div><!--.video-->
-		<h3><a href="/news/1089840">Дети мечтали – папа написал: одесситы сочинили песню о своем любимом городе (ВИДЕО)</a></h3>
-	</div><!--.media_content-->
-	<div contentid="4" class="media_content" style="display:none;">
-		<div class="video">
-			<div class="big_img_box">
-				<iframe width="315" height="177" src="https://www.youtube.com/embed/O3IaO_YWNWw?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
-				<div class="arrow right"></div>
-			</div><!--.big_img_box-->
-		</div><!--.video-->
-		<h3><a href="/news/1089523">Шел третий год войны... Саакашвили был в шоке, когда увидел условия службы одесского батальона Шторм в Мариуполе  (ВИДЕО)</a></h3>
-	</div><!--.media_content-->
-	<div contentid="5" class="media_content" style="display:none;">
-		<div class="video">
-			<div class="big_img_box">
-				<iframe width="315" height="177" src="https://www.youtube.com/embed/cUFfpBZI4f8?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
-				<div class="arrow right"></div>
-			</div><!--.big_img_box-->
-		</div><!--.video-->
-		<h3><a href="/article/1088211">Из сгоревшего фитнес-клуба местные жители растаскивали уцелевшие гантели, а сотрудники спасали тренажеры(Видео)</a></h3>
-	</div><!--.media_content-->
-	<div contentid="6" class="media_content" style="display:none;">
-		<div class="video">
-			<div class="big_img_box">
-				<iframe width="315" height="177" src="https://www.youtube.com/embed/n6O9W01XVAc?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
-				<div class="arrow right"></div>
-			</div><!--.big_img_box-->
-		</div><!--.video-->
-		<h3><a href="/news/1083825">Вечер кинопремьер в Одессе: какой же новый фильм посмотреть сегодня? (ФОТО, ВИДЕО)</a></h3>
-	</div><!--.media_content-->
-	<div contentid="7" class="media_content" style="display:none;">
-		<div class="video">
-			<div class="big_img_box">
-				<iframe width="315" height="177" src="https://www.youtube.com/embed/PUE4eog3xc4?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
-				<div class="arrow right"></div>
-			</div><!--.big_img_box-->
-		</div><!--.video-->
-		<h3><a href="/article/900067">Новогодние дроны приносят радость детям</a></h3>
-	</div><!--.media_content-->
-	<div contentid="8" class="media_content" style="display:none;">
-		<div class="video">
-			<div class="big_img_box">
-				<iframe width="315" height="236" src="https://www.youtube.com/embed/pKCXXaeA7ZQ?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
-				<div class="arrow right"></div>
-			</div><!--.big_img_box-->
-		</div><!--.video-->
-		<h3><a href="/news/1086460">Продолжение истории: лебедя, спасенного одесским скульптором, готовят отпустить в Куяльницкий лиман (ВИДЕО)</a></h3>
-	</div><!--.media_content-->
-	<div contentid="9" class="media_content" style="display:none;">
-		<div class="video">
-			<div class="big_img_box">
-				<iframe width="315" height="177" src="https://www.youtube.com/embed/9Z6__wukhf0?wmode=transparent" frameborder="0" allowfullscreen></iframe>				<div class="arrow left"></div>
-				<div class="arrow right"></div>
-			</div><!--.big_img_box-->
-		</div><!--.video-->
-		<h3><a href="/news/1083859">Заснеженную Одессу сняли с высоты птичьего полета (ВИДЕО)</a></h3>
 	</div><!--.media_content-->
 </div><!--.gray_box-->
 <div class="banner_box rounding"><!--noindex-->
@@ -1433,27 +1411,53 @@ var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i,
 			<div class="block-w-img70">
 				<div class="data-bl">
 					<div class="data-bl-cont">
-						<a class="title" href="/doska/full/45184" rel="nofollow" data-utm="?utm_source=mainpage&utm_medium=click_advert_doska&utm_content=link&utm_campaign=teaser_block" onmouseover="utm(this)">Органическое мыло ручной работы. Аромат и польза.</a>
+						<a class="title" href="/estate/full/id/141860" rel="nofollow" data-utm="?utm_source=mainpage&utm_medium=click_advert_estate&utm_content=link&utm_campaign=teaser_block" onmouseover="utm(this)">Довженко 6, Квартира в доме Каркашадзе...</a>
+
+						<div class="note">Квартира, 3 комнаты</div>
+													<div class="estate-price">
+								 $							</div>
+											</div>
+				</div>
+				<div class="img-bl">
+                    					<a href="/estate/full/id/141860" rel="nofollow" data-utm="?utm_source=mainpage&utm_medium=click_advert_estate&utm_content=link&utm_campaign=teaser_block" onmouseover="utm(this)">
+						<img alt="" src="http://www.s.048.ua/section/estate/subdir/small/upload/pers/4/img/estate/000/001/645/img_8052_14496878052.jpg"/>
+					</a>
+                                        				</div>
+			</div>
+		</div>
+			<div class="new-block">
+			<div class="block-w-img70">
+				<div class="data-bl">
+					<div class="data-bl-cont">
+						<a class="title" href="/doska/full/106180" rel="nofollow" data-utm="?utm_source=mainpage&utm_medium=click_advert_doska&utm_content=link&utm_campaign=teaser_block" onmouseover="utm(this)">Автозапчасти. Оригиналы и качественные заменители</a>
 
 						<div class="note"></div>
 											</div>
 				</div>
 				<div class="img-bl">
-                    					<a href="/doska/full/45184" rel="nofollow" data-utm="?utm_source=mainpage&utm_medium=click_advert_doska&utm_content=link&utm_campaign=teaser_block" onmouseover="utm(this)">
-						<img alt="" src="http://www.s.048.ua/section/doska/subdir/small/upload/pers/4/img/doska/000/000/209/c5-orig_145274650436.jpg"/>
+                    					<a href="/doska/full/106180" rel="nofollow" data-utm="?utm_source=mainpage&utm_medium=click_advert_doska&utm_content=link&utm_campaign=teaser_block" onmouseover="utm(this)">
+						<img alt="" src="http://www.s.048.ua/section/doska/subdir/small/upload/pers/4/img/doska/000/000/210/1b-orig_145300578995.jpg"/>
 					</a>
                                         				</div>
 			</div>
 		</div>
 	</div>			</div>
             <!--/noindex-->
-		<!-- Яндекс.Директ -->
-<div id="yandex_ad_569913ef949d4"></div>
+		<!--noindex-->
+<!-- citysites_300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1997604921077896"
+     data-ad-slot="5887160856"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script><!--/noindex-->		<div class="right-rounded"><!-- Яндекс.Директ -->
+<div id="yandex_ad_569c00ad6244b"></div>
 <script type="text/javascript">
 (function(w, d, n, s, t) {
     w[n] = w[n] || [];
     w[n].push(function() {
-        Ya.Direct.insertInto(150046, "yandex_ad_569913ef949d4", {
+        Ya.Direct.insertInto(150046, "yandex_ad_569c00ad6244b", {
             ad_format: "direct",
             type: "300x300",
             border_type: "ad",
@@ -1475,7 +1479,7 @@ var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i,
     s.async = true;
     t.parentNode.insertBefore(s, t);
 })(window, document, "yandex_context_callbacks");
-</script>		<div class="right-rounded"></div><div class="gray_box rounding sidebar_news small_iconed">
+</script></div><div class="gray_box rounding sidebar_news small_iconed">
 		<div class="top"><h4>Информация от компаний</h4></div>
 		<ul>
 				<li>

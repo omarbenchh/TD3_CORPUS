@@ -229,7 +229,7 @@ ga_targeting["art-status"] = "active"
         <div class="trending-bar">
                     <div>
             <span>TRENDING &nbsp; </span>
-            <a class=tag href="/topic/Politics" onclick="ga('send', 'event', 'topic', 'header', 'Politics');return true;" onmouseover="djp.user.tt(this,event,{ id:'923', t:'topic'});">Politics</a> &nbsp; | &nbsp;<a class=tag href="/topic/Noah+Pozner" onclick="ga('send', 'event', 'topic', 'header', 'Noah Pozner');return true;" onmouseover="djp.user.tt(this,event,{ id:'323522', t:'topic'});">Noah Pozner</a> &nbsp; | &nbsp;<a class=tag href="/topic/faiez+serraj" onclick="ga('send', 'event', 'topic', 'header', 'faiez serraj');return true;" onmouseover="djp.user.tt(this,event,{ id:'319879', t:'topic'});">faiez serraj</a> &nbsp; | &nbsp;<a class=tag href="/topic/Prescription" onclick="ga('send', 'event', 'topic', 'header', 'Prescription');return true;" onmouseover="djp.user.tt(this,event,{ id:'15028', t:'topic'});">Prescription</a> &nbsp; | &nbsp;<a class=tag href="/topic/Calais" onclick="ga('send', 'event', 'topic', 'header', 'Calais');return true;" onmouseover="djp.user.tt(this,event,{ id:'71867', t:'topic'});">Calais</a> &nbsp; | &nbsp;<a class=tag href="/topic/Diversity" onclick="ga('send', 'event', 'topic', 'header', 'Diversity');return true;" onmouseover="djp.user.tt(this,event,{ id:'15794', t:'topic'});">Diversity</a> &nbsp; | &nbsp;<a class=tag href="/topic/geriatric" onclick="ga('send', 'event', 'topic', 'header', 'geriatric');return true;" onmouseover="djp.user.tt(this,event,{ id:'323519', t:'topic'});">geriatric</a> &nbsp; | &nbsp;<a class=tag href="/topic/Turkmen" onclick="ga('send', 'event', 'topic', 'header', 'Turkmen');return true;" onmouseover="djp.user.tt(this,event,{ id:'16193', t:'topic'});">Turkmen</a> &nbsp; | &nbsp;<a class=tag href="/topic/Scooter" onclick="ga('send', 'event', 'topic', 'header', 'Scooter');return true;" onmouseover="djp.user.tt(this,event,{ id:'3036', t:'topic'});">Scooter</a> &nbsp; | &nbsp;<a class=tag href="/topic/Academics" onclick="ga('send', 'event', 'topic', 'header', 'Academics');return true;" onmouseover="djp.user.tt(this,event,{ id:'37251', t:'topic'});">Academics</a> &nbsp; | &nbsp;          </div>
+            <a class=tag href="/topic/Politics" onclick="ga('send', 'event', 'topic', 'header', 'Politics');return true;" onmouseover="djp.user.tt(this,event,{ id:'923', t:'topic'});">Politics</a> &nbsp; | &nbsp;<a class=tag href="/topic/dr+narendra+nagareddy" onclick="ga('send', 'event', 'topic', 'header', 'dr narendra nagareddy');return true;" onmouseover="djp.user.tt(this,event,{ id:'323656', t:'topic'});">dr narendra nagareddy</a> &nbsp; | &nbsp;<a class=tag href="/topic/Emily+Tan" onclick="ga('send', 'event', 'topic', 'header', 'Emily Tan');return true;" onmouseover="djp.user.tt(this,event,{ id:'323662', t:'topic'});">Emily Tan</a> &nbsp; | &nbsp;<a class=tag href="/topic/Windows+phone" onclick="ga('send', 'event', 'topic', 'header', 'Windows phone');return true;" onmouseover="djp.user.tt(this,event,{ id:'23793', t:'topic'});">Windows phone</a> &nbsp; | &nbsp;<a class=tag href="/topic/Alejandro+Gonzalez+Inarritu" onclick="ga('send', 'event', 'topic', 'header', 'Alejandro Gonzalez Inarritu');return true;" onmouseover="djp.user.tt(this,event,{ id:'268289', t:'topic'});">Alejandro Gonzalez Inarritu</a> &nbsp; | &nbsp;<a class=tag href="/topic/Rezaian" onclick="ga('send', 'event', 'topic', 'header', 'Rezaian');return true;" onmouseover="djp.user.tt(this,event,{ id:'323627', t:'topic'});">Rezaian</a> &nbsp; | &nbsp;<a class=tag href="/topic/block+chain" onclick="ga('send', 'event', 'topic', 'header', 'block chain');return true;" onmouseover="djp.user.tt(this,event,{ id:'323661', t:'topic'});">block chain</a> &nbsp; | &nbsp;<a class=tag href="/topic/drug+trial+gone+wrong" onclick="ga('send', 'event', 'topic', 'header', 'drug trial gone wrong');return true;" onmouseover="djp.user.tt(this,event,{ id:'323675', t:'topic'});">drug trial gone wrong</a> &nbsp; | &nbsp;<a class=tag href="/topic/Libyan+House+of+Representatives" onclick="ga('send', 'event', 'topic', 'header', 'Libyan House of Representatives');return true;" onmouseover="djp.user.tt(this,event,{ id:'276430', t:'topic'});">Libyan House of Representatives</a> &nbsp; | &nbsp;<a class=tag href="/topic/Rock+band" onclick="ga('send', 'event', 'topic', 'header', 'Rock band');return true;" onmouseover="djp.user.tt(this,event,{ id:'45634', t:'topic'});">Rock band</a> &nbsp; | &nbsp;          </div>
         </div>
         <div class="clearfix"></div>
       </div>
@@ -487,22 +487,22 @@ $(function() { $('.right-rail-news-item[data-article-id=317992]').hide(); })
   <div class="title" style="min-width: 70px">Top News</div>
 </div>
 <div class="right-rail-news">
-<div class="right-rail-news-item clearfix" data-article-id="454825">
-<div class="img" id="topnews-right-295009" onclick="ga('send', 'event', 'right rail', '454825:smart', 'UN denies that Martin Kobler is blocking');"><a href="http://www.digitaljournal.com/news/politics/un-denies-that-martin-kobler-is-blocking-confidence-vote-on-gna/article/454825"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455000">
+<div class="img" id="topnews-right-295186" onclick="ga('send', 'event', 'right rail', '455000:random', 'UN-brokered Libya Government of National');"><a href="http://www.digitaljournal.com/news/politics/un-brokered-libya-government-of-national-accord-misses-deadline-breaking-news/article/455000"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454825" data-type="article-link" href="/news/politics/un-denies-that-martin-kobler-is-blocking-confidence-vote-on-gna/article/454825" onclick="ga('send', 'event', 'right rail', '454825:smart', 'UN denies that Martin Kobler is blocking');">UN denies that Martin Kobler is blocking confidence vote on GNA</a>
+            <a id="la-455000" data-type="article-link" href="/news/politics/un-brokered-libya-government-of-national-accord-misses-deadline-breaking-news/article/455000" onclick="ga('send', 'event', 'right rail', '455000:random', 'UN-brokered Libya Government of National');">UN-brokered Libya Government of National Accord misses deadline</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/politics/un-denies-that-martin-kobler-is-blocking-confidence-vote-on-gna/article/454825"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/politics/un-brokered-libya-government-of-national-accord-misses-deadline-breaking-news/article/455000"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454858">
-<div class="img" id="topnews-right-295041" onclick="ga('send', 'event', 'right rail', '454858:smart', 'Austria turns tougher on migrants');"><a href="http://www.digitaljournal.com/news/world/austria-turns-tougher-on-migrants/article/454858"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455027">
+<div class="img" id="topnews-right-295212" onclick="ga('send', 'event', 'right rail', '455027:random', 'Leading Bitcoin developer quits the curr');"><a href="http://www.digitaljournal.com/technology/leading-bitcoin-developer-quits-the-currency-says-it-has-failed/article/455027"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454858" data-type="article-link" href="/news/world/austria-turns-tougher-on-migrants/article/454858" onclick="ga('send', 'event', 'right rail', '454858:smart', 'Austria turns tougher on migrants');">Austria turns tougher on migrants</a>
+            <a id="la-455027" data-type="article-link" href="/technology/leading-bitcoin-developer-quits-the-currency-says-it-has-failed/article/455027" onclick="ga('send', 'event', 'right rail', '455027:random', 'Leading Bitcoin developer quits the curr');">Leading Bitcoin developer quits the currency, says it has failed</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/austria-turns-tougher-on-migrants/article/454858"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/technology/leading-bitcoin-developer-quits-the-currency-says-it-has-failed/article/455027"></fb:like></div>
   </div>
 </div>
 <div style="width:300px;margin-bottom: 10px">
@@ -510,31 +510,31 @@ $(function() { $('.right-rail-news-item[data-article-id=317992]').hide(); })
     djp.ga_fill("300x250-Big-Box-2-ATF");
   </script>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454822">
-<div class="img" id="topnews-right-295002" onclick="ga('send', 'event', 'right rail', '454822:smart', '2016 NFL Mock Draft: QBs moving up in l');"><a href="http://www.digitaljournal.com/sports/2016-nfl-mock-draft-qb-s-moving-up-in-latest-player-rankings/article/454822"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455031">
+<div class="img" id="topnews-right-295215" onclick="ga('send', 'event', 'right rail', '455031:random', 'Kenya in search and rescue as Shebab c');"><a href="http://www.digitaljournal.com/news/world/kenya-in-search-and-rescue-as-shebab-claims-100-soldiers-killed/article/455031"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454822" data-type="article-link" href="/sports/2016-nfl-mock-draft-qb-s-moving-up-in-latest-player-rankings/article/454822" onclick="ga('send', 'event', 'right rail', '454822:smart', '2016 NFL Mock Draft: QBs moving up in l');">2016 NFL Mock Draft: QB's moving up in latest player rankings</a>
+            <a id="la-455031" data-type="article-link" href="/news/world/kenya-in-search-and-rescue-as-shebab-claims-100-soldiers-killed/article/455031" onclick="ga('send', 'event', 'right rail', '455031:random', 'Kenya in search and rescue as Shebab c');">Kenya in 'search and rescue' as Shebab claims 100 soldiers killed</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/sports/2016-nfl-mock-draft-qb-s-moving-up-in-latest-player-rankings/article/454822"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/kenya-in-search-and-rescue-as-shebab-claims-100-soldiers-killed/article/455031"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454853">
-<div class="img" id="topnews-right-295036" onclick="ga('send', 'event', 'right rail', '454853:smart', 'Russia begins humanitarian operations ');"><a href="http://www.digitaljournal.com/news/world/russia-has-begun-humanitarian-operations-in-syria/article/454853"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455003">
+<div class="img" id="topnews-right-295190" onclick="ga('send', 'event', 'right rail', '455003:random', 'Bulkley River ice jam near Smithers may ');"><a href="http://www.digitaljournal.com/science/bulkley-river-ice-jam-near-smithers-may-lead-to-evacuations/article/455003"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454853" data-type="article-link" href="/news/world/russia-has-begun-humanitarian-operations-in-syria/article/454853" onclick="ga('send', 'event', 'right rail', '454853:smart', 'Russia begins humanitarian operations ');">Russia begins 'humanitarian operations' in Syria</a>
+            <a id="la-455003" data-type="article-link" href="/science/bulkley-river-ice-jam-near-smithers-may-lead-to-evacuations/article/455003" onclick="ga('send', 'event', 'right rail', '455003:random', 'Bulkley River ice jam near Smithers may ');">Bulkley River ice jam near Smithers may lead to evacuations</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/russia-has-begun-humanitarian-operations-in-syria/article/454853"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/science/bulkley-river-ice-jam-near-smithers-may-lead-to-evacuations/article/455003"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454852">
-<div class="img" id="topnews-right-295035" onclick="ga('send', 'event', 'right rail', '454852:smart', 'German politician sends refugee bus home');"><a href="http://www.digitaljournal.com/news/world/german-politician-sends-refugee-bus-home-after-merkel-s-snub/article/454852"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455024">
+<div class="img" id="topnews-right-295208" onclick="ga('send', 'event', 'right rail', '455024:random', 'Microsoft reportedly launching the last');"><a href="http://www.digitaljournal.com/technology/microsoft-reportedly-launching-the-last-lumia-on-february-1/article/455024"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454852" data-type="article-link" href="/news/world/german-politician-sends-refugee-bus-home-after-merkel-s-snub/article/454852" onclick="ga('send', 'event', 'right rail', '454852:smart', 'German politician sends refugee bus home');">German politician sends refugee bus home after Merkel's snub</a>
+            <a id="la-455024" data-type="article-link" href="/technology/microsoft-reportedly-launching-the-last-lumia-on-february-1/article/455024" onclick="ga('send', 'event', 'right rail', '455024:random', 'Microsoft reportedly launching the last');">Microsoft reportedly launching the 'last Lumia' on February 1</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/german-politician-sends-refugee-bus-home-after-merkel-s-snub/article/454852"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/technology/microsoft-reportedly-launching-the-last-lumia-on-february-1/article/455024"></fb:like></div>
   </div>
 </div>
 <div style="margin: 20px 0; width:300px;">
@@ -545,109 +545,109 @@ $(function() { $('.right-rail-news-item[data-article-id=317992]').hide(); })
     (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454796">
-<div class="img" id="topnews-right-294990" onclick="ga('send', 'event', 'right rail', '454796:smart', 'Black Death: Plague lingered around in u');"><a href="http://www.digitaljournal.com/science/black-death-plague-lingered-around-in-unknown-hidden-reservoir/article/454796"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455059">
+<div class="img" id="topnews-right-295244" onclick="ga('send', 'event', 'right rail', '455059:random', 'Golden Girl Betty White celebrates 94t');"><a href="http://www.digitaljournal.com/a-and-e/entertainment/golden-girl-betty-white-celebrates-94th-birthday/article/455059"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454796" data-type="article-link" href="/science/black-death-plague-lingered-around-in-unknown-hidden-reservoir/article/454796" onclick="ga('send', 'event', 'right rail', '454796:smart', 'Black Death: Plague lingered around in u');">Black Death: Plague lingered around in unknown hidden reservoir</a>
+            <a id="la-455059" data-type="article-link" href="/a-and-e/entertainment/golden-girl-betty-white-celebrates-94th-birthday/article/455059" onclick="ga('send', 'event', 'right rail', '455059:random', 'Golden Girl Betty White celebrates 94t');">'Golden Girl' Betty White celebrates 94th birthday</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/science/black-death-plague-lingered-around-in-unknown-hidden-reservoir/article/454796"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/a-and-e/entertainment/golden-girl-betty-white-celebrates-94th-birthday/article/455059"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454828">
-<div class="img" id="topnews-right-295028" onclick="ga('send', 'event', 'right rail', '454828:smart', 'Op-Ed: Sandy Hook truthers send death ');"><a href="http://www.digitaljournal.com/news/odd+news/op-ed-sandy-hook-truthers-send-death-threats-to-victim-s-family/article/454828"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455021">
+<div class="img" id="topnews-right-295211" onclick="ga('send', 'event', 'right rail', '455021:random', 'Georgia doctor arrested after 36 patient');"><a href="http://www.digitaljournal.com/news/crime/georgia-doctor-arrested-after-36-patients-died-12-from-overdoses/article/455021"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454828" data-type="article-link" href="/news/odd+news/op-ed-sandy-hook-truthers-send-death-threats-to-victim-s-family/article/454828" onclick="ga('send', 'event', 'right rail', '454828:smart', 'Op-Ed: Sandy Hook truthers send death ');">Op-Ed: Sandy Hook 'truthers' send death threats to victim's family</a>
+            <a id="la-455021" data-type="article-link" href="/news/crime/georgia-doctor-arrested-after-36-patients-died-12-from-overdoses/article/455021" onclick="ga('send', 'event', 'right rail', '455021:random', 'Georgia doctor arrested after 36 patient');">Georgia doctor arrested after 36 patients died, 12 from overdoses</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/odd+news/op-ed-sandy-hook-truthers-send-death-threats-to-victim-s-family/article/454828"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/crime/georgia-doctor-arrested-after-36-patients-died-12-from-overdoses/article/455021"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454854">
-<div class="img" id="topnews-right-295040" onclick="ga('send', 'event', 'right rail', '454854:smart', 'Chipotle briefly closing all restaurants');"><a href="http://www.digitaljournal.com/business/business/chipotle-briefly-closing-all-restaurants-for-food-safety-meeting/article/454854"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455055">
+<div class="img" id="topnews-right-295247" onclick="ga('send', 'event', 'right rail', '455055:random', 'Op-Ed: Kobler deplores missed deadline b');"><a href="http://www.digitaljournal.com/news/politics/op-ed-kobler-deplores-missed-deadline-but-report-claims-he-ordered-it/article/455055"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454854" data-type="article-link" href="/business/business/chipotle-briefly-closing-all-restaurants-for-food-safety-meeting/article/454854" onclick="ga('send', 'event', 'right rail', '454854:smart', 'Chipotle briefly closing all restaurants');">Chipotle briefly closing all restaurants for food safety meeting</a>
+            <a id="la-455055" data-type="article-link" href="/news/politics/op-ed-kobler-deplores-missed-deadline-but-report-claims-he-ordered-it/article/455055" onclick="ga('send', 'event', 'right rail', '455055:random', 'Op-Ed: Kobler deplores missed deadline b');">Op-Ed: Kobler deplores missed deadline but report claims he ordered it</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/business/business/chipotle-briefly-closing-all-restaurants-for-food-safety-meeting/article/454854"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/politics/op-ed-kobler-deplores-missed-deadline-but-report-claims-he-ordered-it/article/455055"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454851">
-<div class="img" id="topnews-right-295034" onclick="ga('send', 'event', 'right rail', '454851:smart', 'One person brain-dead after French drugs');"><a href="http://www.digitaljournal.com/news/world/one-person-brain-dead-five-hospitalised-after-french-drug-trial/article/454851"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="454952">
+<div class="img" id="topnews-right-295140" onclick="ga('send', 'event', 'right rail', '454952:random', 'Microsoft: Windows 7, 8.1 wont support ');"><a href="http://www.digitaljournal.com/technology/microsoft-windows-7-8-1-won-t-support-intel-s-new-processors/article/454952"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454851" data-type="article-link" href="/news/world/one-person-brain-dead-five-hospitalised-after-french-drug-trial/article/454851" onclick="ga('send', 'event', 'right rail', '454851:smart', 'One person brain-dead after French drugs');">One person brain-dead after French drugs trial</a>
+            <a id="la-454952" data-type="article-link" href="/technology/microsoft-windows-7-8-1-won-t-support-intel-s-new-processors/article/454952" onclick="ga('send', 'event', 'right rail', '454952:random', 'Microsoft: Windows 7, 8.1 wont support ');">Microsoft: Windows 7, 8.1 won't support Intel's new processors</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/one-person-brain-dead-five-hospitalised-after-french-drug-trial/article/454851"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/technology/microsoft-windows-7-8-1-won-t-support-intel-s-new-processors/article/454952"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454863">
-<div class="img" id="topnews-right-295046" onclick="ga('send', 'event', 'right rail', '454863:smart', 'EU ready to lift Iran sanctions on IAEA ');"><a href="http://www.digitaljournal.com/news/world/eu-ready-to-lift-iran-sanctions-on-iaea-green-light-sources/article/454863"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455061">
+<div class="img" id="topnews-right-295243" onclick="ga('send', 'event', 'right rail', '455061:random', 'Poland will not bow to EU on reforms: Ri');"><a href="http://www.digitaljournal.com/news/world/poland-will-not-bow-to-eu-on-reforms-right-wing-leader/article/455061"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454863" data-type="article-link" href="/news/world/eu-ready-to-lift-iran-sanctions-on-iaea-green-light-sources/article/454863" onclick="ga('send', 'event', 'right rail', '454863:smart', 'EU ready to lift Iran sanctions on IAEA ');">EU ready to lift Iran sanctions on IAEA green light: sources</a>
+            <a id="la-455061" data-type="article-link" href="/news/world/poland-will-not-bow-to-eu-on-reforms-right-wing-leader/article/455061" onclick="ga('send', 'event', 'right rail', '455061:random', 'Poland will not bow to EU on reforms: Ri');">Poland will not bow to EU on reforms: Right-wing leader</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/eu-ready-to-lift-iran-sanctions-on-iaea-green-light-sources/article/454863"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/poland-will-not-bow-to-eu-on-reforms-right-wing-leader/article/455061"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454846">
-<div class="img" id="topnews-right-295029" onclick="ga('send', 'event', 'right rail', '454846:smart', 'EU states failed to deliver on migrant');"><a href="http://www.digitaljournal.com/news/world/eu-states-failed-to-deliver-on-migrants-juncker/article/454846"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455070">
+<div class="img" id="topnews-right-295252" onclick="ga('send', 'event', 'right rail', '455070:random', 'Klopps Liverpool lack cutting edge agai');"><a href="http://www.digitaljournal.com/sports/klopp-s-liverpool-lack-cutting-edge-against-opportunistic-united/article/455070"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454846" data-type="article-link" href="/news/world/eu-states-failed-to-deliver-on-migrants-juncker/article/454846" onclick="ga('send', 'event', 'right rail', '454846:smart', 'EU states failed to deliver on migrant');">EU states 'failed to deliver' on migrants: Juncker</a>
+            <a id="la-455070" data-type="article-link" href="/sports/klopp-s-liverpool-lack-cutting-edge-against-opportunistic-united/article/455070" onclick="ga('send', 'event', 'right rail', '455070:random', 'Klopps Liverpool lack cutting edge agai');">Klopp's Liverpool lack cutting edge against opportunistic United</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/eu-states-failed-to-deliver-on-migrants-juncker/article/454846"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/sports/klopp-s-liverpool-lack-cutting-edge-against-opportunistic-united/article/455070"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454865">
-<div class="img" id="topnews-right-295048" onclick="ga('send', 'event', 'right rail', '454865:smart', 'US, Kremlin officials meet at Russian bo');"><a href="http://www.digitaljournal.com/news/world/us-kremlin-officials-meet-at-russian-border-for-ukraine-talks/article/454865"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455069">
+<div class="img" id="topnews-right-295250" onclick="ga('send', 'event', 'right rail', '455069:random', 'Three U.S. prisoners freed by Iran on th');"><a href="http://www.digitaljournal.com/news/world/plane-carrying-three-us-prisoners-freed-by-iran-has-landed-in-geneva-us-official/article/455069"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454865" data-type="article-link" href="/news/world/us-kremlin-officials-meet-at-russian-border-for-ukraine-talks/article/454865" onclick="ga('send', 'event', 'right rail', '454865:smart', 'US, Kremlin officials meet at Russian bo');">US, Kremlin officials meet at Russian border for Ukraine talks</a>
+            <a id="la-455069" data-type="article-link" href="/news/world/plane-carrying-three-us-prisoners-freed-by-iran-has-landed-in-geneva-us-official/article/455069" onclick="ga('send', 'event', 'right rail', '455069:random', 'Three U.S. prisoners freed by Iran on th');">Three U.S. prisoners freed by Iran on their way to Germany: Official</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/us-kremlin-officials-meet-at-russian-border-for-ukraine-talks/article/454865"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/plane-carrying-three-us-prisoners-freed-by-iran-has-landed-in-geneva-us-official/article/455069"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454779">
-<div class="img" id="topnews-right-294961" onclick="ga('send', 'event', 'right rail', '454779:smart', 'Making a Murderer: 5 important updates a');"><a href="http://www.digitaljournal.com/news/crime/making-a-murderer-5-important-updates-about-steven-avery-case/article/454779"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455072">
+<div class="img" id="topnews-right-295254" onclick="ga('send', 'event', 'right rail', '455072:random', 'Indecent exposure: Artist arrested for n');"><a href="http://www.digitaljournal.com/news/world/indecent-exposure-artist-arrested-for-nude-pose-in-paris-museum/article/455072"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454779" data-type="article-link" href="/news/crime/making-a-murderer-5-important-updates-about-steven-avery-case/article/454779" onclick="ga('send', 'event', 'right rail', '454779:smart', 'Making a Murderer: 5 important updates a');">Making a Murderer: 5 important updates about Steven Avery case</a>
+            <a id="la-455072" data-type="article-link" href="/news/world/indecent-exposure-artist-arrested-for-nude-pose-in-paris-museum/article/455072" onclick="ga('send', 'event', 'right rail', '455072:random', 'Indecent exposure: Artist arrested for n');">Indecent exposure: Artist arrested for nude pose in Paris museum</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/crime/making-a-murderer-5-important-updates-about-steven-avery-case/article/454779"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/indecent-exposure-artist-arrested-for-nude-pose-in-paris-museum/article/455072"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454788">
-<div class="img" id="topnews-right-294979" onclick="ga('send', 'event', 'right rail', '454788:smart', 'Rare intact baby dinosaur fossil found b');"><a href="http://www.digitaljournal.com/science/rare-baby-dinosaur-found-by-noted-canadian-paleontologist/article/454788"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455051">
+<div class="img" id="topnews-right-295234" onclick="ga('send', 'event', 'right rail', '455051:random', 'Czech leader says Muslim integration pr');"><a href="http://www.digitaljournal.com/news/world/czech-leader-says-muslims-impossible-to-integrate-in-europe/article/455051"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454788" data-type="article-link" href="/science/rare-baby-dinosaur-found-by-noted-canadian-paleontologist/article/454788" onclick="ga('send', 'event', 'right rail', '454788:smart', 'Rare intact baby dinosaur fossil found b');">Rare intact baby dinosaur fossil found by Alberta paleontologist</a>
+            <a id="la-455051" data-type="article-link" href="/news/world/czech-leader-says-muslims-impossible-to-integrate-in-europe/article/455051" onclick="ga('send', 'event', 'right rail', '455051:random', 'Czech leader says Muslim integration pr');">Czech leader says Muslim integration 'practically impossible' in Europe</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/science/rare-baby-dinosaur-found-by-noted-canadian-paleontologist/article/454788"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/czech-leader-says-muslims-impossible-to-integrate-in-europe/article/455051"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454835">
-<div class="img" id="topnews-right-295017" onclick="ga('send', 'event', 'right rail', '454835:smart', 'Behind frontline, Iraq town torn as anti');"><a href="http://www.digitaljournal.com/news/world/behind-frontline-iraq-town-torn-as-anti-is-forces-clash/article/454835"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="454979">
+<div class="img" id="topnews-right-295232" onclick="ga('send', 'event', 'right rail', '454979:random', 'Three Americans imprisoned by Iran arriv');"><a href="http://www.digitaljournal.com/news/world/iran-agrees-to-release-usa-journalist-4-others-being-held/article/454979"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454835" data-type="article-link" href="/news/world/behind-frontline-iraq-town-torn-as-anti-is-forces-clash/article/454835" onclick="ga('send', 'event', 'right rail', '454835:smart', 'Behind frontline, Iraq town torn as anti');">Behind frontline, Iraq town torn as anti-IS forces clash</a>
+            <a id="la-454979" data-type="article-link" href="/news/world/iran-agrees-to-release-usa-journalist-4-others-being-held/article/454979" onclick="ga('send', 'event', 'right rail', '454979:random', 'Three Americans imprisoned by Iran arriv');">Three Americans imprisoned by Iran arrive in Geneva, 4th stays</a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/behind-frontline-iraq-town-torn-as-anti-is-forces-clash/article/454835"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/iran-agrees-to-release-usa-journalist-4-others-being-held/article/454979"></fb:like></div>
   </div>
 </div>
-<div class="right-rail-news-item clearfix" data-article-id="454801">
-<div class="img" id="topnews-right-294984" onclick="ga('send', 'event', 'right rail', '454801:smart', 'Dr. David Newman accused of ejaculating ');"><a href="http://www.digitaljournal.com/life/health/dr-david-newman-accused-of-ejaculating-on-drugged-patient-s-face/article/454801"></a></div>
+<div class="right-rail-news-item clearfix" data-article-id="455029">
+<div class="img" id="topnews-right-295217" onclick="ga('send', 'event', 'right rail', '455029:random', 'Interview with Emily Tan of Emily Tan Me');"><a href="http://www.digitaljournal.com/a-and-e/music/interview-with-emily-tan-of-emily-tan-media-relations/article/455029"></a></div>
   <div class="text">
     <div class="title">
-            <a id="la-454801" data-type="article-link" href="/life/health/dr-david-newman-accused-of-ejaculating-on-drugged-patient-s-face/article/454801" onclick="ga('send', 'event', 'right rail', '454801:smart', 'Dr. David Newman accused of ejaculating ');">Dr. David Newman accused of ejaculating on drugged patient's face</a>
+            <a id="la-455029" data-type="article-link" href="/a-and-e/music/interview-with-emily-tan-of-emily-tan-media-relations/article/455029" onclick="ga('send', 'event', 'right rail', '455029:random', 'Interview with Emily Tan of Emily Tan Me');">Interview with Emily Tan of Emily Tan Media Relations&nbsp;<span class="xtraeff" title="Includes interview">Special</span></a>
     </div>
-    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/life/health/dr-david-newman-accused-of-ejaculating-on-drugged-patient-s-face/article/454801"></fb:like></div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/a-and-e/music/interview-with-emily-tan-of-emily-tan-media-relations/article/455029"></fb:like></div>
   </div>
 </div>
 </div>
 <script type="text/javascript">
 <!--
-djp.sched_load_alb_imgs('topnews-right-295009 topnews-right-295041 topnews-right-295002 topnews-right-295036 topnews-right-295035 topnews-right-294990 topnews-right-295028 topnews-right-295040 topnews-right-295034 topnews-right-295046 topnews-right-295029 topnews-right-295048 topnews-right-294961 topnews-right-294979 topnews-right-295017 topnews-right-294984');
+djp.sched_load_alb_imgs('topnews-right-295186 topnews-right-295212 topnews-right-295215 topnews-right-295190 topnews-right-295208 topnews-right-295244 topnews-right-295211 topnews-right-295247 topnews-right-295140 topnews-right-295243 topnews-right-295252 topnews-right-295250 topnews-right-295254 topnews-right-295234 topnews-right-295232 topnews-right-295217');
 //-->
 </script>
 

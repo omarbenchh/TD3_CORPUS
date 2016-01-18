@@ -318,58 +318,57 @@ var banners = [{"id":"\/342331151\/TASS_Mobile_Mid_320х100","code":"div-gpt-ad-
             ng-swipe-left="sliderLeft('mainSlider','swipe')"
             class="topMainSlider-list">
                             <li class="tass-slider-item">
+                    <a href="http://tass.ru/borba-s-islamskim-gosudarstvom" 
+                                              style="background-image:url(http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168122.jpg)">
+                        <img ng-if="$root.isIE"ng-src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168122.jpg" alt="">
+                        <span class="topMainSlider-theme">Борьба с &quot;Исламским государством&quot;</span>
+                        <div ng-class="{'turnOff':$root.cfg.global.scroll>80}" class="topMainSlider-title">
+                            <p>
+                                                                Главы МИД ЕС обсудят реформы на Украине, а также ситуацию в Сирии и Ираке                            </p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="tass-slider-item">
+                    <a href="http://tass.ru/napryazhennost-vokrug-irana" 
+                                              style="background-image:url(http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4167890.jpg)">
+                        <img ng-if="$root.isIE"ng-src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4167890.jpg" alt="">
+                        <span class="topMainSlider-theme">Ситуация вокруг Ирана</span>
+                        <div ng-class="{'turnOff':$root.cfg.global.scroll>80}" class="topMainSlider-title">
+                            <p>
+                                                                &quot;Исторический шаг&quot;: мировая реакция на выполнение Ираном требований ядерного соглашения                            </p>
+                        </div>
+                    </a>
+                </li>
+                            <li class="tass-slider-item">
                     <a href="http://tass.ru/migracionnyy-krizis-v-evrope" 
-                                              style="background-image:url(http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167305.jpg)">
-                        <img ng-if="$root.isIE"ng-src="http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167305.jpg" alt="">
+                                              style="background-image:url(http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168057.jpg)">
+                        <img ng-if="$root.isIE"ng-src="http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168057.jpg" alt="">
                         <span class="topMainSlider-theme">Миграционный кризис в Европе</span>
                         <div ng-class="{'turnOff':$root.cfg.global.scroll>80}" class="topMainSlider-title">
                             <p>
-                                                                Власти немецкого Борнхайма запретили беженцам-мужчинам посещать городской бассейн                            </p>
+                                                                Очередная драка произошла в центре приема беженцев в Финляндии                            </p>
                         </div>
                     </a>
                 </li>
                             <li class="tass-slider-item">
-                    <a href="http://tass.ru/chistki-v-bankovskih-ryadah" 
-                                              style="background-image:url(http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4166926.jpg)">
-                        <img ng-if="$root.isIE"ng-src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4166926.jpg" alt="">
-                        <span class="topMainSlider-theme">Санация на финансовом рынке</span>
+                    <a href="http://tass.ru/spec/desert-storm" 
+                       target="_blank"                       style="background-image:url(http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4167948.jpg)">
+                        <img ng-if="$root.isIE"ng-src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4167948.jpg" alt="">
+                        <span class="topMainSlider-theme">Спецпроект</span>
                         <div ng-class="{'turnOff':$root.cfg.global.scroll>80}" class="topMainSlider-title">
                             <p>
-                                                                ЦБ РФ проводит проверку Новикомбанка, речи о санации банка не идет                            </p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="tass-slider-item">
-                    <a href="http://tass.ru/gaydarovskiy-forum" 
-                                              style="background-image:url(http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4166996.jpg)">
-                        <img ng-if="$root.isIE"ng-src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4166996.jpg" alt="">
-                        <span class="topMainSlider-theme">Гайдаровский форум</span>
-                        <div ng-class="{'turnOff':$root.cfg.global.scroll>80}" class="topMainSlider-title">
-                            <p>
-                                                                    <span class="live_small_header">LIVE</span><br/>
-                                                                Гайдаровский форум. День третий. Текстовая трансляция                             </p>
-                        </div>
-                    </a>
-                </li>
-                            <li class="tass-slider-item">
-                    <a href="http://tass.ru/mirovye-ceny-na-neft" 
-                                              style="background-image:url(http://photocdn4.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20151208/4146183.jpg)">
-                        <img ng-if="$root.isIE"ng-src="http://photocdn4.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20151208/4146183.jpg" alt="">
-                        <span class="topMainSlider-theme">Мировые цены на нефть</span>
-                        <div ng-class="{'turnOff':$root.cfg.global.scroll>80}" class="topMainSlider-title">
-                            <p>
-                                                                От максимума до обвала: динамика цен на нефть c 2000 года                            </p>
+                                                                Буря на четверть века                            </p>
                         </div>
                     </a>
                 </li>
                             <li class="tass-slider-item">
                     <a href="http://tass.ru/krizis-na-ukraine" 
-                                              style="background-image:url(http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167352.jpg)">
-                        <img ng-if="$root.isIE"ng-src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167352.jpg" alt="">
+                                              style="background-image:url(http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168109.jpg)">
+                        <img ng-if="$root.isIE"ng-src="http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168109.jpg" alt="">
                         <span class="topMainSlider-theme">Кризис на Украине</span>
                         <div ng-class="{'turnOff':$root.cfg.global.scroll>80}" class="topMainSlider-title">
                             <p>
-                                                                В Одессе закрывают школы из-за гриппа и ОРВИ                            </p>
+                                                                Грызлов не считает, что урегулирование ситуации в Донбассе зашло в тупик                            </p>
                         </div>
                     </a>
                 </li>
@@ -385,79 +384,79 @@ var banners = [{"id":"\/342331151\/TASS_Mobile_Mid_320х100","code":"div-gpt-ad-
     </div>
 </div>
         </div>
-        <div class="photoModeBlock {{init}}" ng-controller="photoModeController" ng-init="timestampOrigin = 1452865865">
+        <div class="photoModeBlock {{init}}" ng-controller="photoModeController" ng-init="timestampOrigin = 1453059302">
             <ul class="PMstream scroll-loader" infinite-scroll="$root.PhotoStreamLoading()" can-load="$root.cfg.global.photoStream">
                 <li class="PHblock first-{{$first}}">
-                                                    <a href="http://tass.ru/ekonomika/2590389" class="item-block elemNum0" style="background-image:url('http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167350.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167350.jpg" alt="">
+                                                    <a href="http://tass.ru/mezhdunarodnaya-panorama/2593489" class="item-block elemNum0" style="background-image:url('http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168122.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168122.jpg" alt="">
                                     <div class="item-discr">
-                                        <p class="item-title">Эксперты: безработица в РФ в 2016 году может превысить прогнозы МЭР</p>
-                                        <span class="item-heading">Экономика и бизнес</span>
-                                        <span class="item-date">15 января, 17:29</span>
+                                        <p class="item-title">Главы МИД ЕС обсудят реформы на Украине, а также ситуацию в Сирии и Ираке</p>
+                                        <span class="item-heading">Международная панорама</span>
+                                        <span class="item-date">18 января, 0:20</span>
                                     </div>
                                 </a>
-                                                                <a href="http://tass.ru/obschestvo/2590202" class="item-block elemNum1" style="background-image:url('http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167352.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167352.jpg" alt="">
+                                                                <a href="http://tass.ru/obschestvo/2593479" class="item-block elemNum1" style="background-image:url('http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168120.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168120.jpg" alt="">
                                     <div class="item-discr">
-                                        <p class="item-title">В Одессе закрывают школы из-за гриппа и ОРВИ</p>
+                                        <p class="item-title">Православные верующие готовятся к крещенским купаниям</p>
                                         <span class="item-heading">Общество</span>
-                                        <span class="item-date">15 января, 17:28</span>
+                                        <span class="item-date">18 января, 0:11</span>
                                     </div>
                                 </a>
-                                                                <a href="http://tass.ru/ekonomika/2590372" class="item-block elemNum2" style="background-image:url('http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167348.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167348.jpg" alt="">
+                                                                <a href="http://tass.ru/ekonomika/2593473" class="item-block elemNum2" style="background-image:url('http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168118.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168118.jpg" alt="">
                                     <div class="item-discr">
-                                        <p class="item-title">Греф: Россия стала страной-дауншифтером из-за нежелания заниматься развитием технологий </p>
+                                        <p class="item-title">Медведев проведет очередное совещание по финансово-экономическим вопросам</p>
                                         <span class="item-heading">Экономика и бизнес</span>
-                                        <span class="item-date">15 января, 17:27</span>
+                                        <span class="item-date">18 января, 0:09</span>
                                     </div>
                                 </a>
-                                                                <a href="http://tass.ru/moskva/2590337" class="item-block elemNum3" style="background-image:url('http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167342.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167342.jpg" alt="">
+                                                                <a href="http://tass.ru/politika/2593470" class="item-block elemNum3" style="background-image:url('http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168117.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160118/4168117.jpg" alt="">
                                     <div class="item-discr">
-                                        <p class="item-title">В Татьянин день студенты и Татьяны смогут прокатиться на катке ВДНХ в Москве за полцены</p>
-                                        <span class="item-heading">Москва</span>
-                                        <span class="item-date">15 января, 17:15</span>
-                                    </div>
-                                </a>
-                                                                <a href="http://tass.ru/ekonomika/2590324" class="item-block elemNum4" style="background-image:url('http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167340.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167340.jpg" alt="">
-                                    <div class="item-discr">
-                                        <p class="item-title">Гендиректор: Roshen выставила на продажу фабрику в Липецке, нормальных покупателей нет </p>
-                                        <span class="item-heading">Экономика и бизнес</span>
-                                        <span class="item-date">15 января, 17:09</span>
-                                    </div>
-                                </a>
-                                                                <a href="http://tass.ru/novosti-agentstva/2590312" class="item-block elemNum5" style="background-image:url('http://photocdn3.itar-tass.com/width/928_a4189bda/tass/m2/uploads/i/20160115/4167330.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn3.itar-tass.com/width/928_a4189bda/tass/m2/uploads/i/20160115/4167330.jpg" alt="">
-                                    <div class="item-discr">
-                                        <p class="item-title">Вручены премии Москвы за 2015 год в области журналистики</p>
-                                        <span class="item-heading">Новости агентства</span>
-                                        <span class="item-date">15 января, 17:03</span>
-                                    </div>
-                                </a>
-                                                                <a href="http://tass.ru/sport/2590271" class="item-block elemNum6" style="background-image:url('http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167326.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn3.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167326.jpg" alt="">
-                                    <div class="item-discr">
-                                        <p class="item-title">Сурикат Сури из зоопарка Екатеринбурга будет предсказывать исходы матчей ЧМ-2018</p>
-                                        <span class="item-heading">Спорт</span>
-                                        <span class="item-date">15 января, 17:02</span>
-                                    </div>
-                                </a>
-                                                                <a href="http://tass.ru/proisshestviya/2590316" class="item-block elemNum7" style="background-image:url('http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167336.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167336.jpg" alt="">
-                                    <div class="item-discr">
-                                        <p class="item-title">Источник: в Нальчике, где введен режим КТО, идет перестрелка с боевиками</p>
-                                        <span class="item-heading">Происшествия</span>
-                                        <span class="item-date">15 января, 17:01</span>
-                                    </div>
-                                </a>
-                                                                <a href="http://tass.ru/politika/2590285" class="item-block elemNum8" style="background-image:url('http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167344.jpg')">
-                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167344.jpg" alt="">
-                                    <div class="item-discr">
-                                        <p class="item-title">МВД РФ приведет число должностей в центральном аппарате в соответствие с новым штатом</p>
+                                        <p class="item-title">Путин обсудит с эмиром Катара ситуацию на Ближнем Востоке и двусторонние отношения</p>
                                         <span class="item-heading">Политика</span>
-                                        <span class="item-date">15 января, 16:51</span>
+                                        <span class="item-date">18 января, 0:03</span>
+                                    </div>
+                                </a>
+                                                                <a href="http://tass.ru/obschestvo/2590639" class="item-block elemNum4" style="background-image:url('http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167460.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn1.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160115/4167460.jpg" alt="">
+                                    <div class="item-discr">
+                                        <p class="item-title">Праздник Крещения: иордань в пещере, конкурс рубах, источник Сергия Радонежского</p>
+                                        <span class="item-heading">Общество</span>
+                                        <span class="item-date">18 января, 0:01</span>
+                                    </div>
+                                </a>
+                                                                <a href="http://tass.ru/mezhdunarodnaya-panorama/2593465" class="item-block elemNum5" style="background-image:url('http://photocdn4.itar-tass.com/width/928_a4189bda/tass/m2/uploads/i/20160117/4168111.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn4.itar-tass.com/width/928_a4189bda/tass/m2/uploads/i/20160117/4168111.jpg" alt="">
+                                    <div class="item-discr">
+                                        <p class="item-title">Правительство Норвегии устроило праздник королевской чете, отмечающей 25 лет на троне</p>
+                                        <span class="item-heading">Международная панорама</span>
+                                        <span class="item-date">17 января, 23:44</span>
+                                    </div>
+                                </a>
+                                                                <a href="http://tass.ru/mezhdunarodnaya-panorama/2593462" class="item-block elemNum6" style="background-image:url('http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168113.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168113.jpg" alt="">
+                                    <div class="item-discr">
+                                        <p class="item-title">Госдеп: США вместе с властями Ирака ведут поиск пропавших американцев</p>
+                                        <span class="item-heading">Международная панорама</span>
+                                        <span class="item-date">17 января, 23:40</span>
+                                    </div>
+                                </a>
+                                                                <a href="http://tass.ru/politika/2593427" class="item-block elemNum7" style="background-image:url('http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168109.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn2.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168109.jpg" alt="">
+                                    <div class="item-discr">
+                                        <p class="item-title">Грызлов не считает, что урегулирование ситуации в Донбассе зашло в тупик</p>
+                                        <span class="item-heading">Политика</span>
+                                        <span class="item-date">17 января, 23:06</span>
+                                    </div>
+                                </a>
+                                                                <a href="http://tass.ru/mezhdunarodnaya-panorama/2593391" class="item-block elemNum8" style="background-image:url('http://photocdn4.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168107.jpg')">
+                                    <img ng-if="$root.cfg.static.isIE" src="http://photocdn4.itar-tass.com/width/380_551ff706/tass/m2/uploads/i/20160117/4168107.jpg" alt="">
+                                    <div class="item-discr">
+                                        <p class="item-title">Лидер британских лейбористов призвал правительство к установлению канала связи с ИГ</p>
+                                        <span class="item-heading">Международная панорама</span>
+                                        <span class="item-date">17 января, 22:35</span>
                                     </div>
                                 </a>
                                                     <div style="clear:both;"></div>
@@ -539,10 +538,10 @@ var banners = [{"id":"\/342331151\/TASS_Mobile_Mid_320х100","code":"div-gpt-ad-
                             </div>
                     </div>
 
-<div class="b-page__content b-page__content_loading" ng-init='$root.weatherData={"town":"\u041c\u043e\u0441\u043a\u0432\u0430","time":3,"temperature":"-14\u00b0C","temperatureIco":"icon-w_sun"};$root.globalTimeOffset=$root.weatherData.time'>
+<div class="b-page__content b-page__content_loading" ng-init='$root.weatherData={"town":"\u041c\u043e\u0441\u043a\u0432\u0430","time":3,"temperature":"-12\u00b0C","temperatureIco":"icon-w_sun"};$root.globalTimeOffset=$root.weatherData.time'>
 
 	<script type="text/javascript">
-    var dateWeather = {"town":"\u041c\u043e\u0441\u043a\u0432\u0430","time":3,"temperature":"-14\u00b0C","temperatureIco":"icon-w_sun"};
+    var dateWeather = {"town":"\u041c\u043e\u0441\u043a\u0432\u0430","time":3,"temperature":"-12\u00b0C","temperatureIco":"icon-w_sun"};
 </script>
 <div class="printVersionHead">
             <img src="/images/newStyle/normal/logo/logo_web_ru.png" alt="">
@@ -740,12 +739,12 @@ var banners = [{"id":"\/342331151\/TASS_Mobile_Mid_320х100","code":"div-gpt-ad-
             <span class="newTass-currencyTitle">Курс ЦБ на 16.01:</span>
                             <div class="newTass-currencyItem">
                     <span class="newTass-currencyItem-value">
-                        $                        76.52                    </span>
+                        $                        76.57                    </span>
                                             <span class="newTass-currencyItem-state" style="color: #378c0d;">&uarr;</span>
                                     </div>
                             <div class="newTass-currencyItem">
                     <span class="newTass-currencyItem-value">
-                        €                        83.15                    </span>
+                        €                        83.3                    </span>
                                             <span class="newTass-currencyItem-state" style="color: #378c0d;">&uarr;</span>
                                     </div>
                     </div>
@@ -1503,45 +1502,45 @@ AdFox_Scroll(pr1,'//ads.adfox.ru/1435/prepareCode?pp=h&ps=bwpz&p2=ul&pct=a&plp=a
                                                 <div class="otherNewsList firstPart">
                 
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/moskva/2590337">
-                                                    <img width="142" height="97" src="http://photocdn3.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167342.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 17:15</div>
+                    <a href="http://tass.ru/proisshestviya/2593169">
+                                                    <img width="142" height="97" src="http://photocdn4.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160117/4168043.jpg" alt="">
+                                                <div class="otherNewsList-time">17 января, 17:31</div>
                         <div class="otherNewsList-title">
-                                                        В Татьянин день студенты и Татьяны смогут прокатиться на катке ВДНХ в Москве за полцены                        </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 17:15</div>
+                                                        Власти Москвы опровергли сообщения об обрушении балкона в центре города                        </div>
+                        <div class="otherNewsList-time mobOnly">17 января, 17:31</div>
                     </a>
                 </div>
 
                                             
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/proisshestviya/2590275">
-                                                    <img width="142" height="97" src="http://photocdn1.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167332.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 16:50</div>
+                    <a href="http://tass.ru/moskva/2593013">
+                                                    <img width="142" height="97" src="http://photocdn4.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160117/4167995.jpg" alt="">
+                                                <div class="otherNewsList-time">17 января, 14:52</div>
                         <div class="otherNewsList-title">
-                                                        Следствие просит ареста механика, проводившего техобслуживание лифта в &quot;Алых парусах&quot;                        </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 16:50</div>
+                                                        В Москве провели &quot;перепись&quot; зимующих уток                        </div>
+                        <div class="otherNewsList-time mobOnly">17 января, 14:52</div>
                     </a>
                 </div>
 
                                             
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/moskva/2589878">
-                                                    <img width="142" height="97" src="http://photocdn4.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167295.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 15:10</div>
+                    <a href="http://tass.ru/obschestvo/2591795">
+                                                    <img width="142" height="97" src="http://photocdn4.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160116/4167695.jpg" alt="">
+                                                <div class="otherNewsList-time">16 января, 14:09</div>
                         <div class="otherNewsList-title">
-                                                        Собянин поручил активнее привлекать стороннюю технику в Москве для уборки снега                        </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 15:10</div>
+                                                        МЧС распространило экстренное предупреждение о метели и порывистом ветре в Москве                        </div>
+                        <div class="otherNewsList-time mobOnly">16 января, 14:09</div>
                     </a>
                 </div>
 
                                             
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/moskva/2589710">
-                                                    <img width="142" height="97" src="http://photocdn1.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167232.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 14:28</div>
+                    <a href="http://tass.ru/moskva/2591258">
+                                                    <img width="142" height="97" src="http://photocdn2.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160116/4167565.jpg" alt="">
+                                                <div class="otherNewsList-time">16 января, 6:18</div>
                         <div class="otherNewsList-title">
-                                                        Полиция будет дежурить возле всех храмов на праздновании Крещения Господня в Москве                        </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 14:28</div>
+                                                        Небольшой снег и до 12 градусов мороза ожидается в столичном регионе                        </div>
+                        <div class="otherNewsList-time mobOnly">16 января, 6:18</div>
                     </a>
                 </div>
 
@@ -1549,45 +1548,45 @@ AdFox_Scroll(pr1,'//ads.adfox.ru/1435/prepareCode?pp=h&ps=bwpz&p2=ul&pct=a&plp=a
                     <div class="otherNewsList firstPart" ng-class="{'secondPart':$root.bannersDFP[$root.slags['inners_336_280']]}">
                 
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/obschestvo/2588986">
-                                                    <img width="142" height="97" src="http://photocdn2.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167045.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 12:16</div>
+                    <a href="http://tass.ru/proisshestviya/2590776">
+                                                    <img width="142" height="97" src="http://photocdn1.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167480.jpg" alt="">
+                                                <div class="otherNewsList-time">15 января, 20:48</div>
                         <div class="otherNewsList-title">
-                                                        Приставы в ходе рейда в Москве предупредили должников о возможном ограничении прав                        </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 12:16</div>
+                                                        Репортаж: как жильцы комплекса &quot;Алые паруса&quot; обходятся без лифтов после трагедии                        </div>
+                        <div class="otherNewsList-time mobOnly">15 января, 20:48</div>
                     </a>
                 </div>
 
                                             
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/moskva/2588926">
-                                                    <img width="142" height="97" src="http://photocdn1.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167272.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 12:06</div>
+                    <a href="http://tass.ru/proisshestviya/2590784">
+                                                    <img width="142" height="97" src="http://photocdn3.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167486.jpg" alt="">
+                                                <div class="otherNewsList-time">15 января, 20:44</div>
                         <div class="otherNewsList-title">
-                                                        В Москве завершили строительство самой высокой оранжереи в Европе                        </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 12:06</div>
+                                                        Задержан мужчина, который поджег свою жену в Южном Бутове                        </div>
+                        <div class="otherNewsList-time mobOnly">15 января, 20:44</div>
                     </a>
                 </div>
 
                                             
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/sport/2588912">
-                                                    <img width="142" height="97" src="http://photocdn4.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167043.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 12:00</div>
+                    <a href="http://tass.ru/proisshestviya/2590762">
+                                                    <img width="142" height="97" src="http://photocdn1.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167476.jpg" alt="">
+                                                <div class="otherNewsList-time">15 января, 20:17</div>
                         <div class="otherNewsList-title">
-                                                        Полиция не нашла хулигана, бросившего бананы на матче &quot;Спартак&quot; - &quot;Медвешчак&quot; в Москве                        </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 12:00</div>
+                                                        Суд арестовал механика по делу о гибели женщины при поломке лифта в ЖК &quot;Алые паруса&quot;                        </div>
+                        <div class="otherNewsList-time mobOnly">15 января, 20:17</div>
                     </a>
                 </div>
 
                                             
                 <div class="otherNewsList-item">
-                    <a href="http://tass.ru/proisshestviya/2588707">
-                                                    <img width="142" height="97" src="http://photocdn4.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4166983.jpg" alt="">
-                                                <div class="otherNewsList-time">15 января, 11:00</div>
+                    <a href="http://tass.ru/proisshestviya/2590573">
+                                                    <img width="142" height="97" src="http://photocdn3.itar-tass.com/crop/142x97_edaf8e87/tass/m2/uploads/i/20160115/4167450.jpg" alt="">
+                                                <div class="otherNewsList-time">15 января, 18:36</div>
                         <div class="otherNewsList-title">
-                                                        Маркин прокомментировал инцидент в ЖК &quot;Алые паруса&quot;, где женщина упала в шахту лифта                         </div>
-                        <div class="otherNewsList-time mobOnly">15 января, 11:00</div>
+                                                        Жители ЖК &quot;Алые паруса&quot; намерены настаивать на лишении управляющей компании лицензии                        </div>
+                        <div class="otherNewsList-time mobOnly">15 января, 18:36</div>
                     </a>
                 </div>
 
@@ -1840,33 +1839,33 @@ AdFox_Scroll(pr1,'//ads.adfox.ru/1435/prepareCode?pp=h&ps=bwpz&p2=ul&pct=a&plp=a
             </div>
 
                             <div class="b-news-widget-item">
-                                            <a class="b-news-widget-item__pic" href="http://tass.ru/ekonomika/2590224">
-                            <img height="140" width="228" src="http://photocdn1.itar-tass.com/crop/228x140_c42ba351/tass/m2/uploads/i/20160115/4167324.jpg" alt="" />                        </a>
+                                            <a class="b-news-widget-item__pic" href="http://tass.ru/mezhdunarodnaya-panorama/2593238">
+                            <img height="140" width="228" src="http://photocdn4.itar-tass.com/crop/228x140_c42ba351/tass/m2/uploads/i/20160117/4168087.jpg" alt="" />                        </a>
                                         <div class="b-news-widget-item__info">
-                        <a class="b-news-widget-item__category b-color_2" href="http://tass.ru/ekonomika">Экономика и бизнес</a>
+                        <a class="b-news-widget-item__category b-color_7" href="http://tass.ru/mezhdunarodnaya-panorama">Международная панорама</a>
                     </div>
-                    <a class="b-news-widget-item__title" href="http://tass.ru/ekonomika/2590224">Курс евро превысил 85 рублей впервые с 2014 года</a>
-
-                </div>
-                            <div class="b-news-widget-item">
-                                        <div class="b-news-widget-item__info">
-                        <a class="b-news-widget-item__category b-color_8" href="http://tass.ru/proisshestviya">Происшествия</a>
-                    </div>
-                    <a class="b-news-widget-item__title" href="http://tass.ru/proisshestviya/2590316">Источник: в Нальчике, где введен режим КТО, идет перестрелка с боевиками</a>
+                    <a class="b-news-widget-item__title" href="http://tass.ru/mezhdunarodnaya-panorama/2593238">Обама: США продолжат усиливать санкции по ракетной программе Ирана</a>
 
                 </div>
                             <div class="b-news-widget-item">
                                         <div class="b-news-widget-item__info">
                         <a class="b-news-widget-item__category b-color_1" href="http://tass.ru/politika">Политика</a>
                     </div>
-                    <a class="b-news-widget-item__title" href="http://tass.ru/politika/2590263">Калашников: делегация РФ, скорее всего, откажется ехать на январскую сессию ПАСЕ</a>
+                    <a class="b-news-widget-item__title" href="http://tass.ru/politika/2593427">Грызлов не считает, что урегулирование ситуации в Донбассе зашло в тупик</a>
 
                 </div>
                             <div class="b-news-widget-item">
                                         <div class="b-news-widget-item__info">
-                        <a class="b-news-widget-item__category b-color_5" href="http://tass.ru/obschestvo">Общество</a>
+                        <a class="b-news-widget-item__category b-color_8" href="http://tass.ru/proisshestviya">Происшествия</a>
                     </div>
-                    <a class="b-news-widget-item__title" href="http://tass.ru/obschestvo/2589094">В Сочи пенсионеры перекрыли центральную улицу, добиваясь возврата льготных проездных</a>
+                    <a class="b-news-widget-item__title" href="http://tass.ru/proisshestviya/2593282">Полиция Берлина опровергла сообщения СМИ об изнасиловании русской девочки</a>
+
+                </div>
+                            <div class="b-news-widget-item">
+                                        <div class="b-news-widget-item__info">
+                        <a class="b-news-widget-item__category b-color_5" href="http://tass.ru/kosmos">Космос</a>
+                    </div>
+                    <a class="b-news-widget-item__title" href="http://tass.ru/kosmos/2593378">Спутник NASA успешно раскрыл солнечные батареи</a>
 
                 </div>
                             
@@ -2269,7 +2268,7 @@ AdFox_Scroll(pr1,'//ads.adfox.ru/1435/prepareCode?pp=h&ps=bwpz&p2=ul&pct=a&plp=a
 	</script>
 
 <script type="text/javascript">
-    var CSRF = {'tokenName':'YII_CSRF_TOKEN','token':'dd18520745847b70c50144aad29433348cc0b3a0'};
+    var CSRF = {'tokenName':'YII_CSRF_TOKEN','token':'d5a8818123598c8cf18c997b555bc181cbe80922'};
 	$.ajaxPrefilter(function(options){
 		if (options.type.match(/POST/i)) {
 			options.data = options.data + '&' + CSRF.tokenName + '=' + CSRF.token;

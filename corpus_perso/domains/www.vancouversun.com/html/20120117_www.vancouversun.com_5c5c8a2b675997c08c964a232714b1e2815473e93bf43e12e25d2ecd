@@ -231,7 +231,7 @@ function preCheckVancouversun102467($)
 			Postmedia = typeof(Postmedia) != 'undefined' ? Postmedia : {}; 
 
 			 
-				Postmedia.Weather = {"City":"Vancouver","Country":"Canada","CurrentBarometricPressureHg":"29.9 Hg","CurrentBarometricPressureKpa":"101.4 kPa","CurrentDate":"\/Date(1452855600000-0500)\/","CurrentDetails":"A few clouds","CurrentDewpointC":"0 degrees C","CurrentDewpointF":"32 degrees F","CurrentHumidexC":null,"CurrentHumidexF":null,"CurrentHumidity":"95 %","CurrentIcon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ihn-115x100.gif","CurrentRealC":"1 degrees C","CurrentRealF":"34 degrees F","CurrentStation":"Vancouver","CurrentTempC":"1 degrees C","CurrentTempF":"34 degrees F","CurrentWindKm":"5 km NE","CurrentWindMi":"3 mi NE","CurrentWindchillC":null,"CurrentWindchillF":null,"NormalHighC":"6 degrees C","NormalHighF":"43 degrees F","NormalLowC":"1 degrees C","NormalLowF":"34 degrees F","RecordHighC":"13.0 degrees C","RecordHighF":"55 degrees F","RecordLowC":"-14.0 degrees C","RecordLowF":"7 degrees F","Sunrise":"8:02am","Sunset":"4:42pm","WeatherForecastLongTermTimePeriods":[{"Caption":"Saturday","Date":"\/Date(1452963600000-0500)\/","Details":"Rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":2,"Pop":"100","HighC":"6 degrees C","HighF":"43 degrees F","LowC":"5 degrees C","LowF":"41 degrees F"},{"Caption":"Sunday","Date":"\/Date(1453050000000-0500)\/","Details":"Rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":3,"Pop":"90","HighC":"8 degrees C","HighF":"46 degrees F","LowC":"5 degrees C","LowF":"41 degrees F"},{"Caption":"Monday","Date":"\/Date(1453136400000-0500)\/","Details":"Light rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":4,"Pop":"80","HighC":"7 degrees C","HighF":"45 degrees F","LowC":"5 degrees C","LowF":"41 degrees F"},{"Caption":"Tuesday","Date":"\/Date(1453222800000-0500)\/","Details":"Light rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":5,"Pop":"70","HighC":"7 degrees C","HighF":"45 degrees F","LowC":"4 degrees C","LowF":"39 degrees F"}],"WeatherForecastShortTermTimePeriods":[{"Caption":"This morning","Date":"\/Date(1452888000000-0500)\/","Details":"Cloudy periods","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ih-115x100.gif","Id":1,"Pop":"20","TempC":"1 degrees C","TempF":"33 degrees F","WindKm":"10 km NE","WindMi":"6 mi NE"},{"Caption":"This afternoon","Date":"\/Date(1452909600000-0500)\/","Details":"Cloudy with showers","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_il-115x100.gif","Id":2,"Pop":"60","TempC":"5 degrees C","TempF":"41 degrees F","WindKm":"10 km NE","WindMi":"6 mi NE"},{"Caption":"This evening","Date":"\/Date(1452931200000-0500)\/","Details":"Light rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_irn-115x100.gif","Id":3,"Pop":"80","TempC":"4 degrees C","TempF":"39 degrees F","WindKm":"10 km NE","WindMi":"6 mi NE"},{"Caption":"Tonight","Date":"\/Date(1452952800000-0500)\/","Details":"Rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_irn-115x100.gif","Id":4,"Pop":"90","TempC":"5 degrees C","TempF":"41 degrees F","WindKm":"15 km NE","WindMi":"9 mi NE"}]}; 
+				Postmedia.Weather = {"City":"Vancouver","Country":"Canada","CurrentBarometricPressureHg":"29.7 Hg","CurrentBarometricPressureKpa":"100.7 kPa","CurrentDate":"\/Date(1453053600000-0500)\/","CurrentDetails":"Overcast","CurrentDewpointC":"6 degrees C","CurrentDewpointF":"43 degrees F","CurrentHumidexC":null,"CurrentHumidexF":null,"CurrentHumidity":"88 %","CurrentIcon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_io-115x100.gif","CurrentRealC":"8 degrees C","CurrentRealF":"46 degrees F","CurrentStation":"Vancouver","CurrentTempC":"8 degrees C","CurrentTempF":"46 degrees F","CurrentWindKm":"18 km E","CurrentWindMi":"11 mi E","CurrentWindchillC":null,"CurrentWindchillF":null,"NormalHighC":"6 degrees C","NormalHighF":"43 degrees F","NormalLowC":"0 degrees C","NormalLowF":"32 degrees F","RecordHighC":"12.0 degrees C","RecordHighF":"54 degrees F","RecordLowC":"-14.0 degrees C","RecordLowF":"7 degrees F","Sunrise":"8:00am","Sunset":"4:45pm","WeatherForecastLongTermTimePeriods":[{"Caption":"Monday","Date":"\/Date(1453136400000-0500)\/","Details":"Cloudy with showers","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_il-115x100.gif","Id":2,"Pop":"80","HighC":"8 degrees C","HighF":"46 degrees F","LowC":"5 degrees C","LowF":"41 degrees F"},{"Caption":"Tuesday","Date":"\/Date(1453222800000-0500)\/","Details":"Variable cloudiness","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ib-115x100.gif","Id":3,"Pop":"40","HighC":"7 degrees C","HighF":"45 degrees F","LowC":"2 degrees C","LowF":"36 degrees F"},{"Caption":"Wednesday","Date":"\/Date(1453309200000-0500)\/","Details":"Variable cloudiness","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ib-115x100.gif","Id":4,"Pop":"30","HighC":"7 degrees C","HighF":"45 degrees F","LowC":"5 degrees C","LowF":"41 degrees F"},{"Caption":"Thursday","Date":"\/Date(1453395600000-0500)\/","Details":"Rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":5,"Pop":"70","HighC":"7 degrees C","HighF":"45 degrees F","LowC":"6 degrees C","LowF":"43 degrees F"}],"WeatherForecastShortTermTimePeriods":[{"Caption":"This afternoon","Date":"\/Date(1453082400000-0500)\/","Details":"Light rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_ir-115x100.gif","Id":2,"Pop":"90","TempC":"7 degrees C","TempF":"44 degrees F","WindKm":"10 km SE","WindMi":"6 mi SE"},{"Caption":"This evening","Date":"\/Date(1453104000000-0500)\/","Details":"Cloudy with showers","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_iln-115x100.gif","Id":3,"Pop":"70","TempC":"6 degrees C","TempF":"42 degrees F","WindKm":"10 km E","WindMi":"6 mi E"},{"Caption":"Tonight","Date":"\/Date(1453125600000-0500)\/","Details":"Light rain","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_irn-115x100.gif","Id":4,"Pop":"80","TempC":"5 degrees C","TempF":"41 degrees F","WindKm":"10 km E","WindMi":"6 mi E"},{"Caption":"Monday morning","Date":"\/Date(1453147200000-0500)\/","Details":"Cloudy with showers","Icon":"http:\/\/www.canada.com\/images\/weather\/large\/hp_w_il-115x100.gif","Id":5,"Pop":"80","TempC":"5 degrees C","TempF":"41 degrees F","WindKm":"15 km E","WindMi":"9 mi E"}]}; 
 				
 			
 			
@@ -459,7 +459,7 @@ function preCheckVancouversun102467($)
 
 	<div id="weather5" class="bubble bubbleweather">
 <!-- legoctl: ctl01 --><!-- CACHE HIT: weather5 -->
-<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ihn.gif"></div><div class="temperature">1&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">A few clouds</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
+<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_io.gif"></div><div class="temperature">8&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">Overcast</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
  
 
 <!--/vancouversun/header_weather.inc -->
@@ -602,7 +602,7 @@ function preCheckVancouversun102467($)
 			<div class="logo">
 				<div id="syndication6">
 <!-- legoctl: ctl02 --><!-- CACHE HIT: syndication6 -->
-<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Featured photos</span></h3></div><div id="featurewidget" class="spotlight_right_image"><div class="featurecontent"><div class="newsimage"><a href="http://www.vancouversun.com/news/greyhound+crash+disrupts+highway+near+prince+george/11652028/story.html?tab=PHOT"><img border="0" src="cms/binary/11652595.jpg?size=90x90" alt="Crash" title="Crash"></a><span class="photo_credit"></span></div><h3><a href="http://www.vancouversun.com/news/greyhound+crash+disrupts+highway+near+prince+george/11652028/story.html?tab=PHOT" class=""><span>Greyhound bus crash</span></a></h3><p class="newscontent">Nine people have been transported to hospital in Prince George after a Greyhound bus flipped over on Highway 97 in icy conditions Thursday morning.</p><ul class="morelink"><li><a href="http://www.vancouversun.com/news/greyhound+crash+disrupts+highway+near+prince+george/11652028/story.html?tab=PHOT" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>
+<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Online now</span></h3></div><div id="featurewidget" class="spotlight_right_image"><div class="featurecontent"><div class="newsimage"><a href="/sports/photos+playoffs+week/11657549/story.html"><img border="0" src="cms/binary/11657970.jpg?size=90x90" alt="Randall Cobb" title="Randall Cobb"></a><span class="photo_credit"></span></div><h3><a href="/sports/photos+playoffs+week/11657549/story.html" class=""><span>Photos: NFL playoff action</span></a></h3><p class="newscontent">The Arizona Cardinals edged the Green Bay Packers in overtime, and the Kansas City Chiefs couldn't handle the New England Patriots in Saturday's NFL playoff action. See photos from both games here.</p><ul class="morelink"><li><a href="/sports/photos+playoffs+week/11657549/story.html" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>
 
 			</div>
 		</div>
@@ -618,7 +618,7 @@ function preCheckVancouversun102467($)
 			<div class="logo">
 				<div id="syndication7">
 <!-- legoctl: ctl03 --><!-- CACHE HIT: syndication7 -->
-<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Featured Photos</span></h3></div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/news/metro/photos+four+from+vancouver+receive+oscar+nods+revenant/11654346/story.html"><img border="0" src="cms/binary/11653033.jpg?size=90x90" alt="Set decorator Hamish Purdy of Metro Vancouver in front of a pile of buffalo skulls on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk." title="Set decorator Hamish Purdy of Metro Vancouver in front of a pile of buffalo skulls on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk."></a><span class="photo_credit"></span></div><h3><a href="/news/metro/photos+four+from+vancouver+receive+oscar+nods+revenant/11654346/story.html" class=""><span>Vancouver Oscar links to The Revenant...</span></a></h3><p class="newscontent">The Revenant topped the Academy Award nominations Thursday with a dozen nominations. And the Vancouver film industry shared in its success, with four local people being nominated for Oscars. Cameron Waldbauer was nominated in visual effects, Chris Duesterdiek in sound mixing, Robert Pandini in makeup and hairstyling and Hamish Purdy in production design.</p><ul class="morelink"><li><a href="/news/metro/photos+four+from+vancouver+receive+oscar+nods+revenant/11654346/story.html" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>
+<!-- Source="3305138.atom" --><div class="section_title"><h3><span>Special report</span></h3></div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/news/special+report+danger+dementia+care+home/11655805/story.html"><img border="0" src="cms/binary/11655807.jpg?size=90x90" alt="Karl Ottesen (right): A gentle man who loved life and people ‘lost his mind.’ His unpredictable aggression would lead to his death." title="Karl Ottesen (right): A gentle man who loved life and people ‘lost his mind.’ His unpredictable aggression would lead to his death."></a><span class="photo_credit"></span></div><h3><a href="/news/special+report+danger+dementia+care+home/11655805/story.html" class=""><span>Danger in the dementia care home...</span></a></h3><p class="newscontent">After Karl Ottesen died, at the age of 77, in a Prince George nursing home, his obituary described him as a &#8220;lovely gentle man and a true gentleman&#8220; who enjoyed dancing, laughter, feasting, hugging and philosophizing over coffee and tea. &#8220;Sorry ladies but I had to go, they needed a dance instructor upstairs, and how could I say No. It&#8217;s been a slice, and I love you all so.&#8221;</p><ul class="morelink"><li><a href="/news/special+report+danger+dementia+care+home/11655805/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="doc"><a href="/news/metro/food+more+than+nutrition+community+agencies/11650139/story.html"><span>Food is more than nutrition for community agencies</span></a></li><li class="doc"><a href="/news/metro/promises+promises+metro+mayors+they+making+progress+election/11640245/story.html"><span>Promises, promises: Metro mayors say they are making progress on election vows</span></a></li><li class="doc"><a href="/news/metro/ymca+trains+seniors+instructors+keep+fitness+experiment+alive/11630261/story.html"><span>YMCA trains seniors as instructors to keep fitness experiment alive</span></a></li><li class="doc"><a href="/news/metro/generation+defends+vancouver+chinatown+traditions/11620208/story.html"><span>A new generation defends Vancouver's Chinatown traditions</span></a></li><li class="doc"><a href="/news/metro/scams+targeting+seniors+assets+very+business/11499859/story.html"><span>Scams targeting seniors’ assets a ‘very big business’</span></a></li><li class="doc"><a href="/health/housing+options+available+adults+with+autism+family+experts/11502284/story.html"><span>Few housing options available for adults with autism, say family and experts</span></a></li><li class="doc"><a href="/news/metro/senior+death+kamloops+care+home+prompts+family+call+increased/11490410/story.html"><span>Senior’s death in Kamloops care home prompts family’s call for increased staffing</span></a></li></ul></div></div><div class="clear"> </div></div>
 
 			</div>
 		</div>
@@ -632,7 +632,7 @@ function preCheckVancouversun102467($)
 
 	<div id="weather8" class="bubble bubbleweather">
 <!-- legoctl: ctl04 --><!-- CACHE HIT: weather8 -->
-<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_ihn.gif"></div><div class="temperature">1&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">A few clouds</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
+<div class="weather"><div class="img"><IMG hspace="2" width="72" height="39" src="/images/weather/large/hp_w_io.gif"></div><div class="temperature">8&#176;C</div><div class="clear"> </div><div class="forecast"><div class="current">Overcast</div><a href="/weather/index.html?city=vancouver&amp;rg=bc"><b>Vancouver</b></a><ul class="bullet"><li><a href="/weather/index.html?city=vancouver&amp;rg=bc"><span>Detailed Forecast</span></a></li></ul></div><div class="clear"> </div></div></div>
  
 
 <!--/vancouversun/header_weather.inc -->
@@ -1703,7 +1703,7 @@ function preCheckVancouversun102467($)
 	<div class="no_section_title">
 		<div id="syndication3" class="smallfeature">
 <!-- legoctl: ctl06$ctl04 --><!-- CACHE HIT: syndication3 -->
-<!-- Source="827595.atom" --><div class="section_title"><h3><span>More Photo Galleries</span></h3></div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="http://www.vancouversun.com/life/in-the-garden/garden+houseplants+back+chic+decor/11652659/story.html?tab+PHOT"><img border="0" src="cms/binary/11652727.jpg?size=140x95" alt="Indoor plants" title="Indoor plants"></a><span class="photo_credit"></span></div><h3><a href="http://www.vancouversun.com/life/in-the-garden/garden+houseplants+back+chic+decor/11652659/story.html?tab+PHOT" class=""><span>Photos: Make a design statement...</span></a></h3><p class="newscontent">&#8216;Interiorscaping&#8217;: From timeless classics...</p><ul class="morelink"><li><a href="http://www.vancouversun.com/life/in-the-garden/garden+houseplants+back+chic+decor/11652659/story.html?tab+PHOT" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/sports/hockey/vancouver-canucks/photos+canucks+handle+capitals/11653017/story.html"><img border="0" src="cms/binary/11653012.jpg?size=140x95" alt="Vancouver Canucks goalie Ryan Miller (30) blocks a shot as Washington Capitals center Evgeny Kuznetsov (92), from Russia, waits for the rebound, in the first period of an NHL hockey game, Thursday, Jan. 14, 2016, in Washington." title="Vancouver Canucks goalie Ryan Miller (30) blocks a shot as Washington Capitals center Evgeny Kuznetsov (92), from Russia, waits for the rebound, in the first period of an NHL hockey game, Thursday, Jan. 14, 2016, in Washington."></a><span class="photo_credit"></span></div><h3><a href="/sports/hockey/vancouver-canucks/photos+canucks+handle+capitals/11653017/story.html" class=""><span>Photos: Canucks fall to Capitals...</span></a></h3><p class="newscontent">The Washington Capitals easily handled the Vancouver...</p><ul class="morelink"><li><a href="/sports/hockey/vancouver-canucks/photos+canucks+handle+capitals/11653017/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="doc"><a href="/sports/hockey/vancouver-canucks/canucks+kick+road+trip+with+loss/11652997/story.html"><span>Canucks kick off road trip with 4-1 loss to Capitals</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/news/metro/photos+four+from+vancouver+receive+oscar+nods+revenant/11654346/story.html"><img border="0" src="cms/binary/11653033.jpg?size=140x95" alt="Set decorator Hamish Purdy of Metro Vancouver in front of a pile of buffalo skulls on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk." title="Set decorator Hamish Purdy of Metro Vancouver in front of a pile of buffalo skulls on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk."></a><span class="photo_credit"></span></div><h3><a href="/news/metro/photos+four+from+vancouver+receive+oscar+nods+revenant/11654346/story.html" class=""><span>Photos: Four from Vancouver receive...</span></a></h3><p class="newscontent">The Revenant topped the Academy Award nominations ...</p><ul class="morelink"><li><a href="/news/metro/photos+four+from+vancouver+receive+oscar+nods+revenant/11654346/story.html" class=""><span>more »</span></a></li></ul></div></div><div class="clear"> </div></div>		</div></div>
+<!-- Source="827595.atom" --><div class="section_title"><h3><span>More Photo Galleries</span></h3></div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/sports/physiotherapist+gives+tips+health/11655782/story.html"><img border="0" src="cms/binary/11655781.jpg?size=140x95" alt="Running" title="Running"></a><span class="photo_credit"></span></div><h3><a href="/sports/physiotherapist+gives+tips+health/11655782/story.html" class=""><span class="video-icon"></span><span>Video: Physiotherapist gives tips...</span></a></h3><p class="newscontent">From stretching your muscles to your running cadence...</p><ul class="morelink"><li><a href="/sports/physiotherapist+gives+tips+health/11655782/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="video+physiotherapist+gives+tips+health/11655778/story.html"><span>Video: Physiotherapist gives tips on Sun Run health</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/entertainment/video+premiere+vancouver+artist+unveils+painting+gold+leaf/11655763/story.html"><img border="0" src="cms/binary/11655752.jpg?size=140x95" alt="24K Gold leaf piano" title="24K Gold leaf piano"></a><span class="photo_credit"></span></div><h3><a href="/entertainment/video+premiere+vancouver+artist+unveils+painting+gold+leaf/11655763/story.html" class=""><span class="video-icon"></span><span>Video: Premiere Vancouver artist...</span></a></h3><p class="newscontent">Vancouver Artist Michael Abraham has been commissioned...</p><ul class="morelink"><li><a href="/entertainment/video+premiere+vancouver+artist+unveils+painting+gold+leaf/11655763/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="video+premiere+vancouver+artist+unveils+painting+gold+leaf+piano/11655745/story.html"><span>Video: Premiere Vancouver artist unveils painting for 24K Gold leaf piano</span></a></li></ul></div></div><div class="clear"> </div></div>		</div><div class="col_160">			<div class="col_140"><div id="featurewidget" class="smallfeature"><div class="featurecontent"><div class="newsimage"><a href="/news/food+thought+keep+landfills+composts/11655768/story.html"><img border="0" src="cms/binary/11655767.jpg?size=140x95" alt="food" title="food"></a><span class="photo_credit"></span></div><h3><a href="/news/food+thought+keep+landfills+composts/11655768/story.html" class=""><span class="video-icon"></span><span>Video: Food for thought; keep ...</span></a></h3><p class="newscontent">Danison Buan is a restaurant owner and founder of ...</p><ul class="morelink"><li><a href="/news/food+thought+keep+landfills+composts/11655768/story.html" class=""><span>more »</span></a></li></ul><ul class="relatedlinks"><li class="application/vnd.kaltura"><a href="video+food+thought+keep+landfills+composts/11655766/story.html"><span>Video: Food for thought; keep it out of landfills, composts</span></a></li></ul></div></div><div class="clear"> </div></div>		</div></div>
 
 
 	</div>
@@ -1927,33 +1927,33 @@ function preCheckVancouversun102467($)
 <!-- legoctl: ctl08 --><!-- CACHE HIT: syndication12 -->
 <!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
   <li>
-    <a href="/Ruling+could+affect+more+than+Northern+Gateway/11649767/story.html" class="">
-      <span>Ruling could affect more than Northern Gateway</span>
+    <a href="/Pacific+Centre+picture+takers+feared+public+attacks+after+images+went+viral/11656077/story.html" class="">
+      <span>Pacific Centre picture-takers feared public attacks after images went viral</span>
     </a>
   </li>
   <li>
-    <a href="/Supreme+Court+Canada+hear+Teachers+Federation+appeal/11651654/story.html" class="">
-      <span>Supreme Court of Canada to hear B.C. Teachers’ Federation appeal</span>
+    <a href="/Media+under+fire+after+mall+deemed+completely+innocent/11655822/story.html" class="">
+      <span>Media under fire after mall men deemed ‘completely innocent’</span>
     </a>
   </li>
   <li>
-    <a href="/Greyhound+crash+injures+nine+near+Prince+George/11652028/story.html" class="">
-      <span>Greyhound bus crash injures nine near Prince George</span>
+    <a href="/Danger+dementia+care+home/11655805/story.html" class="">
+      <span>Danger in the dementia care home</span>
     </a>
   </li>
   <li>
-    <a href="/Hall+Famer+Denis+Potvin+regrets+life+remark+about+Daniel+Sedin/11650554/story.html" class="">
-      <span>Hall of Famer Denis Potvin regrets ‘low-life’ remark about Daniel Sedin</span>
+    <a href="/Canadians+among+killed+Burkina+Faso+hotel+terrorist+attack/11657304/story.html" class="">
+      <span>Six Canadians among the 23 killed in Burkina Faso hotel terrorist attack</span>
     </a>
   </li>
   <li>
-    <a href="/Four+from+Vancouver+film+industry+receive+Oscar+nods+Revenant/11651672/story.html" class="">
-      <span>Four from Vancouver’s film industry receive Oscar nods for The Revenant</span>
+    <a href="/Vancouver+port+truckers+company+reach+deal/11657231/story.html" class="">
+      <span>Vancouver port truckers, company reach deal</span>
     </a>
   </li>
   <li>
-    <a href="/After+years+Victoria+Bengal+Lounge+closing+Empress+Hotel+overhaul/11651807/story.html" class="">
-      <span>After 61 years, Victoria's Bengal Lounge closing in Empress Hotel overhaul</span>
+    <a href="/Robots+drones+puts+focus+tech+into+hyperdrive+with+first+ever+summit/11657876/story.html" class="">
+      <span>Robots to drones: B.C. puts focus on tech into hyperdrive with first-ever summit</span>
     </a>
   </li>
 </ul>
@@ -1971,23 +1971,8 @@ function preCheckVancouversun102467($)
 <!-- legoctl: ctl09 --><!-- CACHE HIT: syndication13 -->
 <!-- Source="/scripts/mostpopular.aspx?stattype=email" --><ul class="bullet">
   <li>
-    <a href="/After+years+Victoria+Bengal+Lounge+closing+Empress+Hotel+overhaul/11651807/story.html" class="">
-      <span>After 61 years, Victoria's Bengal Lounge closing in Empress Hotel overhaul</span>
-    </a>
-  </li>
-  <li>
-    <a href="/Four+from+Vancouver+film+industry+receive+Oscar+nods+Revenant/11651672/story.html" class="">
-      <span>Four from Vancouver’s film industry receive Oscar nods for The Revenant</span>
-    </a>
-  </li>
-  <li>
-    <a href="/Barbara+Yaffe+becoming+Canada+economic+darling/11652540/story.html" class="">
-      <span>Barbara Yaffe: B.C. becoming Canada’s economic darling</span>
-    </a>
-  </li>
-  <li>
-    <a href="/Ruling+could+affect+more+than+Northern+Gateway/11649767/story.html" class="">
-      <span>Ruling could affect more than Northern Gateway</span>
+    <a href="/Danger+dementia+care+home/11655805/story.html" class="">
+      <span>Danger in the dementia care home</span>
     </a>
   </li>
 </ul>
@@ -2092,9 +2077,9 @@ function preCheckVancouversun102467($)
 	 <div class="no_section_title">
      	<div id="syndication14">
 <!-- legoctl: ctl10 --><!-- CACHE HIT: syndication14 -->
-<!-- Source="813152.atom" --><div class="section_title"><h3><span>Latest updates</span></h3></div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/news/metro/vancouver+police+seek+three+seen+filming+inside+pacific/11653315/story.html"><img border="0" src="cms/binary/11632674.jpg?size=90x90" alt="Pacific Centre" title="Pacific Centre"></a><span class="photo_credit"></span></div><h3><a href="/news/metro/vancouver+police+seek+three+seen+filming+inside+pacific/11653315/story.html" class=""><span>Vancouver police seek three men seen filming inside Pacific Centre</span></a></h3><p class="newscontent">Vancouver police are looking to speak with a trio of men who were filming inside Pacific Centre Tuesday around 6:30 p.m.</p><ul class="morelink"><li><a href="/news/metro/vancouver+police+seek+three+seen+filming+inside+pacific/11653315/story.html" class=""><span>more »</span></a></li></ul><span class="timestamp">29 minutes ago</span><br><ul class="relatedlinks"><li class="doc"><a href="/news/metro/vancouver+police+death+point+grey+suspicious/11649163/story.html"><span>Vancouver police man's death in Point Grey not suspicious</span></a></li><li class="doc"><a href="/news/metro/syrian+refugees+grateful+public+government+response+vancouver/11649045/story.html"><span>Syrian refugees in grateful for public, government response to Vancouver pepper-spray attack</span></a></li><li class="doc"><a href="/news/pepper+spraying+syrian+refugees+troubling+police/11642356/story.html"><span>Video: Pepper spraying of Syrian refugees 'troubling' say police</span></a></li><li class="doc"><a href="/news/police+treating+pepper+spray+attack+syrian+refugees+hate+crime/11641558/story.html"><span>Police treating pepper spray attack of Syrian refugees as hate crime</span></a></li><li class="doc"><a href="/news/metro/double+life+vancouver+school+board+trustee+chris+richardson/11647656/story.html"><span>The double life of Vancouver school board trustee Chris Richardson</span></a></li><li class="doc"><a href="/news/metro/mulgrew+expected+slam+dunk+terror+trial+hits/11652801/story.html"><span>Ian Mulgrew: Expected slam-dunk terror trial hits the rim</span></a></li><li class="doc"><a href="/news/metro/csis+accused+helping+radicalize+terror+suspect/11650025/story.html"><span>CSIS accused of helping to radicalize B.C. terror suspect</span></a></li><li class="doc"><a href="/news/metro/mental+health+care+system+failed+lions+mother+says/11647868/story.html"><span>Mental health care system failed Lions Bay man, mother says</span></a></li><li class="doc"><a href="/news/metro/victim+vancouver+party+accident+langley+woman/11647557/story.html"><span>Langley woman identified as victim in fatal party bus accident</span></a></li><li class="doc"><a href="/sports/hockey/vancouver-canucks/gang+associates+sentenced+role+drug/11645536/story.html"><span>Two gang associates sentenced for role in drug operation</span></a></li><li class="doc"><a href="/news/metro/ministry+defends+social+workers+high+profile+child+custody/11650283/story.html"><span>Ministry defends social workers in high-profile child custody case</span></a></li><li class="doc"><a href="/news/metro/first+police+watchdog+leaving+agency+built/11649965/story.html"><span>B.C.'s first police watchdog leaving agency he built</span></a></li></ul></div></div><div class="clear"> </div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/sports/hockey/vancouver-canucks/canucks+kick+road+trip+with+loss/11652997/story.html"><img border="0" src="cms/binary/11653009.jpg?size=90x90" alt="Washington Capitals defenseman Karl Alzner (27) celebrates with teammates after his goal past Vancouver Canucks goalie Ryan Miller, right, in the second period of an NHL hockey game, Thursday, Jan. 14, 2016, in Washington." title="Washington Capitals defenseman Karl Alzner (27) celebrates with teammates after his goal past Vancouver Canucks goalie Ryan Miller, right, in the second period of an NHL hockey game, Thursday, Jan. 14, 2016, in Washington."></a><span class="photo_credit"></span></div><h3><a href="/sports/hockey/vancouver-canucks/canucks+kick+road+trip+with+loss/11652997/story.html" class=""><span>Canucks kick off road trip with 4-1 loss to Capitals</span></a></h3><p class="newscontent">WASHINGTON, D.C. - If you were looking for talking points, there was no shortage of them here Thursday. And goodness knows, Vancouver loves its talking points when it comes to the Canucks.</p><ul class="morelink"><li><a href="/sports/hockey/vancouver-canucks/canucks+kick+road+trip+with+loss/11652997/story.html" class=""><span>more »</span></a></li></ul><span class="timestamp">57 minutes ago</span><br><span class="comments"><a href="/sports/hockey/vancouver-canucks/canucks+kick+road+trip+with+loss/11652997/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
-					Comments (<span class="SP6:11652997"></span>)
-				</a></span><ul class="relatedlinks"><li class="text/xml"><a href="/sports/hockey/vancouver-canucks/photos+canucks+handle+capitals/11653017/story.html"><span>Photos: Canucks fall to Capitals</span></a></li><li class="doc"><a href="/sports/hockey/vancouver-canucks/canucks+miller+miffed+about+call+after/11653161/story.html"><span>Canucks' Miller miffed about non-call after Baertschi hit</span></a></li><li class="doc"><a href="/sports/hockey/vancouver-canucks/hall+famer+denis+potvin+regrets+life/11650554/story.html"><span>Hall of Famer Denis Potvin regrets ‘low-life’ remark about Daniel Sedin</span></a></li><li class="doc"><a href="/sports/hockey/vancouver-canucks/iain+macintyre+markstrom+gaining+coach/11650250/story.html"><span>Iain MacIntyre: Markstrom gaining coach’s confidence to lighten load for Miller</span></a></li><li class="doc"><a href="/sports/hockey/vancouver-canucks/naslund+happy+vancouver+canucks+goal/11647810/story.html"><span>Markus Naslund happy to see Daniel Sedin match his Canucks' goal-scoring record</span></a></li></ul></div></div><div class="clear"> </div></div>
+<!-- Source="813152.atom" --><div class="section_title"><h3><span>Latest updates</span></h3></div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/news/metro/pacific+centre+picture+takers+feared+public+attacks+after/11656077/story.html"><img border="0" src="cms/binary/11145058.jpg?size=90x90" alt="Pacific Centre officially opened its new retail expansion, featuring stores such as AllSaints, Ted Baker London, Kate Spade New York, Hugo Boss, among others on Wednesday, June 17." title="Pacific Centre officially opened its new retail expansion, featuring stores such as AllSaints, Ted Baker London, Kate Spade New York, Hugo Boss, among others on Wednesday, June 17."></a><span class="photo_credit"></span></div><h3><a href="/news/metro/pacific+centre+picture+takers+feared+public+attacks+after/11656077/story.html" class=""><span>Pacific Centre picture-takers feared public attacks after images went viral</span></a></h3><p class="newscontent">VANCOUVER &#8212; Two men and a teenager labelled "suspicious" because they were taking photos of a Vancouver mall said they feared being attacked on the street after local media published their images.</p><ul class="morelink"><li><a href="/news/metro/pacific+centre+picture+takers+feared+public+attacks+after/11656077/story.html" class=""><span>more »</span></a></li></ul><span class="timestamp"></span><br><ul class="relatedlinks"><li class="doc"><a href="http://blogs.vancouversun.com/2016/01/15/live-vancouver-police-discuss-reports-of-3-suspicious-men-filming-pacific-centre-mall/"><span>Vancouver police discuss reports of 3 'suspicious men' filming Pacific Centre mall</span></a></li><li class="doc"><a href="/news/video+vancouver+police+search+trio+photographers/11654933/story.html"><span>Video: Vancouver police search for trio of photographers</span></a></li><li class="doc"><a href="/news/metro/police+identify+clear+three+seen+filming+inside+vancouver/11653315/story.html"><span>'Completely innocent': Police clear three men seen filming in Pacific Centre</span></a></li><li class="doc"><a href="/news/metro/pete+mcmartin+jittery+world+live/11655632/story.html"><span>Pete McMartin: The jittery world we live in</span></a></li><li class="doc"><a href="/news/metro/media+under+fire+after+mall+deemed+completely+innocent/11655822/story.html"><span>Media under fire after mall men deemed ‘completely innocent’</span></a></li></ul></div></div><div class="clear"> </div><div id="featurewidget" class="spotlight"><div class="featurecontent"><div class="newsimage"><a href="/business/asia-pacific/asia+pacific+taiwan+president+expected+steady+hand/11658147/story.html"><img border="0" src="cms/binary/11658148.jpg?size=90x90" alt="Taiwan’s Democratic Progressive Party, DPP, presidential candidate Tsai Ing-wen waves as she celebrates winning the presidential election on Saturday. Tsai defeated the China-friendly party that has led the self-governing island for eight years and soon to be come its first female head of state." title="Taiwan’s Democratic Progressive Party, DPP, presidential candidate Tsai Ing-wen waves as she celebrates winning the presidential election on Saturday. Tsai defeated the China-friendly party that has led the self-governing island for eight years and soon to be come its first female head of state."></a><span class="photo_credit"></span></div><h3><a href="/business/asia-pacific/asia+pacific+taiwan+president+expected+steady+hand/11658147/story.html" class=""><span>Asia-Pacific: New Taiwan president expected to be steady hand in relations with Beijing</span></a></h3><p class="newscontent">The results of the latest major election in Asia are in, with Taiwan&#8217;s Pan-Green coalition ousting the Nationalists, or KMT, after eight years in power. The Pan-Greens, led by Democratic Progressive Party presidential candidate Tsai Ing-wen, took the presidency and legislature as widely expected. Tsai, a former law professor who served on Taiwan&#8217;s Mainland Affairs Council, the administrative agency responsible for Beijing-related policies, was heavily favoured to win, given the KMT&#8217;s (and outgoing president Ma Ying-jeou&#8217;s) quickly eroding popularity toward the end of its eight-year administration.</p><ul class="morelink"><li><a href="/business/asia-pacific/asia+pacific+taiwan+president+expected+steady+hand/11658147/story.html" class=""><span>more »</span></a></li></ul><span class="timestamp">7 minutes ago</span><br><span class="comments"><a href="/business/asia-pacific/asia+pacific+taiwan+president+expected+steady+hand/11658147/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
+					Comments (<span class="SP6:11658147"></span>)
+				</a></span><ul class="relatedlinks"><li class="offsite"><a target="_blank" href="https://www.thevancouversuncontests.com/machform/view.php?id=553" rel="nofollow"><span>Is there more to this story? We'd like to hear from you</span></a></li><li class="doc"><a href="/business/asia-pacific/asia+pacific+chinese+tourism+gold+rush+unabated/11658081/story.html"><span>Asia-Pacific: Chinese tourism gold rush unabated</span></a></li><li class="doc"><a href="http://blogs.vancouversun.com/2016/01/15/canada-is-only-a-big-caribbean-country-china-expert/"><span>'Canada is only a big Caribbean country,' says China expert</span></a></li><li class="doc"><a href="/business/asia-pacific/asia+pacific+beef+exporters+refocus+south+korea/11642594/story.html"><span>Asia-Pacific: Beef exporters refocus on South Korea</span></a></li><li class="doc"><a href="/business/asia-pacific/asia+pacific+mystery+book+sellers+underscores/11642596/story.html"><span>Asia-Pacific: Mystery of the book sellers underscores democratic tensions in Hong Kong</span></a></li><li class="doc"><a href="/business/asia-pacific/asia+pacific+report+china+challenges+ahead+make/11627969/story.html"><span>Asia-Pacific Report: China has challenges ahead to make economy more efficient</span></a></li><li class="doc"><a href="/business/asia-pacific/asia+pacific+report+koreans+work+later+life+longer/11615770/story.html"><span>Asia Pacific Report: Koreans work later in life, longer hours</span></a></li><li class="doc"><a href="/business/asia-pacific/asia+pacific+report+comfort+women+deal+hardly/11627962/story.html"><span>Asia-Pacific Report: ‘Comfort women’ deal hardly settles the controversy</span></a></li></ul></div></div><div class="clear"> </div></div>
 
 		<div id="syndication15">
 <!-- legoctl: ctl11 --><!-- CACHE HIT: syndication15 -->
@@ -2109,18 +2094,20 @@ function preCheckVancouversun102467($)
     <div class="col_content">
       <div class="headline">
         <h3>
-          <a href="/news/metro/greyhound+crash+disrupts+highway+near+prince+george/11652028/story.html" class="">
-            <span>Greyhound bus crash injures nine near Prince George</span>
+          <a href="/business/mind+your+manners+etiquette+tips+shifting+business+landscape/11654964/story.html" class="">
+            <span class="video-icon">
+            </span>
+            <span>Mind your manners: Etiquette tips for a shifting business landscape</span>
           </a>
         </h3>
       </div>
       <div class="clear"> </div>
       <div class="content">
-        <span class="timestamp">1 hour ago</span>
+        <span class="timestamp"></span>
         <div class="clear"> </div>
         <span class="comments">
-          <a href="/news/metro/greyhound+crash+disrupts+highway+near+prince+george/11652028/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
-					Comments (<span class="SP6:11652028"></span>)
+          <a href="/business/mind+your+manners+etiquette+tips+shifting+business+landscape/11654964/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
+					Comments (<span class="SP6:11654964"></span>)
 				</a>
         </span>
       </div>
@@ -2131,18 +2118,18 @@ function preCheckVancouversun102467($)
     <div class="col_content">
       <div class="headline">
         <h3>
-          <a href="/news/national/pulled+most+sophisticated+immigration+frauds+canadian/11651977/story.html" class="">
-            <span>How a B.C. man pulled off one of the most sophisticated immigration frauds in Canadian history</span>
+          <a href="/business/asia-pacific/asia+pacific+chinese+tourism+gold+rush+unabated/11658081/story.html" class="">
+            <span>Asia-Pacific: Chinese tourism gold rush unabated</span>
           </a>
         </h3>
       </div>
       <div class="clear"> </div>
       <div class="content">
-        <span class="timestamp"></span>
+        <span class="timestamp">8 minutes ago</span>
         <div class="clear"> </div>
         <span class="comments">
-          <a href="/news/national/pulled+most+sophisticated+immigration+frauds+canadian/11651977/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
-					Comments (<span class="SP6:11651977"></span>)
+          <a href="/business/asia-pacific/asia+pacific+chinese+tourism+gold+rush+unabated/11658081/story.html&#xD;&#xA;							#Comments&#xD;&#xA;						"> 
+					Comments (<span class="SP6:11658081"></span>)
 				</a>
         </span>
       </div>
@@ -2160,7 +2147,7 @@ function preCheckVancouversun102467($)
       </div>
       <div class="clear"> </div>
       <div class="content">
-        <span class="timestamp"></span>
+        <span class="timestamp">3 hours ago</span>
         <div class="clear"> </div>
       </div>
     </div>
@@ -2233,8 +2220,170 @@ function preCheckVancouversun102467($)
             <div id="featurewidget" class="smallfeature">
               <div class="featurecontent">
                 <div class="newsimage">
+                  <a href="/sports/photos+playoffs+week/11657549/story.html">
+                    <img border="0" src="cms/binary/11657970.jpg?size=140x95" alt="Randall Cobb" title="Randall Cobb">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/sports/photos+playoffs+week/11657549/story.html" class="">
+                    <span>
+                      <span>Photos: NFL playoffs, week two</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_1">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/sports/hockey/vancouver-canucks/photos+canucks+beat+hurricanes/11656059/story.html">
+                    <img border="0" src="cms/binary/11656065.jpg?size=140x95" alt="Canucks at Hurricanes" title="Canucks at Hurricanes">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/sports/hockey/vancouver-canucks/photos+canucks+beat+hurricanes/11656059/story.html" class="">
+                    <span>
+                      <span>Photos: Canucks beat Hurricanes in OT</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_2">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/metro/photos+later+sunshine+return+rain+vancouver+doesn+stop+snap/11657174/story.html">
+                    <img border="0" src="cms/binary/11657184.jpg?size=140x95" alt="Vancouver weather" title="Vancouver weather">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/metro/photos+later+sunshine+return+rain+vancouver+doesn+stop+snap/11657174/story.html" class="">
+                    <span>
+                      <span>Photos: See ya later, sunshine! Return of rain to Vancouver doesn’t stop snap-happy Instagram users from sharing stunning pics</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_3">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/metro/opinion+medical+marijuana+supply+chain+distribution+cross/11655642/story.html">
+                    <img border="0" src="cms/binary/11319365.jpg?size=140x95" alt="Despite the widespread and public selling of marijuana, possession remains against the law without medical permission." title="Despite the widespread and public selling of marijuana, possession remains against the law without medical permission.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/metro/opinion+medical+marijuana+supply+chain+distribution+cross/11655642/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Opinion: Medical marijuana supply chain and distribution at cross roads</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_4">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/life/fashion-beauty/video+nigma+talib+talks+skincare+reversing+signs/11655574/story.html">
+                    <img border="0" src="cms/binary/11655576.jpg?size=140x95" alt="Dr. Nigma Talib" title="Dr. Nigma Talib">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/life/fashion-beauty/video+nigma+talib+talks+skincare+reversing+signs/11655574/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Video: Dr. Nigma Talib talks skincare, reversing the signs of aging</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_5">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/sports/football/super-bowl/experts+make+their+playoff+picks/11655582/story.html">
+                    <img border="0" src="cms/binary/11642554.jpg?size=140x95" alt="Seattle Seahawks quarterback Russell Wilson (3) runs the ball during the first half of an NFL wild-card football game against the Minnesota Vikings, Sunday, Jan. 10, 2016, in Minneapolis." title="Seattle Seahawks quarterback Russell Wilson (3) runs the ball during the first half of an NFL wild-card football game against the Minnesota Vikings, Sunday, Jan. 10, 2016, in Minneapolis.">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/sports/football/super-bowl/experts+make+their+playoff+picks/11655582/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Experts make their NFL playoff picks</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_6">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
                   <a href="/news/metro/photos+four+from+vancouver+receive+oscar+nods+revenant/11654346/story.html">
-                    <img border="0" src="cms/binary/11653033.jpg?size=140x95" alt="Set decorator Hamish Purdy of Metro Vancouver in front of a pile of buffalo skulls on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk." title="Set decorator Hamish Purdy of Metro Vancouver in front of a pile of buffalo skulls on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk.">
+                    <img border="0" src="cms/binary/11653031.jpg?size=140x95" alt="Set decorator Hamish Purdy of Metro Vancouver on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk." title="Set decorator Hamish Purdy of Metro Vancouver on the set of the movie The Revenant. Purdy has been nominated for an Academy Award in production design, along with Jack Fisk.">
                   </a>
                 </div>
                 <h3>
@@ -2251,7 +2400,35 @@ function preCheckVancouversun102467($)
         </div>
       </div>
     </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_1">
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_7">
+      <div class="wrapper_0_10_0_10">
+        <div class="col_140">
+          <div class="no_section_title">
+            <div class="clear"> </div>
+            <div id="featurewidget" class="smallfeature">
+              <div class="featurecontent">
+                <div class="newsimage">
+                  <a href="/news/video+vancouver+police+search+trio+photographers/11654933/story.html">
+                    <img border="0" src="cms/binary/11632674.jpg?size=140x95" alt="Pacific Centre" title="Pacific Centre">
+                  </a>
+                </div>
+                <h3>
+                  <a href="/news/video+vancouver+police+search+trio+photographers/11654933/story.html" class="">
+                    <span class="video-icon">
+                    </span>
+                    <span>
+                      <span>Video: Vancouver police search for trio of photographers</span>
+                    </span>
+                  </a>
+                </h3>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_8">
       <div class="wrapper_0_10_0_10">
         <div class="col_140">
           <div class="no_section_title">
@@ -2277,7 +2454,7 @@ function preCheckVancouversun102467($)
         </div>
       </div>
     </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_2">
+    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_9">
       <div class="wrapper_0_10_0_10">
         <div class="col_140">
           <div class="no_section_title">
@@ -2293,194 +2470,6 @@ function preCheckVancouversun102467($)
                   <a href="/sports/hockey/vancouver-canucks/photos+canucks+handle+capitals/11653017/story.html" class="">
                     <span>
                       <span>Photos: Canucks fall to Capitals</span>
-                    </span>
-                  </a>
-                </h3>
-                <br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_3">
-      <div class="wrapper_0_10_0_10">
-        <div class="col_140">
-          <div class="no_section_title">
-            <div class="clear"> </div>
-            <div id="featurewidget" class="smallfeature">
-              <div class="featurecontent">
-                <div class="newsimage">
-                  <a href="http://www.vancouversun.com/life/in-the-garden/garden+houseplants+back+chic+decor/11652659/story.html?tab+PHOT">
-                    <img border="0" src="cms/binary/11652727.jpg?size=140x95" alt="Indoor plants" title="Indoor plants">
-                  </a>
-                </div>
-                <h3>
-                  <a href="http://www.vancouversun.com/life/in-the-garden/garden+houseplants+back+chic+decor/11652659/story.html?tab+PHOT" class="">
-                    <span>
-                      <span>Photos: Make a design statement with indoor plants</span>
-                    </span>
-                  </a>
-                </h3>
-                <br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_4">
-      <div class="wrapper_0_10_0_10">
-        <div class="col_140">
-          <div class="no_section_title">
-            <div class="clear"> </div>
-            <div id="featurewidget" class="smallfeature">
-              <div class="featurecontent">
-                <div class="newsimage">
-                  <a href="/news/video+worst+intersections+metro+vancouver/11652683/story.html">
-                    <img border="0" src="cms/binary/11652682.jpg?size=140x95" alt="One of the worst intersections in Metro Vancouver" title="One of the worst intersections in Metro Vancouver">
-                  </a>
-                </div>
-                <h3>
-                  <a href="/news/video+worst+intersections+metro+vancouver/11652683/story.html" class="">
-                    <span class="video-icon">
-                    </span>
-                    <span>
-                      <span>Video: One of the worst intersections in Metro Vancouver</span>
-                    </span>
-                  </a>
-                </h3>
-                <br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_5">
-      <div class="wrapper_0_10_0_10">
-        <div class="col_140">
-          <div class="no_section_title">
-            <div class="clear"> </div>
-            <div id="featurewidget" class="smallfeature">
-              <div class="featurecontent">
-                <div class="newsimage">
-                  <a href="/entertainment/photos+best+worst+dressed+golden+globes/11642822/story.html">
-                    <img border="0" src="cms/binary/11642731.jpg?size=140x95" alt="Actress/singer Jennifer Lopez attends the 73rd Annual Golden Globe Awards held at the Beverly Hilton Hotel on January 10, 2016 in Beverly Hills, California." title="Actress/singer Jennifer Lopez attends the 73rd Annual Golden Globe Awards held at the Beverly Hilton Hotel on January 10, 2016 in Beverly Hills, California.">
-                  </a>
-                </div>
-                <h3>
-                  <a href="/entertainment/photos+best+worst+dressed+golden+globes/11642822/story.html" class="">
-                    <span>
-                      <span>Photos: Best and worst dressed at the Golden Globes</span>
-                    </span>
-                  </a>
-                </h3>
-                <br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_6">
-      <div class="wrapper_0_10_0_10">
-        <div class="col_140">
-          <div class="no_section_title">
-            <div class="clear"> </div>
-            <div id="featurewidget" class="smallfeature">
-              <div class="featurecontent">
-                <div class="newsimage">
-                  <a href="/entertainment/photos+carpet+glamour+golden+globes/11642736/story.html">
-                    <img border="0" src="cms/binary/11642750.jpg?size=140x95" alt="Actress Rachel McAdams attends the 73rd Annual Golden Globe Awards held at the Beverly Hilton Hotel on January 10, 2016 in Beverly Hills, California." title="Actress Rachel McAdams attends the 73rd Annual Golden Globe Awards held at the Beverly Hilton Hotel on January 10, 2016 in Beverly Hills, California.">
-                  </a>
-                </div>
-                <h3>
-                  <a href="/entertainment/photos+carpet+glamour+golden+globes/11642736/story.html" class="">
-                    <span>
-                      <span>Photos: Red carpet glamour at the Golden Globes</span>
-                    </span>
-                  </a>
-                </h3>
-                <br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_7">
-      <div class="wrapper_0_10_0_10">
-        <div class="col_140">
-          <div class="no_section_title">
-            <div class="clear"> </div>
-            <div id="featurewidget" class="smallfeature">
-              <div class="featurecontent">
-                <div class="newsimage">
-                  <a href="/technology/personal-tech/video+tech+toys+hootsuite+founder+launches/11649711/story.html">
-                    <img border="0" src="cms/binary/11649705.jpg?size=140x95" alt="Hootsuite's Ryan Holmes launches new company Oristand to create a new kind of stand up desk accessible to all" title="Hootsuite's Ryan Holmes launches new company Oristand to create a new kind of stand up desk accessible to all">
-                  </a>
-                </div>
-                <h3>
-                  <a href="/technology/personal-tech/video+tech+toys+hootsuite+founder+launches/11649711/story.html" class="">
-                    <span class="video-icon">
-                    </span>
-                    <span>
-                      <span>Video: Tech Toys - Hootsuite founder launches cardboard stand up desks</span>
-                    </span>
-                  </a>
-                </h3>
-                <br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_8">
-      <div class="wrapper_0_10_0_10">
-        <div class="col_140">
-          <div class="no_section_title">
-            <div class="clear"> </div>
-            <div id="featurewidget" class="smallfeature">
-              <div class="featurecontent">
-                <div class="newsimage">
-                  <a href="/news/bungling+china+stock+market+reverberates+around+globe/11650256/story.html">
-                    <img border="0" src="cms/binary/11650255.jpg?size=140x95" alt="China stock market reverberates around globe" title="China stock market reverberates around globe">
-                  </a>
-                </div>
-                <h3>
-                  <a href="/news/bungling+china+stock+market+reverberates+around+globe/11650256/story.html" class="">
-                    <span class="video-icon">
-                    </span>
-                    <span>
-                      <span>Video: Bungling in China stock market reverberates around globe</span>
-                    </span>
-                  </a>
-                </h3>
-                <br>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="col_160" style="overflow:hidden;position:absolute;" id="FooterFeature_2_Entry_9">
-      <div class="wrapper_0_10_0_10">
-        <div class="col_140">
-          <div class="no_section_title">
-            <div class="clear"> </div>
-            <div id="featurewidget" class="smallfeature">
-              <div class="featurecontent">
-                <div class="newsimage">
-                  <a href="/entertainment/music/photos+vance+orpheum/11648030/story.html">
-                    <img border="0" src="cms/binary/11648027.jpg?size=140x95" alt="Vance Joy" title="Vance Joy">
-                  </a>
-                </div>
-                <h3>
-                  <a href="/entertainment/music/photos+vance+orpheum/11648030/story.html" class="">
-                    <span>
-                      <span>Photos: Vance Joy at the Orpheum</span>
                     </span>
                   </a>
                 </h3>
@@ -2628,18 +2617,18 @@ function preCheckVancouversun102467($)
 <!-- legoctl: ctl14 --><!-- CACHE HIT: syndication18 -->
 <!-- Source="/scripts/mostpopular.aspx?stattype=story" --><ul class="bullet">
   <li>
-    <a href="/Ruling+could+affect+more+than+Northern+Gateway/11649767/story.html" class="">
-      <span>Ruling could affect more than Northern Gateway</span>
+    <a href="/Pacific+Centre+picture+takers+feared+public+attacks+after+images+went+viral/11656077/story.html" class="">
+      <span>Pacific Centre picture-takers feared public attacks after images went viral</span>
     </a>
   </li>
   <li>
-    <a href="/Supreme+Court+Canada+hear+Teachers+Federation+appeal/11651654/story.html" class="">
-      <span>Supreme Court of Canada to hear B.C. Teachers’ Federation appeal</span>
+    <a href="/Media+under+fire+after+mall+deemed+completely+innocent/11655822/story.html" class="">
+      <span>Media under fire after mall men deemed ‘completely innocent’</span>
     </a>
   </li>
   <li>
-    <a href="/Greyhound+crash+injures+nine+near+Prince+George/11652028/story.html" class="">
-      <span>Greyhound bus crash injures nine near Prince George</span>
+    <a href="/Danger+dementia+care+home/11655805/story.html" class="">
+      <span>Danger in the dementia care home</span>
     </a>
   </li>
 </ul>
@@ -2932,4 +2921,4 @@ function preCheckVancouversun102467($)
                             </div>
                         </noscript></body>
 </html>
-<!-- WPGPDWEB87 703 -->
+<!-- WPGPDWEB86 406 -->

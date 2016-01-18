@@ -199,7 +199,7 @@ $.ajax({
 metereologos.gr</a></span>
 </div>
 <div class="date">
-Παρασκευή 15 Ιανουαρίου 2016
+Δευτέρα 18 Ιανουαρίου 2016
 <span class="name_celebration">
 
 </span>
@@ -617,9 +617,6 @@ BHMAdeco</a></span> <span class="donna"><a href="/vimadonna/">BHMAdonna</a></spa
 
 <div id="usergenerated" class="multibox">
   <div class="head">
-    <div class="options selected" id="diabasmena">
-      <div class="link"><a href="#" id="MostRead" title="Επιλέξτε εδώ για να δείτε τα πιο διαβασμένα άρθρα">ΔΙΑΒΑΣΜΕΝΑ</a></div>
-    </div>
     <div class="divider"></div>
     <div class="options" id="sxoliasmena">
       <div class="link"><a href="#" id="MostCommented" title="Επιλέξτε εδώ για να δείτε τα περισσότερο σχολιασμένα άρθρα">ΣΧΟΛΙΑΣΜΕΝΑ</a></div>
@@ -627,29 +624,9 @@ BHMAdeco</a></span> <span class="donna"><a href="/vimadonna/">BHMAdonna</a></spa
     <div class="divider"></div>
   </div>
   <div class="body">
-    <div class="container" id="diavasmena-list">
-      <div class="item"><span class="category"><a href="/science/medicine-biology/" title="Ιατρική – Βιολογία">Ιατρική – Βιολογία</a></span>- <span class="sup"> </span><span class="link"><a href="/science/medicine-biology/article/?aid=768696" title="Ανθρωπολογικό X-Files στην Ινδονησία">Ανθρωπολογικό X-Files στην Ινδονησία</a></span> 
-      <span class="datetime">14/01/2016 11:46</span><div class="comments"><a href="/science/medicine-biology/article/?aid=768696&amp;h1=true#commentForm"><img title="Σχολιάστε" class="icon_comments" src="themes/1/default/media/home/clear.gif"></a></div>
-      </div>
-      <div class="item"><span class="category"><a href="/science/medicine-biology/" title="Ιατρική – Βιολογία">Ιατρική – Βιολογία</a></span>- <span class="sup"> </span><span class="link"><a href="/science/medicine-biology/article/?aid=768873" title="Φυσικό «βιάγκρα» το κόκκινο κρασί και τα μούρα">Φυσικό «βιάγκρα» το κόκκινο κρασί και τα μούρα</a></span> 
-      <span class="datetime">14/01/2016 18:48</span><div class="comments"><a href="/science/medicine-biology/article/?aid=768873&amp;h1=true#commentForm"><img title="Σχόλια αναγνωστών" class="icon_comments" src="themes/1/default/media/home/clear.gif">1</a></div>
-      </div>
-      <div class="item"><span class="category"><a href="/science/medicine-biology/" title="Ιατρική – Βιολογία">Ιατρική – Βιολογία</a></span>- <span class="sup"> </span><span class="link"><a href="/science/medicine-biology/article/?aid=768755" title="Γενετική τροποποίηση εμβρύων προ των πυλών">Γενετική τροποποίηση εμβρύων προ των πυλών</a></span> 
-      <span class="datetime">14/01/2016 13:43</span><div class="comments"><a href="/science/medicine-biology/article/?aid=768755&amp;h1=true#commentForm"><img title="Σχολιάστε" class="icon_comments" src="themes/1/default/media/home/clear.gif"></a></div>
-      </div>
-      <div class="item"><span class="category"><a href="/science/medicine-biology/" title="Ιατρική – Βιολογία">Ιατρική – Βιολογία</a></span>- <span class="sup"> </span><span class="link"><a href="/science/medicine-biology/article/?aid=769141" title="Τραγική κατάληξη σε δοκιμή πειραματικού φαρμάκου στη Γαλλία">Τραγική κατάληξη σε δοκιμή πειραματικού φαρμάκου στη Γαλλία</a></span> 
-      <span class="datetime">πριν 27'</span><div class="comments"><a href="/science/medicine-biology/article/?aid=769141&amp;h1=true#commentForm"><img title="Σχολιάστε" class="icon_comments" src="themes/1/default/media/home/clear.gif"></a></div>
-      </div>
-      <div class="item"><span class="category"><a href="/science/medicine-biology/" title="Ιατρική – Βιολογία">Ιατρική – Βιολογία</a></span>- <span class="sup"> </span><span class="link"><a href="/science/medicine-biology/article/?aid=769129" title="Οι σκύλοι διαβάζουν τα ανθρώπινα συναισθήματα">Οι σκύλοι διαβάζουν τα ανθρώπινα συναισθήματα</a></span> 
-      <span class="datetime">16:13</span><div class="comments"><a href="/science/medicine-biology/article/?aid=769129&amp;h1=true#commentForm"><img title="Σχολιάστε" class="icon_comments" src="themes/1/default/media/home/clear.gif"></a></div>
-      </div>
-    </div>
     <div class="container" id="sxoliasmena-list">
-      <div class="item"><span class="category"><a href="/science/medicine-biology/" title="Ιατρική – Βιολογία">Ιατρική – Βιολογία</a></span>- <span class="sup"> </span><span class="link"><a href="/science/medicine-biology/article/?aid=767129" title="Ανθρωποι και Νεάντερταλ, μια σχέση... αλλεργική">Ανθρωποι και Νεάντερταλ, μια σχέση... αλλεργική</a></span> 
-      <span class="datetime">08/01/2016 12:35</span><div class="comments"><a href="/science/medicine-biology/article/?aid=767129&amp;h1=true#commentForm"><img title="Σχόλια αναγνωστών" class="icon_comments" src="themes/1/default/media/home/clear.gif">3</a></div>
-      </div>
       <div class="item"><span class="category"><a href="/science/medicine-biology/" title="Ιατρική – Βιολογία">Ιατρική – Βιολογία</a></span>- <span class="sup"> </span><span class="link"><a href="/science/medicine-biology/article/?aid=768873" title="Φυσικό «βιάγκρα» το κόκκινο κρασί και τα μούρα">Φυσικό «βιάγκρα» το κόκκινο κρασί και τα μούρα</a></span> 
-      <span class="datetime">14/01/2016 18:48</span><div class="comments"><a href="/science/medicine-biology/article/?aid=768873&amp;h1=true#commentForm"><img title="Σχόλια αναγνωστών" class="icon_comments" src="themes/1/default/media/home/clear.gif">1</a></div>
+      <span class="datetime">14/01/2016 18:48</span><div class="comments"><a href="/science/medicine-biology/article/?aid=768873&amp;h1=true#commentForm"><img title="Σχόλια αναγνωστών" class="icon_comments" src="themes/1/default/media/home/clear.gif">2</a></div>
       </div>
     </div>
     <div class="container" id="moirasmena-list">
@@ -683,7 +660,7 @@ BHMAdeco</a></span> <span class="donna"><a href="/vimadonna/">BHMAdonna</a></spa
 <div class="twitter_box">
   <div class="twitter_top" id=""> </div>
   <div class="twitter_text" id=""><a href="http://www.twitter.com/vimascience" class="twitter_avatar" id=""></a><a href="http://www.twitter.com/tovimagr">vimascience</a> 
-        #vimascience Οι σκύλοι διαβάζουν τα ανθρώπινα συναισθήματα<br><a href="http://bit.ly/1SRSeEm">http://bit.ly/1SRSeEm</a><div class="twitter_follow" id=""><a href="http://www.twitter.com/tovimagr"><img src="themes/1/default/media/home/twitter_follow.gif"></a></div>
+        #vimascience Star Wars: Με ποιον είναι η «Δύναμη»;<br><a href="http://bit.ly/237rowE">http://bit.ly/237rowE</a><div class="twitter_follow" id=""><a href="http://www.twitter.com/tovimagr"><img src="themes/1/default/media/home/twitter_follow.gif"></a></div>
   </div>
 </div>
 

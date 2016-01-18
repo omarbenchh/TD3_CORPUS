@@ -252,15 +252,7 @@ adv.art.sectionsHier = "news:britishcolumbia";
 adv.art.credit = "globe and mail update";
 adv.art.type = "news";
 </script>
-
-                  <script type="text/javascript">
-                    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(c,a){AKSB.q.push(["mark",c,a||(new Date).getTime()])};AKSB.measure=function(c,a,b){AKSB.q.push(["measure",c,a,b||(new Date).getTime()])};AKSB.done=function(c){AKSB.q.push(["done",c])};AKSB.mark("firstbyte",(new Date).getTime());
-                    AKSB.prof={custid:"58290",ustr:"fs",originlat:0,clientrtt:29,ghostip:"193.51.224.26",ipv6:false,pct:10,xhrtest:false,clientip:"193.49.229.71",requestid:"23d6e969",protocol:"",blver:2,akM:"b",akN:"",akTT:"O",akTX:"1",
-                    akTI:"23d6e969"};
-                    (function(c){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var b=document.getElementsByTagName("script"),b=b[b.length-1];b.parentNode.insertBefore(a,b);a=a.contentWindow.document;b=String.fromCharCode;c=b(60)+"body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+c+"';document.body.appendChild(js);\""+b(62);a.open().write(c);a.close()})(("https:"===document.location.protocol?
-                    "https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js");
-                  </script>
-                  </head>
+</head>
 <body id="default_layout" class="news">
 <div id="page">
 <div id="adv_ldbd_top">
@@ -590,45 +582,45 @@ href="http://license.icopyright.net/3.8425?icx_id=1358649" target="_blank" title
 <div data-reco-zone="Next Story">
 <div class="widget_stories widget_stories--next_stories view_pic lt27187096">
 <h3>Next Story</h3>
-<article class="art--column art--articleNextStory img_left img_w220 clearfix">
-<a href="http://www.theglobeandmail.com/news/toronto/lets-see-how-well-toronto-handles-another-transit-disappointment/article28210547/" name="lt_Picture.1" class="o-ctx ">
-<img src="http://static.theglobeandmail.ca/b43/news/toronto/article28208773.ece/ALTERNATES/w220/web-nw-to-smarttrack-0114.JPG" class="art-img art-img--column" alt="" title="Jan 15, 2016 9:51AM EST
-- Mayor Tory’s revised SmartTrack plan is far from the transit solution promised during his campaign" width="220" height="123">
+<article class="art--news art--articleNextStory img_left img_w220 clearfix">
+<a href="http://www.theglobeandmail.com/report-on-business/economy/jobs/albertas-lower-income-earners-blue-collar-workers-hit-hardest-by-oil-slump/article28233859/" name="lt_Picture.1" class="o-ctx ">
+<img src="http://static.theglobeandmail.ca/7d6/report-on-business/industry-news/energy-and-resources/article28233858.ece/ALTERNATES/w220/cd-alberta-jobs17rb2.JPG" class="art-img art-img--news" alt="" title="Jan 17, 2016 4:34PM EST
+- The loss of jobs among well drillers, rig operators and other lower-income employees is nearly quintuple the losses among highest-paid workers since oil started cratering a year and a half ago" width="220" height="123">
 </a>
 <h5 class="articleTitle articleTitle--articleNextStory">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/news/toronto/lets-see-how-well-toronto-handles-another-transit-disappointment/article28210547/" title="Jan 15, 2016 9:55AM EST - Mayor Tory’s revised SmartTrack plan is far from the transit solution promised during his campaign | published: Jan 15, 2016 9:51AM EST" >
-Let’s see how well Toronto handles another transit disappointment
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/report-on-business/economy/jobs/albertas-lower-income-earners-blue-collar-workers-hit-hardest-by-oil-slump/article28233859/" title="Jan 17, 2016 4:43PM EST - The loss of jobs among well drillers, rig operators and other lower-income employees is nearly quintuple the losses among highest-paid workers since oil started cratering a year and a half ago | published: Jan 17, 2016 4:34PM EST" >
+Alberta’s lower-income earners, blue collar workers hit hardest by oil slump
 </a>
 </h5>
-<div class="published">Friday, Jan. 15, 2016 9:51AM EST</div>
+<div class="published">Sunday, Jan. 17, 2016 4:34PM EST</div>
 </article>
 <article class="art--vmevideo art--articleNextStory img_left img_w220 last_image clearfix">
-<a href="http://www.theglobeandmail.com/news/news-video/video-video-shows-chicago-police-shooting-black-teen/article28202762/" name="lt_Picture.2" class="o-ctx ">
-<img src="http://static.theglobeandmail.ca/336/video/article28202761.ece/ALTERNATES/w220/2016-01-15T002403Z_1_OV40106AN_RTRMADC_0_CHICAGO-POLICE-VIDEO.XML" class="art-img art-img--vmevideo" alt="" title="Jan 15, 2016 9:39AM EST
-- Video showing the shooting death of a black teenager by Chicago police in 2013 is released following a judge's order, as the family's attorney says police stepped on the young man after encountering him" width="220" height="123">
+<a href="http://www.theglobeandmail.com/news/news-video/video-taiwan-china-react-to-newly-elected-taiwan-president/article28233052/" name="lt_Picture.2" class="o-ctx ">
+<img src="http://static.theglobeandmail.ca/78f/video/article28233051.ece/ALTERNATES/w220/2016-01-17T090016Z_1_OV40FRVQJ_RTRMADC_0_TAIWAN-ELECTION-REACTIONS.XML" class="art-img art-img--vmevideo" alt="" title="Jan 17, 2016 11:31AM EST
+- Beijing offers a note of caution to the newly elected and left leaning Taiwan president." width="220" height="123">
 <span class="sprite video-l"><span></span></span>
 </a>
 <h5 class="articleTitle articleTitle--articleNextStory">
-<a name="lt_Headline.2" href="http://www.theglobeandmail.com/news/news-video/video-video-shows-chicago-police-shooting-black-teen/article28202762/" title="Jan 15, 2016 9:40AM EST - Video showing the shooting death of a black teenager by Chicago police in 2013 is released following a judge's order, as the family's attorney says police stepped on the young man after encountering him | published: Jan 15, 2016 9:39AM EST" >
-Video shows Chicago police shooting black teen
+<a name="lt_Headline.2" href="http://www.theglobeandmail.com/news/news-video/video-taiwan-china-react-to-newly-elected-taiwan-president/article28233052/" title="Jan 17, 2016 11:32AM EST - Beijing offers a note of caution to the newly elected and left leaning Taiwan president. | published: Jan 17, 2016 11:31AM EST" >
+Taiwan, China react to newly elected Taiwan president
 </a>
 </h5>
-<div class="published">Friday, Jan. 15, 2016 9:39AM EST</div>
+<div class="published">Sunday, Jan. 17, 2016 11:31AM EST</div>
 </article>
 </div>
 <div class="widget_stories view_pic art--nextStoryWithImg nativead nativead_nextstory"></div>
 <div class="widget_stories widget_stories--next_stories view_pic lt27187098">
-<article class="art--column art--articleNextStory img_left img_w220 last_image clearfix">
-<a href="http://www.theglobeandmail.com/globe-drive/culture/technology/us-regulators-could-waive-some-safety-rules-for-self-driving-cars/article28210462/" name="lt_Picture.1" class="o-ctx ">
-<img src="http://static.theglobeandmail.ca/c17/globe-drive/culture/technology/article20642291.ece/ALTERNATES/w220/Self+Driving+Cars.JPG" class="art-img art-img--column" alt="" title="Jan 15, 2016 9:41AM EST
-- It is part of a broader effort to speed up development of self-driving vehicles" width="220" height="123">
+<article class="art--news art--articleNextStory img_left img_w220 last_image clearfix">
+<a href="http://www.theglobeandmail.com/news/politics/ottawa-could-lift-sanctions-against-iran-following-landmark-deal-by-us/article28233774/" name="lt_Picture.1" class="o-ctx ">
+<img src="http://static.theglobeandmail.ca/438/news/politics/article28102621.ece/ALTERNATES/w220/web-po-saudi.JPG" class="art-img art-img--news" alt="" title="Jan 17, 2016 4:16PM EST
+- Foreign Affairs Minister St&eacute;phane Dion said Prime Minister Justin Trudeau’s cabinet must still make a decision on whether to remove sanctions following a landmark deal brokered by U.S. President Barack Obama that sought to curb Tehran’s nuclear ambitions for the foreseeable future" width="220" height="123">
 </a>
 <h5 class="articleTitle articleTitle--articleNextStory">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-drive/culture/technology/us-regulators-could-waive-some-safety-rules-for-self-driving-cars/article28210462/" title="Jan 15, 2016 9:43AM EST - It is part of a broader effort to speed up development of self-driving vehicles | published: Jan 15, 2016 9:41AM EST" >
-U.S. regulators could waive some safety rules for self-driving cars
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/news/politics/ottawa-could-lift-sanctions-against-iran-following-landmark-deal-by-us/article28233774/" title="Jan 17, 2016 4:28PM EST - Foreign Affairs Minister St&eacute;phane Dion said Prime Minister Justin Trudeau’s cabinet must still make a decision on whether to remove sanctions following a landmark deal brokered by U.S. President Barack Obama that sought to curb Tehran’s nuclear ambitions for the foreseeable future | published: Jan 17, 2016 4:16PM EST" >
+Ottawa could lift sanctions against Iran following landmark deal by U.S.
 </a>
 </h5>
-<div class="published">Friday, Jan. 15, 2016 9:41AM EST</div>
+<div class="published">Sunday, Jan. 17, 2016 4:16PM EST</div>
 </article>
 </div>
 </div>
@@ -648,10 +640,10 @@ TGAMD.ads.push({id:'boxr-art-1',src:boxrAC});
 <ul>
 <li>
 <article>
-<h6 class="art-label">Globe Investor</h6>
+<h6 class="art-label">Arts</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-investor/personal-finance/taxes/five-myths-about-borrowing-money-to-invest/article28196803/" title="Jan 14, 2016 10:42PM EST - If you’re thinking about borrowing money to invest – that is, leveraged investing – and was wondering whether it’s a good idea, here are five myths to consider | published: Jan 14, 2016 4:43PM EST" >
-Five myths about borrowing money to invest
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/arts/television/john-doyle-new-hbo-drama-vinyl-is-pure-rock-n-roll-fun/article28213349/" title="Jan 15, 2016 12:41PM EST - The story, originally pitched as a movie by Mick Jagger to Martin Scorsese, is set in the music industry in the mid-1970s | published: Jan 15, 2016 12:36PM EST" >
+John Doyle: New HBO drama Vinyl is pure rock ’n’ roll
 </a>
 </h5>
 </article>
@@ -662,53 +654,44 @@ Five myths about borrowing money to invest
 <ul>
 <li>
 <article>
-<h6 class="art-label">Obituary</h6>
+<h6 class="art-label">Arts</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/news/national/rene-angelil-celine-dions-husband-and-ex-manager-dies-at-73/article28196377/" title="Jan 14, 2016 9:30PM EST - Dion's husband and long-time manager began his entertainment career as a pop singer | published: Jan 14, 2016 4:36PM EST" >
-René Angélil: The man behind Céline Dion
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/arts/art-and-architecture/its-a-whopper-all-right-floor-burger-returns-to-the-ago/article28230063/" title="Jan 15, 2016 7:34PM EST - Pop artist’s jumbo-sized fast-food staple returns to Toronto after a multiyear take-out trip to New York’s Museum of Modern Art | published: Jan 15, 2016 7:32PM EST" >
+It’s a whopper all right: Floor Burger returns to the AGO
 </a>
 </h5>
 </article>
 </li>
 </ul>
 </div>
-<div class="widget_stories view_hd lt20737389">
+<div class="widget_stories view_hd lt20737421">
 <ul>
 <li>
 <article>
-<h6 class="art-label">Life</h6>
+<h6 class="art-label">Technology</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/life/life-video/video-yoga-basics/article26339384/" title="Sep 16, 2015 9:02AM EDT - Yoga Instructor Amber Brown shows you dolphin pose, a great core exercise that can also help prepare you inversions | published: Sep 11, 2015 5:04PM EDT" >
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/technology/technology-video/video-watch-the-mesmerizing-process-of-building-an-icicle-atlas/article23242962/" title="Mar 02, 2015 12:19PM EST - The Icicle Atlas is the creation of Stephen Morris, a physicist at the University of Toronto | published: Mar 02, 2015 12:06PM EST" >
 <span class="sprite video-xs"></span>
-Strengthen and tone your core with this fun variation of downward dog
+Watch the mesmerizing process of building an Icicle Atlas
 </a>
 </h5>
 </article>
 </li>
 </ul>
 </div>
-<div class="widget_stories view_hd lt13299793">
+<div class="widget_stories view_hd lt13299840">
 <ul>
-<li>
-<article>
-<h6 class="art-label">Globe Investor</h6>
-<h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-investor/retirement/retire-q-and-a/retirement-qa/article26715790/" title="Nov 02, 2015 4:18PM ESTpublished: Oct 21, 2015 6:22PM EDT" >
-Q&A: How do my husband and I plan given our late start and age difference?
-</a>
-</h5>
-</article>
-</li>
 </ul>
 </div>
 <div class="widget_stories view_hd lt13295670">
 <ul>
 <li>
 <article>
-<h6 class="art-label">Technology</h6>
+<h6 class="art-label">News</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/technology/tech-news/netflix-to-block-proxy-access-to-content-not-available-locally/article28181637/" title="Jan 14, 2016 4:21PM EST - Announcement comes just a week after Netflix went live in more than 130 countries | published: Jan 14, 2016 11:07AM EST" >
-Netflix to block proxy access to content not available locally
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/news/world/world-insider/islamic-states-failed-foray-into-indonesia/article28232186/" title="Jan 16, 2016 12:46PM EST - Indonesia’s ‘middle path’ version of Islam proves an unwelcome environment for the ideology of Islamic State | published: Jan 16, 2016 12:38PM EST" >
+<span class="spl_unlimited splImg"></span>
+<span>Islamic State’s failed foray into Indonesia</span>
 </a>
 </h5>
 </article>
@@ -726,150 +709,150 @@ Netflix to block proxy access to content not available locally
 <ul class="slider_container" style="width:5000px;">
 <li class="slider_panel current" id="panel_1">
 <article class="art--vmevideo img_top img_w140 img_left">
-<a href="http://www.theglobeandmail.com/news/news-video/video-ctv-vancouver-curious-cougar-surprised-by-party/article28152967/" name="lt_Picture.1" class="o-ctx">
+<a href="http://www.theglobeandmail.com/globe-drive/drive-video/video-the-3-coolest-new-cars-revealed-at-the-detroit-auto-show/article28213423/" name="lt_Picture.1" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/5e3/incoming/article28214908.ece/ALTERNATES/w140/VLF+Foce+1.JPG" alt="" width="140" height="78">
+<span class="sprite video-s"><span></span></span>
+</a>
+<h6 class="art-label"><span class="lblmk bgglobedrive"></span> Globe Drive</h6>
+<h5 class="articleTitle articleTitle--default">
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-drive/drive-video/video-the-3-coolest-new-cars-revealed-at-the-detroit-auto-show/article28213423/" title="Jan 15, 2016 5:45PM EST - Peter Cheney talks about why the Lexus LC 500, VLF Force 1 and Buick Avista really stand out on the show floor | published: Jan 15, 2016 2:12PM EST" >
+The three coolest new cars revealed at the Detroit auto show
+</a>
+</h5>
+</article>
+<article class="art--vmevideo img_top img_w140 img_right">
+<a href="http://www.theglobeandmail.com/news/news-video/video-ctv-vancouver-curious-cougar-surprised-by-party/article28152967/" name="lt_Picture.2" class="o-ctx">
 <img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/88f/incoming/article28156892.ece/ALTERNATES/w140/Screen+Shot+2016-01-13+at+6.05.13+PM.jpg" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
 <h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/news/news-video/video-ctv-vancouver-curious-cougar-surprised-by-party/article28152967/" title="Jan 13, 2016 6:05PM EST - Security cameras at a North Vancouver home captured a massive cougar in the backyard. | published: Jan 13, 2016 6:02PM EST" >
+<a name="lt_Headline.2" href="http://www.theglobeandmail.com/news/news-video/video-ctv-vancouver-curious-cougar-surprised-by-party/article28152967/" title="Jan 13, 2016 6:05PM EST - Security cameras at a North Vancouver home captured a massive cougar in the backyard. | published: Jan 13, 2016 6:02PM EST" >
 Security footage shows massive cougar in North Vancouver backyard
 </a>
 </h5>
 </article>
-<article class="art--vmevideo img_top img_w140 img_right">
-<a href="http://www.theglobeandmail.com/report-on-business/video/video-carrick-talks-money-how-to-get-great-customer-service-without-blowing-your-stack/article18676527/" name="lt_Picture.2" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/395/migration_catalog/ROB_Magazine/article3942596.ece/ALTERNATES/w140/canada+goose+parka" alt="" width="140" height="78">
+<article class="art--vmevideo img_top img_w140 img_left">
+<a href="http://www.theglobeandmail.com/life/life-video/video-golden-globes-fashion-the-sexiest-dress-the-best-look-and-who-wore-the-best-cape/article28107190/" name="lt_Picture.3" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/4eb/incoming/article28107434.ece/ALTERNATES/w140/Screen+Shot+2016-01-11+at+12.46.52+PM.jpg" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
-<h6 class="art-label"><span class="lblmk bgbusiness"></span> Report on Business</h6>
+<h6 class="art-label"><span class="lblmk bglife"></span> Life</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.2" href="http://www.theglobeandmail.com/report-on-business/video/video-carrick-talks-money-how-to-get-great-customer-service-without-blowing-your-stack/article18676527/" title="Jan 14, 2016 7:09PM EST - The Globe's Rob Carrick talks to Kerry Taylor of Squawkfox about tips for frugal living | published: Jun 18, 2014 5:00AM EDT" >
-Is a $700 parka ever worth it?
+<a name="lt_Headline.3" href="http://www.theglobeandmail.com/life/life-video/video-golden-globes-fashion-the-sexiest-dress-the-best-look-and-who-wore-the-best-cape/article28107190/" title="Jan 11, 2016 12:50PM EST - Odessa Paloma Parker, Fashion Editor for Globe Style, dishes out her favourite looks from the 2016 Golden Globes | published: Jan 11, 2016 12:45PM EST" >
+Golden Globes fashion: The sexiest dress, the worst white outfit and who wore the best cape
 </a>
 </h5>
 </article>
-<article class="art--vmevideo img_top img_w140 img_left">
-<a href="http://www.theglobeandmail.com/news/news-video/video-trump-dont-pay-the-son-of-a-who-installed-mic/article28177261/" name="lt_Picture.3" class="o-ctx">
+<article class="art--vmevideo img_top img_w140 img_right">
+<a href="http://www.theglobeandmail.com/news/news-video/video-trump-dont-pay-the-son-of-a-who-installed-mic/article28177261/" name="lt_Picture.4" class="o-ctx">
 <img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/0b4/video/article28177257.ece/ALTERNATES/w140/2016-01-14T030046Z_1_OV3ZVZQOV_RTRMADC_0_USA-ELECTION-TRUMP-ROUGH-CUT.XML" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
 <h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.3" href="http://www.theglobeandmail.com/news/news-video/video-trump-dont-pay-the-son-of-a-who-installed-mic/article28177261/" title="Jan 14, 2016 12:55PM EST - U.S. Republican Presidential candidate Donald Trump gets angry over his 'popping' microphone and says, &quot;I guarantee I'm not paying for this mic&quot; | published: Jan 14, 2016 12:52PM EST" >
+<a name="lt_Headline.4" href="http://www.theglobeandmail.com/news/news-video/video-trump-dont-pay-the-son-of-a-who-installed-mic/article28177261/" title="Jan 14, 2016 12:55PM EST - U.S. Republican Presidential candidate Donald Trump gets angry over his 'popping' microphone and says, &quot;I guarantee I'm not paying for this mic&quot; | published: Jan 14, 2016 12:52PM EST" >
 Trump swears, throws a tantrum over malfunctioning mic
-</a>
-</h5>
-</article>
-<article class="art--vmevideo img_top img_w140 img_right">
-<a href="http://www.theglobeandmail.com/news/news-video/video-celine-dions-husband-and-manager-rene-angelil-dies-at-73/article28200307/" name="lt_Picture.4" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/3a0/video/article28200305.ece/ALTERNATES/w140/Video%3A+Celine+Dion%27s+husband+and+manager%2C+Rene+Angelil%2C+dies+at+73" alt="" width="140" height="78">
-<span class="sprite video-s"><span></span></span>
-</a>
-<h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
-<h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.4" href="http://www.theglobeandmail.com/news/news-video/video-celine-dions-husband-and-manager-rene-angelil-dies-at-73/article28200307/" title="Jan 14, 2016 6:35PM EST - Ren&eacute; Ang&eacute;lil, the Montreal-born entertainment maestro who managed Celine Dion to superstardom before marrying her, has died at 73 of cancer. Dion returned to the stage in 2015 after taking a year off to care for her ailing husband. | published: Jan 14, 2016 6:34PM EST" >
-Céline Dion's husband and manager, René Angélil, dies at 73
 </a>
 </h5>
 </article>
 </li>
 <li class="slider_panel" id="panel_2">
 <article class="art--vmevideo img_top img_w140 img_left">
-<a href="http://www.theglobeandmail.com/report-on-business/video/inside-the-market-three-investing-tips-during-this-market-turmoil/article28197749/" name="lt_Picture.5" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/222/report-on-business/article28125835.ece/ALTERNATES/w140/-547671963.JPG" alt="" width="140" height="78">
+<a href="http://www.theglobeandmail.com/news/news-video/video-taiwan-china-react-to-newly-elected-taiwan-president/article28233052/" name="lt_Picture.5" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/625/video/article28233051.ece/ALTERNATES/w140/2016-01-17T090016Z_1_OV40FRVQJ_RTRMADC_0_TAIWAN-ELECTION-REACTIONS.XML" alt="" width="140" height="78">
+<span class="sprite video-s"><span></span></span>
+</a>
+<h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
+<h5 class="articleTitle articleTitle--default">
+<a name="lt_Headline.5" href="http://www.theglobeandmail.com/news/news-video/video-taiwan-china-react-to-newly-elected-taiwan-president/article28233052/" title="Jan 17, 2016 11:32AM EST - Beijing offers a note of caution to the newly elected and left leaning Taiwan president. | published: Jan 17, 2016 11:31AM EST" >
+Taiwan, China react to newly elected Taiwan president
+</a>
+</h5>
+</article>
+<article class="art--vmevideo img_top img_w140 img_right">
+<a href="http://www.theglobeandmail.com/report-on-business/video/video-reality-check-does-a-low-loonie-actually-help-exporters/article28228928/" name="lt_Picture.6" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/a7d/report-on-business/video/article28229582.ece/ALTERNATES/w140/Video%3A+Reality+Check%3A+Does+a+low+loonie+actually+help+exporters%3F+" alt="" width="140" height="79">
 <span class="sprite video-s"><span></span></span>
 </a>
 <h6 class="art-label"><span class="lblmk bgbusiness"></span> Report on Business</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.5" href="http://www.theglobeandmail.com/report-on-business/video/inside-the-market-three-investing-tips-during-this-market-turmoil/article28197749/" title="Jan 15, 2016 12:26AM EST - Report on Business editor Paul Waldie discusses market volatility with Blackrock's Kurt Reiman. | published: Jan 14, 2016 5:26PM EST" >
-Three investing tips during this market turmoil
-</a>
-</h5>
-</article>
-<article class="art--vmevideo img_top img_w140 img_right">
-<a href="http://www.theglobeandmail.com/life/life-video/video-airline-steps-in-to-save-dogs-at-canadas-northernmost-shelter/article28143714/" name="lt_Picture.6" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/23a/incoming/article28143818.ece/ALTERNATES/w140/Screen+Shot+2016-01-13+at+12.21.06+PM.jpg" alt="" width="140" height="78">
-<span class="sprite video-s"><span></span></span>
-</a>
-<h6 class="art-label"><span class="lblmk bglife"></span> Life</h6>
-<h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.6" href="http://www.theglobeandmail.com/life/life-video/video-airline-steps-in-to-save-dogs-at-canadas-northernmost-shelter/article28143714/" title="Jan 14, 2016 8:05PM EST - The Iqaluit Humane Society in Nunavut is North America's Northernmost animal shelter. It is a no-kill shelter, and thanks to First Air, it can remain one. Electronic money transfers can be sent to: info@iqaluithumanesociety.com Or, you can visit the shelter's Facebook page and click the “donate” button https://www.facebook.com/iqaluithumanesociety/ | published: Jan 13, 2016 12:52PM EST" >
-Airline steps in to save dogs at Canada's northernmost shelter
+<a name="lt_Headline.6" href="http://www.theglobeandmail.com/report-on-business/video/video-reality-check-does-a-low-loonie-actually-help-exporters/article28228928/" title="Jan 15, 2016 6:53PM EST - Experts say the Canadian dollar has to be low for an extended period of time for exporters to seriously benefit | published: Jan 15, 2016 6:40PM EST" >
+Does a low loonie actually help exporters?
 </a>
 </h5>
 </article>
 <article class="art--vmevideo img_top img_w140 img_left">
-<a href="http://www.theglobeandmail.com/life/life-video/video-tips-for-getting-enough-vitamin-d-in-your-diet-this-winter/article17385017/" name="lt_Picture.7" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/e86/incoming/article17394389.ece/ALTERNATES/w140/ifweb_vid_salmon_dinner.jpg" alt="" width="140" height="78">
+<a href="http://www.theglobeandmail.com/news/news-video/video-trump-supporters-explain-their-enthusiasm-in-south-carolina/article28233028/" name="lt_Picture.7" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/8b0/video/article28233027.ece/ALTERNATES/w140/2016-01-17T075517Z_2_OV40FRXBF_RTRMADC_0_USA-ELECTIONS-TRUMP-SUPPORTERS.XML" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
-<h6 class="art-label"><span class="lblmk bglife"></span> Life</h6>
+<h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.7" href="http://www.theglobeandmail.com/life/life-video/video-tips-for-getting-enough-vitamin-d-in-your-diet-this-winter/article17385017/" title="Apr 24, 2015 11:38PM EDT - Dietitian Leslie Beck suggests different natural foods, fortified foods and supplements as ways to make sure you're getting enough vitamin D during the dull, dark winter | published: Mar 10, 2014 10:40AM EDT" >
-Tips for getting enough vitamin D in your diet this winter
+<a name="lt_Headline.7" href="http://www.theglobeandmail.com/news/news-video/video-trump-supporters-explain-their-enthusiasm-in-south-carolina/article28233028/" title="Jan 17, 2016 9:05AM EST - Supporters of Republican frontrunner Donald Trump explain their enthusiasm during a Tea Party Coalition meeting in South Carolina. | published: Jan 17, 2016 9:02AM EST" >
+Trump supporters explain their enthusiasm in South Carolina
 </a>
 </h5>
 </article>
 <article class="art--vmevideo img_top img_w140 img_right">
-<a href="http://www.theglobeandmail.com/technology/technology-video/video-growing-vegetables-via-smartphone/article28181347/" name="lt_Picture.8" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/a7b/incoming/article28183689.ece/ALTERNATES/w140/web_vid_gardencube.jpg" alt="" width="140" height="78">
+<a href="http://www.theglobeandmail.com/arts/arts-video/video-anatomy-of-a-scene-is-this-the-performance-that-wins-leo-and-oscar/article28226380/" name="lt_Picture.8" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/929/incoming/article28227359.ece/ALTERNATES/w140/Screen+Shot+2016-01-15+at+4.55.18+PM.jpg" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
-<h6 class="art-label"><span class="lblmk bgtechnology"></span> Technology</h6>
+<h6 class="art-label"><span class="lblmk bgarts"></span> Arts</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.8" href="http://www.theglobeandmail.com/technology/technology-video/video-growing-vegetables-via-smartphone/article28181347/" title="Jan 14, 2016 12:35PM EST - A fully automated indoor farming system that its developers say is capable of growing pesticide free vegetables via your smartphone is unveiled at CES 2016 | published: Jan 14, 2016 12:29PM EST" >
-This 'farm cube' basically does all the work of growing vegetables for you
+<a name="lt_Headline.8" href="http://www.theglobeandmail.com/arts/arts-video/video-anatomy-of-a-scene-is-this-the-performance-that-wins-leo-and-oscar/article28226380/" title="Jan 15, 2016 5:50PM EST - Alejandro G. Inarritu narrates a scene from “The Revenant,” featuring Leonardo DiCaprio. | published: Jan 15, 2016 4:54PM EST" >
+Anatomy of a scene: Is this the performance that wins Leo and Oscar?
 </a>
 </h5>
 </article>
 </li>
 <li class="slider_panel" id="panel_3">
 <article class="art--vmevideo img_top img_w140 img_left">
-<a href="http://www.theglobeandmail.com/news/news-video/video-trump-holds-ground-on-cruz-citizenship-challenge/article28209572/" name="lt_Picture.9" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/56c/video/article28209569.ece/ALTERNATES/w140/2016-01-15T101101Z_2_OV405SSIZ_RTRMADC_0_USA-REPUBLICANS-DEBATE-WRAP.XML" alt="" width="140" height="78">
+<a href="http://www.theglobeandmail.com/life/life-video/get-closer-to-your-2014-fitness-goals-with-this-challenging-core-workout/article16145979/" name="lt_Picture.9" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/af5/incoming/article16661778.ece/ALTERNATES/w140/Screen+Shot+2014-02-03+at+10.59.50+AM.png" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
-<h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
+<h6 class="art-label"><span class="lblmk bglife"></span> Life</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.9" href="http://www.theglobeandmail.com/news/news-video/video-trump-holds-ground-on-cruz-citizenship-challenge/article28209572/" title="Jan 15, 2016 8:40AM EST - Republican nominees Donald Trump and Ted Cruz take off the gloves during the latest debate in North Charleston, South Carolina | published: Jan 15, 2016 7:43AM EST" >
-Trump holds ground on Cruz citizenship challenge
+<a name="lt_Headline.9" href="http://www.theglobeandmail.com/life/life-video/get-closer-to-your-2014-fitness-goals-with-this-challenging-core-workout/article16145979/" title="Jan 06, 2016 2:49PM EST - Yoga instructor Melissa Migliore walks you through three planks that will help boost your core strength | published: Feb 03, 2014 11:25AM EST" >
+Three yoga planks to help you reach those New Year's fitness goals
 </a>
 </h5>
 </article>
 <article class="art--vmevideo img_top img_w140 img_right">
-<a href="http://www.theglobeandmail.com/globe-drive/drive-video/video/article28128729/" name="lt_Picture.10" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/a49/incoming/article28129706.ece/ALTERNATES/w140/web_vid_car_interiors.jpg" alt="" width="140" height="78">
+<a href="http://www.theglobeandmail.com/news/news-video/video-mexicos-colima-or-fire-volcano-erupts/article28232971/" name="lt_Picture.10" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/709/video/article28232969.ece/ALTERNATES/w140/2016-01-17T051954Z_1_OV40FRWIP_RTRMADC_0_MEXICO-VOLCANO-SUBTITLED-ROUGH-CUT.XML" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
-<h6 class="art-label"><span class="lblmk bgglobedrive"></span> Globe Drive</h6>
+<h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.10" href="http://www.theglobeandmail.com/globe-drive/drive-video/video/article28128729/" title="Jan 14, 2016 11:07AM EST - Peter Cheney shows you some of the fanciest, most ergonomically correct, digitally-savvy car interiors at the North American International Auto Show in Detroit | published: Jan 12, 2016 1:57PM EST" >
-Fancy leather, tech and a 'robot La-Z-Boy': The premium interiors at the Detroit auto show
+<a name="lt_Headline.10" href="http://www.theglobeandmail.com/news/news-video/video-mexicos-colima-or-fire-volcano-erupts/article28232971/" title="Jan 17, 2016 9:08AM EST - Mexico's Colima or &quot;Fire&quot; Volcano bursts to life spewing ash and gas high into the sky. | published: Jan 17, 2016 9:06AM EST" >
+Mexico's Colima or 'Fire' Volcano erupts
 </a>
 </h5>
 </article>
 <article class="art--vmevideo img_top img_w140 img_left">
-<a href="http://www.theglobeandmail.com/technology/technology-video/video-canada-qa-can-it-ever-be-too-cold-to-snow-with-a-little-liquid-nitrogen-we-find-out/article23188837/" name="lt_Picture.11" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/74d/incoming/article23189492.ece/ALTERNATES/w140/snowflake2_Callaghan.JPG" alt="" width="140" height="78">
+<a href="http://www.theglobeandmail.com/technology/technology-video/video-toronto-doctors-perform-canadas-first-arm-and-hand-transplant/article28148168/" name="lt_Picture.11" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/8a1/incoming/article28151885.ece/ALTERNATES/w140/Screen+Shot+2016-01-13+at+4.49.38+PM.jpg" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
 <h6 class="art-label"><span class="lblmk bgtechnology"></span> Technology</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.11" href="http://www.theglobeandmail.com/technology/technology-video/video-canada-qa-can-it-ever-be-too-cold-to-snow-with-a-little-liquid-nitrogen-we-find-out/article23188837/" title="Feb 25, 2015 10:03AM EST - David Sugarman, a researcher with the Ontario Science Centre, explains what conditions are needed to create snow. Canada Q&amp;A: Globe journalists answer your questions – from wine to politics to sports and everything in between | published: Feb 24, 2015 5:32PM EST" >
-Can it ever be too cold to snow? With a little liquid nitrogen, we find out
+<a name="lt_Headline.11" href="http://www.theglobeandmail.com/technology/technology-video/video-toronto-doctors-perform-canadas-first-arm-and-hand-transplant/article28148168/" title="Jan 14, 2016 1:10AM EST - The patient's arm was severed in an accident. | published: Jan 13, 2016 4:53PM EST" >
+Toronto doctors perform Canada's first arm and hand transplant
 </a>
 </h5>
 </article>
 <article class="art--vmevideo img_top img_w140 img_right">
-<a href="http://www.theglobeandmail.com/news/news-video/video-cheerleading-kids-rally-trump-supporters-in-florida/article28209589/" name="lt_Picture.12" class="o-ctx">
-<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/d5a/video/article28209588.ece/ALTERNATES/w140/2016-01-15T094007Z_2_OV405SU73_RTRMADC_0_USA-ELECTIONS-TRUMP-ROUGH-CUT.XML" alt="" width="140" height="78">
+<a href="http://www.theglobeandmail.com/report-on-business/video/inside-the-market-three-investing-tips-during-this-market-turmoil/article28197749/" name="lt_Picture.12" class="o-ctx">
+<img class="art-img art-img--vmevideo" src="http://static.theglobeandmail.ca/222/report-on-business/article28125835.ece/ALTERNATES/w140/-547671963.JPG" alt="" width="140" height="78">
 <span class="sprite video-s"><span></span></span>
 </a>
-<h6 class="art-label"><span class="lblmk bgnews"></span> News</h6>
+<h6 class="art-label"><span class="lblmk bgbusiness"></span> Report on Business</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.12" href="http://www.theglobeandmail.com/news/news-video/video-cheerleading-kids-rally-trump-supporters-in-florida/article28209589/" title="Jan 15, 2016 9:02AM EST - Supporters at a Donald Trump rally in Florida were treated to a special dance performance before the Republidan candidate took the stage | published: Jan 15, 2016 8:54AM EST" >
-Girl group 'USA Freedom Kids' performs President Donald Trump song at rally
+<a name="lt_Headline.12" href="http://www.theglobeandmail.com/report-on-business/video/inside-the-market-three-investing-tips-during-this-market-turmoil/article28197749/" title="Jan 15, 2016 12:26AM EST - Report on Business editor Paul Waldie discusses market volatility with Blackrock's Kurt Reiman. | published: Jan 14, 2016 5:26PM EST" >
+Three investing tips during this market turmoil
 </a>
 </h5>
 </article>
@@ -894,32 +877,32 @@ Girl group 'USA Freedom Kids' performs President Donald Trump song at rally
 <div class="main_items" data-reco-zone="Highlights">
 <div class="x140x140 clearfix">
 <div class="column-1 gridcol">
-<div class="widget_stories view_pic lt10037885">
+<div class="widget_stories view_pic lt16874374">
 <article class="art--news img_top img_w140 last_image clearfix">
-<a href="http://www.theglobeandmail.com/globe-investor/retirement/retire-family/being-executor-of-a-will-likely-most-stressful-experience-youll-ever-have/article28129702/" name="lt_Picture.1" class="o-ctx ">
-<img src="http://static.theglobeandmail.ca/333/globe-investor/retirement/article7361076.ece/ALTERNATES/w140/153532590.jpg" class="art-img art-img--news" alt="" title="Jan 13, 2016 8:03AM EST
-- Squabbling family members and being personally liable for mistakes are only some of the stresses executors face" width="140" height="78">
+<a href="http://www.theglobeandmail.com/globe-investor/retirement/retire-planning/want-to-retire-at-55-take-a-deep-financial-dive/article28108956/" name="lt_Picture.1" class="o-ctx ">
+<img src="http://static.theglobeandmail.ca/e6a/globe-investor/investment-ideas/number-cruncher/article12351077.ece/ALTERNATES/w140/golf+ball+and+tee.jpg" class="art-img art-img--news" alt="" title="Jan 12, 2016 5:00AM EST
+- Tracking expenses, examining income sources and matching the two are key steps, planners say" width="140" height="78">
 </a>
 <h6 class="art-label">Globe Investor</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-investor/retirement/retire-family/being-executor-of-a-will-likely-most-stressful-experience-youll-ever-have/article28129702/" title="Jan 13, 2016 2:59PM EST - Squabbling family members and being personally liable for mistakes are only some of the stresses executors face | published: Jan 13, 2016 8:03AM EST" >
-Being executor of a will likely ‘most stressful experience you’ll ever have’
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-investor/retirement/retire-planning/want-to-retire-at-55-take-a-deep-financial-dive/article28108956/" title="Jan 11, 2016 2:45PM EST - Tracking expenses, examining income sources and matching the two are key steps, planners say | published: Jan 12, 2016 5:00AM EST" >
+Want to retire at 55? Here's how one woman pulled it off
 </a>
 </h5>
 </article>
 </div>
 </div>
 <div class="column-2 gridcol">
-<div class="widget_stories view_pic lt17279127">
-<article class="art--news img_top img_w140 last_image clearfix">
-<a href="http://www.theglobeandmail.com/report-on-business/small-business/sb-growth/the-challenge/the-million-dollar-tea-brand-youve-never-heard-of/article28128896/" name="lt_Picture.1" class="o-ctx ">
-<img src="http://static.theglobeandmail.ca/bff/report-on-business/small-business/sb-growth/the-challenge/article28128895.ece/ALTERNATES/w140/tealana.jpg" class="art-img art-img--news" alt="" title="Jan 13, 2016 5:00AM EST
-- Tealeaves made its mark by supplying luxury hotels worldwide. But now its owners want to move beyond wholesale into the retail market. How can they overcome their lack of brand visibility?" width="140" height="78">
+<div class="widget_stories view_pic lt10038756">
+<article class="art--embeddable img_top img_w140 last_image clearfix">
+<a href="http://www.theglobeandmail.com/globe-investor/retirement/retire-lifestyle/budgeting-for-three-phases-of-retirement-keeps-spending-on-track/article27317510/" name="lt_Picture.1" class="o-ctx ">
+<img src="http://static.theglobeandmail.ca/b99/globe-investor/article27318009.ece/ALTERNATES/w140/retire-spending3.jpg" class="art-img art-img--embeddable" alt="" title="Nov 23, 2015 5:00AM EST
+- It’s fine to indulge in the ‘Go-Go years,’ as long as there’s a plan for long-term care, financial advisers say" width="140" height="78">
 </a>
-<h6 class="art-label">Report on Business</h6>
+<h6 class="art-label">Globe Investor</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/report-on-business/small-business/sb-growth/the-challenge/the-million-dollar-tea-brand-youve-never-heard-of/article28128896/" title="Jan 15, 2016 10:01AM EST - Tealeaves made its mark by supplying luxury hotels worldwide. But now its owners want to move beyond wholesale into the retail market. How can they overcome their lack of brand visibility? | published: Jan 13, 2016 5:00AM EST" >
-The million-dollar tea brand you've never heard of
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-investor/retirement/retire-lifestyle/budgeting-for-three-phases-of-retirement-keeps-spending-on-track/article27317510/" title="Nov 23, 2015 9:53AM EST - It’s fine to indulge in the ‘Go-Go years,’ as long as there’s a plan for long-term care, financial advisers say | published: Nov 23, 2015 5:00AM EST" >
+The three stages of retirement spending: When not to be stingy
 </a>
 </h5>
 </article>
@@ -934,16 +917,15 @@ The million-dollar tea brand you've never heard of
 <div class="x140x140 clearfix">
 <div class="column-1 gridcol">
 <div class="widget_stories view_pic lt2231">
-<article class="art--news img_top img_w140 last_image clearfix">
-<a href="http://www.theglobeandmail.com/globe-investor/inside-the-market/fridays-analyst-upgrades-and-downgrades/article28210267/" name="lt_Picture.1" class="o-ctx ">
-<img src="http://static.theglobeandmail.ca/11b/globe-investor/investment-ideas/article27359111.ece/ALTERNATES/w140/gi-gold16rb1.JPG" class="art-img art-img--news" alt="" title="Jan 15, 2016 9:11AM EST
-- Inside the Market’s roundup of some of today’s key analyst actions" width="140" height="78">
+<article class="art--column img_top img_w140 last_image clearfix">
+<a href="http://www.theglobeandmail.com/report-on-business/rob-commentary/how-should-canada-see-the-tpp-depends-on-how-we-see-the-world/article28225266/" name="lt_Picture.1" class="o-ctx ">
+<img src="http://static.theglobeandmail.ca/0ca/report-on-business/rob-commentary/article28225265.ece/ALTERNATES/w140/web-co-herman-0115.JPG" class="art-img art-img--column" alt="" title="Jan 16, 2016 5:00AM EST
+- Do we view the world mostly as users of goods and services produced by others? Or do we see ourselves as makers, innovators and providers of goods and services to the global marketplace?" width="140" height="78">
 </a>
-<h6 class="art-label"><span class="lblmk bgglobeinvestor"></span> Globe Investor</h6>
+<h6 class="art-label"><span class="lblmk bgbusiness"></span> Report on Business</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/globe-investor/inside-the-market/fridays-analyst-upgrades-and-downgrades/article28210267/" title="Jan 15, 2016 10:02AM EST - Inside the Market’s roundup of some of today’s key analyst actions | published: Jan 15, 2016 9:11AM EST" >
-<span class="spl_unlimited splImg"></span>
-<span>Friday’s analyst upgrades and downgrades</span>
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/report-on-business/rob-commentary/how-should-canada-see-the-tpp-depends-on-how-we-see-the-world/article28225266/" title="Jan 16, 2016 5:00AM EST - Do we view the world mostly as users of goods and services produced by others? Or do we see ourselves as makers, innovators and providers of goods and services to the global marketplace? | published: Jan 16, 2016 5:00AM EST" >
+How should Canada see the TPP? Depends on how we see the world
 </a>
 </h5>
 </article>
@@ -951,15 +933,15 @@ The million-dollar tea brand you've never heard of
 </div>
 <div class="column-2 gridcol">
 <div class="widget_stories view_pic lt4223134">
-<article class="art--news img_top img_w140 last_image clearfix">
-<a href="http://www.theglobeandmail.com/arts/film/also-opening-tired-moonlight-and-band-of-robbers/article28206571/" name="lt_Picture.1" class="o-ctx ">
-<img src="http://static.theglobeandmail.ca/9b2/arts/film/article28206570.ece/ALTERNATES/w140/ff-alsoopening-14rv01.JPG" class="art-img art-img--news" alt="" title="Jan 14, 2016 9:21PM EST
-- An unusual art-house and an offbeat crime-caper comedy are at The Royal and Carlton" width="140" height="78">
+<article class="art--column img_top img_w140 last_image clearfix">
+<a href="http://www.theglobeandmail.com/arts/television/john-doyle-inside-the-surreal-world-of-james-cordens-late-night-talk-show/article28219934/" name="lt_Picture.1" class="o-ctx ">
+<img src="http://static.theglobeandmail.ca/45c/arts/television/article28219931.ece/ALTERNATES/w140/doyle17lf2794.JPG" class="art-img art-img--column" alt="" title="Jan 17, 2016 12:00PM EST
+- The Late Late Show is closer to the English chat-show style, but it has only made a marginal difference in the U.S. network late-night format" width="140" height="78">
 </a>
 <h6 class="art-label"><span class="lblmk bgarts"></span> Arts</h6>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/arts/film/also-opening-tired-moonlight-and-band-of-robbers/article28206571/" title="Jan 14, 2016 9:21PM EST - An unusual art-house and an offbeat crime-caper comedy are at The Royal and Carlton | published: Jan 14, 2016 9:21PM EST" >
-Also opening: Tired Moonlight and Band of Robbers
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/arts/television/john-doyle-inside-the-surreal-world-of-james-cordens-late-night-talk-show/article28219934/" title="Jan 17, 2016 12:00PM EST - The Late Late Show is closer to the English chat-show style, but it has only made a marginal difference in the U.S. network late-night format | published: Jan 17, 2016 12:00PM EST" >
+John Doyle: Inside the surreal world of James Corden’s late-night talk show
 </a>
 </h5>
 </article>
@@ -1014,9 +996,8 @@ TGAMD.CanvasAd.init($('#halfpager-art-1'), { height : advCanvasH, src : canvasAC
 <li>
 <article>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.1" href="http://www.theglobeandmail.com/report-on-business/top-business-stories/crippled-canadian-dollar-in-freefall-plunges-below-69/article28209428/" title="Jan 15, 2016 9:49AM EST - And watch out if Poloz cuts rates next week | published: Jan 15, 2016 4:56AM EST" >
-<span class="spl splgrey">Business Briefing</span>
-Crippled loonie in free-fall, plunges below 69¢
+<a name="lt_Headline.1" href="http://www.theglobeandmail.com/news/british-columbia/men-whose-photos-were-published-by-vancouver-media-feared-public-attacks/article28233264/" title="Jan 17, 2016 12:39PM EST - Vancouver police say internal memo, which labelled the men “suspicious” and included the surveillance photos, was never intended to be public | published: Jan 17, 2016 11:43AM EST" >
+'Suspicious' trio feared for their safety after photos published by Vancouver media
 </a>
 </h5>
 </article>
@@ -1024,8 +1005,8 @@ Crippled loonie in free-fall, plunges below 69¢
 <li>
 <article>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.2" href="http://www.theglobeandmail.com/globe-debate/kevin-oleary-a-poor-mans-donald-trump/article28199271/" title="Jan 15, 2016 7:26AM EST - He’s trading barbs with Alberta Premier Rachel Notley, blaming her NDP government for all manner of economic woes | published: Jan 15, 2016 6:00AM EST" >
-Kevin O’Leary: A poor man’s Donald Trump
+<a name="lt_Headline.2" href="http://www.theglobeandmail.com/news/world/six-canadians-killed-in-terrorist-attack-on-burkina-faso-hotel/article28232455/" title="Jan 17, 2016 3:10PM EST - Six Canadians are among the at least 28 people killed when terrorists linked to al-Qaeda stormed a hotel and a coffee shop in Burkina Faso | published: Jan 16, 2016 4:47PM EST" >
+Six Canadians from Quebec killed in terrorist attack on Burkina Faso hotel
 </a>
 </h5>
 </article>
@@ -1033,8 +1014,8 @@ Kevin O’Leary: A poor man’s Donald Trump
 <li>
 <article>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.3" href="http://www.theglobeandmail.com/life/horoscopes/jan-15-your-daily-horoscope/article27999475/" title="Jan 15, 2016 12:01AM EST - Your daily horoscope | published: Jan 15, 2016 12:01AM EST" >
-Jan. 15: Your daily horoscope
+<a name="lt_Headline.3" href="http://www.theglobeandmail.com/news/world/what-does-it-mean-to-be-american-ted-cruz-latest-in-birther-controversy/article28230905/" title="Jan 17, 2016 1:34PM EST - The Republican candidate follows a long line of presidential place-of-birth controversies dating back more than a century | published: Jan 15, 2016 8:07PM EST" >
+What does it mean to be American? Ted Cruz latest in ‘birther’ controversy
 </a>
 </h5>
 </article>
@@ -1042,8 +1023,8 @@ Jan. 15: Your daily horoscope
 <li>
 <article>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.4" href="http://www.theglobeandmail.com/life/home-and-garden/architecture/omar-gandhi-canadas-next-toparchitect/article28187545/" title="Jan 14, 2016 2:47PM EST - As he prepares to open an office in Toronto – and headline a talk at the Interior Design Show – Danny Sinopoli profiles one of Canada’s most exciting emerging designers | published: Jan 14, 2016 2:47PM EST" >
-Omar Gandhi: Canada’s next top architect
+<a name="lt_Headline.4" href="http://www.theglobeandmail.com/news/toronto/sophisticated-car-theft-ring-targeting-luxury-vehicles/article28233541/" title="Jan 17, 2016 2:03PM EST - High-tech car theft is a billion-dollar Canadian racket. Selena Ross reports on a sophisticated operation that stole hundreds of luxury vehicles off driveways across the GTA | published: Jan 17, 2016 1:27PM EST" >
+Sophisticated car theft ring targeting luxury vehicles
 </a>
 </h5>
 </article>
@@ -1051,8 +1032,8 @@ Omar Gandhi: Canada’s next top architect
 <li>
 <article>
 <h5 class="articleTitle articleTitle--default">
-<a name="lt_Headline.5" href="http://www.theglobeandmail.com/news/national/rene-angelil-celine-dions-husband-and-ex-manager-dies-at-73/article28196377/" title="Jan 14, 2016 9:30PM EST - Dion's husband and long-time manager began his entertainment career as a pop singer | published: Jan 14, 2016 4:36PM EST" >
-René Angélil: The man behind Céline Dion
+<a name="lt_Headline.5" href="http://www.theglobeandmail.com/life/horoscopes/jan-17-your-lookahead-horoscope/article27999693/" title="Jan 17, 2016 12:01AM EST - Your daily horoscope | published: Jan 17, 2016 12:01AM EST" >
+Jan. 17: Your lookahead horoscope
 </a>
 </h5>
 </article>
@@ -1294,25 +1275,25 @@ s.prop34 = "toxicology tests; b.c. coroners service; ecstasy; barb mcclintock; l
 s.prop55 = "Yes";
 s.prop37 = "news";
 s.prop36 = "art";
-s.prop54 = "1460";
+s.prop54 = "1462";
 s.pageName = "news:britishcolumbia:article";
 s.eVar33 = "D=c37";
 s.prop1 = "Single Page View - No Pagination";
 s.prop23 = "news:britishcolumbia";
 s.eVar58 = "D=c58";
 s.prop24 = "Langley;Alberta";
-s.prop50 = "Weekday";
+s.prop50 = "Weekend";
 s.eVar19 = "D=c24";
 s.prop22 = "news:britishcolumbia";
 s.prop44 = "news:britishcolumbia";
 s.eVar61 = "+1";
 s.prop43 = "news";
-s.prop48 = "Friday";
+s.prop48 = "Sunday";
 s.prop47 = "news:britishcolumbia";
 s.prop46 = "news:britishcolumbia";
 s.prop45 = "news:britishcolumbia";
 s.account = "bellgmpnewprod";
-s.prop49 = "10:03AM";
+s.prop49 = "04:47PM";
 s.channel = "news";
 s.prop8 = "Not Top 10/Other";
 if (tlu.val == undefined) {
@@ -1600,13 +1581,13 @@ var ltData = [
 "name": "in-the-know",
 "ltname": "in-the-know",
 "view": "storyheadline",
-"wId": ".lt20737389"
+"wId": ".lt20737421"
 },
 {
 "name": "in-the-know",
 "ltname": "in-the-know",
 "view": "storyheadline",
-"wId": ".lt13299793"
+"wId": ".lt13299840"
 },
 {
 "name": "in-the-know",
@@ -1624,13 +1605,13 @@ var ltData = [
 "name": "highlights",
 "ltname": "highlights",
 "view": "storypicture",
-"wId": ".lt10037885"
+"wId": ".lt16874374"
 },
 {
 "name": "highlights",
 "ltname": "highlights",
 "view": "storypicture",
-"wId": ".lt17279127"
+"wId": ".lt10038756"
 },
 {
 "name": "more from the globe and mail",

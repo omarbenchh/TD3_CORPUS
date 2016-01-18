@@ -20,7 +20,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     	
-    			<script>bruce_rtget={"tmstamp": "2016-01-16 02:30:03.607915"};</script>
+    			<script>bruce_rtget={"tmstamp": "2016-01-18 09:15:03.456784"};</script>
     		
     	
     			<!-- all.esi prod 2015-11-25T22:05:39.609Z b6e0f7a542459bc24cec7d486a148e3059cf0f0b --> <!--    url empty ?: 0   --> <!--    ID:  1226242005577 --> <!--    ID_Type:  FWID --> <!--    Is mobile: false --><!-- 2015-12-07T21:04:40.418Z b57dd501ee2a056ae7dec9d52fc77ebd7c2b0ad2
@@ -55,7 +55,7 @@
     
     
   
-                </script><script>bruce_rtget={"tmstamp": "2016-01-16 02:30:03.607915"};</script><script type="text/javascript">
+                </script><script>bruce_rtget={"tmstamp": "2016-01-18 09:15:03.456784"};</script><script type="text/javascript">
                 // dailytelegraph.com.au
                 /* trending.esi prod 2015-11-22T23:33:42.049Z 91a8dc34e11c9303ac5e44deb84a0074ee67bbb2 */ (function() { var checkTrending = function() { var sections = [], tts = 'n'; for (var i=0; i<sections.length; i++) {/* Note: window.ndm is now deprecated */if (window.utag_data) { if(window.utag_data.net_sec1 && window.utag_data.net_sec1==sections[i]){ tts="y"; } else if(window.utag_data.net_sec2 && window.utag_data.net_sec2==sections[i]){ tts="y"; } else if(window.utag_data.net_sec3 && window.utag_data.net_sec3==sections[i]){ tts="y"; } else if(window.utag_data.net_sec4 && window.utag_data.net_sec4==sections[i]){ tts="y"; } } else { tts="err"; } } window.ads_extra=window.ads_extra || {}; window.ads_extra.tts=tts;/* Trending */window.ads_extra.ttm='n';/* Trending in top10 */ }; window.ads_core = window.ads_core || []; window.ads_core.push(checkTrending); })();
                 </script> <!-- end of all.esi -->
@@ -126,8 +126,8 @@
 			ndm.cam = ndm.cam || {};
 		//]]>
 	</script>
-<!-- Fragment for [] on [fwprodcontent01.ni.news.com.au] @ [January 16, 2016 2:30AM] [cb:null] -->
-	<!-- Page includes [1226616041335:null] last generated at Sat Jan 16 02:30:23 EST 2016 -->
+<!-- Fragment for [] on [fwprodcontent05.ni.news.com.au] @ [January 18, 2016 9:16AM] [cb:null] -->
+	<!-- Page includes [1226616041335:null] last generated at Mon Jan 18 09:16:35 EST 2016 -->
 <!-- page include -->
 <!-- Resource Included [{id=1226866162096, type=News_Stylesheet}, {id=1226886312627, type=News_Javascript}, {id=1226866180869, type=News_Stylesheet}, {id=1226866162383, type=News_Stylesheet}, {id=1226866164977, type=News_Stylesheet}, {id=1226587868739, type=News_Javascript}, {id=1226592477047, type=News_Javascript}, {id=1226866449412, type=News_Javascript}, {id=1226595896129, type=News_Javascript}, {id=1226587862069, type=News_Javascript}, {id=1226587860996, type=News_Javascript}, {id=1227090210716, type=News_Javascript}, {id=1227510996395, type=News_Resources_Group}, {id=1226641054873, type=News_Javascript}, {id=1226641835083, type=News_Stylesheet}, {id=1226866522182, type=News_Stylesheet}, {id=1226766829025, type=News_Javascript}, {id=1226858257711, type=News_Javascript}, {id=1226766829929, type=News_Javascript}, {id=1226680662899, type=News_Javascript}, {id=1227092763081, type=News_Javascript}, {id=1226645345887, type=News_Stylesheet}, {id=1226656244662, type=News_Javascript}, {id=1226704318792, type=News_Javascript}, {id=1226779697549, type=News_Javascript}, {id=1226964682752, type=News_Javascript}]-->
 <!-- Resource Included [{id=1227510987125, type=News_Javascript}, {id=1227510967052, type=News_Stylesheet}]-->
@@ -536,7 +536,7 @@ window.envoy_config.identity = {
 			class="info-bar-datestamp-label">Last Updated:
 		</span>
 				<strong class="info-bar-datestamp-date">
-						January 16, 2016
+						January 18, 2016
 				  </strong>
 		</div>
 		<!-- // .info-bar-datestamp -->
@@ -552,12 +552,12 @@ window.envoy_config.identity = {
 				<p>
 					<span class="assistive">Weather: </span>
 					<a href="http://weather.dailytelegraph.com.au/" class="slimline-weather-link">
-						<span class="slimline-weather-icon possible-shower"></span>
-						Sydney 15<abbr title="Degrees Celsius">&deg;C</abbr>
+						<span class="slimline-weather-icon mostly-sunny"></span>
+						Sydney 18<abbr title="Degrees Celsius">&deg;C</abbr>
 						-
-						23<abbr title="Degree Celsius">&deg;C</abbr>
+						26<abbr title="Degree Celsius">&deg;C</abbr>
 					</a>.
-					 Shower or two.
+					 Mostly sunny.
 				</p>
 			</div> <!-- // .info-bar-weather -->
 		</div>
@@ -582,7 +582,7 @@ window.envoy_config.identity = {
 			</div>
 		<div id="story">
 				
-<!-- [Group:1226490375031] on [fwprodcontent01.ni.news.com.au] @ [January 16, 2016 2:22AM] -->
+<!-- [Group:1226490375031] on [fwprodcontent07.ni.news.com.au] @ [January 18, 2016 9:09AM] -->
 <div class="group   text-g-nn-web-group-ad-ticker item-count-1  group-id-1226490375031">
 <!-- TTL:10m -->
 		<div class="group-content">
@@ -727,7 +727,7 @@ window.envoy_config.identity = {
 	</div><!-- // .story-footer -->
         <div class="ad-container   group gpos-1 grpos-1 item-count-0">
 				
-<!-- [Group:1226490376767] on [fwprodcontent03.ni.news.com.au] @ [January 16, 2016 2:28AM] -->
+<!-- [Group:1226490376767] on [fwprodcontent03.ni.news.com.au] @ [January 18, 2016 8:51AM] -->
 <div class="group ad-container   text-g-nn-web-group-ad-google-300 item-count-1  group-id-1226490376767">
 <!-- TTL:30m -->
 		<div class="group-content">
@@ -799,11 +799,11 @@ window.envoy_config.identity = {
 			//]]>
 			</script>
 	<!-- init comments model -->
-	<input type="hidden" id="token_id" name="token" value="Caz9a94IhpdgRJuhLKmkakT2GiEGJZ29" />
-	<input type="hidden" id="user_name" name="user_name" value="m34DZWuIrVA=" />
-	<input type="hidden" id="user_email" name="user_email" value="WB8+7B0I8sE=" />
-	<input type="hidden" id="user_location" name="user_location" value="XxKxVrD0wU8=" />
-	<input type="hidden" id="comment_body" name="comment_body" value="Nh1Jsd6X6OA=" />
+	<input type="hidden" id="token_id" name="token" value="whdhy4PMwQAc4dcouAhHO2eiCH5uCwiv" />
+	<input type="hidden" id="user_name" name="user_name" value="2FoYUAPKMo0=" />
+	<input type="hidden" id="user_email" name="user_email" value="CeFs+OO/ssU=" />
+	<input type="hidden" id="user_location" name="user_location" value="t35rC/5dVHs=" />
+	<input type="hidden" id="comment_body" name="comment_body" value="42/U76SlwKM=" />
 
 							<script type="text/javascript">
 							//<![CDATA[
@@ -819,7 +819,7 @@ window.envoy_config.identity = {
 	<div class="story-extras story-extras-2">
 			<div class="outbrain-group   group gpos-1 grpos-2 item-count-1">
 				
-<!-- [Group:1226697087750] on [fwprodcontent02.ni.news.com.au] @ [January 16, 2016 2:29AM] -->
+<!-- [Group:1226697087750] on [fwprodcontent05.ni.news.com.au] @ [January 18, 2016 8:57AM] -->
 <div class="group outbrain-group   text-g-nn-web-group-outbrain-mega-widget item-count-1  group-id-1226697087750">
 <!-- TTL:30m -->
 		<div class="group-content">
@@ -871,7 +871,7 @@ siteName = "Herald_Sun";
 			</div><!-- // .group gpos-1 grpos-2 -->
 			<div class="story-dash   group gpos-2 grpos-1 item-count-2">
 				
-<!-- [Group:1226580353853] on [fwprodcontent05.ni.news.com.au] @ [January 16, 2016 2:05AM] -->
+<!-- [Group:1226580353853] on [fwprodcontent01.ni.news.com.au] @ [January 18, 2016 9:10AM] -->
 <div class="group story-dash   text-g-news item-count-2  group-id-1226580353853">
 <!-- TTL:30m -->
 		<div class="group-header">
@@ -882,17 +882,17 @@ siteName = "Herald_Sun";
 		<div class="module default   sectionref-breaking-news     collection mpos-1 mrpos-1 text-m-nn-web-pmnt-storydash-breaking id1226580097783" id="id1226580097783">
 		<!-- SectionId:News_Parent,1226490816249|CollectionId:|ContentCount:0|StartIndex:0|LinkCount:5  -->
 			<div class="module-content ">
-			<!-- PC related IDs: 1227710901931 -->
-			<!-- PC related IDs: 1227711014638 -->
-			<!-- PC related IDs: 1227710985806 -->
-			<!-- PC related IDs: 1227710993193 -->
-			<!-- PC related IDs: 1227710993179 -->
+			<!-- PC related IDs: 1227712656654 -->
+			<!-- PC related IDs: 1227712670337 -->
+			<!-- PC related IDs: 1227712675250 -->
+			<!-- PC related IDs: 1227712675236 -->
+			<!-- PC related IDs: 1227712670323 -->
 				<ul class="related related-content ">
-								<li class="story   first  lipos-1   "><a href="/news/breaking-news/unicef-confirms-malnutrition-in-madaya/story-fni0xqlk-1227710901931" > Aid on way to starving Syrian town </a></li>
-								<li class="story     lipos-2   "><a href="/news/breaking-news/cologne-hasnt-changed-german-migrant-view/story-fni0xqlk-1227711014638" > Cologne hasn't changed German migrant view </a></li>
-								<li class="story     lipos-3   "><a href="/news/breaking-news/six-seriously-ill-after-french-drug-trial/story-fni0xqlk-1227710985806" > Six seriously ill after French drug trial </a></li>
-								<li class="story     lipos-4   "><a href="/news/breaking-news/quarter-of-uk-adults-with-mental-illness/story-fni0xqlk-1227710993193" > Quarter of UK adults with mental illness </a></li>
-								<li class="story    last lipos-5   "><a href="/business/breaking-news/bt-to-buy-german-french-mobile-venture/story-fni0xqe3-1227710993179" > BT to buy German-French mobile venture </a></li>
+								<li class="story   first  lipos-1   "><a href="/news/breaking-news/several-americans-missing-in-iraq-us/story-fni0xqlk-1227712656654" > 'Several' Americans missing in Iraq: US </a></li>
+								<li class="story     lipos-2   "><a href="/news/breaking-news/senator-pushes-for-essendon-senate-inquiry/story-fni0xqi3-1227712670337" > Senator pushes for Essendon Senate inquiry </a></li>
+								<li class="story     lipos-3   "><a href="/news/breaking-news/morrison-backs-company-tax-cut-gst-hike/story-fni0xqi3-1227712675250" > Morrison backs company tax cut, GST hike </a></li>
+								<li class="story     lipos-4   "><a href="/business/breaking-news/wef-warns-of-growing-array-of-risks/story-fni0xqe3-1227712675236" > WEF warns of growing array of risks </a></li>
+								<li class="story    last lipos-5   "><a href="/news/breaking-news/seven-metre-great-white-seen-off-sa-coast/story-fni0xqi3-1227712670323" > Seven-metre great white seen off SA coast </a></li>
 				</ul>
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
@@ -948,7 +948,7 @@ siteName = "Herald_Sun";
                         <div class="ad-block ad-custom" id="ad-custom-1" data-ad-width="315" data-ad-height="90"></div>
 		</div><!-- // .ad .ad-other -->
 				
-<!-- [Group:1226490379337] on [fwprodcontent03.ni.news.com.au] @ [January 16, 2016 2:03AM] -->
+<!-- [Group:1226490379337] on [fwprodcontent05.ni.news.com.au] @ [January 18, 2016 9:13AM] -->
 <div class="group   text-g-nn-web-group-ad-halfpage item-count-1  group-id-1226490379337">
 <!-- TTL:30m -->
 		<div class="group-content">
@@ -960,13 +960,13 @@ siteName = "Herald_Sun";
 </div><!-- // .group -->
 
 				
-<!-- [Group:1226613051171] on [fwprodcontent02.ni.news.com.au] @ [January 16, 2016 2:21AM] -->
+<!-- [Group:1226613051171] on [fwprodcontent09.ni.news.com.au] @ [January 18, 2016 9:11AM] -->
 <div class="group   text-g-dt-nn-web-group-rhc-story-news item-count-1  group-id-1226613051171">
 <!-- TTL:10m -->
 		<div class="group-content">
 			<div class="item ipos-1 irpos-1">
 			<div class="esi_fragment">
-			        <div class="most-read sectionref-news"><div class="module-header"><h3 class="heading">Most Viewed</h3></div> <div class="module "><div class="module-content"><ol class="news-headline-numbered"><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/26811821345c29d85efa3e1c0516819f">‘Strippers, coke and wads of cash’ at ANZ</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/346b89afbaf19957220ba7e2dbcbcb5a">Trinity Grammar reels over sex claims</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/a14bf081f4f38eae182fa09bda7f17a7">The heat is on the Habibs!</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/5865705f77b3da2ea089cbb02101c204">PM warned of Mardi Gras ‘danger’</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/f52832aecefb0c9ca98da1944418308b">Do you know who owns these 1960s family photos?</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/bf283d1babd66d1880802175f612492f">Airfares to holiday hotspot drop 40%</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/fb463b3cc1bd604f4669f7838d02aaaa">Porn helped me understand sex can be healthy</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/333b7c476a92f03572a867f323518a15">’I cut my ice-addict son out of my life'</a></li></ol></div></div>
+			        <div class="most-read sectionref-news"><div class="module-header"><h3 class="heading">Most Viewed</h3></div> <div class="module "><div class="module-content"><ol class="news-headline-numbered"><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/3976afb75e90405b96f3b90fccf18de0">Girlfriend’s revenge porn scandal</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/2245c8f66b8a25164abac23442db598c">Gangs of Sydney: Bikies in turmoil</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/5d4d437dbe0d0dcb4855131134fa4c29">Fit beach bum’s in job description</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/9ec50d4d9b1f41b8a73e14134915bf01">Crime lord not fit for Australia</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/a1774fdabc27592f1a8b9a6becd43b80">Modern parenting isn’t working</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/f52832aecefb0c9ca98da1944418308b">Do you know who owns these 1960s family photos?</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/fe7c0dc98f8052227af7c769a1d8646d">‘I can finally have sex with my husband’</a></li><li><a rel="mostpop" href="http://at.dailytelegraph.com.au/link/3b667241218d29cca60d22e449489a6d">Shark devours dolphin 50m off beach</a></li></ol></div></div>
 <img src="http://pixel.tcog.cp1.news.com.au/track/news/content/v1/?category=/section/dailytelegraph.com.au/collection/popular-content/all/24hours/&format=module&t_product=DailyTelegraph&maxRelated=8&t_template=popular-headline&origin=omniture&domain=dailytelegraph.com.au" style='opacity:0; height:0px; width:0px; position:absolute;' width='0' height='0' />
 </div>
 			</div>
@@ -977,150 +977,17 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block   has-video sectionref-news sbpos-1 sbrpos-5 id1227709815897">
-			<!-- PC related summary IDs: 1227709815897 -->
-			<!-- PC related summary IDs: 1227709815897 -->
-	<!-- PC related summary IDs: 1227709815897 -->
+			<div class="story-block prm prm-story    sectionref-news sbpos-1 sbrpos-5 id1227711673436">
+			<!-- PC related summary IDs: 1227711673436 -->
+			<!-- PC related summary IDs: 1227711673436 -->
+	<!-- PC related summary IDs: 1227711673436 -->
 		<h4 class="heading">
-			      <a href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897" >Sydney&#8217;s rollercoaster weather set to continue</a>
+			      <a href="/news/nsw/man-caught-with-14m-marijuana-crop-says-he-grew-it-to-help-the-sick-and-dying/story-fni0cx12-1227711673436" class="prm prm-story" >&#8216;I grew pot for the sick and dying&#8217;</a>
 		</h4>
-					<a href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/15/1227710/529307-3ca051aa-bb3e-11e5-9734-964735e5a545.jpg" alt="Weather"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+					<a href="/news/nsw/man-caught-with-14m-marijuana-crop-says-he-grew-it-to-help-the-sick-and-dying/story-fni0cx12-1227711673436" class="prm prm-story thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/16/1227711/709495-a4a12f4e-bc25-11e5-997c-b9b199a184a0.jpg" alt="‘I grew pot for the sick and dying’"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_AU. Locale from Response : en_US -->
 	<p class="standfirst">
-				IF YOU were hoping for a bit more consistency in Sydney&#8217;s weather next week, you&#8217;re not going to be very happy.
-	</p> <!-- // .standfirst11 -->
-		<div class="storyblock-footer">
-				<span class="section">
-					<a href="/news/nsw" >NSW</a>
-				</span>
-				<span class="share"></span>
-			<span class="bookmark"></span>
-		<ul class="related related-media">
-				<li class="first video video-count-1 lipos-1 lirpos-1">
-					<a title="This story has 1 video" href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897">
-						<span class="count">1</span> video
-					</a>
-					 <ul class="related-media-items">
-					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
-						 		<a href="http://dailytelegraph.com.au/video/id-hwMDA3MDE6Fv1HkZpx8I9dAwCNat9htX/Sydney-continues-to-be-battered-with-torrential-weather" >
-						 					Sydney continues to be battered with torrential weather
-						 		</a>
-						        	<span class="time">0:30</span>
-					 		</li>
-					 </ul>
-				</li>
-					 <li class="comments">
-					  <a href="/news/nsw/rainy-day-forecast-for-storm-battered-sydney-as-temperatures-halve-after-thursdays-heatwave/story-fni0cx12-1227709815897">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709815897"></span>
-					 </a>
-					</li>
-		</ul>
-		</div>
-	<!-- PC related summary IDs: 1227709815897 -->
-			</div> <!-- // .story-block   pos-1 rpos-5 id1227709815897 -->
-			<div class="story-block   has-video sectionref-news sbpos-2 sbrpos-4 id1227709420953">
-			<!-- PC related summary IDs: 1227709420953 -->
-			<!-- PC related summary IDs: 1227709420953 -->
-	<!-- PC related summary IDs: 1227709420953 -->
-		<h4 class="heading">
-			      <a href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953" >&#8217;I cut my ice-addict son out of my life' </a>
-		</h4>
-					<a href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/346098-4deed588-b9ab-11e5-87b8-65c989f6ec4a.jpg" alt="Ice Forum"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
-	<p class="standfirst">
-				HE was an ordinary, charming guy but ice turned Tracey Filicietti&#8217;s son into a monster. He threatened to kill his two young sisters and turned his pregnant girlfriend into a prostitute.
-	</p> <!-- // .standfirst11 -->
-		<div class="storyblock-footer">
-				<span class="section">
-					<a href="/news/nsw" >NSW</a>
-				</span>
-				<span class="share"></span>
-			<span class="bookmark"></span>
-		<ul class="related related-media">
-				<li class="first video video-count-1 lipos-1 lirpos-1">
-					<a title="This story has 1 video" href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953">
-						<span class="count">1</span> video
-					</a>
-					 <ul class="related-media-items">
-					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
-						 		<a href="http://dailytelegraph.com.au/video/id-4xMnc2dzoOAPEMEc5Piwv9jDsDMu0qos/ICE-NATION---A-Fresh-Start" >
-						 					ICE NATION - A Fresh Start
-						 		</a>
-						        	<span class="time">2:11</span>
-					 		</li>
-					 </ul>
-				</li>
-					 <li class="comments">
-					  <a href="/news/nsw/the-vile-scourge-of-ice-tortures-everyday-aussie-families/story-fni0cx12-1227709420953">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709420953"></span>
-					 </a>
-					</li>
-		</ul>
-		</div>
-	<!-- PC related summary IDs: 1227709420953 -->
-			</div> <!-- // .story-block   pos-2 rpos-4 id1227709420953 -->
-			<div class="story-block    sectionref-newslocal sbpos-3 sbrpos-3 id1227709249146">
-			<!-- PC related summary IDs: 1227709249146 -->
-			<!-- PC related summary IDs: 1227709249146 -->
-	<!-- PC related summary IDs: 1227709249146 -->
-		<h4 class="heading">
-			      <a href="/newslocal/northern-beaches/car-crash-victim-lachie-burleighs-beloved-van-taken-by-thieves-and-dumped-in-bush/story-fngr8hax-1227709249146" >Beloved van of crash boy stolen and trashed</a>
-		</h4>
-					<a href="/newslocal/northern-beaches/car-crash-victim-lachie-burleighs-beloved-van-taken-by-thieves-and-dumped-in-bush/story-fngr8hax-1227709249146" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/15/1227710/022957-4d8d821c-ba85-11e5-87b8-65c989f6ec4a.jpg" alt="Deb and Mike Burleigh devastated after son's van stolen"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
-	<p class="standfirst">
-				<b>EXCLUSIVE:</b> Heartless thieves stole and vandalised a van belonging to Lachlan Burleigh, one of the three northern beaches youngsters killed in a horror crash last August.
-	</p> <!-- // .standfirst11 -->
-		<div class="storyblock-footer">
-				<span class="section">
-					<a href="/newslocal/northern-beaches" >Nth Beaches</a>
-				</span>
-				<span class="share"></span>
-			<span class="bookmark"></span>
-		<ul class="related related-media">
-		</ul>
-		</div>
-	<!-- PC related summary IDs: 1227709249146 -->
-			</div> <!-- // .story-block   pos-3 rpos-3 id1227709249146 -->
-			<div class="story-block    sectionref-newslocal sbpos-4 sbrpos-2 id1227709890172">
-			<!-- PC related summary IDs: 1227709890172 -->
-			<!-- PC related summary IDs: 1227709890172 -->
-	<!-- PC related summary IDs: 1227709890172 -->
-		<h4 class="heading">
-			      <a href="/newslocal/north-shore/giant-goanna-catches-bunny-in-turramurra-mans-backyard/story-fngr8h9d-1227709890172" >Goanna caught bunny in my yard</a>
-		</h4>
-					<a href="/newslocal/north-shore/giant-goanna-catches-bunny-in-turramurra-mans-backyard/story-fngr8h9d-1227709890172" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/364342-938dd7b8-b8cc-11e5-87b8-65c989f6ec4a.jpg" alt="Goanna"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
-	<p class="standfirst">
-				A MAN was feeding his dog when a brazen 1.6m goanna climbed his back door with a bunny ensnared in its jaws. Malcolm Thom was quick to snap the unusual sight.
-	</p> <!-- // .standfirst11 -->
-		<div class="storyblock-footer">
-				<span class="section">
-					<a href="/newslocal/north-shore" >North Shore</a>
-				</span>
-				<span class="share"></span>
-			<span class="bookmark"></span>
-		<ul class="related related-media">
-					 <li class="comments">
-					  <a href="/newslocal/north-shore/giant-goanna-catches-bunny-in-turramurra-mans-backyard/story-fngr8h9d-1227709890172">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709890172"></span>
-					 </a>
-					</li>
-		</ul>
-		</div>
-	<!-- PC related summary IDs: 1227709890172 -->
-			</div> <!-- // .story-block   pos-4 rpos-2 id1227709890172 -->
-			<div class="story-block    sectionref-news sbpos-5 sbrpos-1 id1227710044163">
-			<!-- PC related summary IDs: 1227710044163 -->
-			<!-- PC related summary IDs: 1227710044163 -->
-	<!-- PC related summary IDs: 1227710044163 -->
-		<h4 class="heading">
-			      <a href="/news/nsw/massive-fish-kill-lethal-legacy-of-floods/story-fni0cx12-1227710044163" >Phenomenon killing hundreds of thousands of fish </a>
-		</h4>
-					<a href="/news/nsw/massive-fish-kill-lethal-legacy-of-floods/story-fni0cx12-1227710044163" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/044026-677ae5da-b9a3-11e5-943b-7d49c87383bc.jpg" alt="Phenomenon killing hundreds of thousands of fish "  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
-	<p class="standfirst">
-				LAST week&#8217;s torrential rain and floods have resulted in another painful chapter for the Hunter Region&#8217;s waterways, with hundreds of thousands of fish dead or dying due to lack of oxygen.
+				POLICE claim he was growing a commercial crop of marijuana. But Bradley Hindmarsh says his $1.4 million harvest was only meant to help the sick and not to make a profit. Now the courts must decide.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
@@ -1131,8 +998,105 @@ siteName = "Herald_Sun";
 		<ul class="related related-media">
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227710044163 -->
-			</div> <!-- // .story-block   pos-5 rpos-1 id1227710044163 -->
+	<!-- PC related summary IDs: 1227711673436 -->
+			</div> <!-- // .story-block prm prm-story   pos-1 rpos-5 id1227711673436 -->
+			<div class="story-block prm prm-story    sectionref-news sbpos-2 sbrpos-4 id1227711671451">
+			<!-- PC related summary IDs: 1227711671451 -->
+			<!-- PC related summary IDs: 1227711671451 -->
+	<!-- PC related summary IDs: 1227711671451 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/wild-attack-feral-ferret-bites-patient-in-gosford-hospital-bed/story-fni0cx12-1227711671451" class="prm prm-story" >Feral ferret bites patient in hospital bed</a>
+		</h4>
+					<a href="/news/nsw/wild-attack-feral-ferret-bites-patient-in-gosford-hospital-bed/story-fni0cx12-1227711671451" class="prm prm-story thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/16/1227711/673067-d8c47cee-bc3a-11e5-9f3a-2f7ada85c668.jpg" alt="Feral ferret bites patient in hospital bed"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_AU. Locale from Response : en_US -->
+	<p class="standfirst">
+				IT&#8217;S the mystery of the &#173;ferocious ferret. A major NSW hospital is &#173;investigating a runaway weasel that bit a female patient&#8217;s hand so hard security guards were called to pull it off her.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/news/nsw/wild-attack-feral-ferret-bites-patient-in-gosford-hospital-bed/story-fni0cx12-1227711671451">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227711671451"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227711671451 -->
+			</div> <!-- // .story-block prm prm-story   pos-2 rpos-4 id1227711671451 -->
+			<div class="story-block    sectionref-news sbpos-3 sbrpos-3 id1227711607393">
+			<!-- PC related summary IDs: 1227711607393 -->
+			<!-- PC related summary IDs: 1227711607393 -->
+	<!-- PC related summary IDs: 1227711607393 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/thugs-threaten-police-in-sydneys-west-following-officers-home-and-using-drones-to-spy-on-them/story-fni0cx12-1227711607393" >Cop shops under siege by extreme enemies</a>
+		</h4>
+					<a href="/news/nsw/thugs-threaten-police-in-sydneys-west-following-officers-home-and-using-drones-to-spy-on-them/story-fni0cx12-1227711607393" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/16/1227711/606256-e3890722-bb49-11e5-997c-b9b199a184a0.jpg" alt="Merrylands Police Station"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_AU. Locale from Response : en_US -->
+	<p class="standfirst">
+				OFFICERS in Sydney&#8217;s western suburbs are being &#173;repeatedly threatened, followed home from work and even watched by drones as they fight the rising threat of extremism in the area.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227711607393 -->
+			</div> <!-- // .story-block   pos-3 rpos-3 id1227711607393 -->
+			<div class="story-block    sectionref-news sbpos-4 sbrpos-2 id1227711563979">
+			<!-- PC related summary IDs: 1227711563979 -->
+			<!-- PC related summary IDs: 1227711563979 -->
+	<!-- PC related summary IDs: 1227711563979 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/crime-lord-mohammad-qais-niazy-to-be-kicked-out-of-australia-and-deported-back-to-afghanistan/story-fni0cx12-1227711563979" >Crime lord not fit for Australia</a>
+		</h4>
+					<a href="/news/nsw/crime-lord-mohammad-qais-niazy-to-be-kicked-out-of-australia-and-deported-back-to-afghanistan/story-fni0cx12-1227711563979" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/17/1227712/432070-c60a058c-bb3c-11e5-997c-b9b199a184a0.jpg" alt="Mohammad Qais Niazy, new outlaw motorcycle gang Afghani Murderers."  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_AU. Locale from Response : en_US -->
+	<p class="standfirst">
+				NOTORIOUS crime gang member Mohammad Qais Niazy will be sent back to Afghanistan after his online taunts to police and alleged criminal activity finally caught up with him. WARNING: Drug images.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227711563979 -->
+			</div> <!-- // .story-block   pos-4 rpos-2 id1227711563979 -->
+			<div class="story-block    sectionref-news sbpos-5 sbrpos-1 id1227711614462">
+			<!-- PC related summary IDs: 1227711614462 -->
+			<!-- PC related summary IDs: 1227711614462 -->
+	<!-- PC related summary IDs: 1227711614462 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/luke-foley-flies-home-from-family-holiday-for-urgent-talks-about-nsw-labor-party-crisis/story-fni0cx12-1227711614462" >Foley flies home for urgent party crisis talks</a>
+		</h4>
+					<a href="/news/nsw/luke-foley-flies-home-from-family-holiday-for-urgent-talks-about-nsw-labor-party-crisis/story-fni0cx12-1227711614462" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/16/1227711/613667-7e998334-bbfb-11e5-9f3a-2f7ada85c668.jpg" alt="Luke Foley"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_AU. Locale from Response : en_US -->
+	<p class="standfirst">
+				EMBATTLED Labor leader Luke Foley has lashed out at criticism he has become a &#8220;faceless&#8221; party leader while declaring he will be leading the party to the next election.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227711614462 -->
+			</div> <!-- // .story-block   pos-5 rpos-1 id1227711614462 -->
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
 			</div><!-- // .item ipos-1 irpos-1 -->
@@ -1140,7 +1104,7 @@ siteName = "Herald_Sun";
 </div><!-- // .group -->
 
 				
-<!-- [Group:1226697091619] on [fwprodcontent10.ni.news.com.au] @ [January 16, 2016 2:27AM] -->
+<!-- [Group:1226697091619] on [fwprodcontent07.ni.news.com.au] @ [January 18, 2016 8:55AM] -->
 <div class="group outbrain-group   text-g-nn-web-group-outbrain-side-widget item-count-1  group-id-1226697091619">
 <!-- TTL:30m -->
 		<div class="group-content">
@@ -1153,7 +1117,7 @@ siteName = "Herald_Sun";
 </div><!-- // .group -->
 
 				
-<!-- [Group:1226720385671] on [fwprodcontent10.ni.news.com.au] @ [January 16, 2016 2:03AM] -->
+<!-- [Group:1226720385671] on [fwprodcontent01.ni.news.com.au] @ [January 18, 2016 9:10AM] -->
 <div class="group   text-g-dt-web-group-news-affiliate item-count-1  group-id-1226720385671">
 <!-- TTL:30m -->
 		<div class="group-content">
@@ -1169,7 +1133,7 @@ siteName = "Herald_Sun";
 </div><!-- // .group -->
 
 				
-<!-- [Group:1226613005936] on [fwprodcontent01.ni.news.com.au] @ [January 16, 2016 2:22AM] -->
+<!-- [Group:1226613005936] on [fwprodcontent10.ni.news.com.au] @ [January 18, 2016 9:10AM] -->
 <div class="group   text-g-dt-nn-web-group-rhc-bestaround item-count-1  group-id-1226613005936">
 <!-- TTL:10m -->
 		<div class="group-content">
@@ -1181,17 +1145,17 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block    sectionref-entertainment sbpos-1 sbrpos-5 id1227710806472">
-			<!-- PC related summary IDs: 1227710806472 -->
-			<!-- PC related summary IDs: 1227710806472 -->
-	<!-- PC related summary IDs: 1227710806472 -->
+			<div class="story-block    sectionref-entertainment sbpos-1 sbrpos-5 id1227712581604">
+			<!-- PC related summary IDs: 1227712581604 -->
+			<!-- PC related summary IDs: 1227712581604 -->
+	<!-- PC related summary IDs: 1227712581604 -->
 		<h4 class="heading">
-			      <a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472" >Plateful Eight stars&#8217; day out in Rose Bay</a>
+			      <a href="/entertainment/sydney-confidential/the-bachelor-sam-wood-and-snezana-markoski-purchase-a-165m-melbourne-home/story-fni0cvc9-1227712581604" >Sam and Snez&#8217;s new $1.65m home</a>
 		</h4>
-					<a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/15/1227710/816087-9c715572-bb50-11e5-9734-964735e5a545.jpg" alt="Catalina's Restaurant"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+					<a href="/entertainment/sydney-confidential/the-bachelor-sam-wood-and-snezana-markoski-purchase-a-165m-melbourne-home/story-fni0cvc9-1227712581604" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/18/1227712/580601-465c00d0-bd56-11e5-9734-964735e5a545.jpg" alt="Sam and Snez’s new $1.65m home"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
 	<p class="standfirst">
-				THE Hateful Eight blokes are making the most of Australia, with Quentin Tarantino, Kurt Russell and Samuel L Jackson stopping by Eastern Suburbs celebrity haunt Catalina.
+				THE Bachelor&#8217;s Sam Wood and Snezana Markoski have taken their relationship to the next level after buying a home together.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
@@ -1201,165 +1165,134 @@ siteName = "Herald_Sun";
 			<span class="bookmark"></span>
 		<ul class="related related-media">
 					 <li class="comments">
-					  <a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710806472"></span>
+					  <a href="/entertainment/sydney-confidential/the-bachelor-sam-wood-and-snezana-markoski-purchase-a-165m-melbourne-home/story-fni0cvc9-1227712581604">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227712581604"></span>
 					 </a>
 					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227710806472 -->
-			</div> <!-- // .story-block   pos-1 rpos-5 id1227710806472 -->
-			<div class="story-block    sectionref-news sbpos-2 sbrpos-4 id1227710768850">
-			<!-- PC related summary IDs: 1227710768850 -->
-			<!-- PC related summary IDs: 1227710768850 -->
-	<!-- PC related summary IDs: 1227710768850 -->
+	<!-- PC related summary IDs: 1227712581604 -->
+			</div> <!-- // .story-block   pos-1 rpos-5 id1227712581604 -->
+			<div class="story-block    sectionref-entertainment sbpos-2 sbrpos-4 id1227712640599">
+			<!-- PC related summary IDs: 1227712640599 -->
+			<!-- PC related summary IDs: 1227712640599 -->
+	<!-- PC related summary IDs: 1227712640599 -->
 		<h4 class="heading">
-			      <a href="/news/nsw/here-come-the-habibs-what-do-you-think-of-channel-9s-eagerly-awaited-new-comedy-show/story-fni0cx12-1227710768850" >The heat is on the Habibs!</a>
+			      <a href="/entertainment/sydney-confidential/rhonda-burchmore-confirms-shes-heading-to-jungle-ahead-of-im-a-celebrity-get-me-out-of-here/story-fni0cvc9-1227712640599" >Rhonda confirms she&#8217;s heading to jungle</a>
 		</h4>
-					<a href="/news/nsw/here-come-the-habibs-what-do-you-think-of-channel-9s-eagerly-awaited-new-comedy-show/story-fni0cx12-1227710768850" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/15/1227710/991525-7a526374-b5dc-11e5-ad0e-adbed2d923e4.jpg" alt="Lebanese Family for New TV Show"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+					<a href="/entertainment/sydney-confidential/rhonda-burchmore-confirms-shes-heading-to-jungle-ahead-of-im-a-celebrity-get-me-out-of-here/story-fni0cvc9-1227712640599" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/18/1227712/640446-bc30fa5a-bd5f-11e5-9734-964735e5a545.jpg" alt="Photo"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
 	<p class="standfirst">
-				<b>WHAT DO YOU THINK? </b>CHANNEL 9&#8217;s eagerly awaited new show Here Come The Habibs has some people so enraged they want it axed before it airs.
+				DANIELLE Cormack has denied speculation she&#8217;ll be heading into the South African jungle as a contestant on I&#8217;m A Celebrity ... Get Me Out Of Here!
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/news/nsw" >NSW</a>
+					<a href="/entertainment/sydney-confidential" >Confidential</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
 					 <li class="comments">
-					  <a href="/news/nsw/here-come-the-habibs-what-do-you-think-of-channel-9s-eagerly-awaited-new-comedy-show/story-fni0cx12-1227710768850">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710768850"></span>
+					  <a href="/entertainment/sydney-confidential/rhonda-burchmore-confirms-shes-heading-to-jungle-ahead-of-im-a-celebrity-get-me-out-of-here/story-fni0cvc9-1227712640599">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227712640599"></span>
 					 </a>
 					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227710768850 -->
-			</div> <!-- // .story-block   pos-2 rpos-4 id1227710768850 -->
-			<div class="story-block   has-video sectionref-newslocal sbpos-3 sbrpos-3 id1227709132791">
-			<!-- PC related summary IDs: 1227709132791 -->
-			<!-- PC related summary IDs: 1227709132791 -->
-	<!-- PC related summary IDs: 1227709132791 -->
+	<!-- PC related summary IDs: 1227712640599 -->
+			</div> <!-- // .story-block   pos-2 rpos-4 id1227712640599 -->
+			<div class="story-block    sectionref-entertainment sbpos-3 sbrpos-3 id1227712217086">
+			<!-- PC related summary IDs: 1227712217086 -->
+			<!-- PC related summary IDs: 1227712217086 -->
+	<!-- PC related summary IDs: 1227712217086 -->
 		<h4 class="heading">
-			      <a href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791" >The REAL five reasons you&#8217;re still single</a>
+			      <a href="/entertainment/sydney-confidential/home-and-away-stars-new-idea-photoshoot-a-fit-beach-bums-in-the-job-description/story-fni0cvc9-1227712217086" >Fit beach bum&#8217;s in job description</a>
 		</h4>
-					<a href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/15/1227710/370659-61909cf6-b835-11e5-8575-c69eabd2bceb.jpg" alt="Dating class for Single in Sydney"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+					<a href="/entertainment/sydney-confidential/home-and-away-stars-new-idea-photoshoot-a-fit-beach-bums-in-the-job-description/story-fni0cvc9-1227712217086" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/18/1227712/511534-33910e20-bcb9-11e5-9f3a-2f7ada85c668.jpg" alt="Fit beach bum’s in job description"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
 	<p class="standfirst">
-				SARAH meets a dating guru, who offers an insight into why she believes she - as well as Sydney&#8217;s other single woman - remain unattached.
+				BEING always beach ready is part of the job on Home and Away. &#8220;I used to dance and did aerobics,&#8221; says actress Isabella Giovinazzo.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/newslocal/northern-beaches" >Nth Beaches</a>
+					<a href="/entertainment/sydney-confidential" >Confidential</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
-				<li class="first video video-count-1 lipos-1 lirpos-1">
-					<a title="This story has 1 video" href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791">
-						<span class="count">1</span> video
-					</a>
-					 <ul class="related-media-items">
-					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
-						 		<a href="http://dailytelegraph.com.au/video/id-x3dDU2MDE6JjS7k8ZFApAj7yga4ODcKV/Five-reasons-youre-still-single-by-relationship-coach-Sarah-Davis" >
-						 					Five reasons youre still single, by relationship coach Sarah Dav
-						 		</a>
-						        	<span class="time">3:05</span>
-					 		</li>
-					 </ul>
-				</li>
 					 <li class="comments">
-					  <a href="/newslocal/northern-beaches/single-in-sydney-the-real-five-reasons-youre-still-single/story-fngr8hax-1227709132791">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227709132791"></span>
+					  <a href="/entertainment/sydney-confidential/home-and-away-stars-new-idea-photoshoot-a-fit-beach-bums-in-the-job-description/story-fni0cvc9-1227712217086">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227712217086"></span>
 					 </a>
 					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227709132791 -->
-			</div> <!-- // .story-block   pos-3 rpos-3 id1227709132791 -->
-			<div class="story-block   has-video sectionref-newslocal sbpos-4 sbrpos-2 id1227710055646">
-			<!-- PC related summary IDs: 1227710055646 -->
-			<!-- PC related summary IDs: 1227710055646 -->
-	<!-- PC related summary IDs: 1227710055646 -->
+	<!-- PC related summary IDs: 1227712217086 -->
+			</div> <!-- // .story-block   pos-3 rpos-3 id1227712217086 -->
+			<div class="story-block   has-video sectionref-entertainment sbpos-4 sbrpos-2 id1227710607522">
+			<!-- PC related summary IDs: 1227710607522 -->
+			<!-- PC related summary IDs: 1227710607522 -->
+	<!-- PC related summary IDs: 1227710607522 -->
 		<h4 class="heading">
-			      <a href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646" >&#8216;I literally think about it all the time I&#8217;m here&#8217;</a>
+			      <a href="/entertainment/television/dr-chris-brown-has-valuable-bonus-clues-for-who-will-enter-im-a-celebrity-get-me-out-of-here/story-fni0cjvj-1227710607522" >Did Chris Brown reveal who&#8217;s on Celeb?</a>
 		</h4>
-					<a href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/319750-7fd9f22a-bb28-11e5-a667-43db78ec5532.jpg" alt="‘I literally think about it all the time I’m here’"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+					<a href="/entertainment/television/dr-chris-brown-has-valuable-bonus-clues-for-who-will-enter-im-a-celebrity-get-me-out-of-here/story-fni0cjvj-1227710607522" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/18/1227712/513449-93204bea-ba88-11e5-87b8-65c989f6ec4a.jpg" alt="Did Chris Brown reveal who’s on Celeb?"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
 	<p class="standfirst">
-				HOLLYWOOD hero Quentin Tarantino thrilled fans at a sold out Q&amp;A session hosted by Cremorne&#8217;s Orpheum cinema and revealed a secret obsession that grips him every time he visits Australia.
+				DR CHRIS Brown reveals some key information behind the celebrities set to enter the African jungle.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/newslocal/north-shore" >North Shore</a>
+					<a href="/entertainment/television" >Reality</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
 				<li class="first video video-count-1 lipos-1 lirpos-1">
-					<a title="This story has 1 video" href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646">
+					<a title="This story has 1 video" href="/entertainment/television/dr-chris-brown-has-valuable-bonus-clues-for-who-will-enter-im-a-celebrity-get-me-out-of-here/story-fni0cjvj-1227710607522">
 						<span class="count">1</span> video
 					</a>
 					 <ul class="related-media-items">
 					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
-						 		<a href="http://dailytelegraph.com.au/video/id-ZjYnE1MDE6uR0fnqFnUdEHDzGxM9r4xA/The-Hateful-Eight-sees-Tarantino-in-Sydney" >
-						 					The Hateful Eight sees Tarantino in Sydney
+						 		<a href="http://dailytelegraph.com.au/video/id-c3Z2hzeDo2LVUiKzM-u1Xdqmf7CZnL-2/Bondi-Vet-Chris-Brown-takes-the-Man-Challenge" >
+						 					Bondi Vet Chris Brown takes the Man Challenge
 						 		</a>
-						        	<span class="time">1:59</span>
+						        	<span class="time">1:22</span>
 					 		</li>
 					 </ul>
 				</li>
 					 <li class="comments">
-					  <a href="/newslocal/north-shore/quentin-tarantino-reveals-secret-obsession-to-fans-at-cremorne-orpheum-cinema/story-fngr8h9d-1227710055646">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710055646"></span>
+					  <a href="/entertainment/television/dr-chris-brown-has-valuable-bonus-clues-for-who-will-enter-im-a-celebrity-get-me-out-of-here/story-fni0cjvj-1227710607522">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227710607522"></span>
 					 </a>
 					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227710055646 -->
-			</div> <!-- // .story-block   pos-4 rpos-2 id1227710055646 -->
-			<div class="story-block   has-video sectionref-entertainment sbpos-5 sbrpos-1 id1227709681757">
-			<!-- PC related summary IDs: 1227709681757 -->
-			<!-- PC related summary IDs: 1227709681757 -->
-	<!-- PC related summary IDs: 1227709681757 -->
+	<!-- PC related summary IDs: 1227710607522 -->
+			</div> <!-- // .story-block   pos-4 rpos-2 id1227710607522 -->
+			<div class="story-block    sectionref-entertainment sbpos-5 sbrpos-1 id1227711796920">
+			<!-- PC related summary IDs: 1227711796920 -->
+			<!-- PC related summary IDs: 1227711796920 -->
+	<!-- PC related summary IDs: 1227711796920 -->
 		<h4 class="heading">
-			      <a href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757" >Five most glaring Oscar nomination snubs</a>
+			      <a href="/entertainment/books/cristiano-ronaldo-alessandra-ambrosio-strip-for-gq-cover/story-fni0b82n-1227711796920" >Ronaldo, Ambrosio strip for sexy cover</a>
 		</h4>
-					<a href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/082050-99244f90-baf2-11e5-997c-b9b199a184a0.jpg" alt="Five most glaring Oscar nomination snubs"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : es_ES. Locale from Response : en_US -->
+					<a href="/entertainment/books/cristiano-ronaldo-alessandra-ambrosio-strip-for-gq-cover/story-fni0b82n-1227711796920" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/18/1227712/557795-aa631530-bd53-11e5-997c-b9b199a184a0.jpg" alt="Ronaldo, Ambrosio strip for sexy cover"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
 	<p class="standfirst">
-				AS USUAL, it&#8217;s the names that weren&#8217;t called out that have tongues wagging. Here are the five most glaring Oscar snubs of the year.
+				CRISTIANO Ronaldo and Victoria Secret Angel Alessandra Ambrosio have stripped off for GQ and revealed some pretty fit bodies.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/entertainment" class="interactive" >Oscars</a>
+					<a href="/entertainment/books" >Books &amp; Magazines</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
-				<li class="first video video-count-1 lipos-1 lirpos-1">
-					<a title="This story has 1 video" href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757">
-						<span class="count">1</span> video
-					</a>
-					 <ul class="related-media-items">
-					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
-						 		<a href="http://dailytelegraph.com.au/video/id-VlOHU2MDE6hkd3N8mx0GOB9tmZ_vyhTV/Oscar-Nominations-Black-Actors-and-Directors-Shut-Out" >
-						 					Oscar Nominations Black Actors and Directors Shut Out
-						 		</a>
-						        	<span class="time">4:19</span>
-					 		</li>
-					 </ul>
-				</li>
-					 <li class="comments">
-					  <a href="/entertainment/oscar-nominations-the-five-biggest-snubs/story-fni0brao-1227709681757">
-						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227709681757"></span>
-					 </a>
-					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227709681757 -->
-			</div> <!-- // .story-block   pos-5 rpos-1 id1227709681757 -->
+	<!-- PC related summary IDs: 1227711796920 -->
+			</div> <!-- // .story-block   pos-5 rpos-1 id1227711796920 -->
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
 			</div><!-- // .item ipos-1 irpos-1 -->
@@ -1367,7 +1300,7 @@ siteName = "Herald_Sun";
 </div><!-- // .group -->
 
 				
-<!-- [Group:1226490379154] on [fwprodcontent04.ni.news.com.au] @ [January 16, 2016 2:18AM] -->
+<!-- [Group:1226490379154] on [fwprodcontent07.ni.news.com.au] @ [January 18, 2016 9:16AM] -->
 <div class="group   text-g-nn-web-group-ad-medrec-pos2 item-count-1  group-id-1226490379154">
 <!-- TTL:30m -->
 		<div class="group-content">
@@ -1380,7 +1313,7 @@ siteName = "Herald_Sun";
 </div><!-- // .group -->
 
 				
-<!-- [Group:1226490375239] on [fwprodcontent07.ni.news.com.au] @ [January 16, 2016 2:14AM] -->
+<!-- [Group:1226490375239] on [fwprodcontent03.ni.news.com.au] @ [January 18, 2016 9:04AM] -->
 <div class="group   text-g-sponsored-links item-count-1  group-id-1226490375239">
 <!-- TTL:30m -->
 		<div class="group-header">
@@ -1398,7 +1331,7 @@ siteName = "Herald_Sun";
 			</div><!-- // #content-3 -->
 			<div id="content-5">
 				
-<!-- [Group:1226582018303] on [fwprodcontent08.ni.news.com.au] @ [January 16, 2016 2:07AM] -->
+<!-- [Group:1226582018303] on [fwprodcontent06.ni.news.com.au] @ [January 18, 2016 8:52AM] -->
 <div class="group section-dash   text-g-dt-nn-web-group-sectiondash item-count-3  group-id-1226582018303">
 <!-- TTL:30m -->
 		<div class="group-content">
@@ -1410,39 +1343,34 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block    sectionref-news sbpos-1 sbrpos-1 id1227710922097">
-			<!-- PC related summary IDs: 1227710922097 -->
-			<!-- PC related summary IDs: 1227710922097 -->
-	<!-- PC related summary IDs: 1227710922097 -->
+			<div class="story-block    sectionref-news sbpos-1 sbrpos-1 id1227712501890">
+			<!-- PC related summary IDs: 1227712501890 -->
+			<!-- PC related summary IDs: 1227712501890 -->
+	<!-- PC related summary IDs: 1227712501890 -->
 		<h4 class="heading">
-			      <a href="/news/nsw/malcolm-turnbull-told-its-dangerous-to-attend-mardi-gras/story-fni0cx12-1227710922097" >PM warned of Mardi Gras &#8216;danger&#8217;</a>
+			      <a href="/news/world/brekkie-wrap-mum-placed-on-sex-offender-register-after-sharing-revenge-porn-videos/story-fni0xs63-1227712501890" >Girlfriend&#8217;s revenge porn scandal</a>
 		</h4>
-					<a href="/news/nsw/malcolm-turnbull-told-its-dangerous-to-attend-mardi-gras/story-fni0cx12-1227710922097" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/15/1227710/938556-5e0c4acc-bb6d-11e5-9f3a-2f7ada85c668.jpg" alt="PM warned of Mardi Gras ‘danger’"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+					<a href="/news/world/brekkie-wrap-mum-placed-on-sex-offender-register-after-sharing-revenge-porn-videos/story-fni0xs63-1227712501890" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/18/1227712/501670-63fa4664-bd11-11e5-997c-b9b199a184a0.jpg" alt="Supplied Lorraine Donoghue, Wullie Crawford. Picture: Facebook"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : fr. Locale from Response : en_US -->
 	<p class="standfirst">
-				MALCOLM Turnbull has downplayed reports that he would become the first sitting PM to attend the iconic gay and lesbian Mardi Gras festival.
+				BREKKIE WRAP: When a woman shared explicit snaps of her cheating boyfriend, she didn&#8217;t think she&#8217;d be the one facing punishment.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/news/nsw" >NSW</a>
+					<a href="/news/world" >World</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
-					 <li class="comments">
-					  <a href="/news/nsw/malcolm-turnbull-told-its-dangerous-to-attend-mardi-gras/story-fni0cx12-1227710922097">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710922097"></span>
-					 </a>
-					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227710922097 -->
-			</div> <!-- // .story-block   pos-1 rpos-1 id1227710922097 -->
-			<!-- PC related IDs: 1227710806472 -->
-			<!-- PC related IDs: 1227710899040 -->
+	<!-- PC related summary IDs: 1227712501890 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227712501890 -->
+			<!-- PC related IDs: 1227712325665 -->
+			<!-- PC related IDs: 1227712006402 -->
 				<ul class="related related-content ">
-								<li class="story   first  lipos-1   "><a href="/entertainment/sydney-confidential/quentin-tarantino-kurt-russell-and-samuel-l-jackson-stop-off-at-catelina/story-fni0cvc9-1227710806472" > Plateful Eight stars&#8217; day out in Rose Bay </a></li>
-								<li class="story    last lipos-2  prm prm-story  "><a href="/news/nsw/shooters-and-fishers-mp-theres-a-target-on-my-back/story-fni0cx12-1227710899040" > Shooter MP: There&#8217;s a target on my back </a></li>
+								<li class="story   first  lipos-1  prm prm-story  "><a href="/news/nsw/ugly-buildings-in-government-sights-new-style-guide-will-protect-communities/story-fni0cx12-1227712325665" > Sydney wages war on ugly buildings </a></li>
+								<li class="story    last lipos-2   "><a href="/sex-dungeon-where-swedish-fritzl-doc-imprisoned-drugged-and-raped-woman-he-planned-to-keep-as-a-slave-for-years/story-e6freuy9-1227712006402" > Inside &#8216;Sweden&#8217;s Fritzl&#8217; sex dungeon  </a></li>
 				</ul>
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
@@ -1453,39 +1381,34 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block    sectionref-business sbpos-1 sbrpos-1 id1227710756498">
-			<!-- PC related summary IDs: 1227710756498 -->
-			<!-- PC related summary IDs: 1227710756498 -->
-	<!-- PC related summary IDs: 1227710756498 -->
+			<div class="story-block    sectionref-business sbpos-1 sbrpos-1 id1227712614559">
+			<!-- PC related summary IDs: 1227712614559 -->
+			<!-- PC related summary IDs: 1227712614559 -->
+	<!-- PC related summary IDs: 1227712614559 -->
 		<h4 class="heading">
-			      <a href="/business/companies/bhp-billiton-writes-down-value-of-us-shale-oil-assets/story-fnkjk9kq-1227710756498" >Oil slump costs BHP, asset values slashed</a>
+			      <a href="/business/markets/finance-news-you-need-to-know-today/story-fni0d7jf-1227712614559" >Finance news you need to know today</a>
 		</h4>
-					<a href="/business/companies/bhp-billiton-writes-down-value-of-us-shale-oil-assets/story-fnkjk9kq-1227710756498" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2016/01/15/1227710/946369-2c600cb8-bb57-11e5-997c-b9b199a184a0.jpg" alt="Oil slump costs BHP, asset values slashed"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+					<a href="/business/markets/finance-news-you-need-to-know-today/story-fni0d7jf-1227712614559" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2016/01/18/1227712/611887-c95f3dc6-bd5b-11e5-9734-964735e5a545.jpg" alt="*** BESTPIX *** Divisional Round - Seattle Seahawks v Carolina Panthers"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : fr. Locale from Response : en_US -->
 	<p class="standfirst">
-				MINING giant BHP Billiton will write down the value of its US shale assets by $10.3 billion amid collapsing oil and gas prices and a gloomy short term outlook.
+				MARKETS are in for another wild day after Wall Street fell sharply, with the S&amp;P 500 sinking to its lowest level since October 2014.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/business/companies" >Mining</a>
+					<a href="/business/markets" >Markets</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
-					 <li class="comments">
-					  <a href="/business/companies/bhp-billiton-writes-down-value-of-us-shale-oil-assets/story-fnkjk9kq-1227710756498">
-						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227710756498"></span>
-					 </a>
-					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227710756498 -->
-			</div> <!-- // .story-block   pos-1 rpos-1 id1227710756498 -->
-			<!-- PC related IDs: 1227710428731 -->
-			<!-- PC related IDs: 1227708756911 -->
+	<!-- PC related summary IDs: 1227712614559 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227712614559 -->
+			<!-- PC related IDs: 1227712599058 -->
+			<!-- PC related IDs: 1227712592644 -->
 				<ul class="related related-content ">
-								<li class="story   first  lipos-1   "><a href="/business/companies/melbourne-woman-cops-storm-of-abuse-over-infant-formula-offer/story-fnkjkokq-1227710428731" > &#8216;Making a little profit isn&#8217;t illegal&#8217; </a></li>
-								<li class="story    last lipos-2   "><a href="/business/record-powerball-winnings-split-three-ways/story-fni0d2cq-1227708756911" > Best boss bought nurse winning ticket <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story   first  lipos-1   "><a href="/business/markets/australian-market-set-to-open-lower/story-fni0d7jf-1227712599058" > Australian market set to open lower <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/business/small-business/from-employee-to-franchisee-with-an-appetite-for-business/story-fni0d9qo-1227712592644" > 22-year-old with 20 employees </a></li>
 				</ul>
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
@@ -1498,39 +1421,47 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block    sectionref-sport sbpos-1 sbrpos-1 id1227711040935">
-			<!-- PC related summary IDs: 1227711040935 -->
-			<!-- PC related summary IDs: 1227711040935 -->
-	<!-- PC related summary IDs: 1227711040935 -->
+			<div class="story-block   has-video sectionref-sport sbpos-1 sbrpos-1 id1227712606561">
+			<!-- PC related summary IDs: 1227712606561 -->
+			<!-- PC related summary IDs: 1227712606561 -->
+	<!-- PC related summary IDs: 1227712606561 -->
 		<h4 class="heading">
-			      <a href="/sport/basketball/kings-import-josh-childress-endures-a-difficult-return-to-wa-as-perth-wildcats-snap-three-game-skid/story-fni2fljn-1227711040935" >Childress&#8217;s nightmare return to WA</a>
+			      <a href="/sport/us-sports/two-australians-on-nbas-dirty-list/story-fnp542pi-1227712606561" >&#8216;It&#8217;s not OK. He&#8217;s as dirty as they come&#8217;</a>
 		</h4>
-					<a href="/sport/basketball/kings-import-josh-childress-endures-a-difficult-return-to-wa-as-perth-wildcats-snap-three-game-skid/story-fni2fljn-1227711040935" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/16/1227711/078776-a52e1ec2-bb85-11e5-9734-964735e5a545.jpg" alt="Childress’s nightmare return to WA"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+					<a href="/sport/us-sports/two-australians-on-nbas-dirty-list/story-fnp542pi-1227712606561" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/18/1227712/641362-23f40ace-bd56-11e5-9734-964735e5a545.jpg" alt="2015 NBA Finals - Game Five"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : fr. Locale from Response : en_US -->
 	<p class="standfirst">
-				JOSH Childress was booed mercilessly in his first game back in WA since his infamous forearm on Jesse Wagstaff as the Wildcats snapped a three-game skid.
+				IT&#8217;S a fine line between dirty and scrappy and Australia&#8217;s Matthew Dellavedova appears to have crossed it. It&#8217;s not the only one, either.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/sport/basketball" class="sport-tier-3" >Basketball</a>
+					<a href="/sport/us-sports" >US Sports</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
-					 <li class="comments">
-					  <a href="/sport/basketball/kings-import-josh-childress-endures-a-difficult-return-to-wa-as-perth-wildcats-snap-three-game-skid/story-fni2fljn-1227711040935">
-						 <span class="livefyre-commentcount" data-lf-site-id="342833" data-lf-article-id="FW1227711040935"></span>
-					 </a>
-					</li>
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/sport/us-sports/two-australians-on-nbas-dirty-list/story-fnp542pi-1227712606561">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-9zdTg4MDE6mKclSBbTjkcW3QfgzbZirq/Delly-helps-Cavs-in-Houston" >
+						 					Delly helps Cavs in Houston
+						 		</a>
+						        	<span class="time">0:29</span>
+					 		</li>
+					 </ul>
+				</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227711040935 -->
-			</div> <!-- // .story-block   pos-1 rpos-1 id1227711040935 -->
-			<!-- PC related IDs: 1227710940064 -->
-			<!-- PC related IDs: 1227710766386 -->
+	<!-- PC related summary IDs: 1227712606561 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227712606561 -->
+			<!-- PC related IDs: 1227712645306 -->
+			<!-- PC related IDs: 1227712021450 -->
 				<ul class="related related-content ">
-								<li class="story   first  lipos-1   "><a href="/sport/football/melbourne-victory-smashes-brisbane-roar-in-a-league-clash-at-aami-park/story-fnk6pqot-1227710940064" > Victory smashes Roar to continue resurgence <span class="video" title="This story contains video."></span> </a></li>
-								<li class="story    last lipos-2   "><a href="/sport/football/stefan-nigro-realises-his-dream-by-making-debut-for-club-he-supports-melbourne-victory/story-fnk6pqot-1227710766386" > Boyhood Victory fan realises his dream <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story   first  lipos-1   "><a href="/sport/cricket/australia-includes-two-debutants-and-several-old-hands-in-t20-squad-for-india-series/story-fni2fnmo-1227712645306" > Mass changes in new-look Aussie squad <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/sport/cricket/glenn-maxwell-comes-of-age-with-brilliant-96-to-guide-australia-to-a-clutch-three-wicket-win-over-india-at-the-mcg/story-fni2fnmo-1227712021450" > Maxwell smashes India&#8217;s ODI hopes <span class="video" title="This story contains video."></span> </a></li>
 				</ul>
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
@@ -1541,34 +1472,34 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block    sectionref-entertainment sbpos-1 sbrpos-1 id1227711085630">
-			<!-- PC related summary IDs: 1227711085630 -->
-			<!-- PC related summary IDs: 1227711085630 -->
-	<!-- PC related summary IDs: 1227711085630 -->
+			<div class="story-block    sectionref-entertainment sbpos-1 sbrpos-1 id1227712649460">
+			<!-- PC related summary IDs: 1227712649460 -->
+			<!-- PC related summary IDs: 1227712649460 -->
+	<!-- PC related summary IDs: 1227712649460 -->
 		<h4 class="heading">
-			      <a href="/entertainment/celebrity/birthday-boy-orlando-bloom-cosy-with-selena-gomez/story-fnk82e9v-1227711085630" >Birthday boy Bloom cosy with Gomez</a>
+			      <a href="/entertainment/television/jessica-jones-renewed-for-second-season/story-fni0cc2c-1227712649460" >Netflix brings back Jessica Jones </a>
 		</h4>
-					<a href="/entertainment/celebrity/birthday-boy-orlando-bloom-cosy-with-selena-gomez/story-fnk82e9v-1227711085630" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/16/1227711/083384-5108b884-bb94-11e5-9734-964735e5a545.jpg" alt="Supplied Selena Gomez cuddling up to Orlando Bloom"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+					<a href="/entertainment/television/jessica-jones-renewed-for-second-season/story-fni0cc2c-1227712649460" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/18/1227712/649350-2491d79a-bd60-11e5-997c-b9b199a184a0.jpg" alt="1"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : fr. Locale from Response : en_US -->
 	<p class="standfirst">
-				HE was spotted flirting with Katy Perry earlier this week. Now, Orlando Bloom is set to make his nemesis Justin Bieber jealous by cosying up to his ex.
+				JESSICA Jones is coming back in a second season of the highly acclaimed show that had fans and critics hooked.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/entertainment/celebrity" class="interactive" >Hook Ups</a>
+					<a href="/entertainment/television" >TV</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227711085630 -->
-			</div> <!-- // .story-block   pos-1 rpos-1 id1227711085630 -->
-			<!-- PC related IDs: 1227709902724 -->
-			<!-- PC related IDs: 1227709592723 -->
+	<!-- PC related summary IDs: 1227712649460 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227712649460 -->
+			<!-- PC related IDs: 1227712459999 -->
+			<!-- PC related IDs: 1227711796920 -->
 				<ul class="related related-content ">
-								<li class="story   first  lipos-1   "><a href="/entertainment/leonardo-dicaprio-responds-to-awkward-golden-globes-moment-with-gaga/story-fni0bq8v-1227709902724" > Leo on that awkward Globes moment <span class="video" title="This story contains video."></span> </a></li>
-								<li class="story    last lipos-2   "><a href="/entertainment/celebrity/harry-potter-star-alan-rickman-dead-at-69/story-fni0bn79-1227709592723" > Cancer crept up on Rickman  <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story   first  lipos-1   "><a href="/entertainment/celebrity/matthew-perrys-strange-tv-appearance-sparks-concern-among-friends-fans/story-fni0bn79-1227712459999" > Perry&#8217;s &#8216;strange&#8217; TV appearance <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/entertainment/books/cristiano-ronaldo-alessandra-ambrosio-strip-for-gq-cover/story-fni0b82n-1227711796920" > Ronaldo, Ambrosio strip for sexy cover </a></li>
 				</ul>
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
@@ -1581,52 +1512,52 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block prm prm-story   has-video sectionref-sport sbpos-1 sbrpos-1 id1227710660735">
-			<!-- PC related summary IDs: 1227710660735 -->
-			<!-- PC related summary IDs: 1227710660735 -->
-	<!-- PC related summary IDs: 1227710660735 -->
+			<div class="story-block   has-video sectionref-sport sbpos-1 sbrpos-1 id1227712093990">
+			<!-- PC related summary IDs: 1227712093990 -->
+			<!-- PC related summary IDs: 1227712093990 -->
+	<!-- PC related summary IDs: 1227712093990 -->
 		<h4 class="heading">
-			      <a href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735" class="prm prm-story" >Why Hayne will thrive under Chip Kelly</a>
+			      <a href="/sport/nrl/jack-bird-tipped-for-nsw-state-of-origin-duties-if-he-can-answer-sharks-coach-shane-flanagans-challenge/story-fni3fqyo-1227712093990" >Sharks coach tips young gun for Origin</a>
 		</h4>
-					<a href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735" class="prm prm-story thumb-link" ><img data-src="http://resources2.news.com.au/images/2016/01/15/1227710/660598-6dacbc78-bb4a-11e5-9734-964735e5a545.jpg" alt="Miami Dolphins v Philadelphia Eagles"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+					<a href="/sport/nrl/jack-bird-tipped-for-nsw-state-of-origin-duties-if-he-can-answer-sharks-coach-shane-flanagans-challenge/story-fni3fqyo-1227712093990" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/17/1227712/090332-10c2b6e2-bcc2-11e5-9734-964735e5a545.jpg" alt="NRL: Roosters v Sharks"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : fr. Locale from Response : en_US -->
 	<p class="standfirst">
-				JARRYD Hayne has been tipped to thrive under the dictatorial style of new San Francisco coach Chip Kelly.
+				COMPETITION for spots has made players &#8220;pull their finger out&#8221; at Cronulla training &#8212; and maybe helped Jack Bird put his hand up for Origin duty.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/sport/more-sports" >Other Sports</a>
+					<a href="/sport/nrl/state-of-origin" >Blues</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
 				<li class="first video video-count-1 lipos-1 lirpos-1">
-					<a title="This story has 1 video" href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735">
+					<a title="This story has 1 video" href="/sport/nrl/jack-bird-tipped-for-nsw-state-of-origin-duties-if-he-can-answer-sharks-coach-shane-flanagans-challenge/story-fni3fqyo-1227712093990">
 						<span class="count">1</span> video
 					</a>
 					 <ul class="related-media-items">
 					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
-						 		<a href="http://dailytelegraph.com.au/video/id-dtMTY3MDE6K79vlOppDIFaWOawkFztcZ/Cam-Inman-Chip-Kelly-is-Good-News-for-Jarryd-Hayne" >
-						 					Cam Inman Chip Kelly is Good News for Jarryd Hayne
+						 		<a href="http://dailytelegraph.com.au/video/id-AxMTg4MDE6_3aWwQWa6EcQS1o95iszHD/Copley-bound-for-Bondi" >
+						 					Copley bound for Bondi
 						 		</a>
-						        	<span class="time">2:59</span>
+						        	<span class="time">0:27</span>
 					 		</li>
 					 </ul>
 				</li>
 					 <li class="comments">
-					  <a href="/sport/more-sports/jarryd-hayne-tipped-to-thrive-under-new-san-francisco-coach-chip-kelly/story-fni2frsp-1227710660735">
-						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227710660735"></span>
+					  <a href="/sport/nrl/jack-bird-tipped-for-nsw-state-of-origin-duties-if-he-can-answer-sharks-coach-shane-flanagans-challenge/story-fni3fqyo-1227712093990">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227712093990"></span>
 					 </a>
 					</li>
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227710660735 -->
-			</div> <!-- // .story-block prm prm-story   pos-1 rpos-1 id1227710660735 -->
-			<!-- PC related IDs: 1227710059971 -->
-			<!-- PC related IDs: 1227709976063 -->
+	<!-- PC related summary IDs: 1227712093990 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227712093990 -->
+			<!-- PC related IDs: 1227711554580 -->
+			<!-- PC related IDs: 1227711608338 -->
 				<ul class="related related-content ">
-								<li class="story   first  lipos-1   "><a href="/sport/nrl/cronulla-sharks-youngster-jack-bird-signs-contract-extension-with-club/story-fni3gol8-1227710059971" > Bird extends Sharks deal ahead of fullback battle  <span class="video" title="This story contains video."></span> </a></li>
-								<li class="story    last lipos-2  prm prm-story  "><a href="/sport/nrl/nrl-supercoach-2016-player-prices-and-positions-winners-and-losers-revealed/story-fni3fs14-1227709976063" > SuperCoach: Exclusive peek at prices <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story   first  lipos-1  prm prm-story  "><a href="/sport/nrl/robbie-farah-will-not-play-in-nrl-all-stars-because-after-winning-tickets-to-super-bowl-50/story-fni3gpz1-1227711554580" > Farah ditches All Stars for Super Bowl </a></li>
+								<li class="story    last lipos-2  prm prm-story  "><a href="/sport/nrl/dale-copleys-roosters-deal-to-trigger-more-nrl-off-season-player-transfers/story-fni3fbgz-1227711608338" > Copley deal to trigger more transfers <span class="video" title="This story contains video."></span> </a></li>
 				</ul>
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
@@ -1637,34 +1568,34 @@ siteName = "Herald_Sun";
 			</div>
 			<!-- // .module-header -->
 			<div class="module-content ">
-			<div class="story-block    sectionref-lifestyle sbpos-1 sbrpos-1 id1227711040536">
-			<!-- PC related summary IDs: 1227711040536 -->
-			<!-- PC related summary IDs: 1227711040536 -->
-	<!-- PC related summary IDs: 1227711040536 -->
+			<div class="story-block    sectionref-lifestyle sbpos-1 sbrpos-1 id1227712532780">
+			<!-- PC related summary IDs: 1227712532780 -->
+			<!-- PC related summary IDs: 1227712532780 -->
+	<!-- PC related summary IDs: 1227712532780 -->
 		<h4 class="heading">
-			      <a href="/lifestyle/parenting/trinity-grammar-parents-rocked-by-sexual-abuse-among-year-one-boys/story-fni0dp2y-1227711040536" >Trinity Grammar reels over sex claims</a>
+			      <a href="/lifestyle/health/seven-small-diet-changes-that-will-make-a-huge-difference/story-fni0dihe-1227712532780" >Seven easy weight loss tricks</a>
 		</h4>
-					<a href="/lifestyle/parenting/trinity-grammar-parents-rocked-by-sexual-abuse-among-year-one-boys/story-fni0dp2y-1227711040536" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/15/1227711/040708-33c1436e-bb3e-11e5-9f3a-2f7ada85c668.jpg" alt="Trinity Grammar Scene Pix"  class="thumbnail"  width="100"  height="75"  /></a>
-    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+					<a href="/lifestyle/health/seven-small-diet-changes-that-will-make-a-huge-difference/story-fni0dihe-1227712532780" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2016/01/18/1227712/576320-d66cb760-bb39-11e5-997c-b9b199a184a0.jpg" alt="Seven easy weight loss tricks"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : fr. Locale from Response : en_US -->
 	<p class="standfirst">
-				A BOY has been removed from Sydney&#8217;s Trinity Grammar school and at least eight others offered counselling after a string of sexual abuses among the Year One boys.
+				HERE&#8217;S a secret about weight loss: you don&#8217;t need an extremely restrictive diet to shed kilos. Here are seven much better ideas.
 	</p> <!-- // .standfirst11 -->
 		<div class="storyblock-footer">
 				<span class="section">
-					<a href="/lifestyle/parenting" class="sectionref-kidspot block-header-highlight" >School Life</a>
+					<a href="/lifestyle/health" class="block-header-highlight" >Nutrition</a>
 				</span>
 				<span class="share"></span>
 			<span class="bookmark"></span>
 		<ul class="related related-media">
 		</ul>
 		</div>
-	<!-- PC related summary IDs: 1227711040536 -->
-			</div> <!-- // .story-block   pos-1 rpos-1 id1227711040536 -->
-			<!-- PC related IDs: 1227710884050 -->
-			<!-- PC related IDs: 1227710800039 -->
+	<!-- PC related summary IDs: 1227712532780 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227712532780 -->
+			<!-- PC related IDs: 1227712425699 -->
+			<!-- PC related IDs: 1227712467175 -->
 				<ul class="related related-content ">
-								<li class="story   first  lipos-1   "><a href="/lifestyle/relationships/is-fomosexuality-destroying-your-sex-life/story-fni0dqla-1227710884050" > Is fomosexuality ruining your sex life? </a></li>
-								<li class="story    last lipos-2   "><a href="/lifestyle/health/top-5-tips-to-stay-healthy-and-fit/story-fni0dihe-1227710800039" > Top 5 tips to stay healthy and fit </a></li>
+								<li class="story   first  lipos-1   "><a href="/technology/mum-placed-on-sex-offender-register-after-sharing-revenge-porn-videos-of-cheating-boyfriend/story-fnjwnord-1227712425699" > Mum&#8217;s revenge porn shame </a></li>
+								<li class="story    last lipos-2   "><a href="/lifestyle/relationships/lawyer-dean-strang-is-americas-most-reluctant-sex-symbol/story-fni0dpr8-1227712467175" > &#8216;They think I&#8217;m a sex symbol&#8217; </a></li>
 				</ul>
 			</div> <!-- // .module-content -->
 		</div> <!-- // .module .collection -->
@@ -1673,7 +1604,7 @@ siteName = "Herald_Sun";
 </div><!-- // .group -->
 
 				
-<!-- [Group:1226692865864] on [fwprodcontent08.ni.news.com.au] @ [January 16, 2016 2:23AM] -->
+<!-- [Group:1226692865864] on [fwprodcontent09.ni.news.com.au] @ [January 18, 2016 9:08AM] -->
 <div class="group full daily-deals   text-g-dt-web-group-affiliates-footer item-count-1  group-id-1226692865864">
 <!-- TTL:10m -->
 		<div class="group-content">
@@ -2192,7 +2123,7 @@ siteName = "Herald_Sun";
     </div><!-- //.footer-content -->
 </div>
     <div id="resources">
-	<!-- Page includes [1226616041335:null] last generated at Sat Jan 16 02:30:23 EST 2016 -->
+	<!-- Page includes [1226616041335:null] last generated at Mon Jan 18 09:16:35 EST 2016 -->
 <!-- page include -->
 <!-- Resource Included [{id=1226866162096, type=News_Stylesheet}, {id=1226886312627, type=News_Javascript}, {id=1226866180869, type=News_Stylesheet}, {id=1226866162383, type=News_Stylesheet}, {id=1226866164977, type=News_Stylesheet}, {id=1226587868739, type=News_Javascript}, {id=1226592477047, type=News_Javascript}, {id=1226866449412, type=News_Javascript}, {id=1226595896129, type=News_Javascript}, {id=1226587862069, type=News_Javascript}, {id=1226587860996, type=News_Javascript}, {id=1227090210716, type=News_Javascript}, {id=1227510996395, type=News_Resources_Group}, {id=1226641054873, type=News_Javascript}, {id=1226641835083, type=News_Stylesheet}, {id=1226866522182, type=News_Stylesheet}, {id=1226766829025, type=News_Javascript}, {id=1226858257711, type=News_Javascript}, {id=1226766829929, type=News_Javascript}, {id=1226680662899, type=News_Javascript}, {id=1227092763081, type=News_Javascript}, {id=1226645345887, type=News_Stylesheet}, {id=1226656244662, type=News_Javascript}, {id=1226704318792, type=News_Javascript}, {id=1226779697549, type=News_Javascript}, {id=1226964682752, type=News_Javascript}]-->
 <!-- Resource Included [{id=1227510987125, type=News_Javascript}, {id=1227510967052, type=News_Stylesheet}]-->

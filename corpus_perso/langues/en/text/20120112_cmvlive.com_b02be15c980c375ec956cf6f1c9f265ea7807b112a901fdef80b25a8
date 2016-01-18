@@ -98,7 +98,7 @@ ga('set', {
 'dimension3': "Litigation / Medical Malpractice",
 'dimension5': "older",
 'dimension6': "desktop",
-'dimension8': "3"
+'dimension8': "4"
 });
 
 		var viewportWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
@@ -838,7 +838,7 @@ googletag.cmd.push(function() {
 
 
 <div class="print">
-<a href="?print=a2ff86725526f715edd0e42ee5b2fba1" rel="nofollow" title="View print preview" target="_blank"></a>
+<a href="?print=313a15d61e33ec1764358d5c2dd73154" rel="nofollow" title="View print preview" target="_blank"></a>
 </div>
 
 </div><!-- /toolbox -->
@@ -1024,7 +1024,7 @@ googletag.cmd.push(function() {
             <a href="/email-an-article/240222" rel="nofollow" title="email this article">email</a>
             </span>
         </div>        
-		        <div class="print">			            <a href="?print=a2ff86725526f715edd0e42ee5b2fba1" rel="nofollow" title="View print preview" target="_blank"><span class="toolbox_label">print</span></a>
+		        <div class="print">			            <a href="?print=313a15d61e33ec1764358d5c2dd73154" rel="nofollow" title="View print preview" target="_blank"><span class="toolbox_label">print</span></a>
         </div>        
 
     </div>
@@ -1113,7 +1113,7 @@ target="_blank" rel="nofollow">the Washington Post</a>
 		
 				
 		<p><strong>MLA</strong><br />
-		Paddock, Catharine. "Researcher Who Studied Benefits Of Red Wine Falsified Data Says University." <i>Medical News Today</i>. MediLexicon, Intl., 12 Jan. 2012. Web.<br>15 Jan. 2016. &lt;http://www.medicalnewstoday.com/articles/240222.php&gt;		</p>
+		Paddock, Catharine. "Researcher Who Studied Benefits Of Red Wine Falsified Data Says University." <i>Medical News Today</i>. MediLexicon, Intl., 12 Jan. 2012. Web.<br>17 Jan. 2016. &lt;http://www.medicalnewstoday.com/articles/240222.php&gt;		</p>
 		
 		<hr size="1" />
 		
@@ -1817,6 +1817,7 @@ googletag.cmd.push(function() {
 										<option value="/articles/246615.php">Yeast infection (male)</option>
 										<option value="/articles/174372.php">Yellow Fever</option>
 										<option value="/articles/188100.php">Yips</option>
+										<option value="/articles/305163.php">Zika virus</option>
 										<option value="/articles/186793.php">Zollinger-Ellison Syndrome</option>
 							</select>
 		</form>
@@ -1835,41 +1836,41 @@ googletag.cmd.push(function() {
 	<div class="suggested_reading_container ">
 				<div class='suggested_reading_inner column1'>
 				<div class='suggested_item'>
-		<a href="/articles/194962.php?sr" title="Nanoscopic Bead Technology Cuts Years From Drug Development">
+		<a href="/articles/242027.php?sr" title="Close Contact With Rodents Is A Health Hazard">
 		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/pharma_industry/thumbs/image1.jpg" alt="" />
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/infectious_diseases/thumbs/image3.jpg" alt="" />
 		</div>
-		<span>Nanoscopic Bead Technology Cuts Years From Drug Development</span>
+		<span>Close Contact With Rodents Is A Health Hazard</span>
 		</a>
 	</div>
 				</div>
 						<div class='suggested_reading_inner column2'>
 				<div class='suggested_item'>
-		<a href="/articles/245357.php?sr" title="Tinnitus Key Cellular Mechanisms Identified">
+		<a href="/articles/244716.php?sr" title="Psychotic Disorders And Mood Impacted By Impaired Mitochondrial Function">
 		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/hearing-deafness/thumbs/image2.jpg" alt="" />
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/psychology-psychiatry/thumbs/image2.jpg" alt="" />
 		</div>
-		<span>Tinnitus Key Cellular Mechanisms Identified</span>
+		<span>Psychotic Disorders And Mood Impacted By Impaired Mitochondrial Function</span>
 		</a>
 	</div>
 				</div>
 						<div class='suggested_reading_inner column3'>
 				<div class='suggested_item'>
-		<a href="/articles/197898.php?sr" title="New Target For Ovarian Cancer Found In Cell Division Protein">
+		<a href="/articles/278906.php?sr" title="Lab-grown mini beating human hearts 'may lead to a cure for heart disease'">
 		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/ovarian_cancer/thumbs/image2.jpg" alt="" />
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/images/headlines/278/278906/drug-targets-heart-cells.jpg" alt="" />
 		</div>
-		<span>New Target For Ovarian Cancer Found In Cell Division Protein</span>
+		<span>Lab-grown mini beating human hearts 'may lead to a cure for heart disease'</span>
 		</a>
 	</div>
 				</div>
 						<div class='suggested_reading_inner column4'>
 				<div class='suggested_item'>
-		<a href="/articles/45853.php?sr" title="Lightning Can Zap Mobile Phone Users">
+		<a href="/articles/237466.php?sr" title="MMR Fraud, Wakefield's Co-Authors - Parliamentary Enquiry Urged By BMJ">
 		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/public_health/thumbs/image2.jpg" alt="" />
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/autism/thumbs/image3.jpg" alt="" />
 		</div>
-		<span>Lightning Can Zap Mobile Phone Users</span>
+		<span>MMR Fraud, Wakefield's Co-Authors - Parliamentary Enquiry Urged By BMJ</span>
 		</a>
 	</div>
 				</div>
@@ -2013,7 +2014,7 @@ twttr.conversion.trackPid('l4bfr');
 }(document, 'script', 'facebook-jssdk'));</script>
 
 	
-	<iframe src="/structure/framework/counters/counters.php?e=f172d40a0ef7820e4a7c2200b914f740&a=240222&ad=20120112&t=written&t2=&ac=96&c=96&u=1&d=0" style="display:none;"></iframe>
+	<iframe src="/structure/framework/counters/counters.php?e=47f0fc12e172e9ea721a3698a6a60666&a=240222&ad=20120112&t=written&t2=&ac=96&c=96&u=1&d=0" style="display:none;"></iframe>
 	 
 
 	<script>

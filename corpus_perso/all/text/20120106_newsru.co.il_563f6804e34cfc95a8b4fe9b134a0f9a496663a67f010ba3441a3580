@@ -167,12 +167,12 @@ if(js>11)d.write('--'+'>')//--></script>
 <div class="aux-container">
 
     <div class="left-column">
-	<div class="date">15 января 2016 г.<span id="tm"></span></div>
-	<!-- 15 января 2016 г. -->
+	<div class="date">17 января 2016 г.<span id="tm"></span></div>
+	<!-- 17 января 2016 г. -->
 	<div class="clock com" id="clock"></div>
-	<script>new Clock('clock', '17:43:16')</script>
-	<!-- 16:13:37 -->
-	<div class="last"><a href="/sport/15jan2016/vinicius912.html" class="lastupdate">последняя новость: 17:35</a></div>
+	<script>new Clock('clock', '22:57:32')</script>
+	<!-- 15:48:8 -->
+	<div class="last"><a href="/mideast/17jan2016/iran_0016.html" class="lastupdate">последняя новость: 22:33</a></div>
 
 	<ul class="main-menu">
 
@@ -532,6 +532,11 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/715/prep
 <div class="testnews">
 
 <div>
+    <u>15:13</u>
+    <a href="/health/17jan2016/karmel_001.html">Приемное отделение больницы "Кармель" в Хайфе заполнено на 220%</a>
+</div>
+
+<div>
     <u>18:25</u>
     <a href="/health/14jan2016/vodka_rasputin_004.html">Минздрав: "Водка Распутин" опасна для здоровья</a>
 </div>
@@ -574,11 +579,6 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/715/prep
 <div>
     <u>16:44</u>
     <a href="/health/11jan2016/ems_005.html">Минздрав запретил использовать в спортзалах "тренажеры для ленивых"</a>
-</div>
-
-<div>
-    <u>15:43</u>
-    <a href="/health/11jan2016/exercise_s001.html">Ученые: использование видео-тренировок может негативно сказаться на здоровье</a>
 </div>
 
 </div>
@@ -907,7 +907,7 @@ width=88 height=31 alt=""></a><!--/LiveInternet-->
 </noindex></div>
 
 <div class="p">
-<b>Пятница, 15 января 2016 г.</b>
+<b>Воскресенье, 17 января 2016 г.</b>
 </div>
 
 <div class="p">
@@ -959,6 +959,6 @@ width=88 height=31 alt=""></a><!--/LiveInternet-->
 </div>
 
 
-<!--  tdt Fri Jan 15 17:43:16 2016  -->
+<!--  tdt Sun Jan 17 22:57:32 2016  -->
 </body>
 </html>

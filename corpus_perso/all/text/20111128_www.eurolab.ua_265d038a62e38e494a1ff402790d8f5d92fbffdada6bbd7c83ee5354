@@ -691,7 +691,7 @@
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><noscript><a href='http://matrix.eurolab.ua/www/delivery/ck.php?n=a8904bbe&amp;cb=1452867951' target='_blank'><img src='http://matrix.eurolab.ua/www/delivery/avw.php?zoneid=7&amp;cb=1452867951&amp;n=a8904bbe' border='0' alt='' /></a></noscript>
+//]]>--></script><noscript><a href='http://matrix.eurolab.ua/www/delivery/ck.php?n=a8904bbe&amp;cb=1453065071' target='_blank'><img src='http://matrix.eurolab.ua/www/delivery/avw.php?zoneid=7&amp;cb=1453065071&amp;n=a8904bbe' border='0' alt='' /></a></noscript>
 <br><br>
 				<!-- block first-on-site -->	
 <div class="sideblock">
@@ -813,6 +813,10 @@
 	<h3 class="block__header">Новости медицины</h3>
 	<div class="block__wrap rounded">
 						<div class="widget-medicine-news">
+				<a href="/news/health/51486/" title="В скором времени появиться универсальный тест для диагностики рака" class="widget-medicine-news__link">В скором времени появиться универсальный тест для диагностики рака</a>,
+				<span class="widget-medicine-news__date"><time>16.01.2016</time></span>
+			</div>
+						<div class="widget-medicine-news">
 				<a href="/news/health/51485/" title="Беременным женщинам советуют отказаться от картофеля" class="widget-medicine-news__link">Беременным женщинам советуют отказаться от картофеля</a>,
 				<span class="widget-medicine-news__date"><time>15.01.2016</time></span>
 			</div>
@@ -835,10 +839,6 @@
 						<div class="widget-medicine-news">
 				<a href="/news/health/51477/" title="Эректильная дисфункция влияет на продолжительность жизни мужчины" class="widget-medicine-news__link">Эректильная дисфункция влияет на продолжительность жизни мужчины</a>,
 				<span class="widget-medicine-news__date"><time>11.01.2016</time></span>
-			</div>
-						<div class="widget-medicine-news">
-				<a href="/news/health/51475/" title="Кофе существенно повышает выносливость спортсменов" class="widget-medicine-news__link">Кофе существенно повышает выносливость спортсменов</a>,
-				<span class="widget-medicine-news__date"><time>05.01.2016</time></span>
 			</div>
 					<div class="block__footer is-right">
 			<a href="/news/health/" class="all-items" title="все новости">все новости &raquo;</a>

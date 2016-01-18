@@ -31,7 +31,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 	<div id="top">
     <div id="top_left">
       <div id="logo_nea"><a href="http://www.tanea.gr" target="_blank"><img border="0" alt="TA NEA Logo" src="templates/default/images/logo-small.png"/></a></div>
-      <div id="date">Παρασκευή 15 Ιανουαρίου 2016</div>
+      <div id="date">Κυριακή 17 Ιανουαρίου 2016</div>
     </div>
     <div id="logo_ygeia"><a href="default.asp"><img alt="ΥΓΕΙΑ ΔΡΑΣΗ + ΖΩΗ Logo" src="templates/default/images/logo_ygeia.gif" border="0"/></a></div>
 		<div id="banner_top468">
@@ -76,8 +76,8 @@ function ValidateKeyword() {
 <div class="ticker">
 	<span class="oTWDisplay">&nbsp;</span><span id="oTWDisplay" name="oTWDisplay" class="oTWDisplay"></span>
 <script language="Javascript1.2"> 
-        aLinks = new Array("http://ygeia.tanea.gr/default.asp?pid=8&ct=1&articleID=23609&la=1");
-        aHeadlines = new Array("Σε κρίσιμη κατάσταση έξι ασθενείς στη Γαλλία από δοκιμή φαρμάκου");
+        aLinks = new Array("http://ygeia.tanea.gr/default.asp?pid=8&ct=1&articleID=23611&la=1");
+        aHeadlines = new Array("Πέθανε ο ένας από τους εθελοντές που αρρώστησαν από πειραματικό μόριο");
 	setTimeout("fTWExec()",150);
 </script></div>
 
@@ -203,20 +203,20 @@ document.write("</sc"+"ript>");
 				<div id="mainDiv_bottom_right">
 					<div class="articles_right">
 	<div class="title_blue">Τα Πιο Διαβασμένα Θέματα</div>
+	<a href="default.asp?pid=8&ct=1&articleID=23603&la=1">Φυσική ορμόνη ίσως προσθέτει 30 χρόνια στη ζωή</a>
 	<a href="default.asp?pid=8&ct=6&articleID=23581&la=1">10 τρόφιμα που τονώνουν το ανοσοποιητικό</a>
-	<a href="default.asp?pid=8&ct=1&articleID=23588&la=1">Τι συμβαίνει όταν το σεξ με τον σύντροφο δεν μας διεγείρει</a>
-	<a href="default.asp?pid=8&ct=1&articleID=23496&la=1">Παγκόσμιο ρεκόρ βηματοδότη σε ελληνίδα ασθενή</a>
-	<a href="default.asp?pid=8&ct=1&articleID=23587&la=1">Καρδιά: Οι αιτίες θανάτου μετά το μπάι πας και το στεντ</a>
 	<a href="default.asp?pid=8&ct=1&articleID=23602&la=1">Η ευτυχία εξαρτάται από γονίδιο που λίγοι Έλληνες διαθέτουν</a>
+	<a href="default.asp?pid=8&ct=1&articleID=23604&la=1">Κόκκινο κρασί και μούρα το νέο... βιάγκρα</a>
+	<a href="default.asp?pid=8&ct=1&articleID=23561&la=1">Η παράλειψη του πρωινού αυξάνει τον κίνδυνο εγκεφαλικού</a>
 	<a class="more_red" href="default.asp?pid=12&la=1">Περισσότερα άρθρα</a>
 </div>
 					<div class="articles_right">
 	<div class="title_blue">ΤΕΛΕΥΤΑΙΕΣ ΕΙΔΗΣΕΙΣ</div>
+	<a href="default.asp?pid=8&ct=1&articleID=23613&la=1">Απαραίτητη μία πράσινη σαλάτα την ημέρα για την υγεία των ματιών</a>
+	<a href="default.asp?pid=8&ct=1&articleID=23612&la=1">ΗΠΑ: Προειδοποίηση προς τις εγκύους να αποφεύγουν 14 χώρες</a>
+	<a href="default.asp?pid=8&ct=1&articleID=23611&la=1">Πέθανε ο ένας από τους εθελοντές που αρρώστησαν από πειραματικό μόριο</a>
+	<a href="default.asp?pid=8&ct=1&articleID=23610&la=1">Γυναίκα νεκρή από Έμπολα στη Σιέρα Λεόνε </a>
 	<a href="default.asp?pid=8&ct=1&articleID=23609&la=1">Σε κρίσιμη κατάσταση έξι ασθενείς στη Γαλλία από δοκιμή φαρμάκου</a>
-	<a href="default.asp?pid=8&ct=1&articleID=23604&la=1">Κόκκινο κρασί και μούρα το νέο... βιάγκρα</a>
-	<a href="default.asp?pid=8&ct=1&articleID=23603&la=1">Φυσική ορμόνη ίσως προσθέτει 30 χρόνια στη ζωή</a>
-	<a href="default.asp?pid=8&ct=1&articleID=23602&la=1">Η ευτυχία εξαρτάται από γονίδιο που λίγοι Έλληνες διαθέτουν</a>
-	<a href="default.asp?pid=8&ct=1&articleID=23606&la=1">Επτά μύθοι για την αιμορροϊδοπάθεια</a>
 	<a class="more_red" href="default.asp?pid=9&la=1">Διαβάστε περισσότερα</a>
 </div>
 					<div class="banner300x250">

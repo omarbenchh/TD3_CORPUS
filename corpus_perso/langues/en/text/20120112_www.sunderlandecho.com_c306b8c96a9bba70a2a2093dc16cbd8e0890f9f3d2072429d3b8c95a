@@ -193,7 +193,7 @@
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="top" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -207,7 +207,7 @@
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="oop" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -918,7 +918,7 @@
 					
 				
 																<ul class="info cld flt-l fnt-13" aria-label="social links and weather">
-					<li class="flt-l first" title="Today's date" aria-haspopup="true">15/01/16</li>
+					<li class="flt-l first" title="Today's date" aria-haspopup="true">17/01/16</li>
 					
                   
     
@@ -928,8 +928,8 @@
 		    				
 
 <li class="flt-l">	
-	<span class='ico-weather ico-sunny'><a  class="show-weather-popup" href="#" title="5 day forecast">
-		-2&deg;C to 3&deg;C Sunny
+	<span class='ico-weather ico-sunny_spells'><a  class="show-weather-popup" href="#" title="5 day forecast">
+		0&deg;C to 1&deg;C Sunny spells
 	</a></span>
 </li>  
 <div id="weather-lightbox" class="whyregister-lightbox dis-n">
@@ -937,54 +937,6 @@
 			<h3>Sunderland 5-day weather forecast</h3>
 			<a href="" class="close" title="close">Close<b>X</b></a>
 		</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Friday
-					<span class="day-month">15 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny</p>
-  <div class='wico-weather wico-sunny'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">3&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-2&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">West</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">18 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Saturday
-					<span class="day-month">16 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny</p>
-  <div class='wico-weather wico-sunny'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-3&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">West</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">7 mph</span>
-  </p>
-
-			</div>
 					<div class="weatherColLeft">
 				<p class="weekday weekDay flt-l">Sunday
 					<span class="day-month">17 Jan</span>
@@ -994,10 +946,10 @@
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
+    <span class="day-month">1&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">0&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
@@ -1013,15 +965,15 @@
 				<p class="weekday weekDay flt-l">Monday
 					<span class="day-month">18 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
     <span class="day-month">3&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">0&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
@@ -1029,7 +981,7 @@
     <span class="day-month">South</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">6 mph</span>
+    <span class="day-month">4 mph</span>
   </p>
 
 			</div>
@@ -1045,7 +997,31 @@
     <span class="day-month">4&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">0&deg;c</span>
+    <span class="day-month">-2&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">North</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">2 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Wednesday
+					<span class="day-month">20 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">2&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">-1&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
@@ -1054,6 +1030,30 @@
   </p>
   <p class="greycolor weatherParam">Speed
     <span class="day-month">2 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Thursday
+					<span class="day-month">21 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">4&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">2&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">9 mph</span>
   </p>
 
 			</div>
@@ -1451,7 +1451,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu1,artmpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1463,7 +1463,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="2x1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1504,7 +1504,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1516,7 +1516,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu2,artmpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1528,7 +1528,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1540,7 +1540,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1552,7 +1552,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1564,7 +1564,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1702,7 +1702,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1950,7 +1950,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					
@@ -2035,40 +2035,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.sunderlandecho.com/news/crime/sunderland-council-worker-could-ve-been-seriously-injured-by-missile-thrown-from-bridge-1-7678414 title="The smashed windscreen." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7678412!/image/2963213674.jpeg_gen/derivatives/articleWidgetDeriv_140px/2963213674.jpeg" alt="The smashed windscreen."></a>
+				<a href=http://www.sunderlandecho.com/news/local/all-news/sick-thugs-tried-to-chop-horses-head-off-cob-owner-devastated-by-attack-1-7679197 title="Andrew Laing with his horse Lloyd that had its neck slashed, while on grassland in St Lukes Road, Pennywell, Sunderland" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679207!/image/381916671.jpg_gen/derivatives/articleWidgetDeriv_140px/381916671.jpg" alt="Andrew Laing with his horse Lloyd that had its neck slashed, while on grassland in St Lukes Road, Pennywell, Sunderland"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.sunderlandecho.com/news/crime/sunderland-council-worker-could-ve-been-seriously-injured-by-missile-thrown-from-bridge-1-7678414 title="Sunderland council worker 'could've been seriously injured' by missile thrown from bridge">Sunderland council worker 'could've been seriously injured' by missile thrown from bridge</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/news/crime" title="Crime">Crime</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.sunderlandecho.com/news/police-hunt-cruel-attackers-who-slashed-a-horse-s-throat-1-7678278 title="St Luke's Road, Sunderland." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7678277!/image/1589217016.jpg_gen/derivatives/articleWidgetDeriv_140px/1589217016.jpg" alt="St Luke's Road, Sunderland."></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.sunderlandecho.com/news/police-hunt-cruel-attackers-who-slashed-a-horse-s-throat-1-7678278 title="Police hunt cruel attackers who slashed a horse's throat">Police hunt cruel attackers who slashed a horse's throat</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/news" title="News">News</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.sunderlandecho.com/news/local/all-news/big-freeze-continues-as-met-office-warns-of-ice-and-snow-for-north-east-1-7678244 title="A snowy Angel of the North. Photo by Gary Oliver." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7678241!/image/2199995105.jpg_gen/derivatives/articleWidgetDeriv_140px/2199995105.jpg" alt="A snowy Angel of the North. Photo by Gary Oliver."></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.sunderlandecho.com/news/local/all-news/big-freeze-continues-as-met-office-warns-of-ice-and-snow-for-north-east-1-7678244 title="Big freeze continues as Met Office warns of ice and snow for North East">Big freeze continues as Met Office warns of ice and snow for North East</a>
+					<a href=http://www.sunderlandecho.com/news/local/all-news/sick-thugs-tried-to-chop-horses-head-off-cob-owner-devastated-by-attack-1-7679197 title="Sick thugs ‘tried to chop horses head off’ – cob owner devastated by attack">Sick thugs ‘tried to chop horses head off’ – cob owner devastated by attack</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/news/local/all-news" title="All News">All News</a></div>
 			</div>
@@ -2077,26 +2049,26 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.sunderlandecho.com/news/local/all-news/wearside-school-to-be-taken-over-by-an-academy-trust-1-7678359 title="Academy 360" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7678354!/image/446349222.jpg_gen/derivatives/articleWidgetDeriv_140px/446349222.jpg" alt="Academy 360"></a>
+				<a href=http://www.sunderlandecho.com/what-s-on/amazing-excellent-class-what-you-are-saying-about-melissa-cavanagh-after-her-appearance-on-hit-bbc1-show-the-voice-1-7679880 title="Melissa Cavanagh celebrates after her appearance on The Voice" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679878!/image/650370662.jpg_gen/derivatives/articleWidgetDeriv_140px/650370662.jpg" alt="Melissa Cavanagh celebrates after her appearance on The Voice"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.sunderlandecho.com/news/local/all-news/wearside-school-to-be-taken-over-by-an-academy-trust-1-7678359 title="Wearside school to be taken over by an academy trust">Wearside school to be taken over by an academy trust</a>
+					<a href=http://www.sunderlandecho.com/what-s-on/amazing-excellent-class-what-you-are-saying-about-melissa-cavanagh-after-her-appearance-on-hit-bbc1-show-the-voice-1-7679880 title=""Amazing, excellent, class": What you are saying about Melissa Cavanagh after her appearance on hit BBC1 show The Voice">"Amazing, excellent, class": What you are saying about Melissa Cavanagh after her appearance on hit BBC1 show The Voice</a>
 				</h3>
-				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/news/local/all-news" title="All News">All News</a></div>
+				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/what-s-on" title="What's On">What's On</a></div>
 			</div>
 			</article>
 		</li>
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.sunderlandecho.com/history-nostalgia/shedding-light-on-the-sunderland-lamp-that-was-never-lit-1-7677348 title="The Wheatsheaf Lighthouse in the 1950s." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677343!/image/204725912.jpg_gen/derivatives/articleWidgetDeriv_140px/204725912.jpg" alt="The Wheatsheaf Lighthouse in the 1950s."></a>
+				<a href=http://www.sunderlandecho.com/history-nostalgia/carpenter-suffered-agonising-death-after-downing-deadly-cocktail-1-7679958 title="Fitter's Row in the East End, close to where poor Gustav lived. This photo dates to around 1895 - just after he died." class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679956!/image/2073188893.jpg_gen/derivatives/articleWidgetDeriv_140px/2073188893.jpg" alt="Fitter's Row in the East End, close to where poor Gustav lived. This photo dates to around 1895 - just after he died."></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.sunderlandecho.com/history-nostalgia/shedding-light-on-the-sunderland-lamp-that-was-never-lit-1-7677348 title="Shedding light on the Sunderland lamp that was never lit">Shedding light on the Sunderland lamp that was never lit</a>
+					<a href=http://www.sunderlandecho.com/history-nostalgia/carpenter-suffered-agonising-death-after-downing-deadly-cocktail-1-7679958 title="Carpenter suffered agonising death after downing deadly cocktail">Carpenter suffered agonising death after downing deadly cocktail</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/history-nostalgia" title="History & Nostalgia">History & Nostalgia</a></div>
 			</div>
@@ -2105,14 +2077,42 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.sunderlandecho.com/news/local/all-news/third-of-sunderland-children-overweight-by-age-of-11-1-7677288 title="Third of Sunderland children overweight by age of 11" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677286!/image/3687024613.jpg_gen/derivatives/articleWidgetDeriv_140px/3687024613.jpg" alt="Third of Sunderland children overweight by age of 11"></a>
+				<a href=http://www.sunderlandecho.com/news/local/all-news/dog-walker-tried-to-save-tragic-teen-who-spent-half-an-hour-in-freezing-sea-1-7680065 title="Emergency workers during the rescue operation at Cullercoats after a 15-year-old girl died after being swept into the sea by a big wave. Pic: Clare Guilding." class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680064!/image/570262377.jpg_gen/derivatives/articleWidgetDeriv_140px/570262377.jpg" alt="Emergency workers during the rescue operation at Cullercoats after a 15-year-old girl died after being swept into the sea by a big wave. Pic: Clare Guilding."></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.sunderlandecho.com/news/local/all-news/third-of-sunderland-children-overweight-by-age-of-11-1-7677288 title="Third of Sunderland children overweight by age of 11">Third of Sunderland children overweight by age of 11</a>
+					<a href=http://www.sunderlandecho.com/news/local/all-news/dog-walker-tried-to-save-tragic-teen-who-spent-half-an-hour-in-freezing-sea-1-7680065 title="Dog walker tried to save tragic teen who spent half an hour in freezing sea">Dog walker tried to save tragic teen who spent half an hour in freezing sea</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/news/local/all-news" title="All News">All News</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--">
+				<a href=http://www.sunderlandecho.com/news/local/all-news/watch-amazing-drone-footage-of-sunderland-landmarks-in-the-snow-1-7679990 title="An aerial view of Penshaw Monument, filmed by a drone." class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679989!/image/3713145146.jpg_gen/derivatives/articleWidgetDeriv_140px/3713145146.jpg" alt="An aerial view of Penshaw Monument, filmed by a drone."></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.sunderlandecho.com/news/local/all-news/watch-amazing-drone-footage-of-sunderland-landmarks-in-the-snow-1-7679990 title="WATCH: Amazing drone footage of Sunderland landmarks in the snow">WATCH: Amazing drone footage of Sunderland landmarks in the snow</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/news/local/all-news" title="All News">All News</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--">
+				<a href=http://www.sunderlandecho.com/news/trending/quiz-how-well-do-you-know-sunderland-1-7678083 title="How well do you know Sunderland?" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7678082!/image/1355249231.jpg_gen/derivatives/articleWidgetDeriv_140px/1355249231.jpg" alt="How well do you know Sunderland?"></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.sunderlandecho.com/news/trending/quiz-how-well-do-you-know-sunderland-1-7678083 title="QUIZ: How well do you know Sunderland?">QUIZ: How well do you know Sunderland?</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.sunderlandecho.com/news/trending" title="Trending">Trending</a></div>
 			</div>
 			</article>
 		</li>
@@ -2193,7 +2193,34 @@ if(typeof(OX) !== "undefined"){
 						<li class="newseye-videos__list-item">
 			<article class="video-card newseye-videos__card">					
 				<div class="video-card__image">  
-					<a id="videoteaservideoTeaser-video-card__image-link-1" href="/video/news/a-snowy-angel-of-the-north-4706483996001" class="responsive-img--16x9 video-card__image-link"
+					<a id="videoteaservideoTeaser-video-card__image-link-1" href="/video/sport/spurs-v-sunderland-4708755681001" class="responsive-img--16x9 video-card__image-link"
+					   title="Spurs V Sunderland">
+					    						<img class="img video-card__img" 
+							 src="/videoimage/4708755681001"
+							 alt="Spurs V Sunderland" />					
+						<svg version="1.1" class="video-card__play-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+							<path d="M0,0v64h64V0H0z M18.666,52.605V12.447l29.061,20.079L18.666,52.605z"/>
+						</svg>	
+					</a>
+				</div>
+				<div class="video-card__text">
+					<h3 class="video-card__title js-ellipsize">
+						<a id="videoteaservideoTeaser-video-card__title-link-1" href="/video/sport/spurs-v-sunderland-4708755681001" 
+						   title="Spurs V Sunderland">
+							Spurs V Sunderland
+						</a>
+					</h3>
+					<time class="video-card__meta">							
+						2:48
+					</time>
+				</div>
+			</article>
+		</li>
+			<li class="newseye-videos__list-item">
+			<article class="video-card newseye-videos__card">					
+				<div class="video-card__image">  
+					<a id="videoteaservideoTeaser-video-card__image-link-2" href="/video/news/a-snowy-angel-of-the-north-4706483996001" class="responsive-img--16x9 video-card__image-link"
 					   title="A snowy Angel of the North">
 					    						<img class="img video-card__img" 
 							 src="/videoimage/4706483996001"
@@ -2206,7 +2233,7 @@ if(typeof(OX) !== "undefined"){
 				</div>
 				<div class="video-card__text">
 					<h3 class="video-card__title js-ellipsize">
-						<a id="videoteaservideoTeaser-video-card__title-link-1" href="/video/news/a-snowy-angel-of-the-north-4706483996001" 
+						<a id="videoteaservideoTeaser-video-card__title-link-2" href="/video/news/a-snowy-angel-of-the-north-4706483996001" 
 						   title="A snowy Angel of the North">
 							A snowy Angel of the North
 						</a>
@@ -2220,7 +2247,7 @@ if(typeof(OX) !== "undefined"){
 			<li class="newseye-videos__list-item">
 			<article class="video-card newseye-videos__card">					
 				<div class="video-card__image">  
-					<a id="videoteaservideoTeaser-video-card__image-link-2" href="/video/business-and-money/to-infiniti-4706353765001" class="responsive-img--16x9 video-card__image-link"
+					<a id="videoteaservideoTeaser-video-card__image-link-3" href="/video/business-and-money/to-infiniti-4706353765001" class="responsive-img--16x9 video-card__image-link"
 					   title="To Infiniti...">
 					    						<img class="img video-card__img" 
 							 src="/videoimage/4706353765001"
@@ -2233,40 +2260,13 @@ if(typeof(OX) !== "undefined"){
 				</div>
 				<div class="video-card__text">
 					<h3 class="video-card__title js-ellipsize">
-						<a id="videoteaservideoTeaser-video-card__title-link-2" href="/video/business-and-money/to-infiniti-4706353765001" 
+						<a id="videoteaservideoTeaser-video-card__title-link-3" href="/video/business-and-money/to-infiniti-4706353765001" 
 						   title="To Infiniti...">
 							To Infiniti...
 						</a>
 					</h3>
 					<time class="video-card__meta">							
 						0:45
-					</time>
-				</div>
-			</article>
-		</li>
-			<li class="newseye-videos__list-item">
-			<article class="video-card newseye-videos__card">					
-				<div class="video-card__image">  
-					<a id="videoteaservideoTeaser-video-card__image-link-3" href="/video/entertainment-and-lifestyle/readers-photographs-4703837689001" class="responsive-img--16x9 video-card__image-link"
-					   title="Readers' photographs">
-					    						<img class="img video-card__img" 
-							 src="/videoimage/4703837689001"
-							 alt="Readers' photographs" />					
-						<svg version="1.1" class="video-card__play-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-							<path d="M0,0v64h64V0H0z M18.666,52.605V12.447l29.061,20.079L18.666,52.605z"/>
-						</svg>	
-					</a>
-				</div>
-				<div class="video-card__text">
-					<h3 class="video-card__title js-ellipsize">
-						<a id="videoteaservideoTeaser-video-card__title-link-3" href="/video/entertainment-and-lifestyle/readers-photographs-4703837689001" 
-						   title="Readers' photographs">
-							Readers' photographs
-						</a>
-					</h3>
-					<time class="video-card__meta">							
-						0:34
 					</time>
 				</div>
 			</article>
@@ -2290,7 +2290,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/sunderland.jp/all-news" 
 			data-adtag-pos="mpu5" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,local,all-news"
 			data-pgid="14129774" 
 			data-trigger-once="gpt:ready"></div>					

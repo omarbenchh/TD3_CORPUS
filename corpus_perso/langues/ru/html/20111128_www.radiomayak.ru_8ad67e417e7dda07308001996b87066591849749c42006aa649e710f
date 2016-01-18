@@ -412,7 +412,7 @@ $(document).ready(function() {
 <script type="text/javascript">
   
   $(document).ready(function(){
-    $('#news_archive_search').datepick({onSelect: pickedDate_news_archive_search, changeMonth: false, changeYear: false, navigationAsDateFormat: false, prevText: '<', nextText: '>', hideIfNoPrevNext: false, dateFormat: 'dd.mm.yy', maxDate: '15.01.2016', yearRange: '1998:2016', currentText: " "
+    $('#news_archive_search').datepick({onSelect: pickedDate_news_archive_search, changeMonth: false, changeYear: false, navigationAsDateFormat: false, prevText: '<', nextText: '>', hideIfNoPrevNext: false, dateFormat: 'dd.mm.yy', maxDate: '17.01.2016', yearRange: '1998:2016', currentText: " "
       });
   });
 
@@ -494,7 +494,7 @@ $(document).ready(function() {
                <script type="text/javascript" src="http://static1.1tv.ru/resources/clock2.js"></script>
                <!-- end clock scripts -->
 <span id="htmlClocks" style="color: white; font-weight: bold;">&nbsp;&nbsp;</span>
-Пятница, 15 января 2016<br/>
+Понедельник, 18 января 2016<br/>
 <span><span id="eRegionResult" style="display: block; float:left;">Москва                                                                                                                                                                                                                                                    </span> &nbsp;&nbsp; <a href="#" id="link_sb_top">Выбрать регион</a></span><script type="text/javascript">
 function FormRegionClick () {
             var str = $("#eRegion").serialize();
@@ -739,7 +739,7 @@ new adriver("adriver_banner_990603909", {sid:171392, bt:52, sz:'000210', bn:16})
 </div>
 <div class="n_article-txt" id="article_copy">
 <div class="tags" itemprop="keywords">
-<a href="/newsarchive/tags/2543/">медицина[1423]</a>, <a href="/newsarchive/tags/4749/">врачи[919]</a>, <a href="/newsarchive/tags/11513/">медведева[18]</a></div>
+<a href="/newsarchive/tags/2543/">медицина[1424]</a>, <a href="/newsarchive/tags/4749/">врачи[922]</a>, <a href="/newsarchive/tags/11513/">медведева[18]</a></div>
 <h1 itemprop="name">Светлана Медведева поблагодарила сотрудников Перинатального кардиологического центра</h1><div class="print"><a href="http://www.1tv.ru/news/print/192172" target="_blank">Версия для печати</a>
  <a id="link_copy-blog" href="#">Код для вставки в блог</a></div><div class="insert_blogs_full none">
 <div class="insert_blogs_full-ins">
@@ -970,18 +970,18 @@ t.insertBefore(s, t.firstChild);
 <div class="title"><h4>Ссылки по теме</h4></div>
 <ul>
 <li>
-<h5><a href="/newsarchive/tags/2543/">медицина [1423]</a></h5>
+<h5><a href="/newsarchive/tags/2543/">медицина [1424]</a></h5>
+<div class="date">15  января 2016</div>
+<p><a href="/news/world/300035">Во Франции трагедией завершились испытания одного из новейших медицинских препаратов</a></p>
 <div class="date">13  января 2016</div>
 <p><a href="/news/health/299878">Медики предупреждают о постепенном росте заболеваемости ОРВИ и гриппом после новогодних каникул</a></p>
-<div class="date">05  января 2016</div>
-<p><a href="/news/social/299474">Жители Якутии смогут получать консультации докторов, работающих в ведущих клиниках республики</a></p>
 </li>
 <li>
-<h5><a href="/newsarchive/tags/4749/">врачи [919]</a></h5>
-<div class="date">11  января 2016</div>
-<p><a href="/news/crime/299734">Врач, который нанёс пациенту смертельный удар в Белгороде, взят под стражу</a></p>
-<div class="date">09  января 2016</div>
-<p><a href="/news/social/299649">В больнице Белгорода пациент умер от руки хирурга, который его избил</a></p>
+<h5><a href="/newsarchive/tags/4749/">врачи [922]</a></h5>
+<div class="date">16  января 2016</div>
+<p><a href="/news/social/300061">В южных регионах России - вспышка гриппа</a></p>
+<div class="date">12  января 2016</div>
+<p><a href="/news/social/299820">В больнице Белгорода, где от побоев врача погиб пациент, случилось новое ЧП</a></p>
 </li>
 <li>
 <h5><a href="/newsarchive/tags/11513/">медведева [18]</a></h5>
@@ -998,53 +998,53 @@ t.insertBefore(s, t.firstChild);
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/social/299997"></a>
+<a href="/news/economic/300115"></a>
 </div>
-<a href="/news/social/299997">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115153848.JPG">
+<a href="/news/economic/300115">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117210932.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time fudge">18:00</div>В Москве - первое задержание по делу о трагедии в жилом комплексе "Алые Паруса"</td></tr></table>
+<table><tr><td><div class="time fudge">21:00</div>Обвал бирж, падение цен на нефть и снижение курса рубля вносят коррективы в планы правительства РФ</td></tr></table>
 </div>
 </div>
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/crime/299998"></a>
+<a href="/news/economic/300116"></a>
 </div>
-<a href="/news/crime/299998">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115182205.JPG">
+<a href="/news/economic/300116">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117211456.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time">18:02</div>В Нальчике введен режим КТО, заблокирована группа боевиков, идет перестрелка</td></tr></table>
+<table><tr><td><div class="time">21:08</div>Экономисты и инвесторы пытаются спрогнозировать варианты выхода из мирового экономического кризиса</td></tr></table>
 </div>
 </div>
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/economic/299999"></a>
+<a href="/news/leontiev/300117"></a>
 </div>
-<a href="/news/economic/299999">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115181131.JPG">
+<a href="/news/leontiev/300117">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117212446.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time">18:03</div>Владимир Путин поддержал создание единой системы администрирования платежей</td></tr></table>
+<table><tr><td><div class="time">21:18</div>Аналитическая программа "Однако - Контекст"</td></tr></table>
 </div>
 </div>
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/economic/300000"></a>
+<a href="/news/polit/300118"></a>
 </div>
-<a href="/news/economic/300000">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115181317.JPG">
+<a href="/news/polit/300118">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117213801.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time">18:05</div>Цена нефти марки "Брент" рухнула ниже отметки 30 долларов</td></tr></table>
+<table><tr><td><div class="time">21:23</div>Владимир Путин в интервью немецкому изданию "Бильдт" рассказал об ошибках, которые совершила Россия</td></tr></table>
 </div>
 </div>
 </div>
@@ -1107,61 +1107,61 @@ t.insertBefore(s, t.firstChild);
 <!-- Баннер (конец) -->
 <!-- Ссылки по разделу (начало) -->
 <div class="n_links-part">
-<div class="title"><h4>Ссылки по разделу Про 1tv</h4></div>
+<div class="title"><h4>Ссылки по разделу Политика</h4></div>
 <div class="n_links-part-ins">
 <ul>
 <li>
-<div class="img low"><a href="/news/about/299527"><img src="http://img1.1tv.ru/imgsize100x56/PR20160106182441.JPG" alt=""  /></a><div class="play"><a href="/news/about/299527">&nbsp;</a></div></div><div class="txt">
-<div class="date">06.01.2016 18:14</div>
-<p><a href="/news/about/299527">В преддверии Рождества телезрители помогли свершиться чуду в жизни многих тяжелобольных детей</a></p>
+<div class="img low"><a href="/news/polit/300126"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117221817.JPG" alt=""  /></a><div class="play"><a href="/news/polit/300126">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 22:18</div>
+<p><a href="/news/polit/300126">Президент США Барак Обама последний раз обратился к Конгрессу в качестве главы государства</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2421/">дети</a>, <a href="/newsarchive/tags/2892/">благотворительность</a>, <a href="/newsarchive/tags/6594/">первый канал</a>, <a href="/newsarchive/tags/36741/">русфонд</a></div>
+<a href="/newsarchive/tags/2188/">сша</a>, <a href="/newsarchive/tags/2470/">армия</a>, <a href="/newsarchive/tags/2821/">конгресс</a>, <a href="/newsarchive/tags/11156/">обама</a></div>
 </div>
 </li>
 <li class="last">
-<div class="img low"><a href="/news/about/299374"><img src="http://img1.1tv.ru/imgsize100x56/PR20160101181855.JPG" alt=""  /></a><div class="play"><a href="/news/about/299374">&nbsp;</a></div></div><div class="txt">
-<div class="date">01.01.2016 18:15</div>
-<p><a href="/news/about/299374">Первый канал покажет рождественский эпизод фильма о Шерлоке Холмсе</a></p>
+<div class="img low"><a href="/news/polit/300125"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117220901.JPG" alt=""  /></a><div class="play"><a href="/news/polit/300125">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 22:09</div>
+<p><a href="/news/polit/300125">Эксперты: противостояние Саудовской Аравии и Ирана угрожает безопасности других стран региона</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2256/">кино</a>, <a href="/newsarchive/tags/5857/">премьеры</a></div>
+<a href="/newsarchive/tags/2100/">терроризм</a>, <a href="/newsarchive/tags/2779/">религия</a>, <a href="/newsarchive/tags/2924/">иран</a>, <a href="/newsarchive/tags/3018/">казнь</a>, <a href="/newsarchive/tags/18023/">саудовская аравия</a></div>
 </div>
 </li>
 </ul>
 <div class="clear"></div>
 <ul>
 <li>
-<div class="img low"><a href="/news/about/299067"><img src="http://img1.1tv.ru/imgsize100x56/PR20151226215828.JPG" alt=""  /></a><div class="play"><a href="/news/about/299067">&nbsp;</a></div></div><div class="txt">
-<div class="date">26.12.2015 21:36</div>
-<p><a href="/news/about/299067">Патриарх Кирилл поздравил иеромонаха Фотия с победой в шоу "Голос"</a></p>
+<div class="img low"><a href="/news/polit/300124"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117221528.JPG" alt=""  /></a><div class="play"><a href="/news/polit/300124">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 22:04</div>
+<p><a href="/news/polit/300124">Владимир Путин: обращение Турции в НАТО после инцидента с бомбардировщиком выглядит странно</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2779/">религия</a>, <a href="/newsarchive/tags/3140/">музыка</a>, <a href="/newsarchive/tags/38079/">голос</a></div>
+<a href="/newsarchive/tags/2014/">путин</a>, <a href="/newsarchive/tags/2103/">сми</a>, <a href="/newsarchive/tags/2227/">турция</a>, <a href="/newsarchive/tags/24952/">сирия</a></div>
 </div>
 </li>
 <li class="last">
-<div class="img low"><a href="/news/about/299046"><img src="http://img1.1tv.ru/imgsize100x56/PR20151226105012.JPG" alt=""  /></a><div class="play"><a href="/news/about/299046">&nbsp;</a></div></div><div class="txt">
-<div class="date">26.12.2015 12:15</div>
-<p><a href="/news/about/299046">В финале шоу "Голос" проголосовали около миллиона телезрителей</a></p>
+<div class="img low"><a href="/news/polit/300121"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117215617.JPG" alt=""  /></a><div class="play"><a href="/news/polit/300121">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 21:46</div>
+<p><a href="/news/polit/300121">В Калининграде прошла встреча Владислава Суркова и помощника госсекретаря США Виктории Нуланд</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2892/">благотворительность</a>, <a href="/newsarchive/tags/3140/">музыка</a>, <a href="/newsarchive/tags/38079/">голос</a></div>
+<a href="/newsarchive/tags/2014/">путин</a>, <a href="/newsarchive/tags/2103/">сми</a>, <a href="/newsarchive/tags/2188/">сша</a>, <a href="/newsarchive/tags/2339/">украина</a>, <a href="/newsarchive/tags/49578/">минские соглашения</a></div>
 </div>
 </li>
 </ul>
 <div class="clear"></div>
 <ul>
 <li>
-<div class="img low"><a href="/news/about/299040"><img src="http://img1.1tv.ru/imgsize100x56/PR20151226102903.JPG" alt=""  /></a><div class="play"><a href="/news/about/299040">&nbsp;</a></div></div><div class="txt">
-<div class="date">26.12.2015 10:18</div>
-<p><a href="/news/about/299040">Победителем шоу "Голос" по результатам зрительского голосования стал иеромонах Фотий</a></p>
+<div class="img low"><a href="/news/polit/300119"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117214048.JPG" alt=""  /></a><div class="play"><a href="/news/polit/300119">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 21:29</div>
+<p><a href="/news/polit/300119">Крупный советский функционер Валентин Фалин – о тайнах переговоров времен объединения Германии</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2892/">благотворительность</a>, <a href="/newsarchive/tags/38079/">голос</a></div>
+<a href="/newsarchive/tags/2039/">ссср</a>, <a href="/newsarchive/tags/2103/">сми</a>, <a href="/newsarchive/tags/2419/">история</a>, <a href="/newsarchive/tags/2830/">германия</a>, <a href="/newsarchive/tags/3063/">дипломатия</a></div>
 </div>
 </li>
 <li class="last">
-<div class="img low"><a href="/news/about/299030"><img src="http://img1.1tv.ru/imgsize100x56/PR20151225212659.JPG" alt=""  /></a><div class="play"><a href="/news/about/299030">&nbsp;</a></div></div><div class="txt">
-<div class="date">25.12.2015 21:22</div>
-<p><a href="/news/about/299030">Помощь обездоленным — зрители музыкального шоу "Голос" участвуют в благотворительной миссии</a></p>
+<div class="img low"><a href="/news/polit/300118"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117213801.JPG" alt=""  /></a><div class="play"><a href="/news/polit/300118">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 21:23</div>
+<p><a href="/news/polit/300118">Владимир Путин в интервью немецкому изданию "Бильдт" рассказал об ошибках, которые совершила Россия</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/3140/">музыка</a>, <a href="/newsarchive/tags/5150/">шоу</a>, <a href="/newsarchive/tags/5747/">милосердие</a>, <a href="/newsarchive/tags/6594/">первый канал</a>, <a href="/newsarchive/tags/38079/">голос</a></div>
+<a href="/newsarchive/tags/2014/">путин</a>, <a href="/newsarchive/tags/2103/">сми</a>, <a href="/newsarchive/tags/2419/">история</a>, <a href="/newsarchive/tags/2830/">германия</a></div>
 </div>
 </li>
 </ul>
@@ -1333,80 +1333,67 @@ d.documentElement.appendChild(js);
 
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=21&amp;fi=43118" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160114121633.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=6006&amp;fi=43046" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160114122636.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=21&amp;fi=43118">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=6006&amp;fi=43046">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/ciz">Человек и закон</a></h5>
-<p><a href="/sprojects_edition/si=21&amp;fi=43118">Что нас ждет в Новом году. Самосуд по-челябински. Капремонт «хромает» по стране. Самые обсуждаемые интернет-истории ушедшего года. Суррогатное материнство, или ребенок любой ценой</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/guest">Гости по воскресеньям</a></h5>
+<p><a href="/sprojects_edition/si=6006&amp;fi=43046">После Нового года в гости к Ирине Муромцевой пришла режиссер Алла Сурикова вместе с дочкой Кирой и внуками Иваном и Артемом</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=5965&amp;fi=43132" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115145146.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=5709&amp;fi=43042" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160117114728.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=5965&amp;fi=43132">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=5709&amp;fi=43042">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/malefemale">Мужское / Женское</a></h5>
-<p><a href="/sprojects_edition/si=5965&amp;fi=43132">Самые эмоциональные моменты выпуска</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/fazenda">Фазенда</a></h5>
+<p><a href="/sprojects_edition/si=5709&amp;fi=43042">Эту спальню муж попросил сделать для своей супруги, которая поборола смертельный недуг. Пригласить "Фазенду" было её заветной мечтой</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=5748&amp;fi=43138" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115122050.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=28&amp;fi=43116" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160117110809.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=5748&amp;fi=43138">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=28&amp;fi=43116">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/marry">Давай поженимся!</a></h5>
-<p><a href="/sprojects_edition/si=5748&amp;fi=43138">Пропустили шоу "Давай поженимся!"? Не беда! Смотрите самые яркие моменты недели</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/pokavsedoma">Пока все дома</a></h5>
+<p><a href="/sprojects_edition/si=28&amp;fi=43116">Программа "Пока все дома" в гостях у знаменитой певицы Кристины Орбакайте</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=6009&amp;fi=43121" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115132346.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=31&amp;fi=42694" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20151220124138.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=6009&amp;fi=43121">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=31&amp;fi=42694">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/tabletka">Таблетка</a></h5>
-<p><a href="/sprojects_edition/si=6009&amp;fi=43121">44-летнюю москвичку вот уже год безуспешно лечат от геморроя. Эффективны ли прописанные ей лекарства и можно ли вылечить геморрой при помощи пиявок?</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/turzametki">Непутевые заметки</a></h5>
+<p><a href="/sprojects_edition/si=31&amp;fi=42694">Путешествие на Кольский полуостров: горнолыжный курорт в Хибинах, Апатиты и Кировск</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=5804&amp;fi=43128" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115133511.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=16&amp;fi=43147" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160117112732.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=5804&amp;fi=43128">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=16&amp;fi=43147">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/zdorovo">Жить здорово!</a></h5>
-<p><a href="/sprojects_edition/si=5804&amp;fi=43128">Самые яркие эпизоды программы</a></p>
-</div>
-</li>
-<li>
-<div class="img low">
-<a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=223&amp;pid=1" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115114719.JPG" alt="" border="0" />
-</a>
-<div class="play"><a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=223&amp;pid=1">&nbsp;</a></div>
-</div>
-<div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://utro.1tv.ru">Доброе утро</a></h5>
-<p><a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=223&amp;pid=1"><p>Самая волшебная ночь в году вместе с Первым каналом — узнайте, как встречали Новый год в сердце столицы.</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/zdorovie">Здоровье</a></h5>
+<p><a href="/sprojects_edition/si=16&amp;fi=43147">Что такое стеатоз печени, чем опасно это заболевание?</a></p>
 </div>
 </li>
 </ul>

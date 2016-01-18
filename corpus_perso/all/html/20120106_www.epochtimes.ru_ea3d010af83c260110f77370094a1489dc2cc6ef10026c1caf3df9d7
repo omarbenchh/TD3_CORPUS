@@ -54,6 +54,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+<link rel='stylesheet' id='simple_tooltips_style-css'  href='http://www.epochtimes.ru/eet-content/plugins/simple-tooltips/zebra_tooltips.css?ver=4.3.1' type='text/css' media='all' />
 <link rel='stylesheet' id='fv_flowplayer-css'  href='http://www.epochtimes.ru/eet-content/fv-flowplayer-custom/style-1.css?ver=1451291782' type='text/css' media='all' />
 <link rel='stylesheet' id='jquery.lightbox-0.5-css'  href='http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/js/slider/css/jquery.lightbox-0.5.css?ver=1.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-paginate-css'  href='http://www.epochtimes.ru/eet-content/plugins/wp-paginate/wp-paginate.css?ver=1.3.1' type='text/css' media='screen' />
@@ -155,12 +156,12 @@ img.emoji {
 	<li id="menu-item-58300000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58300000"><a href="http://www.epochtimes.ru/c/moscov/moscov-proishestvie/">Происшествия</a></li>
 </ul>
 </li>
-<li id="menu-item-3300000" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-3300000"><a title="Мировые новости" href="http://www.epochtimes.ru/c/mir/">Мир</a>
+<li id="menu-item-3300000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3300000"><a title="Мировые новости" href="http://www.epochtimes.ru/c/mir/">Мир</a>
 <ul class="sub-menu">
 	<li id="menu-item-8300000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8300000"><a href="http://www.epochtimes.ru/c/mir/europe/">Европа</a></li>
 	<li id="menu-item-98921993" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98921993"><a href="http://www.epochtimes.ru/c/mir/ukraina/">Украина</a></li>
 	<li id="menu-item-98964219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98964219"><a href="http://www.epochtimes.ru/c/mir/blizniy-vostok/">Ближний восток</a></li>
-	<li id="menu-item-8400000" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-8400000"><a href="http://www.epochtimes.ru/c/mir/aziya/">Азия</a></li>
+	<li id="menu-item-8400000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8400000"><a href="http://www.epochtimes.ru/c/mir/aziya/">Азия</a></li>
 	<li id="menu-item-8500000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8500000"><a href="http://www.epochtimes.ru/c/mir/africa/">Африка</a></li>
 	<li id="menu-item-8600000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8600000"><a href="http://www.epochtimes.ru/c/mir/severnaya-america/">Северная Америка</a></li>
 	<li id="menu-item-8700000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8700000"><a href="http://www.epochtimes.ru/c/mir/yujnaya-america/">Южная Америка</a></li>
@@ -249,9 +250,9 @@ img.emoji {
 	<li id="menu-item-16400000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16400000"><a href="http://www.epochtimes.ru/c/sport/autosport/">Автоспорт</a></li>
 </ul>
 </li>
-<li id="menu-item-20800000" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-20800000"><a href="http://www.epochtimes.ru/c/video/">Видео</a>
+<li id="menu-item-20800000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-20800000"><a href="http://www.epochtimes.ru/c/video/">Видео</a>
 <ul class="sub-menu">
-	<li id="menu-item-98913950" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-98913950"><a href="http://www.epochtimes.ru/c/video/video-news/">Видеоновости</a></li>
+	<li id="menu-item-98913950" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98913950"><a href="http://www.epochtimes.ru/c/video/video-news/">Видеоновости</a></li>
 	<li id="menu-item-98914019" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98914019"><a href="http://www.epochtimes.ru/c/video/obo-vsem-ponemnogy/">Обо всём понемногу</a></li>
 	<li id="menu-item-98970491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98970491"><a title="Забавные животные" href="http://www.epochtimes.ru/c/video/animals/">Забавные животные</a></li>
 	<li id="menu-item-21000000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21000000"><a href="http://www.epochtimes.ru/c/video/entertainment/">Развлечения</a></li>
@@ -310,7 +311,7 @@ img.emoji {
 		<div id="slim-bottom">
 		<div class="container">
 			<span class="topdate">
-				15 января 2016 г.			</span>
+				17 января 2016 г.			</span>
 			<div id="primary-nav">
 		    	<ul id="menu-sections">
 		    	<li class="column-submenu">
@@ -404,7 +405,7 @@ img.emoji {
                 <div id="nav-cat">
                 	                </div>
             </div>
-                <h4>Вас также может заинтересовать:</h4><li><a href="http://www.epochtimes.ru/shipulin-borby-za-bolshoj-hrustalnyj-globus-uzhe-ne-budet-99011304/" title="Шипулин: Борьбы за Большой хрустальный глобус уже не будет - последние новости, новости дня, видеоновости">Шипулин: Борьбы за Большой хрустальный глобус уже не будет</a></li><li><a href="http://www.epochtimes.ru/trener-nizhnego-novgoroda-ne-styditsya-proigrysha-komande-makkabi-99011308/" title="Тренер «Нижнего Новгорода» не стыдится проигрыша команде «Маккаби» - последние новости, новости дня, видеоновости">Тренер «Нижнего Новгорода» не стыдится проигрыша команде «Маккаби»</a></li><li><a href="http://www.epochtimes.ru/basketbolisty-tsska-obygrali-barselonu-v-matche-evroligi-99011417/" title="Баскетболисты ЦСКА обыграли «Барселону» в матче Евролиги - последние новости, новости дня, видеоновости">Баскетболисты ЦСКА обыграли «Барселону» в матче Евролиги</a></li>	<li class='li1'><a href='http://www.epochtimes.ru/content/view/56684/67-146/' title='Магия цифрового проектора Shen Yun'>Магия цифрового проектора Shen Yun</a></li>
+                <h4>Вас также может заинтересовать:</h4><li><a href="http://www.epochtimes.ru/muzhchina-na-perevale-dyatlova-umer-ot-pereohlazhdeniya-99011011/" title="Мужчина на перевале Дятлова умер от переохлаждения - последние новости, новости дня, видеоновости">Мужчина на перевале Дятлова умер от переохлаждения</a></li>	<li class='li1'><a href='http://www.epochtimes.ru/content/view/56684/67-146/' title='Магия цифрового проектора Shen Yun'>Магия цифрового проектора Shen Yun</a></li>
 	<li class='li2'><a href='http://www.epochtimes.ru/content/view/56682/4/' title='WikiLeaks: сторонники Фалуньгун вызвали беспокойство у властей КНР подачей иска на CCTV'>WikiLeaks: сторонники Фалуньгун вызвали беспокойство у властей КНР подачей иска на CCTV</a></li>
 	<li class='li1'><a href='http://www.epochtimes.ru/content/view/56679/4/' title='Китайские мусульмане не позволяют властям сносить мечеть. Есть погибшие и раненые'>Китайские мусульмане не позволяют властям сносить мечеть. Есть погибшие и раненые</a></li>
 				
@@ -426,7 +427,7 @@ var x=d.getElementsByTagName(s)[0];
 x.parentNode.insertBefore(o,x);
 })(document,"script");
 </script></div>				</div>
-				<div class="a-single a-9"><script id="7zo6j3y9wDrAgYGB">if (window.relap) window.relap.ar('7zo6j3y9wDrAgYGB');</script></div>				<br clear="all" />
+				<!-- Error, Ad is not available at this time due to schedule/budgeting/geolocation/mobile restrictions! -->				<br clear="all" />
 			</div>
 			<!--Category End-->
 
@@ -466,7 +467,7 @@ var disqus_config = function () {
     onIdentify: fires when user is authenticated
     */
     
-    this.page.remote_auth_s3 = 'W10= 78e3016fbd824e805673e699a16cafcd60460cfa 1452865462';
+    this.page.remote_auth_s3 = 'W10= 117023738676969c55c6ef7e33f31812e1306fb7 1453037159';
 this.page.api_key = '2XvOmlw0PshFq3Hcm2BE0CjnW6BOSG2T8dsvEez9GSHJwtUXjXfWpCncSSBG0DnQ';
 this.sso = {     
           name: "Великая Эпоха",       
@@ -536,15 +537,15 @@ this.sso = {
 	<ul class="popular_articles">
         <h3>Больше в «Китай»</h3><li>
         				<div class="w100">
-						<div class="fl"><a class="img-border" href="http://www.epochtimes.ru/pyat-kitajskih-legend-pomogut-vam-ispolnit-zadumannoe-v-novom-godu-99011497/" title="Пять китайских легенд помогут вам исполнить задуманное в новом году"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/706041121581454b-674x450-152x102.jpg" class="attachment-152x102 wp-post-image" alt="У Цзысюй.Фото: Wang Shuang-K&#039;uan/Epoch Times" thumbnail="" /></a></div><div class="fr"><a class="headline_title" href="http://www.epochtimes.ru/pyat-kitajskih-legend-pomogut-vam-ispolnit-zadumannoe-v-novom-godu-99011497/" title="Пять китайских легенд помогут вам исполнить задуманное в новом году">Пять китайских легенд помогут вам исполнить задуманное в новом году</a></div></div>
+						<div class="fl"><a class="img-border" href="http://www.epochtimes.ru/na-vostoke-kitaya-vspyhnul-protest-protiv-otravleniya-detej-himicheskimi-ispareniyami-99011611/" title="На востоке Китая вспыхнул протест против отравления детей химическими испарениями"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/xuexiao3-152x102.jpg" class="attachment-152x102 wp-post-image" alt="Родители протестуют против отравления их детей химическими испарениями бывшего завода. Город Чанчжоу провинции Цзянсу. Январь 2016 года. Фото: epochtimes.com" thumbnail="" /></a></div><div class="fr"><a class="headline_title" href="http://www.epochtimes.ru/na-vostoke-kitaya-vspyhnul-protest-protiv-otravleniya-detej-himicheskimi-ispareniyami-99011611/" title="На востоке Китая вспыхнул протест против отравления детей химическими испарениями">На востоке Китая вспыхнул протест против отравления детей химическими испарениями</a></div></div>
 						<br clear="all" />
 					</li><li>
         				<div class="w100">
-						<div class="fl"><a class="img-border" href="http://www.epochtimes.ru/v-kitae-izdali-knigu-ob-opyte-perehoda-ot-diktatury-k-demokratii-99011467/" title="В Китае издали книгу об опыте перехода от диктатуры к демократии"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/Tajvan-152x102.png" class="attachment-152x102 wp-post-image" alt="Обложка китайского перевода книги «Биография Цзян Цзинго». Фото с epochtimes.com" thumbnail="" /></a></div><div class="fr"><a class="headline_title" href="http://www.epochtimes.ru/v-kitae-izdali-knigu-ob-opyte-perehoda-ot-diktatury-k-demokratii-99011467/" title="В Китае издали книгу об опыте перехода от диктатуры к демократии">В Китае издали книгу об опыте перехода от диктатуры к демократии</a></div></div>
+						<div class="fl"><a class="img-border" href="http://www.epochtimes.ru/v-kitae-vmesto-psihicheski-bolnyh-lechat-zdorovyh-lyudej-99011567/" title="В Китае вместо психически больных «лечат» здоровых людей"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/psihi-152x102.jpg" class="attachment-152x102 wp-post-image" alt="вместо психически больных лечат здоровых" thumbnail="" /></a></div><div class="fr"><a class="headline_title" href="http://www.epochtimes.ru/v-kitae-vmesto-psihicheski-bolnyh-lechat-zdorovyh-lyudej-99011567/" title="В Китае вместо психически больных «лечат» здоровых людей">В Китае вместо психически больных «лечат» здоровых людей</a></div></div>
 						<br clear="all" />
 					</li><li>
         				<div class="w100">
-						<div class="fl"><a class="img-border" href="http://www.epochtimes.ru/kitajskoj-advokatesse-van-yuj-grozit-pozhiznennoe-zaklyuchenie-99011460/" title="Китайской адвокатессе Ван Юй грозит пожизненное заключение"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2015/09/Wang-152x102.jpg" class="attachment-152x102 wp-post-image" alt="За свою правозащитную деятельность Ван Юй подверглась арестам, угрозам и очернению в государственных СМИ. Её арестовали 9 июля этого года. Фото: Скриншот/YouTube" thumbnail="" /></a></div><div class="fr"><a class="headline_title" href="http://www.epochtimes.ru/kitajskoj-advokatesse-van-yuj-grozit-pozhiznennoe-zaklyuchenie-99011460/" title="Китайской адвокатессе Ван Юй грозит пожизненное заключение">Китайской адвокатессе Ван Юй грозит пожизненное заключение</a></div></div>
+						<div class="fl"><a class="img-border" href="http://www.epochtimes.ru/antiterroristicheskie-zakony-v-sintszyane-mogut-sprovotsirovat-obshhestvennye-besporyadki-99011554/" title="Антитеррористические законы в Синьцзяне могут спровоцировать общественные беспорядки"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/GettyImages-452933772-676x450-152x102.jpg" class="attachment-152x102 wp-post-image" alt="Китайские солдаты едут на грузовике  мимо мечети Ид-Ках в Кашгаре, Синьцзян, 31 июля 2014 г. Фото: Getty Images" thumbnail="" /></a></div><div class="fr"><a class="headline_title" href="http://www.epochtimes.ru/antiterroristicheskie-zakony-v-sintszyane-mogut-sprovotsirovat-obshhestvennye-besporyadki-99011554/" title="Антитеррористические законы в Синьцзяне могут спровоцировать общественные беспорядки">Антитеррористические законы в Синьцзяне могут спровоцировать общественные беспорядки</a></div></div>
 						<br clear="all" />
 					</li><li id="only_chine_baners-2" class="widget widget_only_chine_baners">		<!-- Begin travel form -->
 		<!--BEGIN Only chine baners-->
@@ -562,10 +563,10 @@ this.sso = {
         				<li>
 					<div class="w100">
 						<div class="fl">
-							<a href="http://www.epochtimes.ru/basketbolisty-tsska-obygrali-barselonu-v-matche-evroligi-99011417/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/images/white.png"  data-original="http://www.epochtimes.ru/eet-content/uploads/2016/01/GettyImages-504974874-152x102.jpg" class="lazy attachment-category_thumb wp-post-image" alt="баскетболисты ЦСКА" /></a>
+							<a href="http://www.epochtimes.ru/bolshoj-tennis-vyvel-ryazan-na-mezhdunarodnyj-uroven-99011581/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/images/white.png"  data-original="http://www.epochtimes.ru/eet-content/uploads/2016/01/Kubok-kremlya-1-152x102.jpg" class="lazy attachment-category_thumb wp-post-image" alt="теннис" /></a>
 						</div>
 						<div class="fr">
-							<a class="headline_title" href="http://www.epochtimes.ru/basketbolisty-tsska-obygrali-barselonu-v-matche-evroligi-99011417/">Баскетболисты ЦСКА обыграли «Барселону» в матче Евролиги</a>
+							<a class="headline_title" href="http://www.epochtimes.ru/bolshoj-tennis-vyvel-ryazan-na-mezhdunarodnyj-uroven-99011581/">Большой теннис вывел  Рязань на международный уровень</a>
 							<div class="facebook_box"></div>
 						</div>
 					</div>
@@ -574,10 +575,10 @@ this.sso = {
 								<li>
 					<div class="w100">
 						<div class="fl">
-							<a href="http://www.epochtimes.ru/ekipazh-nikolaeva-lidiroval-sredi-gruzovikov-na-11-m-etape-dakara-99011419/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/images/white.png"  data-original="http://www.epochtimes.ru/eet-content/uploads/2016/01/gruzovik1-152x102.jpg" class="lazy attachment-category_thumb wp-post-image" alt="Экипаж Эдуарда Николаева" /></a>
+							<a href="http://www.epochtimes.ru/dobrye-steny-kak-v-irane-pomogayut-bezdomnym-perezimovat-video-99011605/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/images/white.png"  data-original="http://www.epochtimes.ru/eet-content/uploads/2016/01/NGPBdU56_inettools.net_resize_image-152x102.jpg" class="lazy attachment-category_thumb wp-post-image" alt="Добрые стены" /></a>
 						</div>
 						<div class="fr">
-							<a class="headline_title" href="http://www.epochtimes.ru/ekipazh-nikolaeva-lidiroval-sredi-gruzovikov-na-11-m-etape-dakara-99011419/">Экипаж Николаева лидировал среди грузовиков на 11-м этапе «Дакара»</a>
+							<a class="headline_title" href="http://www.epochtimes.ru/dobrye-steny-kak-v-irane-pomogayut-bezdomnym-perezimovat-video-99011605/">«Добрые стены»: как в Иране помогают бездомным перезимовать (видео)</a>
 							<div class="facebook_box"></div>
 						</div>
 					</div>
@@ -586,22 +587,10 @@ this.sso = {
 								<li>
 					<div class="w100">
 						<div class="fl">
-							<a href="http://www.epochtimes.ru/nazvany-pretendenty-na-oskar-2016-99011426/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/images/white.png"  data-original="http://www.epochtimes.ru/eet-content/uploads/2016/01/GettyImages-453503232-152x102.jpg" class="lazy attachment-category_thumb wp-post-image" alt="Оскар 2016" /></a>
+							<a href="http://www.epochtimes.ru/na-vostoke-kitaya-vspyhnul-protest-protiv-otravleniya-detej-himicheskimi-ispareniyami-99011611/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/images/white.png"  data-original="http://www.epochtimes.ru/eet-content/uploads/2016/01/xuexiao3-152x102.jpg" class="lazy attachment-category_thumb wp-post-image" alt="Родители протестуют против отравления их детей химическими испарениями бывшего завода. Город Чанчжоу провинции Цзянсу. Январь 2016 года. Фото: epochtimes.com" /></a>
 						</div>
 						<div class="fr">
-							<a class="headline_title" href="http://www.epochtimes.ru/nazvany-pretendenty-na-oskar-2016-99011426/">Названы претенденты на «Оскар-2016» (видео)</a>
-							<div class="facebook_box"></div>
-						</div>
-					</div>
-					<br clear="all" />
-				</li>
-								<li>
-					<div class="w100">
-						<div class="fl">
-							<a href="http://www.epochtimes.ru/podgotovka-k-chm-2018-zastavila-rossiyu-smyagchit-sanktsii-protiv-turtsii-99011431/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/images/white.png"  data-original="http://www.epochtimes.ru/eet-content/uploads/2016/01/construction-417108_1280-152x102.jpg" class="lazy attachment-category_thumb wp-post-image" alt="смягчить санкции против Турции" /></a>
-						</div>
-						<div class="fr">
-							<a class="headline_title" href="http://www.epochtimes.ru/podgotovka-k-chm-2018-zastavila-rossiyu-smyagchit-sanktsii-protiv-turtsii-99011431/">Подготовка к ЧМ-2018 заставила Россию смягчить санкции против Турции</a>
+							<a class="headline_title" href="http://www.epochtimes.ru/na-vostoke-kitaya-vspyhnul-protest-protiv-otravleniya-detej-himicheskimi-ispareniyami-99011611/">На востоке Китая вспыхнул протест против отравления детей химическими испарениями</a>
 							<div class="facebook_box"></div>
 						</div>
 					</div>
@@ -617,7 +606,45 @@ this.sso = {
 <li id="epoch_widget_todays_headlines-3" class="widget widget_epoch_widget_todays_headlines"><h2 class="widgettitle">СОБЫТИЯ СЕГОДНЯ <span>&raquo;</span></h2><ul class="ns_box widget-todays-headlines">				<li>
 					<div class="w100">
 						<div class="fl">
-							<a href="http://www.epochtimes.ru/v-rossii-vstupil-v-silu-zakon-o-blokirovke-prav-voditelej-dolzhnikov-99011381/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/SANKCII-1-152x102.png" class="attachment-category_thumb wp-post-image" alt="ФССП, Россия, должники, лишение водительских прав, водительское удостоверение" /></a>
+							<a href="http://www.epochtimes.ru/v-kitae-vmesto-psihicheski-bolnyh-lechat-zdorovyh-lyudej-99011567/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/psihi-152x102.jpg" class="attachment-category_thumb wp-post-image" alt="вместо психически больных лечат здоровых" /></a>
+						</div>
+						<div class="fr">
+							<div class="cat_title"><a href="http://www.epochtimes.ru/c/china/objestvo-kitay/" rel="category tag">Общество</a> &bull; <a href="http://www.epochtimes.ru/c/china/prava-cheloveka/" rel="category tag">Права человека</a></div>
+							<a class="headline_title" href="http://www.epochtimes.ru/v-kitae-vmesto-psihicheski-bolnyh-lechat-zdorovyh-lyudej-99011567/">В Китае вместо психически больных «лечат» здоровых людей</a>
+						</div>
+					</div>
+					<br clear="all" />
+				</li>
+								<li>
+					<div class="w100">
+						<div class="fl">
+							<a href="http://www.epochtimes.ru/vnutri-zemli-nahoditsya-gigantskij-okean-99011478/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/OKEAN-152x102.png" class="attachment-category_thumb wp-post-image" alt="Фото: 
+Shea Huenin/flikr.com/
+CC BY-ND 2.0" /></a>
+						</div>
+						<div class="fr">
+							<div class="cat_title"><a href="http://www.epochtimes.ru/c/nauka-i-tehnology/tehnology-i-otkrutiya/" rel="category tag">Технологии и открытия</a></div>
+							<a class="headline_title" href="http://www.epochtimes.ru/vnutri-zemli-nahoditsya-gigantskij-okean-99011478/">Внутри Земли находится гигантский океан?</a>
+						</div>
+					</div>
+					<br clear="all" />
+				</li>
+								<li>
+					<div class="w100">
+						<div class="fl">
+							<a href="http://www.epochtimes.ru/bez-soli-sankt-peterburg-stal-snezhno-belym-99011512/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/SNEG-152x102.png" class="attachment-category_thumb wp-post-image" alt="В Питере глава комитета по благоустройству Смольного Владимир Рублевский выступил против реагентов." /></a>
+						</div>
+						<div class="fr">
+							<div class="cat_title"><a href="http://www.epochtimes.ru/c/russia/objestvo/" rel="category tag">Общество</a> &bull; <a href="http://www.epochtimes.ru/c/moscov/moscov-obshestvo/" rel="category tag">Общество</a></div>
+							<a class="headline_title" href="http://www.epochtimes.ru/bez-soli-sankt-peterburg-stal-snezhno-belym-99011512/">Без соли Санкт-Петербург стал снежно-белым</a>
+						</div>
+					</div>
+					<br clear="all" />
+				</li>
+								<li>
+					<div class="w100">
+						<div class="fl">
+							<a href="http://www.epochtimes.ru/v-rossii-vstupil-v-silu-zakon-o-blokirovke-prav-voditelej-dolzhnikov-99011381/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/SANKCII-1-152x102.png" class="attachment-category_thumb wp-post-image" alt="С 15 января в России разрешена блокировка прав" /></a>
 						</div>
 						<div class="fr">
 							<div class="cat_title"><a href="http://www.epochtimes.ru/c/russia/objestvo/" rel="category tag">Общество</a></div>
@@ -629,47 +656,11 @@ this.sso = {
 								<li>
 					<div class="w100">
 						<div class="fl">
-							<a href="http://www.epochtimes.ru/v-sudane-issleduyut-ruiny-tsarstva-kush-video-99011503/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/GettyImages-187657417-152x102.jpg" class="attachment-category_thumb wp-post-image" alt="Руины царства Куш. Фото: EBRAHIM HAMID/AFP/Getty Images" /></a>
+							<a href="http://www.epochtimes.ru/v-sudane-issleduyut-ruiny-tsarstva-kush-video-99011503/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/GettyImages-187657417-152x102.jpg" class="attachment-category_thumb wp-post-image" alt="руины" /></a>
 						</div>
 						<div class="fr">
 							<div class="cat_title"><a href="http://www.epochtimes.ru/c/nauka-i-tehnology/tehnology-i-otkrutiya/" rel="category tag">Технологии и открытия</a></div>
 							<a class="headline_title" href="http://www.epochtimes.ru/v-sudane-issleduyut-ruiny-tsarstva-kush-video-99011503/">В Судане исследуют руины царства Куш  (видео)</a>
-						</div>
-					</div>
-					<br clear="all" />
-				</li>
-								<li>
-					<div class="w100">
-						<div class="fl">
-							<a href="http://www.epochtimes.ru/yandeks-perevodchik-osvoil-elfijskij-yazyk-99011490/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/3475686054_cc968453d2_b-152x102.jpg" class="attachment-category_thumb wp-post-image" alt="Фото: that.with.the.camera/flickr.com/CC BY 2.0" /></a>
-						</div>
-						<div class="fr">
-							<div class="cat_title"><a href="http://www.epochtimes.ru/c/nauka-i-tehnology/tehnology-i-otkrutiya/" rel="category tag">Технологии и открытия</a></div>
-							<a class="headline_title" href="http://www.epochtimes.ru/yandeks-perevodchik-osvoil-elfijskij-yazyk-99011490/">«Яндекс.Переводчик» освоил эльфийский язык</a>
-						</div>
-					</div>
-					<br clear="all" />
-				</li>
-								<li>
-					<div class="w100">
-						<div class="fl">
-							<a href="http://www.epochtimes.ru/astronomy-otkryli-samuyu-yarkuyu-sverhnovuyu-zvezdu-99011479/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/295718main_tycho_remnant_full-152x102.jpg" class="attachment-category_thumb wp-post-image" alt="сверхновую звезду" /></a>
-						</div>
-						<div class="fr">
-							<div class="cat_title"><a href="http://www.epochtimes.ru/c/nauka-i-tehnology/kosmos/" rel="category tag">Космос</a></div>
-							<a class="headline_title" href="http://www.epochtimes.ru/astronomy-otkryli-samuyu-yarkuyu-sverhnovuyu-zvezdu-99011479/">Астрономы открыли самую яркую сверхновую звезду</a>
-						</div>
-					</div>
-					<br clear="all" />
-				</li>
-								<li>
-					<div class="w100">
-						<div class="fl">
-							<a href="http://www.epochtimes.ru/byuro-obshhestvennyh-rassledovanij-i-komitet-po-predotvrashheniyu-pytok-prichislili-k-inostrannym-agentam-99011472/" class="img-border"><img width="152" height="102" src="http://www.epochtimes.ru/eet-content/uploads/2016/01/uEQVYHphPIw_1433471345.jpg.600x450_q85-152x102.jpg" class="attachment-category_thumb wp-post-image" alt="Фото: pytkam.net" /></a>
-						</div>
-						<div class="fr">
-							<div class="cat_title"><a href="http://www.epochtimes.ru/c/russia/politika/" rel="category tag">Политика</a></div>
-							<a class="headline_title" href="http://www.epochtimes.ru/byuro-obshhestvennyh-rassledovanij-i-komitet-po-predotvrashheniyu-pytok-prichislili-k-inostrannym-agentam-99011472/">«Бюро общественных расследований» и «Комитет по предотвращению пыток» причислили к иностранным агентам</a>
 						</div>
 					</div>
 					<br clear="all" />
@@ -731,7 +722,7 @@ jQuery(document).ready(function($){
 </ul>			
 			Настоящий ресурс может содержать материалы <b>18+</b><br>
 Редакция не несёт ответственности за достоверность информации, содержащейся в рекламных объявлениях.<br>
-15 запросов. 0,966 секунд. 25.3817596435552 Мб
+20 запросов. 0,762 секунд. 25.6148223876952 Мб
 <noindex>
 <br>
 <!-- Index.ru -->
@@ -829,7 +820,8 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
         }());
         // ]]>
         </script>
-        <script type='text/javascript' src='http://www.epochtimes.ru/eet-content/plugins/adrotate-pro/library/jquery.adrotate.adblock.js'></script>
+        <script type='text/javascript' src='http://www.epochtimes.ru/eet-content/plugins/simple-tooltips/zebra_tooltips.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://www.epochtimes.ru/eet-content/plugins/adrotate-pro/library/jquery.adrotate.adblock.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var click_object = {"ajax_url":"http:\/\/www.epochtimes.ru\/wp-admin\/admin-ajax.php"};
@@ -849,7 +841,24 @@ var fv_flowplayer_playlists = [];
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://www.epochtimes.ru/eet-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js?ver=6.0.4.3'></script>
-<!-- AdRotate JS -->
+                			            
+                <script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#1c2676',
+                            'color':				'#ffffff',
+                            'max_width':  250,
+                            'opacity':    .95, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script>        
+		<!-- AdRotate JS -->
 <script type="text/javascript">
 jQuery(document).ready(function() {
 	jQuery('body').adblockdetect({time: 5, message: "Ad blocker detected! Please wait %time% seconds or disable your ad blocker!"});
@@ -857,7 +866,7 @@ jQuery(document).ready(function() {
 </script>
 <!-- /AdRotate JS -->
 
-<!-- Generated in 0,992 seconds. Made 15 queries to database and 333 cached queries. Memory used - 25.4MB -->
+<!-- Generated in 0,776 seconds. Made 20 queries to database and 326 cached queries. Memory used - 25.63MB -->
 <!-- Cached by DB Cache Reloaded Fix -->
 		
 	<!--	<div id="epoch-floating-social">		
@@ -973,4 +982,4 @@ return '<a onclick="return !window.open(this.href)" href="'+$(this).data ('link'
 <!--END closed links LANG-->
 <script src="http://www.epochtimes.ru/eet-content/themes/the-epoch-times-3/js/footer-scripts.js?ver=1.0.4" type="text/javascript"></script>
 	</body>
-</html><!-- hyper cache: 3853f19e9599538a16edf18d02654e05 16-01-15 01:44:22 -->
+</html><!-- hyper cache: 3853f19e9599538a16edf18d02654e05 16-01-17 01:25:59 -->

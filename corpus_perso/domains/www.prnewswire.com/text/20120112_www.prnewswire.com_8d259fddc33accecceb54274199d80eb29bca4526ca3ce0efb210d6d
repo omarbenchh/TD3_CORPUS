@@ -124,7 +124,7 @@ if(readCookie("DMUserTrack") != "")
 	}
 	OnNewsreleaseLoad();
 		var csid = 137114418;
-	newstogramURL = 'http://www.prnewswire.com/templates/PRN_Custom_MutltiVu_Recommendation?t=1452868779757&id=137114418';
+	newstogramURL = 'http://www.prnewswire.com/templates/PRN_Custom_MutltiVu_Recommendation?t=1453065779425&id=137114418';
 	//var newstogramURL ='http://www.prnewswire.com/templates/prnwConfig.xml';
 	var delay = function() { sendToFlash('StartPlay',newstogramURL); };
 	setTimeout(delay,1000,"JavaScript");
@@ -750,7 +750,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=137114418";_qc+="&7=506122";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=137114418&7=506122&25=0&18=0.09991531236079398">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=137114418&7=506122&25=0&18=0.8753875418602666">
 </noscript>
 
 												<!-- SiteCatalyst code version: H.20.3.
@@ -780,7 +780,7 @@ the next lines. */
 		s.prop15="137114418"
 		s.prop16=""
 		s.prop19=""
-		s.prop20="201601150930"
+		s.prop20="201601171615"
 																				
 						s.prop35="AUT,PDT"
 				s.prop36="Plain text"
@@ -1756,7 +1756,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 																																																																																																																																																																																																		<ul>
 					<li><a title="Overview" href="/news-releases">Overview</a></li>
 				<li class="parent"><a title="News in Focus" href="#" >News in Focus</a>				
-																																											<!-- child list size : 8 || [com.clickability.cms.translator.ContentTarget@75b542fe, com.clickability.cms.translator.ContentTarget@c2b4ba6, com.clickability.cms.translator.ContentTarget@62439ab7, com.clickability.cms.translator.ContentTarget@3a51ce81, com.clickability.cms.translator.ContentTarget@50cc9510, com.clickability.cms.translator.ContentTarget@274e76e1, com.clickability.cms.translator.ContentTarget@105ec1f0, com.clickability.cms.translator.ContentTarget@1ec3124] -->
+																																											<!-- child list size : 8 || [com.clickability.cms.translator.ContentTarget@59272224, com.clickability.cms.translator.ContentTarget@18329736, com.clickability.cms.translator.ContentTarget@216566a3, com.clickability.cms.translator.ContentTarget@8356876, com.clickability.cms.translator.ContentTarget@6a5d1f2f, com.clickability.cms.translator.ContentTarget@7aa7d37, com.clickability.cms.translator.ContentTarget@4a02a9cf, com.clickability.cms.translator.ContentTarget@74da7afe] -->
 	<ul>
 		
 														<!-- grand child list size : 0 0 -->
@@ -1802,7 +1802,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 							</ul>
 		</li> <!-- end of .parent -->
 								<li class="parent"><a title="Business" href="#" >Business</a>				
-																																						<!-- child list size : 4 || [com.clickability.cms.translator.ContentTarget@578baa79, com.clickability.cms.translator.ContentTarget@12651ad6, com.clickability.cms.translator.ContentTarget@2bc4e109, com.clickability.cms.translator.ContentTarget@a922c52] -->
+																																						<!-- child list size : 4 || [com.clickability.cms.translator.ContentTarget@6b478abe, com.clickability.cms.translator.ContentTarget@25e5f6f8, com.clickability.cms.translator.ContentTarget@1cb92738, com.clickability.cms.translator.ContentTarget@3fbddc43] -->
 	<ul>
 		
 																																																																																																																												<!-- grand child list size : 10 10 -->
@@ -2089,7 +2089,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 							</ul>
 		</li> <!-- end of .parent -->
 								<li class="parent"><a title="Science & Tech" href="#" >Science & Tech</a>				
-																																														<!-- child list size : 5 || [com.clickability.cms.translator.ContentTarget@1dc3fef8, com.clickability.cms.translator.ContentTarget@2e985b0c, com.clickability.cms.translator.ContentTarget@148188ba, com.clickability.cms.translator.ContentTarget@443775da, com.clickability.cms.translator.ContentTarget@151a5e33] -->
+																																														<!-- child list size : 5 || [com.clickability.cms.translator.ContentTarget@31a494d3, com.clickability.cms.translator.ContentTarget@2c26c21b, com.clickability.cms.translator.ContentTarget@24919142, com.clickability.cms.translator.ContentTarget@50d796cf, com.clickability.cms.translator.ContentTarget@79ee197f] -->
 	<ul>
 		
 																																																																																																																																																													<!-- grand child list size : 13 13 -->
@@ -2420,7 +2420,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 							</ul>
 		</li> <!-- end of .parent -->
 								<li class="parent"><a title="Money" href="#" >Money</a>				
-														<!-- child list size : 1 || [com.clickability.cms.translator.ContentTarget@1f1f5fb1] -->
+														<!-- child list size : 1 || [com.clickability.cms.translator.ContentTarget@6abaee6] -->
 	<ul>
 		
 																																																																																																																																																																																																																																																																																						<!-- grand child list size : 24 24 -->
@@ -2558,7 +2558,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 							</ul>
 		</li> <!-- end of .parent -->
 								<li class="parent"><a title="Health & Living" href="#" >Health & Living</a>				
-																																														<!-- child list size : 5 || [com.clickability.cms.translator.ContentTarget@7e464321, com.clickability.cms.translator.ContentTarget@36e16c4b, com.clickability.cms.translator.ContentTarget@98ccc13, com.clickability.cms.translator.ContentTarget@7aa9f84a, com.clickability.cms.translator.ContentTarget@2cec0130] -->
+																																														<!-- child list size : 5 || [com.clickability.cms.translator.ContentTarget@1f6f8a1d, com.clickability.cms.translator.ContentTarget@53d4860a, com.clickability.cms.translator.ContentTarget@25ac2585, com.clickability.cms.translator.ContentTarget@48d35215, com.clickability.cms.translator.ContentTarget@29b2060d] -->
 	<ul>
 		
 																																																																																																																																																																																																																																																					<!-- grand child list size : 21 21 -->
@@ -2909,7 +2909,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 							</ul>
 		</li> <!-- end of .parent -->
 								<li class="parent"><a title="Policy & Public Interest" href="#" >Policy & Public Interest</a>				
-														<!-- child list size : 1 || [com.clickability.cms.translator.ContentTarget@3077df72] -->
+														<!-- child list size : 1 || [com.clickability.cms.translator.ContentTarget@675b0356] -->
 	<ul>
 		
 																																																																																																																																																																																																																																																	<!-- grand child list size : 21 20 -->
@@ -3032,7 +3032,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 							</ul>
 		</li> <!-- end of .parent -->
 								<li class="parent"><a title="People & Culture" href="#" >People & Culture</a>				
-														<!-- child list size : 1 || [com.clickability.cms.translator.ContentTarget@4d0dcd1a] -->
+														<!-- child list size : 1 || [com.clickability.cms.translator.ContentTarget@4cdbb6e9] -->
 	<ul>
 		
 																																																																																																																																																		<!-- grand child list size : 12 12 -->
@@ -3110,7 +3110,7 @@ function Omniture_Persona_Submit(companyVar,roleVar)
 							</ul>
 		</li> <!-- end of .parent -->
 								<li class="parent"><a title="Non-English Language News" href="#" >Non-English Language News</a>				
-																																																					<!-- child list size : 10 || [com.clickability.cms.translator.ContentTarget@754efed5, com.clickability.cms.translator.ContentTarget@153c8e1e, com.clickability.cms.translator.ContentTarget@174e8345, com.clickability.cms.translator.ContentTarget@4966085c, com.clickability.cms.translator.ContentTarget@7d825009, com.clickability.cms.translator.ContentTarget@7654bf3e, com.clickability.cms.translator.ContentTarget@6680b972, com.clickability.cms.translator.ContentTarget@5bfa0de9, com.clickability.cms.translator.ContentTarget@7da76b2b, com.clickability.cms.translator.ContentTarget@7a6d147f] -->
+																																																					<!-- child list size : 10 || [com.clickability.cms.translator.ContentTarget@64fd8d0f, com.clickability.cms.translator.ContentTarget@42380795, com.clickability.cms.translator.ContentTarget@6c79e929, com.clickability.cms.translator.ContentTarget@37baba62, com.clickability.cms.translator.ContentTarget@44229483, com.clickability.cms.translator.ContentTarget@3a444767, com.clickability.cms.translator.ContentTarget@58abd913, com.clickability.cms.translator.ContentTarget@7a389bdf, com.clickability.cms.translator.ContentTarget@1a818c29, com.clickability.cms.translator.ContentTarget@2f18e557] -->
 	<ul>
 		
 														<!-- grand child list size : 0 0 -->
@@ -3279,9 +3279,9 @@ See more news releases in   <li><a  itemprop ='articleSection' title='Automotive
 
 		
 	<meta name="news_keywords" content="Ford Motor Company,Healthrageous, Inc.,BlueMetal Architects,CES,Automotive,Transportation, Trucking & Railroad,Computer Electronics,Health Care & Hospitals"/>
-	<meta itemprop="dateCreated" content='2016-01-15T14:39:39Z'/>
-	<meta itemprop="dateModified" content='2016-01-15T14:39:39Z'/>
-	<meta itemprop="datePublished" content='2016-01-15T14:39:39Z'/>
+	<meta itemprop="dateCreated" content='2016-01-17T21:22:59Z'/>
+	<meta itemprop="dateModified" content='2016-01-17T21:22:59Z'/>
+	<meta itemprop="datePublished" content='2016-01-17T21:22:59Z'/>
 	<meta itemprop="publishingPrinciples" content= "http://www.prnewswire.com/terms-of-use.html"/>
 	<meta itemprop="genre" content="News"/>
 		<meta content="http://www.prnewswire.com/news-releases/ford-collaborates-with-microsoft-healthrageous-and-bluemetal-architects-for-in-car-health-and-wellness-research-137114418.html" itemprop="url"/> 	<span itemprop="copyrightYear" style="display:none">2016</span>
@@ -3638,7 +3638,7 @@ $('.photo').hammer().on('tap', function(event){
 
 
    /******* Added code for displying the tickers when searched from my news page ends ***********/
-      var stockStringArray="[com.clickability.cms.translator.UtilContext$userObject@4cf310b6]";
+      var stockStringArray="[com.clickability.cms.translator.UtilContext$userObject@3d73cb98]";
  var stockArray = stockStringArray.split(",");
  if(cookieTicker && cookieTicker!=""){
   if(document.getElementById('mynews'))

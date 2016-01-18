@@ -428,12 +428,12 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
 
 
-
-
-
-
-
-
+        <!-- All in a Day -->
+        
+         
+        
+         
+        
 
 
 
@@ -445,8 +445,8 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		
 			<div class="showinfo">
 				<div class="nowplaying">
-					<a href="/video/#/Radio/Local_Shows/Ontario">
-					Radio One	
+					<a href="/allinaday">
+					All in a Day	
 					</a>
 				</div>
 								
@@ -461,7 +461,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		</div>
 		
 		<div id="functionalModImage">
-			<img src="/ottawa/images/masthead/frequency.png" alt="host picture" />
+			<img src="/ottawa/images/masthead/allinaday.png" alt="host picture" />
 		</div>
 		
 	
@@ -561,11 +561,11 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
         
         
-            <div id="container28071702" class="cbc-caffeine-outer-container">
+            <div id="container44505295" class="cbc-caffeine-outer-container">
                 
                         
                         
-                            <div id="playlist-content81564116" class="caffeine-playlist">
+                            <div id="playlist-content39034714" class="caffeine-playlist">
                             </div>
                             
                         
@@ -577,7 +577,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
 <script type="text/javascript" src="/i/caffeine/js/Caffeine.js"></script>
 <script type="text/javascript">
-    CBC.APP.Caffeine.initInstance({'forceVideo': 'false', 'mediaId': '2185548992', 'playlistSelector': '#playlist-content81564116', 'autoPlay': 'false', 'containerSelector': '#container28071702', 'ciid': 'caffeine11497703'});
+    CBC.APP.Caffeine.initInstance({'forceVideo': 'false', 'mediaId': '2185548992', 'playlistSelector': '#playlist-content39034714', 'autoPlay': 'false', 'containerSelector': '#container44505295', 'ciid': 'caffeine11497703'});
 </script>
 	</div>
         <p class="figure-caption"><strong class="spaced">Cancer rates high in Ottawa</strong> 
@@ -1011,9 +1011,9 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/canada/ottawa/man-shot-in-the-leg-while-sleeping-in-a-home-on-innes-road-early-friday-morning-1.3405154" class="complexlink media">
-								<img title='' height='79' alt='police thefts vehicles november 6 2015' width='140' class='media-side' src='http://i.cbc.ca/1.3307962.1446839028!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/police-thefts-vehicles-november-6-2015.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Man shot in the leg while sleeping in a home on Innes Road early Friday morning</span>
+							<a  href="/news/canada/ottawa/dog-rescues-ottawa-1.3407834" class="complexlink media">
+								<img title='' height='79' alt='ottawa fire service district chief dean taylor' width='140' class='media-side' src='http://i.cbc.ca/1.3407835.1453058078!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/ottawa-fire-service-district-chief-dean-taylor.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">Keep dogs away from waterways, Ottawa fire officials warn</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons"> 
 	
@@ -1029,43 +1029,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/borutski-wilno-murders-fifth-estate-1.3404238">Basil Borutski, charged with 3 Wilno, Ont., murders, blames police harassment</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/borutski-wilno-murders-fifth-estate-1.3404238"></span></span>
-    <span class="offscreen">comments</span>
-   
-	    	    		    		    		
-			<span class="icon_video">video</span>
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/andrew-potter-ottawa-citizen-editor-1.3405131">Ottawa Citizen's outgoing editor in chief watches industry with 'trepidation'</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/ottawa/andrew-potter-ottawa-citizen-editor-1.3405131"></span></span>
-    <span class="offscreen">comments</span>
-   
-	    	    		    		    		
-				<span class="icon_audio">audio</span>
-	</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/bruy%C3%A8re-family-medicine-centre-opens-clinic-for-syrian-refugees-in-ottawa-1.3404876">Physicians at Bruyère clinic provide health checks for new refugees in Ottawa</a>
+							<a  href="/news/canada/ottawa/scott-street-oc-transpo-detour-sunday-1.3405608">Detour of thousands of buses onto Scott, Albert streets begins today</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> 
 	
@@ -1079,12 +1043,37 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/ottawa-weather-forecast-1.3249874">Ottawa weather forecast calls for balmy, wet Saturday</a>
+							<a  href="/news/canada/ottawa/2-people-seriously-injured-in-snowmobile-crash-near-renfrew-1.3407757">2 people seriously injured in snowmobile crash near Renfrew</a>
 							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/ottawa/ottawa-weather-forecast-1.3249874"></span></span>
-    <span class="offscreen">comments</span>
-   
+																	<span class="lineuproll-icons"> 
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/ottawa/cbc-ottawa-news-quiz-jan-10-1.3405695"> CBC Ottawa's news quiz for the week of Jan. 10</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> 
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/ottawa/nipigon-bridge-nrc-1.3407319">National Research Council in Ottawa to study failure of Nipigon River Bridge</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> 
 	
 		</span>
 															</span>
@@ -1111,47 +1100,47 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 	    	    		 
 <ul class="promocollection-list">
     		<li class="promo col2">
-					    		 		<a href="/news/canada/ottawa/programs/ottawamorning/gg-s-winter-celebration-1.3405267" class="complexlink videolink">
+					    		 		<a href="/news/canada/ottawa/programs/intownandout/snowshoe-running-1.3407123" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='GG&#39;s Winter Celebration' width='100%' src='http://i.cbc.ca/1.3405267.1452868202!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
-			<p class="promo-title complexlink-target">GG's Winter Celebration</p>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Snowshoe running' width='100%' src='http://i.cbc.ca/1.3407123.1452959103!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
+			<p class="promo-title complexlink-target">Snowshoe running</p>
 						<p class="promo-runtime lighttext">
-									6:42
+									8:52
 							</p>
-									<p class="promo-deck">It's an international celebration of winter from horse-drawn wagons to giant skiis.</p>
+									<p class="promo-deck">Mike Caldwell, race director of Atlas Mad Trapper Trail & Snowshoe, wants to share his passion with everyone through clinics he's organizing at Lansdowne Park beginning Tuesday.</p>
 					</a>
 			</li>
     		<li class="promo col2">
-					    		 		<a href="/news/canada/ottawa/programs/ottawamorning/filipinos-dollar-1.3405255" class="complexlink videolink">
+					    		 		<a href="/news/canada/ottawa/programs/intownandout/hockey-analytics-conference-today-at-carleton-university-1.3407121" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Filipinos & Dollar' width='100%' src='http://i.cbc.ca/1.3405255.1452868202!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
-			<p class="promo-title complexlink-target">Filipinos & Dollar</p>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Hockey Analytics Conference today at Carleton University' width='100%' src='http://i.cbc.ca/1.3407121.1452958802!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
+			<p class="promo-title complexlink-target">Hockey Analytics Conference today at Carleton University</p>
 						<p class="promo-runtime lighttext">
-									6:52
+									10:49
 							</p>
-									<p class="promo-deck">The low loonie is causing woes for those in the Filipino community who need to save more to send help back home.</p>
+									<p class="promo-deck">Hockey analytics are now the subject of post-secondary courses in mathematics and statistics. Some say it's a better way to rank players and teams.</p>
 					</a>
 			</li>
     		<li class="promo col2">
-					    		 		<a href="/news/canada/ottawa/programs/ottawamorning/jim-waterson-1.3405256" class="complexlink videolink">
+					    		 		<a href="/news/canada/ottawa/programs/intownandout/nookie-with-neanderthals-cause-of-allergies-1.3407119" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Jim Waterson' width='100%' src='http://i.cbc.ca/1.3405256.1452868202!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
-			<p class="promo-title complexlink-target">Jim Waterson</p>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Nookie with Neanderthals cause of allergies?' width='100%' src='http://i.cbc.ca/1.3407119.1452958502!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
+			<p class="promo-title complexlink-target">Nookie with Neanderthals cause of allergies?</p>
 						<p class="promo-runtime lighttext">
-									5:21
+									8:12
 							</p>
-									<p class="promo-deck">Why a UK reporter has been getting a lot of angry tweets about snow-clearing.</p>
+									<p class="promo-deck">Microbiologist Jason Tetro says our allergies could be the result of an ancient attraction between humans and Neanderthals. Ancestral mating habits may make some people hate cats and pollen.</p>
 					</a>
 			</li>
     		<li class="promo col2">
-					    		 		<a href="/news/canada/ottawa/programs/ottawamorning/refugees-in-hotels-1.3405244" class="complexlink videolink">
+					    		 		<a href="/news/canada/ottawa/programs/intownandout/melt-away-your-winter-blahs-1.3407118" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Refugees in Hotels' width='100%' src='http://i.cbc.ca/1.3405244.1452867904!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
-			<p class="promo-title complexlink-target">Refugees in Hotels</p>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Melt away your winter blahs' width='100%' src='http://i.cbc.ca/1.3407118.1452958202!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    								</p>		
+			<p class="promo-title complexlink-target">Melt away your winter blahs</p>
 						<p class="promo-runtime lighttext">
-									6:22
+									7:30
 							</p>
-									<p class="promo-deck">More than four hundred refugees have arrived in Ottawa in the past two weeks. But they still don't have a home.</p>
+									<p class="promo-deck">Our personal Tech Columnist Jamey Ordolis gives ideas on how you can lean on technology to push away the melancholy and boost your mood.</p>
 					</a>
 			</li>
     </ul>
@@ -1165,26 +1154,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
         
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-        	 <script type="text/javascript">
+	 <script type="text/javascript">
 if(typeof(advertising_site) == "undefined") { advertising_site = "cbc.ca"; }
 if(typeof(advertising_zone) == "undefined") { advertising_zone = "nozone"; }
 if(typeof(advertising_page_type) == "undefined") { advertising_page_type = "story"; }
@@ -1214,7 +1184,6 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 </div>
 		</div>
 	
-    
 
       
     
@@ -1243,12 +1212,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/business/markets-dollar-oil-1.3405067" class="complexlink media">
-								<img title='' height='79' alt='Loonie canadian dollar 20150130' width='140' class='media-side' src='http://i.cbc.ca/1.3153847.1436993640!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/loonie-canadian-dollar-20150130.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Loonie dips below 69 cents US as oil drops another 5%</span>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316" class="complexlink media">
+								<img title='' height='79' alt='DEM 2016 Sanders' width='140' class='media-side' src='http://i.cbc.ca/1.3406498.1452897045!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/dem-2016-sanders.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">'Vanilla socialist' Bernie Sanders jams a wrench into the Clinton juggernaut</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/markets-dollar-oil-1.3405067"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1264,64 +1233,66 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/health/cadmium-jewelry-ardene-aldo-1.3404036">Cadmium in low-cost jewelry may create toxic bling</a>
+							<a  href="/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614">Burkina Faso attacks: 6 Quebecers killed were on humanitarian trip</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/cadmium-jewelry-ardene-aldo-1.3404036"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614"></span></span>
+    <span class="offscreen">comments</span>
+   
+	    	    		    		    	    		    		    		
+			<span class="icon_video">video</span>
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/health/drug-trial-france-death-1.3407803">Man in botched painkiller drug trial dies in France</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/drug-trial-france-death-1.3407803"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/technology/spacex-launch-climate-satellite-1.3407778">Satellite launched but SpaceX rocket damaged on landing</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/technology/spacex-launch-climate-satellite-1.3407778"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459">'They think we're terrorists': Men behind 'suspicious' photographs at Vancouver mall speak out</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459"></span></span>
     <span class="offscreen">comments</span>
    
 	    	    		    		    		
 			<span class="icon_video">video</span>
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/hamilton/news/tim-bosma-slaying-jury-selection-in-millard-smich-trial-starts-monday-1.3400581">'This only happens in TV and in movies': Tim Bosma killing reads like crime novel</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
-	    	    		    		    	    		    		    		
-			<span class="icon_video">video</span>
-				<span class="icon_audio">audio</span>
-	</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/women-on-the-money-social-media-1.3403812">Your picks for female faces on Canadian currency </a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/women-on-the-money-social-media-1.3403812"></span></span>
-    <span class="offscreen">comments</span>
-   
-	
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/montreal/guy-turcotte-sentencing-1.3404902">Guy Turcotte not eligible for parole for 17 years after killing his children</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/guy-turcotte-sentencing-1.3404902"></span></span>
-    <span class="offscreen">comments</span>
-   
-	
 		</span>
 															</span>
 						</li>
@@ -1357,6 +1328,66 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
+							<a  href="/news/canada/ottawa/2-people-seriously-injured-in-snowmobile-crash-near-renfrew-1.3407757">2 people seriously injured in snowmobile crash near Renfrew</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/ottawa/jim-watson-jim-waterson-1.3404080">Angry Ottawans take out frustrations on the wrong Jim</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/ottawa/scott-street-oc-transpo-detour-sunday-1.3405608">Scott, Albert street OC Transpo bus detour begins Sunday</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/ottawa/dog-rescues-ottawa-1.3407834">Keep dogs away from waterways, Ottawa fire officials warn</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/ottawa/nipigon-bridge-nrc-1.3407319">National Research Council in Ottawa to study failure of Nipigon River Bridge</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
 							<a  href="/news/canada/ottawa/catherine-mckenna-turns-off-phone-1.3404071">Catherine McKenna, environment minister, turns off her phone for family</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
@@ -1369,7 +1400,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/ottawa-restaurant-gatineau-bar-seized-to-disrupt-dismantle-drug-trafficking-ring-1.3404354">Ottawa restaurant, Gatineau bar seized to 'disrupt, dismantle' drug trafficking ring</a>
+							<a  href="/news/canada/ottawa/cbc-ottawa-news-quiz-jan-10-1.3405695"> CBC Ottawa's news quiz for the week of Jan. 10</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1381,7 +1412,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/man-shot-in-the-leg-while-sleeping-in-a-home-on-innes-road-early-friday-morning-1.3405154">Man shot in the leg while sleeping in a home on Innes Road early Friday morning</a>
+							<a  href="/news/canada/ottawa/3-opp-officers-charged-after-18-month-drug-trafficking-investigation-1.3318927">3 OPP officers charged after 18-month drug trafficking investigation</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1393,7 +1424,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/immigrants-who-send-money-home-worried-about-sinking-loonie-1.3404782">Immigrants who send money home worried about sinking loonie </a>
+							<a  href="/news/canada/ottawa/asbestos-removal-30-days-1.3407260">Gananoque asbestos removal job nets contractor fine, 30 days in jail</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1405,67 +1436,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/new-email-federal-government-1.3403967">Hardware issues stall effort to move federal workers to new email system</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/syrian-refugees-waiting-permanent-housing-ottawa-1.3404684">450 Syrian refugees waiting for permanent housing in Ottawa</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/ottawa-hospital-audit-cameron-love-1.3403865">Ottawa Hospital chief operating officer cleared in forensic audit</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/bruy%C3%A8re-family-medicine-centre-opens-clinic-for-syrian-refugees-in-ottawa-1.3404876">Bruyère Family Medicine Centre opens clinic for Syrian refugees in Ottawa</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/pembroke-xbox-bill-8000-1.3397534">Pembroke parent gets $8K Xbox bill after son racks up charges</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/reid-dunlop-the-room-1.3404083">Filming Oscar-nominated Room was 'pretty intense,' says Ottawa-based assistant director</a>
+							<a  href="/news/canada/ottawa/our-ottawa-ice-storm-1.3406397">Military thaws out Ottawa Valley after 1998 ice storm</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1496,116 +1467,116 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 								</h3>
 	</div>
 	<div class="carousel-body module-body">
-		<div id="carousel_7_1186_1378740665-2075" class="scroller">
+		<div id="carousel_7_1186_1378740665-25234" class="scroller">
 			<div class="scroller-wrapper layoutcontext">
 				<ul>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/man-shot-in-the-leg-while-sleeping-in-a-home-on-innes-road-early-friday-morning-1.3405154" class="complexlink">
+									    		 		<a href="/news/canada/ottawa/dog-rescues-ottawa-1.3407834" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='police thefts vehicles november 6 2015' width='100%' src='http://i.cbc.ca/1.3307962.1446839028!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/police-thefts-vehicles-november-6-2015.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Man shot in the leg while sleeping in a home on Innes Road early Friday morning</p>
+        					    			<img title='' height='79' alt='ottawa fire service district chief dean taylor' width='100%' src='http://i.cbc.ca/1.3407835.1453058078!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/ottawa-fire-service-district-chief-dean-taylor.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Keep dogs away from waterways, Ottawa fire officials warn</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/borutski-wilno-murders-fifth-estate-1.3404238" class="complexlink">
+									    		 		<a href="/news/canada/ottawa/scott-street-oc-transpo-detour-sunday-1.3405608" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Anastasia Kuzyk Nathalie Warmerdam Carol Culleton Basil Borutski homicide victims' width='100%' src='http://i.cbc.ca/1.3242126.1443116237!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/anastasia-kuzyk-nathalie-warmerdam-carol-culleton-basil-borutski-homicide-victims.jpg' />				    									<span class="promo-label label fifthestate">fifth estate</span>
+        					    			<img title='' height='79' alt='scott albert street bus buses transitway oc transpo lrt ottawa' width='100%' src='http://i.cbc.ca/1.3407678.1453054249!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/scott-albert-street-bus-buses-transitway-oc-transpo-lrt-ottawa.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Scott, Albert street OC Transpo bus detour begins Sunday</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/ottawa/2-people-seriously-injured-in-snowmobile-crash-near-renfrew-1.3407757" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Snowmobile stock image snowmobiler ottawa' width='100%' src='http://i.cbc.ca/1.3383968.1451443748!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/snowmobile-stock-image-snowmobiler-ottawa.jpg' />				    									<span class="promo-label label updated">Updated</span>
 						</p>		
-			<p class="promo-title complexlink-target">Man charged with murdering 3 women blames police harassment</p>
+			<p class="promo-title complexlink-target">2 people seriously injured in snowmobile crash near Renfrew</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/andrew-potter-ottawa-citizen-editor-1.3405131" class="complexlink">
+									    		 		<a href="/news/canada/ottawa/cbc-ottawa-news-quiz-jan-10-1.3405695" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Andrew Potter Ottawa Citizen editor in chief Jan 15 2016' width='100%' src='http://i.cbc.ca/1.3405204.1452866403!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/andrew-potter-ottawa-citizen-editor-in-chief-jan-15-2016.jpg' />				    									<span class="promo-label label updated">Updated</span>
+        					    			<img title='' height='79' alt='quiz190x107' width='100%' src='http://i.cbc.ca/1.1969476.1448054939!/httpImage/image.jpg_gen/derivatives/16x9tight_140/quiz190x107.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target"> CBC Ottawa's news quiz for the week of Jan. 10</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/ottawa/nipigon-bridge-nrc-1.3407319" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Nipigon River Bridge' width='100%' src='http://i.cbc.ca/1.3401510.1452689337!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/nipigon-river-bridge.JPG' />				    								</p>		
+			<p class="promo-title complexlink-target">National Research Council in Ottawa to study failure of Nipigon River Bridge</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/sports/hockey/nhl/zibanejad-senators-kings-recap-1.3407424" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='zibanejad-mika-150226-620' width='100%' src='http://i.cbc.ca/1.3407434.1452988580!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/zibanejad-mika-150226-620.jpg' />				    									<span class="promo-label label recap">Recap</span>
 						</p>		
-			<p class="promo-title complexlink-target">Andrew Potter, outgoing Ottawa Citizen editor in chief, watching industry with 'trepidation'</p>
+			<p class="promo-title complexlink-target">Senators score four 3rd-period goals to upend Kings</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/bruy%C3%A8re-family-medicine-centre-opens-clinic-for-syrian-refugees-in-ottawa-1.3404876" class="complexlink">
+									    		 		<a href="/news/canada/british-columbia/multimedia/every-earthquake-felt-in-canada-from-1985-1.3401199" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Syrian families in Ottawa' width='100%' src='http://i.cbc.ca/1.3404880.1452824859!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/syrian-families-in-ottawa.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Bruyère Family Medicine Centre opens clinic for Syrian refugees in Ottawa</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/ottawa-weather-forecast-1.3249874" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='winter cycling Toronto weather March 2014' width='100%' src='http://i.cbc.ca/1.3314105.1452552603!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/winter-cycling-toronto-weather-march-2014.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Ottawa weather forecast calls for balmy, wet Saturday</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/immigrants-who-send-money-home-worried-about-sinking-loonie-1.3404782" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Mel Vincent Tejero' width='100%' src='http://i.cbc.ca/1.3404797.1452825837!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/mel-vincent-tejero.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Immigrants who send money home worried about sinking loonie </p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/catherine-mckenna-turns-off-phone-1.3404071" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Catherine McKenna ' width='100%' src='http://i.cbc.ca/1.3353262.1449438826!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/catherine-mckenna.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Catherine McKenna, environment minister, turns off her phone for family</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/ottawa-hospital-audit-cameron-love-1.3403865" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='The Ottawa Hospital ' width='100%' src='http://i.cbc.ca/1.3404318.1452803865!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/the-ottawa-hospital.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Ottawa Hospital chief operating officer cleared in forensic audit</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/reid-dunlop-the-room-1.3404083" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='reid dunlop room oscar nomination director' width='100%' src='http://i.cbc.ca/1.3404372.1452805697!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/reid-dunlop-room-oscar-nomination-director.jpg' />				    									<span class="promo-label label audio">Audio</span>
+        					    			<img title='' height='79' alt='Earthquake ' width='100%' src='http://i.cbc.ca/1.3406665.1452900599!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/earthquake.jpg' />				    									<span class="promo-label label "> </span>
 						</p>		
-			<p class="promo-title complexlink-target">Filming Oscar-nominated Room was 'pretty intense,' says Ottawa-based assistant director</p>
+			<p class="promo-title complexlink-target">Every earthquake felt in Canada from 1985</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/syrian-refugees-waiting-permanent-housing-ottawa-1.3404684" class="complexlink">
+									    		 		<a href="/news/canada/ottawa/carleton-hockey-analytics-1.3407108" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Syrian refugee Ghina Salloum' width='100%' src='http://i.cbc.ca/1.3404701.1452814918!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/syrian-refugee-ghina-salloum.jpg' />				    									<span class="promo-label label video">Video</span>
+        					    			<img title='' height='79' alt='Erik Karlsson' width='100%' src='http://i.cbc.ca/1.2579808.1395319920!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/erik-karlsson.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Ottawa hockey analytics conference goes beyond the boxscore</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/ottawa/asbestos-removal-30-days-1.3407260" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='crime-handcuffs' width='100%' src='http://i.cbc.ca/1.2471588.1450730795!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/crime-handcuffs.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Gananoque asbestos removal job nets contractor fine, 30 days in jail</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/toronto/ontario-camp-rules-1.3406936" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Toronto summer swimming camp' width='100%' src='http://i.cbc.ca/1.3406938.1452916548!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/toronto-summer-swimming-camp.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">New Ontario rules change what summer camps kids under 4 can attend</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/ottawa/shakespeare-400-ottawa-celebration-1.3392308" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='SHAKESPEARE DRUGS' width='100%' src='http://i.cbc.ca/1.3392537.1452538140!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/shakespeare-drugs.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">'Shakespeare 400' hits Ottawa, and the play's not the only thing</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/politics/ambassadors-appointted-u-s-un-1.3407072" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='David MacNaughton' width='100%' src='http://i.cbc.ca/1.3407103.1452957185!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/david-macnaughton.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Canada's new ambassadors to U.S., UN are David MacNaughton, Marc-André Blanchard</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/ottawa/william-shakespeare-400-quiz-1.3406107" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Romeo and Juliet ' width='100%' src='http://i.cbc.ca/1.3406153.1452888033!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/romeo-and-juliet.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Take the Shakespeare 400 quiz</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/ottawa/our-ottawa-ice-storm-1.3406397" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='ice storm military archives casselman ontario' width='100%' src='http://i.cbc.ca/1.3406461.1452894345!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/ice-storm-military-archives-casselman-ontario.jpg' />				    									<span class="promo-label label ourottawa">OUR OTTAWA</span>
 						</p>		
-			<p class="promo-title complexlink-target">450 Syrian refugees waiting for permanent housing in Ottawa</p>
+			<p class="promo-title complexlink-target">Military thaws out Ottawa Valley after 1998 ice storm</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/jim-watson-jim-waterson-1.3404080" class="complexlink">
+									    		 		<a href="/news/canada/ottawa/100-years-of-loss-serves-as-important-centrepiece-of-reconciliation-showcase-1.3406372" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Jim Waterson Jim Watson' width='100%' src='http://i.cbc.ca/1.3404300.1452803562!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/jim-waterson-jim-watson.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Tweets meant for Mayor Jim Watson sent to U.K. journalist</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/ottawa-restaurant-gatineau-bar-seized-to-disrupt-dismantle-drug-trafficking-ring-1.3404354" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='rcmp patch' width='100%' src='http://i.cbc.ca/1.3397809.1452465055!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/rcmp-patch.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Ottawa restaurant, Gatineau bar seized to 'disrupt, dismantle' drug trafficking ring</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/ottawa-police-sexual-assault-arrest-2-1.3404045" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='ottawa police service cruiser night cops' width='100%' src='http://i.cbc.ca/1.3335985.1448451198!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/ottawa-police-service-cruiser-night-cops.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Man charged with 2 counts of sexual assault after incidents in 2010, 2015</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/elderly-woman-critical-oc-transpo-bus-1.3403686" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='OC Transpo bus Carlingwood Shopping Centre Jan 11 2016' width='100%' src='http://i.cbc.ca/1.3398551.1452528818!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/oc-transpo-bus-carlingwood-shopping-centre-jan-11-2016.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Elderly woman dies after being hit by OC Transpo bus on Monday</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/ottawa/sniffer-dogs-from-across-canada-being-trained-at-ottawa-airport-1.3404131" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Sniffer dog training ottawa aiport' width='100%' src='http://i.cbc.ca/1.3404142.1452800151!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/sniffer-dog-training-ottawa-aiport.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Sniffer dogs from across Canada being trained at Ottawa airport</p>
+        					    			<img title='' height='79' alt='100 Years of Loss' width='100%' src='http://i.cbc.ca/1.3406404.1452897339!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/100-years-of-loss.JPG' />				    								</p>		
+			<p class="promo-title complexlink-target">100 Years of Loss serves as important centrepiece of reconciliation showcase </p>
 								</a>
 							</li>
 				    				</ul>
@@ -1625,7 +1596,7 @@ CBC.Queue.push({
 		YUI(yo).use('scroller', function(Y, result) {
 			if (result.success){
 				var instance = new CBC.APP.Scroller();
-				var conf = { parentid:"carousel_7_1186_1378740665-2075", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
+				var conf = { parentid:"carousel_7_1186_1378740665-25234", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
 		  		instance.init(Y, conf);
 			}
 		});
@@ -1658,7 +1629,7 @@ CBC.Queue.push({
 </style><footer id="cbc-globalfooter" class="sclt-globalFooter"><div class="cbc-globalfooter-section"><h2>Explore CBC</h2><ul><li><a href="http://www.cbc.ca">CBC Home</a></li><li><a href="http://www.cbc.ca/television/">TV</a></li><li><a href="http://www.cbc.ca/radio/">Radio</a></li><li><a href="http://www.cbc.ca/news">News</a></li><li><a href="http://www.cbc.ca/sports">Sports</a></li><li><a href="http://music.cbc.ca/">Music</a></li><li><a href="/arts/">Arts</a></li><li><a href="http://www.cbc.ca/kidscbc/">Kids</a></li><li><a href="http://www.cbc.ca/news/canada#region-nav">Local</a></li><li><a href="http://www.cbc.ca/documentaries/">Documentaries</a></li><li><a href="http://www.cbc.ca/punchline/">Comedy</a></li><li><a href="http://www.cbc.ca/books/">Books</a></li><li><a href="http://www.cbc.ca/parents/">Parents</a></li><li><a href="http://www.cbc.ca/news/aboriginal">Aboriginal</a></li><li><a href="http://www.cbc.ca/weather/">Weather</a></li><li><a href="http://www.cbc.ca/connects/">CBC Connects</a></li><li><a href="http://www.cbc.ca/archives/">Digital Archives</a></li><li><a href="http://www.cbc.ca/games/">Games</a></li><li><a href="http://www.cbc.ca/contests/">Contests</a></li><li><a href="http://www.cbc.ca/sitemap/">Site Map</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Stay Connected</h2><ul><li><a href="http://www.cbc.ca/mobile/services/">Mobile</a></li><li><a href="http://www.cbc.ca/rss/">RSS</a></li><li><a href="http://www.cbc.ca/radio/podcasts/">Podcasts</a></li><li><a href="http://subscriptions.cbc.ca/listmanagement">Newsletters &amp; Alerts</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Services and Information</h2><ul><li><a href="http://www.cbc.radio-canada.ca/en">Corporate Info</a></li><li><a href="http://www.cbc.ca/appearances/">Public Appearances</a></li><li><a href="http://www.cbc.ca/sitemap/">Commercial Services</a></li><li><a href="http://www.cbc.ca/permissions/">Reuse &amp; Permission</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/termsofuse.html">Terms of Use</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/privacy.html">Privacy Policy</a></li><li><a href="http://www.cbcshop.ca/">CBC Shop</a></li><li><a href="http://www.cbc.ca/connects/">Help</a></li><li><a href="http://www.cbc.ca/connects/">Contact Us</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/jobs/">Jobs</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/doing-business-with-us/">Doing Business with Us</a></li><li><a href="/productionfacilities/">Renting Facilities</a></li></ul></div><div class="cbc-globalfooter-bottom"><div class="cbc-globalfooter-logo"><p class="cbc"><a href="http://www.cbc.radio-canada.ca/">CBC</a></p><a href="http://www.cbc.radio-canada.ca/"><img class="cbc-globalfooter-logo" src="/i/o/globalnav/v14/images/cbc-gem.svg" width="40" height="40" alt="CBC gem logo"></a><p class="rc"><a href="http://www.cbc.radio-canada.ca/">Radio-Canada</a></p></div><div class="cbc-globalfooter-copyright"><p>©2016 CBC/Radio-Canada. All rights reserved</p></div><div class="cbc-globalfooter-bottom-link" lang="fr-CA"><a href="http://ici.radio-canada.ca/" hreflang="fr-CA">Visitez Radio-Canada.ca</a></div><div class="clear"></div></div></footer><script src="/i/o/globalnav/v14/scripts/globalfooter.js"></script><script>(function() {
 try{var a=
 {l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""}
-,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src=“//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
+,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
 {var g= "//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}
 catch(h){}};
 })();</script>

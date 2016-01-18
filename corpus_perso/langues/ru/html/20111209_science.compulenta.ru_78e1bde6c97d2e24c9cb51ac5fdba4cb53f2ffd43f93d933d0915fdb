@@ -1,805 +1,702 @@
-<!DOCTYPE HTML>
-<html>
+
+<!doctype html>
+<html class="no-js" lang="ru" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
-<meta name="keywords" content="���" />
-<meta name="description" content="����� ���� �������������, ���������� � �������������� ��������, ���������� ��-�� �������, ����������� �������, ����������� � ������� � ����������� ����. " />
-<link href="/bitrix/js/main/core/css/core.css?1310634218" type="text/css" rel="stylesheet" />
-<link href="/bitrix/templates/bitrix.3.x/styles.css?1105021110" type="text/css" rel="stylesheet" />
-<script type="text/javascript" src="/bitrix/js/main/core/core.js?1310634244"></script>
-<script type="text/javascript">BX.message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','bitrix_sessid':'f2746d9f5f4d61b0b9bb0c6019d52c50','JS_CORE_LOADING':'��������...','JS_CORE_WINDOW_CLOSE':'�������','JS_CORE_WINDOW_EXPAND':'����������','JS_CORE_WINDOW_NARROW':'�������� � ����','JS_CORE_WINDOW_SAVE':'���������','JS_CORE_WINDOW_CANCEL':'��������','JS_CORE_H':'�','JS_CORE_M':'�','JS_CORE_S':'�'})</script>
-<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?1310634223"></script>
-<script type="text/javascript" src="/bitrix/js/main/session.js?1310634129"></script>
-<script type="text/javascript">
-bxSession.Expand(1800, 'f2746d9f5f4d61b0b9bb0c6019d52c50', false, 'd74cb3d8cd722ee459f547412ae86adc');
-</script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>������������ ����� ����� ������� � 40% ������� ����������� ����� - ����� � ������� - ������������� � �������� - �����������</title>
-<meta name="description" content="" />
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<meta http-equiv="Cache-Control" content="no-cache" />
-<meta http-equiv="pragma" content="no-cache">
-<meta name="ctsearch" content="noindex,follow">
-<meta name="google-site-verification" content="YzOD-Cp5wA--XYBlPW4U3BkEKEO56t4vww5lAUZ8ARU" />
-<meta name="mailru-verification" content="f77e68c756454a61" /> 
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<link rel="icon" href="http://www.compulenta.ru/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.compulenta.ru/favicon.ico" type="image/x-icon">
-<link rel="alternate" type="application/rss+xml" title="�����������. �������" href="http://www.compulenta.ru/rss.xml">
-
-<link rel="alternate" type="application/rss+xml" title="��� �������� <�����������>" href="http://www.compulenta.ru/rss-podcast-all.xml">
-<link rel="alternate" type="application/rss+xml" title="<��������� ����� �����������> 192kbps" href="http://www.compulenta.ru/rss-podcast-digest.xml">
-<link rel="alternate" type="application/rss+xml" title="<��������� ����� �����������> 128kbps" href="http://www.compulenta.ru/rss-podcast-digest-128.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������" href="http://www.compulenta.ru/rss-podcast-solo.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������. ����� � �������" href="http://www.compulenta.ru/rss-podcast-science.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������. ������ � �������" href="http://www.compulenta.ru/rss-podcast-hard.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������. �������� � �����" href="http://www.compulenta.ru/rss-podcast-net.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������. ������" href="http://www.compulenta.ru/rss-podcast-business.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������. ���� � �������������" href="http://www.compulenta.ru/rss-podcast-soft.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������. ����" href="http://www.compulenta.ru/rss-podcast-games.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� �������-������� ������. ��������" href="http://www.compulenta.ru/rss-podcast-culture.xml">
-
-<link rel="alternate" type="application/rss+xml" title="�����������: ����� ��������" href="http://www.compulenta.ru/rss-lenta.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� ������� ������� ����� � �������" href="http://www.compulenta.ru/rss-science.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� ������� ������� ������ � �������" href="http://www.compulenta.ru/rss-hard.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� ������� ������� �������� � �����" href="http://www.compulenta.ru/rss-net.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� ������� ������� ������" href="http://www.compulenta.ru/rss-business.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� ������� ������� ���� � �������������" href="http://www.compulenta.ru/rss-soft.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� ������� ������� ����" href="http://www.compulenta.ru/rss-games.xml">
-<link rel="alternate" type="application/rss+xml" title="��������� ������� ������� ��������" href="http://www.compulenta.ru/rss-culture.xml">
-<link href="http://www.compulenta.ru/css/style.css" rel="stylesheet" type="text/css">
+  <title>Компьюлента: Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.</title>
 
 
-<script type="text/javascript" src="http://www.computerra.ru/advert/adriver.core.2.js"></script>
-
+  <!-- Mmmmm, Google Web Fonts. That's a paddlin'. -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:800,700,600,400&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Roboto:100' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="http://www.computerra.ru/wp-content/themes/ct/top/reset.css">
+  <link rel="stylesheet" href="http://www.computerra.ru/wp-content/themes/ct/top/style.css">
+  <link rel="stylesheet" href="http://www.computerra.ru/wp-content/themes/ct/style-new.css">
+  <link rel="stylesheet" href="http://www.computerra.ru/wp-content/themes/ct/style-new-2.css">
+  <link rel="stylesheet" href="http://www.computerra.ru/wp-content/themes/ct/media/css/prettyPhoto/css/style.css">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="http://www.computerra.ru/wp-content/themes/ct/media/js/plugins/jquery.prettyPhoto.js"></script>
+  <script src="http://www.computerra.ru/wp-content/themes/ct/new.js"></script>
 <!-- Put this script tag to the <head> of your page -->
-<script type="text/javascript" src="http://userapi.com/js/api/openapi.js?24"></script>
-<script type="text/javascript">
-  VK.init({apiId: 2293016, onlyWidgets: true});
+<script src="//vk.com/js/api/openapi.js" type="text/javascript"></script>
+ <!--script type="text/javascript" src="http://userapi.com/js/api/openapi.js?49"></script-->
+  <script type="text/javascript">
+    VK.init({apiId: 2965852, onlyWidgets: true});
+  </script>
+<style>
+#pp_full_res iframe {
+	border: 0 !important;
+	overflow:hidden;
+}
+</style>
+  <script src="http://www.computerra.ru/wp-content/themes/ct/media/js/plugins/jquery.zclip.js"></script>
+
+		<script type="text/javascript" src="http://www.computerra.ru/wp-content/themes/ct/top/jquery.jcarousellite.js"></script>
+		<script type="text/javascript" src="http://www.computerra.ru/wp-content/themes/ct/top/mousewheel.js"></script>
+
+<script>
+$(document).ready(function(){
+   	$(".block-scroll").jCarouselLite({
+		mouseWheel: true,
+		visible: 1,
+		auto: 4000,
+	    speed: 1000
+   	});
+});
 </script>
-    
-
-<style>
-#branding_link {
-    width:100%;
-    height: 100%;
-    position: fixed;
- z-index:-1;
- background: url(http://www.computerra.ru/images/advert/samsung/fon2.jpg) no-repeat top center #97e2ff;
-left: 0;
-}
-#under {
-	width: 1010px; margin: 0 auto; top: 330px;/* left: 50%; margin-left: -505px !important;*/ background-color: #fff; padding: 0;
-}
-</style>
-<!--[if IE]>
-<style>
-#1c {width: 1010px !important;}
-</style>
-<![endif]-->
-
-<style>
-/* ��� IE */
-*html body {
-    background: url('null.gif') no-repeat;
-    background-attachment: fixed;
-}
-*html #branding_link {
-    position: absolute;
-    top: expression(document.getElementsByTagName(
-    `body`)[0].scrollTop + "px");
-}
-</style>
-
-<style>
-.stop {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	background: url(http://old.computerra.ru/images/advert/samsung/fon-top3.jpg) no-repeat top center;
-	height: 350px;
-}
-.top-link {
-	display: block;
-	width: 100%;
-	height: 350px;
-}
-.top-link1 {
-	display: block;
-	width: 135px;
-	height: 30px;
-	left: 50%;
-	margin-left: 285px;
-	top: 120px;
-	border: 0px solid red;
-	position: absolute;
-}
-.top-link2 {
-	display: block;
-	width: 135px;
-	height: 35px;
-	left: 50%;
-	margin-left: 295px;
-	top: 160px;
-	border: 0px solid red;
-	position: absolute;
-}
-.sleft {
-	position: absolute;
-	right: 50%;
-	top: 273px;
-	margin-right: 560px;
-}
-.sright {
-	position: absolute;
-	left: 50%;
-	top: 273px;
-	margin-left: 560px;
-}
-.slogo {
-	position: absolute;
-	left: 50%;
-	top: 100px;
-	margin-left: 560px;
-	text-align: center;
-}
-.sleft img {
-	max-width: 100%;
-    width: 100%;
-}
-.sright img {
-	max-width: 100%;
-    width: 100%;
-}
-.slogo img {
-	max-width: 293px;
-    width: 80%;
-}
-@media (max-width: 1400px) {
-.sleft {
-	display:none;
-  }
-.sright {
-	display:none;
-  }
-.slogo {
-	display:none;
-  }
-}
-</style>
 
 </head>
 
 <body>
 
-<!-- Yandex.Metrika counter -->
-<div style="display:none;"><script type="text/javascript">
-(function(w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter12967219 = new Ya.Metrika({id:12967219, enableAll: true, webvisor:true});
-        }
-        catch(e) { }
-    });
-})(window, "yandex_metrika_callbacks");
-</script></div>
-<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
-<noscript><div><img src="//mc.yandex.ru/watch/12967219" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<script type="text/javascript" src="/files/adriver.core.2.js"></script>
 
-<!--  AdRiver code START. Type:ZeroPixel Site: Clenta PZ: 1 BN: 3 -->
-<script language="javascript" type="text/javascript"><!--
-var RndNum4NoCash = Math.round(Math.random() * 1000000000);
-var ar_Tail='unknown'; if (document.referrer) ar_Tail =
-escape(document.referrer);
-document.write('<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?' +
-'sid=40072&bn=3&bt=21&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail +
-'" border=0 width=1 height=1>')
-//--></script>
-<noscript><img
-src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=40072&bn=3&bt=21&pz=1&rnd=5428
-120" border=0 width=1 height=1></noscript><!--  AdRiver code END  -->
-
-
-
-<table class="centered" align="center" width=1000 style="table-layout: fixed;">
-
-<tr><td><!-- table fix ie 5 bug -->
-</td></tr>
-<tr><td>
-
-<div id="tophban" align=center style="padding-bottom: 0px; margin-left: -12px;">
-</div>
-</td></tr>
-
-<tr><td style="padding-top: 0px;">
-<div class="header tr"><div class="header-line"><div class="header-line2"><div class="header-bg2">
-	<ul class="horizontal">
-		<li><a href="http://www.computerra.ru">�����������</a></li>
-		<li><a href="http://www.business-magazine.ru">������&ndash;������</a></li>
-		<li><a href="http://www.computerra.ru/terralab/">��������</a></li>
-		<li><a href="http://www.ibusiness.ru">iBusiness</a></li>
-	</ul>
-<a href="http://www.compulenta.ru/">
-<img src="http://www.compulenta.ru/img/compulenta.gif" class="logo" alt="�����������" >
-	</a>
-
-<div style="height: 1px; float: left;">
-
-
-<script language="javascript" type="text/javascript"><!--
-var RndNum4NoCash = Math.round(Math.random() * 1000000000);
-var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
-document.write(
-'<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?'
-+ 'sid=1&ad=112233&bt=21&pid=242743&bid=460262&bn=460262&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
-//--></script>
-<noscript>
-<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=112233&bt=21&pid=242743&bid=460262&bn=460262&rnd=135860853" border=0 width=1 height=1>
-</noscript><img src="http://counter.rambler.ru/top100.cnt?230514" alt="" width=1 height=1 border=0 style="visibility:hidden;"><script language="JavaScript"><!--
-d=document;a='';a+=';r='+escape(d.referrer)
-js=10//--></script><script language="JavaScript1.1"><!--
-a+=';j='+navigator.javaEnabled()
-js=11//--></script><script language="JavaScript1.2"><!--
-s=screen;a+=';s='+s.width+'*'+s.height
-a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
-js=12//--></script><script language="JavaScript1.3"><!--
-js=13//--></script>
-
-</div>
-<form class="searchbox" method="get" action="http://www.compulenta.ru/gsearch.php" name="search"><input onFocus="this.value= (this.value=='����� �� �����') ? '' : this.value" onBlur="this.value= (this.value=='') ? '����� �� �����' : this.value" value="����� �� �����" type="text" size="20" maxlength="50" class="text" name="q" ><input type="submit" name="s" value="�����" class="but"></form>
-
-	<!--form action="" class="searchbox"><input type="text" value="����� �� �����" size="20" maxlength="50" class="text"><input type="submit" value="�����" class="but"></form-->
-
-</div></div></div></div>
-
-
-<div class="menu tr">
-	<ul class="horizontal">
-		<li><a href="http://www.compulenta.ru" style="font-size: 14px;">������� ��������</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px;" href="http://hard.compulenta.ru/">������</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px;" href="http://soft.compulenta.ru/">���� � ������������</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px;" href="http://net.compulenta.ru/">�������� � �����</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px;" href="http://science.compulenta.ru/">����� �&nbsp;�������</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px;" href="http://games.compulenta.ru/">����</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px;" href="http://culture.compulenta.ru/">��������</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px;" href="http://business.compulenta.ru/">������</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li ><a style="font-size: 14px; " href="http://podcast.compulenta.ru/">�������</a>&nbsp;<span style="padding: 0px 2px; margin-left: 0px;">|</span></li>
-		<li><a style="font-size: 14px;" href="http://www.compulenta.ru/lenta/">����� ��������</a></li>
-
-<!--  AdRiver code START. Type:counter(zeropixel) Site: Clenta PZ: 1 BN: 1 -->
-<script language="javascript" type="text/javascript"><!--
-var RndNum4NoCash = Math.round(Math.random() * 1000000000);
-var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
-document.write('<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?' + 'sid=40072&bn=1&bt=21&pz=1&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
-//--></script>
-<noscript><img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=40072&bn=1&bt=21&pz=1&rnd=1496772804" border=0 width=1 height=1></noscript>
-<!--  AdRiver code END  -->
-<img src="http://view.atdmt.com/MRR/view/398142230/direct/01/" border=0 width=1 height=1>
-	</ul>
-
-
-</div>
-
-
-
-<!-- google_ad_section_start -->
-<div class="tr">
-	<h2 class="h-line"><span class="news_one" style="font-size: 16px; text-transform: uppercase;">����� � �������</span></h2>
-
-<div style="float:left;">
-<table>
-<tr><td valign=top>
-
-	<div class="content block">
-
-<p style="padding-bottom: 10px;"><a href='http://science.compulenta.ru'>����� � �������</a> / <a href='http://science.compulenta.ru/biotechnology/'>������������� � ��������</a> / </p>		<div class="newstext block" style='width: 600px;'>
-			<h1>������������ ����� ����� ������� � 40% ������� ����������� �����</h1>
-			<p class="d">08 ������� 2011 ����, 09:40 | 
-			�����: ������� ������� | <a href='#player' style='text-decoration: none; font-size: 11px;'>��������� ��� �������</a>			</p>
-			<div class="newsbody">
-			                        <p>���� �������� ������ ������ ���� � ������ � ��������� �� ������� ����, �������������� ����� ���������� �� 134 ������ �������, ���������� �������� �� �������������� ����������� <noindex><a target=_blank href=http://www.cancerresearchuk.org/>Cancer�Research UK</a></noindex>. </p> <p><center><div class="pic" style="float:right; margin: 0 0 10px 10px;"><img src="/upload/iblock/705/smoking_600.jpg" width="600" height="364" alt="������� ������� ���������, � ����� �������. (���� a nice idea every day / Corbis.)" ><table width="600"><tr><td align=left class="small_alt" style="font-weight: bold; font-size: 11px; padding-top: 3px;">������� ������� ���������, � ����� �������. (���� a nice idea every day / Corbis.)</td></tr></table></div></center></p> <p>�� ������ ��������������, ����� 40% ������� ����������� ����� � ������ � 45% � ������ ����� ������ �� ����, ���� ���� ������ ����� ����� �������� ����� �����. </p> <p>���� �������� �������� ����� ��������� �������, ������� ������������ �� 23% ������� ����������� ����� � ������ � 15,6% � ������, ������ ���� � ������������� ����������� ������ ��� ��������� �����. ���, ���������� ��� ���� ����, ��� ��������������� ���������, ����������� ��� ����� � ������. � ������������ ������� � ������� ������, ������� � ������� �������, �� ������� ���� � �������� ���� � ������������ �� 9,2% ���� ������� ����������� �����.</p>
-
- <p>�������� � ������ ��� ���� �������� ������������� 5,5% ������� ����������� ����� � �����, �� ���� ��������� ������� �� ����, �� ���������, ��� ��� ������� �������������� 6,9% ������� ���� � ������ � 4,1% � � ������. ������� ��������� � �������� ��-�� ���� �����: ���������� ����� ���� ������� �������� ����� � 80% ���������� �������������������� ����� �������� ������.</p> <p>�������� ����������� 4% ������� ����������� ����� � ����� (4,6% � ������ � 3,3% � ������). � ����������� � ��������� ������ � ������� ������� � 3,5% �������. � ������ ���� ����� ������� �������������� ����� ������� ��-�� ����, ��� ��� �� ������� ������������� ���� ������ ������� � ������ � ����. ��� ���������� ����� ������� �������������� ��� ������������ Cancer Research UK.</p> <p>� ���� ������������ ��������� � ������ ������� ����� � �������� (������� ���������� ��� ����� ����� ����� ��������� ��������), ������ � ��������, ������������� ����� �����, ��������, ����� �� �������� ������������� ������,; ������������� ��������������������� �������.</p> <p>������ ��������, ��� �� ������ ������� �������� ������, ��� ��� � ��� �� ������ �����, � ��� � ��������� ������ ������ �����, ������ ������ ������� ����� ����� �������. </p> <p>���������� ������������ ������������ � ������� <noindex><a target=_blank href=http://www.nature.com/bjc/journal/v105/n2s/index.html>British Journal of Cancer</a></noindex>. </p> <p>������������ �� ���������� <noindex><a target=_blank href=http://info.cancerresearchuk.org/news/archive/pressrelease/2011-11-07-cigarettes-diet-alcohol-and-obesity-behind-more-than-100000-cancers>Cancer Research UK</a></noindex>. </p>
-<!-- google_ad_section_end -->
-<div style="clear: both;"></div>
-
-<a name="player"></a>
-			<table cellspacing=0 cellpadding=0 style="border: solid 1px #CCCCCC; margin: 10px 0px 20px 0; padding: 0 0 0px 0;">
-			<tr><td width=310 height=70>
-<object type="application/x-shockwave-flash" data="http://www.compulenta.ru/player/pec_player.swf" width="290" height="65" id="recent-mp3" align="middle">
-<param name="allowScriptAccess" value="sameDomain" />
-<param name="movie" value="http://www.compulenta.ru/player/pec_player.swf" />
-<param name="FlashVars" value="episodeUrl=http://www.compulenta.ru/upload/podcast/solo/1112december/science.649912.mp3">
-<param name="loop" value="false" />
-<param name="menu" value="false" />
-<param name="quality" value="high" />
-<param name="scale" value="noscale" />
-<param name="salign" value="lt" />
-<param name="bgcolor" value="#ffffff" />
-<embed 
-	src="http://www.compulenta.ru/player/pec_player.swf" 
-	FlashVars="episodeUrl=http://www.compulenta.ru/upload/podcast/solo/1112december/science.649912.mp3" 
-	quality="high" 
-	bgcolor="#ffffff" 
-	width="290" 
-	height="65" 
-	name="recent-mp3" 
-	align="middle" 
-	allowScriptAccess="sameDomain" 
-	type="application/x-shockwave-flash" 
-	pluginspage="http://www.macromedia.com/go/getflashplayer" 
-/>
-</object>
-			</td><td style="font-size: 12px; padding: 0 10px 0 0;" align=left valign=middle>
-������ ���� �������� �������� ������� <a href="http://www.compulenta.ru/podcast/">���������� ����� &laquo;�����������&raquo;</a>!
-			</td></tr>
-			</table>
-
-
-<div style="border-bottom: 1px solid #777; margin: 0 0 20px 0; padding: 0 0 10px 0;">
-
-    
-<div style="width: 600px; margin-top: 5px;">
-<table width=100% cellspacing=0 cellpadding=0><tr>
-<td width=30% style="padding-top: 0px;">
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=311357705606754";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-action="recommend"></div>
-</td>
-<td width=16%>
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="compulenta">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-</td>
-<td width=26%>
-<!-- Put this div tag to the place, where the Like block will be -->
-<div id="vk_like"></div>
+<div class="adbantop111">
+<!--  AdRiver code START. Type:AjaxJS Site: CTerra SZ: first PZ: 1 BN: 2 -->
+<div id="adriver_banner_1557986537"></div>
 <script type="text/javascript">
-VK.Widgets.Like("vk_like", {type: "button", verb: 1});
+//new adriver("adriver_banner_1137524485", {sid:41137, bt:52, sz:'first', bn:2, pz:1});
 </script>
-</td>
-<td width=18%>
-<noindex>
-<form method="post" action=http://www.livejournal.com/update.bml name="updateForm" rel="nofollow" target="_blank">
-<div style="display:none;visible:false">
-<input type="text" maxlength="100" name="subject" id="subject" class="text" size="43" value="Компьюлента: Неправильный образ жизни виноват в 40% случаев заболевания раком"/>
-<textarea rows="1" cols="1" name="event">
-<div style="float: left; padding: 0 10px 10px 0;"><a href=""><img src="http://www.compulenta.ru/upload/iblock/ef4/ku.jpg" border=0 alt="" width="160" height="130" /></a></div>
-Треть всех онкопациентов, выявляемых в Великобритании ежегодно, заболевают из-за курения, нездорового питания, пристрастия к выпивке и избыточного веса. <a href="" style="margin-left: 10px; font-weight: bold;">Читайте продолжение на Compulenta.ru</a>
-</textarea>
-</div>
-<input type="image" src="http://read.ru/images/buttons/livejournal_button.jpg" alt="������������ � ��" title="������������ � ��" value="������������ � ��" height=20></form>
-</noindex>
-</td>
-<td width=12% align=right style="padding-top: 5px;">
-<!-- Place this tag where you want the +1 button to render. -->
-<div class="g-plusone" data-size="tall" data-annotation="none"></div>
-
-<!-- Place this tag after the last +1 button tag. -->
-<script type="text/javascript">
-  window.___gcfg = {lang: 'ru'};
-
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-</td>
-</tr>
-</table>
-</div>
-
-<div style="clear: both;"></div>
 
 </div>
 
 
-     
-        <table>
-            <tr>
-                <td>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-3410044437560983";
-/* ��_middle_300_txt_scie */
-google_ad_slot = "2324170617";
-google_ad_width = 336;
-google_ad_height = 280;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-                 </td>
-                <td>
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-3410044437560983";
-/* ��_middle_300_img_scie */
-google_ad_slot = "4759883766";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-                </td>
-            </tr>
-        </table>
-    
-
-
-
-<div style="clear: both; height: 20px;"></div>
-
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'clenta'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-
-
-
-				<div class="ad" style="float:left; margin: 0px 20px 20px 0px;">
-				</div>
-
-
-
-			</div>
-
-
-			<p class="ulheader" style="font-size: 12px;">��������� ������� �� ���� "������������� � ��������":</p>
-			<div style="margin-left: 30px;">
-			<ul class="hidlink">
-				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746943/">����� ��� ������ �� ��������</a><span style="font-size:11px;"> | 25 ������ 2013 ����, 18:11</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746886/">������ ���������� ����� ����� ������� �������� � �������</a><span style="font-size:11px;"> | 25 ������ 2013 ����, 15:28</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746841/">����� �������� ������ H7N9 ����������� ������</a><span style="font-size:11px;"> | 25 ������ 2013 ����, 12:48</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746762/">����� �� �������������� ������ ���� � ������� ��� �� ��������?</a><span style="font-size:11px;"> | 24 ������ 2013 ����, 17:57</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746696/">��������� ����� ���� ����, ����� ���������� ������������ � ����� ������������</a><span style="font-size:11px;"> | 24 ������ 2013 ����, 15:20</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746563/">�������� �������� �� ��������������� �������� </a><span style="font-size:11px;"> | 23 ������ 2013 ����, 18:23</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746488/">������������� ������� ������ ����� ������ �� �� ����������� �����������</a><span style="font-size:11px;"> | 23 ������ 2013 ����, 14:20</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746450/">��������������� ��������� ����� ���������� � ������� ������������� ��������</a><span style="font-size:11px;"> | 23 ������ 2013 ����, 12:25</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746405/">������ ��, ��� �������� ����� ������?</a><span style="font-size:11px;"> | 22 ������ 2013 ����, 21:11</span></li>				<li style="margin-left: -30px; padding-left: 0px;"><a href="http://science.compulenta.ru/746381/">��� �������� ���� �� ������������</a><span style="font-size:11px;"> | 22 ������ 2013 ����, 19:37</span></li>			</ul>
-			</div>
-			<div class="preview">
-				<div class="block mar" style="background-color:#FFFFFF; border: 1px solid #e6e6e6; width: 600px;">
-
-			</div>
+<div class="top">
+	<div class="top-inner">
+		<div class="top-logo">
+			<a href="/lenta/"><img src="/files/i/ct/CL_beta.svg" class="logo-ct" ></a>
 		</div>
 
-<div align=center style="margin-top: 10px; padding: 5px; border: 1px solid #e6e6e6;">
-     
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-3410044437560983";
-/* ��_cont_mid_scie_img_down */
-google_ad_slot = "3242386694";
-google_ad_width = 336;
-google_ad_height = 280;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-    
+		<div class="side-nav toggleMenu">
+		  <button class="navbar-toggle">
+		    <span class="sr-only">Toggle navigation</span>
+		    <span class="icon-bar icon-bar-top"></span>
+		    <span class="icon-bar icon-bar-middle"></span>
+		    <span class="icon-bar icon-bar-bottom"></span>
+		  </button>
+		</div>
+
+		<div class="top-menu">
+			<div class="top-menu-element"><a href="/tech/">Технологии<div class="top-menu-element-triangle"></div></a></div>
+			<div class="top-menu-element"><a href="/innovations/">Инновации<div class="top-menu-element-triangle"></div></a></div>
+			<div class="top-menu-element"><a href="/">Компьютерра<div class="top-menu-element-triangle"></div></a></div>
+			<div class="top-menu-element" style="float: right; padding-right: 0 !important;">
+				<form action="http://www.computerra.ru/search" method="GET" style="display: inline;"><input type="text" name="q" class="top-search-input" placeholder="ПОИСК НА COMPUTERRA.RU"><input type="image" src="/files/i/ct/loupe.svg"></form>
+			</div>
+		</div>
+	</div>
+	<div class="top-submenu-cl">
+				<div class="top-submenu-razdel-cl">
+			<a href="/lenta/infosec">Безопасность</a><a href="/lenta/gadgets">Гаджеты</a><a href="/lenta/russia">Государство</a><a href="/lenta/net">Интернет</a><a href="/lenta/business">ИТ-рынок</a><a href="/lenta/enterprise">Корпоративные ИТ</a><a href="/lenta/scitech">Наука и техника</a><a href="/lenta/entertainment">Развлечения</a><a href="/lenta/software">Софт</a><a href="/lenta/telecom">Телеком</a>		</div>
+			</div>
 </div>
-<div  class='block mar' style='padding-top: 5px;'><!--  AdRiver code START. Type:600x120 Site: Clenta SZ: regular PZ: 2 BN: 2 -->
+
+<div class="clear"></div>
+
+<div class="slidedown-cl"></div>   
+
+<div class="main main-cl">
+<div class="main-cl-inner">
+
+<div class="nav-container">
+<ul class="nav">
+	<li class="nav-test"><a href="/tech/">ТЕХНОЛОГИИ</a></li>
+	<li><a href="/innovations/">Инновации</a></li>
+	<li>
+		<a href="/lenta/">Компьюлента<div class="nav-triangle"></div></a>
+		<ul>
+			<li><a href="/lenta/infosec">Безопасность</a></li>
+			<li><a href="/lenta/gadgets">Гаджеты</a></li>
+			<li><a href="/lenta/russia">Государство</a></li>
+			<li><a href="/lenta/net">Интернет</a></li>
+			<li><a href="/lenta/business">ИТ-рынок</a></li>
+			<li><a href="/lenta/enterprise">Корпоративные ИТ</a></li>
+			<li><a href="/lenta/scitech">Наука и техника</a></li>
+			<li><a href="/lenta/entertainment">Развлечения</a></li>
+			<li><a href="/lenta/software">Софт</a></li>
+			<li><a href="/lenta/telecom">Телеком</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="/iot/">Интернет вещей<div class="nav-triangle"></div></a>
+		<ul>
+			<li><a href="/iot/robots/">Роботы</a></li>
+			<li><a href="/iot/smart-machines/">Умные машины</a></li>
+			<li><a href="/iot/m2m-smart-machines/">M2M</a></li>
+		</ul>
+	</li>
+	<li>
+		<a href="/bigdata/">Big Data<div class="nav-triangle"></div></a>
+		<ul>
+			<li><a href="/bigdata/newsfeed/">НОВОСТИ</a></li>
+			<li><a href="/bigdata/cases/">ПРАКТИКА</a></li>
+			<li><a href="/bigdata/technology/">ТЕХНОЛОГИИ</a></li>
+			<li><a href="/bigdata/think/">МНЕНИЯ</a></li>
+			<li><a href="/bigdata/security/">БЕЗОПАСНОСТЬ</a></li>
+		</ul>
+	</li>
+	<li><a href="/mobile/">MObile</a></li>
+	<li><a href="/it-market/">ИТ-рынок</a></li>
+	<li>
+		<a href="/cio/">CIO<div class="nav-triangle"></div></a>
+		<ul>
+			<li><a href="/cio/management/">Управление</a></li>
+			<li><a href="/cio/tech/">Технологии</a></li>
+			<li><a href="/cio/market/">Рынки</a></li>
+			<li><a href="/cio/companies/">Компании</a></li>
+			<li><a href="/cio/persons/">Люди</a></li>
+		</ul>
+	</li>
+	<li><a href="/opinions/">МНЕНИЯ</a></li>
+	<li><a href="/promzona/">ПРОМЗОНА</a></li>
+	<li><a href="/terralab/">ТЕРРАЛАБ</a></li>
+	<li>
+		<form action="http://www.computerra.ru/search" method="GET">
+			<div class="nav-search">
+				<input type="text" name="q" class="top-search-input" placeholder="ПОИСК НА COMPUTERRA.RU"><input type="submit" class="top-search-submit" value="OK">
+			</div>
+		</form>
+	</li>
+	<li style="height: 1px; z-index: -10 !important;">
+		<a href="#"></a>
+		<ul>
+			<li><a href="/cio/tech/">Технологии</a></li>
+			<li><a href="/cio/market/">Рынки</a></li>
+			<li><a href="/cio/companies/">Компании</a></li>
+			<li><a href="/cio/persons/">Люди</a></li>
+			<li><a href="/cio/tech/">Технологии</a></li>
+			<li><a href="/cio/market/">Рынки</a></li>
+			<li><a href="/cio/companies/">Компании</a></li>
+			<li><a href="/cio/persons/">Люди</a></li>
+			<li><a href="/cio/tech/">Технологии</a></li>
+			<li><a href="/cio/market/">Рынки</a></li>
+			<li><a href="/cio/companies/">Компании</a></li>
+			<li><a href="/cio/persons/">Люди</a></li>
+		</ul>
+	</li>
+</ul>
+</div>
+
+
+<a class="hash"	id="0"></a>
+
+
+		<div class="item " >
+
+<a href="#" class="item-post-video-play"><img src="/files/i/ct/play_mini.svg"></a><div class="item-post-video"><div class="video-container"><iframe width="500" height="282" src="//www.youtube.com/embed/0yx6UIO6Xg0?rel=0" frameborder="0" allowfullscreen></iframe></div></div>			<div class="item-pic">
+				<a href="http://www.computerra.ru/lenta/software/" class="item-section">Софт</a>
+
+				<img src="http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-37-500x281.jpg" alt="Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции." width=360 height=210>
+				<div class="item-soc item-left-soc">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138495','Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-37-500x281.jpg','http://www.youtube.com/watch?v=0yx6UIO6Xg0 Йошуа Браудер учится в школе при Стэнфордском университете со специализацией в области экономики и компьютерных наук. Его программный робот позволяет получить ответы на вопросы, связанные с правилами оплаты парковки, страховыми платежами, задержкой и прибытием самолетов и поездов. Робот может также обосновать законность приобретения билетов выбранного типа.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138495','Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-37-500x281.jpg','http://www.youtube.com/watch?v=0yx6UIO6Xg0 Йошуа Браудер учится в школе при Стэнфордском университете со специализацией в области экономики и компьютерных наук. Его программный робот позволяет получить ответы на вопросы, связанные с правилами оплаты парковки, страховыми платежами, задержкой и прибытием самолетов и поездов. Робот может также обосновать законность приобретения билетов выбранного типа.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138495','Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138495'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138495"></a>
+				</div>
+			</div>
+			<div class="item-text item-text-cl">
+<a href="http://www.computerra.ru/lenta/?id=138495">Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.</a>  Йошуа Браудер учится в школе при Стэнфордском университете со специализацией в области экономики и компьютерных наук. Его программный робот позволяет получить ответы на вопросы, связанные с правилами оплаты парковки, страховыми платежами, задержкой и прибытием самолетов и поездов. Робот может также обосновать законность приобретения билетов выбранного типа. 			</div>
+
+			
+			<div class="item-soc item-soc-2">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138495','Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-37-500x281.jpg','http://www.youtube.com/watch?v=0yx6UIO6Xg0 Йошуа Браудер учится в школе при Стэнфордском университете со специализацией в области экономики и компьютерных наук. Его программный робот позволяет получить ответы на вопросы, связанные с правилами оплаты парковки, страховыми платежами, задержкой и прибытием самолетов и поездов. Робот может также обосновать законность приобретения билетов выбранного типа.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138495','Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-37-500x281.jpg','http://www.youtube.com/watch?v=0yx6UIO6Xg0 Йошуа Браудер учится в школе при Стэнфордском университете со специализацией в области экономики и компьютерных наук. Его программный робот позволяет получить ответы на вопросы, связанные с правилами оплаты парковки, страховыми платежами, задержкой и прибытием самолетов и поездов. Робот может также обосновать законность приобретения билетов выбранного типа.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138495','Британский школьник написал программу, позволяющую получать ответы на вопросы по юриспруденции.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138495'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138495"></a>
+			</div>
+
+
+			<div class="item-popup">
+			<div class="item-popup-inner">
+				<a class="popup-link" onClick="return false;" href="http://www.computerra.ru/lenta/?id=138495">http://www.computerra.ru/lenta/?id=138495</a>
+				<button class="myButton item-soc-link-button" value="Копировать ссылку" title="http://www.computerra.ru/lenta/?id=138495">Копировать ссылку</button>
+			</div>
+			</div>
+
+									<div class="item-date" style="float: left;">
+				<span class="item-date-inner">2 дня назад</span>
+				<span class="item-author">Игорь Новиков</span>
+				<br>
+				<a class="item-source item-source-2" href="http://mashable.com/2016/01/13/british-teenager-creates-robot-lawyer/#Qw7awkGvROqs" target=_blank>источник</a>			</div>
+
+		</div>
+
+
+
+
+		<div class="item " >
+
+			<div class="item-pic">
+				<a href="http://www.computerra.ru/lenta/enterprise/" class="item-section">Корпоративные ИТ</a>
+
+				<img src="http://www.computerra.ru/wp-content/uploads/2016/01/3-8-500x282.jpg" alt="Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка." width=360 height=210>
+				<div class="item-soc item-left-soc">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138490','Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка.','http://www.computerra.ru/wp-content/uploads/2016/01/3-8-500x282.jpg','Сбербанк, в сентябре 2015 года завершивший централизацию ИТ-систем банка, собирается полностью поменять новую платформу. «Это был самый крупный и быстрый проект централизации ИТ-инфраструктуры в мире. Но, как только мы построили наш супер ЦОД, все закончили, мы пришли к выводу, что мы абсолютно неконкурентоспособны», — сказал президент Сбербанка Герман Греф.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138490','Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка.','http://www.computerra.ru/wp-content/uploads/2016/01/3-8-500x282.jpg','Сбербанк, в сентябре 2015 года завершивший централизацию ИТ-систем банка, собирается полностью поменять новую платформу. «Это был самый крупный и быстрый проект централизации ИТ-инфраструктуры в мире. Но, как только мы построили наш супер ЦОД, все закончили, мы пришли к выводу, что мы абсолютно неконкурентоспособны», — сказал президент Сбербанка Герман Греф.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138490','Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138490'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138490"></a>
+				</div>
+			</div>
+			<div class="item-text item-text-cl">
+<a href="http://www.computerra.ru/lenta/?id=138490">Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка.</a> Сбербанк, в сентябре 2015 года завершивший централизацию ИТ-систем банка, собирается полностью поменять новую платформу. «Это был самый крупный и быстрый проект централизации ИТ-инфраструктуры в мире. Но, как только мы построили наш супер ЦОД, все закончили, мы пришли к выводу, что мы абсолютно неконкурентоспособны», — сказал президент Сбербанка Герман Греф.			</div>
+
+			
+			<div class="item-soc item-soc-2">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138490','Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка.','http://www.computerra.ru/wp-content/uploads/2016/01/3-8-500x282.jpg','Сбербанк, в сентябре 2015 года завершивший централизацию ИТ-систем банка, собирается полностью поменять новую платформу. «Это был самый крупный и быстрый проект централизации ИТ-инфраструктуры в мире. Но, как только мы построили наш супер ЦОД, все закончили, мы пришли к выводу, что мы абсолютно неконкурентоспособны», — сказал президент Сбербанка Герман Греф.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138490','Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка.','http://www.computerra.ru/wp-content/uploads/2016/01/3-8-500x282.jpg','Сбербанк, в сентябре 2015 года завершивший централизацию ИТ-систем банка, собирается полностью поменять новую платформу. «Это был самый крупный и быстрый проект централизации ИТ-инфраструктуры в мире. Но, как только мы построили наш супер ЦОД, все закончили, мы пришли к выводу, что мы абсолютно неконкурентоспособны», — сказал президент Сбербанка Герман Греф.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138490','Президент Сбербанка Герман Греф назвал неконкурентоспособной ИТ-инфраструктуру банка.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138490'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138490"></a>
+			</div>
+
+
+			<div class="item-popup">
+			<div class="item-popup-inner">
+				<a class="popup-link" onClick="return false;" href="http://www.computerra.ru/lenta/?id=138490">http://www.computerra.ru/lenta/?id=138490</a>
+				<button class="myButton item-soc-link-button" value="Копировать ссылку" title="http://www.computerra.ru/lenta/?id=138490">Копировать ссылку</button>
+			</div>
+			</div>
+
+									<div class="item-date" style="float: left;">
+				<span class="item-date-inner">2 дня назад</span>
+				<span class="item-author">Сергей Орлов</span>
+				<br>
+				<a class="item-source item-source-2" href="http://www.rbc.ru/finances/15/01/2016/5698ce9d9a794791cf2c1748" target=_blank>источник</a>			</div>
+
+		</div>
+
+
+
+
+	<div class="item item-ban item-right">
+		<div class="item-ban item-ban-cl">
+			<div id="iframediv0">
+<!--  AdRiver code START. Type:240x400 Site: CTerra SZ: cl PZ: 3 BN: 1 -->
 <script type="text/javascript">
 var RndNum4NoCash = Math.round(Math.random() * 1000000000);
 var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
 document.write(
 '<iframe src="' + ('https:' == document.location.protocol ? 'https:' : 'http:') + '//ad.adriver.ru/cgi-bin/erle.cgi?'
-+ 'sid=40072&sz=regular&bn=2&target=top&w=600&h=214&bt=20&pz=2&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail
-+ '" frameborder=0 vspace=0 hspace=0 width=600 height=214 marginwidth=0'
-+ ' marginheight=0 scrolling=no></iframe>');
-</script>
-<noscript>
-<a href="//ad.adriver.ru/cgi-bin/click.cgi?sid=40072&sz=regular&bn=2&bt=20&pz=2&rnd=2093057485" target=_top>
-<img src="//ad.adriver.ru/cgi-bin/rle.cgi?sid=40072&sz=regular&bn=2&bt=20&pz=2&rnd=2093057485" alt="-AdRiver-" border=0 width=600 height=214></a>
-</noscript>
-
-<!--  AdRiver code END  --></div>	</div>
-
-				</div>
-
-</td>
-
-
-
-<td valign=top style="padding-left: 5px;" width=140>
-
-	<div class="links block mar" style="width:140px; margin: 5px 5px 0 0;">
-
-		<ul class="list">
-			<li><a href="http://science.compulenta.ru/747159/">������� �������� �� ������ ������</a></li>
-						<li><a href="http://science.compulenta.ru/747092/">���������� ����� ������� ������� ��������� ���� �� ��������� ����������</a></li>
-						<li><a href="http://science.compulenta.ru/747133/">� ������ ����� �������, ��� �� ������</a></li>
-						<li><a href="http://games.compulenta.ru/747112/">Ambient Studios ����� �������������</a></li>
-						<li><a href="http://games.compulenta.ru/747103/">����� XCOM �� ��� ���������������</a></li>
-						<li><a href="http://hard.compulenta.ru/747124/">Panasonic Lumix DMC-XS1: �������������� ���������� �� 200 ��������</a></li>
-						<li><a href="http://science.compulenta.ru/747069/">�������� ����� ��� ��������� �������� ����� ������������ ������������� �������</a></li>
-						<li><a href="http://hard.compulenta.ru/747118/">PocketBook SURFpad 2: ������� �� Android 4.1</a></li>
-						<li><a href="http://science.compulenta.ru/747116/">�������� ����� ������� �� ������ ����</a></li>
-						<li><a href="http://hard.compulenta.ru/747105/">DreamBook Lite W31: ������� � 11,6-�������� �������</a></li>
-						<li><a href="http://games.compulenta.ru/747087/">��������� �����-��� Dragon�s Dogma: Dark Arisen</a></li>
-						<li><a href="http://hard.compulenta.ru/747095/">Samsung ��������� �������� ATIV Book 5 � ATIV Book 6</a></li>
-						<li><a href="http://business.compulenta.ru/747084/">��������� ������� ����� ���������� ��������� ���������</a></li>
-						<li><a href="http://science.compulenta.ru/747061/">����������� ���� ����� ��� ������ Google ��-���� �����</a></li>
-						<li><a href="http://science.compulenta.ru/747082/">���� �� � ����� ��������?</a></li>
-						<li><a href="http://hard.compulenta.ru/747067/">Fujifilm FinePix JZ700: ���������� ����������� � 8-������� ��������������</a></li>
-						<li><a href="http://science.compulenta.ru/747048/">������� ����� ����� �������� �� ���������� ������</a></li>
-						<li><a href="http://games.compulenta.ru/747046/">���������� Call of Duty: Black Ops II � Uprising ������ 16 ���</a></li>
-						<li><a href="http://business.compulenta.ru/747052/">����������� ������� Samsung ���� �������</a></li>
-						<li><a href="http://science.compulenta.ru/747041/">����������� ���� � ������ ����� � ������� ����� ������������ �&nbsp;��������� �����</a></li>
-						<li><a href="http://culture.compulenta.ru/747037/">PocketBook Color Lux: �������� � ������� �������� E Ink Triton</a></li>
-					</ul>		
-	</div>	
-
-</td></tr>
-</table>
-</div>
-
-
-	<div class="block _noreachbanner_">
-		<div class="rcolumn" style="padding-top: 5px;">
-
-
-
-<div align=center style="margin-bottom: 15px;">
-			<!--  AdRiver code START. Type:240x400 Site: Clenta SZ: regular PZ: 2 BN: 2 -->
-<script language="javascript" type="text/javascript"><!--
-var RndNum4NoCash = Math.round(Math.random() * 1000000000);
-var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
-document.write(
-'<iframe src="http://ad.adriver.ru/cgi-bin/erle.cgi?'
-+ 'sid=40072&sz=regular&bn=2&target=top&bt=22&pz=2&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail
++ 'sid=41137&sz=cl&bn=1&target=top&bt=22&pz=3&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail
 + '" frameborder=0 vspace=0 hspace=0 width=240 height=400 marginwidth=0'
 + ' marginheight=0 scrolling=no></iframe>');
-//--></script>
-<noscript>
-<a href="/bitrix/rk.php?id=401&amp;event1=banner&amp;event2=click&amp;event3=6+%2F+%5B401%5D+%5BLeft_1%5D+%CA%CB+240x400+-++%E2%F2%EE%F0%FB%E5&amp;goto=http%3A%2F%2Fad.adriver.ru%2Fcgi-bin%2Fclick.cgi%3Fsid%3D40072%26sz%3Dregular%26bn%3D2%26bt%3D22%26pz%3D2%26rnd%3D1867024083" target=_top>
-<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=40072&sz=regular&bn=2&bt=22&pz=2&rnd=1867024083" alt="-AdRiver-" border=0 width=240 height=400></a>
-</noscript>
-
-<!--  AdRiver code END  -->
-</div>
-		
-
-
-
-
-
-
-<div class="novoteka"><b><a target=_blank style="color:black; text-decoration: none;" href="http://www.computerra.ru">�����������</a></b></div>
-
-<div style="margin-bottom: 10px; padding: 5px 10px 2px 0; text-decoration: none; border: 1px solid #e6e6e6; font-size: 11px;">
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-		<div style="margin: 5px 0;">
-		<!-- AdEngine Code START -->
-<!-- �����������: ������� ������������ ���������, ����� � �������. -->
-<!-- 240x400 -->
-<script language="JavaScript"><!--
-function k_ph(p){document.write('<div id="kph'+p+'" style="display:none"><\/div>');}
-function k_c(p){document.write('<div style="visibility:hidden;position:absolute"><iframe id="k_c'+p+'" width=1 height=1 marginwidth=0 marginheight=0 scrolling=no frameborder=0><\/iframe><\/div>');}
-function k_getCode(n,p,s){
-var d;
-if(n<10){try{if(document.all && !window.opera){d = window.frames['k_c'+p].document;}
-else if(document.getElementById){d=document.getElementById('k_c'+p).contentDocument;}}catch(e){}
-if(d){d.write('<scr'+'ipt type="text/javascript">var kphid="kph'+p+'";<\/scr'+'ipt>');
-d.write('<scr'+'ipt type="text/javascript" src="'+s+'"><\/scr'+'ipt>');}
-else {setTimeout('k_getCode('+(++n)+','+p+',"'+s+'")', 100);}
-}}
-if (typeof(document.referrer) != 'undefined') {afReferrer = escape(document.referrer);}
-else {afReferrer = '';}
-var addate = new Date();
-if ('undefined' == typeof(kav_cn)){ var kav_cn = 0; } else {++kav_cn;}
-k_ph(kav_cn); k_c(kav_cn);
-k_getCode(1,kav_cn,'http://b.kavanga.ru/exp?sid=1176&bt=5&bn=1&bc=3&ct=2&pr=' + Math.round(Math.random()*100000) + '&pt=b&pd=' + addate.getDate() + '&pw=' + addate.getDay() + '&pv=' + addate.getHours() + '&prr=' + afReferrer);
-//-->
 </script>
-<!-- AdEngine Code FINISH -->		</div>
-	
+<noscript>
+<a href="//ad.adriver.ru/cgi-bin/click.cgi?sid=41137&sz=cl&bn=1&bt=22&pz=3&rnd=887940145" target=_top>
+<img src="//ad.adriver.ru/cgi-bin/rle.cgi?sid=41137&sz=cl&bn=1&bt=22&pz=3&rnd=887940145" alt="-AdRiver-" border=0 width=240 height=400></a>
+</noscript>
+<!--  AdRiver code END  -->
+							</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+
+		<div class="item " >
+
+			<div class="item-pic">
+				<a href="http://www.computerra.ru/lenta/business/" class="item-section">ИТ-рынок</a>
+
+				<img src="http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-34-500x281.jpg" alt="Компания Fixstars выпустила самый большой по емкости SSD-диск." width=360 height=210>
+				<div class="item-soc item-left-soc">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138481','Компания Fixstars выпустила самый большой по емкости SSD-диск.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-34-500x281.jpg','Емкость SSD-13000M составляет 13 Тбайт, форм-фактор – 2,5 дюйма. Помимо «гиганта», выпущен его «младший брат» - SSD-диск емкостью 10 Тбайт. Скорость чтения у обеих моделей достигает 540 Мбайт/сек, скорость записи – до 520 Мбайт/сек. Цена на модель 13 Тбайт - $13 тыс. Компания Fixstars известна своим лидерством в SSD: в 2015 году они первыми выпустили SSD-диск емкостью 6 Тбайт.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138481','Компания Fixstars выпустила самый большой по емкости SSD-диск.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-34-500x281.jpg','Емкость SSD-13000M составляет 13 Тбайт, форм-фактор – 2,5 дюйма. Помимо «гиганта», выпущен его «младший брат» - SSD-диск емкостью 10 Тбайт. Скорость чтения у обеих моделей достигает 540 Мбайт/сек, скорость записи – до 520 Мбайт/сек. Цена на модель 13 Тбайт - $13 тыс. Компания Fixstars известна своим лидерством в SSD: в 2015 году они первыми выпустили SSD-диск емкостью 6 Тбайт.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138481','Компания Fixstars выпустила самый большой по емкости SSD-диск.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138481'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138481"></a>
+				</div>
+			</div>
+			<div class="item-text item-text-cl">
+<a href="http://www.computerra.ru/lenta/?id=138481">Компания Fixstars выпустила самый большой по емкости SSD-диск.</a> Емкость SSD-13000M составляет 13 Тбайт, форм-фактор – 2,5 дюйма. Помимо «гиганта», выпущен его «младший брат»&nbsp;&mdash; SSD-диск емкостью 10 Тбайт. Скорость чтения у обеих моделей достигает 540 Мбайт/сек, скорость записи – до 520 Мбайт/сек. Цена на модель 13 Тбайт&nbsp;&mdash; $13 тыс. Компания Fixstars известна своим лидерством в SSD: в 2015 году они первыми выпустили SSD-диск емкостью 6 Тбайт.			</div>
+
+			
+			<div class="item-soc item-soc-2">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138481','Компания Fixstars выпустила самый большой по емкости SSD-диск.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-34-500x281.jpg','Емкость SSD-13000M составляет 13 Тбайт, форм-фактор – 2,5 дюйма. Помимо «гиганта», выпущен его «младший брат» - SSD-диск емкостью 10 Тбайт. Скорость чтения у обеих моделей достигает 540 Мбайт/сек, скорость записи – до 520 Мбайт/сек. Цена на модель 13 Тбайт - $13 тыс. Компания Fixstars известна своим лидерством в SSD: в 2015 году они первыми выпустили SSD-диск емкостью 6 Тбайт.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138481','Компания Fixstars выпустила самый большой по емкости SSD-диск.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-34-500x281.jpg','Емкость SSD-13000M составляет 13 Тбайт, форм-фактор – 2,5 дюйма. Помимо «гиганта», выпущен его «младший брат» - SSD-диск емкостью 10 Тбайт. Скорость чтения у обеих моделей достигает 540 Мбайт/сек, скорость записи – до 520 Мбайт/сек. Цена на модель 13 Тбайт - $13 тыс. Компания Fixstars известна своим лидерством в SSD: в 2015 году они первыми выпустили SSD-диск емкостью 6 Тбайт.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138481','Компания Fixstars выпустила самый большой по емкости SSD-диск.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138481'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138481"></a>
+			</div>
+
+
+			<div class="item-popup">
+			<div class="item-popup-inner">
+				<a class="popup-link" onClick="return false;" href="http://www.computerra.ru/lenta/?id=138481">http://www.computerra.ru/lenta/?id=138481</a>
+				<button class="myButton item-soc-link-button" value="Копировать ссылку" title="http://www.computerra.ru/lenta/?id=138481">Копировать ссылку</button>
+			</div>
+			</div>
+
+									<div class="item-date" style="float: left;">
+				<span class="item-date-inner">2 дня назад</span>
+				<span class="item-author">Игорь Новиков</span>
+				<br>
+				<a class="item-source item-source-2" href="http://www.techradar.com/news/computing-components/storage/world-s-biggest-ssd-is-launched-and-it-s-a-monster-13tb-drive-1313131" target=_blank>источник</a>			</div>
+
+		</div>
 
 
 
 
+		<div class="item " >
 
-<style>
-.cal {font-size: 11px;}
-.cal a {font-size: 11px;}
-</style>
-			<table class="calendar" align="center" style="font-size: 11px;">
-			<thead>
-				<tr class="caption"><td colspan="7">����� ����������</td></tr>
-				<tr class="month"><td class="prev" width=14%><a title="���������� �����" style="text-decoration:none" href="http://www.;
- =.compulenta.ru/?flt_YEAR=2016&amp;flt_MONTH=0">&nbsp;&nbsp;&laquo;&nbsp;&nbsp;</a></td>
-				<td colspan="5">������ 2016</td>
-				<td class="next" width=14%><font style="color:#88ADC1;">&nbsp;&nbsp;&raquo;&nbsp;&nbsp;</font></td>
-				</tr>
-				<!--tr class="month"><td class="prev"><a href="#">&laquo;</a></td><td colspan="5">������� 2008</td><td class="next"><a href="#">&raquo;</a></td></tr-->
-				<tr class="week"><td>��</td><td>��</td><td>��</td><td>��</td><td>��</td><td>��</td><td>��</td></tr>
-			</thead>
-			<tbody>
-	<tr><td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">1</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">2</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">3</td>
-<td></td></tr>
-<tr><td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">4</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">5</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">6</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">7</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">8</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">9</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">10</td>
-<td></td></tr>
-<tr><td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">11</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">12</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">13</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">14</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal today">15</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">16</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">17</td>
-<td></td></tr>
-<tr><td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">18</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">19</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">20</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">21</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">22</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">23</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">24</td>
-<td></td></tr>
-<tr><td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">25</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">26</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">27</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">28</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">29</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">30</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">31</td>
-<td></td></tr>
-<tr><td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#000000;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">&nbsp;</td>
-<td style="padding-top: 1px; font-size: 11px; color:#999999;" class="cal">&nbsp;</td>
-<td></td></tr>
-				<!--tr><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td>3</td></tr>
-				<tr><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
-				<tr><td>11</td><td>12</td><td>13</td><td><a href="#">14</a></td><td>15</td><td>16</td><td class="today">17</td></tr>
-				<tr><td class="disabled">18</td><td class="disabled">19</td><td class="disabled">20</td><td class="disabled">21</td><td class="disabled">22</td><td class="disabled">23</td><td class="disabled">24</td></tr>			
-				<tr><td class="disabled">25</td><td class="disabled">26</td><td class="disabled">27</td><td class="disabled">28</td><td class="disabled">29</td><td class="disabled"></td><td class="disabled"></td></tr-->
-			</tbody>
-			</table>	
+			<div class="item-pic">
+				<a href="http://www.computerra.ru/lenta/enterprise/" class="item-section">Корпоративные ИТ</a>
 
+				<img src="http://www.computerra.ru/wp-content/uploads/2016/01/5-2.jpg" alt="Российский платежный сервис тестирует Blockchain в идентификационных целях." width=360 height=210>
+				<div class="item-soc item-left-soc">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138486','Российский платежный сервис тестирует Blockchain в идентификационных целях.','http://www.computerra.ru/wp-content/uploads/2016/01/5-2.jpg','Такой инструмент был разработан для Pay-Me.ru, основанной в 2012 году российской компании, занимающейся мобильным эквайрингом. Он заменит текущий процесс идентификации клиентов Pay-Me.ru, которым в настоящее время приходится проходить очные интервью до отправки им заказанного продукта. Компания планирует осуществить развертывание этого инструмента для идентификации личности новых клиентов.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138486','Российский платежный сервис тестирует Blockchain в идентификационных целях.','http://www.computerra.ru/wp-content/uploads/2016/01/5-2.jpg','Такой инструмент был разработан для Pay-Me.ru, основанной в 2012 году российской компании, занимающейся мобильным эквайрингом. Он заменит текущий процесс идентификации клиентов Pay-Me.ru, которым в настоящее время приходится проходить очные интервью до отправки им заказанного продукта. Компания планирует осуществить развертывание этого инструмента для идентификации личности новых клиентов.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138486','Российский платежный сервис тестирует Blockchain в идентификационных целях.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138486'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138486"></a>
+				</div>
+			</div>
+			<div class="item-text item-text-cl">
+<a href="http://www.computerra.ru/lenta/?id=138486">Российский платежный сервис тестирует Blockchain в идентификационных целях.</a> Такой инструмент был разработан для Pay-Me.ru, основанной в 2012 году российской компании, занимающейся мобильным эквайрингом. Он заменит текущий процесс идентификации клиентов Pay-Me.ru, которым в настоящее время приходится проходить очные интервью до отправки им заказанного продукта. Компания планирует осуществить развертывание этого инструмента для идентификации личности новых клиентов.			</div>
+
+			
+			<div class="item-soc item-soc-2">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138486','Российский платежный сервис тестирует Blockchain в идентификационных целях.','http://www.computerra.ru/wp-content/uploads/2016/01/5-2.jpg','Такой инструмент был разработан для Pay-Me.ru, основанной в 2012 году российской компании, занимающейся мобильным эквайрингом. Он заменит текущий процесс идентификации клиентов Pay-Me.ru, которым в настоящее время приходится проходить очные интервью до отправки им заказанного продукта. Компания планирует осуществить развертывание этого инструмента для идентификации личности новых клиентов.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138486','Российский платежный сервис тестирует Blockchain в идентификационных целях.','http://www.computerra.ru/wp-content/uploads/2016/01/5-2.jpg','Такой инструмент был разработан для Pay-Me.ru, основанной в 2012 году российской компании, занимающейся мобильным эквайрингом. Он заменит текущий процесс идентификации клиентов Pay-Me.ru, которым в настоящее время приходится проходить очные интервью до отправки им заказанного продукта. Компания планирует осуществить развертывание этого инструмента для идентификации личности новых клиентов.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138486','Российский платежный сервис тестирует Blockchain в идентификационных целях.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138486'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138486"></a>
+			</div>
+
+
+			<div class="item-popup">
+			<div class="item-popup-inner">
+				<a class="popup-link" onClick="return false;" href="http://www.computerra.ru/lenta/?id=138486">http://www.computerra.ru/lenta/?id=138486</a>
+				<button class="myButton item-soc-link-button" value="Копировать ссылку" title="http://www.computerra.ru/lenta/?id=138486">Копировать ссылку</button>
+			</div>
+			</div>
+
+									<div class="item-date" style="float: left;">
+				<span class="item-date-inner">2 дня назад</span>
+				<span class="item-author">Сергей Орлов</span>
+				<br>
+				<a class="item-source item-source-2" href="http://www.plusworld.ru/daily/rossiyskiy-platejniy-servis-testiruet-blockchain-v-identifikacionnih-celyah/" target=_blank>источник</a>			</div>
+
+		</div>
+
+
+
+
+		<div class="item  item-right" >
+
+			<div class="item-pic">
+				<a href="http://www.computerra.ru/lenta/net/" class="item-section">Интернет</a>
+
+				<img src="http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-35-500x280.jpg" alt="Новая система градаций для кнопки Like теперь доступна глобально." width=360 height=210>
+				<div class="item-soc item-left-soc">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138487','Новая система градаций для кнопки Like теперь доступна глобально.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-35-500x280.jpg','Речь идет о системе Reactions Emojis, позволяющей выбрать в Facebook значение, ассоциируемое с кнопкой Like. До сих пор выбор этой кнопки мог вызвать неоднозначную интерпретацию, например при публикации материалов о теракте. Теперь можно конкретизировать значение с помощью значка эмодзи, выбирая вариант эмоций от радости до горя. Функция прошла тестирование в реальной работе в Ирландии и Испании.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138487','Новая система градаций для кнопки Like теперь доступна глобально.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-35-500x280.jpg','Речь идет о системе Reactions Emojis, позволяющей выбрать в Facebook значение, ассоциируемое с кнопкой Like. До сих пор выбор этой кнопки мог вызвать неоднозначную интерпретацию, например при публикации материалов о теракте. Теперь можно конкретизировать значение с помощью значка эмодзи, выбирая вариант эмоций от радости до горя. Функция прошла тестирование в реальной работе в Ирландии и Испании.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138487','Новая система градаций для кнопки Like теперь доступна глобально.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138487'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138487"></a>
+				</div>
+			</div>
+			<div class="item-text item-text-cl">
+<a href="http://www.computerra.ru/lenta/?id=138487">Новая система градаций для кнопки Like теперь доступна глобально.</a> Речь идет о системе Reactions Emojis, позволяющей выбрать в Facebook значение, ассоциируемое с кнопкой Like. До сих пор выбор этой кнопки мог вызвать неоднозначную интерпретацию, например при публикации материалов о теракте. Теперь можно конкретизировать значение с помощью значка эмодзи, выбирая вариант эмоций от радости до горя. Функция прошла тестирование в реальной работе в Ирландии и Испании.			</div>
+
+			
+			<div class="item-soc item-soc-2">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138487','Новая система градаций для кнопки Like теперь доступна глобально.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-35-500x280.jpg','Речь идет о системе Reactions Emojis, позволяющей выбрать в Facebook значение, ассоциируемое с кнопкой Like. До сих пор выбор этой кнопки мог вызвать неоднозначную интерпретацию, например при публикации материалов о теракте. Теперь можно конкретизировать значение с помощью значка эмодзи, выбирая вариант эмоций от радости до горя. Функция прошла тестирование в реальной работе в Ирландии и Испании.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138487','Новая система градаций для кнопки Like теперь доступна глобально.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-35-500x280.jpg','Речь идет о системе Reactions Emojis, позволяющей выбрать в Facebook значение, ассоциируемое с кнопкой Like. До сих пор выбор этой кнопки мог вызвать неоднозначную интерпретацию, например при публикации материалов о теракте. Теперь можно конкретизировать значение с помощью значка эмодзи, выбирая вариант эмоций от радости до горя. Функция прошла тестирование в реальной работе в Ирландии и Испании.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138487','Новая система градаций для кнопки Like теперь доступна глобально.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138487'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138487"></a>
+			</div>
+
+
+			<div class="item-popup">
+			<div class="item-popup-inner">
+				<a class="popup-link" onClick="return false;" href="http://www.computerra.ru/lenta/?id=138487">http://www.computerra.ru/lenta/?id=138487</a>
+				<button class="myButton item-soc-link-button" value="Копировать ссылку" title="http://www.computerra.ru/lenta/?id=138487">Копировать ссылку</button>
+			</div>
+			</div>
+
+									<div class="item-date" style="float: left;">
+				<span class="item-date-inner">2 дня назад</span>
+				<span class="item-author">Игорь Новиков</span>
+				<br>
+				<a class="item-source item-source-2" href="http://thenextweb.com/apps/2016/01/14/facebooks-reactions-emojis-are-working-so-theyre-quietly-rolling-out-across-the-world/" target=_blank>источник</a>			</div>
+
+		</div>
+
+
+	<div class="clear"></div>
+
+
+	<div class="item item-ban">
+		<div class="item-ban">
+
+<!--  AdRiver code START. Type:AjaxJS Site: CTerra SZ: first PZ: 2 BN: 1 -->
+<div id="adriver_banner_2063175913-0-5"></div>
+<script type="text/javascript">
+new adriver("adriver_banner_2063175913-0-5", {sid:41137, bt:52, sz:'first', bn:1, pz:2});
+</script>
+<!--  AdRiver code END  -->
 
 		</div>
 	</div>
+
+		<div class="item " >
+
+			<div class="item-pic">
+				<a href="http://www.computerra.ru/lenta/business/" class="item-section">ИТ-рынок</a>
+
+				<img src="http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-36-500x280.jpg" alt="На границе США задержана партия фальшивых фитнес-трекеров Fitbit." width=360 height=210>
+				<div class="item-soc item-left-soc">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138493','На границе США задержана партия фальшивых фитнес-трекеров Fitbit.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-36-500x280.jpg','Общее количество задержанных устройств оценено в 100 штук. Их рыночная цена составляет $35 тыс. Упаковка не отличается от заводской, однако пограничная служба высказывает подозрение, что в партии может находиться муляж. Поставка фальшивых устройств осуществлялась из Гонконга в Филадельфию. Помимо трекеров Fitbit в задержанной партии также обнаружены наушники Beats.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138493','На границе США задержана партия фальшивых фитнес-трекеров Fitbit.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-36-500x280.jpg','Общее количество задержанных устройств оценено в 100 штук. Их рыночная цена составляет $35 тыс. Упаковка не отличается от заводской, однако пограничная служба высказывает подозрение, что в партии может находиться муляж. Поставка фальшивых устройств осуществлялась из Гонконга в Филадельфию. Помимо трекеров Fitbit в задержанной партии также обнаружены наушники Beats.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138493','На границе США задержана партия фальшивых фитнес-трекеров Fitbit.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138493'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138493"></a>
+				</div>
+			</div>
+			<div class="item-text item-text-cl">
+<a href="http://www.computerra.ru/lenta/?id=138493">На границе США задержана партия фальшивых фитнес-трекеров Fitbit.</a> Общее количество задержанных устройств оценено в 100 штук. Их рыночная цена составляет $35 тыс. Упаковка не отличается от заводской, однако пограничная служба высказывает подозрение, что в партии может находиться муляж. Поставка фальшивых устройств осуществлялась из Гонконга в Филадельфию. Помимо трекеров Fitbit в задержанной партии также обнаружены наушники Beats.			</div>
+
+			
+			<div class="item-soc item-soc-2">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138493','На границе США задержана партия фальшивых фитнес-трекеров Fitbit.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-36-500x280.jpg','Общее количество задержанных устройств оценено в 100 штук. Их рыночная цена составляет $35 тыс. Упаковка не отличается от заводской, однако пограничная служба высказывает подозрение, что в партии может находиться муляж. Поставка фальшивых устройств осуществлялась из Гонконга в Филадельфию. Помимо трекеров Fitbit в задержанной партии также обнаружены наушники Beats.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138493','На границе США задержана партия фальшивых фитнес-трекеров Fitbit.','http://www.computerra.ru/wp-content/uploads/2016/01/01_500x280-36-500x280.jpg','Общее количество задержанных устройств оценено в 100 штук. Их рыночная цена составляет $35 тыс. Упаковка не отличается от заводской, однако пограничная служба высказывает подозрение, что в партии может находиться муляж. Поставка фальшивых устройств осуществлялась из Гонконга в Филадельфию. Помимо трекеров Fitbit в задержанной партии также обнаружены наушники Beats.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138493','На границе США задержана партия фальшивых фитнес-трекеров Fitbit.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138493'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138493"></a>
+			</div>
+
+
+			<div class="item-popup">
+			<div class="item-popup-inner">
+				<a class="popup-link" onClick="return false;" href="http://www.computerra.ru/lenta/?id=138493">http://www.computerra.ru/lenta/?id=138493</a>
+				<button class="myButton item-soc-link-button" value="Копировать ссылку" title="http://www.computerra.ru/lenta/?id=138493">Копировать ссылку</button>
+			</div>
+			</div>
+
+									<div class="item-date" style="float: left;">
+				<span class="item-date-inner">2 дня назад</span>
+				<span class="item-author">Игорь Новиков</span>
+				<br>
+				<a class="item-source item-source-2" href="http://gizmodo.com/35-000-worth-of-fake-fitbits-seized-at-us-border-1752513001" target=_blank>источник</a>			</div>
+
+		</div>
+
+
+
+
+		<div class="item  item-right" >
+
+			<div class="item-pic">
+				<a href="http://www.computerra.ru/lenta/net/" class="item-section">Интернет</a>
+
+				<img src="http://www.computerra.ru/wp-content/uploads/2015/11/059-500x282.jpg" alt="Примерно 65% жителей России регулярно пользуются интернетом." width=360 height=210>
+				<div class="item-soc item-left-soc">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138484','Примерно 65% жителей России регулярно пользуются интернетом.','http://www.computerra.ru/wp-content/uploads/2015/11/059-500x282.jpg','Об этом заявил министр связи и массовых коммуникаций Николай Никифоров. «У нас сегодня в стране 65% населения являются регулярными пользователями интернета», -  отметил министр связи. При этом он отметил, что за три года количество постоянных пользователей интернета в России увеличилось на 24%. Таким образом, ежедневный прирост аудитории составил 20–30 тыс. пользователей.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138484','Примерно 65% жителей России регулярно пользуются интернетом.','http://www.computerra.ru/wp-content/uploads/2015/11/059-500x282.jpg','Об этом заявил министр связи и массовых коммуникаций Николай Никифоров. «У нас сегодня в стране 65% населения являются регулярными пользователями интернета», -  отметил министр связи. При этом он отметил, что за три года количество постоянных пользователей интернета в России увеличилось на 24%. Таким образом, ежедневный прирост аудитории составил 20–30 тыс. пользователей.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138484','Примерно 65% жителей России регулярно пользуются интернетом.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138484'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138484"></a>
+				</div>
+			</div>
+			<div class="item-text item-text-cl">
+<a href="http://www.computerra.ru/lenta/?id=138484">Примерно 65% жителей России регулярно пользуются интернетом.</a> Об этом заявил министр связи и массовых коммуникаций Николай Никифоров. «У нас сегодня в стране 65% населения являются регулярными пользователями интернета»,&nbsp;&mdash;  отметил министр связи. При этом он отметил, что за три года количество постоянных пользователей интернета в России увеличилось на 24%. Таким образом, ежедневный прирост аудитории составил 20–30 тыс. пользователей.
+			</div>
+
+			
+			<div class="item-soc item-soc-2">
+					<a onclick="Share.facebook('http://www.computerra.ru/lenta/?id=138484','Примерно 65% жителей России регулярно пользуются интернетом.','http://www.computerra.ru/wp-content/uploads/2015/11/059-500x282.jpg','Об этом заявил министр связи и массовых коммуникаций Николай Никифоров. «У нас сегодня в стране 65% населения являются регулярными пользователями интернета», -  отметил министр связи. При этом он отметил, что за три года количество постоянных пользователей интернета в России увеличилось на 24%. Таким образом, ежедневный прирост аудитории составил 20–30 тыс. пользователей.'); return false;" href="#" class="item-soc-fb"></a>
+					<a onclick="Share.vkontakte('http://www.computerra.ru/lenta/?id=138484','Примерно 65% жителей России регулярно пользуются интернетом.','http://www.computerra.ru/wp-content/uploads/2015/11/059-500x282.jpg','Об этом заявил министр связи и массовых коммуникаций Николай Никифоров. «У нас сегодня в стране 65% населения являются регулярными пользователями интернета», -  отметил министр связи. При этом он отметил, что за три года количество постоянных пользователей интернета в России увеличилось на 24%. Таким образом, ежедневный прирост аудитории составил 20–30 тыс. пользователей.'); return false;" href="#" class="item-soc-vk"></a>
+					<a onclick="Share.twitter('http://www.computerra.ru/lenta/?id=138484','Примерно 65% жителей России регулярно пользуются интернетом.'); return false;" href="#" class="item-soc-tw"></a>
+					<a onclick="Share.google('http://www.computerra.ru/lenta/?id=138484'); return false;" href="#" class="item-soc-gp"></a>
+					<a class="item-soc-rss" target=_blank href="http://www.compulenta.ru/rss.xml"></a>
+					<a href="#" class="item-soc-link" alt="http://www.computerra.ru/lenta/?id=138484"></a>
+			</div>
+
+
+			<div class="item-popup">
+			<div class="item-popup-inner">
+				<a class="popup-link" onClick="return false;" href="http://www.computerra.ru/lenta/?id=138484">http://www.computerra.ru/lenta/?id=138484</a>
+				<button class="myButton item-soc-link-button" value="Копировать ссылку" title="http://www.computerra.ru/lenta/?id=138484">Копировать ссылку</button>
+			</div>
+			</div>
+
+									<div class="item-date" style="float: left;">
+				<span class="item-date-inner">2 дня назад</span>
+				<span class="item-author">Сергей Орлов</span>
+				<br>
+				<a class="item-source item-source-2" href="http://www.gazeta.ru/tech/news/2016/01/15/n_8122997.shtml" target=_blank>источник</a>			</div>
+
+		</div>
+
+
+	<div class="clear"></div>
+
+
+	                <a class="click-more" rel="0" href="page/2"></a>
+<div id="page0"></div>
+
+</div>
+</div>
+
+<div class="clear"></div>
+
+<div class="bottom">
+<div class="bottom-inner">
+	<div class="bottom-right phone-hidden">
+		<a href="http://www.rambler.ru/" class="bot-link" target=_blank>«Партнер Рамблера»</a>
+		<a href="http://www.spamorez.ru/" class="bot-link" target=_blank>Почта защищена сервером "СПАМОРЕЗ"</a>
+		<a href="http://www.fornex.com/" class="bot-link" target=_blank>Хостинг "Fornex"</a>
+
+		<div class="bot-counter">
+		<script src="http://tools.spylog.ru/counter_cv.js" id="spylog_code" type="text/javascript" counter="60441" part="" track_links="ext" page_level="1">
+		</script>
+		<noscript>
+		<a href="http://u604.41.spylog.com/cnt?cid=60441&f=3&p=1" target="_blank">
+		<img src="http://u604.41.spylog.com/cnt?cid=60441&p=1" alt="SpyLOG" border="0" width="88" height="31"></a>
+		</noscript>
+	<!--/ SpyLOG -->
+		</div>
+
+		<div id='top100counter' class="bot-counter"></div>
+		<script type="text/javascript">
+		var _top100q = _top100q || [];
+		_top100q.push(["setAccount", "371041"]);
+		_top100q.push(["trackPageviewByLogo", document.getElementById("top100counter")]);
+		(function(){
+		var top100 = document.createElement("script"); top100.type = "text/javascript";
+		top100.async = true;
+		top100.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/top100/top100.js";
+		var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(top100, s);
+		})();
+		</script>
+
+	</div>
+	<div class="bottom-left">
+		<img src="/files/i/ct/logo_ct.svg" class="logo-ct">
+		<div class="bottom-left-text">&copy; ООО "Компьютерра-Онлайн", 1997-2016<br>
+При цитировании и использовании любых материалов ссылка на "Компьютерру" обязательна.
+		</div>
+	</div>
+	<div class="bottom-center">
+	<div class="bottom-center-1">
+		<div class="bottom-soc">
+ 			<a target=_blank href="http://www.facebook.com/computerraru" class="bot-soc bot-fb"></a>
+			<a target=_blank href="http://vk.com/computerraru" class="bot-soc bot-vk"></a>
+			<a target=_blank href="https://twitter.com/computerra" class="bot-soc bot-tw"></a>
+			<a target=_blank href="https://plus.google.com/109305089163533994571/posts" class="bot-soc bot-gp"></a>
+			<a target=_blank href="http://www.compulenta.ru/rss.xml" class="bot-soc bot-rss"></a>
+		</div>
+		<div class="bot-title">О сайте</div>
+		<a href="/about/" class="bot-link">Что такое Компьютерра</a>
+		<a href="/contacts/" class="bot-link">Контакты</a>
+		<a href="mailto:site@computerra.ru" class="bot-link">Написать в редакцию</a>
+		<a href="/files/Computerra_Price_2015.xlsx" class="bot-link">Реклама</a>
+	</div>
+	<form method=GET action="http://old.computerra.ru/maillists/subscr_edit.php">
+	<input type="hidden" name="sf_RUB_ID[]" value="162">
+	<div class="bottom-center-2">
+		<input type="text" name="sf_EMAIL" class="item-search-input-bottom" placeholder="ваш e-mail">
+		<div class="bot-title">Архив</div>
+		<a href="http://old.computerra.ru/" class="bot-link">Старая версия сайта</a>
+		<a href="http://offline.computerra.ru/" class="bot-link">Бумажная Компьютерра</a>
+		<a href="http://compulenta.computerra.ru/archive.php" class="bot-link">Компьюлента</a>
+	</div>
+	<div class="bottom-center-3">
+		<input type="submit" class="item-search-submit-bottom" value="&larr; Подписаться">
+	</div>
+	</div>
+	</form>
+	<div class="clear"></div>
+	<div class="bottom-center phone-show">
+		<a href="http://www.rambler.ru/" class="bot-link" target=_blank>«Партнер Рамблера»</a>
+		<a href="http://www.spamorez.ru/" class="bot-link" target=_blank>Почта защищена сервером "СПАМОРЕЗ"</a>
+		<a href="http://www.fornex.com/" class="bot-link" target=_blank>Хостинг "Fornex"</a>
+
+		<div class="bot-counter">
+		<script src="http://tools.spylog.ru/counter_cv.js" id="spylog_code" type="text/javascript" counter="60441" part="" track_links="ext" page_level="1">
+		</script>
+		<noscript>
+		<a href="http://u604.41.spylog.com/cnt?cid=60441&f=3&p=1" target="_blank">
+		<img src="http://u604.41.spylog.com/cnt?cid=60441&p=1" alt="SpyLOG" border="0" width="88" height="31"></a>
+		</noscript>
+	<!--/ SpyLOG -->
+		</div>
+
+		<div id='top100counter' class="bot-counter"></div>
+		<script type="text/javascript">
+		var _top100q = _top100q || [];
+		_top100q.push(["setAccount", "371041"]);
+		_top100q.push(["trackPageviewByLogo", document.getElementById("top100counter")]);
+		(function(){
+		var top100 = document.createElement("script"); top100.type = "text/javascript";
+		top100.async = true;
+		top100.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/top100/top100.js";
+		var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(top100, s);
+		})();
+		</script>
+
+	</div>
+</div>
 </div>
 
 
+    	  <script src="http://www.computerra.ru/wp-content/themes/ct/scroll-cl.js"></script>
+  
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-21169348-3']);
+		  _gaq.push(['_setDomainName', 'computerra.ru']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
 
-</td></tr>
-<tr><td class="_noreachbanner_">
-<div class="footer tr">
-	<p><a href="http://www.compulenta.ru/info/about/">� �������</a> | <a href="http://www.compulenta.ru/info/about/contacts.php">���������� ����������</a> | <a href="http://www.compulenta.ru/advert/">������� ��&nbsp;�����</a> | <a href="http://www.compulenta.ru/maillists/">�������� �����</a> | <a href="http://pda.compulenta.ru/">���&ndash;������</a>  <a href="http://www.compulenta.ru/rss.xml"><img border=0 src="http://www.compulenta.ru/img/rss-cl.jpg" alt="RSS-����������" style="margin: 0px 0px -3px 5px;" valign=bottom></a>  <a href="http://twitter.com/compulenta" target=_blank><img src="http://www.compulenta.ru/img/twitter-cl.jpg" alt="����������� �� Twitter" style="margin: 0px 0px -3px 5px;" border=0 valign=bottom></a></p>
-	<p class="textbox block" style="width: 220px;">&copy; ��� &laquo;�����������&ndash;������&raquo;, 1997&nbsp;&mdash; 2016.<br>��� ����������� �&nbsp;������������� ����� ���������� ������ ��&nbsp;������ &laquo;�����������&ndash;������&raquo; ����������� (��� ��������&ndash;�������&nbsp;&mdash; <a href="http://computerra.ru/">www.computerra.ru</a>)</p>
-	<p class="textbox block" style="width: 235px;">�������� �����: <a href="mailto:site@computerra.ru">site@computerra.ru</a><br>������������ �����: <a href="mailto:websupport@computerra.ru">websupport@computerra.ru</a><br>�������� �������: <a href="mailto:inform@computerra.ru">inform@computerra.ru</a><br>����� �������: <a href="mailto:reklama@computerra.ru">reklama@computerra.ru</a><br>�������: (495) 232&ndash;22&ndash;61, (495) 232&ndash;22&ndash;63</p>
-<noindex>
-	<p class="textbox block" style="width: 220px;">�������� ��&nbsp;&laquo;<a href="http://www.1c-bitrix.ru" target=_blank>�������: ���������� ������</a>&raquo;<br>����� �������� �������� &laquo;<a href="http://www.spamorez.ru/" target=_blank>��������</a>&raquo;<br>
-        ���� �������� ��&nbsp;������� <a href="http://www.depocomputers.ru/" target=_blank>DEPO Computers</a></p>
-</noindex>
-<p class="textbox2 block">
-<table cellspacing=0  cellpadding=3 border=0>
-<tr valign=top>
 
-<td width=88>
-<noindex>
-<!--Rating@Mail.ru LOGO-->
-<!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
-d=document;var a='';a+=';r='+escape(d.referrer)
-js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
-a+=';j='+navigator.javaEnabled()
-js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
-s=screen;a+=';s='+s.width+'*'+s.height
-a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
-js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
-js=13//--></script><script language="JavaScript" type="text/javascript"><!--
-d.write('<a href="http://top.mail.ru/jump?from=183190"'+
-' target="_top"><img src="http://db.cc.b2.a0.top.mail.ru/counter'+
-'?id=183190;t=216;js='+js+a+';rand='+Math.random()+
-'" alt="�������@Mail.ru"'+' border="0" height="31" width="88"/><\/a>')
-if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
-target="_top" href="http://top.mail.ru/jump?from=183190"><img
-src="http://db.cc.b2.a0.top.mail.ru/counter?js=na;id=183190;t=216"
-border="0" height="31" width="88"
-alt="�������@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
-if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
-</td><!--/LOGO-->
-<td width=88>
-<div id='top100counter'></div>
 <script type="text/javascript">
-var _top100q = _top100q || [];
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'computerraru'; // required: replace example with your forum shortname
 
-_top100q.push(["setAccount", "230514"]);
-_top100q.push(["trackPageviewByLogo", document.getElementById("top100counter")]);
-
-
-(function(){
-var top100 = document.createElement("script"); top100.type = "text/javascript";
-
-top100.async = true;
-top100.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//st.top100.ru/top100/top100.js";
-var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(top100, s);
-})();
-</script>
-</td>
-<td width=88>
-
-
-<script type="text/javascript">window.google_analytics_uacct = "UA-29883823-1";</script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29883823-1']);
-  _gaq.push(['_setDomainName', 'compulenta.ru']);
-  _gaq.push(['_setLocalRemoteServerMode']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-</td>
-<td>
-
-<script id="seorate_tracker" src="http://track.seorate.ru/js/hit.js" type="text/javascript"></script><script type="text/javascript">
-try { seorateTracker(); } catch(e) {}
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
 </script>
 
-</noindex>
-</td>
-</tr></table>
-</p>
-</div>
-</td></tr></table>
-
-
-
-<!-- start Vibrant Media IntelliTXT script section -->
-<script defer type="text/javascript" src="http://compulenta.ru.intellitxt.com/intellitxt/front.asp?ipid=16973"></script>
-<!-- end Vibrant Media IntelliTXT script section -->
+<script>
+</script>
 
 </body>
 </html>
 
 
 
+<!-- Dynamic page generated in 2.742 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-01-18 01:07:01 -->
+
+<!-- super cache -->

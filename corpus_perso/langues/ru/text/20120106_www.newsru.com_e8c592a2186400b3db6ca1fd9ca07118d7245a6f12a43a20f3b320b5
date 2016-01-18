@@ -121,13 +121,12 @@ var newsru_var_puid1 = 0;
 </script>
 
 
-<!-- MSK //-->
+<!-- NY //-->
 <script type="text/javascript" src="http://static.newsru.com/css/adfox.asyn.code.ver3.js"> </script>
 <script type="text/javascript" src="http://static.newsru.com/css/adfox.asyn.code.scroll.js"> </script>
 
 <script type="text/javascript" src="http://static.newsru.com/js/adriver/adriver.core.2.js"> </script>
 <script type="text/javascript" src="http://static.newsru.com/js/adriver/adriver.core.2.min.js"> </script>
-
 
 
 
@@ -889,26 +888,26 @@ document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715
 <div style="padding-top: 5px;"><table width="525" border="0" cellspacing="3" cellpadding="0" bgcolor="#e6e6e6">
 <tr><td><!-- ъМДЕЙЯ.дХПЕЙР -->
 <script type="text/javascript">
+//<![CDATA[
 yandex_partner_id = 43120;
 yandex_site_bg_color = 'E6E6E6';
-yandex_stat_id = 1215140;
+yandex_stat_id = 1215138;
 yandex_site_charset = 'windows-1251';
 yandex_ad_format = 'direct';
 yandex_font_size = 0.9;
 yandex_font_family = 'arial';
 yandex_direct_type = 'flat';
 yandex_direct_limit = 4;
-yandex_direct_title_font_size = 2;
 yandex_direct_bg_color = 'E6E6E6';
-yandex_direct_title_color = '0016A6';
+yandex_direct_title_color = '0000FF';
 yandex_direct_url_color = '006A29';
 yandex_direct_all_color = '333333';
 yandex_direct_text_color = '000000';
-yandex_direct_hover_color = '006A29';
+yandex_direct_hover_color = '0016A6';
 yandex_direct_favicon = false;
 document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
-</script>
-</td></tr>
+//]]>
+</script></td></tr>
 </table></div>
 
 
@@ -937,12 +936,12 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/syste
 </noindex>
 <img src="http://static.newsru.com/img/b.gif" width="1" height="5" alt=""><br><table width="100%" cellspacing="0" cellpadding="5">
 <tr>
-<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 18:28</b><br></span>
-<span class="copy"><font color="#ffffff"><b><a href="/finance/15jan2016/pegasus.html"><font color="#ffffff">Турецкая авиакомпания  Pegasus Airlines возобновила полеты в Россию</font></a> // <a href=/finance/index.html><font color="#ffffff">Экономика</font></a></b><br>
+<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 00:57</b><br></span>
+<span class="copy"><font color="#ffffff"><b><a href="/russia/18jan2016/delegate.html"><font color="#ffffff">Российская делегация отказалась от поездки на зимнюю сессию ПАСЕ</font></a> // <a href=/russia/index.html><font color="#ffffff">В России</font></a></b><br>
 Досье NEWSru.com:<br><b>
-<a href="/dossier/233.html"><font color="#ffffff">Экономика</font></a> /
-<a href="/dossier/7889.html"><font color="#ffffff">Гражданская авиация</font></a> /
-<a href="/dossier/27092.html"><font color="#ffffff">Авиакомпании</font></a>
+<a href="/dossier/50.html"><font color="#ffffff">Европа</font></a> /
+<a href="/dossier/2561.html"><font color="#ffffff">Совет Европы</font></a> /
+<a href="/dossier/2562.html"><font color="#ffffff">ПАСЕ</font></a>
 </b>
 </font></span></td>
 </tr>
@@ -1061,7 +1060,7 @@ width=88 height=31>
 
 
 <div style="margin-bottom:5px">
-<b>Пятница, 15 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/finance/15jan2016/pegasus.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 18:28</a></h1></b><br>
+<b>Понедельник, 18 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/russia/18jan2016/delegate.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 00:57</a></h1></b><br>
 Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ.
 <noindex>
 Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован.
@@ -1144,7 +1143,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715
 &copy;&nbsp;<a href="http://www.newsru.com" class="down" style="text-decoration:none">NEWSru.com &ndash; самые быстрые новости</a> 2000-2016
 </div>
 
-<!--  tdt Fri Jan 15 18:30:41 2016 /russia/05jan2012/burat.html 80  -->
+<!--  tdt Mon Jan 18 01:16:56 2016 /russia/05jan2012/burat.html 80  -->
 
 
 </div>

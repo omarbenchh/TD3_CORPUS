@@ -56,7 +56,7 @@
                             }
                         </script>
 <form id="login_form" action="" method="post">
-<input type="hidden" name="SECURITY_TOKEN" value="01c1666ddb"/>
+<input type="hidden" name="SECURITY_TOKEN" value="dfbf7ff956"/>
 <input type="hidden" name="action" value="login"/>
 <input type="hidden" name="cmd" value="login"/>
 <div class="form_line">
@@ -87,7 +87,7 @@
 <div id="forgot_form_holder" style="display:none;">
 <div class="fp_info">Please enter your username or email address provided during registration. If your username or email address exist in our database, you will receive instructions how to reset your password.</div>
 <form action="index.php" id="forgot_password_form" method="post" onsubmit="return false;">
-<input type="hidden" name="SECURITY_TOKEN" value="01c1666ddb"/>
+<input type="hidden" name="SECURITY_TOKEN" value="dfbf7ff956"/>
 <input type="hidden" name="login" value="1"/>
 <input type="hidden" name="action" value="login"/>
 <input type="hidden" name="cmd" value="forgotMail"/>
@@ -638,16 +638,16 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 <div id="box_category_related" class="box article_category_related">
 <h3 class="box_title title_white">More from Public Health and Safety</h3>
 <div class="article_related">
-<h4><a href="public-health-safety/69798-over-400k-deaths-worldwide-each-year-caused-by-preventable-foodborne-illness-who-estimates.html">Over 400k deaths worldwide each year caused by preventable foodborne illness, WHO estimates</a></h4>
-<p>One in 10 people fall ill every year from diseases caused by consuming unsafe food ...</p>
+<h4><a href="public-health-safety/69868-drug-curbs-marijuana-use-but-with-tough-side-effects.html">Drug curbs marijuana use, but with tough side effects</a></h4>
+<p>Doctors have no approved medicine to help treat marijuana dependence and abuse, but in small ...</p>
 </div>
 <div class="article_related">
-<h4><a href="public-health-safety/69778-we-eat-better-than-kings-of-old.html">We eat better than kings of old</a></h4>
-<p>Cooking is becoming more and more complex. The food you consume on a daily basis ...</p>
+<h4><a href="public-health-safety/69867-cdc-issues-interim-travel-guidance-related-to-zika-virus-for-14-countries-and-territories-in-central-and-south-america-and-the-caribbean.html">CDC issues interim travel guidance related to Zika virus for 14 Countries and Territories in Central and South America and the Caribbean</a></h4>
+<p>Out of an abundance of caution, pregnant women advised to consider postponing travel to areas ...</p>
 </div>
 <div class="article_related">
-<h4><a href="public-health-safety/69771-cost-effectiveness-of-palliative-care-highlighted.html">Cost-Effectiveness Of Palliative Care Highlighted</a></h4>
-<p>The cost of providing hospital care to adults with incurable cancer and additional serious illnesses ...</p>
+<h4><a href="public-health-safety/69863-serious-violence-declines.html">Serious violence declines</a></h4>
+<p>A five-year study has found a “substantial” reduction in serious violence* across England and Wales ...</p>
 </div>
 <div class="clearer"> </div>
 </div>

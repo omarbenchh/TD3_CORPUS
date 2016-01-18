@@ -444,23 +444,20 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
 
   
-
-    
-      <!--radio one-->
-      
-       
-       
-       
-      
     
     
-  	 
+   		
+			
+			
+			
+			 
     
-     
     
-     
-
-	
+    	<!--CBC Maritimes-->
+    	<!--set var="rrScribbleModuleId" value="35309"-->
+      <!--set var="rrScribbleModuleAPIToken" value="91696e8d-e53c-4ddb-afab-e504225e4a8c"-->
+  
+  
 
 
 
@@ -476,8 +473,8 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		
 			<div class="showinfo">
 				<div class="nowplaying">
-					<a href="/radio">
-					Radio One	
+					<a href="/maritimeconnection/">
+					Maritime Connection	
 					</a>
 				</div>
 								
@@ -492,7 +489,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		</div>
 		
 		<div id="functionalModImage">
-			<img src="/nb/includes/images/radioone-71x71.png" alt="host picture" />
+			<img src="/ns/includes/images/preston-mulligan.png" alt="host picture" />
 		</div>
 		
 	
@@ -592,11 +589,11 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
         
         
-            <div id="container83520675" class="cbc-caffeine-outer-container">
+            <div id="container13673388" class="cbc-caffeine-outer-container">
                 
                         
                         
-                            <div id="playlist-content93293080" class="caffeine-playlist">
+                            <div id="playlist-content87084746" class="caffeine-playlist">
                             </div>
                             
                         
@@ -608,7 +605,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
 <script type="text/javascript" src="/i/caffeine/js/Caffeine.js"></script>
 <script type="text/javascript">
-    CBC.APP.Caffeine.initInstance({'forceVideo': 'false', 'mediaId': '2187502121', 'playlistSelector': '#playlist-content93293080', 'autoPlay': 'false', 'containerSelector': '#container83520675', 'ciid': 'caffeine11706349'});
+    CBC.APP.Caffeine.initInstance({'forceVideo': 'false', 'mediaId': '2187502121', 'playlistSelector': '#playlist-content87084746', 'autoPlay': 'false', 'containerSelector': '#container13673388', 'ciid': 'caffeine11706349'});
 </script>
 	</div>
         <p class="figure-caption"><strong class="spaced">Norovirus outbreak suspected</strong> 
@@ -906,7 +903,26 @@ if (Y.one("#sharetoolstwo"))
         
 
 
-	 <script type="text/javascript">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        	 <script type="text/javascript">
 if(typeof(advertising_site) == "undefined") { advertising_site = "cbc.ca"; }
 if(typeof(advertising_zone) == "undefined") { advertising_zone = "nozone"; }
 if(typeof(advertising_page_type) == "undefined") { advertising_page_type = "story"; }
@@ -936,6 +952,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 </div>
 		</div>
 	
+    
 
       
     
@@ -964,12 +981,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/canada/new-brunswick/saint-john-safe-harbour-youth-shelter-1.3405293" class="complexlink media">
-								<img title='' height='79' alt='Safe Harbour' width='140' class='media-side' src='http://i.cbc.ca/1.3055183.1430396790!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/safe-harbour.JPG' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Safe Harbour youth shelter to close due to lack of funding</span>
+							<a  href="/news/canada/new-brunswick/public-health-tuberculosis-spread-1.3407700" class="complexlink media">
+								<img title='' height='79' alt='Jennifer Russell' width='140' class='media-side' src='http://i.cbc.ca/1.3407705.1453044338!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/jennifer-russell.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">Tuberculosis case at UNB sparks efforts to prevent outbreak</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/saint-john-safe-harbour-youth-shelter-1.3405293"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/public-health-tuberculosis-spread-1.3407700"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -985,14 +1002,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/woman-loses-240-pounds-1.3403676">Fredericton mall runner sheds 240 pounds in 7 years</a>
+							<a  href="/news/canada/new-brunswick/man-dead-snowmobile-crash-1.3407709">One man dead after snowmobile crash in northern N.B. </a>
 							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/woman-loses-240-pounds-1.3403676"></span></span>
-    <span class="offscreen">comments</span>
-   
-	    	    		    		    		
-			<span class="icon_video">video</span>
+																	<span class="lineuproll-icons"> 
+	
 		</span>
 															</span>
 						</li>
@@ -1003,28 +1016,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/caleb-grove-cameroon-electricity-1.3405226">Douglas man helps Cameroon get reliable electricity</a>
+							<a  href="/news/canada/new-brunswick/new-brunswick-quail-eggs-1.3405090">New Brunswick farm bringing quail eggs to region</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/caleb-grove-cameroon-electricity-1.3405226"></span></span>
-    <span class="offscreen">comments</span>
-   
-	    	    		    		    		
-			<span class="icon_video">video</span>
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/trucking-industry-tolls-diesel-tax-1.3405069">Trucking industry warns against highway tolls, hiking diesel tax</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/trucking-industry-tolls-diesel-tax-1.3405069"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/new-brunswick-quail-eggs-1.3405090"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1038,15 +1033,31 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/dolma-food-time-capsule-1.3404525">Time capsule may have been discovered in Dolma Food rubble</a>
+							<a  href="/news/canada/new-brunswick/pierre-battah-onboarding-1.3405046">Beyond orientation: Onboarding is the new normal</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/dolma-food-time-capsule-1.3404525"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/pierre-battah-onboarding-1.3405046"></span></span>
     <span class="offscreen">comments</span>
    
-	    	    		    		    		
-				<span class="icon_audio">audio</span>
-	</span>
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/mermaids-empower-kids-events-1.3407304">Mermaid company aims to empower kids with 'edu-tainment' events</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/new-brunswick/mermaids-empower-kids-events-1.3407304"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
 															</span>
 						</li>
 													</ul>
@@ -1097,7 +1108,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
     		<li class="promo col2">
 					    		 		<a href="/news/canada/new-brunswick/raw-soldiers-return-to-gagetown-1.3399795" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='RAW: Soldiers return to Gagetown' width='100%' src='http://i.cbc.ca/1.3399795.1452603602!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='RAW: Soldiers return to Gagetown' width='100%' src='http://i.cbc.ca/1.3399795.1452920111!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
 						</p>		
 			<p class="promo-title complexlink-target">RAW: Soldiers return to Gagetown</p>
 						<p class="promo-runtime lighttext">
@@ -1187,12 +1198,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/business/markets-dollar-oil-1.3405067" class="complexlink media">
-								<img title='' height='79' alt='Loonie canadian dollar 20150130' width='140' class='media-side' src='http://i.cbc.ca/1.3153847.1436993640!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/loonie-canadian-dollar-20150130.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Loonie dips below 69 cents US as oil drops another 5%</span>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316" class="complexlink media">
+								<img title='' height='79' alt='DEM 2016 Sanders' width='140' class='media-side' src='http://i.cbc.ca/1.3406498.1452897045!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/dem-2016-sanders.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">'Vanilla socialist' Bernie Sanders jams a wrench into the Clinton juggernaut</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/markets-dollar-oil-1.3405067"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1208,13 +1219,13 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/health/cadmium-jewelry-ardene-aldo-1.3404036">Cadmium in low-cost jewelry may create toxic bling</a>
+							<a  href="/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614">Burkina Faso attacks: 6 Quebecers killed were on humanitarian trip</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/cadmium-jewelry-ardene-aldo-1.3404036"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614"></span></span>
     <span class="offscreen">comments</span>
    
-	    	    		    		    		
+	    	    		    		    	    		    		    		
 			<span class="icon_video">video</span>
 		</span>
 															</span>
@@ -1226,26 +1237,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/hamilton/news/tim-bosma-slaying-jury-selection-in-millard-smich-trial-starts-monday-1.3400581">'This only happens in TV and in movies': Tim Bosma killing reads like crime novel</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
-	    	    		    		    	    		    		    		
-			<span class="icon_video">video</span>
-				<span class="icon_audio">audio</span>
-	</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/women-on-the-money-social-media-1.3403812">Your picks for female faces on Canadian currency </a>
+							<a  href="/news/health/drug-trial-france-death-1.3407803">Man in botched painkiller drug trial dies in France</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/women-on-the-money-social-media-1.3403812"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/drug-trial-france-death-1.3407803"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1259,10 +1254,27 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/business/sending-remittances-low-dollar-1.3404145">Weak loonie means immigrants and foreign workers have less to send home </a>
+							<a  href="/news/technology/spacex-launch-climate-satellite-1.3407778">Satellite launched but SpaceX rocket damaged on landing</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/sending-remittances-low-dollar-1.3404145"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/technology/spacex-launch-climate-satellite-1.3407778"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459">'They think we're terrorists': Men behind 'suspicious' photographs at Vancouver mall speak out</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459"></span></span>
     <span class="offscreen">comments</span>
    
 	    	    		    		    		
@@ -1314,7 +1326,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/tyler-noel-arrested-1.3397238">Tyler Noel arrested in Petitcodiac, wanted for murder of Baylee Wylie</a>
+							<a  href="/news/canada/new-brunswick/man-dead-snowmobile-crash-1.3407709">One man dead after snowmobile crash in northern N.B. </a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1326,7 +1338,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/wheelchair-motorized-market-saint-john-death-1.3400885">Wheelchair user says he's sorry for running down 92-year-old</a>
+							<a  href="/news/canada/new-brunswick/public-health-tuberculosis-spread-1.3407700">Tuberculosis case at UNB sparks efforts to prevent outbreak</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1338,7 +1350,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/woman-witneses-tyler-noel-arrest-1.3397602">Petitcodiac woman watches RCMP apprehend Tyler Noel</a>
+							<a  href="/news/canada/new-brunswick/new-brunswick-quail-eggs-1.3405090">New Brunswick farm bringing quail eggs to region</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1350,91 +1362,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/marissa-shephard-wylie-murder-1.3400557">Marissa Shephard, accused in murder of Baylee Wylie, 'could be anywhere'</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/pension-fund-top-earners-1.3398490">Pension fund managers' pay boosted by $2.2M in bonuses</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/john-mcgarry-horizon-health-spending-1.3403451">Horizon Health's John McGarry says dramatic change needed now</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/peter-coade-new-brunswick-weather-1.3401378">New Brunswick weather: Blizzard ending, clean-up begins</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/fredericton-chief-fitch-commission-investigation-1.3400485">Fredericton police Chief Leanne Fitch being investigated by N.B. Police Commission</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/tyler-noel-wylie-holden-bonnell-1.3403498">Tyler Noel, accused of murder of Baylee Wylie, makes first court appearance</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/blue-jays-players-fredericton-1.3399292">3 Toronto Blue Jays visit Fredericton area this weekend</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/new-brunswick/peter-coade-new-brunswick-weather-1.3399687">Wednesday storm could bring 25 cm before ending in evening</a>
+							<a  href="/news/canada/new-brunswick/eilish-cleary-settlement-fired-1.3406137">Dr. Eilish Cleary, province reach settlement</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1447,6 +1375,90 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 																				
 											<li class="lineuproll-item-body">
 							<a  href="/news/canada/new-brunswick/woman-loses-240-pounds-1.3403676">Cindi Hachey loses 240 pounds running at Regent Mall</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/heat-pump-energy-1.3406727">Saint John Energy is now renting heat pumps to customers</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/tuberculosis-unb-fredericton-student-1.3406374">Tuberculosis case confirmed at UNB Fredericton</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/pierre-battah-onboarding-1.3405046">Beyond orientation: Onboarding is the new normal</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/wheelchair-accident-tuplin-market-1.3406191">More complaints against driver of motorized wheelchair surface</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/mermaids-empower-kids-events-1.3407304">Mermaid company aims to empower kids with 'edu-tainment' events</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/fredericton-fire-downtown-damage-1.3407018">Tommy's Flooring in Fredericton damaged by fire</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/new-brunswick/winter-storm-weekend-misses-1.3407169">Winter storm will impact southern N.B., miss northern part of province</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1506,7 +1518,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 								</h3>
 	</div>
 	<div class="carousel-body module-body">
-		<div id="carousel_7_578_1452862911-19496" class="scroller">
+		<div id="carousel_7_578_1452862911-20553" class="scroller">
 			<div class="scroller-wrapper layoutcontext">
 				<ul>
 				    						<li class="promo col2width">
@@ -1528,7 +1540,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 				    						<li class="promo col2width">
 									    		 		<a href="/news/health/cadmium-jewelry-ardene-aldo-1.3404036" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Necklace' width='100%' src='http://i.cbc.ca/1.3404180.1452801053!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/necklace.jpg' />				    									<span class="promo-label label marketplace">Marketplace</span>
+        					    			<img title='' height='79' alt='Jewelry' width='100%' src='http://i.cbc.ca/1.3404152.1452799520!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/jewelry.jpg' />				    									<span class="promo-label label marketplace">Marketplace</span>
 						</p>		
 			<p class="promo-title complexlink-target">Toxic jewelry: Cadmium found in Ardene, Aldo products </p>
 								</a>
@@ -1642,7 +1654,7 @@ CBC.Queue.push({
 		YUI(yo).use('scroller', function(Y, result) {
 			if (result.success){
 				var instance = new CBC.APP.Scroller();
-				var conf = { parentid:"carousel_7_578_1452862911-19496", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
+				var conf = { parentid:"carousel_7_578_1452862911-20553", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
 		  		instance.init(Y, conf);
 			}
 		});
@@ -1675,7 +1687,7 @@ CBC.Queue.push({
 </style><footer id="cbc-globalfooter" class="sclt-globalFooter"><div class="cbc-globalfooter-section"><h2>Explore CBC</h2><ul><li><a href="http://www.cbc.ca">CBC Home</a></li><li><a href="http://www.cbc.ca/television/">TV</a></li><li><a href="http://www.cbc.ca/radio/">Radio</a></li><li><a href="http://www.cbc.ca/news">News</a></li><li><a href="http://www.cbc.ca/sports">Sports</a></li><li><a href="http://music.cbc.ca/">Music</a></li><li><a href="/arts/">Arts</a></li><li><a href="http://www.cbc.ca/kidscbc/">Kids</a></li><li><a href="http://www.cbc.ca/news/canada#region-nav">Local</a></li><li><a href="http://www.cbc.ca/documentaries/">Documentaries</a></li><li><a href="http://www.cbc.ca/punchline/">Comedy</a></li><li><a href="http://www.cbc.ca/books/">Books</a></li><li><a href="http://www.cbc.ca/parents/">Parents</a></li><li><a href="http://www.cbc.ca/news/aboriginal">Aboriginal</a></li><li><a href="http://www.cbc.ca/weather/">Weather</a></li><li><a href="http://www.cbc.ca/connects/">CBC Connects</a></li><li><a href="http://www.cbc.ca/archives/">Digital Archives</a></li><li><a href="http://www.cbc.ca/games/">Games</a></li><li><a href="http://www.cbc.ca/contests/">Contests</a></li><li><a href="http://www.cbc.ca/sitemap/">Site Map</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Stay Connected</h2><ul><li><a href="http://www.cbc.ca/mobile/services/">Mobile</a></li><li><a href="http://www.cbc.ca/rss/">RSS</a></li><li><a href="http://www.cbc.ca/radio/podcasts/">Podcasts</a></li><li><a href="http://subscriptions.cbc.ca/listmanagement">Newsletters &amp; Alerts</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Services and Information</h2><ul><li><a href="http://www.cbc.radio-canada.ca/en">Corporate Info</a></li><li><a href="http://www.cbc.ca/appearances/">Public Appearances</a></li><li><a href="http://www.cbc.ca/sitemap/">Commercial Services</a></li><li><a href="http://www.cbc.ca/permissions/">Reuse &amp; Permission</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/termsofuse.html">Terms of Use</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/privacy.html">Privacy Policy</a></li><li><a href="http://www.cbcshop.ca/">CBC Shop</a></li><li><a href="http://www.cbc.ca/connects/">Help</a></li><li><a href="http://www.cbc.ca/connects/">Contact Us</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/jobs/">Jobs</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/doing-business-with-us/">Doing Business with Us</a></li><li><a href="/productionfacilities/">Renting Facilities</a></li></ul></div><div class="cbc-globalfooter-bottom"><div class="cbc-globalfooter-logo"><p class="cbc"><a href="http://www.cbc.radio-canada.ca/">CBC</a></p><a href="http://www.cbc.radio-canada.ca/"><img class="cbc-globalfooter-logo" src="/i/o/globalnav/v14/images/cbc-gem.svg" width="40" height="40" alt="CBC gem logo"></a><p class="rc"><a href="http://www.cbc.radio-canada.ca/">Radio-Canada</a></p></div><div class="cbc-globalfooter-copyright"><p>©2016 CBC/Radio-Canada. All rights reserved</p></div><div class="cbc-globalfooter-bottom-link" lang="fr-CA"><a href="http://ici.radio-canada.ca/" hreflang="fr-CA">Visitez Radio-Canada.ca</a></div><div class="clear"></div></div></footer><script src="/i/o/globalnav/v14/scripts/globalfooter.js"></script><script>(function() {
 try{var a=
 {l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""}
-,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src=“//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
+,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
 {var g= "//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}
 catch(h){}};
 })();</script>

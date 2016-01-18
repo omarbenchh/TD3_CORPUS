@@ -412,7 +412,7 @@ $(document).ready(function() {
 <script type="text/javascript">
   
   $(document).ready(function(){
-    $('#news_archive_search').datepick({onSelect: pickedDate_news_archive_search, changeMonth: false, changeYear: false, navigationAsDateFormat: false, prevText: '<', nextText: '>', hideIfNoPrevNext: false, dateFormat: 'dd.mm.yy', maxDate: '15.01.2016', yearRange: '1998:2016', currentText: " "
+    $('#news_archive_search').datepick({onSelect: pickedDate_news_archive_search, changeMonth: false, changeYear: false, navigationAsDateFormat: false, prevText: '<', nextText: '>', hideIfNoPrevNext: false, dateFormat: 'dd.mm.yy', maxDate: '17.01.2016', yearRange: '1998:2016', currentText: " "
       });
   });
 
@@ -494,7 +494,7 @@ $(document).ready(function() {
                <script type="text/javascript" src="http://static1.1tv.ru/resources/clock2.js"></script>
                <!-- end clock scripts -->
 <span id="htmlClocks" style="color: white; font-weight: bold;">&nbsp;&nbsp;</span>
-Пятница, 15 января 2016<br/>
+Понедельник, 18 января 2016<br/>
 <span><span id="eRegionResult" style="display: block; float:left;">Москва                                                                                                                                                                                                                                                    </span> &nbsp;&nbsp; <a href="#" id="link_sb_top">Выбрать регион</a></span><script type="text/javascript">
 function FormRegionClick () {
             var str = $("#eRegion").serialize();
@@ -739,7 +739,7 @@ new adriver("adriver_banner_990603909", {sid:171392, bt:52, sz:'000210', bn:16})
 </div>
 <div class="n_article-txt" id="article_copy">
 <div class="tags" itemprop="keywords">
-<a href="/newsarchive/tags/2421/">дети[5197]</a>, <a href="/newsarchive/tags/2543/">медицина[1423]</a>, <a href="/newsarchive/tags/7605/">ростовская область[400]</a></div>
+<a href="/newsarchive/tags/2421/">дети[5199]</a>, <a href="/newsarchive/tags/2543/">медицина[1424]</a>, <a href="/newsarchive/tags/7605/">ростовская область[400]</a></div>
 <h1 itemprop="name">В Волгодонске благодаря программе модернизации здравоохранения заработал неонатальный центр</h1><div class="print"><a href="http://www.1tv.ru/news/print/192171" target="_blank">Версия для печати</a>
  <a id="link_copy-blog" href="#">Код для вставки в блог</a></div><div class="insert_blogs_full none">
 <div class="insert_blogs_full-ins">
@@ -988,18 +988,18 @@ t.insertBefore(s, t.firstChild);
 <div class="title"><h4>Ссылки по теме</h4></div>
 <ul>
 <li>
-<h5><a href="/newsarchive/tags/2421/">дети [5197]</a></h5>
+<h5><a href="/newsarchive/tags/2421/">дети [5199]</a></h5>
+<div class="date">17  января 2016</div>
+<p><a href="/news/world/300098">Сотрудники одного из датских зоопарков вновь провели неоднозначное мероприятие для детей</a></p>
 <div class="date">13  января 2016</div>
 <p><a href="/news/crime/299876">В Россию из Киргизии перевезены двое детей, которых собственный отчим продал в рабство</a></p>
-<div class="date">11  января 2016</div>
-<p><a href="/news/crime/299725">Подросток из Миасса, который убил мать после запрета играть в компьютерные игры, признан невменяемым</a></p>
 </li>
 <li>
-<h5><a href="/newsarchive/tags/2543/">медицина [1423]</a></h5>
+<h5><a href="/newsarchive/tags/2543/">медицина [1424]</a></h5>
 <div class="date">13  января 2016</div>
 <p><a href="/news/health/299860">На Украине тяжелой формой гриппа болеют тысячи людей, более 20 человек скончались</a></p>
-<div class="date">27  декабря 2015</div>
-<p><a href="/news/social/299082">В Саратове заработало новое здание станции переливания крови</a></p>
+<div class="date">05  января 2016</div>
+<p><a href="/news/social/299474">Жители Якутии смогут получать консультации докторов, работающих в ведущих клиниках республики</a></p>
 </li>
 <li>
 <h5><a href="/newsarchive/tags/7605/">ростовская область [400]</a></h5>
@@ -1016,53 +1016,53 @@ t.insertBefore(s, t.firstChild);
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/social/299997"></a>
+<a href="/news/economic/300115"></a>
 </div>
-<a href="/news/social/299997">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115153848.JPG">
+<a href="/news/economic/300115">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117210932.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time fudge">18:00</div>В Москве - первое задержание по делу о трагедии в жилом комплексе "Алые Паруса"</td></tr></table>
+<table><tr><td><div class="time fudge">21:00</div>Обвал бирж, падение цен на нефть и снижение курса рубля вносят коррективы в планы правительства РФ</td></tr></table>
 </div>
 </div>
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/crime/299998"></a>
+<a href="/news/economic/300116"></a>
 </div>
-<a href="/news/crime/299998">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115182205.JPG">
+<a href="/news/economic/300116">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117211456.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time">18:02</div>В Нальчике введен режим КТО, заблокирована группа боевиков, идет перестрелка</td></tr></table>
+<table><tr><td><div class="time">21:08</div>Экономисты и инвесторы пытаются спрогнозировать варианты выхода из мирового экономического кризиса</td></tr></table>
 </div>
 </div>
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/economic/299999"></a>
+<a href="/news/leontiev/300117"></a>
 </div>
-<a href="/news/economic/299999">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115181131.JPG">
+<a href="/news/leontiev/300117">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117212446.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time">18:03</div>Владимир Путин поддержал создание единой системы администрирования платежей</td></tr></table>
+<table><tr><td><div class="time">21:18</div>Аналитическая программа "Однако - Контекст"</td></tr></table>
 </div>
 </div>
 <div class="item close low">
 <div class="player">
 <div class="play">
-<a href="/news/economic/300000"></a>
+<a href="/news/polit/300118"></a>
 </div>
-<a href="/news/economic/300000">
-<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160115181317.JPG">
+<a href="/news/polit/300118">
+<img  class="low"src="http://img1.1tv.ru/imgsize333x187/PR20160117213801.JPG">
 </a>
 </div>
 <div class="text">
-<table><tr><td><div class="time">18:05</div>Цена нефти марки "Брент" рухнула ниже отметки 30 долларов</td></tr></table>
+<table><tr><td><div class="time">21:23</div>Владимир Путин в интервью немецкому изданию "Бильдт" рассказал об ошибках, которые совершила Россия</td></tr></table>
 </div>
 </div>
 </div>
@@ -1125,61 +1125,61 @@ t.insertBefore(s, t.firstChild);
 <!-- Баннер (конец) -->
 <!-- Ссылки по разделу (начало) -->
 <div class="n_links-part">
-<div class="title"><h4>Ссылки по разделу Криминал</h4></div>
+<div class="title"><h4>Ссылки по разделу Культура</h4></div>
 <div class="n_links-part-ins">
 <ul>
 <li>
-<div class="img low"><a href="/news/crime/299998"><img src="http://img1.1tv.ru/imgsize100x56/PR20160115182205.JPG" alt=""  /></a><div class="play"><a href="/news/crime/299998">&nbsp;</a></div></div><div class="txt">
-<div class="date">15.01.2016 18:02</div>
-<p><a href="/news/crime/299998">В Нальчике введен режим КТО, заблокирована группа боевиков, идет перестрелка</a></p>
+<div class="img low"><a href="/news/culture/300114"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117151913.JPG" alt=""  /></a><div class="play"><a href="/news/culture/300114">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 15:24</div>
+<p><a href="/news/culture/300114">Театр оперы и балета Владивостока стал филиалом петербургской Мариинки</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2115/">перестрелка</a>, <a href="/newsarchive/tags/5855/">кабардино-балкария</a>, <a href="/newsarchive/tags/36997/">кто</a></div>
+<a href="/newsarchive/tags/2253/">театр</a></div>
 </div>
 </li>
 <li class="last">
-<div class="img low"><a href="/news/crime/299951"><img src="http://img1.1tv.ru/imgsize100x56/PR20160114183531.JPG" alt=""  /></a><div class="play"><a href="/news/crime/299951">&nbsp;</a></div></div><div class="txt">
-<div class="date">14.01.2016 21:21</div>
-<p><a href="/news/crime/299951">В России раскрыта крупная сеть поставки героина</a></p>
+<div class="img low"><a href="/news/culture/300104"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117122547.JPG" alt=""  /></a><div class="play"><a href="/news/culture/300104">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 12:31</div>
+<p><a href="/news/culture/300104">В Лондоне проходит красочный Фестиваль света</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2014/">путин</a>, <a href="/newsarchive/tags/2203/">наркотики</a>, <a href="/newsarchive/tags/12198/">фскн</a></div>
+<a href="/newsarchive/tags/2107/">великобритания</a>, <a href="/newsarchive/tags/31438/">фестиваль</a></div>
 </div>
 </li>
 </ul>
 <div class="clear"></div>
 <ul>
 <li>
-<div class="img low"><a href="/news/crime/299945"><img src="http://img1.1tv.ru/imgsize100x56/PR20160114212140.JPG" alt=""  /></a><div class="play"><a href="/news/crime/299945">&nbsp;</a></div></div><div class="txt">
-<div class="date">14.01.2016 21:08</div>
-<p><a href="/news/crime/299945">В Турции знали о связях задержанного россиянина Сулейманова с ИГИЛ</a></p>
+<div class="img low"><a href="/news/culture/300091"><img src="http://img1.1tv.ru/imgsize100x56/PR20160117103220.JPG" alt=""  /></a><div class="play"><a href="/news/culture/300091">&nbsp;</a></div></div><div class="txt">
+<div class="date">17.01.2016 10:24</div>
+<p><a href="/news/culture/300091">На улицах Лондона появились грандиозные световые инсталляции</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2227/">турция</a>, <a href="/newsarchive/tags/31675/">террористы</a>, <a href="/newsarchive/tags/44097/">игил</a></div>
+<a href="/newsarchive/tags/2107/">великобритания</a>, <a href="/newsarchive/tags/31438/">фестиваль</a></div>
 </div>
 </li>
 <li class="last">
-<div class="img low"><a href="/news/crime/299929"><img src="http://img1.1tv.ru/imgsize100x56/PR20160114183533.JPG" alt=""  /></a><div class="play"><a href="/news/crime/299929">&nbsp;</a></div></div><div class="txt">
-<div class="date">14.01.2016 18:32</div>
-<p><a href="/news/crime/299929">За новогодние каникулы наркополицейские изъяли полторы тонны запрещенных веществ</a></p>
+<div class="img low"><a href="/news/culture/300081"><img src="http://img1.1tv.ru/imgsize100x56/PR20160116151542.JPG" alt=""  /></a><div class="play"><a href="/news/culture/300081">&nbsp;</a></div></div><div class="txt">
+<div class="date">16.01.2016 21:20</div>
+<p><a href="/news/culture/300081">В Париж привезли постановку российского режиссера Владимира Панкова о трагедии Первой мировой</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2014/">путин</a>, <a href="/newsarchive/tags/2203/">наркотики</a>, <a href="/newsarchive/tags/12198/">фскн</a></div>
+<a href="/newsarchive/tags/2246/">франция</a>, <a href="/newsarchive/tags/2253/">театр</a></div>
 </div>
 </li>
 </ul>
 <div class="clear"></div>
 <ul>
 <li>
-<div class="img low"><a href="/news/crime/299921"><img src="http://img1.1tv.ru/imgsize100x56/PR20160114181758.JPG" alt=""  /></a><div class="play"><a href="/news/crime/299921">&nbsp;</a></div></div><div class="txt">
-<div class="date">14.01.2016 18:14</div>
-<p><a href="/news/crime/299921">Среди задержанных в Турции россиян оказался Айдар Сулейманов, заочно обвиненный в РФ в связях с ИГИЛ</a></p>
+<div class="img low"><a href="/news/culture/300019"><img src="http://img1.1tv.ru/imgsize100x56/PR20160115193605.JPG" alt=""  /></a><div class="play"><a href="/news/culture/300019">&nbsp;</a></div></div><div class="txt">
+<div class="date">15.01.2016 21:46</div>
+<p><a href="/news/culture/300019">Искусство России и бывших советских республик в Лондоне представляет Айдан Салахова</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2227/">турция</a>, <a href="/newsarchive/tags/2583/">мид</a>, <a href="/newsarchive/tags/44097/">игил</a></div>
+<a href="/newsarchive/tags/2107/">великобритания</a>, <a href="/newsarchive/tags/3270/">скульптура</a>, <a href="/newsarchive/tags/3815/">выставки</a></div>
 </div>
 </li>
 <li class="last">
-<div class="img low"><a href="/news/crime/299915"><img src="http://img1.1tv.ru/imgsize100x56/PR20160114151610.JPG" alt=""  /></a><div class="play"><a href="/news/crime/299915">&nbsp;</a></div></div><div class="txt">
-<div class="date">14.01.2016 15:05</div>
-<p><a href="/news/crime/299915">Во время новогодних праздников ФСКН провела несколько крупных спецопераций</a></p>
+<div class="img low"><a href="/news/culture/299940"><img src="http://img1.1tv.ru/imgsize100x56/PR20160115184313.JPG" alt=""  /></a><div class="play"><a href="/news/culture/299940">&nbsp;</a></div></div><div class="txt">
+<div class="date">15.01.2016 18:39</div>
+<p><a href="/news/culture/299940">В Лондоне проходит первая персональная выставка Айдан Салаховой "Освобождённая женщина Востока"</a></p>
 <div class="tags">
-<a href="/newsarchive/tags/2014/">путин</a>, <a href="/newsarchive/tags/2203/">наркотики</a>, <a href="/newsarchive/tags/12198/">фскн</a></div>
+<a href="/newsarchive/tags/2107/">великобритания</a>, <a href="/newsarchive/tags/3815/">выставки</a></div>
 </div>
 </li>
 </ul>
@@ -1351,80 +1351,67 @@ d.documentElement.appendChild(js);
 
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=21&amp;fi=43118" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160114121633.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=6006&amp;fi=43046" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160114122636.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=21&amp;fi=43118">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=6006&amp;fi=43046">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/ciz">Человек и закон</a></h5>
-<p><a href="/sprojects_edition/si=21&amp;fi=43118">Что нас ждет в Новом году. Самосуд по-челябински. Капремонт «хромает» по стране. Самые обсуждаемые интернет-истории ушедшего года. Суррогатное материнство, или ребенок любой ценой</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/guest">Гости по воскресеньям</a></h5>
+<p><a href="/sprojects_edition/si=6006&amp;fi=43046">После Нового года в гости к Ирине Муромцевой пришла режиссер Алла Сурикова вместе с дочкой Кирой и внуками Иваном и Артемом</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=5965&amp;fi=43132" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115145146.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=5709&amp;fi=43042" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160117114728.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=5965&amp;fi=43132">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=5709&amp;fi=43042">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/malefemale">Мужское / Женское</a></h5>
-<p><a href="/sprojects_edition/si=5965&amp;fi=43132">Самые эмоциональные моменты выпуска</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/fazenda">Фазенда</a></h5>
+<p><a href="/sprojects_edition/si=5709&amp;fi=43042">Эту спальню муж попросил сделать для своей супруги, которая поборола смертельный недуг. Пригласить "Фазенду" было её заветной мечтой</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=5748&amp;fi=43138" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115122050.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=28&amp;fi=43116" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160117110809.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=5748&amp;fi=43138">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=28&amp;fi=43116">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/marry">Давай поженимся!</a></h5>
-<p><a href="/sprojects_edition/si=5748&amp;fi=43138">Пропустили шоу "Давай поженимся!"? Не беда! Смотрите самые яркие моменты недели</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/pokavsedoma">Пока все дома</a></h5>
+<p><a href="/sprojects_edition/si=28&amp;fi=43116">Программа "Пока все дома" в гостях у знаменитой певицы Кристины Орбакайте</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=6009&amp;fi=43121" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115132346.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=31&amp;fi=42694" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20151220124138.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=6009&amp;fi=43121">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=31&amp;fi=42694">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/tabletka">Таблетка</a></h5>
-<p><a href="/sprojects_edition/si=6009&amp;fi=43121">44-летнюю москвичку вот уже год безуспешно лечат от геморроя. Эффективны ли прописанные ей лекарства и можно ли вылечить геморрой при помощи пиявок?</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/turzametki">Непутевые заметки</a></h5>
+<p><a href="/sprojects_edition/si=31&amp;fi=42694">Путешествие на Кольский полуостров: горнолыжный курорт в Хибинах, Апатиты и Кировск</a></p>
 </div>
 </li>
 <li>
 <div class="img low">
-<a href="/sprojects_edition/si=5804&amp;fi=43128" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115133511.JPG" alt="" border="0" />
+<a href="/sprojects_edition/si=16&amp;fi=43147" title="">
+<img src="http://img1.1tv.ru/imgsize100x56/PR20160117112732.JPG" alt="" border="0" />
 </a>
-<div class="play"><a href="/sprojects_edition/si=5804&amp;fi=43128">&nbsp;</a></div>
+<div class="play"><a href="/sprojects_edition/si=16&amp;fi=43147">&nbsp;</a></div>
 </div>
 <div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://www.1tv.ru/zdorovo">Жить здорово!</a></h5>
-<p><a href="/sprojects_edition/si=5804&amp;fi=43128">Самые яркие эпизоды программы</a></p>
-</div>
-</li>
-<li>
-<div class="img low">
-<a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=223&amp;pid=1" title="">
-<img src="http://img1.1tv.ru/imgsize100x56/PR20160115114719.JPG" alt="" border="0" />
-</a>
-<div class="play"><a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=223&amp;pid=1">&nbsp;</a></div>
-</div>
-<div class="txt">
-<div class="date">15 января, Пятница</div>
-<h5><a href="http://utro.1tv.ru">Доброе утро</a></h5>
-<p><a href="http://www.1tv.ru/vp/si=33&amp;im=23&amp;vr_id=223&amp;pid=1"><p>Самая волшебная ночь в году вместе с Первым каналом — узнайте, как встречали Новый год в сердце столицы.</a></p>
+<div class="date">17 января, Воскресенье</div>
+<h5><a href="http://www.1tv.ru/zdorovie">Здоровье</a></h5>
+<p><a href="/sprojects_edition/si=16&amp;fi=43147">Что такое стеатоз печени, чем опасно это заболевание?</a></p>
 </div>
 </li>
 </ul>

@@ -233,10 +233,10 @@ if (document.getElementsByTagName("head").length > 0) {
                 <div class="widget-weather">
                     <a href="/li/weather.in.Basingstoke/" title="Weather in Basingstoke">
                         <ul>
-                            
-                            <li class=" icon-sun"></li>
+                            <li class="windyrain-cloud"></li>
+                            <li class=" icon-rain"></li>
                         </ul>
-                        <p class="tiny c-align">Basingstoke 4.3°c</p>
+                        <p class="tiny c-align">Basingstoke 3.3°c</p>
                     </a>
                 </div>
 
@@ -905,7 +905,7 @@ var utag_data = {
     dfp_targeting_jobs_industry_sectors : ''.toLowerCase(),
     dfp_targeting_module_path : 'news',
     dfp_targeting_weather_band : '1-5',
-    dfp_targeting_weather_summary : 'sun'.toLowerCase(),
+    dfp_targeting_weather_summary : 'rain'.toLowerCase(),
     homes_search_bedrooms_minimum : getQs('hmsbmn', jobsAndHomes),
     homes_search_location : getQs('hmsl', jobsAndHomes),
     homes_search_price_minimum : getQs('hmspmn', jobsAndHomes),
@@ -1040,7 +1040,7 @@ var targeting = {'context' : 'Unknown',
                  'domain' : 'www.basingstokegazette.co.uk',
                  'isLanding' : 'no',
                  'top_path' : 'news',
-                 'weather': 'sun'.toLowerCase(),
+                 'weather': 'rain'.toLowerCase(),
                  'jbsjs': ''.toLowerCase(),
                  'site_search': '',
                  'wt' : '1-5',
@@ -1366,7 +1366,7 @@ function getOmniturePath() {
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName="(www) "+getOmniturePath();
-s.server="blade4"
+s.server="blade7"
 s.channel=""
 s.pageType=""
 s.prop1=""
@@ -1481,7 +1481,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics">
-<img src="http://newsquestdigitalmedia.122.2o7.net/b/ss/newsquestgroupprod/5/H.19.4/?gn=%28www%29+%2Fnews%2F9474198.display%2F&amp;sv=blade4&amp;ch=&amp;c4=9474198&amp;c5=ArticleModule&amp;c16=www.basingstokegazette.co.uk&amp;c17=Basingstoke&amp;c18=Martini&amp;linkInternalFilters=javascript:,basingstokegazette.co.uk,fish4.co.uk,adsys.newsquest.co.uk,www.exchangeandmart.co.uk,www.communigate.co.uk,&amp;h1=newsquest,Basingstoke,www.basingstokegazette.co.uk&amp;c3=&amp;c6=news&amp;c7=news&amp;c8=news&amp;c9=news" width="1" height="1" border="0" /></a>
+<img src="http://newsquestdigitalmedia.122.2o7.net/b/ss/newsquestgroupprod/5/H.19.4/?gn=%28www%29+%2Fnews%2F9474198.display%2F&amp;sv=blade7&amp;ch=&amp;c4=9474198&amp;c5=ArticleModule&amp;c16=www.basingstokegazette.co.uk&amp;c17=Basingstoke&amp;c18=Martini&amp;linkInternalFilters=javascript:,basingstokegazette.co.uk,fish4.co.uk,adsys.newsquest.co.uk,www.exchangeandmart.co.uk,www.communigate.co.uk,&amp;h1=newsquest,Basingstoke,www.basingstokegazette.co.uk&amp;c3=&amp;c6=news&amp;c7=news&amp;c8=news&amp;c9=news" width="1" height="1" border="0" /></a>
 
 
 </noscript><!--/DO NOT REMOVE/-->

@@ -19,10 +19,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="dj.asn" content="i-9541" />
+    <meta name="dj.asn" content="i-9512" />
 <meta name="user.type" content="nonsubscriber" />
 <meta name="user.exp" content="default" />
-<meta name="testkeys" content="A" />
+<meta name="testkeys" content="C" />
 <meta name="page.section" content="Article" />
 <meta name="page.content.type" content="article" />
 <meta name="page.content.format" content="responsive" />
@@ -81,7 +81,7 @@
   }
 </script>
 
-    <script type='text/javascript'>window.NREUM||(NREUM={});NREUM.info = {"agent":"js-agent.newrelic.com/nr-768.min.js","beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a29706356f","applicationID":"6479237","applicationTime":32.184113,"transactionName":"YVAAYxQDVkYCVUddWlgaIUIVFldYTFdBQFxVWQdESUg=","queueTime":0,"ttGuid":"124a233720d76f0","agentToken":null}; window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <script type='text/javascript'>window.NREUM||(NREUM={});NREUM.info = {"agent":"js-agent.newrelic.com/nr-768.min.js","beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a29706356f","applicationID":"6453787","applicationTime":36.373961,"transactionName":"YVAAYxQDVkYCVUddWlgaIUIVFldYTFdBQFxVWQdESUg=","queueTime":0,"ttGuid":"bfc61398ae7598","agentToken":null}; (window.NREUM||(NREUM={})).loader_config={xpid:"UAEHUVBWGwUEUVJVDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
 
       <link rel="canonical" href="http://www.wsj.com/articles/AP09c493be1bf1435399503560770a6835" />
 
@@ -101,7 +101,7 @@
 
 
 
-    <link href='//asset.wsj.net/public/snippet.production-5064f4b6.css' media='all' rel='stylesheet' type='text/css'/>
+    <link href='//asset.wsj.net/public/snippet.production-53a0632a.css' media='all' rel='stylesheet' type='text/css'/>
 
 
 
@@ -118,7 +118,7 @@
 
 
     <!-- Structured markup (movie review, etc.) -->
-  <script type="text/javascript" src="/dstl-ore275803.js" defer></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#cdtxfcvudsty{display:none!important}</style></head>
+  </head>
 
   <body
     id="article_body"
@@ -139,7 +139,7 @@
 <div class="cookie-notice-container">
   <div class="sector cookie-notice">
     <div class="module wrapper">
-        <p>We use cookies to help us deliver our online services.  By using our website or by closing this message box, you agree to our use of cookies as described in our <a href="http://online.wsj.com/public/page/cookie-policy.html" target="_blank">Cookie Policy</a><a href="qqqqxrx.html" style="display: none;" rel="file" id="cdtxfcvudsty">qzxcffzfwsqsbaebsax</a><!-- i18n-1 -->.</p>
+        <p>We use cookies to help us deliver our online services.  By using our website or by closing this message box, you agree to our use of cookies as described in our <a href="http://online.wsj.com/public/page/cookie-policy.html" target="_blank">Cookie Policy</a><!-- i18n-1 -->.</p>
         <a class="close" href="#">Do not show again</a>
     </div>
   </div>
@@ -223,9 +223,9 @@
       <table class="mdStrip module">
         <tbody>
           <tr>
-            <td id="DJIA" data-channel="/quotes/zigman/627449/realtime" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-01-15T09:58:37-05:00"
-            data-time="9:58 AM ET 01/15/16"
-            data-localtime="9:58 AM EST 01/15/16"
+            <td id="DJIA" data-channel="/quotes/zigman/627449/realtime" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-01-17T16:41:21-05:00"
+            data-time="4:43 PM ET 01/15/16"
+            data-localtime="4:43 PM EST 01/15/16"
             data-timezone="EST"
             data-etoffsetmins="-300"
             class="
@@ -238,16 +238,16 @@
     
     
                 <div class="index">
-                    <span class="mValue hide4">16002.36</span>
-                    <span class="mChange">-2.30%</span>
+                    <span class="mValue hide4">15988.08</span>
+                    <span class="mChange">-2.39%</span>
                 </div>
             </a>
             </td>
             <td class="spacer hide4
     ">&nbsp;</td>
-        <td id="SPX" data-channel="/quotes/zigman/3870025/realtime" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-01-15T09:58:37-05:00"
-            data-time="9:58 AM ET 01/15/16"
-            data-localtime="9:58 AM EST 01/15/16"
+        <td id="SPX" data-channel="/quotes/zigman/3870025/realtime" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-01-17T16:41:21-05:00"
+            data-time="4:43 PM ET 01/15/16"
+            data-localtime="4:43 PM EST 01/15/16"
             data-timezone="EST"
             data-etoffsetmins="-300"
             class="
@@ -262,8 +262,8 @@
     
     
                 <div class="index">
-                    <span class="mValue hide4">1879.58</span>
-                    <span class="mChange">-2.20%</span>
+                    <span class="mValue hide4">1880.33</span>
+                    <span class="mChange">-2.16%</span>
                 </div>
             </a>
             </td>
@@ -271,9 +271,9 @@
                  hide4 hide8
              hide12
                  ">&nbsp;</td>
-        <td id="COMP" data-channel="/quotes/zigman/12633936/realtime" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-01-15T09:58:37-05:00"
-            data-time="9:58 AM ET 01/15/16"
-            data-localtime="9:58 AM EST 01/15/16"
+        <td id="COMP" data-channel="/quotes/zigman/12633936/realtime" data-decimalPrecision="2" data-type="Index" data-updatedTimestamp="2016-01-17T16:41:21-05:00"
+            data-time="5:16 PM ET 01/15/16"
+            data-localtime="5:16 PM EST 01/15/16"
             data-timezone="EST"
             data-etoffsetmins="-300"
             class="
@@ -287,17 +287,17 @@
     
     
                 <div class="index">
-                    <span class="mValue hide4">4492.20</span>
-                    <span class="mChange">-2.66%</span>
+                    <span class="mValue hide4">4488.42</span>
+                    <span class="mChange">-2.74%</span>
                 </div>
             </a>
             </td>
             <td class="spacer hide4
                  hide4 hide8
 ">&nbsp;</td>
-        <td id="TMUBMUSD10Y" data-channel="/quotes/zigman/15866666/realtime" data-decimalPrecision="3" data-type="Bond" data-updatedTimestamp="2016-01-15T09:58:37-05:00"
-            data-time="9:58 AM ET 01/15/16"
-            data-localtime="9:58 AM EST 01/15/16"
+        <td id="TMUBMUSD10Y" data-channel="/quotes/zigman/15866666/realtime" data-decimalPrecision="3" data-type="Bond" data-updatedTimestamp="2016-01-17T16:41:21-05:00"
+            data-time="6:38 PM ET 01/15/16"
+            data-localtime="6:38 PM EST 01/15/16"
             data-timezone="EST"
             data-etoffsetmins="-300"
             class="
@@ -306,20 +306,20 @@
     
                 <span class="mName">U.S. 10 Yr</span>
     
-                    <i class="up ">▲</i>
+                    <i class="up down">▲</i>
     
                 <div class="index">
-                    <span class="mValue hide4">22/32 yield</span>
-                    <span class="mChange">2.013%</span>
+                    <span class="mValue hide4">0/32 yield</span>
+                    <span class="mChange">2.038%</span>
                 </div>
 
                 </a>
             </td>
             <td class="spacer hide4
     ">&nbsp;</td>
-        <td id="Crude Oil - Electronic" data-channel="/quotes/zigman/2269206/delayed" data-decimalPrecision="2" data-type="Future" data-updatedTimestamp="2016-01-15T09:58:37-05:00"
-            data-time="9:48 AM ET 01/15/16"
-            data-localtime="9:48 AM EST 01/15/16"
+        <td id="Crude Oil - Electronic" data-channel="/quotes/zigman/2269206/delayed" data-decimalPrecision="2" data-type="Future" data-updatedTimestamp="2016-01-17T16:41:21-05:00"
+            data-time="4:59 PM ET 01/15/16"
+            data-localtime="4:59 PM EST 01/15/16"
             data-timezone="EST"
             data-etoffsetmins="-300"
             class="
@@ -333,17 +333,17 @@
     
     
                 <div class="index">
-                    <span class="mValue hide4">29.92</span>
-                    <span class="mChange">-4.10%</span>
+                    <span class="mValue hide4">29.70</span>
+                    <span class="mChange">-4.81%</span>
                 </div>
             </a>
             </td>
             <td class="spacer hide4
                  hide4 hide8
 ">&nbsp;</td>
-        <td id="EURUSD" data-channel="/quotes/zigman/16008136/realtime/sampled" data-decimalPrecision="4" data-type="Currency" data-updatedTimestamp="2016-01-15T09:58:37-05:00"
-            data-time="9:58 AM ET 01/15/16"
-            data-localtime="9:58 AM EST 01/15/16"
+        <td id="EURUSD" data-channel="/quotes/zigman/16008136/realtime/sampled" data-decimalPrecision="4" data-type="Currency" data-updatedTimestamp="2016-01-17T16:41:21-05:00"
+            data-time="4:59 PM ET 01/15/16"
+            data-localtime="4:59 PM EST 01/15/16"
             data-timezone="EST"
             data-etoffsetmins="-300"
             class="
@@ -356,8 +356,8 @@
     
     
                 <div class="index">
-                    <span class="mValue hide4">1.0958</span>
-                    <span class="mChange">0.84%</span>
+                    <span class="mValue hide4">1.0917</span>
+                    <span class="mChange">0.46%</span>
                 </div>
             </a>
             </td>
@@ -685,6 +685,7 @@
           </ul>
           <ul>
                 <li><a href="http://blogs.wsj.com/expat/">Expat</a></li>
+            <li><a href="http://blogs.wsj.com/offduty/">Off Duty Daily</a></li>
             <li><a href="http://blogs.wsj.com/dailyfix/">The Daily Fix</a></li>
           </ul>
           <ul>
@@ -1036,6 +1037,7 @@
     <ul>
           <li class="sectionLabel">Blogs</li>
           <li><a href="http://blogs.wsj.com/expat/">Expat</a></li>
+      <li><a href="http://blogs.wsj.com/offduty/">Off Duty Daily</a></li>
       <li><a href="http://blogs.wsj.com/dailyfix/">The Daily Fix</a></li>
     </ul>
     <ul>
@@ -1116,176 +1118,184 @@
       <div class="carousel-next"></div>
 
       <div class="carousel-list">
-        <div class="carousel-item  " data-sbid="SB12335118600907554567304581479582625820252">
-            <a class="carousel-link" href="http://www.wsj.com/articles/global-stocks-fall-on-oil-and-china-woes-1452850130">
+        <div class="carousel-item locked " data-sbid="SB12115899085733003306504581484331791889072">
+            <a class="carousel-link" href="http://www.wsj.com/articles/u-s-sanctions-11-iranian-tied-entities-for-role-in-tehrans-ballistic-missile-program-1453046441">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="U.S. Stocks Sell Off Amid a World-Wide Rout" data-lazy=http://si.wsj.net/public/resources/images/BN-MC997_panmkt_Z120_20160115053926.jpg>
+                  <img alt="U.S. Sanctions 11 Iranian-Tied Entities" data-lazy=http://si.wsj.net/public/resources/images/BN-MC572_iran01_Z120_20160114131331.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    U.S. Stocks Sell Off Amid a World-Wide Rout
+                    U.S. Sanctions 11 Iranian-Tied Entities
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB12335118600907554567304581479830209820832">
-            <a class="carousel-link" href="http://www.wsj.com/articles/oil-prices-fall-below-30-a-barrel-1452853918">
+        <div class="carousel-item locked " data-sbid="SB12115899085733003306504581483611052591794">
+            <a class="carousel-link" href="http://www.wsj.com/articles/iran-president-hassan-rouhani-welcomes-nuclear-accord-1453018794">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="Oil Prices Fall Below $30 a Barrel" data-lazy=http://si.wsj.net/public/resources/images/BN-LX869_0101VE_Z120_20160101163720.jpg>
+                  <img alt="Iran Accord Stokes Anxiety Among Its Rivals" data-lazy=http://si.wsj.net/public/resources/images/BN-MD454_iran01_Z120_20160117064947.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    Oil Prices Fall Below $30 a Barrel
+                    Iran Accord Stokes Anxiety Among Its Rivals
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB10362212737264463868404581480171457253718">
-            <a class="carousel-link" href="http://www.wsj.com/articles/wal-mart-to-close-269-stores-globally-1452868122">
+        <div class="carousel-item locked " data-sbid="SB10152201462225363779004581483833662567742">
+            <a class="carousel-link" href="http://www.wsj.com/articles/chinas-securities-czar-casts-wide-blame-for-market-turmoil-1453026461">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="Wal-Mart to Close 269 Stores" data-lazy=http://si.wsj.net/public/resources/images/BN-MD040_2p53Z_Z120_20160115091226.jpg>
+                  <img alt="What’s Wrong With China’s Stock Market?" data-lazy=http://si.wsj.net/public/resources/images/BN-MD446_cstox0_Z120_20160117044451.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    Wal-Mart to Close 269 Stores
+                    What’s Wrong With China’s Stock Market?
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB10276351569206334728704581479270326788448">
-            <a class="carousel-link" href="http://www.wsj.com/articles/a-republican-debate-divided-the-leaders-and-the-rest-1452832473">
+        <div class="carousel-item locked " data-sbid="SB12115899085733003306504581484670416647588">
+            <a class="carousel-link" href="http://www.wsj.com/articles/spacexstumbles-as-booster-suffers-hard-barge-landing-1453062105">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="A Debate Divided: the Leaders and the Rest" data-lazy=http://si.wsj.net/public/resources/images/BN-MC921_debate_Z120_20160114220100.jpg>
+                  <img alt="SpaceX Stumbles in Landing Booster" data-lazy=http://si.wsj.net/public/resources/images/BN-MD491_0117sp_Z120_20160117142708.jpg>
+                <div class="carousel-text">
+                  <div class="carousel-headline">
+                    SpaceX Stumbles in Landing Booster
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10276351569206334728704581482691229988666">
+            <a class="carousel-link" href="http://www.wsj.com/articles/clintons-lead-over-sanders-widens-1453039203">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Clinton’s Lead Over Sanders Widens" data-lazy=http://si.wsj.net/public/resources/images/BN-MD422_2pCgy_Z120_20160116163655.jpg>
                 <div class="carousel-text">
                     <div class="carousel-flash">
                       Election 2016
                     </div>
                   <div class="carousel-headline">
-                    A Debate Divided: the Leaders and the Rest
+                    Clinton’s Lead Over Sanders Widens
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB10276351569206334728704581478083366372392">
-            <a class="carousel-link" href="http://www.wsj.com/articles/citigroup-earnings-jump-on-lower-legal-fees-higher-revenue-1452862861">
+        <div class="carousel-item locked " data-sbid="SB12115899085733003306504581483751487242910">
+            <a class="carousel-link" href="http://www.wsj.com/articles/taiwans-shy-tsai-thrust-into-spotlight-as-first-female-president-1453026260">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="A Leaner Citigroup Weighs in With a Robust Profit" data-lazy=http://si.wsj.net/public/resources/images/BN-MC393_0115ci_Z120_20160114082615.jpg>
+                  <img alt="Taiwan’s Shy Tsai Thrust Into Global Spotlight as President" data-lazy=http://si.wsj.net/public/resources/images/BN-MD445_2rzQf_Z120_20160117042816.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    A Leaner Citigroup Weighs in With a Robust Profit
+                    Taiwan’s Shy Tsai Thrust Into Global Spotlight as President
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB10362212737264463868404581478912739419294">
-            <a class="carousel-link" href="http://www.wsj.com/articles/global-malaise-spurs-u-s-growth-worries-1452819336">
+        <div class="carousel-item locked " data-sbid="SB10362212737264463868404581483452186854020">
+            <a class="carousel-link" href="http://www.wsj.com/articles/jakarta-attack-rapid-response-restricted-death-toll-investigators-say-1453021829">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="Global Malaise Spurs U.S. Growth Worries" data-lazy=http://si.wsj.net/public/resources/images/BN-MC874_ECON01_Z120_20160114194606.jpg>
+                  <img alt="Jakarta Attack Response Restricted Death Toll, Police Say" data-lazy=http://si.wsj.net/public/resources/images/BN-MD452_jakart_Z120_20160117062337.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    Global Malaise Spurs U.S. Growth Worries
+                    Jakarta Attack Response Restricted Death Toll, Police Say
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB11777697228475194531304581479660597473074">
-            <a class="carousel-link" href="http://www.wsj.com/articles/chinas-haier-to-buy-ge-appliance-business-for-5-4-billion-1452845661">
+        <div class="carousel-item locked " data-sbid="SB12115899085733003306504581484251999490960">
+            <a class="carousel-link" href="http://www.wsj.com/articles/is-bitcoin-breaking-up-1453044493">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="China’s Haier to Buy GE Appliance Unit for $5.4 Billion" data-lazy=http://si.wsj.net/public/resources/images/BN-MC977_0115ge_Z120_20160115030907.jpg>
+                  <img alt="Is Bitcoin Breaking Up?" data-lazy=http://si.wsj.net/public/resources/images/BN-LR774_bitcoi_Z120_20151214125144.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    China’s Haier to Buy GE Appliance Unit for $5.4 Billion
+                    Is Bitcoin Breaking Up?
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB10991350514498843875504581363651948083240">
-            <a class="carousel-link" href="http://www.wsj.com/articles/with-gridlock-in-washington-lobbyists-turn-to-statehouses-1452825384">
+        <div class="carousel-item locked " data-sbid="SB12115899085733003306504581484362398558574">
+            <a class="carousel-link" href="http://www.wsj.com/articles/airbus-to-join-forces-with-uber-for-on-demand-helicopter-service-ceo-says-1453048668">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="D.C. Gridlock Drives Lobbyists to State Capitals" data-lazy=http://si.wsj.net/public/resources/images/BN-MC875_MINIDC_Z120_20160114195217.jpg>
+                  <img alt="Airbus to Supply Helicopters to Uber" data-lazy=http://si.wsj.net/public/resources/images/BN-MD480_0117ub_Z120_20160117124234.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    D.C. Gridlock Drives Lobbyists to State Capitals
+                    Airbus to Supply Helicopters to Uber
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item  isBlog" data-sbid="BL-REB-34853">
-            <a class="carousel-link" href="/articles/BL-REB-34853">
+        <div class="carousel-item locked " data-sbid="SB11887156628279994031604581476170558503908">
+            <a class="carousel-link" href="http://www.wsj.com/articles/netflixs-global-growth-faces-new-threats-1453026602">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="More Helpful Than a Business Degree: A Summer Internship" data-lazy=http://s.wsj.net/public/resources/images/BN-MC694_intern_D_20160114155124.jpg>
+                  <img alt="Netflix’s Global Growth Faces New Threats" data-lazy=http://si.wsj.net/public/resources/images/BN-MD218_NETFLI_Z120_20160115152237.jpg>
                 <div class="carousel-text">
                   <div class="carousel-headline">
-                    More Helpful Than a Business Degree: A Summer Internship
+                    Netflix’s Global Growth Faces New Threats
                   </div>
                 </div>
               </div>
             </a>
           </div>
-        <div class="carousel-item locked " data-sbid="SB12053837977855664124504581479721685632888">
-            <a class="carousel-link" href="http://www.wsj.com/articles/jakarta-attack-planners-goal-a-leadership-role-1452856415">
+        <div class="carousel-item locked " data-sbid="SB12115899085733003306504581484493523585966">
+            <a class="carousel-link" href="http://www.wsj.com/articles/italy-versus-germany-europes-latest-fault-line-1453062895">
               <div class="carousel-item-border"></div>
               <div class="inner-carousel-item">
-                  <img alt="Jakarta Attack Planner Aims to Be an Islamic State Leader" data-lazy=http://si.wsj.net/public/resources/images/OJ-AE922_INDOTE_Z120_20160115041131.jpg>
-                <div class="carousel-text">
-                  <div class="carousel-headline">
-                    Jakarta Attack Planner Aims to Be an Islamic State Leader
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        <div class="carousel-item locked " data-sbid="SB11238113668445154481004581375770580347808">
-            <a class="carousel-link" href="http://www.wsj.com/articles/references-to-islam-in-school-textbooks-stir-up-a-fight-1452853800">
-              <div class="carousel-item-border"></div>
-              <div class="inner-carousel-item">
-                  <img alt="Fight Over Islam in School Textbooks" data-lazy=http://si.wsj.net/public/resources/images/BN-LY867_ISLAMI_Z120_20160105114355.jpg>
-                <div class="carousel-text">
-                  <div class="carousel-headline">
-                    Fight Over Islam in School Textbooks
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        <div class="carousel-item locked " data-sbid="SB11887156628279994031604581476710844629314">
-            <a class="carousel-link" href="http://www.wsj.com/articles/why-wealthy-families-should-apply-for-college-financial-aid-1452853803">
-              <div class="carousel-item-border"></div>
-              <div class="inner-carousel-item">
-                  <img alt="Why Wealthy Families Should Apply for College Financial Aid" data-lazy=http://si.wsj.net/public/resources/images/BN-MC159_FAFSA0_Z120_20160113165725.jpg>
-                <div class="carousel-text">
-                  <div class="carousel-headline">
-                    Why Wealthy Families Should Apply for College Financial Aid
-                  </div>
-                </div>
-              </div>
-            </a>
-          </div>
-        <div class="carousel-item  " data-sbid="SB11712348275530793715504581474720340958628">
-            <a class="carousel-link" href="http://www.wsj.com/articles/forget-fantasy-football-how-about-fantasy-bachelor-1452824033">
-              <div class="carousel-item-border"></div>
-              <div class="inner-carousel-item">
-                  <img alt="Forget Fantasy Football, How About Fantasy Bachelor?" data-lazy=http://si.wsj.net/public/resources/images/BN-MC630_FANTAS_Z120_20160114143250.jpg>
+                  <img alt="Rome Versus Berlin: Europe’s Latest Fault Line" data-lazy=http://si.wsj.net/public/resources/images/BN-MD496_0117eu_Z120_20160117150224.jpg>
                 <div class="carousel-text">
                     <div class="carousel-flash">
-                      The A-Hed
+                      Europe File
                     </div>
                   <div class="carousel-headline">
-                    Forget Fantasy Football, How About Fantasy Bachelor?
+                    Rome Versus Berlin: Europe’s Latest Fault Line
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item locked " data-sbid="SB10362212737264463868404581480600468566660">
+            <a class="carousel-link" href="http://www.wsj.com/articles/airlines-rising-labor-costs-in-focus-ahead-of-earnings-1452940203">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Airlines’ Labor Costs in Focus" data-lazy=http://si.wsj.net/public/resources/images/BN-MD213_CORPWE_Z120_20160115151612.jpg>
+                <div class="carousel-text">
+                    <div class="carousel-flash">
+                      The Week Ahead
+                    </div>
+                  <div class="carousel-headline">
+                    Airlines’ Labor Costs in Focus
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        <div class="carousel-item  " data-sbid="SB10026110916391214016604581476513712798304">
+            <a class="carousel-link" href="http://www.wsj.com/articles/who-likes-nickelback-nobody-except-for-millions-1452894762">
+              <div class="carousel-item-border"></div>
+              <div class="inner-carousel-item">
+                  <img alt="Who Likes Nickelback? Nobody, Except for Millions" data-lazy=http://si.wsj.net/public/resources/images/BN-MD255_NICKEL_Z120_20160115162947.jpg>
+                <div class="carousel-text">
+                    <div class="carousel-flash">
+                      
+                    The A-Hed
+                
+                    </div>
+                  <div class="carousel-headline">
+                    Who Likes Nickelback? Nobody, Except for Millions
                   </div>
                 </div>
               </div>
@@ -1561,43 +1571,43 @@
           </div>
         </li>
         <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
-          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160115/011416debatehighlightfix/011416debatehighlightfix_167x94.jpg" />
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160116/011616iranprisoners/011616iranprisoners_167x94.jpg" />
           <div class="video-hover-container">
-            <a href="http://www.wsj.com/video/republican-debate-in-two-minutes/5805872C-21F2-4EE7-910E-0C41527CB4B5.html?mod=trending_now_video_2" class="image">
+            <a href="http://www.wsj.com/video/the-americans-being-released-by-iran/DA096E9B-3362-47C7-9FB2-25D414C656AA.html?mod=trending_now_video_2" class="image">
               <div class="video_play"></div>
-              <img alt="[http://m.wsj.net/video/20160115/011416debatehighlightfix/011416debatehighlightfix_167x94.jpg]" src="http://m.wsj.net/video/20160115/011416debatehighlightfix/011416debatehighlightfix_167x94.jpg"/>
+              <img alt="[http://m.wsj.net/video/20160116/011616iranprisoners/011616iranprisoners_167x94.jpg]" src="http://m.wsj.net/video/20160116/011616iranprisoners/011616iranprisoners_167x94.jpg"/>
             </a>
-            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/republican-debate-in-two-minutes/5805872C-21F2-4EE7-910E-0C41527CB4B5.html?mod=trending_now_video_2">Republican Debate in Two Minutes</a></h4>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/the-americans-being-released-by-iran/DA096E9B-3362-47C7-9FB2-25D414C656AA.html?mod=trending_now_video_2">The Americans Being Released By Iran</a></h4>
           </div>
         </li>
         <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
-          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160114/011416trumpchina/011416trumpchina_167x94.jpg" />
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160116/011716seib5/011716seib5_167x94.jpg" />
           <div class="video-hover-container">
-            <a href="http://www.wsj.com/video/trump-calls-trade-with-china-unfair/782B7768-9BE0-4CAD-86E6-7CD5F1D0658A.html?mod=trending_now_video_3" class="image">
+            <a href="http://www.wsj.com/video/sanders-clinton-ready-to-spar-in-democratic-debate/0F9F0140-CD90-4E5E-8B86-E64B29FA37FB.html?mod=trending_now_video_3" class="image">
               <div class="video_play"></div>
-              <img alt="[http://m.wsj.net/video/20160114/011416trumpchina/011416trumpchina_167x94.jpg]" src="http://m.wsj.net/video/20160114/011416trumpchina/011416trumpchina_167x94.jpg"/>
+              <img alt="[http://m.wsj.net/video/20160116/011716seib5/011716seib5_167x94.jpg]" src="http://m.wsj.net/video/20160116/011716seib5/011716seib5_167x94.jpg"/>
             </a>
-            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/trump-calls-trade-with-china-unfair/782B7768-9BE0-4CAD-86E6-7CD5F1D0658A.html?mod=trending_now_video_3">Trump Calls Trade with China Unfair</a></h4>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/sanders-clinton-ready-to-spar-in-democratic-debate/0F9F0140-CD90-4E5E-8B86-E64B29FA37FB.html?mod=trending_now_video_3">Sanders, Clinton Ready to Spar in Democratic Debate</a></h4>
           </div>
         </li>
         <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
-          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160115/011516powerballcelebration/011516powerballcelebration_167x94.jpg" />
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160115/011516conlang2/011516conlang2_167x94.jpg" />
           <div class="video-hover-container">
-            <a href="http://www.wsj.com/video/powerball-losers-celebrate-for-a-community-win/2D838CB8-BDFA-44EF-9961-E2C8493B3256.html?mod=trending_now_video_4" class="image">
+            <a href="http://www.wsj.com/video/star-wars-and-the-mysterious-language-of-aliens/9FAD9229-A3B5-4E39-85E8-2E0C169366E4.html?mod=trending_now_video_4" class="image">
               <div class="video_play"></div>
-              <img alt="[http://m.wsj.net/video/20160115/011516powerballcelebration/011516powerballcelebration_167x94.jpg]" src="http://m.wsj.net/video/20160115/011516powerballcelebration/011516powerballcelebration_167x94.jpg"/>
+              <img alt="[http://m.wsj.net/video/20160115/011516conlang2/011516conlang2_167x94.jpg]" src="http://m.wsj.net/video/20160115/011516conlang2/011516conlang2_167x94.jpg"/>
             </a>
-            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/powerball-losers-celebrate-for-a-community-win/2D838CB8-BDFA-44EF-9961-E2C8493B3256.html?mod=trending_now_video_4">Powerball Losers Celebrate For a Community Win</a></h4>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/star-wars-and-the-mysterious-language-of-aliens/9FAD9229-A3B5-4E39-85E8-2E0C169366E4.html?mod=trending_now_video_4">‘Star Wars’ and the Mysterious Language of Aliens</a></h4>
           </div>
         </li>
         <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
-          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160112/011215snapchat4/011215snapchat4_167x94.jpg" />
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20160116/011615twelectfull/011615twelectfull_167x94.jpg" />
           <div class="video-hover-container">
-            <a href="http://www.wsj.com/video/snapchat-explained-using-snapchat/84712C9C-41D7-4C4F-AA4D-28AF383846AD.html?mod=trending_now_video_5" class="image">
+            <a href="http://www.wsj.com/video/taiwan-elects-first-female-president-tsai-ing-wen/6165F2A3-7968-4420-83B3-F1504841E8C6.html?mod=trending_now_video_5" class="image">
               <div class="video_play"></div>
-              <img alt="[http://m.wsj.net/video/20160112/011215snapchat4/011215snapchat4_167x94.jpg]" src="http://m.wsj.net/video/20160112/011215snapchat4/011215snapchat4_167x94.jpg"/>
+              <img alt="[http://m.wsj.net/video/20160116/011615twelectfull/011615twelectfull_167x94.jpg]" src="http://m.wsj.net/video/20160116/011615twelectfull/011615twelectfull_167x94.jpg"/>
             </a>
-            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/snapchat-explained-using-snapchat/84712C9C-41D7-4C4F-AA4D-28AF383846AD.html?mod=trending_now_video_5">Snapchat Explained... Using Snapchat</a></h4>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/taiwan-elects-first-female-president-tsai-ing-wen/6165F2A3-7968-4420-83B3-F1504841E8C6.html?mod=trending_now_video_5">Taiwan Elects First Female President, Tsai Ing-wen</a></h4>
           </div>
         </li>
     </ul>
@@ -1608,54 +1618,54 @@
       <h2 class="subhead">Most Popular Articles</h2>
     </div>
     <ul class="clear">
-        <li class="clear subPrev" itemscope itemtype="http://schema.org/ImageObject">
-            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/MN-AL038_HOTYWI_C_20160112171958.jpg" />
-            <a href="http://www.wsj.com/articles/house-of-the-year-2016-a-refrigerator-magnates-mansion-wins-1452785358?mod=trending_now_1" class="image">
-              <img alt="And the House of the Year 2016 Winner Is..." src="http://s.wsj.net/public/resources/images/MN-AL038_HOTYWI_C_20160112171958.jpg" width="111"/>
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MD422_2pCgy_C_20160116163655.jpg" />
+            <a href="http://www.wsj.com/articles/clintons-lead-over-sanders-widens-1453039203?mod=trending_now_1" class="image">
+              <img alt="Clinton’s Lead Over Sanders Widens" src="http://s.wsj.net/public/resources/images/BN-MD422_2pCgy_C_20160116163655.jpg" width="111"/>
             </a>
 
           <h4 class="headline  no-key truncate-head">
-            <a href="http://www.wsj.com/articles/house-of-the-year-2016-a-refrigerator-magnates-mansion-wins-1452785358?mod=trending_now_1">And the House of the Year 2016 Winner Is...</a>
+            <a href="http://www.wsj.com/articles/clintons-lead-over-sanders-widens-1453039203?mod=trending_now_1">Clinton’s Lead Over Sanders Widens</a>
           </h4>
         </li>
         <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
-            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MC708_POLL01_C_20160114155746.jpg" />
-            <a href="http://www.wsj.com/articles/poll-donald-trump-widens-his-lead-in-republican-presidential-race-1452808842?mod=trending_now_2" class="image">
-              <img alt="Poll: Trump Widens His Lead in GOP Race" src="http://s.wsj.net/public/resources/images/BN-MC708_POLL01_C_20160114155746.jpg" width="111"/>
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-LR774_bitcoi_C_20151214125144.jpg" />
+            <a href="http://www.wsj.com/articles/is-bitcoin-breaking-up-1453044493?mod=trending_now_2" class="image">
+              <img alt="Is Bitcoin Breaking Up?" src="http://s.wsj.net/public/resources/images/BN-LR774_bitcoi_C_20151214125144.jpg" width="111"/>
             </a>
 
           <h4 class="headline  no-key truncate-head">
-            <a href="http://www.wsj.com/articles/poll-donald-trump-widens-his-lead-in-republican-presidential-race-1452808842?mod=trending_now_2">Poll: Trump Widens His Lead in GOP Race</a>
-          </h4>
-        </li>
-        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
-            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MC826_SWISSF_C_20160114181512.jpg" />
-            <a href="http://www.wsj.com/articles/switzerland-a-test-case-for-currency-shock-1452834001?mod=trending_now_3" class="image">
-              <img alt="Switzerland: A Test Case for Currency Shock" src="http://s.wsj.net/public/resources/images/BN-MC826_SWISSF_C_20160114181512.jpg" width="111"/>
-            </a>
-
-          <h4 class="headline  no-key truncate-head">
-            <a href="http://www.wsj.com/articles/switzerland-a-test-case-for-currency-shock-1452834001?mod=trending_now_3">Switzerland: A Test Case for Currency Shock</a>
+            <a href="http://www.wsj.com/articles/is-bitcoin-breaking-up-1453044493?mod=trending_now_2">Is Bitcoin Breaking Up?</a>
           </h4>
         </li>
         <li class="clear subPrev" itemscope itemtype="http://schema.org/ImageObject">
-            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/MN-AL020_MELDMA_C_20160112162313.jpg" />
-            <a href="http://www.wsj.com/articles/developer-mike-meldman-is-real-estates-party-boy-1452783341?mod=trending_now_4" class="image">
-              <img alt="Meet Real Estate’s Party Boy" src="http://s.wsj.net/public/resources/images/MN-AL020_MELDMA_C_20160112162313.jpg" width="111"/>
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MB920_MINDMA_C_20160113110719.jpg" />
+            <a href="http://www.wsj.com/articles/childrens-lies-are-a-sign-of-cognitive-progress-1452704960?mod=trending_now_3" class="image">
+              <img alt="That Fib Junior Told Is a Sign of Healthy Growth" src="http://s.wsj.net/public/resources/images/BN-MB920_MINDMA_C_20160113110719.jpg" width="111"/>
             </a>
 
           <h4 class="headline  no-key truncate-head">
-            <a href="http://www.wsj.com/articles/developer-mike-meldman-is-real-estates-party-boy-1452783341?mod=trending_now_4">Meet Real Estate’s Party Boy</a>
+            <a href="http://www.wsj.com/articles/childrens-lies-are-a-sign-of-cognitive-progress-1452704960?mod=trending_now_3">That Fib Junior Told Is a Sign of Healthy Growth</a>
           </h4>
         </li>
         <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
-            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MC815_WORSE3_C_20160114175046.jpg" />
-            <a href="http://www.wsj.com/articles/15-oil-its-already-here-in-canada-1452818511?mod=trending_now_5" class="image">
-              <img alt="$15 Oil? It’s Already Here, in Canada" src="http://s.wsj.net/public/resources/images/BN-MC815_WORSE3_C_20160114175046.jpg" width="111"/>
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MD462_0117gu_C_20160117083004.jpg" />
+            <a href="http://www.wsj.com/articles/gulf-stock-markets-tumble-as-iran-deal-takes-effect-1453036757?mod=trending_now_4" class="image">
+              <img alt="Gulf Stock Markets Tumble" src="http://s.wsj.net/public/resources/images/BN-MD462_0117gu_C_20160117083004.jpg" width="111"/>
             </a>
 
           <h4 class="headline  no-key truncate-head">
-            <a href="http://www.wsj.com/articles/15-oil-its-already-here-in-canada-1452818511?mod=trending_now_5">$15 Oil? It’s Already Here, in Canada</a>
+            <a href="http://www.wsj.com/articles/gulf-stock-markets-tumble-as-iran-deal-takes-effect-1453036757?mod=trending_now_4">Gulf Stock Markets Tumble</a>
+          </h4>
+        </li>
+        <li class="clear subPrev" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-MA488_beauty_C_20160108170828.jpg" />
+            <a href="http://www.wsj.com/articles/the-high-price-of-beauty-4-women-reveal-their-annual-costs-1452198160?mod=trending_now_5" class="image">
+              <img alt="The High Price of Beauty: 4 Women’s Annual Budgets" src="http://s.wsj.net/public/resources/images/BN-MA488_beauty_C_20160108170828.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/the-high-price-of-beauty-4-women-reveal-their-annual-costs-1452198160?mod=trending_now_5">The High Price of Beauty: 4 Women’s Annual Budgets</a>
           </h4>
         </li>
     </ul>
@@ -1684,68 +1694,70 @@
 <ul class="top_stories showvideo clear">
 
 
-    <li class="subPrev ">
-      <a href="http://www.wsj.com/articles/next-up-for-greece-how-to-shrink-the-debt-1452797090?mod=WSJ_article_EditorsPicks_0"><img alt="Next Up for Greece: How to Shrink the Debt" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC590_0114BR_E_20160114131842.jpg" src="http://s.wsj.net/public/resources/images/BN-MC590_0114BR_D_20160114131842.jpg"></a>
-      <h4 class="category section-world">Brussels Beat</h4>
-      <h3><a href="http://www.wsj.com/articles/next-up-for-greece-how-to-shrink-the-debt-1452797090?mod=WSJ_article_EditorsPicks_0" class="headline"><p>Next Up for Greece: How to Shrink the Debt</p></a></h3>
+    <li class=" ">
+      <a href="http://www.wsj.com/articles/europes-lower-rated-debt-moves-higher-on-amundis-list-1453026603?mod=WSJ_article_EditorsPicks_0"><img alt="Europe’s Lower-Rated Debt Moves Higher on Amundi’s List" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MD423_0116bo_E_20160116164107.jpg" src="http://s.wsj.net/public/resources/images/BN-MD423_0116bo_D_20160116164107.jpg"></a>
+      <h4 class="category section-markets">Credit Markets</h4>
+      <h3><a href="http://www.wsj.com/articles/europes-lower-rated-debt-moves-higher-on-amundis-list-1453026603?mod=WSJ_article_EditorsPicks_0" class="headline"><p>Europe’s Lower-Rated Debt Moves Higher on Amundi’s List</p></a></h3>
     </li>
 
     <li class=" ">
-      <a href="http://www.wsj.com/articles/switzerland-a-test-case-for-currency-shock-1452834001?mod=WSJ_article_EditorsPicks_1"><img alt="Switzerland: A Test Case for Currency Shock" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC826_SWISSF_E_20160114181512.jpg" src="http://s.wsj.net/public/resources/images/BN-MC826_SWISSF_D_20160114181512.jpg"></a>
-      <h4 class="category section-markets">Foreign Exchange</h4>
-      <h3><a href="http://www.wsj.com/articles/switzerland-a-test-case-for-currency-shock-1452834001?mod=WSJ_article_EditorsPicks_1" class="headline"><p>Switzerland: A Test Case for Currency Shock</p></a></h3>
+      <a href="http://www.wsj.com/articles/jakarta-attack-rapid-response-restricted-death-toll-investigators-say-1453021829?mod=WSJ_article_EditorsPicks_1"><img alt="Jakarta Attack Response Restricted Death Toll, Police Say" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MD452_jakart_E_20160117062337.jpg" src="http://s.wsj.net/public/resources/images/BN-MD452_jakart_D_20160117062337.jpg"></a>
+      <h4 class="category section-world">Asia</h4>
+      <h3><a href="http://www.wsj.com/articles/jakarta-attack-rapid-response-restricted-death-toll-investigators-say-1453021829?mod=WSJ_article_EditorsPicks_1" class="headline"><p>Jakarta Attack Response Restricted Death Toll, Police Say</p></a></h3>
     </li>
 
     <li class=" ">
-      <a href="http://www.wsj.com/articles/15-oil-its-already-here-in-canada-1452818511?mod=WSJ_article_EditorsPicks_2"><img alt="$15 Oil? It’s Already Here, in Canada" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC815_WORSE3_E_20160114175046.jpg" src="http://s.wsj.net/public/resources/images/BN-MC815_WORSE3_D_20160114175046.jpg"></a>
-      <h4 class="category section-markets">Markets</h4>
-      <h3><a href="http://www.wsj.com/articles/15-oil-its-already-here-in-canada-1452818511?mod=WSJ_article_EditorsPicks_2" class="headline"><p>$15 Oil? It’s Already Here, in Canada</p></a></h3>
+      <a href="http://www.wsj.com/articles/european-union-to-scrutinize-usage-of-big-data-by-large-internet-companies-1453036139?mod=WSJ_article_EditorsPicks_2"><img alt="EU to Scrutinize Big Data Usage by Large Internet Firms" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MD455_eudata_E_20160117065721.jpg" src="http://s.wsj.net/public/resources/images/BN-MD455_eudata_D_20160117065721.jpg"></a>
+      <h4 class="category section-business">Business</h4>
+      <h3><a href="http://www.wsj.com/articles/european-union-to-scrutinize-usage-of-big-data-by-large-internet-companies-1453036139?mod=WSJ_article_EditorsPicks_2" class="headline"><p>EU to Scrutinize Big Data Usage by Large Internet Firms</p></a></h3>
     </li>
 
     <li class=" ">
-      <a href="http://www.wsj.com/articles/russian-intervention-emboldens-syrian-kurds-1452773070?mod=WSJ_article_EditorsPicks_3"><img alt="Russian Intervention Emboldens Syrian Kurds" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC330_xroads_E_20160114060307.jpg" src="http://s.wsj.net/public/resources/images/BN-MC330_xroads_D_20160114060307.jpg"></a>
-      <h4 class="category section-world">Middle East Crossroads</h4>
-      <h3><a href="http://www.wsj.com/articles/russian-intervention-emboldens-syrian-kurds-1452773070?mod=WSJ_article_EditorsPicks_3" class="headline"><p>Russian Intervention Emboldens Syrian Kurds</p></a></h3>
+      <a href="http://www.wsj.com/articles/in-far-flung-corners-of-the-world-catalan-secessionists-push-for-support-for-independence-from-spain-1453021029?mod=WSJ_article_EditorsPicks_3"><img alt="Across the World, Catalonia Pushes for Support" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MD451_diploc_E_20160117062239.jpg" src="http://s.wsj.net/public/resources/images/BN-MD451_diploc_D_20160117062239.jpg"></a>
+      <h4 class="category section-world">Europe</h4>
+      <h3><a href="http://www.wsj.com/articles/in-far-flung-corners-of-the-world-catalan-secessionists-push-for-support-for-independence-from-spain-1453021029?mod=WSJ_article_EditorsPicks_3" class="headline"><p>Across the World, Catalonia Pushes for Support</p></a></h3>
     </li>
 
     <li class="subPrev ">
-      <a href="http://www.wsj.com/articles/remembering-alan-rickman-1946-2016-irony-and-self-irony-1452811981?mod=WSJ_article_EditorsPicks_4"><img alt="Remembering Alan Rickman (1946-2016): Irony and Self-Irony" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC549_RICKMA_E_20160114125128.jpg" src="http://s.wsj.net/public/resources/images/BN-MC549_RICKMA_D_20160114125128.jpg"></a>
-      <h4 class="category section-opinion">
-                    Film
-                </h4>
-      <h3><a href="http://www.wsj.com/articles/remembering-alan-rickman-1946-2016-irony-and-self-irony-1452811981?mod=WSJ_article_EditorsPicks_4" class="headline"><p>Remembering Alan Rickman (1946-2016): Irony and Self-Irony</p></a></h3>
-    </li>
-
-    <li class="subPrev ">
-      <a href="http://www.wsj.com/articles/childrens-lies-are-a-sign-of-cognitive-progress-1452704960?mod=WSJ_article_EditorsPicks_5"><img alt="That Fib Junior Told Is a Sign of Healthy Growth" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MB920_MINDMA_E_20160113110719.jpg" src="http://s.wsj.net/public/resources/images/BN-MB920_MINDMA_D_20160113110719.jpg"></a>
+      <a href="http://www.wsj.com/articles/europes-new-medieval-map-1452875514?mod=WSJ_article_EditorsPicks_4"><img alt="Europe’s New Medieval Map" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC769_europe_E_20160114170237.jpg" src="http://s.wsj.net/public/resources/images/BN-MC769_europe_D_20160114170237.jpg"></a>
       <h4 class="category section-life">
-                    Mind and Matter
+                    The Saturday Essay
                 </h4>
-      <h3><a href="http://www.wsj.com/articles/childrens-lies-are-a-sign-of-cognitive-progress-1452704960?mod=WSJ_article_EditorsPicks_5" class="headline"><p>That Fib Junior Told Is a Sign of Healthy Growth</p></a></h3>
+      <h3><a href="http://www.wsj.com/articles/europes-new-medieval-map-1452875514?mod=WSJ_article_EditorsPicks_4" class="headline"><p>Europe’s New Medieval Map</p></a></h3>
     </li>
 
-    <li class="subPrev isBlog">
-      <a href="http://blogs.wsj.com/speakeasy/2016/01/14/5-big-takeaways-from-the-oscar-nominations/?mod=WSJ_article_EditorsPicks_6"><img alt="5 Big Takeaways From the Oscar Nominations" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC412_collag_E_20160114095535.jpg" src="http://s.wsj.net/public/resources/images/BN-MC412_collag_D_20160114095535.jpg"></a>
-      <h4 class="category section-">Speakeasy</h4>
-      <h3><a href="http://blogs.wsj.com/speakeasy/2016/01/14/5-big-takeaways-from-the-oscar-nominations/?mod=WSJ_article_EditorsPicks_6" class="headline"><p>5 Big Takeaways From the Oscar Nominations</p></a></h3>
+    <li class="subPrev ">
+      <a href="http://www.wsj.com/articles/the-languages-of-star-wars-the-force-awakens-1452892741?mod=WSJ_article_EditorsPicks_5"><img alt="The Languages of ‘Star Wars: The Force Awakens’" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC453_zimmer_E_20160114110547.jpg" src="http://s.wsj.net/public/resources/images/BN-MC453_zimmer_D_20160114110547.jpg"></a>
+      <h4 class="category section-life">
+                    Word on the Street
+                </h4>
+      <h3><a href="http://www.wsj.com/articles/the-languages-of-star-wars-the-force-awakens-1452892741?mod=WSJ_article_EditorsPicks_5" class="headline"><p>The Languages of ‘Star Wars: The Force Awakens’</p></a></h3>
+    </li>
+
+    <li class="subPrev ">
+      <a href="http://www.wsj.com/articles/a-visit-to-the-kitchen-of-herb-expert-evangelia-koutsovoulou-1452789871?mod=WSJ_article_EditorsPicks_6"><img alt="In the Kitchen With Herb Expert Evangelia Koutsovoulou" intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-MC461_IMK_E_20160114111748.jpg" src="http://s.wsj.net/public/resources/images/BN-MC461_IMK_D_20160114111748.jpg"></a>
+      <h4 class="category section-life">
+                    In My Kitchen
+                </h4>
+      <h3><a href="http://www.wsj.com/articles/a-visit-to-the-kitchen-of-herb-expert-evangelia-koutsovoulou-1452789871?mod=WSJ_article_EditorsPicks_6" class="headline"><p>In the Kitchen With Herb Expert Evangelia Koutsovoulou</p></a></h3>
     </li>
 
   <li class="video subPrev">
-    <a class="image" href="http://www.wsj.com/video/republican-debate-in-two-minutes/5805872C-21F2-4EE7-910E-0C41527CB4B5.html"
+    <a class="image" href="http://www.wsj.com/video/clinton-steps-up-sanders-criticism-as-race-tightens/50298137-F303-47B6-A67D-81D9ED3F451E.html"
         intent
-        in-touch-href="http://m.wsj.net/video/20160115/011416debatehighlightfix/011416debatehighlightfix_v2_ec464k.mp4"
-        in-mouse-href="http://www.wsj.com/video/republican-debate-in-two-minutes/5805872C-21F2-4EE7-910E-0C41527CB4B5.html">
+        in-touch-href="http://m.wsj.net/video/20160112/011216clinton/011216clinton_v2_ec464k.mp4"
+        in-mouse-href="http://www.wsj.com/video/clinton-steps-up-sanders-criticism-as-race-tightens/50298137-F303-47B6-A67D-81D9ED3F451E.html">
       <div class="center-image">
-       <img alt="Republican Debate in Two Minutes" src="http://m.wsj.net/video/20160115/011416debatehighlightfix/011416debatehighlightfix_512x288.jpg">
+       <img alt="Clinton Steps Up Sanders Criticism as Race Tightens" src="http://m.wsj.net/video/20160112/011216clinton/011216clinton_512x288.jpg">
       </div>
       <span class="video-play">PLAY</span>
     </a>
   <h4 class="category">Politics </h4>
-    <h3><a href="http://www.wsj.com/video/republican-debate-in-two-minutes/5805872C-21F2-4EE7-910E-0C41527CB4B5.html" class="headline"
+    <h3><a href="http://www.wsj.com/video/clinton-steps-up-sanders-criticism-as-race-tightens/50298137-F303-47B6-A67D-81D9ED3F451E.html" class="headline"
         intent
-        in-touch-href="http://m.wsj.net/video/20160115/011416debatehighlightfix/011416debatehighlightfix_v2_ec464k.mp4"
-        in-mouse-href="http://www.wsj.com/video/republican-debate-in-two-minutes/5805872C-21F2-4EE7-910E-0C41527CB4B5.html">
-        <p>Republican Debate in Two Minutes</p>
+        in-touch-href="http://m.wsj.net/video/20160112/011216clinton/011216clinton_v2_ec464k.mp4"
+        in-mouse-href="http://www.wsj.com/video/clinton-steps-up-sanders-criticism-as-race-tightens/50298137-F303-47B6-A67D-81D9ED3F451E.html">
+        <p>Clinton Steps Up Sanders Criticism as Race Tightens</p>
     </a></h3>
   </li>
 
@@ -1991,11 +2003,11 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js " type="text/javascript"></script>
 
     <!-- Scripts -->
-    <script type="text/javascript" src="http://ore.wsj.net/wsjart/dpm/scripts?key=0ef77a9996da80099791119b85ee73f40dae5f83"></script>
-    <script type="text/javascript" src="http://ore.wsj.net/wsjart/dpm/scripts?key=162e61e287cb694e107253e52da467dda57d7dfe"></script>
+    <script type="text/javascript" src="http://vir.wsj.net/wsjart/dpm/scripts?key=25c0405baacfef2ad68492b7cde8355c02c4342e"></script>
+    <script type="text/javascript" src="http://vir.wsj.net/wsjart/dpm/scripts?key=5dcbb23cae926df6a49943ebe40fa5b1da79362a"></script>
 
     <!-- Module to initialize all require modules -->
-    <script type="text/javascript" src="http://ore.wsj.net/wsjart/dpm/scripts?key=cd56c804b8ed2d1b4a40cae5b7e3d1523bd8c6c1"></script>
+    <script type="text/javascript" src="http://vir.wsj.net/wsjart/dpm/scripts?key=33a44672c7e695bc4761c1669c582666183f67fc"></script>
 
   </body>
 </html>

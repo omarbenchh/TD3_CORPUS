@@ -193,7 +193,7 @@
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="top" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -207,7 +207,7 @@
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="oop" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -895,7 +895,7 @@
 					
 				
 																<ul class="info cld flt-l fnt-13" aria-label="social links and weather">
-					<li class="flt-l first" title="Today's date" aria-haspopup="true">15/01/16</li>
+					<li class="flt-l first" title="Today's date" aria-haspopup="true">17/01/16</li>
 					
                   
     
@@ -905,8 +905,8 @@
 		    				
 
 <li class="flt-l">	
-	<span class='ico-weather ico-sunny_spells'><a  class="show-weather-popup" href="#" title="5 day forecast">
-		-2&deg;C to 4&deg;C Sunny spells
+	<span class='ico-weather ico-heavy_snow'><a  class="show-weather-popup" href="#" title="5 day forecast">
+		1&deg;C to 2&deg;C Heavy snow
 	</a></span>
 </li>  
 <div id="weather-lightbox" class="whyregister-lightbox dis-n">
@@ -915,74 +915,26 @@
 			<a href="" class="close" title="close">Close<b>X</b></a>
 		</div>
 					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Friday
-					<span class="day-month">15 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">4&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-2&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North west</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">16 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Saturday
-					<span class="day-month">16 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-3&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North west</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">12 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
 				<p class="weekday weekDay flt-l">Sunday
 					<span class="day-month">17 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
+				  <p class="weatherOutlookHeading">Heavy snow</p>
+  <div class='wico-weather wico-heavy_snow'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
     <span class="day-month">2&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">1&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">5 mph</span>
+    <span class="day-month">3 mph</span>
   </p>
 
 			</div>
@@ -990,23 +942,23 @@
 				<p class="weekday weekDay flt-l">Monday
 					<span class="day-month">18 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Cloudy</p>
-  <div class='wico-weather wico-cloudy'>
+				  <p class="weatherOutlookHeading">Light sleet showers</p>
+  <div class='wico-weather wico-lightsleet_showers'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
+    <span class="day-month">3&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">0&deg;c</span>
+    <span class="day-month">-3&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">11 mph</span>
+    <span class="day-month">10 mph</span>
   </p>
 
 			</div>
@@ -1014,8 +966,32 @@
 				<p class="weekday weekDay flt-l">Tuesday
 					<span class="day-month">19 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Cloudy</p>
-  <div class='wico-weather wico-cloudy'>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">2&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">-2&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">North</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">4 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Wednesday
+					<span class="day-month">20 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
@@ -1027,10 +1003,34 @@
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
     <span class="day-month">6 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Thursday
+					<span class="day-month">21 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">4&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">2&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South east</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">10 mph</span>
   </p>
 
 			</div>
@@ -1385,7 +1385,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="mpu1,artmpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1397,7 +1397,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="2x1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1438,7 +1438,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1450,7 +1450,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="mpu2,artmpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1462,7 +1462,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1600,7 +1600,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="mpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1669,8 +1669,8 @@ if(typeof(OX) !== "undefined"){
 		<article class="news-card trending-stories__card">
 									<header class="news-card__header">
 				<h3 class="news-card__title js-ellipsize" role="heading">
-					<a href="http://www.dunstabletoday.co.uk/news/local-news/man-left-with-serious-facial-injuries-after-car-park-attack-1-7160627" class="news-card__title-link" title="Man left with serious facial injuries after car park attack">
-						Man left with serious facial injuries after car park attack
+					<a href="http://www.dunstabletoday.co.uk/news/local-news/woman-in-houghton-regis-comes-home-to-find-strange-men-in-house-1-7163613" class="news-card__title-link" title="Woman in Houghton Regis comes home to find strange men in house">
+						Woman in Houghton Regis comes home to find strange men in house
 					</a>
 				</h3>
 			</header>
@@ -1680,8 +1680,8 @@ if(typeof(OX) !== "undefined"){
 		<article class="news-card trending-stories__card">
 									<header class="news-card__header">
 				<h3 class="news-card__title js-ellipsize" role="heading">
-					<a href="http://www.dunstabletoday.co.uk/news/local-news/appeal-after-indecent-exposure-1-7159102" class="news-card__title-link" title="Appeal after indecent exposure">
-						Appeal after indecent exposure
+					<a href="http://www.dunstabletoday.co.uk/news/local-news/thieves-steal-250k-stock-in-major-heist-at-dunstable-depot-1-7163271" class="news-card__title-link" title="Thieves steal &pound;250k stock in major heist at Dunstable depot">
+						Thieves steal &pound;250k stock in major heist at Dunstable depot
 					</a>
 				</h3>
 			</header>
@@ -1691,8 +1691,8 @@ if(typeof(OX) !== "undefined"){
 		<article class="news-card trending-stories__card">
 									<header class="news-card__header">
 				<h3 class="news-card__title js-ellipsize" role="heading">
-					<a href="http://www.dunstabletoday.co.uk/sport/football/luton-town/jones-not-ruling-out-additions-after-evaluating-hatters-squad-1-7152165" class="news-card__title-link" title="Jones not ruling out additions after evaluating Hatters squad">
-						Jones not ruling out additions after evaluating Hatters squad
+					<a href="http://www.dunstabletoday.co.uk/news/local-news/manshead-in-special-measures-after-being-hit-with-inadequate-ofsted-rating-1-7163247" class="news-card__title-link" title="Manshead in special measures after being hit with &lsquo;inadequate&rsquo; Ofsted rating">
+						Manshead in special measures after being hit with &lsquo;inadequate&rsquo; Ofsted rating
 					</a>
 				</h3>
 			</header>
@@ -1711,7 +1711,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="mpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1728,12 +1728,26 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.dunstabletoday.co.uk/news/local-news/manshead-in-special-measures-after-being-hit-with-inadequate-ofsted-rating-1-7163247 title="Ofsted" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7129735!/image/2786821402.jpg_gen/derivatives/articleWidgetDeriv_140px/2786821402.jpg" alt="Ofsted"></a>
+				<a href=http://www.dunstabletoday.co.uk/news/local-news/free-help-from-garden-aiders-1-7154201 title="A Green Aid volunteer steps back to admire her work" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7154200!/image/4002093780.jpg_gen/derivatives/articleWidgetDeriv_140px/4002093780.jpg" alt="A Green Aid volunteer steps back to admire her work"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.dunstabletoday.co.uk/news/local-news/manshead-in-special-measures-after-being-hit-with-inadequate-ofsted-rating-1-7163247 title="Manshead in special measures after being hit with ‘inadequate’ Ofsted rating">Manshead in special measures after being hit with ‘inadequate’ Ofsted rating</a>
+					<a href=http://www.dunstabletoday.co.uk/news/local-news/free-help-from-garden-aiders-1-7154201 title="Free help from Garden Aiders">Free help from Garden Aiders</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.dunstabletoday.co.uk/news/local-news" title="Local News">Local News</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--no-image">
+				<a href=http://www.dunstabletoday.co.uk/news/local-news/gadget-to-take-the-poo-out-of-walkies-1-7156310 title="Gadget to take the ‘poo’ out of walkies" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="" alt="Gadget to take the ‘poo’ out of walkies"></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--no-image">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.dunstabletoday.co.uk/news/local-news/gadget-to-take-the-poo-out-of-walkies-1-7156310 title="Gadget to take the ‘poo’ out of walkies">Gadget to take the ‘poo’ out of walkies</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.dunstabletoday.co.uk/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -1742,12 +1756,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.dunstabletoday.co.uk/news/local-news/no-referendum-this-time-as-pcc-seeks-a-1-99-tax-rise-1-7163217 title="PCC Olly Martins" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7163216!/image/3190650891.jpg_gen/derivatives/articleWidgetDeriv_140px/3190650891.jpg" alt="PCC Olly Martins"></a>
+				<a href=http://www.dunstabletoday.co.uk/news/local-news/dogs-and-cats-can-get-ill-too-vets-warning-over-winter-hazards-for-pets-1-7163029 title="Pet owners urged to consider the health of their dogs and cats this winter" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7163028!/image/4245744269.jpg_gen/derivatives/articleWidgetDeriv_140px/4245744269.jpg" alt="Pet owners urged to consider the health of their dogs and cats this winter"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.dunstabletoday.co.uk/news/local-news/no-referendum-this-time-as-pcc-seeks-a-1-99-tax-rise-1-7163217 title="No referendum this time as PCC seeks a 1.99% tax rise">No referendum this time as PCC seeks a 1.99% tax rise</a>
+					<a href=http://www.dunstabletoday.co.uk/news/local-news/dogs-and-cats-can-get-ill-too-vets-warning-over-winter-hazards-for-pets-1-7163029 title="‘Dogs and cats can get ill too’ - Vets warning over winter hazards for pets">‘Dogs and cats can get ill too’ - Vets warning over winter hazards for pets</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.dunstabletoday.co.uk/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -1756,12 +1770,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.dunstabletoday.co.uk/news/local-news/police-officers-bid-a-fond-farewell-to-a-faithful-companion-1-7162899 title="Police dogs Honey, Vinney Kane who is retiring on Monday" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7162898!/image/729035057.jpg_gen/derivatives/articleWidgetDeriv_140px/729035057.jpg" alt="Police dogs Honey, Vinney Kane who is retiring on Monday"></a>
+				<a href=http://www.dunstabletoday.co.uk/news/local-news/could-dry-january-do-more-harm-than-good-1-7162971 title="Could Dry January actualy be worse for you?" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7162969!/image/3959317948.jpg_gen/derivatives/articleWidgetDeriv_140px/3959317948.jpg" alt="Could Dry January actualy be worse for you?"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.dunstabletoday.co.uk/news/local-news/police-officers-bid-a-fond-farewell-to-a-faithful-companion-1-7162899 title="Police officers bid a fond farewell to a faithful companion">Police officers bid a fond farewell to a faithful companion</a>
+					<a href=http://www.dunstabletoday.co.uk/news/local-news/could-dry-january-do-more-harm-than-good-1-7162971 title="Could dry January do more harm than good?">Could dry January do more harm than good?</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.dunstabletoday.co.uk/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -1770,26 +1784,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.dunstabletoday.co.uk/what-s-on/music/music-supremo-calls-for-worldwide-simultaneous-starman-tribute-to-david-bowie-1-7162754 title="Music supremo calls for worldwide simultaneous Starman tribute to David Bowie" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7162738!/image/1194044470.jpg_gen/derivatives/articleWidgetDeriv_140px/1194044470.jpg" alt="Music supremo calls for worldwide simultaneous Starman tribute to David Bowie"></a>
+				<a href=http://www.dunstabletoday.co.uk/news/local-news/all-saints-academy-is-on-the-path-to-success-with-new-leadership-1-7164339 title="All Saints Academy principal Liz Furber with pupils" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7164338!/image/3487636287.jpg_gen/derivatives/articleWidgetDeriv_140px/3487636287.jpg" alt="All Saints Academy principal Liz Furber with pupils"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.dunstabletoday.co.uk/what-s-on/music/music-supremo-calls-for-worldwide-simultaneous-starman-tribute-to-david-bowie-1-7162754 title="Music supremo calls for worldwide simultaneous Starman tribute to David Bowie">Music supremo calls for worldwide simultaneous Starman tribute to David Bowie</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.dunstabletoday.co.uk/what-s-on/music" title="Music">Music</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.dunstabletoday.co.uk/news/local-news/edl-founder-tommy-robinson-to-be-charged-over-alleged-fight-in-prison-1-7162623 title="Tommy Robinson left the EDL in October 2013" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7162621!/image/3636215909.jpg_gen/derivatives/articleWidgetDeriv_140px/3636215909.jpg" alt="Tommy Robinson left the EDL in October 2013"></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.dunstabletoday.co.uk/news/local-news/edl-founder-tommy-robinson-to-be-charged-over-alleged-fight-in-prison-1-7162623 title="EDL founder Tommy Robinson to be charged over alleged fight in prison">EDL founder Tommy Robinson to be charged over alleged fight in prison</a>
+					<a href=http://www.dunstabletoday.co.uk/news/local-news/all-saints-academy-is-on-the-path-to-success-with-new-leadership-1-7164339 title="All Saints Academy is on the path to success with new leadership">All Saints Academy is on the path to success with new leadership</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.dunstabletoday.co.uk/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -1798,12 +1798,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.dunstabletoday.co.uk/news/local-news/deadline-day-for-parents-to-apply-for-primary-school-places-1-7162395 title="Today is the deadline for primary school applications" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7162394!/image/855081700.jpg_gen/derivatives/articleWidgetDeriv_140px/855081700.jpg" alt="Today is the deadline for primary school applications"></a>
+				<a href=http://www.dunstabletoday.co.uk/news/local-news/it-s-dunstable-downs-for-rfl-1-7154112 title="Molly's Minxes at a previous Race For Life" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7154111!/image/3063044248.jpg_gen/derivatives/articleWidgetDeriv_140px/3063044248.jpg" alt="Molly's Minxes at a previous Race For Life"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.dunstabletoday.co.uk/news/local-news/deadline-day-for-parents-to-apply-for-primary-school-places-1-7162395 title="Deadline day for parents to apply for primary school places">Deadline day for parents to apply for primary school places</a>
+					<a href=http://www.dunstabletoday.co.uk/news/local-news/it-s-dunstable-downs-for-rfl-1-7154112 title="It’s Dunstable Downs for RFL">It’s Dunstable Downs for RFL</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.dunstabletoday.co.uk/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -1889,7 +1889,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/dunstable.jp/health-news" 
 			data-adtag-pos="mpu5" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunnyspells;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=heavysnow;weathertomorrow=lightsleetshowers" 
 			data-nav="news,health,health-news"
 			data-pgid="13426169" 
 			data-trigger-once="gpt:ready"></div>					

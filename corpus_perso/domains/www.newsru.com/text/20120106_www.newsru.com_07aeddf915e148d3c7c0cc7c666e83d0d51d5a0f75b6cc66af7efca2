@@ -732,36 +732,7 @@ if (navigator.appName != 'Microsoft Internet Explorer') {
 
 
 <div style="padding: 10px 0; clear: both;">
-<!--AdFox START-->
-<!--newsrucom-->
-<!--оКНЫЮДЙЮ: Newsru.com / НАЗЕЙРМЮЪ ПЕЙКЮЛЮ / хМТНПЛЕП Б лХПЕ, щЙНМНЛХЙЮ ОНД ЯРЮРЭЪЛХ-->
-<!--йЮРЕЦНПХЪ: <МЕ ГЮДЮМЮ>-->
-<!--рХО АЮММЕПЮ: оЕПЕРЪФЙЮ 100%-->
-<script type="text/javascript">
-<!--
-if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
-if (typeof(document.referrer) != 'undefined') {
-  if (typeof(afReferrer) == 'undefined') {
-    afReferrer = escape(document.referrer);
-  }
-} else {
-  afReferrer = '';
-}
-var addate = new Date(); 
-var scrheight = '', scrwidth = '';
-if (self.screen) {
-scrwidth = screen.width;
-scrheight = screen.height;
-} else if (self.java) {
-var jkit = java.awt.Toolkit.getDefaultToolkit();
-var scrsize = jkit.getScreenSize();
-scrwidth = scrsize.width;
-scrheight = scrsize.height;
-}
-document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/715/prepareCode?p1=bsiag&amp;p2=y&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '"><\/scr' + 'ipt>');
-// -->
-</script>
-<!--AdFox END-->
+
 </div>
 
 
@@ -926,12 +897,12 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/syste
 </noindex>
 <img src="http://static.newsru.com/img/b.gif" width="1" height="5" alt=""><br><table width="100%" cellspacing="0" cellpadding="5">
 <tr>
-<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 18:28</b><br></span>
-<span class="copy"><font color="#ffffff"><b><a href="/finance/15jan2016/pegasus.html"><font color="#ffffff">Турецкая авиакомпания  Pegasus Airlines возобновила полеты в Россию</font></a> // <a href=/finance/index.html><font color="#ffffff">Экономика</font></a></b><br>
+<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 00:57</b><br></span>
+<span class="copy"><font color="#ffffff"><b><a href="/russia/18jan2016/delegate.html"><font color="#ffffff">Российская делегация отказалась от поездки на зимнюю сессию ПАСЕ</font></a> // <a href=/russia/index.html><font color="#ffffff">В России</font></a></b><br>
 Досье NEWSru.com:<br><b>
-<a href="/dossier/233.html"><font color="#ffffff">Экономика</font></a> /
-<a href="/dossier/7889.html"><font color="#ffffff">Гражданская авиация</font></a> /
-<a href="/dossier/27092.html"><font color="#ffffff">Авиакомпании</font></a>
+<a href="/dossier/50.html"><font color="#ffffff">Европа</font></a> /
+<a href="/dossier/2561.html"><font color="#ffffff">Совет Европы</font></a> /
+<a href="/dossier/2562.html"><font color="#ffffff">ПАСЕ</font></a>
 </b>
 </font></span></td>
 </tr>
@@ -1050,7 +1021,7 @@ width=88 height=31>
 
 
 <div style="margin-bottom:5px">
-<b>Пятница, 15 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/finance/15jan2016/pegasus.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 18:28</a></h1></b><br>
+<b>Понедельник, 18 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/russia/18jan2016/delegate.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 00:57</a></h1></b><br>
 Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ.
 <noindex>
 Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован.
@@ -1133,7 +1104,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715
 &copy;&nbsp;<a href="http://www.newsru.com" class="down" style="text-decoration:none">NEWSru.com &ndash; самые быстрые новости</a> 2000-2016
 </div>
 
-<!--  tdt Fri Jan 15 18:30:42 2016 /world/05jan2012/appledoll.html 80  -->
+<!--  tdt Mon Jan 18 01:16:57 2016 /world/05jan2012/appledoll.html 80  -->
 
 
 </div>

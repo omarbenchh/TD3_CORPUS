@@ -390,7 +390,7 @@ utag_data = {
 <header class="clearfix">    <h2>
         <a id="expressLogo" href="/" class="hoverException">
             <span>Express. Home of the Daily and Sunday Express.</span>
-                            <img class="lazy-swap swap" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-imgcount="2" data-src1="http://cdn.images.express.co.uk/img/page/express_logo.png" data-media1="screen and (min-width: 980px)" data-src2="http://cdn.images.express.co.uk/img/page/express_logo_tablet.png" data-media2="screen and (max-width: 979px)" alt="express_logo" title="Express. Home of the Daily and Sunday Express." />
+                            <img class="lazy-swap swap" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-imgcount="2" data-src1="http://cdn.images.express.co.uk/img/page/sunday_express_logo.png" data-media1="screen and (min-width: 980px)" data-src2="http://cdn.images.express.co.uk/img/page/sunday_express_logo_tablet.png" data-media2="screen and (max-width: 979px)" alt="sunday_express_logo" title="Express. Home of the Daily and Sunday Express." />
                     </a>
     </h2>
     <div id="header_addons">
@@ -406,7 +406,7 @@ utag_data = {
                     <a href="http://www.facebook.com/DailyExpress" rel="external" class="social-icons facebook">Find us on Facebook</a>
                 </li>
                 <li>
-                    <a href="https://twitter.com/daily_express" rel="external" class="social-icons twitter">Follow us on Twitter</a>
+                    <a href="https://twitter.com/sundayexpress1" rel="external" class="social-icons twitter">Follow us on Twitter</a>
                 </li>
                 <li>
                     <a href="https://plus.google.com/+DailyExpress" rel="external" class="social-icons gplus">Check us on Google+</a>
@@ -438,9 +438,9 @@ utag_data = {
 #weatherArea {float: right;margin-right: 15px;text-align: right;position: relative;overflow: hidden;display: block; padding:0;}
 </style>
 <div id="weatherArea">
-        <a href="/weather/forecast/location/352409/London" class="weather-info fadein" style="background-size: contain; background-image:url('http://cdn.images.express.co.uk/img/weather/png/52x52/head2_icon_01.png')"; >
+        <a href="/weather/forecast/location/352409/London" class="weather-info fadein" style="background-size: contain; background-image:url('http://cdn.images.express.co.uk/img/weather/png/52x52/head2_icon_08.png')"; >
                     <span class="title">Weather</span>
-                <span class="temperature"><span class="jq-centigrade">5</span>&deg;</span>
+                <span class="temperature"><span class="jq-centigrade">4</span>&deg;</span>
         <p class="place"><span class="jq-town">London</span></p>
     </a>
 </div>
@@ -722,82 +722,82 @@ utag_data = {
         
     <ul>
             <li class="item">
-            <a href="http://www.express.co.uk/news/uk/634962/VIDEO-Woman-headscarf-police-knife-attack-bus" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'Horrifying CCTV shows moment woman in a headscarf tries to stab teen, 15, on London bus')">
+            <a href="http://www.express.co.uk/news/uk/635009/Mystery-of-BIONIC-GIRL-who-doesn-t-eat-sleep-or-feel-pain-even-when-hit-by-a-CAR" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'Mystery of BIONIC GIRL who doesn\'t eat, sleep or feel pain - even when hit by a CAR')">
                 <span><u>1</u></span>
                 <div class="story">
-                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/634962_1.jpg" alt="Horrifying CCTV shows moment woman in a headscarf tries to stab teen, 15, on London bus" title="Horrifying CCTV shows moment woman in a headscarf tries to stab teen, 15, on London bus">
-                                        <h4>Horrifying CCTV shows moment woman in a headscarf tries to stab teen, 15, on London bus</h4>
+                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/635009_1.jpg" alt="Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR" title="Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR">
+                                        <h4>Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR</h4>
                 </div>
             </a>
         </li>
             <li class="item">
-            <a href="http://www.express.co.uk/news/uk/634451/Britain-full-Noel-Edmonds-tweet" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'TV star Noel Edmonds sparks migration row: Am I alone in feeling Britain is FULL, he asks')">
+            <a href="http://www.express.co.uk/news/uk/635306/obesity-children-weight-loss-surgery-epidemic-Boris-Johnson-Sadiq-Khan-sugar-tax" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'Outrage at numbers of obese CHILDREN needing weight loss surgery')">
                 <span><u>2</u></span>
                 <div class="story">
-                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/634451_1.jpg" alt="TV star Noel Edmonds sparks migration row: Am I alone in feeling Britain is FULL, he asks" title="TV star Noel Edmonds sparks migration row: Am I alone in feeling Britain is FULL, he asks">
-                                        <h4>TV star Noel Edmonds sparks migration row: Am I alone in feeling Britain is FULL, he asks</h4>
+                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/635306_1.jpg" alt="Outrage at numbers of obese CHILDREN needing weight loss surgery" title="Outrage at numbers of obese CHILDREN needing weight loss surgery">
+                                        <h4>Outrage at numbers of obese CHILDREN needing weight loss surgery</h4>
                 </div>
             </a>
         </li>
             <li class="item">
-            <a href="http://www.express.co.uk/news/uk/634919/Millions-pension-boost-government-plans" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'Millions get pension boost with new government plans')">
+            <a href="http://www.express.co.uk/news/uk/635433/Man-dubbed-Lotto-Lout-warns-33M-lottery-winners" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', '‘Leave Britain or face death threats’ Man dubbed ‘Lotto Lout’ warns £33M lottery winners')">
                 <span><u>3</u></span>
                 <div class="story">
-                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/634919_1.jpg" alt="Millions get pension boost with new government plans" title="Millions get pension boost with new government plans">
-                                        <h4>Millions get pension boost with new government plans</h4>
+                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/635433_1.jpg" alt="‘Leave Britain or face death threats’ Man dubbed ‘Lotto Lout’ warns £33M lottery winners" title="‘Leave Britain or face death threats’ Man dubbed ‘Lotto Lout’ warns £33M lottery winners">
+                                        <h4>‘Leave Britain or face death threats’ Man dubbed ‘Lotto Lout’ warns £33M lottery winners</h4>
                 </div>
             </a>
         </li>
             <li class="item">
-            <a href="http://www.express.co.uk/news/uk/634904/eu-european-union-david-cameron-migrants-brexit-germany-angela-merkel-out-campaign" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'EU offers to AXE migrant benefits to stop Brexit - but only if handouts cut for BRITS too')">
+            <a href="http://www.express.co.uk/news/uk/635406/WATCH-The-plane-that-can-eject-the-entire-cabin-to-save-lives-in-emergency" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'WATCH: The plane that can eject the entire cabin to save lives in emergency')">
                 <span><u>4</u></span>
                 <div class="story">
-                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/634904_1.jpg" alt="EU offers to AXE migrant benefits to stop Brexit - but only if handouts cut for BRITS too" title="EU offers to AXE migrant benefits to stop Brexit - but only if handouts cut for BRITS too">
-                                        <h4>EU offers to AXE migrant benefits to stop Brexit - but only if handouts cut for BRITS too</h4>
+                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/635406_1.jpg" alt="WATCH: The plane that can eject the entire cabin to save lives in emergency" title="WATCH: The plane that can eject the entire cabin to save lives in emergency">
+                                        <h4>WATCH: The plane that can eject the entire cabin to save lives in emergency</h4>
                 </div>
             </a>
         </li>
             <li class="item">
-            <a href="http://www.express.co.uk/news/uk/634802/New-law-Muslims-Sharia-prosection" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'Islamic extremists who demand Sharia law for Britain face criminal charges')">
+            <a href="http://www.express.co.uk/news/uk/535241/Alex-Higgins-son-blames-wild-dad-life-crime" onclick="ExpressApp.GoogleAnalytics.TrackEvent('Most Read Stories', 'Alex Higgins’ son Jordan blames wild dad for life of crime')">
                 <span><u>5</u></span>
                 <div class="story">
-                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/634802_1.jpg" alt="Islamic extremists who demand Sharia law for Britain face criminal charges" title="Islamic extremists who demand Sharia law for Britain face criminal charges">
-                                        <h4>Islamic extremists who demand Sharia law for Britain face criminal charges</h4>
+                                                            <img src="http://cdn.images.express.co.uk/img/dynamic/1/285x190/535241_1.jpg" alt="Alex Higgins’ son Jordan blames wild dad for life of crime" title="Alex Higgins’ son Jordan blames wild dad for life of crime">
+                                        <h4>Alex Higgins’ son Jordan blames wild dad for life of crime</h4>
                 </div>
             </a>
         </li>
         </ul>
 </section>                <section class="new box news" data-vr-zone="R/H Side More From This Section (UK)">
-            <div data-post-id="634962" class="Story big" data-short-story="634962" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634962/VIDEO-Woman-headscarf-police-knife-attack-bus" title="Horrifying CCTV shows moment woman in a headscarf tries to stab teen, 15, on London bus" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'VIDEO Woman headscarf police knife attack bus')">
+            <div data-post-id="635538" class="Story big" data-short-story="635538" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635538/British-explorer-800-miles-across-Saudi-desert" title="Challenge of a lifetime: British explorer’s 800 miles across Saudi desert" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'British explorer 800 miles across Saudi desert')">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/634962_1.jpg" alt="VIDEO Woman headscarf police knife attack bus" title="VIDEO Woman headscarf police knife attack bus">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/634962_1.jpg" alt="VIDEO Woman headscarf police knife attack bus" title="VIDEO Woman headscarf police knife attack bus"></noscript>                </div>
-                <h4 class="Headline" itemprop="name">Horrifying CCTV shows moment woman in a headscarf tries to stab teen, 15, on London bus</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635538_1.jpg" alt="British explorer 800 miles across Saudi desert" title="British explorer 800 miles across Saudi desert">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635538_1.jpg" alt="British explorer 800 miles across Saudi desert" title="British explorer 800 miles across Saudi desert"></noscript>                </div>
+                <h4 class="Headline" itemprop="name">Challenge of a lifetime: British explorer’s 800 miles across Saudi desert</h4>
             </a>
         </div>
-                    <div data-post-id="634919" class="first new short newmftp" data-short-story="634919" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634919/Millions-pension-boost-government-plans" title="Millions get pension BOOST: State pension revolution will make retirement more comfortable" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Millions pension boost government plans')" class="clearfix">
+                    <div data-post-id="635531" class="first new short newmftp" data-short-story="635531" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635531/Lord-Bramall-sue-Met-child-abuse-probe" title="Lord Bramall could sue the Met over child abuse probe" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Lord Bramall sue Met child abuse probe')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634919_1.jpg" alt="Millions pension boost government plans" title="Millions pension boost government plans">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634919_1.jpg" alt="Millions pension boost government plans" title="Millions pension boost government plans"></noscript>                </div>
-                <h4 itemprop="name">Millions get pension BOOST: State pension revolution will make retirement more comfortable</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635531_1.jpg" alt="Lord Bramall sue Met child abuse probe" title="Lord Bramall sue Met child abuse probe">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635531_1.jpg" alt="Lord Bramall sue Met child abuse probe" title="Lord Bramall sue Met child abuse probe"></noscript>                </div>
+                <h4 itemprop="name">Lord Bramall could sue the Met over child abuse probe</h4>
             </a>
         </div>
-                    <div data-post-id="634904" class="new short newmftp" data-short-story="634904" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634904/eu-european-union-david-cameron-migrants-brexit-germany-angela-merkel-out-campaign" title="EU offers to AXE migrant benefits to stop Brexit - but only if handouts cut for BRITS too" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'eu european union david cameron migrants brexit germany angela merkel out campaign')" class="clearfix">
+                    <div data-post-id="635523" class="new short newmftp" data-short-story="635523" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635523/Woman-held-knife-murder-horror-shocks-moors-village-news-uk" title="Woman held as knife murder horror shocks moors village" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Woman held knife murder horror shocks moors village news uk')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634904_1.jpg" alt="eu european union david cameron migrants brexit germany angela merkel out campaign" title="eu european union david cameron migrants brexit germany angela merkel out campaign">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634904_1.jpg" alt="eu european union david cameron migrants brexit germany angela merkel out campaign" title="eu european union david cameron migrants brexit germany angela merkel out campaign"></noscript>                </div>
-                <h4 itemprop="name">EU offers to AXE migrant benefits to stop Brexit - but only if handouts cut for BRITS too</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635523_1.jpg" alt="Woman held knife murder horror shocks moors village news uk" title="Woman held knife murder horror shocks moors village news uk">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635523_1.jpg" alt="Woman held knife murder horror shocks moors village news uk" title="Woman held knife murder horror shocks moors village news uk"></noscript>                </div>
+                <h4 itemprop="name">Woman held as knife murder horror shocks moors village</h4>
             </a>
         </div>
-                    <div data-post-id="635031" class="last new short newmftp" data-short-story="635031" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/635031/British-mother-flees-to-Syria-with-baby-to-become-jihadi-bride-court-hears" title="British mother flees to Syria with baby to become jihadi bride, court hears" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'British mother flees to Syria with baby to become jihadi bride, court hears')" class="clearfix">
+                    <div data-post-id="635509" class="last new short newmftp" data-short-story="635509" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635509/Killers-rapists-perverts-stay-UK-Human-Rights-Act" title="Killers, rapists and perverts STAY in UK under Human Rights Act " onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Killers rapists perverts stay UK Human Rights Act ')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635031_1.jpg" alt="British mother flees to Syria with baby to become jihadi bride, court hears" title="British mother flees to Syria with baby to become jihadi bride, court hears">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635031_1.jpg" alt="British mother flees to Syria with baby to become jihadi bride, court hears" title="British mother flees to Syria with baby to become jihadi bride, court hears"></noscript>                </div>
-                <h4 itemprop="name">British mother flees to Syria with baby to become jihadi bride, court hears</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635509_1.jpg" alt="Killers rapists perverts stay UK Human Rights Act " title="Killers rapists perverts stay UK Human Rights Act ">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635509_1.jpg" alt="Killers rapists perverts stay UK Human Rights Act " title="Killers rapists perverts stay UK Human Rights Act "></noscript>                </div>
+                <h4 itemprop="name">Killers, rapists and perverts STAY in UK under Human Rights Act </h4>
             </a>
         </div>
             </section>
@@ -806,116 +806,116 @@ utag_data = {
                     <img src="http://cdn.images.express.co.uk/img/dynamic/1/rh_box/1187_boxnew.jpg"  alt="http://games.express.co.uk/quizzes-games?game=arkadiuminc13/can-you-guess-these-18-logos"> 
             </a>
 </div>                <section class="new box news" data-vr-zone="R/H Side More From This Section (UK)">
-            <div data-post-id="635017" class="Story big" data-short-story="635017" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/635017/parents-answers-baby-dies-hours-going-home-cough-and-cold" title="Grieving parents want answers as baby dies hours after going home with 'cough and cold'" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'parents answers baby dies hours going home cough and cold')">
+            <div data-post-id="635484" class="Story big" data-short-story="635484" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635484/Britain-s-struggling-steel-industry-expected-to-be-hit-by-over-1-000-job-cuts" title="Britain’s struggling steel industry expected to be hit by over 1,000 job cuts" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Britain’s struggling steel industry expected to be hit by over 1,000 job cuts')">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635017_1.jpg" alt="parents answers baby dies hours going home cough and cold" title="parents answers baby dies hours going home cough and cold">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635017_1.jpg" alt="parents answers baby dies hours going home cough and cold" title="parents answers baby dies hours going home cough and cold"></noscript>                </div>
-                <h4 class="Headline" itemprop="name">Grieving parents want answers as baby dies hours after going home with 'cough and cold'</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635484_1.jpg" alt="Britain’s struggling steel industry expected to be hit by over 1,000 job cuts" title="Britain’s struggling steel industry expected to be hit by over 1,000 job cuts">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635484_1.jpg" alt="Britain’s struggling steel industry expected to be hit by over 1,000 job cuts" title="Britain’s struggling steel industry expected to be hit by over 1,000 job cuts"></noscript>                </div>
+                <h4 class="Headline" itemprop="name">Britain’s struggling steel industry expected to be hit by over 1,000 job cuts</h4>
             </a>
         </div>
-                    <div data-post-id="635015" class="first new short newmftp" data-short-story="635015" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/635015/Lyme-disease-model-treatment-NHS-Chantelle-Lewis-model" title="Model suffering with Lyme disease forks out £65k on treatment after NHS refuse to pay " onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Lyme disease model treatment NHS Chantelle Lewis model ')" class="clearfix">
+                    <div data-post-id="635473" class="first new short newmftp" data-short-story="635473" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635473/Benefits-mum-of-twelve-set-for-4k-boob-job-using-taxpayer-cash" title="Benefits mum-of-twelve set for £4k boob job using taxpayer cash" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Benefits mum-of-twelve set for £4k boob job using taxpayer cash')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635015_1.jpg" alt="Lyme disease model treatment NHS Chantelle Lewis model " title="Lyme disease model treatment NHS Chantelle Lewis model ">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635015_1.jpg" alt="Lyme disease model treatment NHS Chantelle Lewis model " title="Lyme disease model treatment NHS Chantelle Lewis model "></noscript>                </div>
-                <h4 itemprop="name">Model suffering with Lyme disease forks out £65k on treatment after NHS refuse to pay </h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635473_1.jpg" alt="Benefits mum-of-twelve set for £4k boob job using taxpayer cash" title="Benefits mum-of-twelve set for £4k boob job using taxpayer cash">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635473_1.jpg" alt="Benefits mum-of-twelve set for £4k boob job using taxpayer cash" title="Benefits mum-of-twelve set for £4k boob job using taxpayer cash"></noscript>                </div>
+                <h4 itemprop="name">Benefits mum-of-twelve set for £4k boob job using taxpayer cash</h4>
             </a>
         </div>
-                    <div data-post-id="635009" class="new short newmftp" data-short-story="635009" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/635009/Mystery-of-BIONIC-GIRL-who-doesn-t-eat-sleep-or-feel-pain-even-when-hit-by-a-CAR" title="Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Mystery of BIONIC GIRL who doesn&#039;t eat, sleep or feel pain - even when hit by a CAR')" class="clearfix">
+                    <div data-post-id="635459" class="new short newmftp" data-short-story="635459" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635459/Labour-leader-MP-Jeremy-Corbyn-says-Britian-should-talk-with-Islamic-State-tyrants" title="Jeremy Corbyn says Britain should TALK with brutal Islamic State tyrants" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Labour leader MP Jeremy Corbyn says Britian should talk with Islamic State tyrants')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635009_1.jpg" alt="Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR" title="Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635009_1.jpg" alt="Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR" title="Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR"></noscript>                </div>
-                <h4 itemprop="name">Mystery of BIONIC GIRL who doesn't eat, sleep or feel pain - even when hit by a CAR</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635459_1.jpg" alt="Labour leader MP Jeremy Corbyn says Britian should talk with Islamic State tyrants" title="Labour leader MP Jeremy Corbyn says Britian should talk with Islamic State tyrants">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635459_1.jpg" alt="Labour leader MP Jeremy Corbyn says Britian should talk with Islamic State tyrants" title="Labour leader MP Jeremy Corbyn says Britian should talk with Islamic State tyrants"></noscript>                </div>
+                <h4 itemprop="name">Jeremy Corbyn says Britain should TALK with brutal Islamic State tyrants</h4>
             </a>
         </div>
-                    <div data-post-id="635005" class="new short newmftp" data-short-story="635005" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/635005/Nicky-Morgans-comments-rules-Downing-Street" title="Nicky Morgan's EU comments within the rules, says Downing Street" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Nicky Morgans comments rules Downing Street')" class="clearfix">
+                    <div data-post-id="635433" class="new short newmftp" data-short-story="635433" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635433/Man-dubbed-Lotto-Lout-warns-33M-lottery-winners" title="‘Leave Britain or face death threats’ Man dubbed ‘Lotto Lout’ warns £33M lottery winners" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Man dubbed ‘Lotto Lout’ warns £33M lottery winners')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635005_1.jpg" alt="Nicky Morgans comments rules Downing Street" title="Nicky Morgans comments rules Downing Street">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635005_1.jpg" alt="Nicky Morgans comments rules Downing Street" title="Nicky Morgans comments rules Downing Street"></noscript>                </div>
-                <h4 itemprop="name">Nicky Morgan's EU comments within the rules, says Downing Street</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635433_1.jpg" alt="Man dubbed ‘Lotto Lout’ warns £33M lottery winners" title="Man dubbed ‘Lotto Lout’ warns £33M lottery winners">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635433_1.jpg" alt="Man dubbed ‘Lotto Lout’ warns £33M lottery winners" title="Man dubbed ‘Lotto Lout’ warns £33M lottery winners"></noscript>                </div>
+                <h4 itemprop="name">‘Leave Britain or face death threats’ Man dubbed ‘Lotto Lout’ warns £33M lottery winners</h4>
             </a>
         </div>
-                    <div data-post-id="634987" class="new short newmftp" data-short-story="634987" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634987/School-bans-birthday-cakes-dangerous-children" title="School bans birthday cakes as they might be 'dangerous' for children" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'School bans birthday cakes dangerous children')" class="clearfix">
+                    <div data-post-id="635413" class="new short newmftp" data-short-story="635413" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635413/Tory-split-widens-as-party-launches-fightback-against-Eurosceptics-ahead-of-EU-vote" title="Tory split widens as party launches fightback against Eurosceptics ahead of EU vote" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Tory split widens as party launches fightback against Eurosceptics ahead of EU vote')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634987_1.jpg" alt="School bans birthday cakes dangerous children" title="School bans birthday cakes dangerous children">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634987_1.jpg" alt="School bans birthday cakes dangerous children" title="School bans birthday cakes dangerous children"></noscript>                </div>
-                <h4 itemprop="name">School bans birthday cakes as they might be 'dangerous' for children</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635413_1.jpg" alt="Tory split widens as party launches fightback against Eurosceptics ahead of EU vote" title="Tory split widens as party launches fightback against Eurosceptics ahead of EU vote">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635413_1.jpg" alt="Tory split widens as party launches fightback against Eurosceptics ahead of EU vote" title="Tory split widens as party launches fightback against Eurosceptics ahead of EU vote"></noscript>                </div>
+                <h4 itemprop="name">Tory split widens as party launches fightback against Eurosceptics ahead of EU vote</h4>
             </a>
         </div>
-                    <div data-post-id="634966" class="new short newmftp" data-short-story="634966" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634966/School-worst-GCSE-results-students-asylum-seekers" title="School's worst ever GCSE results are because more students are asylum seekers, says head" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'School worst GCSE results students asylum seekers ')" class="clearfix">
+                    <div data-post-id="635412" class="new short newmftp" data-short-story="635412" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635412/Anger-as-price-of-a-pint-set-to-rise-AGAIN-after-hike-by-breweries" title="RIP-OFF BRITAIN: Price of a pint of beer to rise AGAIN after hike by breweries" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Anger as price of a pint set to rise AGAIN after hike by breweries')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634966_1.jpg" alt="School worst GCSE results students asylum seekers " title="School worst GCSE results students asylum seekers ">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634966_1.jpg" alt="School worst GCSE results students asylum seekers " title="School worst GCSE results students asylum seekers "></noscript>                </div>
-                <h4 itemprop="name">School's worst ever GCSE results are because more students are asylum seekers, says head</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635412_1.jpg" alt="Anger as price of a pint set to rise AGAIN after hike by breweries" title="Anger as price of a pint set to rise AGAIN after hike by breweries">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635412_1.jpg" alt="Anger as price of a pint set to rise AGAIN after hike by breweries" title="Anger as price of a pint set to rise AGAIN after hike by breweries"></noscript>                </div>
+                <h4 itemprop="name">RIP-OFF BRITAIN: Price of a pint of beer to rise AGAIN after hike by breweries</h4>
             </a>
         </div>
-                    <div data-post-id="634965" class="new short newmftp" data-short-story="634965" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634965/Hatton-Garden-missing-suspect-missing-loot" title="Hatton Garden missing suspect could be abroad with £10million missing loot" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Hatton Garden missing suspect missing loot')" class="clearfix">
+                    <div data-post-id="635406" class="new short newmftp" data-short-story="635406" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635406/WATCH-The-plane-that-can-eject-the-entire-cabin-to-save-lives-in-emergency" title="WATCH: The plane that can eject the entire cabin to save lives in emergency" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'WATCH: The plane that can eject the entire cabin to save lives in emergency')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634965_1.jpg" alt="Hatton Garden missing suspect missing loot" title="Hatton Garden missing suspect missing loot">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634965_1.jpg" alt="Hatton Garden missing suspect missing loot" title="Hatton Garden missing suspect missing loot"></noscript>                </div>
-                <h4 itemprop="name">Hatton Garden missing suspect could be abroad with £10million missing loot</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635406_1.jpg" alt="WATCH: The plane that can eject the entire cabin to save lives in emergency" title="WATCH: The plane that can eject the entire cabin to save lives in emergency">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635406_1.jpg" alt="WATCH: The plane that can eject the entire cabin to save lives in emergency" title="WATCH: The plane that can eject the entire cabin to save lives in emergency"></noscript>                </div>
+                <h4 itemprop="name">WATCH: The plane that can eject the entire cabin to save lives in emergency</h4>
             </a>
         </div>
-                    <div data-post-id="634942" class="new short newmftp" data-short-story="634942" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634942/A-giant-leap-for-Britain-as-astronaut-Tim-Peake-set-for-space-walk" title="A giant leap for Britain as astronaut Tim Peake set for space walk" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'A giant leap for Britain as astronaut Tim Peake set for space walk')" class="clearfix">
+                    <div data-post-id="635405" class="new short newmftp" data-short-story="635405" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635405/Botched-fat-freezing-treatment-at-Luton-salon-left-Marcela-Petrasova-scarred-for-life" title=" Fat freezing treatment costing £250 left woman ‘SCARRED for life’ " onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', ' Botched fat freezing treatment at Luton salon left Marcela Petrasova ‘scarred for life’')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634942_1.jpg" alt="A giant leap for Britain as astronaut Tim Peake set for space walk" title="A giant leap for Britain as astronaut Tim Peake set for space walk">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634942_1.jpg" alt="A giant leap for Britain as astronaut Tim Peake set for space walk" title="A giant leap for Britain as astronaut Tim Peake set for space walk"></noscript>                </div>
-                <h4 itemprop="name">A giant leap for Britain as astronaut Tim Peake set for space walk</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635405_1.jpg" alt=" Botched fat freezing treatment at Luton salon left Marcela Petrasova ‘scarred for life’" title=" Botched fat freezing treatment at Luton salon left Marcela Petrasova ‘scarred for life’">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635405_1.jpg" alt=" Botched fat freezing treatment at Luton salon left Marcela Petrasova ‘scarred for life’" title=" Botched fat freezing treatment at Luton salon left Marcela Petrasova ‘scarred for life’"></noscript>                </div>
+                <h4 itemprop="name"> Fat freezing treatment costing £250 left woman ‘SCARRED for life’ </h4>
             </a>
         </div>
-                    <div data-post-id="634939" class="new short newmftp" data-short-story="634939" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634939/Lord-Janner-child-sex-abuse-case-dropped-death" title="Lord Janner 'abused 12 at children's home' as child sex case is DROPPED" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Lord Janner child sex abuse case dropped death ')" class="clearfix">
+                    <div data-post-id="635384" class="new short newmftp" data-short-story="635384" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635384/Alan-Rickman-fans-share-picture-Snape-lookalike-touching-tribute-beloved-actor" title="Alan Rickman fans share picture of Snape lookalike in touching tribute to beloved actor" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Alan-Rickman-fans-share-picture-Snape-lookalike-touching-tribute-beloved-actor')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634939_1.jpg" alt="Lord Janner child sex abuse case dropped death " title="Lord Janner child sex abuse case dropped death ">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634939_1.jpg" alt="Lord Janner child sex abuse case dropped death " title="Lord Janner child sex abuse case dropped death "></noscript>                </div>
-                <h4 itemprop="name">Lord Janner 'abused 12 at children's home' as child sex case is DROPPED</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635384_1.jpg" alt="Alan-Rickman-fans-share-picture-Snape-lookalike-touching-tribute-beloved-actor" title="Alan-Rickman-fans-share-picture-Snape-lookalike-touching-tribute-beloved-actor">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635384_1.jpg" alt="Alan-Rickman-fans-share-picture-Snape-lookalike-touching-tribute-beloved-actor" title="Alan-Rickman-fans-share-picture-Snape-lookalike-touching-tribute-beloved-actor"></noscript>                </div>
+                <h4 itemprop="name">Alan Rickman fans share picture of Snape lookalike in touching tribute to beloved actor</h4>
             </a>
         </div>
-                    <div data-post-id="634925" class="new short newmftp" data-short-story="634925" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634925/NHS-exodus-by-April-pension-cap-mass-doctor-walkout" title="NHS EXODUS in just THREE MONTHS: NHS pension cap could see mass doctor walkout" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'NHS exodus by April pension cap mass doctor walkout')" class="clearfix">
+                    <div data-post-id="635379" class="new short newmftp" data-short-story="635379" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635379/Conservatives-for-Reform-in-Europe-CRE-when-is-the-EU-referendum-Brexit" title="Pro-EU Tories FIGHT BACK against exit bid as MP warns young will be ‘cut off from world'" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Conservatives for Reform in Europe CRE when is the EU referendum Brexit')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634925_1.jpg" alt="NHS exodus by April pension cap mass doctor walkout" title="NHS exodus by April pension cap mass doctor walkout">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634925_1.jpg" alt="NHS exodus by April pension cap mass doctor walkout" title="NHS exodus by April pension cap mass doctor walkout"></noscript>                </div>
-                <h4 itemprop="name">NHS EXODUS in just THREE MONTHS: NHS pension cap could see mass doctor walkout</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635379_1.jpg" alt="Conservatives for Reform in Europe CRE when is the EU referendum Brexit" title="Conservatives for Reform in Europe CRE when is the EU referendum Brexit">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635379_1.jpg" alt="Conservatives for Reform in Europe CRE when is the EU referendum Brexit" title="Conservatives for Reform in Europe CRE when is the EU referendum Brexit"></noscript>                </div>
+                <h4 itemprop="name">Pro-EU Tories FIGHT BACK against exit bid as MP warns young will be ‘cut off from world'</h4>
             </a>
         </div>
-                    <div data-post-id="634911" class="new short newmftp" data-short-story="634911" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634911/Calls-move-school-exams-ramadan-muslim-rejected-Ofsted-chief-Michael-Wilshow" title="Exams will NOT be moved for Ramadan, says Ofsted chief" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Calls move school exams ramadan muslim rejected Ofsted chief Michael Wilshow')" class="clearfix">
+                    <div data-post-id="635378" class="new short newmftp" data-short-story="635378" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635378/Health-Lottery-results-Saturday-January-16-2016" title="Health Lottery results: Winning numbers for Saturday January 16 2016" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Health Lottery results Saturday January 16 2016')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634911_1.jpg" alt="Calls move school exams ramadan muslim rejected Ofsted chief Michael Wilshow" title="Calls move school exams ramadan muslim rejected Ofsted chief Michael Wilshow">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634911_1.jpg" alt="Calls move school exams ramadan muslim rejected Ofsted chief Michael Wilshow" title="Calls move school exams ramadan muslim rejected Ofsted chief Michael Wilshow"></noscript>                </div>
-                <h4 itemprop="name">Exams will NOT be moved for Ramadan, says Ofsted chief</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635378_1.jpg" alt="Health Lottery results Saturday January 16 2016" title="Health Lottery results Saturday January 16 2016">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635378_1.jpg" alt="Health Lottery results Saturday January 16 2016" title="Health Lottery results Saturday January 16 2016"></noscript>                </div>
+                <h4 itemprop="name">Health Lottery results: Winning numbers for Saturday January 16 2016</h4>
             </a>
         </div>
-                    <div data-post-id="634888" class="new short newmftp" data-short-story="634888" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634888/Refugee-camp-hold-eight-thousand-migrants-four-weeks-Calais-Dunkirk-jungle" title="New refugee camp could hold EIGHT THOUSAND migrants within FOUR WEEKS" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Refugee camp hold eight thousand migrants four weeks Calais Dunkirk jungle')" class="clearfix">
+                    <div data-post-id="635377" class="new short newmftp" data-short-story="635377" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635377/National-Lottery-results-Wednesday-January-16-2015" title="National Lottery results: Winning numbers for Saturday January 16 2016 draw" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'National Lottery results Wednesday January 16 2015')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634888_1.jpg" alt="Refugee camp hold eight thousand migrants four weeks Calais Dunkirk jungle" title="Refugee camp hold eight thousand migrants four weeks Calais Dunkirk jungle">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634888_1.jpg" alt="Refugee camp hold eight thousand migrants four weeks Calais Dunkirk jungle" title="Refugee camp hold eight thousand migrants four weeks Calais Dunkirk jungle"></noscript>                </div>
-                <h4 itemprop="name">New refugee camp could hold EIGHT THOUSAND migrants within FOUR WEEKS</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635377_1.jpg" alt="National Lottery results Wednesday January 16 2015" title="National Lottery results Wednesday January 16 2015">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635377_1.jpg" alt="National Lottery results Wednesday January 16 2015" title="National Lottery results Wednesday January 16 2015"></noscript>                </div>
+                <h4 itemprop="name">National Lottery results: Winning numbers for Saturday January 16 2016 draw</h4>
             </a>
         </div>
-                    <div data-post-id="634885" class="new short newmftp" data-short-story="634885" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634885/immigration-Britain-James-Brokenshire-Home-Office" title="Too many immigrants locked up at detention centres across Britain, report claims" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'immigration Britain James Brokenshire Home Office')" class="clearfix">
+                    <div data-post-id="635374" class="new short newmftp" data-short-story="635374" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635374/Eu-referendum-Brexit-boost-leave-campaign-lead-poll-Britain-Brussels-Cameron" title="Boost for Brexit hopes as leave campaign opens up HUGE lead in EU referendum battle " onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Eu referendum Brexit boost leave campaign lead poll Britain Brussels Cameron')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634885_1.jpg" alt="immigration Britain James Brokenshire Home Office" title="immigration Britain James Brokenshire Home Office">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634885_1.jpg" alt="immigration Britain James Brokenshire Home Office" title="immigration Britain James Brokenshire Home Office"></noscript>                </div>
-                <h4 itemprop="name">Too many immigrants locked up at detention centres across Britain, report claims</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635374_1.jpg" alt="Eu referendum Brexit boost leave campaign lead poll Britain Brussels Cameron" title="Eu referendum Brexit boost leave campaign lead poll Britain Brussels Cameron">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635374_1.jpg" alt="Eu referendum Brexit boost leave campaign lead poll Britain Brussels Cameron" title="Eu referendum Brexit boost leave campaign lead poll Britain Brussels Cameron"></noscript>                </div>
+                <h4 itemprop="name">Boost for Brexit hopes as leave campaign opens up HUGE lead in EU referendum battle </h4>
             </a>
         </div>
-                    <div data-post-id="634876" class="last new short newmftp" data-short-story="634876" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634876/european-union-david-cameron-eu-george-osborne-referendum-renegotiation-chris-grayling" title="Britain has NO PLANS if you vote to LEAVE the European Union, Osborne claims" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'european union david cameron eu george osborne referendum renegotiation chris grayling')" class="clearfix">
+                    <div data-post-id="635360" class="last new short newmftp" data-short-story="635360" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635360/Soldiering-On-Awards-2016-My-dog-inspired-enjoy-life" title="Soldiering On Awards 2016: My dog has inspired me to enjoy life once again" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Soldiering On Awards 2016 My dog inspired enjoy life')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634876_1.jpg" alt="european union david cameron eu george osborne referendum renegotiation chris grayling" title="european union david cameron eu george osborne referendum renegotiation chris grayling">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634876_1.jpg" alt="european union david cameron eu george osborne referendum renegotiation chris grayling" title="european union david cameron eu george osborne referendum renegotiation chris grayling"></noscript>                </div>
-                <h4 itemprop="name">Britain has NO PLANS if you vote to LEAVE the European Union, Osborne claims</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635360_1.jpg" alt="Soldiering On Awards 2016 My dog inspired enjoy life" title="Soldiering On Awards 2016 My dog inspired enjoy life">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635360_1.jpg" alt="Soldiering On Awards 2016 My dog inspired enjoy life" title="Soldiering On Awards 2016 My dog inspired enjoy life"></noscript>                </div>
+                <h4 itemprop="name">Soldiering On Awards 2016: My dog has inspired me to enjoy life once again</h4>
             </a>
         </div>
             </section>
@@ -924,44 +924,44 @@ utag_data = {
 <div class="type2 advert">
             <div class="fb-page" data-href="https://www.facebook.com/DailyExpress" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/DailyExpress"><a href="https://www.facebook.com/DailyExpress">Daily Express</a></blockquote></div></div>    </div>
                 <section class="new box news" data-vr-zone="R/H Side More From This Section (UK)">
-            <div data-post-id="633689" class="Story big" data-short-story="633689" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/633689/Calais-migrant-crisis-refugees-attack-British-school-coach-rocks-violence" title="Migrant crisis: Coach full of British schoolchildren 'ATTACKED by Calais refugees'" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Calais migrant crisis refugees attack British school coach rocks violence ')">
+            <div data-post-id="635351" class="Story big" data-short-story="635351" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635351/Former-soldier-risked-five-years-jail-rescue-four-year-old-Calais-Jungle-camp" title="A former soldier risked five years in jail to rescue four-year-old from Calais Jungle camp" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Former soldier risked five years jail rescue four-year-old Calais Jungle camp')">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/633689_1.jpg" alt="Calais migrant crisis refugees attack British school coach rocks violence " title="Calais migrant crisis refugees attack British school coach rocks violence ">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/633689_1.jpg" alt="Calais migrant crisis refugees attack British school coach rocks violence " title="Calais migrant crisis refugees attack British school coach rocks violence "></noscript>                </div>
-                <h4 class="Headline" itemprop="name">Migrant crisis: Coach full of British schoolchildren 'ATTACKED by Calais refugees'</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635351_1.jpg" alt="Former soldier risked five years jail rescue four-year-old Calais Jungle camp" title="Former soldier risked five years jail rescue four-year-old Calais Jungle camp">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635351_1.jpg" alt="Former soldier risked five years jail rescue four-year-old Calais Jungle camp" title="Former soldier risked five years jail rescue four-year-old Calais Jungle camp"></noscript>                </div>
+                <h4 class="Headline" itemprop="name">A former soldier risked five years in jail to rescue four-year-old from Calais Jungle camp</h4>
             </a>
         </div>
-                    <div data-post-id="634877" class="first new short newmftp" data-short-story="634877" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634877/Terrifying-terrorist-toolkit-found-Jakarta-suicide-attacks-Indonesia" title="REVEALED: Terrifying Islamic State toolkit found following Jakarta suicide attacks" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Terrifying terrorist toolkit found Jakarta suicide attacks Indonesia')" class="clearfix">
+                    <div data-post-id="635344" class="first new short newmftp" data-short-story="635344" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635344/Flyers-jets-RAF-pilots-fatten-up-fighter-aircraft" title="Flyers ‘too light’ for jets: RAF pilots have to fatten up for new fighter aircraft" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Flyers jets RAF pilots fatten up fighter aircraft')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634877_1.jpg" alt="Terrifying terrorist toolkit found Jakarta suicide attacks Indonesia" title="Terrifying terrorist toolkit found Jakarta suicide attacks Indonesia">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634877_1.jpg" alt="Terrifying terrorist toolkit found Jakarta suicide attacks Indonesia" title="Terrifying terrorist toolkit found Jakarta suicide attacks Indonesia"></noscript>                </div>
-                <h4 itemprop="name">REVEALED: Terrifying Islamic State toolkit found following Jakarta suicide attacks</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635344_1.jpg" alt="Flyers jets RAF pilots fatten up fighter aircraft" title="Flyers jets RAF pilots fatten up fighter aircraft">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635344_1.jpg" alt="Flyers jets RAF pilots fatten up fighter aircraft" title="Flyers jets RAF pilots fatten up fighter aircraft"></noscript>                </div>
+                <h4 itemprop="name">Flyers ‘too light’ for jets: RAF pilots have to fatten up for new fighter aircraft</h4>
             </a>
         </div>
-                    <div data-post-id="634866" class="new short newmftp" data-short-story="634866" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634866/Renewed-calls-introduce-ID-cards-UK-wake-ISIS-terror-attacks" title="Renewed calls to introduce ID cards in the UK in the wake of ISIS terror attacks" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Renewed calls introduce ID cards UK wake ISIS terror attacks')" class="clearfix">
+                    <div data-post-id="635343" class="new short newmftp" data-short-story="635343" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635343/middle-class-tax-outrage-millions-double-whammy-higher-bills-bigger-cuts-council-budgets" title="UK tax OUTRAGE: Millions face double whammy of higher bills and bigger public service cuts" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'middle class tax outrage millions double whammy higher bills bigger cuts council budgets')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634866_1.jpg" alt="Renewed calls introduce ID cards UK wake ISIS terror attacks" title="Renewed calls introduce ID cards UK wake ISIS terror attacks">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634866_1.jpg" alt="Renewed calls introduce ID cards UK wake ISIS terror attacks" title="Renewed calls introduce ID cards UK wake ISIS terror attacks"></noscript>                </div>
-                <h4 itemprop="name">Renewed calls to introduce ID cards in the UK in the wake of ISIS terror attacks</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635343_1.jpg" alt="middle class tax outrage millions double whammy higher bills bigger cuts council budgets" title="middle class tax outrage millions double whammy higher bills bigger cuts council budgets">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635343_1.jpg" alt="middle class tax outrage millions double whammy higher bills bigger cuts council budgets" title="middle class tax outrage millions double whammy higher bills bigger cuts council budgets"></noscript>                </div>
+                <h4 itemprop="name">UK tax OUTRAGE: Millions face double whammy of higher bills and bigger public service cuts</h4>
             </a>
         </div>
-                    <div data-post-id="634853" class="new short newmftp" data-short-story="634853" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634853/Man-unprotected-sex-woman-he-met-online-despite-being-HIV-positive-jailed" title="Man who had unprotected sex with woman he met online despite being HIV positive jailed" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Man unprotected sex woman he met online despite being HIV positive jailed')" class="clearfix">
+                    <div data-post-id="635332" class="new short newmftp" data-short-story="635332" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635332/Doctor-Who-Matt-Smith-Prince-Philip-Netflix-original-series-The-Crown" title="Doctor Who's Matt Smith to play Prince Philip in new Netlix original series The Crown" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Doctor Who Matt Smith Prince Philip Netflix original series The Crown')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634853_1.jpg" alt="Man unprotected sex woman he met online despite being HIV positive jailed" title="Man unprotected sex woman he met online despite being HIV positive jailed">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634853_1.jpg" alt="Man unprotected sex woman he met online despite being HIV positive jailed" title="Man unprotected sex woman he met online despite being HIV positive jailed"></noscript>                </div>
-                <h4 itemprop="name">Man who had unprotected sex with woman he met online despite being HIV positive jailed</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635332_1.jpg" alt="Doctor Who Matt Smith Prince Philip Netflix original series The Crown" title="Doctor Who Matt Smith Prince Philip Netflix original series The Crown">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635332_1.jpg" alt="Doctor Who Matt Smith Prince Philip Netflix original series The Crown" title="Doctor Who Matt Smith Prince Philip Netflix original series The Crown"></noscript>                </div>
+                <h4 itemprop="name">Doctor Who's Matt Smith to play Prince Philip in new Netlix original series The Crown</h4>
             </a>
         </div>
-                    <div data-post-id="634827" class="last new short newmftp" data-short-story="634827" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634827/DNA-dog-poo-catch-culprits" title="Villagers to DNA test dog poo to catch culprits" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'DNA dog poo catch culprits')" class="clearfix">
+                    <div data-post-id="635331" class="last new short newmftp" data-short-story="635331" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635331/Father-British-redcap-killed-Iraqi-mob-government-inaction-Lance-Corporal-Thomas-Keys" title="Father of British 'redcap' killed by Iraqi mob accuses the government of inaction" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Father British redcap killed Iraqi mob government inaction Lance Corporal Thomas Keys')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634827_1.jpg" alt="DNA dog poo catch culprits" title="DNA dog poo catch culprits">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634827_1.jpg" alt="DNA dog poo catch culprits" title="DNA dog poo catch culprits"></noscript>                </div>
-                <h4 itemprop="name">Villagers to DNA test dog poo to catch culprits</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635331_1.jpg" alt="Father British redcap killed Iraqi mob government inaction Lance Corporal Thomas Keys" title="Father British redcap killed Iraqi mob government inaction Lance Corporal Thomas Keys">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635331_1.jpg" alt="Father British redcap killed Iraqi mob government inaction Lance Corporal Thomas Keys" title="Father British redcap killed Iraqi mob government inaction Lance Corporal Thomas Keys"></noscript>                </div>
+                <h4 itemprop="name">Father of British 'redcap' killed by Iraqi mob accuses the government of inaction</h4>
             </a>
         </div>
             </section>
@@ -978,52 +978,52 @@ utag_data = {
 </div>
 <!-- End AdSlot 3 -->    </div>
                 <section class="new box news" data-vr-zone="R/H Side More From This Section (UK)">
-            <div data-post-id="634822" class="Story big" data-short-story="634822" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634822/Pianist-dementia-reform-band-30-years" title="Band reform 30 years later and defy dementia to play again" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Pianist dementia reform band 30 years')">
+            <div data-post-id="635323" class="Story big" data-short-story="635323" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635323/Victory-troops-controversial-anti-malaria-pill" title="Victory for troops who took controversial anti-malaria pill" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Victory troops controversial anti malaria pill')">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/634822_1.jpg" alt="Pianist dementia reform band 30 years" title="Pianist dementia reform band 30 years">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/634822_1.jpg" alt="Pianist dementia reform band 30 years" title="Pianist dementia reform band 30 years"></noscript>                </div>
-                <h4 class="Headline" itemprop="name">Band reform 30 years later and defy dementia to play again</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635323_1.jpg" alt="Victory troops controversial anti malaria pill" title="Victory troops controversial anti malaria pill">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635323_1.jpg" alt="Victory troops controversial anti malaria pill" title="Victory troops controversial anti malaria pill"></noscript>                </div>
+                <h4 class="Headline" itemprop="name">Victory for troops who took controversial anti-malaria pill</h4>
             </a>
         </div>
-                    <div data-post-id="634808" class="first new short newmftp" data-short-story="634808" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634808/Aldi-Lidl-brands-supermarket" title="Aldi and Lidl considered Britain's favourite brands" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Aldi Lidl brands supermarket ')" class="clearfix">
+                    <div data-post-id="635321" class="first new short newmftp" data-short-story="635321" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635321/Shaming-Britain-blood-health-disease" title="Shaming of Britain over blood" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Shaming Britain blood health disease')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634808_1.jpg" alt="Aldi Lidl brands supermarket " title="Aldi Lidl brands supermarket ">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634808_1.jpg" alt="Aldi Lidl brands supermarket " title="Aldi Lidl brands supermarket "></noscript>                </div>
-                <h4 itemprop="name">Aldi and Lidl considered Britain's favourite brands</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635321_1.jpg" alt="Shaming Britain blood health disease" title="Shaming Britain blood health disease">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635321_1.jpg" alt="Shaming Britain blood health disease" title="Shaming Britain blood health disease"></noscript>                </div>
+                <h4 itemprop="name">Shaming of Britain over blood</h4>
             </a>
         </div>
-                    <div data-post-id="634802" class="new short newmftp" data-short-story="634802" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634802/New-law-Muslims-Sharia-prosection" title="Islamic extremists who demand Sharia law for Britain face criminal charges" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'New law Muslims Sharia prosection')" class="clearfix">
+                    <div data-post-id="635316" class="new short newmftp" data-short-story="635316" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635316/workers-Scotland-earn-more-British-counterparts-first-time-new-study-reveals" title="Workers in Scotland earn more than their British counterparts, new study reveals" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'workers Scotland earn more British counterparts first time new study reveals')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634802_1.jpg" alt="New law Muslims Sharia prosection" title="New law Muslims Sharia prosection">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634802_1.jpg" alt="New law Muslims Sharia prosection" title="New law Muslims Sharia prosection"></noscript>                </div>
-                <h4 itemprop="name">Islamic extremists who demand Sharia law for Britain face criminal charges</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635316_1.jpg" alt="workers Scotland earn more British counterparts first time new study reveals" title="workers Scotland earn more British counterparts first time new study reveals">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635316_1.jpg" alt="workers Scotland earn more British counterparts first time new study reveals" title="workers Scotland earn more British counterparts first time new study reveals"></noscript>                </div>
+                <h4 itemprop="name">Workers in Scotland earn more than their British counterparts, new study reveals</h4>
             </a>
         </div>
-                    <div data-post-id="634772" class="new short newmftp" data-short-story="634772" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634772/worlds-unluckiest-ex-boyfriend-man-splits-daughter-lottery-winners" title="The world's unluckiest ex-boyfriend? Man splits from daughter of £33m lottery winners" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'worlds unluckiest ex boyfriend man splits daughter lottery winners')" class="clearfix">
+                    <div data-post-id="635306" class="new short newmftp" data-short-story="635306" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635306/obesity-children-weight-loss-surgery-epidemic-Boris-Johnson-Sadiq-Khan-sugar-tax" title="Outrage at numbers of obese CHILDREN needing weight loss surgery" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'obesity children weight loss surgery epidemic Boris Johnson Sadiq Khan sugar tax')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634772_1.jpg" alt="worlds unluckiest ex boyfriend man splits daughter lottery winners" title="worlds unluckiest ex boyfriend man splits daughter lottery winners">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634772_1.jpg" alt="worlds unluckiest ex boyfriend man splits daughter lottery winners" title="worlds unluckiest ex boyfriend man splits daughter lottery winners"></noscript>                </div>
-                <h4 itemprop="name">The world's unluckiest ex-boyfriend? Man splits from daughter of £33m lottery winners</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635306_1.jpg" alt="obesity children weight loss surgery epidemic Boris Johnson Sadiq Khan sugar tax" title="obesity children weight loss surgery epidemic Boris Johnson Sadiq Khan sugar tax">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635306_1.jpg" alt="obesity children weight loss surgery epidemic Boris Johnson Sadiq Khan sugar tax" title="obesity children weight loss surgery epidemic Boris Johnson Sadiq Khan sugar tax"></noscript>                </div>
+                <h4 itemprop="name">Outrage at numbers of obese CHILDREN needing weight loss surgery</h4>
             </a>
         </div>
-                    <div data-post-id="634767" class="new short newmftp" data-short-story="634767" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634767/passenger-CPR-dying-man-Ryanair-flight" title="Heroic passenger performs CPR for 40 minutes on dying man onboard Ryanair flight" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'passenger CPR dying man Ryanair flight')" class="clearfix">
+                    <div data-post-id="635305" class="new short newmftp" data-short-story="635305" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635305/Blue-Belt-expand-protect-British-sea-life-nature" title="A "Blue Belt" to be expanded to further protect British sea life" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Blue Belt expand protect British sea life nature ')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634767_1.jpg" alt="passenger CPR dying man Ryanair flight" title="passenger CPR dying man Ryanair flight">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634767_1.jpg" alt="passenger CPR dying man Ryanair flight" title="passenger CPR dying man Ryanair flight"></noscript>                </div>
-                <h4 itemprop="name">Heroic passenger performs CPR for 40 minutes on dying man onboard Ryanair flight</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635305_1.jpg" alt="Blue Belt expand protect British sea life nature " title="Blue Belt expand protect British sea life nature ">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635305_1.jpg" alt="Blue Belt expand protect British sea life nature " title="Blue Belt expand protect British sea life nature "></noscript>                </div>
+                <h4 itemprop="name">A "Blue Belt" to be expanded to further protect British sea life</h4>
             </a>
         </div>
-                    <div data-post-id="634766" class="last new short newmftp" data-short-story="634766" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634766/Pet-owners-urged-NOT-wash-hands-handling-animals-friendly-bacteria" title="Pet owners urged NOT to wash hands after handling animals to keep friendly bacteria" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Pet owners urged NOT wash hands handling animals friendly bacteria')" class="clearfix">
+                    <div data-post-id="635297" class="last new short newmftp" data-short-story="635297" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635297/Leeds-legal-red-light-district-new-Yorkshire-Ripper-fears-Peter-Sutcliffe-women-safe" title="Leeds' legal red light district sparks 'new Ripper' fears for working women" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Leeds legal red light district new Yorkshire Ripper fears Peter Sutcliffe women safe')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634766_1.jpg" alt="Pet owners urged NOT wash hands handling animals friendly bacteria" title="Pet owners urged NOT wash hands handling animals friendly bacteria">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634766_1.jpg" alt="Pet owners urged NOT wash hands handling animals friendly bacteria" title="Pet owners urged NOT wash hands handling animals friendly bacteria"></noscript>                </div>
-                <h4 itemprop="name">Pet owners urged NOT to wash hands after handling animals to keep friendly bacteria</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635297_1.jpg" alt="Leeds legal red light district new Yorkshire Ripper fears Peter Sutcliffe women safe" title="Leeds legal red light district new Yorkshire Ripper fears Peter Sutcliffe women safe">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635297_1.jpg" alt="Leeds legal red light district new Yorkshire Ripper fears Peter Sutcliffe women safe" title="Leeds legal red light district new Yorkshire Ripper fears Peter Sutcliffe women safe"></noscript>                </div>
+                <h4 itemprop="name">Leeds' legal red light district sparks 'new Ripper' fears for working women</h4>
             </a>
         </div>
             </section>
@@ -1040,164 +1040,164 @@ utag_data = {
 </div>
 <!-- End AdSlot 4 -->    </div>
                 <section class="new box news" data-vr-zone="R/H Side More From This Section (UK)">
-            <div data-post-id="634748" class="Story big" data-short-story="634748" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634748/UK-terror-threat-police-chief-London-at-risk-ISIS-attack" title="TERROR THREAT TO THE UK: London ISN'T the only target for ISIS jihadis, police chief warns" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'UK terror threat police chief London at risk ISIS attack')">
+            <div data-post-id="635295" class="Story big" data-short-story="635295" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635295/Jewish-peer-escaped-Nazis-saves-150-trapped-Christians-ISIS-daesh" title="Jewish peer who escaped from the Nazis saves 150 trapped Christians from ISIS" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Jewish peer escaped Nazis saves 150 trapped Christians ISIS daesh')">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/634748_1.jpg" alt="UK terror threat police chief London at risk ISIS attack" title="UK terror threat police chief London at risk ISIS attack">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/634748_1.jpg" alt="UK terror threat police chief London at risk ISIS attack" title="UK terror threat police chief London at risk ISIS attack"></noscript>                </div>
-                <h4 class="Headline" itemprop="name">TERROR THREAT TO THE UK: London ISN'T the only target for ISIS jihadis, police chief warns</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635295_1.jpg" alt="Jewish peer escaped Nazis saves 150 trapped Christians ISIS daesh" title="Jewish peer escaped Nazis saves 150 trapped Christians ISIS daesh">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/590x/635295_1.jpg" alt="Jewish peer escaped Nazis saves 150 trapped Christians ISIS daesh" title="Jewish peer escaped Nazis saves 150 trapped Christians ISIS daesh"></noscript>                </div>
+                <h4 class="Headline" itemprop="name">Jewish peer who escaped from the Nazis saves 150 trapped Christians from ISIS</h4>
             </a>
         </div>
-                    <div data-post-id="634739" class="first new short newmftp" data-short-story="634739" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634739/Hatton-Garden-raider-buried-loot-cemetery" title="Hatton Garden raider buried loot in cemetery - but only led police to one stash" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Hatton Garden raider buried loot cemetery')" class="clearfix">
+                    <div data-post-id="635289" class="first new short newmftp" data-short-story="635289" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635289/Gems-heist-raid-police-global-hunt-fugitive-Basil-Hatton-Gardens" title="Gems raid police go global in hunt for fugitive ‘Basil’" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Gems heist raid police global hunt fugitive Basil Hatton Gardens')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634739_1.jpg" alt="Hatton Garden raider buried loot cemetery" title="Hatton Garden raider buried loot cemetery">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634739_1.jpg" alt="Hatton Garden raider buried loot cemetery" title="Hatton Garden raider buried loot cemetery"></noscript>                </div>
-                <h4 itemprop="name">Hatton Garden raider buried loot in cemetery - but only led police to one stash</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635289_1.jpg" alt="Gems heist raid police global hunt fugitive Basil Hatton Gardens" title="Gems heist raid police global hunt fugitive Basil Hatton Gardens">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635289_1.jpg" alt="Gems heist raid police global hunt fugitive Basil Hatton Gardens" title="Gems heist raid police global hunt fugitive Basil Hatton Gardens"></noscript>                </div>
+                <h4 itemprop="name">Gems raid police go global in hunt for fugitive ‘Basil’</h4>
             </a>
         </div>
-                    <div data-post-id="634714" class="new short newmftp" data-short-story="634714" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634714/Hatton-Garden-heist-gang" title="Who are the Hatton Garden heist gang? Meet The Master, Billy the Fish and Basil" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Hatton Garden heist gang')" class="clearfix">
+                    <div data-post-id="635287" class="new short newmftp" data-short-story="635287" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635287/Amy-Johnson-plane-bid-sparks-dogfight" title="Amy Johnson plane bid sparks dogfight" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Amy Johnson plane bid sparks dogfight')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634714_1.jpg" alt="Hatton Garden heist gang" title="Hatton Garden heist gang">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634714_1.jpg" alt="Hatton Garden heist gang" title="Hatton Garden heist gang"></noscript>                </div>
-                <h4 itemprop="name">Who are the Hatton Garden heist gang? Meet The Master, Billy the Fish and Basil</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635287_1.jpg" alt="Amy Johnson plane bid sparks dogfight" title="Amy Johnson plane bid sparks dogfight">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635287_1.jpg" alt="Amy Johnson plane bid sparks dogfight" title="Amy Johnson plane bid sparks dogfight"></noscript>                </div>
+                <h4 itemprop="name">Amy Johnson plane bid sparks dogfight</h4>
             </a>
         </div>
-                    <div data-post-id="634701" class="new short newmftp" data-short-story="634701" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634701/Cancer-patients-waiting-for-treatment-as-NHS-loses-100-000s-of-days-over-bed-blocking" title="Cancer patients waiting for treatment as NHS 'loses' 100,000s of days over bed-blocking" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Cancer patients waiting for treatment as NHS &#039;loses&#039; 100,000s of days over bed-blocking')" class="clearfix">
+                    <div data-post-id="635281" class="new short newmftp" data-short-story="635281" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635281/robbery-foiled-Yorkshire-postman-combine-harvester-Andrew-Waldron-Simon-McCluskey" title="Bungling robbers foiled by OAP, postie... and a combine harvester" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'robbery foiled Yorkshire postman combine harvester Andrew Waldron Simon McCluskey')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634701_1.jpg" alt="Cancer patients waiting for treatment as NHS 'loses' 100,000s of days over bed-blocking" title="Cancer patients waiting for treatment as NHS 'loses' 100,000s of days over bed-blocking">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634701_1.jpg" alt="Cancer patients waiting for treatment as NHS 'loses' 100,000s of days over bed-blocking" title="Cancer patients waiting for treatment as NHS 'loses' 100,000s of days over bed-blocking"></noscript>                </div>
-                <h4 itemprop="name">Cancer patients waiting for treatment as NHS 'loses' 100,000s of days over bed-blocking</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635281_1.jpg" alt="robbery foiled Yorkshire postman combine harvester Andrew Waldron Simon McCluskey" title="robbery foiled Yorkshire postman combine harvester Andrew Waldron Simon McCluskey">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635281_1.jpg" alt="robbery foiled Yorkshire postman combine harvester Andrew Waldron Simon McCluskey" title="robbery foiled Yorkshire postman combine harvester Andrew Waldron Simon McCluskey"></noscript>                </div>
+                <h4 itemprop="name">Bungling robbers foiled by OAP, postie... and a combine harvester</h4>
             </a>
         </div>
-                    <div data-post-id="634684" class="new short newmftp" data-short-story="634684" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634684/Fashion-designer-killed-herself-lorry-boyfriend-arranged-marriage" title="Aspiring designer killed herself after fearing losing boyfriend to arranged marriage" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Fashion designer killed herself lorry boyfriend arranged marriage')" class="clearfix">
+                    <div data-post-id="635274" class="new short newmftp" data-short-story="635274" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635274/Desert-Storm-Persian-Gulf-War-Iraq-Saddam-Hussein-Antony-Mawston-Navy" title="25 years after Desert Storm, I am still haunted by a dead man's body floating in the sea.." onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Desert Storm Persian Gulf War Iraq Saddam Hussein Antony Mawston Navy')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634684_1.jpg" alt="Fashion designer killed herself lorry boyfriend arranged marriage" title="Fashion designer killed herself lorry boyfriend arranged marriage">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634684_1.jpg" alt="Fashion designer killed herself lorry boyfriend arranged marriage" title="Fashion designer killed herself lorry boyfriend arranged marriage"></noscript>                </div>
-                <h4 itemprop="name">Aspiring designer killed herself after fearing losing boyfriend to arranged marriage</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635274_1.jpg" alt="Desert Storm Persian Gulf War Iraq Saddam Hussein Antony Mawston Navy" title="Desert Storm Persian Gulf War Iraq Saddam Hussein Antony Mawston Navy">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635274_1.jpg" alt="Desert Storm Persian Gulf War Iraq Saddam Hussein Antony Mawston Navy" title="Desert Storm Persian Gulf War Iraq Saddam Hussein Antony Mawston Navy"></noscript>                </div>
+                <h4 itemprop="name">25 years after Desert Storm, I am still haunted by a dead man's body floating in the sea..</h4>
             </a>
         </div>
-                    <div data-post-id="634683" class="new short newmftp" data-short-story="634683" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634683/Hatton-Garden-heist-three-men-found-guilty" title="WATCH: Moment Hatton Garden gang discuss heist in pub - as 3 convicted of £14M burglary" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Hatton Garden heist three men found guilty')" class="clearfix">
+                    <div data-post-id="635315" class="new short newmftp" data-short-story="635315" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635315/Pothole-penis-artist-returns-highlight-roads-problem-Wanksy" title="Pothole penis artist returns to highlight roads problem" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Pothole penis artist returns highlight roads problem Wanksy')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634683_1.jpg" alt="Hatton Garden heist three men found guilty" title="Hatton Garden heist three men found guilty">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634683_1.jpg" alt="Hatton Garden heist three men found guilty" title="Hatton Garden heist three men found guilty"></noscript>                </div>
-                <h4 itemprop="name">WATCH: Moment Hatton Garden gang discuss heist in pub - as 3 convicted of £14M burglary</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635315_1.jpg" alt="Pothole penis artist returns highlight roads problem Wanksy" title="Pothole penis artist returns highlight roads problem Wanksy">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635315_1.jpg" alt="Pothole penis artist returns highlight roads problem Wanksy" title="Pothole penis artist returns highlight roads problem Wanksy"></noscript>                </div>
+                <h4 itemprop="name">Pothole penis artist returns to highlight roads problem</h4>
             </a>
         </div>
-                    <div data-post-id="634676" class="new short newmftp" data-short-story="634676" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634676/British-woman-dog-stray-police-America" title="British dog lover calls police to deal with stray - but mistakenly rings AMERICAN cops" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'British woman dog stray police America')" class="clearfix">
+                    <div data-post-id="635292" class="new short newmftp" data-short-story="635292" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635292/Appeals-for-loving-home-for-goldfish-found-sleeping-rough-under-bridge" title="Appeals for ‘loving home’ for goldfish found sleeping rough under bridge" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Appeals for ‘loving home’ for goldfish found sleeping rough under bridge')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634676_1.jpg" alt="British woman dog stray police America" title="British woman dog stray police America">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634676_1.jpg" alt="British woman dog stray police America" title="British woman dog stray police America"></noscript>                </div>
-                <h4 itemprop="name">British dog lover calls police to deal with stray - but mistakenly rings AMERICAN cops</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635292_1.jpg" alt="Appeals for ‘loving home’ for goldfish found sleeping rough under bridge" title="Appeals for ‘loving home’ for goldfish found sleeping rough under bridge">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635292_1.jpg" alt="Appeals for ‘loving home’ for goldfish found sleeping rough under bridge" title="Appeals for ‘loving home’ for goldfish found sleeping rough under bridge"></noscript>                </div>
+                <h4 itemprop="name">Appeals for ‘loving home’ for goldfish found sleeping rough under bridge</h4>
             </a>
         </div>
-                    <div data-post-id="634668" class="new short newmftp" data-short-story="634668" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634668/Lorry-driver-moments-from-death-millimetres-roadside" title="WATCH: Lucky lorry driver dodges death by MILLIMETRES after this STUPID roadside blunder" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Lorry driver moments from death millimetres roadside ')" class="clearfix">
+                    <div data-post-id="635286" class="new short newmftp" data-short-story="635286" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635286/Rioters-anger-justified-according-to-Jeremy-Corbyn-s-new-equalities-MP" title="‘Racist police’ not violent thugs to blame for UK riots says Corbyn’s new equalities MP" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Rioters’ anger ‘justified’ according to Jeremy Corbyn’s new equalities MP')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634668_1.jpg" alt="Lorry driver moments from death millimetres roadside " title="Lorry driver moments from death millimetres roadside ">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634668_1.jpg" alt="Lorry driver moments from death millimetres roadside " title="Lorry driver moments from death millimetres roadside "></noscript>                </div>
-                <h4 itemprop="name">WATCH: Lucky lorry driver dodges death by MILLIMETRES after this STUPID roadside blunder</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635286_1.jpg" alt="Rioters’ anger ‘justified’ according to Jeremy Corbyn’s new equalities MP" title="Rioters’ anger ‘justified’ according to Jeremy Corbyn’s new equalities MP">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635286_1.jpg" alt="Rioters’ anger ‘justified’ according to Jeremy Corbyn’s new equalities MP" title="Rioters’ anger ‘justified’ according to Jeremy Corbyn’s new equalities MP"></noscript>                </div>
+                <h4 itemprop="name">‘Racist police’ not violent thugs to blame for UK riots says Corbyn’s new equalities MP</h4>
             </a>
         </div>
-                    <div data-post-id="634664" class="new short newmftp" data-short-story="634664" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634664/GUILTY-boyfriend-killed-Laura-attack-dumped-him" title="GUILTY: Jealous boyfriend killed gentle Laura in frenzied attack after she dumped him" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'GUILTY boyfriend killed Laura attack dumped him')" class="clearfix">
+                    <div data-post-id="635266" class="new short newmftp" data-short-story="635266" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635266/Painstakingly-sorted-recycling-DUMPED-IN-LANDFILL-by-councils" title="RE-CYCLING CON: Painstakingly sorted by you, DUMPED IN LANDFILL by councils" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Painstakingly sorted recycling DUMPED IN LANDFILL by councils')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634664_1.jpg" alt="GUILTY boyfriend killed Laura attack dumped him" title="GUILTY boyfriend killed Laura attack dumped him">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634664_1.jpg" alt="GUILTY boyfriend killed Laura attack dumped him" title="GUILTY boyfriend killed Laura attack dumped him"></noscript>                </div>
-                <h4 itemprop="name">GUILTY: Jealous boyfriend killed gentle Laura in frenzied attack after she dumped him</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635266_1.jpg" alt="Painstakingly sorted recycling DUMPED IN LANDFILL by councils" title="Painstakingly sorted recycling DUMPED IN LANDFILL by councils">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635266_1.jpg" alt="Painstakingly sorted recycling DUMPED IN LANDFILL by councils" title="Painstakingly sorted recycling DUMPED IN LANDFILL by councils"></noscript>                </div>
+                <h4 itemprop="name">RE-CYCLING CON: Painstakingly sorted by you, DUMPED IN LANDFILL by councils</h4>
             </a>
         </div>
-                    <div data-post-id="634646" class="new short newmftp" data-short-story="634646" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634646/Britains-oldest-driver-grandfather-103-never-crashed" title="Britain's oldest driver is revealed as grandfather aged 103 - and he's never crashed" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Britains oldest driver grandfather 103 never crashed')" class="clearfix">
+                    <div data-post-id="635264" class="new short newmftp" data-short-story="635264" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635264/David-Cameron-housing-hypocrisy-Notting-Hill-rent-John-Healey-George-Osborne" title="Cameron trousers HALF A MILLION in rent while cracking down on social housing" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'David Cameron housing hypocrisy Notting Hill rent John Healey George Osborne')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634646_1.jpg" alt="Britains oldest driver grandfather 103 never crashed" title="Britains oldest driver grandfather 103 never crashed">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634646_1.jpg" alt="Britains oldest driver grandfather 103 never crashed" title="Britains oldest driver grandfather 103 never crashed"></noscript>                </div>
-                <h4 itemprop="name">Britain's oldest driver is revealed as grandfather aged 103 - and he's never crashed</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635264_1.jpg" alt="David Cameron housing hypocrisy Notting Hill rent John Healey George Osborne" title="David Cameron housing hypocrisy Notting Hill rent John Healey George Osborne">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635264_1.jpg" alt="David Cameron housing hypocrisy Notting Hill rent John Healey George Osborne" title="David Cameron housing hypocrisy Notting Hill rent John Healey George Osborne"></noscript>                </div>
+                <h4 itemprop="name">Cameron trousers HALF A MILLION in rent while cracking down on social housing</h4>
             </a>
         </div>
-                    <div data-post-id="634644" class="new short newmftp" data-short-story="634644" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634644/Doctors-patients-dying-training-pallitative-care-terminal" title="Doctors AVOID telling patients they’re dying as they’ve never been trained" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Doctors patients dying training pallitative care terminal')" class="clearfix">
+                    <div data-post-id="635258" class="new short newmftp" data-short-story="635258" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635258/Woman-rare-tear-duct-cancer-surgery-repair-hole-face" title="Woman with rare tear duct cancer had surgery to repair hole on her face" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Woman rare tear duct cancer surgery repair hole face')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634644_1.jpg" alt="Doctors patients dying training pallitative care terminal" title="Doctors patients dying training pallitative care terminal">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634644_1.jpg" alt="Doctors patients dying training pallitative care terminal" title="Doctors patients dying training pallitative care terminal"></noscript>                </div>
-                <h4 itemprop="name">Doctors AVOID telling patients they’re dying as they’ve never been trained</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635258_1.jpg" alt="Woman rare tear duct cancer surgery repair hole face" title="Woman rare tear duct cancer surgery repair hole face">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635258_1.jpg" alt="Woman rare tear duct cancer surgery repair hole face" title="Woman rare tear duct cancer surgery repair hole face"></noscript>                </div>
+                <h4 itemprop="name">Woman with rare tear duct cancer had surgery to repair hole on her face</h4>
             </a>
         </div>
-                    <div data-post-id="634639" class="new short newmftp" data-short-story="634639" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634639/Ghost-Ghost-hunter-CCTV-Ghosts-Frightening-UK-Manchester" title="WATCH: Does this terrifying CCTV video show GHOSTS trashing offices?" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Ghost-Ghost hunter-CCTV-Ghosts-Frightening-UK-Manchester')" class="clearfix">
+                    <div data-post-id="635256" class="new short newmftp" data-short-story="635256" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635256/Archbishop-Justin-Welby-fixed-Easter-date-before-retirement-talks-with-Pope" title="Archbishop Justin Welby hopes to announce fixed Easter date 'before his retirement'" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Archbishop Justin Welby fixed Easter date before retirement talks with Pope')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634639_1.jpg" alt="Ghost-Ghost hunter-CCTV-Ghosts-Frightening-UK-Manchester" title="Ghost-Ghost hunter-CCTV-Ghosts-Frightening-UK-Manchester">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634639_1.jpg" alt="Ghost-Ghost hunter-CCTV-Ghosts-Frightening-UK-Manchester" title="Ghost-Ghost hunter-CCTV-Ghosts-Frightening-UK-Manchester"></noscript>                </div>
-                <h4 itemprop="name">WATCH: Does this terrifying CCTV video show GHOSTS trashing offices?</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635256_1.jpg" alt="Archbishop Justin Welby fixed Easter date before retirement talks with Pope" title="Archbishop Justin Welby fixed Easter date before retirement talks with Pope">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635256_1.jpg" alt="Archbishop Justin Welby fixed Easter date before retirement talks with Pope" title="Archbishop Justin Welby fixed Easter date before retirement talks with Pope"></noscript>                </div>
+                <h4 itemprop="name">Archbishop Justin Welby hopes to announce fixed Easter date 'before his retirement'</h4>
             </a>
         </div>
-                    <div data-post-id="634633" class="new short newmftp" data-short-story="634633" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634633/Sailor-filmed-sex-in-shower-with-colleague-cleared-voyeurism-Royal-Navy-warship" title="Sailor who filmed sex in shower with colleague cleared of voyeurism on Navy warship" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Sailor filmed sex in shower with colleague cleared voyeurism Royal Navy warship')" class="clearfix">
+                    <div data-post-id="635221" class="new short newmftp" data-short-story="635221" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635221/Brrr-itain-set-to-be-blanketed-by-snow-as-temperatures-match-weather-in-Iceland" title="Brrr-itain set to be blanketed by snow as temperatures match weather in Iceland" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Brrr-itain set to be blanketed by snow as temperatures match weather in Iceland')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634633_1.jpg" alt="Sailor filmed sex in shower with colleague cleared voyeurism Royal Navy warship" title="Sailor filmed sex in shower with colleague cleared voyeurism Royal Navy warship">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634633_1.jpg" alt="Sailor filmed sex in shower with colleague cleared voyeurism Royal Navy warship" title="Sailor filmed sex in shower with colleague cleared voyeurism Royal Navy warship"></noscript>                </div>
-                <h4 itemprop="name">Sailor who filmed sex in shower with colleague cleared of voyeurism on Navy warship</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635221_1.jpg" alt="Brrr-itain set to be blanketed by snow as temperatures match weather in Iceland" title="Brrr-itain set to be blanketed by snow as temperatures match weather in Iceland">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635221_1.jpg" alt="Brrr-itain set to be blanketed by snow as temperatures match weather in Iceland" title="Brrr-itain set to be blanketed by snow as temperatures match weather in Iceland"></noscript>                </div>
+                <h4 itemprop="name">Brrr-itain set to be blanketed by snow as temperatures match weather in Iceland</h4>
             </a>
         </div>
-                    <div data-post-id="634619" class="new short newmftp" data-short-story="634619" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634619/British-aid-worker-Rob-Lawrie-smuggling-Calais-Afghan-girl-Britain" title="Former soldier who tried to smuggle Calais migrant girl into Britain spared jail" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'British aid worker Rob Lawrie smuggling Calais Afghan girl Britain')" class="clearfix">
+                    <div data-post-id="635205" class="new short newmftp" data-short-story="635205" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635205/Louise-Richardson-free-speech-Oxford-University" title="Extremists shouldn't be banned from preaching at British universities, Oxford chief says" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Louise Richardson free speech Oxford University')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634619_1.jpg" alt="British aid worker Rob Lawrie smuggling Calais Afghan girl Britain" title="British aid worker Rob Lawrie smuggling Calais Afghan girl Britain">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634619_1.jpg" alt="British aid worker Rob Lawrie smuggling Calais Afghan girl Britain" title="British aid worker Rob Lawrie smuggling Calais Afghan girl Britain"></noscript>                </div>
-                <h4 itemprop="name">Former soldier who tried to smuggle Calais migrant girl into Britain spared jail</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635205_1.jpg" alt="Louise Richardson free speech Oxford University" title="Louise Richardson free speech Oxford University">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635205_1.jpg" alt="Louise Richardson free speech Oxford University" title="Louise Richardson free speech Oxford University"></noscript>                </div>
+                <h4 itemprop="name">Extremists shouldn't be banned from preaching at British universities, Oxford chief says</h4>
             </a>
         </div>
-                    <div data-post-id="634611" class="new short newmftp" data-short-story="634611" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634611/Lego-couple-Star-Wars-models" title="Lego mad couple blow £15,000 on building Star Wars models" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Lego couple Star Wars models')" class="clearfix">
+                    <div data-post-id="635204" class="new short newmftp" data-short-story="635204" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635204/revenge-porn-ex-jailed-pretend-cancer-avoid-court" title="Man jailed for posting revenge porn then pretending to have CANCER to avoid trial" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'revenge porn ex jailed pretend cancer avoid court')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634611_1.jpg" alt="Lego couple Star Wars models" title="Lego couple Star Wars models">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634611_1.jpg" alt="Lego couple Star Wars models" title="Lego couple Star Wars models"></noscript>                </div>
-                <h4 itemprop="name">Lego mad couple blow £15,000 on building Star Wars models</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635204_1.jpg" alt="revenge porn ex jailed pretend cancer avoid court" title="revenge porn ex jailed pretend cancer avoid court">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635204_1.jpg" alt="revenge porn ex jailed pretend cancer avoid court" title="revenge porn ex jailed pretend cancer avoid court"></noscript>                </div>
+                <h4 itemprop="name">Man jailed for posting revenge porn then pretending to have CANCER to avoid trial</h4>
             </a>
         </div>
-                    <div data-post-id="634604" class="new short newmftp" data-short-story="634604" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634604/Popcorn-banned-cinema-petition" title="Popcorn to be BANNED in cinemas? Man starts petition to outlaw popular film snack" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Popcorn banned cinema petition')" class="clearfix">
+                    <div data-post-id="635198" class="new short newmftp" data-short-story="635198" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635198/600-Brits-stopped-Syria-ISIS-jihadis-raqqa-turkey-philip-hammond" title="Intelligence chiefs stop 600 Britons joining warped Islamic State terrorists in Syria" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', '600 Brits stopped Syria ISIS jihadis raqqa turkey philip hammond')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634604_1.jpg" alt="Popcorn banned cinema petition" title="Popcorn banned cinema petition">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634604_1.jpg" alt="Popcorn banned cinema petition" title="Popcorn banned cinema petition"></noscript>                </div>
-                <h4 itemprop="name">Popcorn to be BANNED in cinemas? Man starts petition to outlaw popular film snack</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635198_1.jpg" alt="600 Brits stopped Syria ISIS jihadis raqqa turkey philip hammond" title="600 Brits stopped Syria ISIS jihadis raqqa turkey philip hammond">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635198_1.jpg" alt="600 Brits stopped Syria ISIS jihadis raqqa turkey philip hammond" title="600 Brits stopped Syria ISIS jihadis raqqa turkey philip hammond"></noscript>                </div>
+                <h4 itemprop="name">Intelligence chiefs stop 600 Britons joining warped Islamic State terrorists in Syria</h4>
             </a>
         </div>
-                    <div data-post-id="634594" class="new short newmftp" data-short-story="634594" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634594/Spain-Holiday-Portugal-Deal-Travel-Safety-Tunisia-America" title="Britons panic buying holidays to Spain and Portugal fearing ‘there’s no where else safe’" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Spain-Holiday-Portugal-Deal-Travel-Safety-Tunisia-America-')" class="clearfix">
+                    <div data-post-id="635168" class="new short newmftp" data-short-story="635168" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635168/Paedophiles-rapists-let-off-cautions-facing-courts" title="Paedophiles and rapists let off with cautions instead of facing courts" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Paedophiles rapists let off cautions facing courts')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634594_1.jpg" alt="Spain-Holiday-Portugal-Deal-Travel-Safety-Tunisia-America-" title="Spain-Holiday-Portugal-Deal-Travel-Safety-Tunisia-America-">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634594_1.jpg" alt="Spain-Holiday-Portugal-Deal-Travel-Safety-Tunisia-America-" title="Spain-Holiday-Portugal-Deal-Travel-Safety-Tunisia-America-"></noscript>                </div>
-                <h4 itemprop="name">Britons panic buying holidays to Spain and Portugal fearing ‘there’s no where else safe’</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635168_1.jpg" alt="Paedophiles rapists let off cautions facing courts" title="Paedophiles rapists let off cautions facing courts">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635168_1.jpg" alt="Paedophiles rapists let off cautions facing courts" title="Paedophiles rapists let off cautions facing courts"></noscript>                </div>
+                <h4 itemprop="name">Paedophiles and rapists let off with cautions instead of facing courts</h4>
             </a>
         </div>
-                    <div data-post-id="634583" class="new short newmftp" data-short-story="634583" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634583/cabbie-court-challenge-London-mayor-Boris-cycle-superhighway" title="Angry cabbies' court challenge to building of London mayor's cycle superhighway" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'cabbie court challenge London mayor Boris cycle superhighway')" class="clearfix">
+                    <div data-post-id="635136" class="new short newmftp" data-short-story="635136" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635136/Was-murder-of-Brinks-Mat-gang-boss-John-Palmer-connected-to-Hatton-Garden-heist" title="Was murder of Brinks Mat gang boss John Palmer connected to Hatton Garden heist?" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Was murder of Brinks Mat gang boss John Palmer connected to Hatton Garden heist?')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634583_1.jpg" alt="cabbie court challenge London mayor Boris cycle superhighway" title="cabbie court challenge London mayor Boris cycle superhighway">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634583_1.jpg" alt="cabbie court challenge London mayor Boris cycle superhighway" title="cabbie court challenge London mayor Boris cycle superhighway"></noscript>                </div>
-                <h4 itemprop="name">Angry cabbies' court challenge to building of London mayor's cycle superhighway</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635136_1.jpg" alt="Was murder of Brinks Mat gang boss John Palmer connected to Hatton Garden heist?" title="Was murder of Brinks Mat gang boss John Palmer connected to Hatton Garden heist?">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635136_1.jpg" alt="Was murder of Brinks Mat gang boss John Palmer connected to Hatton Garden heist?" title="Was murder of Brinks Mat gang boss John Palmer connected to Hatton Garden heist?"></noscript>                </div>
+                <h4 itemprop="name">Was murder of Brinks Mat gang boss John Palmer connected to Hatton Garden heist?</h4>
             </a>
         </div>
-                    <div data-post-id="634578" class="new short newmftp" data-short-story="634578" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634578/BREAKING-British-anti-terror-police-arrest-two-more-men" title="BREAKING: Police arrest two more men in Syrian-related terror investigation" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'BREAKING: British anti-terror police arrest two more men ')" class="clearfix">
+                    <div data-post-id="635098" class="new short newmftp" data-short-story="635098" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/635098/alarm-beach-washed-away-overnight-Devon" title="Alarm over beach that washed away OVERNIGHT in Devon" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'alarm beach washed away overnight Devon')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634578_1.jpg" alt="BREAKING: British anti-terror police arrest two more men " title="BREAKING: British anti-terror police arrest two more men ">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634578_1.jpg" alt="BREAKING: British anti-terror police arrest two more men " title="BREAKING: British anti-terror police arrest two more men "></noscript>                </div>
-                <h4 itemprop="name">BREAKING: Police arrest two more men in Syrian-related terror investigation</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635098_1.jpg" alt="alarm beach washed away overnight Devon" title="alarm beach washed away overnight Devon">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/635098_1.jpg" alt="alarm beach washed away overnight Devon" title="alarm beach washed away overnight Devon"></noscript>                </div>
+                <h4 itemprop="name">Alarm over beach that washed away OVERNIGHT in Devon</h4>
             </a>
         </div>
-                    <div data-post-id="634552" class="last new short newmftp" data-short-story="634552" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
-            <a href="/news/uk/634552/Bomb-Plaistow-Newham-Second-World-War-bomb-east-London" title="Emergency evacuation after unexploded Second World War bomb discovered" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'Bomb Plaistow Newham Second World War bomb east London')" class="clearfix">
+                    <div data-post-id="634802" class="last new short newmftp" data-short-story="634802" data-vr-contentbox="" itemscope itemtype="http://schema.org/Article">
+            <a href="/news/uk/634802/New-law-Muslims-Sharia-prosection" title="Publicly demanding Sharia law and hate messages towards Army could become illegal" onclick="ExpressApp.GoogleAnalytics.TrackEvent('More UK', 'New law Muslims Sharia prosection')" class="clearfix">
                 <div class="lazy-container">
-                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634552_1.jpg" alt="Bomb Plaistow Newham Second World War bomb east London" title="Bomb Plaistow Newham Second World War bomb east London">
-<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634552_1.jpg" alt="Bomb Plaistow Newham Second World War bomb east London" title="Bomb Plaistow Newham Second World War bomb east London"></noscript>                </div>
-                <h4 itemprop="name">Emergency evacuation after unexploded Second World War bomb discovered</h4>
+                    <img class="lazy" src="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" data-src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634802_1.jpg" alt="New law Muslims Sharia prosection" title="New law Muslims Sharia prosection">
+<noscript><img class="lazy-fallback" src="http://cdn.images.express.co.uk/img/dynamic/1/183x122/634802_1.jpg" alt="New law Muslims Sharia prosection" title="New law Muslims Sharia prosection"></noscript>                </div>
+                <h4 itemprop="name">Publicly demanding Sharia law and hate messages towards Army could become illegal</h4>
             </a>
         </div>
             </section>
@@ -1272,10 +1272,10 @@ utag_data = {
             <span class="header">TODAY'S PAPER</span>
             <div>
                 <a href="/ourpaper" class="image hoverException">
-                    <img src="http://cdn.images.express.co.uk/img/covers/70x91/front_2016-01-15.jpg" width="70" height="88" alt="todays-paper" title="Today&#039;s paper title" />                    <span class="hover-fix"></span>
+                    <img src="http://cdn.images.express.co.uk/img/covers/70x91/front_2016-01-17.jpg" width="70" height="88" alt="todays-paper" title="Today&#039;s paper title" />                    <span class="hover-fix"></span>
                 </a>
                 <div class="datetime">
-                    Friday, 15th January 2016                </div>
+                    Sunday, 17th January 2016                </div>
                 <p class="description">
                     See today's front and back pages, download the newspaper,
                     order back issues and use the historic Daily Express

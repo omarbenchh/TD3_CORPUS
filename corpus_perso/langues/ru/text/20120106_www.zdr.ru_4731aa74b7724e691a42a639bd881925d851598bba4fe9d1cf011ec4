@@ -314,11 +314,21 @@
         
             </div>    
     <div class="left">       
-        <div class="banner_container"><div class="banner"><!--BANNER--><!--160x600 Begun--><script type="text/javascript">
-var begun_auto_pad = 273243245;
-var begun_block_id = 274752369;
-</script>
-<script src="http://autocontext.begun.ru/autocontext2.js" type="text/javascript"></script><!--/BANNER--></div></div>
+        <div class="banner_container"><div class="banner"><!--BANNER--><!--160x600 Yandex--><!-- Яндекс.Директ -->
+<script type="text/javascript">
+yandex_partner_id = 80562;
+yandex_site_bg_color = 'FFFFFF';
+yandex_site_charset = 'windows-1251';
+yandex_ad_format = 'direct';
+yandex_direct_type = '160x600';
+yandex_direct_header_bg_color = '66CCCC';
+yandex_direct_title_color = '009999';
+yandex_direct_url_color = '009999';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = '66CCCC';
+yandex_direct_favicon = true;
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+</script><!--/BANNER--></div></div>
     </div>
     
     <div class="articles-x">
@@ -326,13 +336,13 @@ var begun_block_id = 274752369;
         <h2 class="bliss solid-orange">Также в новостях</h2>
 
                 <div class="item first">
-          <img src="/.cache/images/img_6/100x100_1_0_1_0__home_zdr_newzdr_pic-new_2016-01-15_image.jpeg" alt="" width="100" height="100" class="pic" />          <div class="subtitle">
+          <img src="/.cache/images/img_b/100x100_1_0_1_0__home_zdr_newzdr_pic-new_2016-01-15_IMG_8379.JPG" alt="" width="100" height="100" class="pic" />          <div class="subtitle">
               <a href="/news/chernika_tsitrusy_i_krasnoe_vino_protiv_impotentsii" class="subtitle">Черника, цитрусы и красное вино против импотенции</a>
               <p>Как известно, физические упражнения улучшают эректильную функцию мужчины. Но не менее важно...</p>
           </div>
         </div>
                 <div class="item first">
-          <img src="/.cache/images/img_6/100x100_1_0_1_0__home_zdr_newzdr_pic-new_2016-01-15_image.jpeg" alt="" width="100" height="100" class="pic" />          <div class="subtitle">
+          <img src="/.cache/images/img_b/100x100_1_0_1_0__home_zdr_newzdr_pic-new_2016-01-15_IMG_8378.JPG" alt="" width="100" height="100" class="pic" />          <div class="subtitle">
               <a href="/news/my_mojem_ispytyvat_emotsii_kotorye_slyshim" class="subtitle">Мы можем испытывать эмоции, которые слышим</a>
               <p>Интонация, с которой мы говорим, влияет не только на собеседника, но и на нас самих</p>
           </div>
@@ -466,7 +476,7 @@ var begun_block_id = 274752369;
                                <input id="p1" name="password" type="password" placeholder="Пароль" />
                                <input id="p2" name="password2" type="password" placeholder="Подтверждение пароля" />
                                <br />
-                               <input id="code" name="code" type="text" placeholder="7 + 6 = ?" />
+                               <input id="code" name="code" type="text" placeholder="2 + 6 = ?" />
                                <br />
                                Выберите аватар:<br />
                                
@@ -523,14 +533,24 @@ var begun_block_id = 274752369;
                        <a class="subtitle" href="/contests/konkurs_sportivnoe_vdokhnovenie">«Спортивное вдохновение»</a>
                        <img src="/.cache/images/img_4/100x10000_1_0_0_0__home_zdr_newzdr_pic-new_2015-05-19_Jabra_Sport_Pulse_Lifestyle_05.png" alt="" width="100" height="" align="left" />                       Подведены итоги конкурса! Спасибо всем участникам, поздравляем победителей!
                    </div>
-                               <div class="banner_container"><div class="banner"><!--BANNER--><!--300x600 mayak--><object type="application/x-shockwave-flash" width="300" height="250" data="/pic-new/banners/mayak-zdr.swf?clickTAG=http%3A%2F%2Fzdr.ru%2Fcms%2Fmodule_banners%2Fbanner_click.php%3Fid%3D90">
-  <param name="movie" value="/pic-new/banners/mayak-zdr.swf?clickTAG=http%3A%2F%2Fzdr.ru%2Fcms%2Fmodule_banners%2Fbanner_click.php%3Fid%3D90">
-  <param name="quality" value="high">
-  <param name="wmode" value="opaque">
-</object>
-<!--/BANNER--></div></div>
+                               <div class="banner_container"><div class="banner"><!--BANNER--><!--300x600 imEinklang copy copy--><a href="http://zdr.ru/cms/module_banners/banner_click.php?id=82"><img src="/pic-new/2015-09-21/imEinklang_04-2015.jpg" width="300" height="406" border="0" /></a><!--/BANNER--></div></div>
                                           <div class="consult">
                        <h2 class="bliss dotted-blue"><a href="/consulting/">Консультации</a></h2>
+                                          <a href="/consulting/Endokrinolog" class="question">
+                           <div class="frame"><img src="/.cache/images/img_0/38x43_1_0_1_0__home_zdr_newzdr_images_avatars_avatar_18022.jpg" width="38" height="43" /></div>
+                           <div class="text">
+                               <div>Манушакян Григорий Арамович,</div>
+                               <div>Врач эндокринолог</div>
+                               <div class="q"><b>Вопрос:</b>  Добрый вечер! В феврале готовлюсь на стимуляцию овуляции. Все анализы в норме, кроме...</div>
+                          </div>
+                          <div class="answer">
+                               Добрый день! 
+
+ У Вас низконормальный ТТГ и нормальный св. Т4, не стоит беспокоиться. Для...
+                          </div>
+                       </a>
+                       
+                       <a href="#" data-expert="18022" data-title="Задать вопрос эксперту:&lt;br&gt;Манушакян Григорий Арамович (Врач эндокринолог)" class="ask">Задать вопрос <img width="9" height="9" src="/images/arrow.png"></a>
                                           <a href="/consulting/beetl" class="question">
                            <div class="frame"><img src="/.cache/images/img_8/38x43_1_0_1_0__home_zdr_newzdr_pic-new_2015-12-04_Тамраова Ольга Борисовна.JPG" width="38" height="43" /></div>
                            <div class="text">
@@ -546,19 +566,6 @@ var begun_block_id = 274752369;
                        </a>
                        
                        <a href="#" data-expert="64620" data-title="Задать вопрос эксперту:&lt;br&gt;Тамразова Ольга Борисовна (Врач-дерматовенеролог)" class="ask">Задать вопрос <img width="9" height="9" src="/images/arrow.png"></a>
-                                          <a href="/consulting/valda-vaskes" class="question">
-                           <div class="frame"><img src="/.cache/images/img_4/38x43_1_0_1_0__home_zdr_newzdr_pic-new_expert_valyda-vaskes-tatyjana-petrovna.jpg" width="38" height="43" /></div>
-                           <div class="text">
-                               <div>Вальда-Васкес Татьяна Петровна,</div>
-                               <div>Врач-гинеколог</div>
-                               <div class="q"><b>Вопрос:</b>  Здравствуйте. Мне 24 года. В октябре 2015 года я родила. С роддома меня выписали со...</div>
-                          </div>
-                          <div class="answer">
-                               Здравствуйте! Сложно оценивать ситуацию по скудным данным, но, раз у Вас не было послеродового...
-                          </div>
-                       </a>
-                       
-                       <a href="#" data-expert="64617" data-title="Задать вопрос эксперту:&lt;br&gt;Вальда-Васкес Татьяна Петровна (Врач-гинеколог)" class="ask">Задать вопрос <img width="9" height="9" src="/images/arrow.png"></a>
                                       </div>
                    <div class="modal form" id="form-question">
     <div class="title"><span></span><div><img src="/images/btn-close.png" /></div></div>
@@ -608,24 +615,11 @@ var begun_block_id = 274752369;
                 <div class="footer">
                 
                     <div class="top-banner">
-                        <!--BANNER--><!--footer Yandex--><!-- Яндекс.Директ -->
-<script type="text/javascript">
-yandex_partner_id = 80562;
-yandex_site_bg_color = 'FFFFFF';
-yandex_site_charset = 'windows-1251';
-yandex_ad_format = 'direct';
-yandex_font_size = 0.9;
-yandex_direct_type = 'horizontal';
-yandex_direct_limit = 4;
-yandex_direct_title_font_size = 3;
-yandex_direct_header_bg_color = '66CCCC';
-yandex_direct_title_color = '009999';
-yandex_direct_url_color = '009999';
-yandex_direct_text_color = '000000';
-yandex_direct_hover_color = '66CCCC';
-yandex_direct_favicon = true;
-document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
-</script><!--/BANNER-->
+                        <!--BANNER--><!--footer Begun--><script type="text/javascript">
+var begun_auto_pad = 273243245;
+var begun_block_id = 275182505;
+</script>
+<script src="http://autocontext.begun.ru/autocontext2.js" type="text/javascript"></script><!--/BANNER-->
                     </div>
                    
                    <div class="slinks"><!--1088125917232--><script type="text/javascript">var _acic={dataProvider:100};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www2.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()</script></div>                    

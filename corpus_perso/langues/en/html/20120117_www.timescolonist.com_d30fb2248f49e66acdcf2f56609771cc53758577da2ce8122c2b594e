@@ -643,11 +643,11 @@ jQuery(document).ready(function(){
     <nav>
       <ul class="no-list nav" role="menu">
                                 <li class='dropdown' role="menuitem">
-    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_25466512_1' class='dropdown-toggle' >
+    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_3257966_1' class='dropdown-toggle' >
       OBITUARIES
               <b class="caret"></b>
           </a>
-          <ul aria-labelledby="list_7_2857_1366393040_25466512_1" role="menu" class="dropdown-menu">
+          <ul aria-labelledby="list_7_2857_1366393040_3257966_1" role="menu" class="dropdown-menu">
                   <li role="menuitem">
         <a href="http://www.legacy.com/obituaries/timescolonist/" target="_blank">
           VIEW OBITUARIES
@@ -671,11 +671,11 @@ jQuery(document).ready(function(){
           </a>
       </li>
                         <li class='dropdown' role="menuitem">
-    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_25466512_4' class='dropdown-toggle' >
+    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_3257966_4' class='dropdown-toggle' >
       Homes
               <b class="caret"></b>
           </a>
-          <ul aria-labelledby="list_7_2857_1366393040_25466512_4" role="menu" class="dropdown-menu">
+          <ul aria-labelledby="list_7_2857_1366393040_3257966_4" role="menu" class="dropdown-menu">
                   <li role="menuitem">
         <a href="http://classifieds.timescolonist.com/victoria/real-estate-for-sale/search" target="_blank">
           For Sale
@@ -694,11 +694,11 @@ jQuery(document).ready(function(){
           </a>
       </li>
                         <li class='dropdown' role="menuitem">
-    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_25466512_6' class='dropdown-toggle' >
+    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_3257966_6' class='dropdown-toggle' >
       CELEBRATIONS
               <b class="caret"></b>
           </a>
-          <ul aria-labelledby="list_7_2857_1366393040_25466512_6" role="menu" class="dropdown-menu">
+          <ul aria-labelledby="list_7_2857_1366393040_3257966_6" role="menu" class="dropdown-menu">
                   <li role="menuitem">
         <a href="http://www.legacy.com/celebration/timescolonist/" target="_blank">
           VIEW CELEBRATIONS 
@@ -712,11 +712,11 @@ jQuery(document).ready(function(){
           </ul>
       </li>
                         <li class='dropdown' role="menuitem">
-    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_25466512_7' class='dropdown-toggle' >
+    <a href='Javascript:void(0)' data-target='#' data-toggle='dropdown' role='button' id='item_7_2857_1366393040_3257966_7' class='dropdown-toggle' >
       Place An Ad
               <b class="caret"></b>
           </a>
-          <ul aria-labelledby="list_7_2857_1366393040_25466512_7" role="menu" class="dropdown-menu">
+          <ul aria-labelledby="list_7_2857_1366393040_3257966_7" role="menu" class="dropdown-menu">
                   <li role="menuitem">
         <a href="http://timescolonist.adperfect.com/" target="_blank">
           Self-Serve
@@ -742,11 +742,11 @@ jQuery(document).ready(function(){
     <nav>
       <ul class="no-list nav" role="menu">
         <li class="dropdown" role="menuitem">
-		            <a class="dropdown-toggle btn " id="top_item_7_2857_1366393040_25466512" data-toggle="dropdown" data-target="#" href="#">
+		            <a class="dropdown-toggle btn " id="top_item_7_2857_1366393040_3257966" data-toggle="dropdown" data-target="#" href="#">
             Classifieds
             <b class="caret"></b>
           </a>
-		            <ul class="dropdown-menu" role="menu" aria-labelledby="second_list_7_2857_1366393040_25466512">
+		            <ul class="dropdown-menu" role="menu" aria-labelledby="second_list_7_2857_1366393040_3257966">
                                                                 <li role="menuitem">
         <a href="http://www.legacy.com/obituaries/timescolonist/" target="_blank">
           VIEW OBITUARIES
@@ -848,7 +848,7 @@ jQuery(document).ready(function(){
            
             <form action="/life/health/search-results-7.2864" method="get" id="search" class="search span3 search-left">
         <fieldset>
-          <input id="input_25466516" size="25" class="search" type="text" name="q" value="" placeholder="Search the Times Colonist" autocomplete="off"/>
+          <input id="input_3257970" size="25" class="search" type="text" name="q" value="" placeholder="Search the Times Colonist" autocomplete="off"/>
           <input class="submit" type="submit" value="Search" />
         </fieldset>
       </form>
@@ -1219,7 +1219,7 @@ SIGN-IN
   <script type="text/javascript">stLight.options({publisher: "0127ec72-041c-4bdd-94df-ec37da7c1849"});</script>
 
   <section class="featured-story-carousel single">
-    <div id="featured-story-carousel_25466533_7_853" class="carousel slide">
+    <div id="featured-story-carousel_3257987_7_853" class="carousel slide">
       <div class="carousel-inner">
                             
                         
@@ -1279,8 +1279,8 @@ SIGN-IN
                                         
                   </div>                 </div>               </div>             </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </div>       <div class="top-controls clearfix">
         <nav>
-          <a class="carousel-control left" href="#featured-story-carousel_25466533_7_853" data-slide="prev" title="Previous Story">Previous</a>
-          <a class="carousel-control right" href="#featured-story-carousel_25466533_7_853" data-slide="next" title="Next Story">Next</a>
+          <a class="carousel-control left" href="#featured-story-carousel_3257987_7_853" data-slide="prev" title="Previous Story">Previous</a>
+          <a class="carousel-control right" href="#featured-story-carousel_3257987_7_853" data-slide="next" title="Next Story">Next</a>
         </nav>
       </div>
     </div>
@@ -1288,35 +1288,35 @@ SIGN-IN
 
   <script type="text/javascript">
     console.log("testing scrollable carousel");
-    $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853').gmgpausablecarousel({
+    $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853').gmgpausablecarousel({
           interval: false,
           pills: true
     });
    
     $('.featured-story-carousel.multiple .carousel-control').on('click',
        function () {
-         $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853').gmgpausablecarousel('resumesliding_carousel');
+         $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853').gmgpausablecarousel('resumesliding_carousel');
        }
     );
     
-    $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853 .carousel-pills span').on('click',
+    $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853 .carousel-pills span').on('click',
         function () {
             if (typeof (console) != 'undefined') {  console.log ('intention: to stop the carousel from auto-rotate');  }
-            $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853').gmgpausablecarousel('stopsliding_carousel');
+            $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853').gmgpausablecarousel('stopsliding_carousel');
         }
     );
     
-    $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853').on('mouseleave',
+    $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853').on('mouseleave',
        function () {
        	 if (typeof (console) != 'undefined') {  console.log ('intention: mouseleave to start the carousel auto-rotate');  }
-         $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853').gmgpausablecarousel('resumesliding_carousel');
+         $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853').gmgpausablecarousel('resumesliding_carousel');
        }
     );
     
-    $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853').on('mouseenter',
+    $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853').on('mouseenter',
         function () {
             if (typeof (console) != 'undefined') {  console.log ('intention: mouseenter to stop the carousel from auto-rotate');  }
-            $('.featured-story-carousel.multiple #featured-story-carousel_25466533_7_853').gmgpausablecarousel('stopsliding_carousel');
+            $('.featured-story-carousel.multiple #featured-story-carousel_3257987_7_853').gmgpausablecarousel('stopsliding_carousel');
         }
     );
 
@@ -1357,6 +1357,32 @@ SIGN-IN
 	                  <hgroup>
 	                    	                      <h2 >
 	                    						<div class="mediaBadge"></div>
+	                    <a href="/life/health/the-doctor-game-do-you-really-need-that-antibiotic-1.2152579" >
+	                    	                      The Doctor Game: Do you really need that antibiotic?
+	                    	                    </a>
+	                    
+	                    	                      </h2> 
+	                    	                  </hgroup>
+	                </header>
+	               	       		                                          					  
+       
+                
+<div class="wrapper clearfix link ">
+	
+
+                      <p>  What would it be like living in a world without antibiotics, where a simple infection could kill ...</p>
+    	  </div>
+			                
+            </article>
+                      			
+			                        
+                                    
+                                    <article class="span6  ">
+                                                                                         	                
+	                				    <header>
+	                  <hgroup>
+	                    	                      <h2 >
+	                    						<div class="mediaBadge"></div>
 	                    <a href="/life/health/your-good-health-posterior-pain-has-patient-perplexed-1.2151333" >
 	                    	                      Your Good Health: Posterior pain has patient perplexed
 	                    	                    </a>
@@ -1374,7 +1400,13 @@ SIGN-IN
     	  </div>
 			                
             </article>
-                      			
+                               </div>
+                
+		       				        
+                		        
+                     
+        <div class="article-row clearfix  last">
+                    			
 			                        
                                     
                                     <article class="span6  ">
@@ -1400,13 +1432,7 @@ SIGN-IN
     	  </div>
 			                
             </article>
-                               </div>
-                
-		       				        
-                		        
-                     
-        <div class="article-row clearfix  last">
-                    			
+                      			
 			                        
                                     
                                     <article class="span6  ">
@@ -1429,32 +1455,6 @@ SIGN-IN
 	
 
                       <p>  Dear Dr. Roach: I have suffered for several years now from irritable bowel syndrome. I believe my...</p>
-    	  </div>
-			                
-            </article>
-                      			
-			                        
-                                    
-                                    <article class="span6  ">
-                                                                                         	                
-	                				    <header>
-	                  <hgroup>
-	                    	                      <h2 >
-	                    						<div class="mediaBadge"></div>
-	                    <a href="/life/health/single-moms-most-sleep-deprived-study-finds-1.2148835" >
-	                    	                      Single moms most sleep-deprived, study finds
-	                    	                    </a>
-	                    
-	                    	                      </h2> 
-	                    	                  </hgroup>
-	                </header>
-	               	       		                                          					  
-       
-                
-<div class="wrapper clearfix link ">
-	
-
-                      <p>  Who are the most sleep-deprived people? U.S. researchers say the answer is clear: single mothers....</p>
     	  </div>
 			                
             </article>
@@ -1500,6 +1500,32 @@ SIGN-IN
 	                  <hgroup>
 	                    	                      <h2 >
 	                    						<div class="mediaBadge"></div>
+	                    <a href="/life/health/single-moms-most-sleep-deprived-study-finds-1.2148835" >
+	                    	                      Single moms most sleep-deprived, study finds
+	                    	                    </a>
+	                    
+	                    	                      </h2> 
+	                    	                  </hgroup>
+	                </header>
+	               	       		                                          					  
+       
+                
+<div class="wrapper clearfix link ">
+	
+
+                      <p>  Who are the most sleep-deprived people? U.S. researchers say the answer is clear: single mothers....</p>
+    	  </div>
+			                
+            </article>
+                      			
+			                        
+                                    
+                                    <article class="span6  ">
+                                                                                         	                
+	                				    <header>
+	                  <hgroup>
+	                    	                      <h2 >
+	                    						<div class="mediaBadge"></div>
 	                    <a href="/life/health/your-good-health-specialist-clarifies-psa-testing-1.2148360" >
 	                    	                      Your Good Health: Specialist clarifies PSA testing
 	                    	                    </a>
@@ -1517,7 +1543,13 @@ SIGN-IN
     	  </div>
 			                
             </article>
-                      			
+                               </div>
+                
+		       				        
+                		        
+                     
+        <div class="article-row clearfix separator ">
+                    			
 			                        
                                     
                                     <article class="span6  ">
@@ -1543,13 +1575,7 @@ SIGN-IN
     	  </div>
 			                
             </article>
-                               </div>
-                
-		       				        
-                		        
-                     
-        <div class="article-row clearfix separator ">
-                    			
+                      			
 			                        
                                     
                                     <article class="span6  ">
@@ -1575,7 +1601,13 @@ SIGN-IN
     	  </div>
 			                
             </article>
-                      			
+                               </div>
+                
+		       				        
+                		        
+                     
+        <div class="article-row clearfix  last">
+                    			
 			                        
                                     
                                     <article class="span6  ">
@@ -1601,13 +1633,7 @@ SIGN-IN
     	  </div>
 			                
             </article>
-                               </div>
-                
-		       				        
-                		        
-                     
-        <div class="article-row clearfix  last">
-                    			
+                      			
 			                        
                                     
                                     <article class="span6  ">
@@ -1630,32 +1656,6 @@ SIGN-IN
 	
 
                       <p>  Dear Dr. Roach: I am a 66-year-old woman who had early-stage breast cancer and routine sessions ...</p>
-    	  </div>
-			                
-            </article>
-                      			
-			                        
-                                    
-                                    <article class="span6  ">
-                                                                                         	                
-	                				    <header>
-	                  <hgroup>
-	                    	                      <h2 >
-	                    						<div class="mediaBadge"></div>
-	                    <a href="/life/health/the-doctor-game-will-a-drink-a-day-keep-the-doctor-away-1.2143352" >
-	                    	                      The Doctor Game: Will a drink a day keep the doctor away?
-	                    	                    </a>
-	                    
-	                    	                      </h2> 
-	                    	                  </hgroup>
-	                </header>
-	               	       		                                          					  
-       
-                
-<div class="wrapper clearfix link ">
-	
-
-                      <p>  We’ve been told for years that a nutritious apple a day helps to keep the doctor away. But could ...</p>
     	  </div>
 			                
             </article>
@@ -1713,12 +1713,12 @@ SIGN-IN
 		          </h2>
       </header>
     
-    <div class="carousel slide" id="carousel_25466537_7_463">
+    <div class="carousel slide" id="carousel_3257991_7_463">
       <div class="top-controls clearfix">
 
     		        <nav> 
-          <a class="carousel-control left" href="#carousel_25466537_7_463" data-slide="prev"><img src="/gmg/img/icons/iconPrevStory.png" alt="Previous"></a>
-          <a class="carousel-control right" href="#carousel_25466537_7_463" data-slide="next"><img src="/gmg/img/icons/iconNextStory.png" alt="Next"></a>
+          <a class="carousel-control left" href="#carousel_3257991_7_463" data-slide="prev"><img src="/gmg/img/icons/iconPrevStory.png" alt="Previous"></a>
+          <a class="carousel-control right" href="#carousel_3257991_7_463" data-slide="next"><img src="/gmg/img/icons/iconNextStory.png" alt="Next"></a>
         </nav>
     
       </div>
@@ -1899,7 +1899,7 @@ SIGN-IN
   </div>
   <script type="text/javascript">
     		
-    $('#carousel_25466537_7_463').carousel({
+    $('#carousel_3257991_7_463').carousel({
       	    interval: 0,
 		pills: false
    	      });
@@ -1937,13 +1937,13 @@ SIGN-IN
     </h2>
   </header>
   
-  <ul class="nav nav-tabs" id="tab-view-element-tabs_7_921_1355171106_25466538">
-                                  <li class="active"><a href="#tabs_7_921_1355171106_25466538_tab1" data-toggle="tab">Fitness</a></li>
-                            <li class=""><a href="#tabs_7_921_1355171106_25466538_tab2" data-toggle="tab">Women's</a></li>
+  <ul class="nav nav-tabs" id="tab-view-element-tabs_7_921_1355171106_3257992">
+                                  <li class="active"><a href="#tabs_7_921_1355171106_3257992_tab1" data-toggle="tab">Fitness</a></li>
+                            <li class=""><a href="#tabs_7_921_1355171106_3257992_tab2" data-toggle="tab">Women's</a></li>
       </ul>
                  
   <div class="tab-content">
-                      <div class="tab-pane active" id="tabs_7_921_1355171106_25466538_tab1">
+                      <div class="tab-pane active" id="tabs_7_921_1355171106_3257992_tab1">
         
 
 
@@ -1990,7 +1990,7 @@ SIGN-IN
      
           
        </div>
-                <div class="tab-pane" id="tabs_7_921_1355171106_25466538_tab2">
+                <div class="tab-pane" id="tabs_7_921_1355171106_3257992_tab2">
         
 
 
@@ -2068,13 +2068,13 @@ SIGN-IN
     </h2>
   </header>
   
-  <ul class="nav nav-tabs" id="tab-view-element-tabs_7_524_1355236676_25466541">
-                                  <li class="active"><a href="#tabs_7_524_1355236676_25466541_tab1" data-toggle="tab">Most Recent</a></li>
-                            <li class=""><a href="#tabs_7_524_1355236676_25466541_tab2" data-toggle="tab">Most Read</a></li>
+  <ul class="nav nav-tabs" id="tab-view-element-tabs_7_524_1355236676_3257995">
+                                  <li class="active"><a href="#tabs_7_524_1355236676_3257995_tab1" data-toggle="tab">Most Recent</a></li>
+                            <li class=""><a href="#tabs_7_524_1355236676_3257995_tab2" data-toggle="tab">Most Read</a></li>
       </ul>
                  
   <div class="tab-content">
-                      <div class="tab-pane active" id="tabs_7_524_1355236676_25466541_tab1">
+                      <div class="tab-pane active" id="tabs_7_524_1355236676_3257995_tab1">
         
 
 
@@ -2086,6 +2086,10 @@ SIGN-IN
            
   <ul class='list'>  
                       <li>
+  <h3>
+		<a class="a-link-view" href="/life/health/the-doctor-game-do-you-really-need-that-antibiotic-1.2152579" >The Doctor Game: Do you really need that antibiotic?</a>
+      </h3>
+  </li>                        <li>
   <h3>
 		<a class="a-link-view" href="/life/health/your-good-health-posterior-pain-has-patient-perplexed-1.2151333" >Your Good Health: Posterior pain has patient perplexed</a>
       </h3>
@@ -2113,15 +2117,11 @@ SIGN-IN
   <h3>
 		<a class="a-link-view" href="/life/health/the-doctor-game-potassium-like-sex-and-money-1.2147571" >The Doctor Game: Potassium like sex and money  </a>
       </h3>
-  </li>                        <li>
-  <h3>
-		<a class="a-link-view" href="/life/health/your-good-health-lower-blood-clotting-goal-ok-1.2145384" >Your Good Health: Lower blood-clotting goal OK</a>
-      </h3>
   </li>            </ul>
      
           
        </div>
-                <div class="tab-pane" id="tabs_7_524_1355236676_25466541_tab2">
+                <div class="tab-pane" id="tabs_7_524_1355236676_3257995_tab2">
         
 
 
@@ -2134,15 +2134,15 @@ SIGN-IN
   <ul class='list'>  
                       <li>
   <h3>
+		<a class="a-link-view" href="/life/health/the-doctor-game-do-you-really-need-that-antibiotic-1.2152579" >The Doctor Game: Do you really need that antibiotic?</a>
+      </h3>
+  </li>                        <li>
+  <h3>
 		<a class="a-link-view" href="/life/health/your-good-health-fluttery-feeling-can-be-twitch-in-chest-muscle-1.665204" >Your Good Health: Fluttery feeling can be twitch in chest muscle</a>
       </h3>
   </li>                        <li>
   <h3>
 		<a class="a-link-view" href="/life/health/your-good-health-posterior-pain-has-patient-perplexed-1.2151333" >Your Good Health: Posterior pain has patient perplexed</a>
-      </h3>
-  </li>                        <li>
-  <h3>
-		<a class="a-link-view" href="/life/health/your-good-health-colonoscopy-prep-can-have-effects-on-symptoms-of-ibs-1.2149796" >Your Good Health: Colonoscopy prep can have effects on symptoms of IBS</a>
       </h3>
   </li>                        <li>
   <h3>
@@ -2154,15 +2154,15 @@ SIGN-IN
       </h3>
   </li>                        <li>
   <h3>
-		<a class="a-link-view" href="/life/health/dr-roach-nuts-slow-down-the-digestive-tract-1.492819" >Dr. Roach: Nuts slow down the digestive tract</a>
-      </h3>
-  </li>                        <li>
-  <h3>
 		<a class="a-link-view" href="/life/health/your-good-health-vitamins-can-help-ease-foot-pain-1.79022" >Your Good Health: Vitamins can help ease foot pain </a>
       </h3>
   </li>                        <li>
   <h3>
-		<a class="a-link-view" href="/life/health/looking-to-eat-less-meat-1.2148831" >Looking to eat less meat?</a>
+		<a class="a-link-view" href="/life/health/dr-roach-nuts-slow-down-the-digestive-tract-1.492819" >Dr. Roach: Nuts slow down the digestive tract</a>
+      </h3>
+  </li>                        <li>
+  <h3>
+		<a class="a-link-view" href="/life/health/your-good-health-bleeding-pore-on-nose-diagnosed-as-cancer-1.2095681" >Your Good Health: Bleeding pore on nose diagnosed as cancer</a>
       </h3>
   </li>            </ul>
      

@@ -98,7 +98,7 @@ ga('set', {
 'dimension3': "Obesity / Weight Loss / Fitness",
 'dimension5': "older",
 'dimension6': "desktop",
-'dimension8': "3"
+'dimension8': "4"
 });
 
 		var viewportWidth = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
@@ -841,7 +841,7 @@ googletag.cmd.push(function() {
 
 
 <div class="print">
-<a href="?print=0546541c00cb2a266e6d571a67f48518" rel="nofollow" title="View print preview" target="_blank"></a>
+<a href="?print=1b289104dbddb64516a9ae172966b9ed" rel="nofollow" title="View print preview" target="_blank"></a>
 </div>
 
 </div><!-- /toolbox -->
@@ -979,7 +979,7 @@ googletag.cmd.push(function() {
             <a href="/email-an-article/240209" rel="nofollow" title="email this article">email</a>
             </span>
         </div>        
-		        <div class="print">			            <a href="?print=0546541c00cb2a266e6d571a67f48518" rel="nofollow" title="View print preview" target="_blank"><span class="toolbox_label">print</span></a>
+		        <div class="print">			            <a href="?print=1b289104dbddb64516a9ae172966b9ed" rel="nofollow" title="View print preview" target="_blank"><span class="toolbox_label">print</span></a>
         </div>        
 
     </div>
@@ -1064,7 +1064,7 @@ googletag.cmd.push(function() {
 		
 				
 		<p><strong>MLA</strong><br />
-		Rattue, Petra. "GLP-1 Effective Weight Loss Therapy For Diabetes Patients." <i>Medical News Today</i>. MediLexicon, Intl., 11 Jan. 2012. Web.<br>15 Jan. 2016. &lt;http://www.medicalnewstoday.com/articles/240209.php&gt;		</p>
+		Rattue, Petra. "GLP-1 Effective Weight Loss Therapy For Diabetes Patients." <i>Medical News Today</i>. MediLexicon, Intl., 11 Jan. 2012. Web.<br>17 Jan. 2016. &lt;http://www.medicalnewstoday.com/articles/240209.php&gt;		</p>
 		
 		<hr size="1" />
 		
@@ -1826,11 +1826,11 @@ googletag.cmd.push(function() {
 	<div class="suggested_reading_container ">
 				<div class='suggested_reading_inner column1'>
 				<div class='suggested_item'>
-		<a href="/articles/298407.php?sr" title="Drug leads to significant weight loss for people with type 2 diabetes">
+		<a href="/articles/265723.php?sr" title="Insulin levels determine effect of weight loss on vascular function">
 		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/images/headlines/298/298407/woman-measuring-waist.jpg" alt="" />
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/vascular/thumbs/image3.jpg" alt="" />
 		</div>
-		<span>Drug leads to significant weight loss for people with type 2 diabetes</span>
+		<span>Insulin levels determine effect of weight loss on vascular function</span>
 		</a>
 	</div>
 				</div>
@@ -1846,21 +1846,21 @@ googletag.cmd.push(function() {
 				</div>
 						<div class='suggested_reading_inner column3'>
 				<div class='suggested_item'>
-		<a href="/articles/247285.php?sr" title="FDA Approves New Appetite Suppressant Belviq From Arena Pharmaceuticals">
-		<div class="suggested_item_image">
-			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/fitness-obesity/thumbs/image2.jpg" alt="" />
-		</div>
-		<span>FDA Approves New Appetite Suppressant Belviq From Arena Pharmaceuticals</span>
-		</a>
-	</div>
-				</div>
-						<div class='suggested_reading_inner column4'>
-				<div class='suggested_item'>
 		<a href="/articles/296344.php?sr" title="Weight-loss surgery 'highly effective' for type 2 diabetes remission">
 		<div class="suggested_item_image">
 			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/images/headlines/296/296344/obese-man-measuring-waist.jpg" alt="" />
 		</div>
 		<span>Weight-loss surgery 'highly effective' for type 2 diabetes remission</span>
+		</a>
+	</div>
+				</div>
+						<div class='suggested_reading_inner column4'>
+				<div class='suggested_item'>
+		<a href="/articles/94809.php?sr" title="Diabetes Remission In Obese Patients More Likely With Weight Loss Surgery">
+		<div class="suggested_item_image">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="http://cdn1.medicalnewstoday.com/content/categories/fitness-obesity/thumbs/image1.jpg" alt="" />
+		</div>
+		<span>Diabetes Remission In Obese Patients More Likely With Weight Loss Surgery</span>
 		</a>
 	</div>
 				</div>
@@ -2004,7 +2004,7 @@ twttr.conversion.trackPid('l4bfr');
 }(document, 'script', 'facebook-jssdk'));</script>
 
 	
-	<iframe src="/structure/framework/counters/counters.php?e=ac06b6613d6905fccc0eb723d6c4647c&a=240209&ad=20120111&t=written&t2=aj&ac=21&c=21&u=1&d=0" style="display:none;"></iframe>
+	<iframe src="/structure/framework/counters/counters.php?e=185816983f67123baeb4d7f47d112089&a=240209&ad=20120111&t=written&t2=aj&ac=21&c=21&u=1&d=0" style="display:none;"></iframe>
 	 
 
 	<script>

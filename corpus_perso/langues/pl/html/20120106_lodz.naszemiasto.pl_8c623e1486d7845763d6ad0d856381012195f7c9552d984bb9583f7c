@@ -18,10 +18,10 @@
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2012-01-13 03:33:30">
 <meta property="article:modified_time" content="2012-01-13 21:46:33">
+<meta property="article:tag" content="Sieradz">
 <meta property="article:tag" content="egzotyczne choroby łódź">
 <meta property="article:tag" content="malaria łódź">
 <meta property="article:tag" content="objawy malarii">
-<meta property="article:tag" content="sieradz">
 <meta property="article:tag" content="szpital Biegańskiego">
 <meta property="article:tag" content="zachorowalność na WZW a">
 <meta property="article:publisher" content="http://www.facebook.com/NaszeMiastoLodz">
@@ -276,7 +276,7 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                   </div>
                 </form>
                                   <div>
-                    <a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=235398489840878&amp;state=3d37d77dd36e8113144922a74df0dbb0&amp;response_type=code&amp;sdk=php-sdk-5.0.0&amp;redirect_uri=http%3A%2F%2Flodz.naszemiasto.pl%2Flogowanie%2Fautoryzacja%2F&amp;scope=email" class="button small expand logowanieFacebook facebook-zaloguj" data-track='{ "name":"logowanieFacebook"}'><span class="icon-facebook2"></span> Zaloguj się przez facebook</a>
+                    <a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=235398489840878&amp;state=64d372d8d8ef8d0a6f576b5fa7ff4fd3&amp;response_type=code&amp;sdk=php-sdk-5.0.0&amp;redirect_uri=http%3A%2F%2Flodz.naszemiasto.pl%2Flogowanie%2Fautoryzacja%2F&amp;scope=email" class="button small expand logowanieFacebook facebook-zaloguj" data-track='{ "name":"logowanieFacebook"}'><span class="icon-facebook2"></span> Zaloguj się przez facebook</a>
                   </div>
                               </div>
               <div class="warstwaKontent warstwaRejestracja">
@@ -316,9 +316,9 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                   </li>
       </ul>
               <div class="pogodaBoks">
-          <a href="/pogoda/" title="0&deg;C okresami słaby śnieg">
-            <span class="pogodaIkona icon-slonceChmuraLekkaSnieg"></span>
-            <span class="pogodaTemp">0&deg;C</span>
+          <a href="/pogoda/" title="-3&deg;C umiarkowane zachmurzenie">
+            <span class="pogodaIkona icon-slonceChmuraSrednia"></span>
+            <span class="pogodaTemp">-3&deg;C</span>
           </a>
         </div>
             <nav id="menu-kontener" class="clear">
@@ -1064,10 +1064,10 @@ oG_OSA.id_autor = '1472880';
                   <div class="tagi clearfix">
     <b>Więcej na temat:&nbsp;</b>
     <ul>
-                        <li><a class="tag" href="/tag/egzotyczne-choroby-lodz.html">egzotyczne choroby łódź</a></li>
+                        <li><a class="tag" href="/tag/sieradz.html">Sieradz</a></li>
+                                <li><a class="tag" href="/tag/egzotyczne-choroby-lodz.html">egzotyczne choroby łódź</a></li>
                                 <li><a class="tag" href="/tag/malaria-lodz.html">malaria łódź</a></li>
                                 <li><a class="tag" href="/tag/objawy-malarii.html">objawy malarii</a></li>
-                                <li><a class="tag" href="/tag/sieradz.html">sieradz</a></li>
                                 <li><a class="tag" href="/tag/szpital-bieganskiego.html">szpital Biegańskiego</a></li>
                                 <li><a class="tag" href="/tag/zachorowalnosc-na-wzw-a.html">zachorowalność na WZW a</a></li>
                   </ul>
@@ -1133,13 +1133,66 @@ oG_OSA.id_autor = '1472880';
   <h2 class="boxBelka">Wydarzenia dnia</h2>
   <ul class="listaZeZdjeciem">
         <li>
+      <a href="/artykul/viii-mistrzostwa-polski-w-szermierce-historyczna-bronia-w,3626160,artgal,t,id,tm.html#65815d0f7b15102e,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/78/b0/569bde0793565_o,size,125x90,q,70,h,192a06.jpg" class="lazy " alt="VIII Mistrzostwa Polski w Szermierce Historyczną Bronią w Manufakturze [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/78/b0/569bde0793565_o,size,125x90,q,70,h,192a06.jpg" class="" alt="VIII Mistrzostwa Polski w Szermierce Historyczną Bronią w Manufakturze [ZDJĘCIA]" width="125" height="90"></noscript>
+                                <span class="apla icon-camera" title="Zdjęcia"></span>
+                  </div>
+        <div class="kontent">
+                              <p class="tytul">
+                          VIII Mistrzostwa Polski w Szermierce Historyczną Bronią w Manufakturze [ZDJĘCIA]
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
+      <a href="/artykul/karnawalowe-warsztaty-dla-dzieci-w-lodzkiej-sukcesji-zdjecia,3626142,artgal,t,id,tm.html#65815d0f7b15102e,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/bf/8f/569bd47ade8dc_o,size,125x90,q,70,h,5a8ced.jpg" class="lazy " alt="Karnawałowe warsztaty dla dzieci w łódzkiej Sukcesji [ZDJĘCIA] " width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/bf/8f/569bd47ade8dc_o,size,125x90,q,70,h,5a8ced.jpg" class="" alt="Karnawałowe warsztaty dla dzieci w łódzkiej Sukcesji [ZDJĘCIA] " width="125" height="90"></noscript>
+                                <span class="apla icon-camera" title="Zdjęcia"></span>
+                  </div>
+        <div class="kontent">
+                              <p class="tytul">
+                          Karnawałowe warsztaty dla dzieci w łódzkiej Sukcesji [ZDJĘCIA] 
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
+      <a href="/artykul/pelikan-lowicz-lks-lodz-2-4-sleczka-z-okocimskiego-w-lks,3626134,art,t,id,tm.html#65815d0f7b15102e,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/6e/b5/569bcb463f238_o,size,125x90,q,70,h,e0c4d0.jpg" class="lazy " alt="Pelikan Łowicz - ŁKS Łódź 2:4. Ślęczka z Okocimskiego w ŁKS" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/6e/b5/569bcb463f238_o,size,125x90,q,70,h,e0c4d0.jpg" class="" alt="Pelikan Łowicz - ŁKS Łódź 2:4. Ślęczka z Okocimskiego w ŁKS" width="125" height="90"></noscript>
+                            </div>
+        <div class="kontent">
+                              <p class="tytul">
+                          Pelikan Łowicz - ŁKS Łódź 2:4. Ślęczka z Okocimskiego w ŁKS
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
+      <a href="/artykul/lechia-tomaszow-mazowiecki-znicz-pruszkow-2-1,3626038,art,t,id,tm.html#65815d0f7b15102e,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/f4/85/569b9de39e0ef_o,size,125x90,q,70,h,c74cfd.jpg" class="lazy " alt="Lechia Tomaszów Mazowiecki - Znicz Pruszków 2:1" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/f4/85/569b9de39e0ef_o,size,125x90,q,70,h,c74cfd.jpg" class="" alt="Lechia Tomaszów Mazowiecki - Znicz Pruszków 2:1" width="125" height="90"></noscript>
+                            </div>
+        <div class="kontent">
+                              <p class="tytul">
+                          Lechia Tomaszów Mazowiecki - Znicz Pruszków 2:1
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
       <a href="/artykul/w-grze-o-tron-wygladala-jak-chlopak-ale-zobaczcie-jaka-jest,3624290,artgal,t,id,tm.html#65815d0f7b15102e,1,3,6">
         <div class="img">
                       <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"></noscript>
                                 <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
         <div class="kontent">
-                              <p class="tytul">
+                                <ul class="linkiPoziome clearfix">
+                                            <li class="komentarze"><i class="icon-bubble"></i>1</li>
+                                        </ul>
+                    <p class="tytul">
                           W "Grze o tron" wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]
                       </p>
         </div>
@@ -1158,58 +1211,6 @@ oG_OSA.id_autor = '1472880';
         </div>
       </a>
     </li>
-        <li>
-      <a href="/artykul/centrum-lodzi-bez-pradu-awaria-energetyczna,3625018,art,t,id,tm.html#65815d0f7b15102e,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/1e/1d/5698f9efc8559_o,size,125x90,q,70,h,ab0aee.jpg" class="lazy " alt="Centrum Łodzi bez prądu. Awaria energetyczna" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/1e/1d/5698f9efc8559_o,size,125x90,q,70,h,ab0aee.jpg" class="" alt="Centrum Łodzi bez prądu. Awaria energetyczna" width="125" height="90"></noscript>
-                            </div>
-        <div class="kontent">
-                                <ul class="linkiPoziome clearfix">
-                                            <li class="komentarze"><i class="icon-bubble"></i>8</li>
-                                        </ul>
-                    <p class="tytul">
-                          Centrum Łodzi bez prądu. Awaria energetyczna
-                      </p>
-        </div>
-      </a>
-    </li>
-        <li>
-      <a href="/artykul/w-pabianicach-przechwycono-kontrabande-dwoch-lodzian,3624976,art,t,id,tm.html#65815d0f7b15102e,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/f3/ed/5698f5875b932_o,size,125x90,q,70,h,e49862.jpg" class="lazy " alt="W Pabianicach przechwycono kontrabandę. Dwóch łodzian zatrzymanych w związku z nielegalnym tytoniem" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/f3/ed/5698f5875b932_o,size,125x90,q,70,h,e49862.jpg" class="" alt="W Pabianicach przechwycono kontrabandę. Dwóch łodzian zatrzymanych w związku z nielegalnym tytoniem" width="125" height="90"></noscript>
-                            </div>
-        <div class="kontent">
-                              <p class="tytul">
-                          W Pabianicach przechwycono kontrabandę. Dwóch łodzian zatrzymanych w związku z nielegalnym 
-                      </p>
-        </div>
-      </a>
-    </li>
-        <li>
-      <a href="/artykul/moderat-w-polsce-2016-grupa-wystapi-w-kwietniu-na-trzech,3624606,artgal,t,id,tm.html#65815d0f7b15102e,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/ed/6c/5698f4ad6d4f1_o,size,125x90,q,70,h,b9ff72.jpg" class="lazy " alt="Moderat w Polsce 2016. Grupa wystąpi w kwietniu na trzech koncertach" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/ed/6c/5698f4ad6d4f1_o,size,125x90,q,70,h,b9ff72.jpg" class="" alt="Moderat w Polsce 2016. Grupa wystąpi w kwietniu na trzech koncertach" width="125" height="90"></noscript>
-                                <span class="apla icon-camera" title="Zdjęcia"></span>
-                  </div>
-        <div class="kontent">
-                              <p class="tytul">
-                          Moderat w Polsce 2016. Grupa wystąpi w kwietniu na trzech koncertach
-                      </p>
-        </div>
-      </a>
-    </li>
-        <li>
-      <a href="/artykul/tak-sie-powinno-promowac-sport-zobaczcie-swietny-film-o,3624888,art,t,id,tm.html#65815d0f7b15102e,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="lazy " alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="" alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"></noscript>
-                            </div>
-        <div class="kontent">
-                              <p class="tytul">
-                          Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]
-                      </p>
-        </div>
-      </a>
-    </li>
       </ul>
 </section>
 <div class="rekboks">
@@ -1220,33 +1221,9 @@ oG_OSA.id_autor = '1472880';
  });
   </script>
 </div>
-<section id="polecane" class="boxTlo borderTop sekcjaWaska">
-    <h2 class="boxBelka">Polecane</h2>
-    <ul class="listaZeZdjeciem">
-          <li>
-                <a href="http://lodz.naszemiasto.pl/artykul/konkurs-edukacyjny-oceanarium-3d-zaprzyjaznij-sie-z-jednym,3619057,artgal,t,id,tm.html" title="Konkurs edukacyjny Oceanarium 3D. Zaprzyjaźnij się z jednym z mieszkańców Oceanarium 3D!">
-          <div class="img">
-            <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/c4/bd/5690e8d2173fd_o,size,125x90,q,70,h,2c0097.jpg" class="lazy " alt="Konkurs edukacyjny Oceanarium 3D. Zaprzyjaźnij się z jednym z mieszkańców Oceanarium 3D!" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/c4/bd/5690e8d2173fd_o,size,125x90,q,70,h,2c0097.jpg" class="" alt="Konkurs edukacyjny Oceanarium 3D. Zaprzyjaźnij się z jednym z mieszkańców Oceanarium 3D!" width="125" height="90"></noscript>
-          </div>
-          <div class="kontent">
-            <ul class="linkiPoziome clearfix">
-              <li class="artSpons">art. sponsorowany</li>
-            </ul>
-            <p class="tytul">Konkurs edukacyjny Oceanarium 3D. Zaprzyjaźnij się z jednym z mieszkańców...</p>
-          </div>
-        </a>
-      </li>
-        </ul>
-  </section>
-  
-  <script type="text/javascript">
-  (function($, t) {
-    t.push({elements: $('#polecane a'), href: '/material_karta/boks_polecane', licznik: true});
-  } (GR.DOM, oG_OSA.tracking));
-  </script>
-  <div class="zajawkaHallo lazy" data-original="http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,370x210,q,70,h,25717f.jpg}" style="background-image: url('http://s-nm.ppstatic.pl//g/_blan.gif')">
+<div class="zajawkaHallo lazy" data-original="http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,370x210,q,70,h,8340cb.jpg}" style="background-image: url('http://s-nm.ppstatic.pl//g/_blan.gif')">
   <a href="/hallo">
-    <p>Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]</p>
+    <p>Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]</p>
   </a>
 </div>
 <script type="text/javascript">
@@ -1306,15 +1283,15 @@ oG_OSA.id_autor = '1472880';
     <h2 class="boxBelka">Polecamy</h2>
                   <ul class="listaZeZdjeciem">
           <li>
-                        <a href="http://lodz.naszemiasto.pl/artykul/centrum-lodzi-bez-pradu-awaria-energetyczna,3625018,art,t,id,tm.html" title="Centrum Łodzi bez prądu. Awaria energetyczna">
+                        <a href="http://lodz.naszemiasto.pl/artykul/viii-mistrzostwa-polski-w-szermierce-historyczna-bronia-w,3626160,artgal,t,id,tm.html" title="VIII Mistrzostwa Polski w Szermierce Historyczną Bronią w Manufakturze [ZDJĘCIA]">
               <div class="img">
-                <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/1e/1d/5698f9efc8559_o,size,125x90,q,70,h,ab0aee.jpg" class="lazy " alt="Centrum Łodzi bez prądu. Awaria energetyczna" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/1e/1d/5698f9efc8559_o,size,125x90,q,70,h,ab0aee.jpg" class="" alt="Centrum Łodzi bez prądu. Awaria energetyczna" width="125" height="90"></noscript>
+                <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/78/b0/569bde0793565_o,size,125x90,q,70,h,192a06.jpg" class="lazy " alt="VIII Mistrzostwa Polski w Szermierce Historyczną Bronią w Manufakturze [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/78/b0/569bde0793565_o,size,125x90,q,70,h,192a06.jpg" class="" alt="VIII Mistrzostwa Polski w Szermierce Historyczną Bronią w Manufakturze [ZDJĘCIA]" width="125" height="90"></noscript>
               </div>
               <div class="kontent">
                 <ul class="linkiPoziome clearfix">
                   <li class="artSpons"></li>
                 </ul>
-                <p class="tytul">Centrum Łodzi bez prądu. Awaria energetyczna</p>
+                <p class="tytul">VIII Mistrzostwa Polski w Szermierce Historyczną Bronią w Manufakturze [ZDJĘCIA]</p>
               </div>
             </a>
           </li>
@@ -1322,33 +1299,34 @@ oG_OSA.id_autor = '1472880';
          <ul class="listaMaterialow">
                            <li >
           <div class="oznMale">
-                        <a href="http://lodz.naszemiasto.pl/artykul/w-pabianicach-przechwycono-kontrabande-dwoch-lodzian,3624976,art,t,id,tm.html">
-                              W Pabianicach przechwycono kontrabandę. Dwóch łodzian zatrzymanych w związku z nielegalnym 
-                          </a>
-          </div>
-                                                                    <li >
-          <div class="oznMale">
-                        <a href="http://lodz.naszemiasto.pl/artykul/policja-rozbila-kolejna-dziuple-samochodowa-w-lodzi,3624814,artgal,t,id,tm.html">
-                              Policja rozbiła kolejną dziuplę samochodową w Łodzi
+                        <a href="http://lodz.naszemiasto.pl/artykul/karnawalowe-warsztaty-dla-dzieci-w-lodzkiej-sukcesji-zdjecia,3626142,artgal,t,id,tm.html">
+                              Karnawałowe warsztaty dla dzieci w łódzkiej Sukcesji [ZDJĘCIA] 
                           </a>
           </div>
                                       <span class="ikonaFoto icon-camera"></span>
                                                     <li >
           <div class="oznMale">
-                        <a href="http://lodz.naszemiasto.pl/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html">
-                              QUIZ: Czego powinieneś nauczyć się w 2016 roku? 
+                        <a href="http://lodz.naszemiasto.pl/artykul/drzewa-i-krzewy-na-trasie-w-z-w-lodzi-zaslanianie-betonu,3625836,art,t,id,tm.html">
+                              Drzewa i krzewy na trasie W-Z w Łodzi. Zasłanianie betonu zielenią
                           </a>
           </div>
-                                      <span class="ikonaFoto icon-camera"></span>
-                                <span class="ikonaOpinie icon-bubble">1</span>
+                                                <span class="ikonaOpinie icon-bubble">3</span>
                                           <li >
           <div class="oznMale">
-                        <a href="http://lodz.naszemiasto.pl/artykul/tablice-vms-w-lodzi-pokazuja-jak-najszybciej-przejechac,3624706,artgal,t,id,tm.html">
-                              Tablice VMS w Łodzi pokazują jak najszybciej przejechać przez miasto
+                        <a href="http://lodz.naszemiasto.pl/artykul/studniowki-2016-w-lodzi-xxi-lo-na-balu-w-domu-towarzystwa,3625814,artgal,t,id,tm.html">
+                              Studniówki 2016 w Łodzi: XXI LO na balu w Domu Towarzystwa Kredytowego [ZDJĘCIA]
                           </a>
           </div>
                                       <span class="ikonaFoto icon-camera"></span>
-                                <span class="ikonaOpinie icon-bubble">1</span>
+                                <span class="ikonaOpinie icon-bubble">3</span>
+                                          <li >
+          <div class="oznMale">
+                        <a href="http://lodz.naszemiasto.pl/artykul/studniowki-2016-w-lodzi-xliii-lo-na-balu-w-fantazji-zdjecia,3625770,artgal,t,id,tm.html">
+                              Studniówki 2016 w Łodzi: XLIII LO na balu w Fantazji [ZDJĘCIA]
+                          </a>
+          </div>
+                                      <span class="ikonaFoto icon-camera"></span>
+                                <span class="ikonaOpinie icon-bubble">5</span>
                                 </ul>
   </section>
   
@@ -1362,46 +1340,49 @@ oG_OSA.id_autor = '1472880';
     <h2 class="boxBelka">Komentowane</h2>
     <ul class="listaZeZdjeciem">
               <li>
-          <a href="/artykul/prawniczka-z-lodzi-jechala-po-pijanemu-samochod-zostawila,3623112,art,t,id,tm.html" title="Prawniczka z Łodzi jechała po pijanemu. Samochód zostawiła na środku ulicy i poszła spać">
+          <a href="/artykul/centrum-lodzi-bez-pradu-awaria-energetyczna,3625018,artgal,t,id,tm.html" title="Centrum Łodzi bez prądu. Awaria energetyczna">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/91/2c/5696a2607fb4e_o,size,125x90,q,70,h,9215df.jpg" class="lazy left" alt="Prawniczka z Łodzi jechała po pijanemu. Samochód zostawiła na środku ulicy i poszła spać" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/91/2c/5696a2607fb4e_o,size,125x90,q,70,h,9215df.jpg" class=" left" alt="Prawniczka z Łodzi jechała po pijanemu. Samochód zostawiła na środku ulicy i poszła spać" width="125" height="90" name="zdjecie"></noscript>
-                                        </div>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/19/80/56991654eda37_o,size,125x90,q,70,h,2515ef.jpg" class="lazy left" alt="Centrum Łodzi bez prądu. Awaria energetyczna" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/19/80/56991654eda37_o,size,125x90,q,70,h,2515ef.jpg" class=" left" alt="Centrum Łodzi bez prądu. Awaria energetyczna" width="125" height="90" name="zdjecie"></noscript>
+                                            <span class="apla icon-camera" title="Zdjęcia"></span>
+                          </div>
             <div class="kontent">
                                             <ul class="linkiPoziome clearfix">
-                                                        <li class="komentarze"><i class="icon-bubble"></i>35</li>
+                                                        <li class="komentarze"><i class="icon-bubble"></i>19</li>
                                                     </ul>
                             <p class="tytul">
-                                  Prawniczka z Łodzi jechała po pijanemu. Samochód zostawiła na środku ulicy i poszła spać
+                                  Centrum Łodzi bez prądu. Awaria energetyczna
                               </p>
             </div>
           </a> 
         </li>
               <li>
-          <a href="/artykul/mpk-lodz-przerabia-tramwaje-i-przystanki,3622386,art,t,id,tm.html" title="MPK Łódź przerabia tramwaje i przystanki">
+          <a href="/artykul/wypadek-na-lutomierskiej-w-lodzi-potracenie-matki-z-trojka,3624424,artgal,t,id,tm.html" title="Potrącenie matki z dziećmi na Lutomierskiej">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/64/69/5696174e445b4_o,size,125x90,q,70,h,df1b2d.jpg" class="lazy left" alt="MPK Łódź przerabia tramwaje i przystanki" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/64/69/5696174e445b4_o,size,125x90,q,70,h,df1b2d.jpg" class=" left" alt="MPK Łódź przerabia tramwaje i przystanki" width="125" height="90" name="zdjecie"></noscript>
-                                        </div>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/b7/f7/5698b7e79d6cf_o,size,125x90,q,70,h,4e7de2.jpg" class="lazy left" alt="Potrącenie matki z dziećmi na Lutomierskiej" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/b7/f7/5698b7e79d6cf_o,size,125x90,q,70,h,4e7de2.jpg" class=" left" alt="Potrącenie matki z dziećmi na Lutomierskiej" width="125" height="90" name="zdjecie"></noscript>
+                                            <span class="apla icon-camera" title="Zdjęcia"></span>
+                          </div>
             <div class="kontent">
                                             <ul class="linkiPoziome clearfix">
-                                                        <li class="komentarze"><i class="icon-bubble"></i>17</li>
+                                                        <li class="komentarze"><i class="icon-bubble"></i>12</li>
                                                     </ul>
                             <p class="tytul">
-                                  MPK Łódź przerabia tramwaje i przystanki
+                                  Potrącenie matki z dziećmi na Lutomierskiej
                               </p>
             </div>
           </a> 
         </li>
               <li>
-          <a href="/artykul/dariusz-jonski-w-urzedzie-pracy,3622802,art,t,id,tm.html" title="Dariusz Joński w Urzędzie Pracy">
+          <a href="/artykul/studniowki-2016-w-lodzi-xliii-lo-na-balu-w-fantazji-zdjecia,3625770,artgal,t,id,tm.html" title="Studniówki 2016 w Łodzi: XLIII LO na balu w Fantazji [ZDJĘCIA]">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/96/aa/56964ea5510ba_o,size,125x90,q,70,h,930f74.jpg" class="lazy left" alt="Dariusz Joński w Urzędzie Pracy" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/96/aa/56964ea5510ba_o,size,125x90,q,70,h,930f74.jpg" class=" left" alt="Dariusz Joński w Urzędzie Pracy" width="125" height="90" name="zdjecie"></noscript>
-                                        </div>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/a0/ad/569ab8e6cadee_o,size,125x90,q,70,h,af823e.jpg" class="lazy left" alt="Studniówki 2016 w Łodzi: XLIII LO na balu w Fantazji [ZDJĘCIA]" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/a0/ad/569ab8e6cadee_o,size,125x90,q,70,h,af823e.jpg" class=" left" alt="Studniówki 2016 w Łodzi: XLIII LO na balu w Fantazji [ZDJĘCIA]" width="125" height="90" name="zdjecie"></noscript>
+                                            <span class="apla icon-camera" title="Zdjęcia"></span>
+                          </div>
             <div class="kontent">
                                             <ul class="linkiPoziome clearfix">
-                                                        <li class="komentarze"><i class="icon-bubble"></i>16</li>
+                                                        <li class="komentarze"><i class="icon-bubble"></i>5</li>
                                                     </ul>
                             <p class="tytul">
-                                  Dariusz Joński w Urzędzie Pracy
+                                  Studniówki 2016 w Łodzi: XLIII LO na balu w Fantazji [ZDJĘCIA]
                               </p>
             </div>
           </a> 
@@ -1495,64 +1476,65 @@ oG_OSA.id_autor = '1472880';
   <div class="kafleWiersz row">
     <div class="columns medium-6">
       <article class="kafel kafelDuzy">
-        <a href="/artykul/to-sie-nazywa-promocja-wodociagow-piekne-dziewczyny-z-mpwik,3622838,artgal,t,id,tm.html">
+        <a href="/artykul/dla-takiego-widoku-warto-wstac-wczesnie-rano-zdjecie-dnia,3611717,galop,t,id,tm.html">
           <div class="img">
             <span class="hide-for-small-only">
-             <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,577x487,q,70,h,5c90c0.jpg" class="lazy " alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="577" height="487"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,577x487,q,70,h,5c90c0.jpg" class="" alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="577" height="487"></noscript>
+             <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,577x487,q,70,h,5a232c.jpg" class="lazy " alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="577" height="487"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,577x487,q,70,h,5a232c.jpg" class="" alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="577" height="487"></noscript>
             </span>
             <span class="show-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,125x90,q,70,h,c3fbd6.jpg" class="lazy " alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,125x90,q,70,h,c3fbd6.jpg" class="" alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="125" height="90"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,125x90,q,70,h,f28f6e.jpg" class="lazy " alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,125x90,q,70,h,f28f6e.jpg" class="" alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="125" height="90"></noscript>
             </span>
                           <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                       </div>
-          <h3 class="kafelTytul">To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] </h3>
+          <h3 class="kafelTytul">Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]</h3>
         </a>
               </article>
     </div>
     <div class="columns medium-6">
       <article class="kafel kafelPoziomy kafelOdstep">
-        <a href="/artykul/w-grze-o-tron-wygladala-jak-chlopak-ale-zobaczcie-jaka-jest,3624290,artgal,t,id,tm.html">
+        <a href="/artykul/wszystkie-przypadki-artura-szpilki-kim-jest-czlowiek-ktory,3624810,galop,t,id,tm.html">
           <div class="img">
             <span class="hide-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,577x236,crop,0.0000x0.0213x0.9920x0.2713,q,70,h,445ca3.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,577x236,crop,0.0000x0.0213x0.9920x0.2713,q,70,h,445ca3.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="577" height="236"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,577x236,q,70,h,ab2e74.jpg" class="lazy " alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,577x236,q,70,h,ab2e74.jpg" class="" alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="577" height="236"></noscript>
             </span>
             <span class="show-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,125x90,q,70,h,99a0d2.jpg" class="lazy " alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,125x90,q,70,h,99a0d2.jpg" class="" alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="125" height="90"></noscript>
             </span>
                           <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                       </div>
-          <h3 class="kafelTytul">W "Grze o tron" wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]</h3>
+          <h3 class="kafelTytul">Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?</h3>
         </a>
               </article>
       <div class="row">
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/tak-sie-powinno-promowac-sport-zobaczcie-swietny-film-o,3624888,art,t,id,tm.html">
+            <a href="/artykul/w-grze-o-tron-wygladala-jak-chlopak-ale-zobaczcie-jaka-jest,3624290,artgal,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,281x236,q,70,h,f5f6af.jpg" class="lazy " alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,281x236,q,70,h,f5f6af.jpg" class="" alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,281x236,crop,0.0000x0.0367x0.9920x0.5580,q,70,h,8daef5.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,281x236,crop,0.0000x0.0367x0.9920x0.5580,q,70,h,8daef5.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="lazy " alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="" alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"></noscript>
                 </span>
+                                  <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]</h3>
+              <h3 class="kafelTytul">W "Grze o tron" wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]</h3>
             </a>
                       </article>
         </div>
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/najdrozsze-rzeczy-swiata-na-co-wydac-1-5-miliarda-dolarow-z,3623658,galop,t,id,tm.html">
+            <a href="/artykul/mecz-polska-serbia-bialo-czerwoni-wygrywaja-po-horrorze,3625516,artgal,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,281x236,q,70,h,c93384.jpg" class="lazy " alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,281x236,q,70,h,c93384.jpg" class="" alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,281x236,q,70,h,b86478.jpg" class="lazy " alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,281x236,q,70,h,b86478.jpg" class="" alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,125x90,q,70,h,c8d6b7.jpg" class="lazy " alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,125x90,q,70,h,c8d6b7.jpg" class="" alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,125x90,q,70,h,f90ef3.jpg" class="lazy " alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,125x90,q,70,h,f90ef3.jpg" class="" alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="125" height="90"></noscript>
                 </span>
                                   <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]</h3>
+              <h3 class="kafelTytul">Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]</h3>
             </a>
                       </article>
         </div>
@@ -1564,33 +1546,33 @@ oG_OSA.id_autor = '1472880';
       <div class="row">
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/swietlisty-stwor-pojawil-sie-nad-londynem-zdjecie-dnia,3611717,galop,t,id,tm.html">
+            <a href="/artykul/to-sie-nazywa-promocja-wodociagow-piekne-dziewczyny-z-mpwik,3622838,artgal,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,281x236,q,70,h,b62425.jpg" class="lazy " alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,281x236,q,70,h,b62425.jpg" class="" alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,281x236,q,70,h,64e8a6.jpg" class="lazy " alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,281x236,q,70,h,64e8a6.jpg" class="" alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,125x90,q,70,h,762a32.jpg" class="lazy " alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,125x90,q,70,h,762a32.jpg" class="" alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,125x90,q,70,h,c3fbd6.jpg" class="lazy " alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/d4/95/56950b8624fc6_o,size,125x90,q,70,h,c3fbd6.jpg" class="" alt="To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] " width="125" height="90"></noscript>
                 </span>
                                   <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]</h3>
+              <h3 class="kafelTytul">To się nazywa promocja wodociągów! Piękne dziewczyny z MPWiK zrobiły kalendarz [ZDJĘCIA] </h3>
             </a>
                       </article>
         </div>
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html">
+            <a href="/artykul/holowczyc-debski-a-moze-kammel-oni-maja-najlepszy-styl-top,3623646,galop,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,281x236,q,70,h,7a4fb3.jpg" class="lazy " alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,281x236,q,70,h,7a4fb3.jpg" class="" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,281x236,crop,0.0000x0.0260x0.9920x0.5553,q,70,h,ce3183.jpg" class="lazy " alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,281x236,crop,0.0000x0.0260x0.9920x0.5553,q,70,h,ce3183.jpg" class="" alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class="lazy " alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class="" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,125x90,crop,0.0000x0.0313x0.9920x0.4740,q,70,h,82528b.jpg" class="lazy " alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,125x90,crop,0.0000x0.0313x0.9920x0.4740,q,70,h,82528b.jpg" class="" alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="125" height="90"></noscript>
                 </span>
                                   <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">QUIZ: Czego powinieneś nauczyć się w 2016 roku? </h3>
+              <h3 class="kafelTytul">Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]</h3>
             </a>
                       </article>
         </div>
@@ -1598,17 +1580,17 @@ oG_OSA.id_autor = '1472880';
     </div>
     <div class="columns medium-6">
       <article class="kafel kafelPoziomy">
-        <a href="/artykul/najbardziej-zadluzone-polskie-imiona-zobacz-jak-nie-nazywac,3623814,artgal,t,id,tm.html">
+        <a href="/artykul/nikt-z-nas-nie-zobaczy-w-zyciu-tylu-pieniedzy-rekordowa,3623166,artgal,t,id,tm.html">
           <div class="img">
             <span class="hide-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,577x236,q,70,h,577093.jpg" class="lazy " alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,577x236,q,70,h,577093.jpg" class="" alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="577" height="236"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,577x236,q,70,h,592bbb.jpg" class="lazy " alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,577x236,q,70,h,592bbb.jpg" class="" alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="577" height="236"></noscript>
             </span>
             <span class="show-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,125x90,q,70,h,389858.jpg" class="lazy " alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,125x90,q,70,h,389858.jpg" class="" alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="125" height="90"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,125x90,q,70,h,e7648c.jpg" class="lazy " alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,125x90,q,70,h,e7648c.jpg" class="" alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="125" height="90"></noscript>
             </span>
                           <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                       </div>
-          <h3 class="kafelTytul">Najbardziej "zadłużone" polskie imiona - zobacz, jak nie nazywać dziecka</h3>
+          <h3 class="kafelTytul">Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii</h3>
         </a>
               </article>
     </div>
@@ -1729,7 +1711,7 @@ oG_OSA.id_autor = '1472880';
                                         <time datetime="2015-12-29 11:37:28">29/12/2015</time>
                   </li>
                   <li class="autor">Piotr Wróblewski</li>
-                                      <li class="komentarze"><i class="icon-bubble"></i>23</li>
+                                      <li class="komentarze"><i class="icon-bubble"></i>24</li>
                                                     </ul>
                               </li>
                                                 <li>
@@ -1911,7 +1893,7 @@ oG_OSA.id_autor = '1472880';
                                         <time datetime="2015-11-06 11:45:00">06/11/2015</time>
                   </li>
                   <li class="autor">tsz</li>
-                                      <li class="komentarze"><i class="icon-bubble"></i>7</li>
+                                      <li class="komentarze"><i class="icon-bubble"></i>8</li>
                                                     </ul>
                               </li>
                                                 <li>
@@ -1955,20 +1937,21 @@ oG_OSA.id_autor = '1472880';
                 Nauka
               </a>
                       </span>
-          <a href="/artykul/centrum-nauki-i-techniki-w-ec1-zachod-zdjecia,3623684,artgal,t,id,tm.html">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/21/ab/56978e89ee179_o,size,370x210,q,70,h,e3ee93.jpg" class="lazy " alt="Zobacz Centrum Nauki w EC1 Zachód [ZDJĘCIA]" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/21/ab/56978e89ee179_o,size,370x210,q,70,h,e3ee93.jpg" class="" alt="Zobacz Centrum Nauki w EC1 Zachód [ZDJĘCIA]" width="380" height="215"></noscript>
+          <a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html">
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,370x210,q,70,h,867668.jpg" class="lazy " alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,370x210,q,70,h,867668.jpg" class="" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="380" height="215"></noscript>
           </a>
                       <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
-        <h4 class="ellipsis"><a href="/artykul/centrum-nauki-i-techniki-w-ec1-zachod-zdjecia,3623684,artgal,t,id,tm.html"> Centrum Nauki i Techniki w EC1 Zachód [ZDJĘCIA]</a></h4>
+        <h4 class="ellipsis"><a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html"> QUIZ: Czego powinieneś nauczyć się w 2016 roku? </a></h4>
         <ul class="linkiPoziome clearfix">
-                    <li class="typ"><a href="/nauka/">Nauka</a></li>
+                    <li class="typ"><a href="/hallo/">Hallo</a></li>
           <li class="data">
              
-            <time datetime="2016-01-14 13:25:08">
-              Wczoraj 13:25
+            <time datetime="2016-01-15 12:26:47">
+              15/01/2016
             </time>
           </li>
+                      <li class="komentarze"><i class="icon-bubble"></i>5</li>
                             </ul>
               </article>
     </li>
@@ -1980,20 +1963,20 @@ oG_OSA.id_autor = '1472880';
                 Turystyka
               </a>
                       </span>
-          <a href="/artykul/podsumowanie-2015-roku-na-lodzkim-lotnisku,3622906,art,t,id,tm.html">
-            <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/7e/e2/56966002aae81_o,size,370x210,q,70,h,2fb79a.jpg" class="lazy " alt="Podsumowanie 2015 roku na łódzkim lotnisku" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/7e/e2/56966002aae81_o,size,370x210,q,70,h,2fb79a.jpg" class="" alt="Podsumowanie 2015 roku na łódzkim lotnisku" width="380" height="215"></noscript>
+          <a href="/artykul/park-julianowski-w-lodzi-zima-zdjecia,3625760,gal,t,id,tm.html">
+            <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/7e/41/569abde0751b3_o,size,370x210,q,70,h,060698.jpg" class="lazy " alt="Zima w Parku Julianowskim [ZDJĘCIA]" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/7e/41/569abde0751b3_o,size,370x210,q,70,h,060698.jpg" class="" alt="Zima w Parku Julianowskim [ZDJĘCIA]" width="380" height="215"></noscript>
           </a>
+                      <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
-        <h4 class="ellipsis"><a href="/artykul/podsumowanie-2015-roku-na-lodzkim-lotnisku,3622906,art,t,id,tm.html"> Podsumowanie 2015 roku na łódzkim lotnisku</a></h4>
+        <h4 class="ellipsis"><a href="/artykul/park-julianowski-w-lodzi-zima-zdjecia,3625760,gal,t,id,tm.html"> Park Julianowski w Łodzi zimą [ZDJĘCIA]</a></h4>
         <ul class="linkiPoziome clearfix">
                     <li class="typ"><a href="/turystyka/">Turystyka</a></li>
           <li class="data">
              
-            <time datetime="2016-01-13 15:33:49">
-              13/01/2016
+            <time datetime="2016-01-16 23:08:37">
+              Wczoraj 23:08
             </time>
           </li>
-                      <li class="komentarze"><i class="icon-bubble"></i>6</li>
                             </ul>
               </article>
     </li>
@@ -2005,18 +1988,18 @@ oG_OSA.id_autor = '1472880';
                 Życie i styl
               </a>
                       </span>
-          <a href="/artykul/swiadoma-mama-2016-w-lodzi-spotkania-konsultacje-porady-dla,3624082,artgal,t,id,tm.html">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/83/fc/5697c1bfb95c5_o,size,370x210,q,70,h,bc8849.jpg" class="lazy " alt="Świadoma Mama 2016 w Łodzi: spotkania, konsultacje, porady dla rodziców" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/83/fc/5697c1bfb95c5_o,size,370x210,q,70,h,bc8849.jpg" class="" alt="Świadoma Mama 2016 w Łodzi: spotkania, konsultacje, porady dla rodziców" width="380" height="215"></noscript>
+          <a href="/artykul/casting-na-miss-ziemi-lodzkiej-2016-zdjecia,3625706,artgal,t,id,tm.html">
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/e0/1b/569a9e76e9b59_o,size,370x210,q,70,h,b7f35e.jpg" class="lazy " alt="Casting na Miss Ziemi Łódzkiej 2016 [ZDJĘCIA]" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/e0/1b/569a9e76e9b59_o,size,370x210,q,70,h,b7f35e.jpg" class="" alt="Casting na Miss Ziemi Łódzkiej 2016 [ZDJĘCIA]" width="380" height="215"></noscript>
           </a>
                       <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
-          <h4 class="ellipsis"><a href="/artykul/swiadoma-mama-2016-w-lodzi-spotkania-konsultacje-porady-dla,3624082,artgal,t,id,tm.html"> Świadoma Mama 2016 w Łodzi: spotkania, konsultacje, porady dla rodziców</a></h4>
+          <h4 class="ellipsis"><a href="/artykul/casting-na-miss-ziemi-lodzkiej-2016-zdjecia,3625706,artgal,t,id,tm.html"> Casting na Miss Ziemi Łódzkiej 2016 [ZDJĘCIA]</a></h4>
           <ul class="linkiPoziome clearfix">
                         <li class="typ"><a href="/zycieistyl/">Życie i styl</a></li>
             <li class="data">
                
-              <time datetime="2016-01-14 16:45:04">
-                Wczoraj 16:45
+              <time datetime="2016-01-16 20:49:22">
+                Wczoraj 20:49
               </time>
             </li>
                                   </ul>

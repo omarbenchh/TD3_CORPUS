@@ -83,9 +83,9 @@ Calendar._TT["ABOUT_TIME"] = "\n\n" +
 		<div class="date-col top-time clearfix">
 			<!--jdoc:include type="modules" name="br_top" /-->
 						  <div class="ja-day clearfix">
-				<span class="month">01</span><span class="date">15</span><span class="year">2016</span><span class="day">Fri</span></div>
+				<span class="month">01</span><span class="date">18</span><span class="year">2016</span><span class="day">Mon</span></div>
 			  <div class="top-updatetime">
-				<span>Last update: </span><em>Fri, 15 Jan 2016 08pm</em>
+				<span>Last update: </span><em>Mon, 18 Jan 2016 03am</em>
 			  </div>
 			 		</div>
 		
@@ -93,43 +93,43 @@ Calendar._TT["ABOUT_TIME"] = "\n\n" +
 			<!--jdoc:include type="modules" name="br_headlines" /-->
 			<div class="news_flasher ">
 	<!-- //headlines-->
-	<ul id="bx5311690" class="js-hidden">
+	<ul id="bx6313994" class="js-hidden">
 						<li class="news-item">
-			<a title="KARACHI: Sindh Chief Minister, Syed Qaim Ali Shah, said on Friday that terrorists involved in the bomb blast claiming a scores of precious human lives..." href="/pakistan.html"><span>Terrorists involved in Jacobabad, Shikarpur blasts</span></a> 
+			<a title="WASHINGTON: The two largest American and European trade groups have warned of "enormous" consequences for thousands of businesses and millions of user..." href="/top-news.html"><span>U.S. and EU firms warn of "enormous" consequences </span></a> 
 			</li>
 						<li class="news-item">
-			<a title="NAIROBI: Kenya&#39;s shilling was steady on Friday and traders said it was expected to ease next week due to increased dollar demand from importers. S..." href="/markets/fxmm.html"><span>Kenyan shilling steady, stocks up slightly</span></a> 
+			<a title="MADRID: Atletico Madrid opened a four-point lead at the top of La Liga with a typically efficient 3-0 victory at Las Palmas after Real Madrid jumped a..." href="/sports.html"><span>Atletico clear at the top, Zidane&#39;s Real march</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="PARIS: French carmaker PSA Peugeot Citroen said on Friday it was confident about upcoming emission test results and was happy with initial results fro..." href="/business-a-finance.html"><span>Peugeot says confident about upcoming emission tes</span></a> 
+			<a title="WASHINGTON: President Barack Obama on Sunday heralded the implementation of a nuclear deal and prisoner swap with Iran as a victory for diplomacy that..." href="/top-news.html"><span>Iran deal, prisoner swap shows dividends of diplom</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="BRUSSELS: The European Commission will announce new measures in February to tackle terrorism financing, EU officials said, as part of wider efforts to..." href="/top-news.html"><span>EU plans new measures against terrorism financing </span></a> 
+			<a title="MUNICH: The European Union plans to take a harder look at whether the collection of vast troves of consumer data by big Internet companies violates co..." href="/world.html"><span>EU competition chief to eye "big data" concerns in</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="SOFIA: Bulgaria&#39;s unemployment rate rose to 10 percent in December from 9.9 percent a month earlier but slipped 0.7 percentage points on an annual..." href="/world.html"><span>Bulgaria ends 2015 with 10 percent jobless rate </span></a> 
+			<a title="WASHINGTON: The White House on Sunday said the United States "condemns in the strongest terms" the recent attacks in Burkina Faso, and mourns for thos..." href="/world.html"><span>U.S. condemns attacks in Burkina Faso -White House</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="ROME: The Italian economy is likely to grow by around 1.5 percent this year and in 2017, the country&#39;s central bank said on Friday, picking up fro..." href="/world.html"><span>Italy may grow 1.5 percent this year and next, cen</span></a> 
+			<a title="Arsenal may be ravaged by injuries but they regained top spot in the Premier League on goal difference from Leicester City after a finely-balanced mat..." href="/sports.html"><span>Wenger pleased as injury-hit Arsenal take point at</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="MILAN: Top investor Vivendi bought more ordinary shares in Telecom Italia in December after securing four seats on the Italian company&#39;s board, a ..." href="/business-a-finance.html"><span>Vivendi bought more Telecom Italia shares in Dec</span></a> 
+			<a title="WASHINGTON: The United States imposed sanctions on 11 companies and individuals for supplying Iran&#39;s ballistic missile program in a move delayed b..." href="/world.html"><span>U.S. imposes ballistic missile sanctions on Iran a</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="MILAN: The share of Italian government bonds held by foreign investors rose slightly in the first nine months of last year to stand at 29.7 percent of..." href="/business-a-finance.html"><span>Foreigners&#39; share of Italy govt bonds 29.7pc a</span></a> 
+			<a title="PARIS: Marseille snapped a four-match winless run in Ligue 1 with a 3-1 victory over Caen on Sunday, while Monaco reclaimed second place after winning..." href="/sports.html"><span>Marseille win, Monaco return to second</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="ISLAMABAD: Spokesperson to Prime Minister Dr. Musadik Malik has Thursday said the economy of Pakistan has become stable due to the prudent polices of ..." href="/pakistan.html"><span>Pakistan offers tremendous investment opportunitie</span></a> 
+			<a title="WASHINGTON: The United States is to repay Iran a $400 million debt and $1.3 billion in interest dating to the Islamic revolution, Secretary of State J..." href="/top-news.html"><span>US to pay Iran $1.7 bn in debt and interest: Kerry</span></a> 
 			</li>
 						<li class="news-item">
-			<a title="ISLAMABAD: Minister for Commerce Khurram Dastagir Khan has said that the draft of a three-year strategic trade policy framework has been sent to the p..." href="/top-news.html"><span>Three-year strategic trade policy framework sent t</span></a> 
+			<a title="ROME: Pope Francis on Sunday made his first visit to a synagogue as pontiff, citing an "unbreakable" bond between Jews and Christians as hundreds of a..." href="/world.html"><span>Pope hails ties with Jews on landmark synagogue vi</span></a> 
 			</li>
 						<!-- //headlines-->
 	</ul>
 </div>
 
 <script type="text/javascript">
-	jQuery('#bx5311690').ticker();
+	jQuery('#bx6313994').ticker();
 </script>
 		</div>
 		<div class="search-col top-search">

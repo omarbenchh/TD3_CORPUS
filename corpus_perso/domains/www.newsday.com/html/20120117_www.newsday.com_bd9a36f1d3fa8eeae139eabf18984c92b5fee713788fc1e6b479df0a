@@ -142,8 +142,8 @@
 		<div class="fly">
     <a href="#" id="paper">Today's Paper <i class="fa fa-file"></i></a>	   
 	       	<div class="flyout wide" id="printEdition">
-              	       		       			       			       		 		  		      				<a href="/eedition"><img src="http://cdn.newsday.com/polopoly_fs/1.11327849.1452833281!/httpImage/image.jpg_gen/derivatives/mugshot_88/image.jpg" height="104" width="88"></a>
-   	             	       		       			       			       		 		  		      				<a href="/eedition"><img src="http://cdn.newsday.com/polopoly_fs/1.11327897.1452835901!/httpImage/image.jpg_gen/derivatives/mugshot_88/image.jpg" height="104" width="88"></a>
+              	       		       			       			       		 		  		      				<a href="/eedition"><img src="http://cdn.newsday.com/polopoly_fs/1.11333814.1453008806!/httpImage/image.jpg_gen/derivatives/mugshot_88/image.jpg" height="104" width="88"></a>
+   	             	       		       			       			       		 		  		      				<a href="/eedition"><img src="http://cdn.newsday.com/polopoly_fs/1.11333815.1453008834!/httpImage/image.jpg_gen/derivatives/mugshot_88/image.jpg" height="104" width="88"></a>
    	             	       		       			       			       		 		  		      				<a href="http://www.newsday.com/funbook-nassau"><img src="http://cdn.newsday.com/polopoly_fs/1.10921360.1443957560!/httpImage/image.png_gen/derivatives/mugshot_88/image.png" height="104" width="88"></a>
    	             	   	<ul>
    			  	<li><a class="" href="/eedition">Today's paper / archives</a> <span>&raquo;</span></li>
@@ -156,7 +156,7 @@
 	  <div class="right">
 																																	 																																																					<a href="http://www.newsday.com/trafficreport">Traffic <em>0</em></a>
 						  <a id="weatherLocation" href="/weather">
-		  	Weather <em>46&deg;</em>
+		  	Weather <em>32&deg;</em>
   		  </a>
 						      <a class="not-loggedin loginFullSubmit" href="/login">Log in</a>  
   <a class="loggedin logout" href="/">Log out</a>
@@ -743,12 +743,12 @@
 		<input type="hidden" id="pageSection" value="Newsday:News:Nation" />
 		<input type="hidden" id="userSource" value="" />
 	</div>
-	<div id="pageData" data-contenttype="article" data-region="Long Island" data-omni='{"pagename":"u.s. wants effective alzheimers treatment by 2025 - newsday:news:nation - ","server":"Newsday","sitesection":"News","sitesubsection":"Nation","sitesubsection2":"Nation","sitesubsection3":"Nation","sitesubsection4":"Nation","clientip":"172.18.2.35","contenttitle":"U.S. wants effective Alzheimers treatment by 2025","contentitemid":"1_3457457","contentsource":"newsday","hier":"Newsday:News:Nation","omnicode":"","browser":"unknown","datenow":"2016.01.15_10:07","source":"newsday","gate":"false","isopen":"2","section":"Nation","author":"THE ASSOCIATED PRESS","pubdate":"1326785760560"}'></div>
+	<div id="pageData" data-contenttype="article" data-region="Long Island" data-omni='{"pagename":"u.s. wants effective alzheimers treatment by 2025 - newsday:news:nation - ","server":"Newsday","sitesection":"News","sitesubsection":"Nation","sitesubsection2":"Nation","sitesubsection3":"Nation","sitesubsection4":"Nation","clientip":"172.18.2.36","contenttitle":"U.S. wants effective Alzheimers treatment by 2025","contentitemid":"1_3457457","contentsource":"newsday","hier":"Newsday:News:Nation","omnicode":"","browser":"unknown","datenow":"2016.01.17_16:50","source":"newsday","gate":"false","isopen":"2","section":"Nation","author":"THE ASSOCIATED PRESS","pubdate":"1326785760560"}'></div>
 	    	    	            <!-- SiteCatalyst -->
     		    			<script src="/build/nd_omniture.min.js"></script>
     		            <!-- End SiteCatalyst -->
                 	    		    				<script src="/build/mather.min.js"></script>
-			<noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma34920&mrk=49582019&p=web&tv=no-js-0.1.0&tid=2016.01.15_10:07" style="display:none" height="1" width="1" alt/></noscript>   	
+			<noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma34920&mrk=49582019&p=web&tv=no-js-0.1.0&tid=2016.01.17_16:50" style="display:none" height="1" width="1" alt/></noscript>   	
     					<script>window._tfa = window._tfa || [];_tfa.push({notify:"action", name: 'page_view'});</script>
 		<script src="//cdn.taboola.com/libtrc/acknowledgemedia-newsday-sc/tfa.js"></script>    	
         

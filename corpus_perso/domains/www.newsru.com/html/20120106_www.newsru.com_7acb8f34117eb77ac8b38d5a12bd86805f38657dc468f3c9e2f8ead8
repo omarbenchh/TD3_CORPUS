@@ -727,36 +727,7 @@ if (navigator.appName != 'Microsoft Internet Explorer') {
 
 
 <div style="padding: 10px 0; clear: both;">
-<!--AdFox START-->
-<!--newsrucom-->
-<!--оКНЫЮДЙЮ: Newsru.com / НАЗЕЙРМЮЪ ПЕЙКЮЛЮ / хМТНПЛЕП Б лХПЕ, щЙНМНЛХЙЮ ОНД ЯРЮРЭЪЛХ-->
-<!--йЮРЕЦНПХЪ: <МЕ ГЮДЮМЮ>-->
-<!--рХО АЮММЕПЮ: оЕПЕРЪФЙЮ 100%-->
-<script type="text/javascript">
-<!--
-if (typeof(pr) == 'undefined') { var pr = Math.floor(Math.random() * 1000000); }
-if (typeof(document.referrer) != 'undefined') {
-  if (typeof(afReferrer) == 'undefined') {
-    afReferrer = escape(document.referrer);
-  }
-} else {
-  afReferrer = '';
-}
-var addate = new Date(); 
-var scrheight = '', scrwidth = '';
-if (self.screen) {
-scrwidth = screen.width;
-scrheight = screen.height;
-} else if (self.java) {
-var jkit = java.awt.Toolkit.getDefaultToolkit();
-var scrsize = jkit.getScreenSize();
-scrwidth = scrsize.width;
-scrheight = scrsize.height;
-}
-document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/715/prepareCode?p1=bsiag&amp;p2=y&amp;pct=a&amp;pfc=a&amp;pfb=a&amp;pr=' + pr +'&amp;pt=b&amp;pd=' + addate.getDate() + '&amp;pw=' + addate.getDay() + '&amp;pv=' + addate.getHours() + '&amp;prr=' + afReferrer + '&amp;puid1=&amp;pdw=' + scrwidth + '&amp;pdh=' + scrheight + '"><\/scr' + 'ipt>');
-// -->
-</script>
-<!--AdFox END-->
+
 </div>
 
 
@@ -873,26 +844,26 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/715/prep
 <div style="padding-top: 5px;"><table width="525" border="0" cellspacing="3" cellpadding="0" bgcolor="#e6e6e6">
 <tr><td><!-- ъМДЕЙЯ.дХПЕЙР -->
 <script type="text/javascript">
+//<![CDATA[
 yandex_partner_id = 43120;
 yandex_site_bg_color = 'E6E6E6';
-yandex_stat_id = 1215140;
+yandex_stat_id = 1215138;
 yandex_site_charset = 'windows-1251';
 yandex_ad_format = 'direct';
 yandex_font_size = 0.9;
 yandex_font_family = 'arial';
 yandex_direct_type = 'flat';
 yandex_direct_limit = 4;
-yandex_direct_title_font_size = 2;
 yandex_direct_bg_color = 'E6E6E6';
-yandex_direct_title_color = '0016A6';
+yandex_direct_title_color = '0000FF';
 yandex_direct_url_color = '006A29';
 yandex_direct_all_color = '333333';
 yandex_direct_text_color = '000000';
-yandex_direct_hover_color = '006A29';
+yandex_direct_hover_color = '0016A6';
 yandex_direct_favicon = false;
 document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
-</script>
-</td></tr>
+//]]>
+</script></td></tr>
 </table></div>
 
 
@@ -921,12 +892,12 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/syste
 </noindex>
 <img src="http://static.newsru.com/img/b.gif" width="1" height="5" alt=""><br><table width="100%" cellspacing="0" cellpadding="5">
 <tr>
-<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 18:43</b><br></span>
-<span class="copy"><font color="#ffffff"><b><a href="/cinema/15jan2016/hiphop.html"><font color="#ffffff">В Москве покажут "Щелкунчика" в стиле хип-хоп, перенеся действие в Нью-Йорк 1980-х</font></a> // <a href=/cinema/index.html><font color="#ffffff">Культура</font></a></b><br>
+<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 23:58</b><br></span>
+<span class="copy"><font color="#ffffff"><b><a href="/russia/17jan2016/vahta.html"><font color="#ffffff">Из ульяновского техникума, где была жестоко избита студентка, уволили дежурную по общежитию</font></a> // <a href=/russia/index.html><font color="#ffffff">В России</font></a></b><br>
 Досье NEWSru.com:<br><b>
-<a href="/dossier/145.html"><font color="#ffffff">Культура</font></a> /
-<a href="/dossier/4612.html"><font color="#ffffff">Балет</font></a> /
-<a href="/dossier/13086.html"><font color="#ffffff">Щелкунчик</font></a>
+<a href="/dossier/177.html"><font color="#ffffff">Ульяновская область</font></a> /
+<a href="/dossier/4537.html"><font color="#ffffff">Криминал</font></a> /
+<a href="/dossier/13695.html"><font color="#ffffff">Подростки</font></a>
 </b>
 </font></span></td>
 </tr>
@@ -1045,7 +1016,7 @@ width=88 height=31>
 
 
 <div style="margin-bottom:5px">
-<b>Пятница, 15 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/cinema/15jan2016/hiphop.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 18:43</a></h1></b><br>
+<b>Понедельник, 18 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/russia/17jan2016/vahta.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 23:58</a></h1></b><br>
 Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ.
 <noindex>
 Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован.
@@ -1128,7 +1099,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715
 &copy;&nbsp;<a href="http://www.newsru.com" class="down" style="text-decoration:none">NEWSru.com &ndash; самые быстрые новости</a> 2000-2016
 </div>
 
-<!--  tdt Fri Jan 15 18:53:34 2016 /world/04jan2012/sakidonsale.html 80  -->
+<!--  tdt Mon Jan 18 00:08:15 2016 /world/04jan2012/sakidonsale.html 80  -->
 
 
 </div>

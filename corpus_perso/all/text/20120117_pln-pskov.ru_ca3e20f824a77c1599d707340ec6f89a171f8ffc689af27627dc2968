@@ -150,7 +150,7 @@ function open_window(link,w,h) //opens new window
 <div id="topwrapper">
 <div id="top_line">
 <div id="links_top"><a title="Добавить в Избранное" href="" onclick="window.external.AddFavorite(location.href, document.title);return false"><img src="/ii/health/ico_star.gif" width="26" height="14" align="absmiddle">В Избранное</a>  |  <a title="Сделать стартовой страницей" href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.pln-pskov.ru'); return false;">Сделать стартовой</a>  |  <a href="/subscribe/">Подписка</a> | <a href="/gpressacont/">О проекте</a> |<noindex> <a rel="nofollow" title="лента RSS" href="http://pln-pskov.ru/export/rss.php"><img src="/ii/health/ico_rss.gif" width="26" height="15" align="absmiddle">RSS</a> </noindex>&nbsp;&nbsp;<noindex><a class="box_red" target="_blank" href="http://rm60.ru/prices/" title="Реклама в Пскове" alt="Реклама в Пскове" rel="nofollow">РЕКЛАМА НА САЙТЕ</a></noindex></div>
-<div id="date_top"><nobr><a href="http://pln-pskov.ru/"><< вернуться на ПЛН</a> &nbsp; | Новости Пскова и Псковской области.  Сегодня: Пятница, 15 Января</nobr>&nbsp;&nbsp;&nbsp;<b> 16+</b></div>
+<div id="date_top"><nobr><a href="http://pln-pskov.ru/"><< вернуться на ПЛН</a> &nbsp; | Новости Пскова и Псковской области.  Сегодня: Понедельник, 18 Января</nobr>&nbsp;&nbsp;&nbsp;<b> 16+</b></div>
 </div>
 <div id="header_line">
 <nobr>
@@ -177,22 +177,22 @@ function open_window(link,w,h) //opens new window
 
 </div>
 <div id="ushiwrapper"> <div id="uho">
-  <a title="100 домовых хозяйств по оказанию первой помощи" href="/adh/go.php?id=493"><img border="0" src="/adh/get.php?id=493" alt="100 домовых хозяйств по оказанию первой помощи" width="150" height="90"/></a>
+  <a title="Советы по ЗОЖ" href="/adh/go.php?id=483"><img border="0" src="/adh/get.php?id=483" alt="Советы по ЗОЖ" width="150" height="90"/></a>
+     </div>
+<div id="uho">
+  <a title="Псковичи все чаще записываются к доктору через МФЦ" href="/adh/go.php?id=464"><img border="0" src="/adh/get.php?id=464" alt="Псковичи все чаще записываются к доктору через МФЦ" width="150" height="90"/></a>
      </div>
 <div id="uho">
   <a title="" href="/adh/go.php?id=495"><img border="0" src="/adh/get.php?id=495" alt="" width="150" height="90"/></a>
      </div>
 <div id="uho">
-  <a title="Опасные хот-доги" href="/adh/go.php?id=490"><img border="0" src="/adh/get.php?id=490" alt="Опасные хот-доги" width="150" height="90"/></a>
-     </div>
-<div id="uho">
-  <a title="Традиционные скидки в осенне-зимний период" href="/adh/go.php?id=492"><img border="0" src="/adh/get.php?id=492" alt="Традиционные скидки в осенне-зимний период" width="150" height="90"/></a>
-     </div>
-<div id="uho">
   <a title="Корью чаще всего болеют в Опочецком и Островском районах" href="/adh/go.php?id=491"><img border="0" src="/adh/get.php?id=491" alt="Корью чаще всего болеют в Опочецком и Островском районах" width="150" height="90"/></a>
      </div>
 <div id="uho">
-  <a title="Советы по ЗОЖ" href="/adh/go.php?id=483"><img border="0" src="/adh/get.php?id=483" alt="Советы по ЗОЖ" width="150" height="90"/></a>
+  <a title="100 домовых хозяйств по оказанию первой помощи" href="/adh/go.php?id=493"><img border="0" src="/adh/get.php?id=493" alt="100 домовых хозяйств по оказанию первой помощи" width="150" height="90"/></a>
+     </div>
+<div id="uho">
+  <a title="Ремонт опасен для здоровья" href="/adh/go.php?id=489"><img border="0" src="/adh/get.php?id=489" alt="Ремонт опасен для здоровья" width="150" height="90"/></a>
      </div>
 
 
@@ -404,7 +404,7 @@ function open_window(link,w,h) //opens new window
 
 
  
-    <br><div id="ads"><!--378431020688--><!--4076f48c--><!--4076f48c-->
+    <br><div id="ads"><!--378431020688--><!--9c7ec26b--><!--9c7ec26b-->
     <div id="voting">
                  <!--- Голосовалка --->
 <div id="voting">
@@ -514,10 +514,10 @@ function open_window(link,w,h) //opens new window
 
         <H4><a href="/health/hnews/229012.html">Псковичи узнают секрет стройности и здоровой осанки на занятиях TRX</a></H4>
         <a href="/health/hnews/229012.html">
-	С 19 января в клубе «Супер фитнес» стартует новое направление - функциональный тренинг TRX. Как сообщили Псковской Ленте Новостей в фитнес-центре, до 24 января можно бесплатно...</a><a class="comments" href="/forum/229012.html" title="Комментарии:2">2</a></a>
+	С 19 января в клубе «Супер фитнес» стартует новое направление - функциональный тренинг TRX. Как сообщили Псковской Ленте Новостей в фитнес-центре, до 24 января можно бесплатно...</a><a class="comments" href="/forum/229012.html" title="Комментарии:3">3</a></a>
 <div class="main_box">
 
-     <div><a href="/health/hnews/228949.html"><span class="news_date">17:34 </span>В крещенских купаниях в проруби есть риски для здоровья - главный терапевт РФ</a></div><div><a href="/health/hnews/228836.html"><span class="news_date">14.01.2016 13:24 </span>В центре доктора Бубновского в Пскове для детей и студентов проходит зимняя акция</a></div><div><a href="/health/hnews/228789.html"><span class="news_date">14.01.2016 09:16 </span>Тест на ВИЧ хотят включить в диспансеризацию</a><a class="comments" href="/forum/228789.html" title="Комментариев: 4">4</a></div><div><a href="/health/hnews/228756.html"><span class="news_date">13.01.2016 19:03 </span>Россия зарегистрировала лекарство от лихорадки Эбола</a><a class="comments" href="/forum/228756.html" title="Комментариев: 16">16</a></div><div><a href="/health/hnews/228754.html"><span class="news_date">13.01.2016 17:42 </span>В период новогодних каникул в Псковской области сохранялась стабильная эпидситуация по гриппу и ОРВИ</a></div>
+     <div><a href="/health/hnews/229086.html"><span class="news_date">08:55 </span>Будет ли глава Невельского района принимать роды, или ему на помощь придет губернатор? – обращение по поводу закрытия роддома</a><a class="comments" href="/forum/229086.html" title="Комментариев: 39">39</a></div><div><a href="/health/hnews/229059.html"><span class="news_date">16.01.2016 11:16 </span>Жительницы Невеля жалуются на отсутствие роддома</a><a class="comments" href="/forum/229059.html" title="Комментариев: 50">50</a></div><div><a href="/health/hnews/229030.html"><span class="news_date">16.01.2016 10:17 </span>Псковичам напоминают, как защититься от «свиного гриппа» </a><a class="comments" href="/forum/229030.html" title="Комментариев: 7">7</a></div><div><a href="/health/hnews/228990.html"><span class="news_date">16.01.2016 09:01 </span>Первые заболевшие вирусом «свиного гриппа» в Псковской области могут появиться на следующей неделе</a><a class="comments" href="/forum/228990.html" title="Комментариев: 22">22</a></div><div><a href="/health/hnews/229047.html"><span class="news_date">15.01.2016 21:43 </span>Врачи забыли простыню в животе пациентки</a><a class="comments" href="/forum/229047.html" title="Комментариев: 24">24</a></div>
     </div>
     <div id="more"><a class="more" href="/hnews/1.html">Все материалы раздела&nbsp;</a></div>
 
@@ -778,4 +778,4 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/resou
 </body>
 </html>
 
-<!--0.079819-->
+<!--0.051652-->

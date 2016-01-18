@@ -428,13 +428,12 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
 
 	
-        <!-- Morning Edition -->
+		
         
         
+         
         
-        
-        
-  	
+	
 
 	
 		<div id="functionalMod" class="sclt-mastheadbox">
@@ -444,8 +443,8 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		
 			<div class="showinfo">
 				<div class="nowplaying">
-					<a href="/morningedition/">
-					The Morning Edition	
+					<a href="/player/Radio/Local+Shows/Saskatchewan/">
+					Radio One	
 					</a>
 				</div>
 								
@@ -460,7 +459,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 		</div>
 		
 		<div id="functionalModImage">
-			<img src="/sask/images/masthead/stefani_langenegger.png" alt="host picture" />
+			<img src="/sask/images/masthead/radio_one.png" alt="host picture" />
 		</div>
 		
 	
@@ -827,26 +826,7 @@ if (Y.one("#sharetoolstwo"))
         
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-        	 <script type="text/javascript">
+	 <script type="text/javascript">
 if(typeof(advertising_site) == "undefined") { advertising_site = "cbc.ca"; }
 if(typeof(advertising_zone) == "undefined") { advertising_zone = "nozone"; }
 if(typeof(advertising_page_type) == "undefined") { advertising_page_type = "story"; }
@@ -876,7 +856,6 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 </div>
 		</div>
 	
-    
 
       
     
@@ -905,15 +884,13 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/canada/saskatchewan/nail-salon-injury-health-1.3404722" class="complexlink media">
-								<img title='' height='79' alt='Nail injury' width='140' class='media-side' src='http://i.cbc.ca/1.3404891.1452825301!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/nail-injury.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Nick at nail salon prompts health inspection in Regina</span>
+							<a  href="/news/canada/saskatchewan/fsin-chief-meeting-premiers-moose-meat-1.3407883" class="complexlink media">
+								<img title='' height='79' alt='FSIN Chief Bobby Cameron' width='140' class='media-side' src='http://i.cbc.ca/1.3307226.1452227333!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/fsin-chief-bobby-cameron.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">FSIN chief wants meeting with premiers over seized moose meat</span>
 									<span class="lineuproll-extra">
-																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/saskatchewan/nail-salon-injury-health-1.3404722"></span></span>
-    <span class="offscreen">comments</span>
-   
-	
+																					<span class="lineuproll-icons"> 
+	    	    		    		    		
+			<span class="icon_video">video</span>
 		</span>
 																			</span>
 								</span>
@@ -926,10 +903,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/souls-harbour-clothing-give-away-1.3405107">Souls Harbour giving away new clothing for people in need </a>
+							<a  href="/news/canada/saskatoon/music-from-the-streets-saskatoon-raised-steph-cameron-talks-inspiration-from-struggle-1.3407923">Music from the streets: Saskatoon-raised Steph Cameron talks inspiration from struggle</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/saskatchewan/souls-harbour-clothing-give-away-1.3405107"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/saskatoon/music-from-the-streets-saskatoon-raised-steph-cameron-talks-inspiration-from-struggle-1.3407923"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -943,10 +920,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatoon/saskatchewan-rush-ready-for-home-opening-game-1.3404946">Saskatchewan Rush ready for home-opening game</a>
+							<a  href="/news/canada/saskatoon/tractors-galore-farm-toy-show-wraps-up-in-saskatoon-1.3407882">Tractors galore: Farm toy show wraps up in Saskatoon</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/saskatoon/saskatchewan-rush-ready-for-home-opening-game-1.3404946"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/saskatoon/tractors-galore-farm-toy-show-wraps-up-in-saskatoon-1.3407882"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -960,7 +937,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/weather-gas-traffic-jan-15-1.3405079">Regina's weather, traffic and gas prices for Friday</a>
+							<a  href="/news/canada/saskatchewan/second-1-million-jackpot-dakota-dunes-1.3407750">Second $1M jackpot won in 3 weeks at Dakota Dunes Casino</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> 
 	
@@ -974,9 +951,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/aboriginal/the-revenant-not-an-indigenous-story-1.3404007">The Revenant is not an indigenous story</a>
+							<a  href="/radio/the180/selling-naming-rights-to-bridges-putting-animals-on-trial-and-a-stain-on-vancouver-s-greenest-city-dream-1.3404608/saskatoon-may-have-a-bridge-to-sell-you-in-name-at-least-1.3404669">Saskatoon may have a bridge to sell you — in name, at least</a>
 							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/radio/the180/selling-naming-rights-to-bridges-putting-animals-on-trial-and-a-stain-on-vancouver-s-greenest-city-dream-1.3404608/saskatoon-may-have-a-bridge-to-sell-you-in-name-at-least-1.3404669"></span></span>
+    <span class="offscreen">comments</span>
+   
 	
 		</span>
 															</span>
@@ -1003,46 +983,46 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 	    	    		 
 <ul class="promocollection-list">
     		<li class="promo col2">
-					    		 		<a href="/news/canada/saskatchewan/cbc-news-sask-late-night-news-january-14-2016-1.3404983" class="complexlink videolink">
+					    		 		<a href="/news/canada/saskatchewan/cross-country-ski-trails-in-regina-1.3407512" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='CBC News: Sask. Late Night News - January 14, 2016' width='100%' src='http://i.cbc.ca/1.3404983.1452835202!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Cross country ski trails in Regina' width='100%' src='http://i.cbc.ca/1.3407512.1452998701!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
 						</p>		
-			<p class="promo-title complexlink-target">CBC News: Sask. Late Night News - January 14, 2016</p>
+			<p class="promo-title complexlink-target">Cross country ski trails in Regina</p>
 						<p class="promo-runtime lighttext">
-									9:58
+									1:18
 							</p>
 								</a>
 			</li>
     		<li class="promo col2">
-					    		 		<a href="/news/canada/saskatchewan/riders-release-dressler-chick-1.3404943" class="complexlink videolink">
+					    		 		<a href="/news/canada/saskatchewan/outdoors-fun-still-do-able-in-the-cold-1.3407492" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Riders release Dressler, Chick' width='100%' src='http://i.cbc.ca/1.3404943.1452831601!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='Outdoors fun still do-able in the cold' width='100%' src='http://i.cbc.ca/1.3407492.1452995510!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
 						</p>		
-			<p class="promo-title complexlink-target">Riders release Dressler, Chick</p>
+			<p class="promo-title complexlink-target">Outdoors fun still do-able in the cold</p>
 						<p class="promo-runtime lighttext">
-									1:40
+									1:04
 							</p>
 								</a>
 			</li>
     		<li class="promo col2">
-					    		 		<a href="/news/canada/saskatchewan/cbc-news-saskatchewan-january-14-2016-1.3404775" class="complexlink videolink">
+					    		 		<a href="/news/canada/saskatchewan/cbc-news-sask-late-night-news-january-15-2016-1.3406956" class="complexlink videolink">
 			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='CBC News: Saskatchewan - January 14, 2016' width='100%' src='http://i.cbc.ca/1.3404775.1452818702!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='CBC News: Sask. Late Night News - January 15, 2016' width='100%' src='http://i.cbc.ca/1.3406956.1452921601!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
 						</p>		
-			<p class="promo-title complexlink-target">CBC News: Saskatchewan - January 14, 2016</p>
+			<p class="promo-title complexlink-target">CBC News: Sask. Late Night News - January 15, 2016</p>
+						<p class="promo-runtime lighttext">
+									10:01
+							</p>
+								</a>
+			</li>
+    		<li class="promo col2">
+					    		 		<a href="/news/canada/saskatchewan/cbc-news-saskatchewan-january-15-2016-1.3406799" class="complexlink videolink">
+			<p>
+        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='CBC News: Saskatchewan - January 15, 2016' width='100%' src='http://i.cbc.ca/1.3406799.1452905102!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
+						</p>		
+			<p class="promo-title complexlink-target">CBC News: Saskatchewan - January 15, 2016</p>
 						<p class="promo-runtime lighttext">
 									31:01
-							</p>
-								</a>
-			</li>
-    		<li class="promo col2">
-					    		 		<a href="/news/canada/saskatchewan/cbc-news-sask-late-night-news-january-13-2016-1.3403183" class="complexlink videolink">
-			<p>
-        					<span class="videolink-thumbnail">    			<img title='' height='79' alt='CBC News: Sask. Late Night News - January 13, 2016' width='100%' src='http://i.cbc.ca/1.3403183.1452748801!/httpImage/image.jpg_gen/derivatives/16x9tight_140/image.jpg' />				</span>    									<span class="promo-label label video">Video</span>
-						</p>		
-			<p class="promo-title complexlink-target">CBC News: Sask. Late Night News - January 13, 2016</p>
-						<p class="promo-runtime lighttext">
-									9:58
 							</p>
 								</a>
 			</li>
@@ -1115,12 +1095,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/business/markets-dollar-oil-1.3405067" class="complexlink media">
-								<img title='' height='79' alt='Loonie canadian dollar 20150130' width='140' class='media-side' src='http://i.cbc.ca/1.3153847.1436993640!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/loonie-canadian-dollar-20150130.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Loonie below 69 cents as oil dumps another 5% to $29 a barrel</span>
+							<a  href="/news/world/burkina-faso-survivors-1.3407898" class="complexlink media">
+								<img title='' height='79' alt='AFP_755MH' width='140' class='media-side' src='http://i.cbc.ca/1.3407933.1453065229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/afp-755mh.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">'Wounded people were crying out': Survivors detail escaping death in Burkina Faso attack</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/markets-dollar-oil-1.3405067"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/world/burkina-faso-survivors-1.3407898"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1136,44 +1116,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/health/cadmium-jewelry-ardene-aldo-1.3404036">Cadmium in low-cost jewelry may create toxic bling</a>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316">'Vanilla socialist' Bernie Sanders jams a wrench into the Clinton juggernaut</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/cadmium-jewelry-ardene-aldo-1.3404036"></span></span>
-    <span class="offscreen">comments</span>
-   
-	    	    		    		    		
-			<span class="icon_video">video</span>
-		</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/canada/hamilton/news/tim-bosma-slaying-jury-selection-in-millard-smich-trial-starts-monday-1.3400581">'This only happens in TV and in movies': Tim Bosma killing reads like crime novel</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
-	    	    		    		    	    		    		    		
-			<span class="icon_video">video</span>
-				<span class="icon_audio">audio</span>
-	</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/women-on-the-money-social-media-1.3403812">McClung, Bondar and Rempel among readers' picks for female faces on the money</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/women-on-the-money-social-media-1.3403812"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -1187,14 +1133,48 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/business/sending-remittances-low-dollar-1.3404145">Weak loonie means immigrants and foreign workers have less to send home </a>
+							<a  href="/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614">Quebecers killed in Burkina Faso identified, including family of 4</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/sending-remittances-low-dollar-1.3404145"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614"></span></span>
     <span class="offscreen">comments</span>
    
-	    	    		    		    		
+	    	    		    		    	    		    		    		
 			<span class="icon_video">video</span>
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/trending/new-york-times-canada-hip-1.3407773">New York Times calls Canada suddenly 'hip,' prompting online mockery</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/trending/new-york-times-canada-hip-1.3407773"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/world/clinton-sanders-debate-primaries-1.3407915">Clinton, Sanders take Democratic battle to the stage in last debate before primaries </a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/world/clinton-sanders-debate-primaries-1.3407915"></span></span>
+    <span class="offscreen">comments</span>
+   
+	
 		</span>
 															</span>
 						</li>
@@ -1230,7 +1210,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/nail-salon-injury-health-1.3404722">Nick at nail salon prompts health inspection in Regina</a>
+							<a  href="/news/canada/saskatchewan/student-upset-ib-cut-regina-public-schools-1.3407325">Student upset International Baccalaureate program cut from Regina public schools</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1242,7 +1222,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/john-chick-weston-dressler-saskatchewan-roughriders-1.3404401">Saskatchewan Roughriders release John Chick, Weston Dressler</a>
+							<a  href="/news/canada/saskatchewan/second-1-million-jackpot-dakota-dunes-1.3407750">Second $1M jackpot won in 3 weeks at Dakota Dunes Casino</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1254,7 +1234,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/regina-officers-too-far-simon-ash-moccasin-racial-profile-1.3404303">Regina officers 'went too far' but did not racially profile Simon Ash-Moccasin</a>
+							<a  href="/news/canada/saskatchewan/saskatchewan-provincial-highway-summary-jan1716-1.3407733">Saskatchewan highway conditions a west-east divide Sunday</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1266,7 +1246,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/souls-harbour-clothing-give-away-1.3405107">Souls Harbour giving away new clothing for people in need </a>
+							<a  href="/news/canada/saskatchewan/banning-prayers-in-public-schools-1.3405175">Saskatchewan mom wants mandatory prayers banned in public schools</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1278,7 +1258,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/international-baccalaureate-program-cut-from-regina-public-schools-1.3404043">International Baccalaureate program cut from Regina public schools</a>
+							<a  href="/news/canada/saskatchewan/fsin-chief-meeting-premiers-moose-meat-1.3407883">FSIN chief wants meeting with premiers over seized moose meat</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1290,7 +1270,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/documentary-inspires-regina-family-to-spend-more-time-outdoors-1.3404718">Documentary inspires Regina family to spend more time outdoors</a>
+							<a  href="/news/canada/saskatchewan/more-frigid-weather-coming-saskatchewan-1.3407708">More frigid weather on its way across Saskatchewan</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1302,7 +1282,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/saskatchewan-surgical-team-plans-international-medical-mission-1.3404337">Saskatchewan surgical team plans international medical mission</a>
+							<a  href="/news/canada/saskatchewan/naked-man-flees-from-flaming-tanning-bed-in-regina-1.786909">Naked man flees from flaming tanning bed in Regina</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1314,7 +1294,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/weather-gas-traffic-jan-15-1.3405079">Regina's weather, traffic and gas prices for Friday</a>
+							<a  href="/news/canada/saskatchewan/deep-cold-grips-saskatchewan-environment-canada-issues-cold-weather-warning-1.3407061">Deep cold grips Saskatchewan; Environment Canada issues cold weather warning</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1326,7 +1306,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/saskatchewan/roughrider-crossfit-regina-1.3391155">Roughriders star John Chick opens CrossFit gym in Regina</a>
+							<a  href="/news/canada/saskatchewan/car-yorkton-fatal-crossed-line-1.3407155">Car in Yorkton, Sask., fatal crash crossed centre line</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1357,114 +1337,115 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 								</h3>
 	</div>
 	<div class="carousel-body module-body">
-		<div id="carousel_7_1183_1444962063-13128" class="scroller">
+		<div id="carousel_7_1183_1444962063-22084" class="scroller">
 			<div class="scroller-wrapper layoutcontext">
 				<ul>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/nail-salon-injury-health-1.3404722" class="complexlink">
+									    		 		<a href="/news/canada/saskatchewan/fsin-chief-meeting-premiers-moose-meat-1.3407883" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Nail injury' width='100%' src='http://i.cbc.ca/1.3404891.1452825301!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/nail-injury.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Nick at nail salon prompts health inspection in Regina</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/souls-harbour-clothing-give-away-1.3405107" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='SOULS HARBOUR CHRISTMAS MEAL 2015' width='100%' src='http://i.cbc.ca/1.3379154.1450912053!/fileImage/httpImage/image.png_gen/derivatives/16x9tight_140/souls-harbour-christmas-meal-2015.png' />				    								</p>		
-			<p class="promo-title complexlink-target">Souls Harbour giving away new clothing for people in need </p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatoon/saskatchewan-rush-ready-for-home-opening-game-1.3404946" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Saskatchewan Rush' width='100%' src='http://i.cbc.ca/1.3404948.1452831629!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/saskatchewan-rush.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Saskatchewan Rush ready for home-opening game</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/weather-gas-traffic-jan-15-1.3405079" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Regina traffic snarled' width='100%' src='http://i.cbc.ca/1.2355680.1383586796!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/regina-traffic-snarled.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Regina's weather, traffic and gas prices for Friday</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/aboriginal/the-revenant-not-an-indigenous-story-1.3404007" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='The Revenant' width='100%' src='http://i.cbc.ca/1.3250476.1443630917!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/the-revenant.jpg' />				    									<span class="promo-label label opinion">Opinion</span>
+        					    			<img title='' height='79' alt='FSIN Chief Bobby Cameron' width='100%' src='http://i.cbc.ca/1.3307226.1452227333!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/fsin-chief-bobby-cameron.jpg' />				    									<span class="promo-label label new">New</span>
 						</p>		
-			<p class="promo-title complexlink-target">The Revenant is not an indigenous story</p>
+			<p class="promo-title complexlink-target">FSIN chief wants meeting with premiers over seized moose meat</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/saskatchewan-surgical-team-plans-international-medical-mission-1.3404337" class="complexlink">
+									    		 		<a href="/news/canada/saskatoon/music-from-the-streets-saskatoon-raised-steph-cameron-talks-inspiration-from-struggle-1.3407923" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Surgery cardiac complications' width='100%' src='http://i.cbc.ca/1.3351524.1449260715!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/surgery-cardiac-complications.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Saskatchewan surgical team plans international medical mission</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/john-chick-weston-dressler-saskatchewan-roughriders-1.3404401" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Dressler Chick' width='100%' src='http://i.cbc.ca/1.3404469.1452807846!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/dressler-chick.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Saskatchewan Roughriders release John Chick, Weston Dressler</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/documentary-inspires-regina-family-to-spend-more-time-outdoors-1.3404718" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Malin Hansen' width='100%' src='http://i.cbc.ca/1.3404735.1452816213!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/malin-hansen.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Documentary inspires Regina family to spend more time outdoors</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/regina-officers-too-far-simon-ash-moccasin-racial-profile-1.3404303" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Simon Ash-Moccasin shows a mark on his face' width='100%' src='http://i.cbc.ca/1.2871652.1418416361!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/simon-ash-moccasin-shows-a-mark-on-his-face.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Regina officers 'went too far' but did not racially profile Simon Ash-Moccasin</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/university-of-regina-research-auditor-1.3404349" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='university of regina' width='100%' src='http://i.cbc.ca/1.2985923.1425759189!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/university-of-regina.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Fixes made for how University of Regina keeps tabs on research</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatoon/good-food-junction-saskatoon-1.3404294" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='The Good Food Junction ' width='100%' src='http://i.cbc.ca/1.3404497.1452808615!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/the-good-food-junction.JPG' />				    								</p>		
-			<p class="promo-title complexlink-target">Good Food Junction closing in Saskatoon</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/canada/saskatchewan/international-baccalaureate-program-cut-from-regina-public-schools-1.3404043" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Campbell collegiate' width='100%' src='http://i.cbc.ca/1.3323413.1447797349!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/campbell-collegiate.JPG' />				    								</p>		
-			<p class="promo-title complexlink-target">International Baccalaureate program cut from Regina public schools</p>
-								</a>
-							</li>
-				    						<li class="promo col2width">
-									    		 		<a href="/news/technology/netflix-proxy-services-crackdown-1.3404169" class="complexlink">
-			<p>
-        					    			<img title='' height='79' alt='Netflix CEO Reed Hastings' width='100%' src='http://i.cbc.ca/1.3404194.1452800529!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/netflix-ceo-reed-hastings.jpg' />				    									<span class="promo-label label netflix">Netflix</span>
+        					    			<img title='' height='79' alt='Steph Cameron' width='100%' src='http://i.cbc.ca/1.3407925.1453064894!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/steph-cameron.JPG' />				    									<span class="promo-label label new">New</span>
 						</p>		
-			<p class="promo-title complexlink-target">Like to stream U.S. Netflix?</p>
+			<p class="promo-title complexlink-target">Music from the streets: Saskatoon-raised Steph Cameron talks inspiration from struggle</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/aboriginal/manitoba-grand-chief-wants-meeting-with-saskatchewan-premier-over-hunting-rights-1.3404005" class="complexlink">
+									    		 		<a href="/news/canada/saskatoon/tractors-galore-farm-toy-show-wraps-up-in-saskatoon-1.3407882" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='moose hunting saskatchewan manitoba ' width='100%' src='http://i.cbc.ca/1.3392395.1452115488!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/moose-hunting-saskatchewan-manitoba.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Manitoba grand chief wants meeting with Saskatchewan premier over hunting rights</p>
+        					    			<img title='' height='79' alt='Saskatoon - farm toy - tractor' width='100%' src='http://i.cbc.ca/1.3407909.1453063158!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/saskatoon-farm-toy-tractor.jpg' />				    									<span class="promo-label label new">New</span>
+						</p>		
+			<p class="promo-title complexlink-target">Tractors galore: Farm toy show wraps up in Saskatoon</p>
 								</a>
 							</li>
 				    						<li class="promo col2width">
-									    		 		<a href="/news/aboriginal/aboriginal-inmates-1.3403647" class="complexlink">
+									    		 		<a href="/news/canada/saskatchewan/second-1-million-jackpot-dakota-dunes-1.3407750" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='stony mountain' width='100%' src='http://i.cbc.ca/1.3009108.1427303607!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/stony-mountain.jpg' />				    								</p>		
-			<p class="promo-title complexlink-target">Prison watchdog says more than a quarter of federal inmates are aboriginal people</p>
+        					    			<img title='' height='79' alt='whitecap casino' width='100%' src='http://i.cbc.ca/1.2741231.1453051291!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/whitecap-casino.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Second $1M jackpot won in 3 weeks at Dakota Dunes Casino</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/radio/the180/selling-naming-rights-to-bridges-putting-animals-on-trial-and-a-stain-on-vancouver-s-greenest-city-dream-1.3404608/saskatoon-may-have-a-bridge-to-sell-you-in-name-at-least-1.3404669" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Saskatoon - river - bridge - weather' width='100%' src='http://i.cbc.ca/1.3352451.1449336613!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/saskatoon-river-bridge-weather.JPG' />				    								</p>		
+			<p class="promo-title complexlink-target">Saskatoon may have a bridge to sell you — in name, at least</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatchewan/saskatchewan-provincial-highway-summary-jan1716-1.3407733" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Saskatchewan highway - driving - Paradise Hill' width='100%' src='http://i.cbc.ca/1.3407736.1453049361!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/saskatchewan-highway-driving-paradise-hill.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Saskatchewan highway conditions a west-east divide Sunday</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatchewan/student-upset-ib-cut-regina-public-schools-1.3407325" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='JONAH TOTH IB PROGRAM REGINA PUBLIC SCHOOLS jan 16 2015' width='100%' src='http://i.cbc.ca/1.3407337.1452981362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/jonah-toth-ib-program-regina-public-schools-jan-16-2015.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Student upset International Baccalaureate program cut from Regina public schools</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatchewan/more-frigid-weather-coming-saskatchewan-1.3407708" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='COLD WEATHER WARNING SASK jan 17 2015' width='100%' src='http://i.cbc.ca/1.3407712.1453045104!/fileImage/httpImage/image.png_gen/derivatives/16x9tight_140/cold-weather-warning-sask-jan-17-2015.png' />				    								</p>		
+			<p class="promo-title complexlink-target">More frigid weather on its way across Saskatchewan</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatoon/robots-cut-push-and-flip-their-way-to-victory-at-the-university-of-saskatchewan-1.3407310" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Robot - battle - Saskatoon' width='100%' src='http://i.cbc.ca/1.3407312.1452978744!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/robot-battle-saskatoon.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Robots cut, push and flip their way to victory at the University of Saskatchewan</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatchewan/weather-gas-traffic-jan-17-1.3407645" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Regina - park - weather' width='100%' src='http://i.cbc.ca/1.3407655.1453038411!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/regina-park-weather.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Regina's weather, traffic and gas prices for Sunday</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/world/burkina-faso-hotel-attack-1.3407326" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='AFP_75563' width='100%' src='http://i.cbc.ca/1.3407469.1452993570!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/afp-75563.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Burkina Faso hotel attack leaves 6 Canadians from Quebec dead</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatchewan/cold-enough-outdoor-fun-possible-with-layer-1.3407497" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='extreme cold' width='100%' src='http://i.cbc.ca/1.3407338.1452981396!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/extreme-cold.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Cold enough for you? Outdoor fun possible, with layers</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/radio/unreserved/from-star-wars-to-stargazing-1.3402216/star-wars-characters-take-off-in-navajo-artist-s-landscapes-1.3402873" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='Tuba City Spaceport Ryan Singer' width='100%' src='http://i.cbc.ca/1.3403813.1452867309!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/tuba-city-spaceport-ryan-singer.JPG' />				    								</p>		
+			<p class="promo-title complexlink-target">Star Wars characters take off in Navajo artist's landscapes</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatoon/corinna-wollf-metis-mennonite-artist-1.3407261" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='corinna Wollf' width='100%' src='http://i.cbc.ca/1.3407301.1452978000!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/corinna-wollf.jpg' />				    								</p>		
+			<p class="promo-title complexlink-target">Corinna Wollf explores Métis and Mennonite heritage through art</p>
+								</a>
+							</li>
+				    						<li class="promo col2width">
+									    		 		<a href="/news/canada/saskatchewan/extreme-cold-saskatchewan-1.3407334" class="complexlink">
+			<p>
+        					    			<img title='' height='79' alt='sun dog ' width='100%' src='http://i.cbc.ca/1.3407347.1452982215!/fileImage/httpImage/image.JPG_gen/derivatives/16x9tight_140/sun-dog.JPG' />				    								</p>		
+			<p class="promo-title complexlink-target">Snap, it's cold: Extreme weather hits Saskatchewan</p>
 								</a>
 							</li>
 				    				</ul>
@@ -1484,7 +1465,7 @@ CBC.Queue.push({
 		YUI(yo).use('scroller', function(Y, result) {
 			if (result.success){
 				var instance = new CBC.APP.Scroller();
-				var conf = { parentid:"carousel_7_1183_1444962063-13128", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
+				var conf = { parentid:"carousel_7_1183_1444962063-22084", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
 		  		instance.init(Y, conf);
 			}
 		});
@@ -1517,7 +1498,7 @@ CBC.Queue.push({
 </style><footer id="cbc-globalfooter" class="sclt-globalFooter"><div class="cbc-globalfooter-section"><h2>Explore CBC</h2><ul><li><a href="http://www.cbc.ca">CBC Home</a></li><li><a href="http://www.cbc.ca/television/">TV</a></li><li><a href="http://www.cbc.ca/radio/">Radio</a></li><li><a href="http://www.cbc.ca/news">News</a></li><li><a href="http://www.cbc.ca/sports">Sports</a></li><li><a href="http://music.cbc.ca/">Music</a></li><li><a href="/arts/">Arts</a></li><li><a href="http://www.cbc.ca/kidscbc/">Kids</a></li><li><a href="http://www.cbc.ca/news/canada#region-nav">Local</a></li><li><a href="http://www.cbc.ca/documentaries/">Documentaries</a></li><li><a href="http://www.cbc.ca/punchline/">Comedy</a></li><li><a href="http://www.cbc.ca/books/">Books</a></li><li><a href="http://www.cbc.ca/parents/">Parents</a></li><li><a href="http://www.cbc.ca/news/aboriginal">Aboriginal</a></li><li><a href="http://www.cbc.ca/weather/">Weather</a></li><li><a href="http://www.cbc.ca/connects/">CBC Connects</a></li><li><a href="http://www.cbc.ca/archives/">Digital Archives</a></li><li><a href="http://www.cbc.ca/games/">Games</a></li><li><a href="http://www.cbc.ca/contests/">Contests</a></li><li><a href="http://www.cbc.ca/sitemap/">Site Map</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Stay Connected</h2><ul><li><a href="http://www.cbc.ca/mobile/services/">Mobile</a></li><li><a href="http://www.cbc.ca/rss/">RSS</a></li><li><a href="http://www.cbc.ca/radio/podcasts/">Podcasts</a></li><li><a href="http://subscriptions.cbc.ca/listmanagement">Newsletters &amp; Alerts</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Services and Information</h2><ul><li><a href="http://www.cbc.radio-canada.ca/en">Corporate Info</a></li><li><a href="http://www.cbc.ca/appearances/">Public Appearances</a></li><li><a href="http://www.cbc.ca/sitemap/">Commercial Services</a></li><li><a href="http://www.cbc.ca/permissions/">Reuse &amp; Permission</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/termsofuse.html">Terms of Use</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/privacy.html">Privacy Policy</a></li><li><a href="http://www.cbcshop.ca/">CBC Shop</a></li><li><a href="http://www.cbc.ca/connects/">Help</a></li><li><a href="http://www.cbc.ca/connects/">Contact Us</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/jobs/">Jobs</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/doing-business-with-us/">Doing Business with Us</a></li><li><a href="/productionfacilities/">Renting Facilities</a></li></ul></div><div class="cbc-globalfooter-bottom"><div class="cbc-globalfooter-logo"><p class="cbc"><a href="http://www.cbc.radio-canada.ca/">CBC</a></p><a href="http://www.cbc.radio-canada.ca/"><img class="cbc-globalfooter-logo" src="/i/o/globalnav/v14/images/cbc-gem.svg" width="40" height="40" alt="CBC gem logo"></a><p class="rc"><a href="http://www.cbc.radio-canada.ca/">Radio-Canada</a></p></div><div class="cbc-globalfooter-copyright"><p>©2016 CBC/Radio-Canada. All rights reserved</p></div><div class="cbc-globalfooter-bottom-link" lang="fr-CA"><a href="http://ici.radio-canada.ca/" hreflang="fr-CA">Visitez Radio-Canada.ca</a></div><div class="clear"></div></div></footer><script src="/i/o/globalnav/v14/scripts/globalfooter.js"></script><script>(function() {
 try{var a=
 {l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""}
-,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src=“//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
+,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
 {var g= "//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}
 catch(h){}};
 })();</script>

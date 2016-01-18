@@ -9,7 +9,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="msapplication-tap-highlight" content="no" />
         				
-		<meta name="last-modified" content="2016-01-13 15:51:30 GST" />
+		<meta name="last-modified" content="2016-01-14 14:40:46 GST" />
 
 													<meta name="robots" content="index" />
 			<meta name="robots" content="ACAP allow-index" />
@@ -34,22 +34,22 @@
 		googletag.cmd.push(function() {
 
 							var mapping1 = googletag.sizeMapping().addSize([300, 200], [300, 250]).build();
-				window.slot1= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [300,250], 'div-gpt-ad-501953').
+				window.slot1= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [300,250], 'div-gpt-ad-139').
 				defineSizeMapping(mapping1).addService(googletag.pubads()).setCollapseEmptyDiv(true);
 			
 							var mapping2 = googletag.sizeMapping().addSize([1024, 200], [1, 1]).addSize([320, 200], [320, 50]).build();
-				window.slot2= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [1,1], 'div-gpt-ad-569439').
+				window.slot2= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [1,1], 'div-gpt-ad-115').
 				defineSizeMapping(mapping2).addService(googletag.pubads()).setCollapseEmptyDiv(true);
 			
 							var mapping3 = googletag.sizeMapping().addSize([728, 200], [728, 90]).addSize([0, 0], []).build();
-				window.slot3= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [728,90], 'div-gpt-ad-501954').
+				window.slot3= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [728,90], 'div-gpt-ad-110').
 				defineSizeMapping(mapping3).addService(googletag.pubads()).setCollapseEmptyDiv(true);
 			
 							var mapping4 = googletag.sizeMapping().addSize([1024, 200], [970, 90]).addSize([0, 0], []).build();
-				window.slot4= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [970,90], 'div-gpt-ad-615234').
+				window.slot4= googletag.defineSlot('/5900/business24-7/Offbeat/Crazy_World', [970,90], 'div-gpt-ad-113').
 				defineSizeMapping(mapping4).addService(googletag.pubads());
 			
-							googletag.defineOutOfPageSlot('/5900/business24-7/Offbeat/Crazy_World', 'div-gpt-ad-501955-0-oop').addService(googletag.pubads());
+							googletag.defineOutOfPageSlot('/5900/business24-7/Offbeat/Crazy_World', 'div-gpt-ad-109-0-oop').addService(googletag.pubads());
 			
 							googletag.pubads().enableSingleRequest();
 			
@@ -60,8 +60,9 @@
 		</script>
 	
 					
-			<link rel="dns-prefetch" href="http://cdn-wac.emirates247.com">
-	
+				<meta name="dcterms.title" content="Patient sent $44.8m bill by hospital" />
+				<meta name="author" content="System Administrator" />
+		<meta name="dcterms.creator" content="System Administrator" />
 					<meta name="description" content="Whopping bill made him sick again" />
 	
 				<meta name="google-site-verification" content="gvGASCnV8iZTJPFdQv6c1D7_EB5BTyiF0sCBN-Cy20g" />
@@ -70,80 +71,61 @@
 					<meta name="alexaVerifyID" content="cpWRiGeguXPAy-a1KZErjqqRH-w" />
 	
 				
-	
+						<meta property="fb:admins" content="100002527388629" />
+					<meta property="fb:admins" content="100001378230475" />
+					<meta property="fb:admins" content="802229055" />
+					<meta property="fb:admins" content="716884467" />
+					<meta property="fb:admins" content="100000283387143" />
+			
 				<meta property="fb:app_id" content="132782903460978" />
 	
-		
-		
+				<meta property="fb:page_id" content="136509933034734" />
+	
+				<link rel="me" href="http://twitter.com/Emirates247" />
+	
 			
-	<link rel="canonical" href="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988" />
-			<link rel="image_src" href="http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1292342201!/image/1417930078.gif" />
-	
-		
-			<title>Patient sent $44.8m bill by hospital - Emirates 24|7</title>
-	
-	
-		<meta property="og:site_name" content="Emirates 24|7" />
-			<meta property="og:locale" content="en_GB" />
+				<meta property="og:locale" content="en_GB" />
 		<meta property="og:title" content="Patient sent $44.8m bill by hospital" />
 			<meta property="og:type" content="article" />
 		<meta property="og:url" content="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988" />
-			<meta property="og:image" content="http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1292342201!/image/1417930078.gif" />
-				<meta property="og:description" content="Whopping bill made him sick again" />
-				<meta property="article:published_time" content="2012-01-17 07:16+0400" />
-		<meta property="article:modified_time" content="2012-01-18 09:54+0400" />
+			<meta property="og:image" content="http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1452329881!/image/image.gif" />
 	
-		<meta name="twitter:card" content="summary_large_image" />
-		    <meta name="twitter:url" content="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988" />
-    <meta name="twitter:title" content="Patient sent $44.8m bill by hospital" />
-            <meta name="twitter:description" content="Whopping bill made him sick again" />
-				<meta name="twitter:image:src" content="http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1292342201!/image/1417930078.gif" />
+	<meta property="og:site_name" content="Emirates 24|7" />
+			<meta property="og:description" content="Whopping bill made him sick again" />
 	
-    		<meta name="twitter:app:name:iphone" content="Emirates 24|7" />
-		<meta name="twitter:app:id:iphone" content="786224961" />
-		<meta name="twitter:app:name:ipad" content="Emirates 24|7" />
-		<meta name="twitter:app:id:ipad" content="786224961" />
-				<meta name="twitter:app:name:googleplay" content="Emirates 24|7" />
-		<meta name="twitter:app:id:googleplay" content="com.emirates247" />
+	<link rel="canonical" href="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988" />
+			<link rel="image_src" href="http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1452329881!/image/image.gif" />
+	
+							<link rel="author" href="https://plus.google.com/116350387677372216403" />
+				<link rel="me" href="https://plus.google.com/116350387677372216403" />
+	
+			<title>Patient sent $44.8m bill by hospital - Emirates 24|7</title>
 	
 	
-	<script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-					"@type": "Article",
-				"inLanguage": "en",
-		"url": "http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988",
-
-					"name": "Patient sent $44.8m bill by hospital",
-			"headline": "Patient sent $44.8m bill by hospital",
-							"articleBody": "Whopping bill made him sick again",
-						"mainEntityOfPage": "http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988",
-						//"dateCreated": "2012-01-17 07:19+0400",
-			"datePublished": "2012-01-17 07:16+0400",
-			"dateModified": "2012-01-18 09:54+0400",
-							"thumbnailUrl": "http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1292342201!/image/1417930078.gif",
-				"image": {
-					"@list": ["http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1292342201!/image/1417930078.gif"]
-				},
-						//"articleSection": [],
-			//"creator": [],
+				
+					<meta property="twitter:card" content="summary_large_image">
+								        		<meta property="twitter:image:src" content="http://cdn-wac.emirates247.com/polopoly_fs/1.329501.1452329881!/image/image.gif">
+	        		    				    
+	    	    
+	    <meta property="twitter:site" content="@Emirates247">
+	    <meta property="twitter:url" content="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988">
+	    <meta property="twitter:title" content="Patient sent $44.8m bill by hospital">
+	    	        <meta property="twitter:description" content="Whopping bill made him sick again" />
+	    
+	    			<meta name="twitter:app:name:iphone" content="Emirates 24|7"/>
+			<meta name="twitter:app:id:iphone" content="786224961"/>
+			<meta name="twitter:app:name:ipad" content="Emirates 24|7"/>
+			<meta name="twitter:app:id:ipad" content="786224961"/>
 		
-					"description": "Whopping bill made him sick again",
-						"publisher": {
-			"@type": "Organization",
-			"name": "Emirates 24|7",
-			"logo": "http://www.emirates247.com/res/img/eb247/logo-1024x576.png",
-			"url": "http://www.emirates247.com",
-			"sameAs" : [
-															]
-		}
-	}
-	</script>
+					<meta name="twitter:app:name:googleplay" content="Emirates 24|7"/>
+			<meta name="twitter:app:id:googleplay" content="com.emirates247"/>
+			
+	
 
 		<!--[if IE]><meta http-equiv="imagetoolbar" content="no" /><![endif]-->
 
 		<link rel="author" href="http://cdn-wac.emirates247.com/res/img/eb247/humans.txt" />
-								<link rel="shortcut icon" href="http://cdn-wac.emirates247.com/polopoly_fs/1.155!/structure/createFavicon/favicon.ico" />
+								<link rel="shortcut icon" href="http://cdn-wac.emirates247.com/res/img/eb247/favicon.ico" type="image/x-icon" />
 		
 				<link rel="apple-touch-icon" sizes="57x57" href="http://cdn-wac.emirates247.com/res/img/eb247/apple-touch/icon-57x57-precomposed.png" />
 		<link rel="apple-touch-icon" sizes="76x76" href="http://cdn-wac.emirates247.com/res/img/eb247/apple-touch/icon-76x76-precomposed.png" />
@@ -219,37 +201,35 @@
 		
 						
 				
-							<link rel="alternate" type="application/rss+xml" title="WideVision - Business" href="http://www.emirates247.com/cmlink/en/widevision-business-1.552417?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Breaking News" href="http://www.emirates247.com/cmlink/en/breaking-news-1.544027?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Cricket" href="http://www.emirates247.com/cmlink/en/cricket-1.544026?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Dubai Chamber - http://Emirates247.com - Featured News " href="http://www.emirates247.com/cmlink/en/dubai-chamber-http-emirates247-com-featured-news-1.517982?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Dubai Chamber - http://Emirates247.com - Breaking News" href="http://www.emirates247.com/cmlink/en/dubai-chamber-http-emirates247-com-breaking-news-1.517974?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Dubai Chamber - http://Emirates247.com - 24 Hours" href="http://www.emirates247.com/cmlink/en/dubai-chamber-http-emirates247-com-24-hours-1.517980?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Dubai Chamber - http://Emirates247.com - International" href="http://www.emirates247.com/cmlink/en/dubai-chamber-http-emirates247-com-international-1.517977?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Dubai Chamber - http://Emirates247.com - Sports" href="http://www.emirates247.com/cmlink/en/dubai-chamber-http-emirates247-com-sports-1.517973?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Dubai Chamber - http://Emirates247.com - Protocal" href="http://www.emirates247.com/cmlink/en/dubai-chamber-http-emirates247-com-protocal-1.517972?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Dubai Chamber - http://Emirates247.com - Business" href="http://www.emirates247.com/cmlink/en/dubai-chamber-http-emirates247-com-business-1.517970?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Business 24 7" href="http://www.emirates247.com/cmlink/en/business-24-7-1.260938?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Mobile Image Gallery" href="http://www.emirates247.com/cmlink/en/mobile-image-gallery-1.512836?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Mobile Technology" href="http://www.emirates247.com/cmlink/en/mobile-technology-1.512834?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Mobile Property" href="http://www.emirates247.com/cmlink/en/mobile-property-1.512832?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Mobile Business" href="http://www.emirates247.com/cmlink/en/mobile-business-1.512830?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Mobile Editor's choice" href="http://www.emirates247.com/cmlink/en/mobile-editor-s-choice-1.512686?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Mobile - Most Read" href="http://www.emirates247.com/cmlink/en/mobile-most-read-1.512685?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Mobile - Breaking News" href="http://www.emirates247.com/cmlink/en/mobile-breaking-news-1.499796?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Rss Feed, Gulf News, Bollywood" href="http://www.emirates247.com/cmlink/en/rss-feed-gulf-news-bollywood-1.4268?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Gadget" href="http://www.emirates247.com/cmlink/en/gadget-1.260936?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Opinion" href="http://www.emirates247.com/cmlink/en/opinion-1.260506?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Sports" href="http://www.emirates247.com/cmlink/en/sports-1.260504?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Business of Life" href="http://www.emirates247.com/cmlink/en/business-of-life-1.260502?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Companies And Markets " href="http://www.emirates247.com/cmlink/en/companies-and-markets-1.260500?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Economy" href="http://www.emirates247.com/cmlink/en/economy-1.260494?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Banking And Finance " href="http://www.emirates247.com/cmlink/en/banking-and-finance-1.260490?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Crime" href="http://www.emirates247.com/cmlink/en/crime-1.431729?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - All Articles" href="http://www.emirates247.com/cmlink/en/iphone-all-articles-1.271664?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Flash News" href="http://www.emirates247.com/cmlink/en/iphone-flash-news-1.270967?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - News" href="http://www.emirates247.com/cmlink/en/iphone-news-1.264324?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Entertainment" href="http://www.emirates247.com/cmlink/en/iphone-entertainment-1.264330?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Lifestyle" href="http://www.emirates247.com/cmlink/en/iphone-lifestyle-1.271031?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Offbeat" href="http://www.emirates247.com/cmlink/en/iphone-offbeat-1.264329?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Sports" href="http://www.emirates247.com/cmlink/en/iphone-sports-1.264320?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Business" href="http://www.emirates247.com/cmlink/en/iphone-business-1.264328?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Property" href="http://www.emirates247.com/cmlink/en/iphone-property-1.271033?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="iPhone - Emirates" href="http://www.emirates247.com/cmlink/en/iphone-emirates-1.315886?localLinksEnabled=false" />					<link rel="alternate" type="application/rss+xml" title="Offbeat" href="http://www.emirates247.com/cmlink/en/offbeat-1.260933?localLinksEnabled=false" />		
 				
-        
+				
+      
 
       
-							<link rel="dns-prefetch" href="//www.google-analytics.com" />
-				<script type="text/javascript">
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-			ga('create', 'UA-3157417-1', 'auto');
-			ga('send', 'pageview');
+									<script type="text/javascript">
+																			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-3157417-1'], ['_setDomainName', '.emirates247.com'], ['_setAllowLinker', true], ['_trackPageview']);
 
-						ga('create', 'UA-36885283-1', 'auto', {'name': 'dmi', 'allowLinker': true });
-							ga('dmi.require', 'linker');
-				ga('dmi.linker:autoLink', ['emirates247.com'] );
-						ga('dmi.send', 'pageview');
+					_gaq.push(['dmi._setAccount', 'UA-36885283-1'], ['dmi._setDomainName', '.emirates247.com'], ['dmi._setAllowLinker', true], ['dmi._trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
 		</script>
 					
 							<script type="text/javascript">
-			<!--//--><![CDATA[//><!--
-			var pp_gemius_identifier = 'babq_A9Bt4tS1ox7n6SLpZR7.Bhuw3CI9a.uZbGOkF7.L7';
-			// lines below shouldn't be edited
-			function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
-			gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
-			(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
-			gt.setAttribute('defer','defer'); gt.src=l+'://gasaae.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
-		//--><!]]>
+		//<![CDATA[
+			var pp_gemius_identifier = new String("babq_A9Bt4tS1ox7n6SLpZR7.Bhuw3CI9a.uZbGOkF7.L7");
+
+			(function() {
+				var ge = document.createElement('script'); ge.type = 'text/javascript'; ge.async = true; ge.src = 'http://cdn-wac.emirates247.com/res/js/ipsos/xgemius.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ge, s);
+			})();
+		//]]>
 		</script>
-			
+					
 	</head>
 
 	
@@ -260,34 +240,27 @@
 			<a name="top"></a>
 			<div id="header">
 									
-                  
-    
-      
-        
+                          
 
 <div class="banner take-over">
-	<div id="div-gpt-ad-569439" class="ad-slot">
+	<div id="div-gpt-ad-115" class="ad-slot">
 		<script type="text/javascript">			 
-							googletag.display("div-gpt-ad-569439");
+							googletag.display("div-gpt-ad-115");
 					</script> 
 	</div>
 </div>
 
-
-          
-        
+                  
 
 <div class="banner push-down">
-	<div id="div-gpt-ad-615234" class="ad-slot">
+	<div id="div-gpt-ad-113" class="ad-slot">
 		<script type="text/javascript">			 
-							googletag.display("div-gpt-ad-615234");
+							googletag.display("div-gpt-ad-113");
 					</script> 
 	</div>
 </div>
 
-
-      
-  
+        
       				
 				<div class="masthead">
 					<div class="mobile-menu-toggle">
@@ -296,16 +269,9 @@
 						</div>
 					</div>
 											
-                  
-    
-      
-        <div class="current-date">
-	6.44 PM Friday, 15 January 2016
-</div>
-          
-        			<div class="rss">			<ul>																												<li class="el odd last-child">					<a href="http://www.emirates247.com/cmlink/en/widevision-business-1.552417?ot=ot.AjaxPageLayout" title="RSS Feeds"><img src="http://cdn-wac.emirates247.com/res/img/icons/social/rss_16.png" alt="RSS Feeds" /></a>				</li>						</ul>		</div>	
-          
-        <div id="html-snippet-18529760" class="html-snippet ">
+                          <div class="current-date">
+	12.59 AM Monday, 18 January 2016
+</div>                  	                  <div id="html-snippet-4579914" class="html-snippet ">	
 			<div class="followus">
 <a href="http://www.pinterest.com/emirates247/" title="Pinterest" target="_blank"><img src="/res/img/icons/social/pinterest_16.png" width="16" height="16" alt="Pinterest"/></a>
 <a href="http://plus.google.com/116350387677372216403" rel="publisher" title="Google+" target="_blank"><img src="/res/img/icons/social/gplus_16.png" width="16" height="16" alt="Google+"/></a>
@@ -316,46 +282,37 @@
 <a href="https://www.linkedin.com/company/emirates-24-7-dubai-media-inc." title="LinkedIn" target="_blank"><img src="/res/img/icons/social/linkedin_16.png" width="16" height="16" alt="LinkedIn"/></a>
 </div>
 
-	</div>
-          
-        
+	</div>                  
 
 <div class="banner leader-board ">
-	<div id="div-gpt-ad-501954" class="ad-slot">
+	<div id="div-gpt-ad-110" class="ad-slot">
 		<script type="text/javascript">			 
-							googletag.display("div-gpt-ad-501954");
+							googletag.display("div-gpt-ad-110");
 					</script> 
 	</div>
 </div>
 
-
-          
-        <div class="graphic">
+                  <div class="graphic">
 	
-	                <a href="/" title="Emirates24|7"> 
-            <img src="http://cdn-wac.emirates247.com/polopoly_fs/7.110.1449378409!/en_GB_image/2915011424.png_gen/derivatives/default/2915011424.png" alt="Emirates 247 Logo" />
+	                <a href="/" title="N/A"> 
+            <img src="http://cdn-wac.emirates247.com/polopoly_fs/7.106.1453021014!/image/image.png_gen/derivatives/default/image.png" alt="" />
             </a>
-    </div>
-      
-  
+    </div>        
       									</div>
 
 				<div class="navigation">
 											
-                  
-    
-      
-        
+                          
 
 	
-		<div id="menu_18550629" class="tab-menu">
+		<div id="menu_4579918" class="tab-menu">
 		<ul class="menu">
 																									<li class="entry first-child">
-							<a href="/" title="Home">Home</a>
+					
+<div>
+		<a href="/" title="N/A">Home</a>
 
-
-
-				</li>
+</div>				</li>
 																											<li class="entry parent">
 					<a href="/news">News</a>
 											<ul class="sub-menu">
@@ -363,13 +320,13 @@
 					<a href="/news/emirates">Emirates</a>
 									</li>
 																									<li class="entry">
-					<a href="/news/world">World</a>
-									</li>
-																									<li class="entry">
 					<a href="/news/government">Government</a>
 									</li>
 																									<li class="entry">
 					<a href="/news/region">Region</a>
+									</li>
+																									<li class="entry">
+					<a href="/news/world">World</a>
 									</li>
 																																								</ul>
 									</li>
@@ -391,7 +348,7 @@
 					<a href="/entertainment">Entertainment</a>
 											<ul class="sub-menu">
 																													<li class="entry first-child">
-					<a href="/entertainment/films-music">Films &amp; Music</a>
+					<a href="/entertainment/films-and-music">Films and Music</a>
 									</li>
 																									<li class="entry">
 					<a href="/entertainment/celebrity-gossip">Celebrity Gossip</a>
@@ -438,10 +395,13 @@
 																											<li class="entry parent">
 					<a href="/sports/cricket">Cricket</a>
 											<ul class="sub-menu">
-																															</ul>
+																															<li class="entry first-child last-child">
+					<a href="/sports/cricket/world-cup">World Cup</a>
+									</li>
+												</ul>
 									</li>
 																									<li class="entry">
-					<a href="/sports/football">Football</a>
+					<a href="/sports/football">FootBall</a>
 									</li>
 																																																			<li class="entry">
 					<a href="/sports/other">Other</a>
@@ -452,7 +412,7 @@
 					<a href="/business">Business</a>
 											<ul class="sub-menu">
 																													<li class="entry first-child">
-					<a href="/business/economy-finance">Economy &amp; Finance</a>
+					<a href="/business/economy-and-finance">Economy and Finance</a>
 									</li>
 																									<li class="entry">
 					<a href="/business/corporate">Corporate</a>
@@ -476,7 +436,7 @@
 									</li>
 																											</ul>
 									</li>
-																																																																																																																																																																																																																																																																																																																																																																																																					</ul>
+																																																																																																																																																																																																																																																																																																																																																									</ul>
 					<ul class="shortcuts">
 																																		<li class="entry odd first-child">
 													<a class="externalLink" href="http://classifieds.emirates247.com" title="Search for Classifieds, Jobs, Cars and Real Estate for Sale or Rent">Classifieds</a>
@@ -502,7 +462,7 @@
 		//<![CDATA[
 		$(document).ready(
 			function() {
-				$("#menu_18550629 UL.menu LI").hover(
+				$("#menu_4579918 UL.menu LI").hover(
 					function() { //Hover over event on list item
 						$(this).siblings().removeClass('active');
 						$(this).siblings().find("UL").hide(); //Hide the subnav
@@ -520,46 +480,38 @@
 		);
 		//]]>
 	</script>	
-
-      
-  
+        
       									</div>
 				<div class="extras">
 											
-                  
-    
-      
-        	<div class="breadcrumb">
-		<ul id="breadcrumb-18550632" itemscope itemtype="http://schema.org/BreadcrumbList">
+                          
+	<div class="breadcrumb">
+		<ul id="breadcrumb-4579921" itemscope itemtype="http://schema.org/BreadcrumbList">	
 																															<li class="item first-child" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" itemprop="item"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li>
 																							<li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/offbeat" itemprop="item"><span itemprop="name">Offbeat</span></a><meta itemprop="position" content="2" /></li>
 																											<li class="item last-child" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/offbeat/crazy-world" itemprop="item"><span itemprop="name">Crazy World</span></a><meta itemprop="position" content="3" /></li>
 					</ul>
 	</div>
+                  
 
-          
-        
+                  
+    
 
-
-          
-        
-		
-		<div id="search-18550634" class="search basic">
-					<form action="/search-7.117" method="get">
+<div class="search element" id="search_7.117">
+		<div id="search-4579923" class="search basic">
+								<form action="/search-7.117" method="get">
 												<input type="hidden" name="s" value="r" />
-				<input type="text" name="q" value="" class="query" id="query" title="queryText"/><input type="image" src="http://cdn-wac.emirates247.com/res/img/eb247/search-button.png" name="submit" alt="submit" class="submit hide-on-mobile" title="search-button" />
-				<button class="show-on-mobile search-submit" type='submit'></button>
+				<input type="text" name="q" value="" class="query" id="query" />
+				<input type="image" src="http://cdn-wac.emirates247.com/res/img/eb247/search-button.png" name="submit" alt="submit" class="submit" />
 			</form>
-						<a href="/search-7.117?f=on&amp;t=a" class="advanced">Advanced</a>
+						<a href="/search-7.117?t=a&amp;f=on" class="advanced">Advanced</a>
 			</div>
 	<script type="text/javascript">
 		$('#query').focus(function() {
 			this.value = '';
 		});
 	</script>
-
-      
-  
+</div>        
       									</div>
 			</div>
 
@@ -573,7 +525,7 @@
 		
 						
 		
-		<h1 class="title" itemprop="headline name">Patient sent $44.8m bill by hospital</h1>
+		<h1 class="title" itemprop="headline name">Patient sent $44.8m bill by hospital</h1>		  
 
 											<h3 class="lead" itemprop="alternativeHeadline">Whopping bill made him sick again</h3>
 					
@@ -696,8 +648,9 @@ Mr Ng (husband), who runs a waste oil disposal business, said he was still in sh
 									<div class="bookmark">
 					<ul>
 		<li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.emirates247.com%2Foffbeat%2Fcrazy-world%2Fpatient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988&amp;t=Patient+sent+%2444.8m+bill+by+hospital&amp;src=sp" target="_blank"><img src="http://cdn-wac.emirates247.com/res/img/icons/social/facebook_16.png" alt="" title="Facebook" /></a></li>
-				<li><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.emirates247.com%2Foffbeat%2Fcrazy-world%2Fpatient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988&amp;text=Patient+sent+%2444.8m+bill+by+hospital" title="Twitter" target="_blank"><img src="http://cdn-wac.emirates247.com/res/img/icons/social/twitter_16.png" alt="Twitter" /></a></li>
-												                		<li><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.emirates247.com%2Foffbeat%2Fcrazy-world%2Fpatient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe></li>
+				<li><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.emirates247.com%2Foffbeat%2Fcrazy-world%2Fpatient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988&amp;text=Patient+sent+%2444.8m+bill+by+hospital&amp;via=Emirates247" title="Twitter" target="_blank"><img src="http://cdn-wac.emirates247.com/res/img/icons/social/twitter_16.png" alt="Twitter" /></a></li>
+												        	<li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.emirates247.com%2Foffbeat%2Fcrazy-world%2Fpatient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988" target="_blank" > <img src="http://www.reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" /> </a><li>
+        		<li><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.emirates247.com%2Foffbeat%2Fcrazy-world%2Fpatient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe></li>
 					<li>
                 <div class="g-plus" data-action="share" data-height="15" data-href="http%3A%2F%2Fwww.emirates247.com%2Foffbeat%2Fcrazy-world%2Fpatient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988"></div>
 
@@ -811,71 +764,77 @@ Mr Ng (husband), who runs a waste oil disposal business, said he was still in sh
 
 		
 							<div class="related">
-							<h2>ALSO SEE</h2>
-											<ul>
+							<h2>Related articles</h2>
+										
+	<ul>
 																																		
 			<li class="el1 odd first-child ">
-																<div class="media rectangular_160 rectangular">
+																<div class="media rectangular_160">
 			<a href="/offbeat/crazy-world/husband-solicits-men-for-wife-lover-kills-cheating-wife-2012-01-18-1.437237" title="Husband solicits men for wife; Lover kills 'cheating' wife...">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.423236.1318426547!/image/3286358269.jpg_gen/derivatives/rectangular_160/3286358269.jpg" alt="Husband solicits men for wife; Lover kills 'cheating' wife..." />
-							</a>
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.423236.1452321668!/image/image.jpg_gen/derivatives/rectangular_160/image.jpg" alt="" />
+			</a>
 		</div>
 									<div class="text">
 									<h2><a href="/offbeat/crazy-world/husband-solicits-men-for-wife-lover-kills-cheating-wife-2012-01-18-1.437237" title="Husband solicits men for wife; Lover kills 'cheating' wife...">Husband solicits men for wife; Lover kills 'cheating' wife...</a></h2>
 
 						<p>
 				<span class="lead">Wife kills 'remarrying' hubby...</span>
-							</p>
+				<a href="/offbeat/crazy-world/husband-solicits-men-for-wife-lover-kills-cheating-wife-2012-01-18-1.437237" title="Husband solicits men for wife; Lover kills 'cheating' wife..." class="label more"></a>
+			</p>
 			</div>
 							</li>
 																															
 			<li class="el2 even ">
-																<div class="media rectangular_160 rectangular">
+																<div class="media rectangular_160">
 			<a href="/offbeat/crazy-world/woman-auctions-tattoo-space-on-body-2012-01-13-1.437360" title="Woman auctions tattoo space on body">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.412500.1312958427!/image/744982653.jpg_gen/derivatives/rectangular_160/744982653.jpg" alt="Woman auctions tattoo space on body" />
-							</a>
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.412500.1452313033!/image/image.jpg_gen/derivatives/rectangular_160/image.jpg" alt="" />
+			</a>
 		</div>
 									<div class="text">
 															<h2><a href="/offbeat/crazy-world/woman-auctions-tattoo-space-on-body-2012-01-13-1.437360" title="Woman auctions tattoo space on body">Woman auctions tattoo space on body</a></h2>
 
 						<p>
 				<span class="lead">A cash-strapped New Zealander is auctioning off the chance to put a tattoo on her derriere so she can pay her bills. </span>
-							</p>
+				<a href="/offbeat/crazy-world/woman-auctions-tattoo-space-on-body-2012-01-13-1.437360" title="Woman auctions tattoo space on body" class="label more"></a>
+			</p>
 			</div>
 							</li>
 																															
 			<li class="el3 odd ">
-																<div class="media rectangular_160 rectangular">
+																<div class="media rectangular_160">
 			<a href="/offbeat/crazy-world/50-threesome-admit-to-having-sex-with-animal-2012-01-10-1.436783" title="50+ threesome admit to having sex with animal">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.436786.1326167720!/image/2215427514.jpg_gen/derivatives/rectangular_160/2215427514.jpg" alt="50+ threesome admit to having sex with animal" />
-							</a>
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.436786.1452285595!/image/image.jpg_gen/derivatives/rectangular_160/image.jpg" alt="" />
+			</a>
 		</div>
 									<div class="text">
 									<h2><a href="/offbeat/crazy-world/50-threesome-admit-to-having-sex-with-animal-2012-01-10-1.436783" title="50+ threesome admit to having sex with animal">50+ threesome admit to having sex with animal</a></h2>
 
 						<p>
 				<span class="lead">Plus, teen caught stealing Dh70,000 from home for chat boyfriend</span>
-							</p>
+				<a href="/offbeat/crazy-world/50-threesome-admit-to-having-sex-with-animal-2012-01-10-1.436783" title="50+ threesome admit to having sex with animal" class="label more"></a>
+			</p>
 			</div>
 							</li>
 																																		
 			<li class="el4 even last-child ">
-																<div class="media rectangular_160 rectangular">
+																<div class="media rectangular_160">
 			<a href="/crime/local/10-year-old-boy-molests-5-year-old-niece-2012-01-09-1.436570" title="10-year-old boy molests 5-year-old niece">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.436634.1326094254!/image/3381345335.jpg_gen/derivatives/rectangular_160/3381345335.jpg" alt="10-year-old boy molests 5-year-old niece" />
-							</a>
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.436634.1452299472!/image/image.jpg_gen/derivatives/rectangular_160/image.jpg" alt="" />
+			</a>
 		</div>
 									<div class="text">
 									<h2><a href="/crime/local/10-year-old-boy-molests-5-year-old-niece-2012-01-09-1.436570" title="10-year-old boy molests 5-year-old niece">10-year-old boy molests 5-year-old niece</a></h2>
 
 						<p>
 				<span class="lead">Plus: Private tutor raped teen while mom slept next door...</span>
-							</p>
+				<a href="/crime/local/10-year-old-boy-molests-5-year-old-niece-2012-01-09-1.436570" title="10-year-old boy molests 5-year-old niece" class="label more"></a>
+			</p>
 			</div>
 							</li>
 			</ul>
 			</div>
 		
+																														
 							<a name="comments"></a>
 			<div id="disqus_thread" class="comments"></div>
 	    	<script type="text/javascript">
@@ -914,162 +873,60 @@ Mr Ng (husband), who runs a waste oil disposal business, said he was still in sh
 	
 	
 
+																									
+																								
+	
+			
+									
+
+
 										<div class="delimiter clearfix"></div>
 				</div>
 
 				<div id="side-column">
 											
-                  
-    
-      
-        
+                          
 
 <div class="banner html-snippet-center">
-	<div id="div-gpt-ad-501953" class="ad-slot">
+	<div id="div-gpt-ad-139" class="ad-slot">
 		<script type="text/javascript">			 
-							googletag.display("div-gpt-ad-501953");
+							googletag.display("div-gpt-ad-139");
 					</script> 
 	</div>
 </div>
 
-
-          
-        
-<div class="widget article-list videos teaser-block">
-									<h2><a href="/videos">Videos</a></h2>
-				<div class="content">
-					<ul>
-																																		
-			<li class="el1 odd first-child  videos virals">
-																<div class="media rectangular_160 rectangular">
-			<a href="/videos/virals/video-leopard-attacks-man-in-india-2016-01-15-1.617380" title="Video: Leopard attacks man in India">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617381.1452845569!/image/70914036.JPG_gen/derivatives/rectangular_160/70914036.JPG" alt="Video: Leopard attacks man in India" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/videos/virals/video-leopard-attacks-man-in-india-2016-01-15-1.617380" title="Video: Leopard attacks man in India">Video: Leopard attacks man in India</a></h2>
-
-						<p>
-				<span class="lead">Attacked three people</span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el2 even  videos news">
-																<div class="media rectangular_160 rectangular">
-			<a href="/videos/news/boeing-reveals-next-gen-air-cabins-2016-01-13-1.617146" title="Boeing reveals next-gen air cabins">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617147.1452666643!/image/70914036.JPG_gen/derivatives/rectangular_160/70914036.JPG" alt="Boeing reveals next-gen air cabins" />
-							</a>
-		</div>
-									<div class="text">
-												<h2><a href="/videos/news/boeing-reveals-next-gen-air-cabins-2016-01-13-1.617146" title="Boeing reveals next-gen air cabins">Boeing reveals next-gen air cabins</a></h2>
-
-						<p>
-				<span class="lead">Passengers can expect ceiling or wall projections to put them at ease. Curved screens show flight details and films or </span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el3 odd  videos virals">
-																<div class="media rectangular_160 rectangular">
-			<a href="/videos/virals/it-s-poppin-woman-s-reaction-to-fire-goes-viral-2016-01-13-1.617144" title="'It's poppin!' Woman's reaction to fire goes viral">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617145.1452666457!/image/70914036.JPG_gen/derivatives/rectangular_160/70914036.JPG" alt="'It's poppin!' Woman's reaction to fire goes viral" />
-							</a>
-		</div>
-									<div class="text">
-												<h2><a href="/videos/virals/it-s-poppin-woman-s-reaction-to-fire-goes-viral-2016-01-13-1.617144" title="'It's poppin!' Woman's reaction to fire goes viral">'It's poppin!' Woman's reaction to fire goes viral</a></h2>
-
-						<p>
-				<span class="lead">It's poppin!' Woman's reaction to flat fire makes her viral hit after an interview on Oklahoma news station News.</span>
-							</p>
-			</div>
-							</li>
-																																		
-			<li class="el4 even last-child  videos news">
-																<div class="media rectangular_160 rectangular">
-			<a href="/videos/news/man-punches-pregnant-girlfriend-in-stomach-2016-01-11-1.616818" title="Man punches pregnant girlfriend in stomach">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.616819.1452491670!/image/70914036.JPG_gen/derivatives/rectangular_160/70914036.JPG" alt="Man punches pregnant girlfriend in stomach" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/videos/news/man-punches-pregnant-girlfriend-in-stomach-2016-01-11-1.616818" title="Man punches pregnant girlfriend in stomach">Man punches pregnant girlfriend in stomach</a></h2>
-
-						<p>
-				<span class="lead">Social experiment draws flak</span>
-							</p>
-			</div>
-							</li>
-			</ul>
-	</div>
-
-		
-			<div class="see-more">
-		    						<a href="/videos">See more videos</a>
-		</div>
-	</div>
-          
-        
-<div id="tabs-18550718" class="widget tabbed-content  ">
-	<h2>Most Popular on Emirates 24|7</h2>
+                  
+<div id="tabs-4579927" class="widget tabbed-content  ">
+	<h2>Most Popular</h2>
 	<ul class="tabs">
-																				<li class="tab-1 first-child last-child"><a href="#tabs-18550718-tab-1">Read</a></li>
+																				<li class="tab-1 first-child last-child"><a href="#tabs-4579927-tab-1">Read</a></li>
 			</ul>
 	<div class="container">
-																				<div id="tabs-18550718-tab-1" class="tab_content">
-					<div class="teaser-text">
-									<ul>
-																										
-			<li class="el1 no-image odd first-child  lifestyle">
-																<div class="text">
-									<h2><a href="/lifestyle/sridevi-s-daughter-khushi-kapoor-victim-of-body-shaming-video-2016-01-14-1.617159" title="Sridevi's daughter, Khushi Kapoor, victim of body shaming [video]">Sridevi's daughter, Khushi Kapoor, victim of body shaming [video]</a></h2>
+																				<div id="tabs-4579927-tab-1" class="tab_content">
+				
+  
+<div class="element list">
 
-						<p>
-				<span class="lead">Teenager takes on haters and slams them on social media</span>
-							</p>
-			</div>
-							</li>
-																							
-			<li class="el2 no-image even  news emirates">
-																<div class="text">
-									<h2><a href="/news/emirates/8-hour-shifts-overtime-annual-leave-in-uae-labour-law-2016-01-10-1.616643" title="8-hour shifts, overtime, annual leave in UAE Labour Law">8-hour shifts, overtime, annual leave in UAE Labour Law</a></h2>
-
-						<p>
-				<span class="lead">One paid rest day after maximum of 6 days of work</span>
-							</p>
-			</div>
-							</li>
-																							
-			<li class="el3 no-image odd  business economy-finance">
-																<div class="text">
-									<h2><a href="/business/economy-finance/uae-billionaire-says-gcc-money-would-quit-us-if-trump-wins-2016-01-14-1.617316" title="UAE billionaire says GCC money would quit US if Trump wins">UAE billionaire says GCC money would quit US if Trump wins</a></h2>
-
-						<p>
-				<span class="lead">Billions of dollars of Gulf Arab money slated for investment in the United States could be at risk due to Trump&rsquo;s statement about Muslims</span>
-							</p>
-			</div>
-							</li>
-																							
-			<li class="el4 no-image even  news emirates">
-																<div class="text">
-									<h2><a href="/news/emirates/ease-to-sharjah-traffic-woes-spruced-up-intersection-opens-2016-01-15-1.617340" title="Ease to Sharjah traffic woes: Spruced up intersection opens">Ease to Sharjah traffic woes: Spruced up intersection opens</a></h2>
-
-						<p>
-				<span class="lead">Dh40 m maintenance and improvement works completed</span>
-							</p>
-			</div>
-							</li>
-																										
-			<li class="el5 no-image odd last-child  news emirates">
-																<div class="text">
-									<h2><a href="/news/emirates/vat-to-be-introduced-in-uae-in-2018-3-5-official-2016-01-14-1.617264" title="VAT to be introduced in UAE in 2018 @ 3-5%: Official">VAT to be introduced in UAE in 2018 @ 3-5%: Official</a></h2>
-
-						<p>
-				<span class="lead">Taxing workers&rsquo; remittances is a state issue and not a GCC-wide issue</span>
-							</p>
-			</div>
-							</li>
-			</ul>
-	</div>
+      <ul class="linklist">
+            
+                    <li>
+                      	       	                                               <a href="/entertainment/ranbir-katrina-kaif-split-reasons-leading-to-the-breakup-2016-01-17-1.617535">Ranbir, Katrina Kaif split: Reasons leading to the breakup</a>
+               </li>
+                      <li>
+                      	       	                                               <a href="/lifestyle/airport-insiders-spill-secrets-no-point-locking-your-suitcases-2016-01-17-1.617527">Airport insiders spill secrets: No point locking your suitcases...</a>
+               </li>
+                      <li>
+                      	       	                                               <a href="/news/emirates/dubai-s-fertility-rate-dips-to-shocking-level-mbrsg-study-2016-01-17-1.617509">Dubai's fertility rate dips to 'shocking' level: MBRSG study</a>
+               </li>
+                      <li>
+                      	       	                                               <a href="/crime/foxy-facebook-picture-lands-indian-in-rak-court-2016-01-16-1.617422">'Foxy' Facebook picture lands Indian in RAK court</a>
+               </li>
+                      <li>
+                      	       	                                               <a href="/business/dubai-leads-the-world-in-number-of-supertall-megatall-towers-2016-01-17-1.617480">Dubai leads the world in number of supertall, megatall towers</a>
+               </li>
+                                                                                                                                                                  </ul>
+     
+</div>
 			</div>
 			</div>
 	<script type="text/javascript">
@@ -1077,16 +934,16 @@ Mr Ng (husband), who runs a waste oil disposal business, said he was still in sh
 		$(document).ready(
 			function() {
 				//Default Action
-				//$("#tabs-18550718 .tab_content").hide(); //Hide all content
-				$("#tabs-18550718 UL.tabs LI:first").addClass("active").show(); //Activate first tab
-				$("#tabs-18550718 .tab_content:first").show(); //Show first tab content
+				//$("#tabs-4579927 .tab_content").hide(); //Hide all content
+				$("#tabs-4579927 UL.tabs LI:first").addClass("active").show(); //Activate first tab
+				$("#tabs-4579927 .tab_content:first").show(); //Show first tab content
 
 				//On Click Event
-				$("#tabs-18550718 UL.tabs LI").click(
+				$("#tabs-4579927 UL.tabs LI").click(
 					function() {
-						$("#tabs-18550718 UL.tabs LI").removeClass("active"); //Remove any "active" class
+						$("#tabs-4579927 UL.tabs LI").removeClass("active"); //Remove any "active" class
 						$(this).addClass("active"); //Add "active" class to selected tab
-						$("#tabs-18550718 .tab_content").hide(); //Hide all tab content
+						$("#tabs-4579927 .tab_content").hide(); //Hide all tab content
 						var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
 						$(activeTab).fadeIn(); //Fade in the active content
 						return false;
@@ -1099,352 +956,428 @@ Mr Ng (husband), who runs a waste oil disposal business, said he was still in sh
 </div>
 
 
-          
-        
-<div class="widget image">
-			<h2>
-			<a href="/offbeat/crazy-world/2.484">News In Images</a>
-		</h2>
-		<div id="images-18550721" class="content">
-		<ul>
-																											
-				<li class="el1 first-child odd">
-					<a href="/entertainment/busy-girls-jacqueline-fernandez-sonam-kapoor-and-sunny-leone-2016-01-15-1.617353" title="">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617354.1452836639!/image/4142077372.jpg_gen/derivatives/rectangular_320/4142077372.jpg" alt="" />
-												<span class="caption">Busy girls: Jacqueline Fernandez, Sonam Kapoor and Sunny Leone</span>
-					</a>
-				</li>
-																							
-				<li class="el2 even">
-					<a href="/entertainment/hollywood-gossip-miley-cyrus-liam-hemsworth-engaged-again-2016-01-15-1.617122" title="">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.448366.1331698502!/image/1602572840.jpg_gen/derivatives/rectangular_320/1602572840.jpg" alt="" />
-												<span class="caption">Hollywood Gossip: Miley Cyrus, Liam Hemsworth engaged again?</span>
-					</a>
-				</li>
-																							
-				<li class="el3 odd">
-					<a href="/offbeat/crazy-world/world-today-spectacular-and-just-plain-crazy-2016-01-15-1.616832" title="">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617336.1452833655!/image/470017609.jpg_gen/derivatives/rectangular_320/470017609.jpg" alt="" />
-												<span class="caption">World Today: Spectacular... and just plain crazy</span>
-					</a>
-				</li>
-																							
-				<li class="el4 even">
-					<a href="/entertainment/shah-rukh-khan-with-alia-bhatt-behind-the-screens-2016-01-15-1.617337" title="Rehearsing for Filmfare awards">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617338.1452833904!/image/948205779.JPG_gen/derivatives/rectangular_320/948205779.JPG" alt="" />
-												<span class="caption">Rehearsing for Filmfare awards</span>
-					</a>
-				</li>
-																							
-				<li class="el5 odd">
-					<a href="/entertainment/keeping-up-with-the-kardashians-kim-i-love-controlling-my-family-2016-01-15-1.616756" title="">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617332.1452833294!/image/3492252742.jpg_gen/derivatives/rectangular_320/3492252742.jpg" alt="" />
-												<span class="caption">Keeping up with the Kardashians: Kim: I love controlling my family</span>
-					</a>
-				</li>
-																							
-				<li class="el6 even">
-					<a href="/entertainment/dabboo-ratnani-s-2016-calendar-srk-sunny-leone-shraddha-2016-01-13-1.617155" title="">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617156.1452670717!/image/4142077372.jpg_gen/derivatives/rectangular_320/4142077372.jpg" alt="" />
-												<span class="caption">Dabboo Ratnani's 2016 calendar: SRK, Sunny Leone, Shraddha</span>
-					</a>
-				</li>
-																							
-				<li class="el7 odd">
-					<a href="/news-in-images/love-birds-alia-bhatt-and-sidharth-malhotra-on-camera-2016-01-14-1.617261" title="">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617265.1452746969!/image/3207417279.JPG_gen/derivatives/rectangular_320/3207417279.JPG" alt="" />
-												<span class="caption">Love birds Alia Bhatt and Sidharth Malhotra on camera</span>
-					</a>
-				</li>
-																											
-				<li class="el8 last-child even">
-					<a href="/news-in-images/bollywood-roundup-parineeti-kareena-karisma-arjun-rampal-2016-01-14-1.617251" title="">
-						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617258.1452746070!/image/654332796.JPG_gen/derivatives/rectangular_320/654332796.JPG" alt="" />
-												<span class="caption">Bollywood Roundup: Parineeti, Kareena, Karisma, Arjun Rampal...</span>
-					</a>
-				</li>
-					</ul>
-	</div>
-															<div class="see-more">
-		    						<a href="/news-in-images">See more galleries</a>
-		</div>
-	</div>
-
-          
-        <div id="html-snippet-18520034" class="html-snippet ">
-			<div class="widget newsletter" style="margin-top: 1em !important;">
-<a href="http://emirates247.us4.list-manage.com/subscribe?u=16b55bf773375c9a1448b86af&id=b04be272e3" target="_blank">
-<h2>Free Newsletter: Subscribe</h2>
-<div class="content">
-Don't miss out on the latest news<br/>
-Subscribe to Emirates24|7 Newsletter
-<!--<form action="http://emirates247.us4.list-manage.com/subscribe/post?u=16b55bf773375c9a1448b86af&amp;id=b04be272e3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-<fieldset>
-<label>Email address</label>
-<input type="text" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="" required>
-</fieldset>
-<fieldset class="button">
-<input type="image" title="get it now" src="/res/img/eb247/newsletter-submit.gif">
-</fieldset>
-</form>-->
-</div>
-</a>
-</div>
 
 
-	</div>
-          
-        <div id="html-snippet-18531838" class="html-snippet html-snippet-center">
-			<div style="margin-top: 10px">
-<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FEmirates247&amp;width=300&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:213px;" allowTransparency="true"></iframe>
-</div>
-
-	</div>
-          
-        
-<div class="widget followus">
-<h2>Follow<br/>Emirates 24|7</h2>
-<div class="content">
-<a href="http://www.pinterest.com/emirates247" title="Pinterest" target="_blank">
-<img src="/res/img/icons/social/pinterest_48.png" width="34" height="34" alt="Pinterest"/>
-</a>
-<a href="https://plus.google.com/+emirates247" title="Google+" target="_blank">
-<img src="/res/img/icons/social/gplus_48.png" width="28" height="28" alt="Google+" style="margin-top: 2px"/>
-</a>
-<a href="http://www.facebook.com/pages/Emirates247/136509933034734" title="Facebook" target="_blank">
-<img src="http://media.emirates247.com/res/img/icons/facebook-link-48x48.png" width="34" height="34" alt="Facebook"/>
-</a>
-<a href="http://twitter.com/Emirates247" title="Twitter" target="_blank">
-<img src="http://media.emirates247.com/res/img/icons/twitter-link-48x48.png" width="34" height="34" alt="Twitter">
-</a>
-<a href="https://instagram.com/emirates_247/" title="Instagram">
-<img src="http://media.emirates247.com/res/img/icons/instagram-48x48.png" width="34" height="34" alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/user/Emirates247channel" title="Youtube">
-<img src="http://media.emirates247.com/res/img/icons/youtube-48x48.png" width="34" height="34" alt="Youtube"/>
-</a>
-<a href="https://www.linkedin.com/company/emirates-24-7-dubai-media-inc." title="LinkedIn">
-<img src="http://media.emirates247.com/res/img/icons/linkedin-48x48.png" width="34" height="34" alt="LinkedIn"/>
-</a>
-<a href="http://www.business24-7.ae/cmlink/en/rss-feed-1.4268?ot=ot.AjaxPageLayout" title="RSS" target="_blank">
-<img src="http://media.emirates247.com/res/img/icons/rss-link-48x48.png" width="34" height="34" alt="RSS"/>
-</a>
-</div>
-</div>
-
-          
-        <div id="html-snippet-18549891" class="html-snippet widget latest-jobs">
-			<h2 class="title">Latest jobs available</h2><div class="content"><ul class="latest-jobs"/><a class="more-jobs" href="" target="_top"></a></div>
-	</div>
-          
-        			<div class="widget similar-content middle-column-content ">
-			<h2>Related articles</h2>
-			<div class="content">
-									<ul>
-																										
-			<li class="el1 no-image odd first-child ">
-										<div class="text">
-															<a href="/offbeat/gasp-patient-gets-44m-bill-2012-01-17-1.437984" title="Gasp. Patient gets $44m bill">Gasp. Patient gets $44m bill</a>
-			</div>
-							</li>
-																							
-			<li class="el2 no-image even ">
-										<div class="text">
-															<a href="/offbeat/crazy-world/bizarre-man-chops-off-ex-s-nose-for-remarrying-2012-02-19-1.443680" title="Bizarre: Man chops off ex's nose for remarrying">Bizarre: Man chops off ex's nose for remarrying</a>
-			</div>
-							</li>
-																							
-			<li class="el3 no-image odd ">
-										<div class="text">
-															<a href="/offbeat/crazy-world/crazy-world-man-kills-maid-for-beating-his-kids-2011-12-11-1.432117" title="Crazy World: Man kills maid for beating his kids">Crazy World: Man kills maid for beating his kids</a>
-			</div>
-							</li>
-																							
-			<li class="el4 no-image even ">
-										<div class="text">
-															<a href="/offbeat/crazy-world-dogs-saved-from-cooking-pot-2011-04-18-1.382249" title="Crazy World: Dogs saved from cooking pot">Crazy World: Dogs saved from cooking pot</a>
-			</div>
-							</li>
-																										
-			<li class="el5 no-image odd last-child ">
-										<div class="text">
-															<a href="/offbeat/crazy-world/bizarre-man-advises-and-stabs-pimp-calls-dubai-police-2012-05-16-1.458990" title="Bizarre: Man advises and stabs pimp, calls Dubai Police">Bizarre: Man advises and stabs pimp, calls Dubai Police</a>
-			</div>
-							</li>
-			</ul>
-			</div>
-		</div>
-	
-          
-        
-<div class="widget editors-choice middle-column-content">
-      	    	<div class="content">
-		
-		<div id="editors-space-18550727">
-    									<ul>
+                  <div class="section widget article-list videos teaser-block el1 first-child odd">
+									<h1><a href="/videos">Videos</a></h1>
+							
+	<ul>
 																																		
-			<li class="el1 odd first-child  news">
-																<div class="media rectangular_240 rectangular">
-			<a href="/news/what-was-a-camel-doing-in-a-dubai-drainage-hole-2016-01-15-1.617334" title="What was a camel doing in a Dubai drainage hole?">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617335.1452833522!/image/1592640090.jpg_gen/derivatives/rectangular_240/1592640090.jpg" alt="What was a camel doing in a Dubai drainage hole?" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/news/what-was-a-camel-doing-in-a-dubai-drainage-hole-2016-01-15-1.617334" title="What was a camel doing in a Dubai drainage hole?">What was a camel doing in a Dubai drainage hole?</a></h2>
-
-						<p>
-				<span class="lead">We care about saving life, be it a human or animal: Dubai Police</span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el2 even  news emirates">
-																<div class="media rectangular_240 rectangular">
-			<a href="/news/emirates/ease-to-sharjah-traffic-woes-spruced-up-intersection-opens-2016-01-15-1.617340" title="Ease to Sharjah traffic woes: Spruced up intersection opens">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.561520.1409633265!/image/631782709.jpg_gen/derivatives/rectangular_240/631782709.jpg" alt="Ease to Sharjah traffic woes: Spruced up intersection opens" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/news/emirates/ease-to-sharjah-traffic-woes-spruced-up-intersection-opens-2016-01-15-1.617340" title="Ease to Sharjah traffic woes: Spruced up intersection opens">Ease to Sharjah traffic woes: Spruced up intersection opens</a></h2>
-
-						<p>
-				<span class="lead">Dh40 m maintenance and improvement works completed</span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el3 odd  business">
-																<div class="media rectangular_240 rectangular">
-			<a href="/business/apple-iphone-challenger-xiaomi-now-in-uae-2016-01-15-1.617347" title="Apple iPhone challenger: Xiaomi now in UAE">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617348.1452835368!/image/4142077372.jpg_gen/derivatives/rectangular_240/4142077372.jpg" alt="Apple iPhone challenger: Xiaomi now in UAE" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/business/apple-iphone-challenger-xiaomi-now-in-uae-2016-01-15-1.617347" title="Apple iPhone challenger: Xiaomi now in UAE">Apple iPhone challenger: Xiaomi now in UAE</a></h2>
-
-						<p>
-				<span class="lead">Smartphones, wearable and IOT devices to form basis for Mideast strategy</span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el4 even  news emirates">
-																<div class="media rectangular_240 rectangular">
-			<a href="/news/emirates/two-get-lucky-at-dsf-win-infiniti-q70-car-for-just-dh25-000-2016-01-15-1.617349" title="Two get lucky at DSF: Win Infiniti Q70 car for just Dh25,000">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617350.1452835607!/image/4142077372.jpg_gen/derivatives/rectangular_240/4142077372.jpg" alt="Two get lucky at DSF: Win Infiniti Q70 car for just Dh25,000" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/news/emirates/two-get-lucky-at-dsf-win-infiniti-q70-car-for-just-dh25-000-2016-01-15-1.617349" title="Two get lucky at DSF: Win Infiniti Q70 car for just Dh25,000">Two get lucky at DSF: Win Infiniti Q70 car for just Dh25,000</a></h2>
-
-						<p>
-				<span class="lead">Car is worth Dh161,000</span>
-							</p>
-			</div>
-							</li>
-																																		
-			<li class="el5 odd last-child  entertainment">
-																<div class="media rectangular_240 rectangular">
-			<a href="/entertainment/celine-dion-s-husband-dies-aged-73-2016-01-15-1.617330" title="Celine Dion's husband dies aged 73">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617331.1452832981!/image/2078336892.JPG_gen/derivatives/rectangular_240/2078336892.JPG" alt="Celine Dion's husband dies aged 73" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/entertainment/celine-dion-s-husband-dies-aged-73-2016-01-15-1.617330" title="Celine Dion's husband dies aged 73">Celine Dion's husband dies aged 73</a></h2>
-
-						<p>
-				<span class="lead">Following battle against throat cancer</span>
-							</p>
-			</div>
-							</li>
-			</ul>
-					</div>
-			</div>
-</div>
-          
-        <div class="section missed-stories teaser-block el1 first-child odd">
-									<h1><a href="/eb247/news">In Case You Missed It ...</a></h1>
-								<ul>
-																																		
-			<li class="el1 odd first-child  lifestyle">
-																<div class="media rectangular_240 rectangular">
-			<a href="/lifestyle/gohary-s-disease-tummy-pain-in-kids-2016-01-15-1.617356" title="Gohary's disease: Tummy pain in kids">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.599494.1438926371!/image/1390083812.jpg_gen/derivatives/rectangular_240/1390083812.jpg" alt="Gohary's disease: Tummy pain in kids" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/lifestyle/gohary-s-disease-tummy-pain-in-kids-2016-01-15-1.617356" title="Gohary's disease: Tummy pain in kids">Gohary's disease: Tummy pain in kids</a></h2>
-
-						<p>
-				<span class="lead">UAE doctor discovers disease</span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el2 even  news">
-																<div class="media rectangular_240 rectangular">
-			<a href="/news/bizarre-indian-state-s-luxury-tax-on-samosas-2016-01-15-1.617361" title="Bizarre? Indian state's 'luxury tax' on samosas">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617362.1452838842!/image/730690608.jpg_gen/derivatives/rectangular_240/730690608.jpg" alt="Bizarre? Indian state's 'luxury tax' on samosas" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/news/bizarre-indian-state-s-luxury-tax-on-samosas-2016-01-15-1.617361" title="Bizarre? Indian state's 'luxury tax' on samosas">Bizarre? Indian state's 'luxury tax' on samosas</a></h2>
-
-						<p>
-				<span class="lead">Sparks social media outrage</span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el3 odd  news emirates">
-																<div class="media rectangular_240 rectangular">
-			<a href="/news/emirates/new-little-manila-opens-in-satwa-abu-dhabi-2016-01-15-1.617375" title="New Little Manila opens in Satwa, Abu Dhabi">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617387.1452846729!/image/2764931472.jpg_gen/derivatives/rectangular_240/2764931472.jpg" alt="New Little Manila opens in Satwa, Abu Dhabi" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/news/emirates/new-little-manila-opens-in-satwa-abu-dhabi-2016-01-15-1.617375" title="New Little Manila opens in Satwa, Abu Dhabi">New Little Manila opens in Satwa, Abu Dhabi</a></h2>
-
-						<p>
-				<span class="lead">Al Ahli Group's subsidiary reports 1,000 daily customers to its first-of-its-kind themed restaurant</span>
-							</p>
-			</div>
-							</li>
-																															
-			<li class="el4 even  news emirates">
-																<div class="media rectangular_240 rectangular">
-			<a href="/news/emirates/uae-weather-foggy-mornings-low-visibility-2016-01-15-1.617386" title="UAE weather: Foggy mornings, low visibility">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.506269.1423805455!/image/772192120.jpg_gen/derivatives/rectangular_240/772192120.jpg" alt="UAE weather: Foggy mornings, low visibility" />
-							</a>
-		</div>
-									<div class="text">
-									<h2><a href="/news/emirates/uae-weather-foggy-mornings-low-visibility-2016-01-15-1.617386" title="UAE weather: Foggy mornings, low visibility">UAE weather: Foggy mornings, low visibility</a></h2>
-
-						<p>
-				<span class="lead">Relative humidity is expected to increase</span>
-							</p>
-			</div>
-							</li>
-																																		
-			<li class="el5 odd last-child  videos virals">
-																<div class="media rectangular_240 rectangular">
+			<li class="el1 odd first-child  emirates247 videos virals">
+																<div class="media rectangular_160">
 			<a href="/videos/virals/video-leopard-attacks-man-in-india-2016-01-15-1.617380" title="Video: Leopard attacks man in India">
-									<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617381.1452845569!/image/70914036.JPG_gen/derivatives/rectangular_240/70914036.JPG" alt="Video: Leopard attacks man in India" />
-							</a>
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617381.1453003481!/image/image.JPG_gen/derivatives/rectangular_160/image.JPG" alt="" />
+			</a>
 		</div>
 									<div class="text">
 									<h2><a href="/videos/virals/video-leopard-attacks-man-in-india-2016-01-15-1.617380" title="Video: Leopard attacks man in India">Video: Leopard attacks man in India</a></h2>
 
 						<p>
 				<span class="lead">Attacked three people</span>
-							</p>
+				<a href="/videos/virals/video-leopard-attacks-man-in-india-2016-01-15-1.617380" title="Video: Leopard attacks man in India" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el2 even  emirates247 videos news">
+																<div class="media rectangular_160">
+			<a href="/videos/news/boeing-reveals-next-gen-air-cabins-2016-01-13-1.617146" title="Boeing reveals next-gen air cabins">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617147.1452768354!/image/image.JPG_gen/derivatives/rectangular_160/image.JPG" alt="" />
+			</a>
+		</div>
+									<div class="text">
+												<h2><a href="/videos/news/boeing-reveals-next-gen-air-cabins-2016-01-13-1.617146" title="Boeing reveals next-gen air cabins">Boeing reveals next-gen air cabins</a></h2>
+
+						<p>
+				<span class="lead">Passengers can expect ceiling or wall projections to put them at ease. Curved screens show flight details and films or </span>
+				<a href="/videos/news/boeing-reveals-next-gen-air-cabins-2016-01-13-1.617146" title="Boeing reveals next-gen air cabins" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el3 odd  emirates247 videos virals">
+																<div class="media rectangular_160">
+			<a href="/videos/virals/it-s-poppin-woman-s-reaction-to-fire-goes-viral-2016-01-13-1.617144" title="'It's poppin!' Woman's reaction to fire goes viral">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617145.1452768364!/image/image.JPG_gen/derivatives/rectangular_160/image.JPG" alt="" />
+			</a>
+		</div>
+									<div class="text">
+												<h2><a href="/videos/virals/it-s-poppin-woman-s-reaction-to-fire-goes-viral-2016-01-13-1.617144" title="'It's poppin!' Woman's reaction to fire goes viral">'It's poppin!' Woman's reaction to fire goes viral</a></h2>
+
+						<p>
+				<span class="lead">It's poppin!' Woman's reaction to flat fire makes her viral hit after an interview on Oklahoma news station News.</span>
+				<a href="/videos/virals/it-s-poppin-woman-s-reaction-to-fire-goes-viral-2016-01-13-1.617144" title="'It's poppin!' Woman's reaction to fire goes viral" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																																		
+			<li class="el4 even last-child  emirates247 videos news">
+																<div class="media rectangular_160">
+			<a href="/videos/news/man-punches-pregnant-girlfriend-in-stomach-2016-01-11-1.616818" title="Man punches pregnant girlfriend in stomach">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.616819.1452668431!/image/image.JPG_gen/derivatives/rectangular_160/image.JPG" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/videos/news/man-punches-pregnant-girlfriend-in-stomach-2016-01-11-1.616818" title="Man punches pregnant girlfriend in stomach">Man punches pregnant girlfriend in stomach</a></h2>
+
+						<p>
+				<span class="lead">Social experiment draws flak</span>
+				<a href="/videos/news/man-punches-pregnant-girlfriend-in-stomach-2016-01-11-1.616818" title="Man punches pregnant girlfriend in stomach" class="label more"></a>
+			</p>
 			</div>
 							</li>
 			</ul>
 
+			<div class="see-more">
+		    						<a href="/videos">See more videos</a>
+		</div>
+	</div>                  <div id="html-snippet-4579930" class="html-snippet html-snippet-center">	
+			<div style="margin-top: 10px">		
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FEmirates247&amp;width=300&amp;height=290&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:213px;" allowTransparency="true"></iframe>		
+		</div>		
+		
+	</div>                  
+<div class="widget image">
+			<h2>News In Images</h2>
+		<div id="images-4579931" class="content">
+		<ul>
+																											
+				<li class="el1 first-child odd">
+					<a href="/news-in-images/filmfare-awards-deepika-sonam-sunny-leone-burn-the-red-carpet-2016-01-17-1.617502" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617513.1453019085!/image/image.jpg_gen/derivatives/rectangular_320/image.jpg" alt="" />
+												<span class="caption">Filmfare Awards: Deepika, Sonam, Sunny Leone burn the red carpet</span>
+					</a>
+				</li>
+																							
+				<li class="el2 even">
+					<a href="/entertainment/filmfare-awards-best-dressed-award-goes-to-2016-01-17-1.617515" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617518.1453019113!/image/image.JPG_gen/derivatives/rectangular_320/image.JPG" alt="" />
+												<span class="caption">Filmfare Awards: Best dressed award goes to...</span>
+					</a>
+				</li>
+																							
+				<li class="el3 odd">
+					<a href="/entertainment/busy-girls-jacqueline-fernandez-sonam-kapoor-and-sunny-leone-2016-01-15-1.617353" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617354.1453003559!/image/image.jpg_gen/derivatives/rectangular_320/image.jpg" alt="" />
+												<span class="caption">Busy girls: Jacqueline Fernandez, Sonam Kapoor and Sunny Leone</span>
+					</a>
+				</li>
+																							
+				<li class="el4 even">
+					<a href="/entertainment/hollywood-gossip-miley-cyrus-liam-hemsworth-engaged-again-2016-01-15-1.617122" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.448366.1453003448!/image/image.jpg_gen/derivatives/rectangular_320/image.jpg" alt="" />
+												<span class="caption">Hollywood Gossip: Miley Cyrus, Liam Hemsworth engaged again?</span>
+					</a>
+				</li>
+																							
+				<li class="el5 odd">
+					<a href="/offbeat/crazy-world/world-today-spectacular-and-just-plain-crazy-2016-01-15-1.616832" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617336.1453003554!/image/image.jpg_gen/derivatives/rectangular_320/image.jpg" alt="" />
+												<span class="caption">World Today: Spectacular... and just plain crazy</span>
+					</a>
+				</li>
+																							
+				<li class="el6 even">
+					<a href="/news-in-images/bollywood-roundup-parineeti-kareena-karisma-arjun-rampal-2016-01-14-1.617251" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617258.1453003623!/image/image.JPG_gen/derivatives/rectangular_320/image.JPG" alt="" />
+												<span class="caption">Bollywood Roundup: Parineeti, Kareena, Karisma, Arjun Rampal...</span>
+					</a>
+				</li>
+																							
+				<li class="el7 odd">
+					<a href="/entertainment/state-of-the-union-selfie-time-for-president-obama-2016-01-13-1.617128" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617129.1452768305!/image/image.jpg_gen/derivatives/rectangular_320/image.jpg" alt="" />
+												<span class="caption">State of the Union: Selfie time for President Obama</span>
+					</a>
+				</li>
+																											
+				<li class="el8 last-child even">
+					<a href="/entertainment/bollywood-beauties-kareena-sonam-saifai-mahotsav-2016-01-13-1.617085" title="">
+						<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617090.1452768328!/image/image.jpg_gen/derivatives/rectangular_320/image.jpg" alt="" />
+												<span class="caption">Bollywood beauties: Kareena, Sonam @ Saifai Mahotsav</span>
+					</a>
+				</li>
+					</ul>
 	</div>
-      
-  
+															<div class="see-more">
+		    						<a href="/news-in-images"></a>
+		</div>
+	</div>
+                  <div id="html-snippet-4579932" class="html-snippet ">	
+			<div class="widget followus">
+			<h2>Follow<br/>Emirates 24|7</h2>
+			<div class="content">
+			<a
+			href="http://www.pinterest.com/emirates247" title="Pinterest" target="_blank">
+			<img src="/res/img/icons/social/pinterest_48.png" width="34" height="34" alt="Pinterest"/>
+			</a>
+			<a
+			href="https://plus.google.com/+emirates247" title="Google+" target="_blank">
+			<img src="/res/img/icons/social/gplus_48.png" width="28" height="28" alt="Google+" style="margin-top: 2px"/>
+			</a>
+			<a href="http://www.facebook.com/pages/Emirates247/136509933034734" title="Facebook" target="_blank">
+			<img src="http://media.emirates247.com/res/img/icons/facebook-link-48x48.png"
+			width="34" height="34" alt="Facebook"/>
+			</a>
+			<a href="http://twitter.com/Emirates247" title="Twitter" target="_blank">
+			<img
+			src="http://media.emirates247.com/res/img/icons/twitter-link-48x48.png" width="34" height="34" alt="Twitter">
+			</a>
+			<a href="https://instagram.com/emirates_247/" title="Instagram">
+			<img src="http://media.emirates247.com/res/img/icons/instagram-48x48.png" width="34" height="34" alt="Instagram"/>
+			</a>
+			<a href="https://www.youtube.com/user/Emirates247channel"
+			title="Youtube">
+			<img src="http://media.emirates247.com/res/img/icons/youtube-48x48.png" width="34" height="34" alt="Youtube"/>
+			</a>
+			<a
+			href="https://www.linkedin.com/company/emirates-24-7-dubai-media-inc." title="LinkedIn">
+			<img src="http://media.emirates247.com/res/img/icons/linkedin-48x48.png" width="34" height="34"
+			alt="LinkedIn"/>
+			</a>
+			<a href="http://www.business24-7.ae/cmlink/en/rss-feed-1.4268?ot=ot.AjaxPageLayout" title="RSS" target="_blank">
+			<img
+			src="http://media.emirates247.com/res/img/icons/rss-link-48x48.png" width="34" height="34" alt="RSS"/>
+			</a>
+			</div>
+			</div>
+	</div>                  <div id="html-snippet-4579933" class="html-snippet ">	
+			<div class="widget newsletter" style="margin-top: 1em !important;">
+			<a
+			href="http://emirates247.us4.list-manage.com/subscribe?u=16b55bf773375c9a1448b86af&id=b04be272e3" target="_blank">
+			<h2>Free Newsletter: Subscribe</h2>
+			<div class="content">
+			Don't miss out on the latest news<br/>
+			Subscribe to Emirates24|7 Newsletter
+			<!--<form
+			action="http://emirates247.us4.list-manage.com/subscribe/post?u=16b55bf773375c9a1448b86af&amp;id=b04be272e3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+			class="validate" target="_blank">
+			<fieldset>
+			<label>Email address</label>
+			<input type="text" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="" required>
+			</fieldset>
+			<fieldset class="button">
+			<input type="image" title="get it now" src="/res/img/eb247/newsletter-submit.gif">
+			</fieldset>
+			</form>-->
+			</div>
+			</a>
+			</div> 
+	</div>                  			<div class="widget similar-content middle-column-content ">
+			<h2></h2>
+			<div class="content">
+								
+	<ul>
+																										
+			<li class="el1 no-image odd first-child ">
+										<div class="text">
+															<a href="/news/600-fine-for-fighting-with-wife-on-flight-2014-03-12-1.541251" title="$600 fine for fighting with wife on flight">$600 fine for fighting with wife on flight</a>
+			</div>
+							</li>
+																							
+			<li class="el2 no-image even ">
+										<div class="text">
+															<a href="/offbeat/gasp-patient-gets-44m-bill-2012-01-17-1.437984" title="Gasp. Patient gets $44m bill">Gasp. Patient gets $44m bill</a>
+			</div>
+							</li>
+																							
+			<li class="el3 no-image odd ">
+										<div class="text">
+															<a href="/offbeat/crazy-world/crazy-world-son-burns-paralytic-father-alive-2012-08-01-1.469698" title="Crazy World: Son burns paralytic father alive">Crazy World: Son burns paralytic father alive</a>
+			</div>
+							</li>
+																							
+			<li class="el4 no-image even ">
+										<div class="text">
+															<a href="/offbeat/crazy-world/airline-crew-tie-crazy-passenger-to-seat-2013-01-06-1.489888" title="Airline crew tie 'crazy' passenger to seat">Airline crew tie 'crazy' passenger to seat</a>
+			</div>
+							</li>
+																										
+			<li class="el5 no-image odd last-child ">
+										<div class="text">
+															<a href="/offbeat/crazy-world/crazy-world-girl-17-raped-by-15-relatives-2012-10-22-1.479819" title="Crazy World: Girl, 17, raped by 15 relatives">Crazy World: Girl, 17, raped by 15 relatives</a>
+			</div>
+							</li>
+			</ul>
+			</div>
+		</div>
+	                  
+<div class="widget editors-choice middle-column-content">
+      	    	<div class="content">
+		
+		<div id="editors-space-4579935">
+    								
+	<ul>
+																																		
+			<li class="el1 odd first-child  emirates247 news">
+																<div class="media rectangular_240">
+			<a href="/news/no-hoverboards-on-uae-streets-2016-01-17-1.617410" title="No 'hoverboards' on UAE streets?">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617411.1453019081!/image/image.jpg_gen/derivatives/rectangular_240/image.jpg" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/news/no-hoverboards-on-uae-streets-2016-01-17-1.617410" title="No 'hoverboards' on UAE streets?">No 'hoverboards' on UAE streets?</a></h2>
+
+						<p>
+				<span class="lead">Children using these boards on roads could cause serious risks: Abu Dhabi Police</span>
+				<a href="/news/no-hoverboards-on-uae-streets-2016-01-17-1.617410" title="No 'hoverboards' on UAE streets?" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el2 even  emirates247 news">
+																<div class="media rectangular_240">
+			<a href="/news/wba-den-wayak-video-evidence-of-deadly-uae-picture-2016-01-16-1.617414" title="#Wba&rsquo;den_Wayak: Video evidence of 'deadly' UAE picture">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617415.1453019098!/image/image.jpg_gen/derivatives/rectangular_240/image.jpg" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/news/wba-den-wayak-video-evidence-of-deadly-uae-picture-2016-01-16-1.617414" title="#Wba&rsquo;den_Wayak: Video evidence of 'deadly' UAE picture">#Wba&rsquo;den_Wayak: Video evidence of 'deadly' UAE picture</a></h2>
+
+						<p>
+				<span class="lead">Security Media Department hashtag to enhance public awareness and traffic safety</span>
+				<a href="/news/wba-den-wayak-video-evidence-of-deadly-uae-picture-2016-01-16-1.617414" title="#Wba&rsquo;den_Wayak: Video evidence of 'deadly' UAE picture" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el3 odd  emirates247 news">
+																<div class="media rectangular_240">
+			<a href="/news/dh2-million-fine-in-uae-for-online-scammers-2016-01-17-1.617424" title="Dh2 million fine in UAE for online scammers">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617478.1453019032!/image/image.jpg_gen/derivatives/rectangular_240/image.jpg" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/news/dh2-million-fine-in-uae-for-online-scammers-2016-01-17-1.617424" title="Dh2 million fine in UAE for online scammers">Dh2 million fine in UAE for online scammers</a></h2>
+
+						<p>
+				<span class="lead">Offences include posting wrong online address for fraud</span>
+				<a href="/news/dh2-million-fine-in-uae-for-online-scammers-2016-01-17-1.617424" title="Dh2 million fine in UAE for online scammers" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el4 even  emirates247 news">
+																<div class="media rectangular_240">
+			<a href="/news/dubai-driver-alert-which-are-the-top-5-deadliest-roads-2016-01-16-1.617400" title="Dubai Driver Alert &ndash; which are the top-5 deadliest roads?">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.604837.1453019105!/image/image.jpg_gen/derivatives/rectangular_240/image.jpg" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/news/dubai-driver-alert-which-are-the-top-5-deadliest-roads-2016-01-16-1.617400" title="Dubai Driver Alert &ndash; which are the top-5 deadliest roads?">Dubai Driver Alert &ndash; which are the top-5 deadliest roads?</a></h2>
+
+						<p>
+				<span class="lead">Total of 73 people died in traffic accidents last year</span>
+				<a href="/news/dubai-driver-alert-which-are-the-top-5-deadliest-roads-2016-01-16-1.617400" title="Dubai Driver Alert &ndash; which are the top-5 deadliest roads?" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																																		
+			<li class="el5 odd last-child  emirates247 news">
+																<div class="media rectangular_240">
+			<a href="/news/dubai-hatta-speed-limit-cut-to-100kmph-2016-01-16-1.617412" title="Dubai-Hatta speed limit cut to 100kmph">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.617413.1453019056!/image/image.JPG_gen/derivatives/rectangular_240/image.JPG" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/news/dubai-hatta-speed-limit-cut-to-100kmph-2016-01-16-1.617412" title="Dubai-Hatta speed limit cut to 100kmph">Dubai-Hatta speed limit cut to 100kmph</a></h2>
+
+						<p>
+				<span class="lead">Speed cut from Omani borders at Mizairee up to Omani Border Post starting from January 20</span>
+				<a href="/news/dubai-hatta-speed-limit-cut-to-100kmph-2016-01-16-1.617412" title="Dubai-Hatta speed limit cut to 100kmph" class="label more"></a>
+			</p>
+			</div>
+							</li>
+			</ul>
+					</div>
+			</div>
+</div>                  <div class="section missed-stories teaser-block el2 even">
+									<h1><a href="/eb247/news">In Case You Missed It ...</a></h1>
+							
+	<ul>
+																																		
+			<li class="el1 odd first-child  emirates247 eb247 news national">
+																<div class="media rectangular_240">
+			<a href="/eb247/news/national/sharjah-wilts-without-power-in-over-45-c-heat-for-second-day-2010-07-20-1.268572" title="Sharjah wilts without power in over 45&deg;C heat for second day">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.268573.1452325188!/image/image.gif_gen/derivatives/rectangular_240/image.gif" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/eb247/news/national/sharjah-wilts-without-power-in-over-45-c-heat-for-second-day-2010-07-20-1.268572" title="Sharjah wilts without power in over 45&deg;C heat for second day">Sharjah wilts without power in over 45&deg;C heat for second day</a></h2>
+
+						<p>
+				<span class="lead">Women and children flee to relatives' and friends' houses in Dubai and other emirates to escape heat</span>
+				<a href="/eb247/news/national/sharjah-wilts-without-power-in-over-45-c-heat-for-second-day-2010-07-20-1.268572" title="Sharjah wilts without power in over 45&deg;C heat for second day" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el2 even  emirates247 eb247 news national">
+																<div class="media rectangular_240">
+			<a href="/eb247/news/national/the-coolest-way-to-ride-the-water-in-dubai-2010-07-20-1.268627" title="The coolest way to ride the water in Dubai">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.268629.1452325506!/image/image.gif_gen/derivatives/rectangular_240/image.gif" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/eb247/news/national/the-coolest-way-to-ride-the-water-in-dubai-2010-07-20-1.268627" title="The coolest way to ride the water in Dubai">The coolest way to ride the water in Dubai</a></h2>
+
+						<p>
+				<span class="lead">Fare ranges between Dh50 and Dh570 for regular trips and Dh400 per hour for tourist journey</span>
+				<a href="/eb247/news/national/the-coolest-way-to-ride-the-water-in-dubai-2010-07-20-1.268627" title="The coolest way to ride the water in Dubai" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el3 odd  emirates247 eb247 news europe">
+																<div class="media rectangular_240">
+			<a href="/eb247/news/europe/parents-black-baby-blonde-and-blue-eyed-2010-07-20-1.268472" title="Parents black, baby blonde and blue-eyed">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.268473.1452312313!/image/image.jpg_gen/derivatives/rectangular_240/image.jpg" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/eb247/news/europe/parents-black-baby-blonde-and-blue-eyed-2010-07-20-1.268472" title="Parents black, baby blonde and blue-eyed">Parents black, baby blonde and blue-eyed</a></h2>
+
+						<p>
+				<span class="lead">Dad insists mum was true to him</span>
+				<a href="/eb247/news/europe/parents-black-baby-blonde-and-blue-eyed-2010-07-20-1.268472" title="Parents black, baby blonde and blue-eyed" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																															
+			<li class="el4 even  emirates247 eb247 news region">
+																<div class="media rectangular_240">
+			<a href="/eb247/news/region/saudis-urged-to-market-daughters-for-marriage-2010-07-20-1.268574" title="Saudis urged to &ldquo;market&rdquo; daughters for marriage">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.268575.1452332238!/image/image.jpg_gen/derivatives/rectangular_240/image.jpg" alt="" />
+			</a>
+		</div>
+									<div class="text">
+												<h2><a href="/eb247/news/region/saudis-urged-to-market-daughters-for-marriage-2010-07-20-1.268574" title="Saudis urged to &ldquo;market&rdquo; daughters for marriage">Saudis urged to &ldquo;market&rdquo; daughters for marriage</a></h2>
+
+						<p>
+				<span class="lead">A prominent Saudi psychiatrist has urged local families to market their daughters for early marriage, saying this would</span>
+				<a href="/eb247/news/region/saudis-urged-to-market-daughters-for-marriage-2010-07-20-1.268574" title="Saudis urged to &ldquo;market&rdquo; daughters for marriage" class="label more"></a>
+			</p>
+			</div>
+							</li>
+																																		
+			<li class="el5 odd last-child  emirates247 eb247 sports cricket">
+																<div class="media rectangular_240">
+			<a href="/eb247/sports/cricket/sri-lanka-declare-at-520-8-in-first-test-2010-07-20-1.268568" title="Sri Lanka declare at 520-8 in first Test">
+				<img src="http://cdn-wac.emirates247.com/polopoly_fs/1.268613.1452325618!/image/image.gif_gen/derivatives/rectangular_240/image.gif" alt="" />
+			</a>
+		</div>
+									<div class="text">
+									<h2><a href="/eb247/sports/cricket/sri-lanka-declare-at-520-8-in-first-test-2010-07-20-1.268568" title="Sri Lanka declare at 520-8 in first Test">Sri Lanka declare at 520-8 in first Test</a></h2>
+
+						<p>
+				<span class="lead">Rangana and Lasith prove unlikely saviours with career-best scores</span>
+				<a href="/eb247/sports/cricket/sri-lanka-declare-at-520-8-in-first-test-2010-07-20-1.268568" title="Sri Lanka declare at 520-8 in first Test" class="label more"></a>
+			</p>
+			</div>
+							</li>
+			</ul>
+
+	</div>        
       										<div class="delimiter clearfix"></div>
 				</div>
 
@@ -1455,180 +1388,216 @@ Subscribe to Emirates24|7 Newsletter
 
 			<div id="footer">
 									
-                  
-    
-      
-        
+                          
 
-	<div id="footer_sections_18520189" class="sections">
-																																																																																																																																																																																																																	
+	<div id="footer_sections_4579938" class="sections">
+																																																																																																																																																																																																							
 								<ul class="menu">
 																								
 																				<li class="entry first-child parent">
-																		<a href="/news">News</a>
+						
+												<a href="/news">News</a>
 																																																										
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/news/emirates">Emirates</a>
+						
+												<a href="/news/emirates">Emirates</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/news/world">World</a>
+						
+												<a href="/news/government">Government</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/news/government">Government</a>
+						
+												<a href="/news/region">Region</a>
 											</li>
 																								
 															<li class="entry last-child">
-																		<a href="/news/region">Region</a>
+						
+												<a href="/news/world">World</a>
 											</li>
 							</ul>
 														</li>
 																			
 																				<li class="entry parent">
-																		<a href="/crime">Crime</a>
+						
+												<a href="/crime">Crime</a>
 																																								
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/crime/local">Local</a>
+						
+												<a href="/crime/local">Local</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/crime/region">Region</a>
+						
+												<a href="/crime/region">Region</a>
 											</li>
 																								
 															<li class="entry last-child">
-																		<a href="/crime/world">World</a>
+						
+												<a href="/crime/world">World</a>
 											</li>
 							</ul>
 														</li>
 																			
 																				<li class="entry parent">
-																		<a href="/entertainment">Entertainment</a>
+						
+												<a href="/entertainment">Entertainment</a>
 																																													
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/entertainment/films-music">Films &amp; Music</a>
+						
+												<a href="/entertainment/films-and-music">Films and Music</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/entertainment/celebrity-gossip">Celebrity Gossip</a>
+						
+												<a href="/entertainment/celebrity-gossip">Celebrity Gossip</a>
 											</li>
 																								
 															<li class="entry last-child">
-																		<a href="/entertainment/events">Events</a>
+						
+												<a href="/entertainment/events">Events</a>
 											</li>
 							</ul>
 														</li>
 																			
 																				<li class="entry parent">
-																		<a href="/lifestyle">Lifestyle</a>
+						
+												<a href="/lifestyle">Lifestyle</a>
 																																																					
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/lifestyle/health">Health</a>
+						
+												<a href="/lifestyle/health">Health</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/lifestyle/living">Shopping</a>
+						
+												<a href="/lifestyle/living">Shopping</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/lifestyle/food">Food</a>
+						
+												<a href="/lifestyle/food">Food</a>
 											</li>
 																								
 															<li class="entry last-child">
-																		<a href="/lifestyle/fashion">Fashion</a>
+						
+												<a href="/lifestyle/fashion">Fashion</a>
 											</li>
 							</ul>
 														</li>
 																								
 																				<li class="entry current selected parent">
-																		<a href="/offbeat">Offbeat</a>
+						
+												<a href="/offbeat">Offbeat</a>
 																																
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/offbeat/this-is-life">This is life</a>
+						
+												<a href="/offbeat/this-is-life">This is life</a>
 											</li>
 																													
 															<li class="entry current selected last-child">
-																		<a href="/offbeat/crazy-world">Crazy World</a>
+						
+												<a href="/offbeat/crazy-world">Crazy World</a>
 											</li>
 							</ul>
 														</li>
 																			
 																				<li class="entry parent">
-																		<a href="/sports">Sports</a>
+						
+												<a href="/sports">Sports</a>
 																																																																														
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/sports/local">Local</a>
+						
+												<a href="/sports/local">Local</a>
 											</li>
 																			
 																				<li class="entry parent">
-																		<a href="/sports/cricket">Cricket</a>
-																					
+						
+												<a href="/sports/cricket">Cricket</a>
+																								
+								<ul class="sub-menu">
+																													
+															<li class="entry first-child last-child">
+						
+												<a href="/sports/cricket/world-cup">World Cup</a>
+											</li>
+							</ul>
 														</li>
 																			
 															<li class="entry">
-																		<a href="/sports/football">Football</a>
+						
+												<a href="/sports/football">FootBall</a>
 											</li>
 																								
 															<li class="entry last-child">
-																		<a href="/sports/other">Other</a>
+						
+												<a href="/sports/other">Other</a>
 											</li>
 							</ul>
 														</li>
 																			
 																				<li class="entry parent">
-																		<a href="/business">Business</a>
+						
+												<a href="/business">Business</a>
 																																																					
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/business/economy-finance">Economy &amp; Finance</a>
+						
+												<a href="/business/economy-and-finance">Economy and Finance</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/business/corporate">Corporate</a>
+						
+												<a href="/business/corporate">Corporate</a>
 											</li>
 																			
 															<li class="entry">
-																		<a href="/business/technology">Technology</a>
+						
+												<a href="/business/technology">Technology</a>
 											</li>
 																								
 															<li class="entry last-child">
-																		<a href="/business/energy">Energy</a>
+						
+												<a href="/business/energy">Energy</a>
 											</li>
 							</ul>
 														</li>
 																								
 																				<li class="entry last-child parent">
-																		<a href="/property">Property</a>
+						
+												<a href="/property">Property</a>
 																																					
 								<ul class="sub-menu">
 																								
 															<li class="entry first-child">
-																		<a href="/property/real-estate">Real Estate</a>
+						
+												<a href="/property/real-estate">Real Estate</a>
 											</li>
 																								
 															<li class="entry last-child">
-																		<a href="/property/rentals">Rentals</a>
+						
+												<a href="/property/rentals">Rentals</a>
 											</li>
 							</ul>
 														</li>
 							</ul>
 				</div>
-
-          
-        <div class="links">
+                  <div class="links">
 	<!--h2>Services</h2-->
 	<ul>
 																				<li class="el1 odd first-child">
@@ -1641,103 +1610,74 @@ Subscribe to Emirates24|7 Newsletter
 														<a href="/contact-us-1.131" title="Contact Us">Contact Us</a>
 							</li>
 																	<li class="el4 even">
-														<a href="/about-us-1.108" title="About Us">About Us</a>
-							</li>
-																	<li class="el5 odd">
-														<a href="/advertise-with-us-1.109" title="Advertise With Us">Advertise With Us</a>
-							</li>
-																	<li class="el6 even">
 														<a href="/terms-conditions-1.165" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
 							</li>
-																	<li class="el7 odd">
+																	<li class="el5 odd">
 														<a href="/apps-1.361834" title="Apps">Apps</a>
 							</li>
-																				<li class="el8 even last-child">
+																				<li class="el6 even last-child">
 														<a href="/our-services-1.589916" title="Our services">Our services</a>
 							</li>
 			</ul>
-</div>
-          
-        <div id="html-snippet-18527832" class="html-snippet ">
+</div>                  <div id="html-snippet-4579940" class="html-snippet ">	
 			<script type="text/javascript">
-if (top.location != self.location) {
-top.location = self.location;
-}
-</script>
+			if (top.location != self.location) {
+			top.location = self.location;
+			}
+			</script> 
+	</div>                  <div id="html-snippet-4579941" class="html-snippet dmi-links">	
+			
 
-	</div>
-          
-        <div id="html-snippet-18525486" class="html-snippet dmi-links">
-			<div class="footerstrip">
-    <div class="footerwrap">
+    <div class="footerstrip"><div class="footerwrap">
+
     	<span class="printsector"><img src="http://media.emirates247.com/images/print_sector.jpg" alt="" /></span>
-        <span><a href="http://www.albayan.ae/" title=""><img src="http://media.emirates247.com/images/albayan_logo.jpg" alt="" /></a></span>
-        <span><a href="http://www.emaratalyoum.com/" title=""><img src="http://media.emirates247.com/images/eay_logo.jpg" alt="" /></a></span>
-        <span><a href="http://www.emirates247.com/" title=""><img src="http://media.emirates247.com/images/emirate_247_logo.jpg" alt="" /></a></span>
-    </div> 
-</div>
 
-<!-- <div style="text-align:center;">
-	<img src="http://media.emirates247.com/res/img/dmi/logos-140106.png" alt="Dubai Media Incorporated" width="940" height="59" style="border: 0" usemap="#dmi_links" />
-	<map id="dmi_links" name="dmi_links">
-		<area shape="rect" alt="Emarat Sport" title="Emarat Sport" coords="3,21,66,35" href="http://www.emaratsport.com/" target="_blank">
-		<area shape="rect" alt="Tawseel" title="Tawseel" coords="73,10,101,46" href="http://www.tawseel.com/" target="_blank">
-		<area shape="rect" alt="Masar Print" title="Masar Print" coords="106,14,153,45" href="http://www.masarprint.com/" target="_blank">
-		<area shape="rect" alt="Ara Magazine" title="Ara Magazine" coords="162,13,196,39" href="http://www.aramagazine.com/" target="_blank">
-		<area shape="rect" alt="Emirates 24/7" title="Emirates 24/7" coords="205,16,243,40" href="http://www.emirates247.com/" target="_blank">
-		<area shape="rect" alt="Emarat Alyoum" title="Emarat Alyoum" coords="252,20,319,38" href="http://www.emaratalyoum.com/" target="_blank">
-		<area shape="rect" alt="Dubai Radio" title="Dubai Radio" coords="333,8,365,50" href="http://www.dmi.ae/dubairadio/" target="_blank">
-		<area shape="rect" alt="Noor Dubai Radio" title="Noor Dubai Radio" coords="380,14,411,43" href="http://www.noordubai.com" target="_blank">
-		<area shape="rect" alt="Noor Dubai TV" title="Noor Dubai TV" coords="420,14,453,43" href="http://www.dmi.ae/noordubaitv/" target="_blank">
-		<area shape="rect" alt="Dubai Racing" title="Dubai Racing" coords="466,14,512,42" href="http://www.dmi.ae/dubairacing/" target="_blank">
-		<area shape="rect" alt="Dubai Sports" title="Dubai Sports" coords="523,23,597,40" href="http://www.dmi.ae/dubaisports/" target="_blank">
-		<area shape="rect" alt="DubaiOne" title="DubaiOne" coords="609,21,651,41" href="http://www.dmi.ae/dubaione/" target="_blank">
-		<area shape="rect" alt="Sama Dubai" title="Sama Dubai" coords="662,20,704,40" href="http://www.dmi.ae/samadubai/" target="_blank">
-		<area shape="rect" alt="Albayan" title="Albayan" coords="713,21,757,43" href="http://www.albayan.ae/" target="_blank">
-		<area shape="rect" alt="Dubai TV" title="Dubai TV" coords="761,23,807,42" href="http://www.dmi.ae/dubaitv/" target="_blank">
-		<area shape="rect" alt="Dubai Media Incorporated" title="Dubai Media Incorporated" coords="812,4,934,58" href="http://www.dmi.ae/" target="_blank">
-	</map>
-</div> -->
-	</div>
-          
-        
+        <span><a href="http://www.albayan.ae/" title=""><img src="http://media.emirates247.com/images/albayan_logo.jpg" alt="" /></a></span>
+
+        <span><a href="http://www.emaratalyoum.com/" title=""><img src="http://media.emirates247.com/images/eay_logo.jpg" alt="" /></a></span>
+
+        <span><a href="http://www.emirates247.com/" title=""><img src="http://media.emirates247.com/images/emirate_247_logo.jpg" alt="" /></a></span>
+
+    </div> 
+</div> 
+
+
+
+
+
+	</div>                  
 
 <div class="banner ">
-	<div id="div-gpt-ad-501955-0-oop" class="ad-slot">
+	<div id="div-gpt-ad-109-0-oop" class="ad-slot">
 		<script type="text/javascript">			 
-							googletag.display("div-gpt-ad-501955-0-oop");
+							googletag.display("div-gpt-ad-109-0-oop");
 					</script> 
 	</div>
 </div>
 
-
-          
-        <div id="html-snippet-18525488" class="html-snippet ">
-			<div class='gold-forex' id="forex"><a href='http://www.emirates247.com/business/gold-currency/latest-gold-and-currency-rates-in-uae-today-2015-03-26-1.564538'><img src='http://media.emirates247.com/images/2015/02/GOLDAND-EXCHANGE2015.gif' border='0' alt='Gold Rate' width='224px' height='30px'></a></div>
-
-<script type="text/javascript">
-//<![CDATA[
-$(document).ready(function () {
-$("#forex").insertAfter("#header .navigation .tab-menu");
-});
-//]]>
-</script>
-	</div>
-          
-        <div id="html-snippet-18527749" class="html-snippet ">
+                  <div id="html-snippet-4579943" class="html-snippet ">	
+			<div class='gold-forex' id="forex"><a
+			href='http://www.emirates247.com/business/gold-currency/latest-gold-and-currency-rates-in-uae-today-2015-03-26-1.564538'><img
+			src='http://media.emirates247.com/images/2015/02/GOLDAND-EXCHANGE2015.gif' border='0' alt='Gold Rate' width='224px' height='30px'></a></div>
 			<script type="text/javascript">
-	//<![CDATA[
-	$(document).ready(function () {		
-		if(navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i) && $(".home .protocol-2").length) {
+			//<![CDATA[
+			$(document).ready(function () {
+			$("#forex").insertAfter("#header .navigation .tab-menu");
+			});
+			//]]>
+			</script>
+	</div>                  <div id="html-snippet-4579944" class="html-snippet ">	
+			<script type="text/javascript">
+			//<![CDATA[
+			$(document).ready(function () {
+			if(navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i) && $(".home .protocol-2").length) {
 			$(".protocol-2").addClass("news section");
 			$(".protocol-2").insertAfter("#main-column .featured.scroller");
-		}
-	});
-	//]]>
-</script>
-	</div>
-      
-  
+			}
+			});
+			//]]>
+			</script>
+	</div>        
       								<div class="copyright">Copyright &copy; 2016. Dubai Media Incorporated. All rights reserved.</div>
 			</div>
 		</div>
@@ -1776,7 +1716,7 @@ $("#forex").insertAfter("#header .navigation .tab-menu");
 
 			
 						<li class="twitter">
-								<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988" data-text="Patient sent $44.8m bill by hospital" data-count="vertical"  data-lang="en">Tweet</a>
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988" data-text="Patient sent $44.8m bill by hospital" data-count="vertical" data-via="Emirates247" data-lang="en">Tweet</a>
 				<script defer type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 			</li>
 			
@@ -1786,12 +1726,16 @@ $("#forex").insertAfter("#header .navigation .tab-menu");
 				<script type="in/share" data-counter="top" data-url="http://www.emirates247.com/offbeat/crazy-world/patient-sent-44-8m-bill-by-hospital-2012-01-17-1.437988"></script>
 			</li>
 
-																											
+							
+				<li class="reddit">
+					<script defer type="text/javascript" src="http://www.reddit.com/static/button/button2.js"></script>
+				</li>
+			
 
 		</ul>
 	</div>
 		
-							<img src='http://www.emirates247.com/logger/p.gif?a=1.437988&amp;d=/2.312/2.447/2.464' alt='' />		
+							<script type='text/javascript'>  (function(){    var logUrl = '/logger/p.gif?a=1.437988&amp;d=/2.347/2.407/2.451';    var referrer = document.referrer;    if (referrer && referrer.length > 0) {      logUrl += '&referrer=' + referrer;    }    document.write('<img src="' + logUrl + '" />');  })();</script>		
 																										
 				
 				<script type="text/javascript">if(typeof wabtn4fg==="undefined"){wabtn4fg=1;h=document.head||document.getElementsByTagName("head")[0],s=document.createElement("script");s.type="text/javascript";s.src="http://cdn-wac.emirates247.com/res/js/whatsapp-button-share.js";h.appendChild(s);}</script>

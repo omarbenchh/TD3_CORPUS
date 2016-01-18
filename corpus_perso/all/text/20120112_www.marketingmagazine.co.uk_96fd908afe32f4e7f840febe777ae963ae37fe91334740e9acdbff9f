@@ -7,7 +7,7 @@
 <!--[if gt IE 10]> <html prefix="og: http://ogp.me/ns#" class="no-js"> <![endif]-->
 <!--[if !IE]><!--> <html prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]-->
 <head>
-	<meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8670df0cad","applicationID":"1852470","transactionName":"bwQGZEoHXUVYVhdcX1ZOKWZ7SXJETVwAWVV7DgpESglfWlxHTHRCTAgHXF0=","queueTime":0,"applicationTime":243,"ttGuid":"91EB6F169277FE60","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+	<meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8670df0cad","applicationID":"1852470","transactionName":"bwQGZEoHXUVYVhdcX1ZOKWZ7SXJETVwAWVV7DgpESglfWlxHTHRCTAgHXF0=","queueTime":0,"applicationTime":90,"ttGuid":"770F10D9BB9B82CC","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
 	
 	
 
@@ -67,7 +67,7 @@
 		var ContentInfo = {
 			Site:{"Domain":"marketingmagazine.co.uk","SiteFormat":"responsive"},
 			Magazine:{"JournalCode":"MAR","Url":"http://www.marketingmagazine.co.uk/","SiteCatalystAccount":"haymarketmarketingmagazine,haymarketGlobal","SiteCatalystSiteName":"brandnetwork","SiteCatalystSitePrefix":"mar"},
-Article:{"Id":1111393,"Title":"McDonald's offers millions of books in Happy Meals promotion","ArticleDate":"2012-01-11T09:01:00+00:00","JournalCode":"MKO","Keywords":"Europe|McDonald's|Food & Drink","AuthorName":"John Reynolds","ShareUrl":"http://www.marketingmagazine.co.uk/article/1111393/mcdonalds-offers-millions-books-happy-meals-promotion","HasAssets":false,"ArticleAge":1465,"TagGroups":[{"TagGroupId":56,"ArticleTagIds":[5880],"PathToPrimaryTagId":[5880],"TopLevelTagIds":[5880],"SubLevelTagIds":[]},{"TagGroupId":57,"ArticleTagIds":[5832],"PathToPrimaryTagId":[5832],"TopLevelTagIds":[5832],"SubLevelTagIds":[]},{"TagGroupId":8,"ArticleTagIds":[2818,2832],"PathToPrimaryTagId":[2818,2832],"TopLevelTagIds":[2818],"SubLevelTagIds":[2832]}],"NewsType":{"Id":1,"Name":"News"},"TagHierarchy":[{"Id":56,"Name":"Channel","Children":[{"Id":5880,"Name":"Marketing","Children":[]}]},{"Id":8,"Name":"Exposure","Children":[]},{"Id":57,"Name":"Sector","Children":[{"Id":5832,"Name":"Food and drink","Children":[]}]}],"CommentCount":0},
+Article:{"Id":1111393,"Title":"McDonald's offers millions of books in Happy Meals promotion","ArticleDate":"2012-01-11T09:01:00+00:00","JournalCode":"MKO","Keywords":"Europe|McDonald's|Food & Drink","AuthorName":"John Reynolds","ShareUrl":"http://www.marketingmagazine.co.uk/article/1111393/mcdonalds-offers-millions-books-happy-meals-promotion","HasAssets":false,"ArticleAge":1467,"TagGroups":[{"TagGroupId":56,"ArticleTagIds":[5880],"PathToPrimaryTagId":[5880],"TopLevelTagIds":[5880],"SubLevelTagIds":[]},{"TagGroupId":57,"ArticleTagIds":[5832],"PathToPrimaryTagId":[5832],"TopLevelTagIds":[5832],"SubLevelTagIds":[]},{"TagGroupId":8,"ArticleTagIds":[2818,2832],"PathToPrimaryTagId":[2818,2832],"TopLevelTagIds":[2818],"SubLevelTagIds":[2832]}],"NewsType":{"Name":"News","Id":1},"TagHierarchy":[{"Id":56,"Name":"Channel","Children":[{"Id":5880,"Name":"Marketing","Children":[]}]},{"Id":8,"Name":"Exposure","Children":[]},{"Id":57,"Name":"Sector","Children":[{"Id":5832,"Name":"Food and drink","Children":[]}]}],"CommentCount":0},
 PageInfo:{"DartZoneName":"/NEWS/ARTICLE","PageName":"mar:news:article:article:article-1111393","Hierarchy":"mar:news:article:1111393","PageUrl":"news","ContentInfoType":3}
 		}
 	</script>
@@ -147,20 +147,20 @@ PageInfo:{"DartZoneName":"/NEWS/ARTICLE","PageName":"mar:news:article:article:ar
 				$(window).load(function() {
 					if ($("#t100Ad a img").height() > 1 || $("#t100Ad embed").length > 0 || $("#t100Ad object").length > 0 || $("#t100Ad div").length > 0 || $("#t100Ad iframe").length > 0 || $("#t100Ad style").length > 0 || $("#t100Ad table").length > 0 || $("#t100Ad p").length > 0 || $.trim($("#t100Ad a").text()).length > 0) {$("#t100Ad").show();} else {$("#t100Ad").hide();}});
 			</script>
-			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=580851100;adloc=t100;tile=6;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t100;sz=1x1;dcopt=ist;"></script>
+			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=189092740;adloc=t100;tile=6;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t100;sz=1x1;dcopt=ist;"></script>
 			<noscript>
 				
-				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=580851100;adloc=t100;tile=6;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t100;sz=1x1;dcopt=ist;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=580851100;adloc=t100;tile=6;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t100;sz=1x1;dcopt=ist;"/></a>
+				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=189092740;adloc=t100;tile=6;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t100;sz=1x1;dcopt=ist;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=189092740;adloc=t100;tile=6;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t100;sz=1x1;dcopt=ist;"/></a>
 			</noscript>
 </div><div id="t101Ad" class="ad ">			<script type="text/javascript">
 							
 				$(window).load(function() {
 					if ($("#t101Ad a img").height() > 1 || $("#t101Ad embed").length > 0 || $("#t101Ad object").length > 0 || $("#t101Ad div").length > 0 || $("#t101Ad iframe").length > 0 || $("#t101Ad style").length > 0 || $("#t101Ad table").length > 0 || $("#t101Ad p").length > 0 || $.trim($("#t101Ad a").text()).length > 0) {$("#t101Ad").show();} else {$("#t101Ad").hide();}});
 			</script>
-			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=580851100;adloc=t101;tile=7;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t101;sz=2x2,970x250,728x90;"></script>
+			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=189092740;adloc=t101;tile=7;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t101;sz=2x2,970x250,728x90;"></script>
 			<noscript>
 				
-				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=580851100;adloc=t101;tile=7;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t101;sz=2x2,970x250,728x90;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=580851100;adloc=t101;tile=7;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t101;sz=2x2,970x250,728x90;"/></a>
+				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=189092740;adloc=t101;tile=7;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t101;sz=2x2,970x250,728x90;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=189092740;adloc=t101;tile=7;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=t101;sz=2x2,970x250,728x90;"/></a>
 			</noscript>
 </div>
 	</div>
@@ -353,10 +353,10 @@ PageInfo:{"DartZoneName":"/NEWS/ARTICLE","PageName":"mar:news:article:article:ar
 				$(window).load(function() {
 					if ($("#c501Ad a img").height() > 1 || $("#c501Ad embed").length > 0 || $("#c501Ad object").length > 0 || $("#c501Ad div").length > 0 || $("#c501Ad iframe").length > 0 || $("#c501Ad style").length > 0 || $("#c501Ad table").length > 0 || $("#c501Ad p").length > 0 || $.trim($("#c501Ad a").text()).length > 0) {$("#c501Ad").show();} else {$("#c501Ad").hide();}});
 			</script>
-			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=580851100;adloc=c501;tile=4;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=c501;sz=970x66;"></script>
+			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=189092740;adloc=c501;tile=4;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=c501;sz=970x66;"></script>
 			<noscript>
 				
-				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=580851100;adloc=c501;tile=4;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=c501;sz=970x66;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=580851100;adloc=c501;tile=4;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=c501;sz=970x66;"/></a>
+				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=189092740;adloc=c501;tile=4;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=c501;sz=970x66;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=189092740;adloc=c501;tile=4;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=c501;sz=970x66;"/></a>
 			</noscript>
 </div>	<div class="textHtmlModule">
 		<p>
@@ -615,7 +615,7 @@ font-weight: bolder;
 			</script>
 	<script type="text/javascript">
 		var disqus_config = function () {
-			this.page.remote_auth_s3 = 'eyJpZCI6IjAiLCJ1c2VybmFtZSI6IiIsImVtYWlsIjoiIn0= E907796D72A881FE18D3140F0CD4E64C0BEEE731 1452872989';
+			this.page.remote_auth_s3 = 'eyJpZCI6IjAiLCJ1c2VybmFtZSI6IiIsImVtYWlsIjoiIn0= FE412A6E7A6DF82B1930AC911BCF1B0B36E371E4 1453064659';
 			this.page.api_key = 'g2AGGAY5UqQtgS7YSOijHJ7TKfjT0nHlwSXpe0TNTSsCg1jnQ6lk09O4lv3T6Z8u';
 
 			this.sso = {	
@@ -699,10 +699,10 @@ opacity: 0.6;
 				$(window).load(function() {
 					if ($("#r1301Ad a img").height() > 1 || $("#r1301Ad embed").length > 0 || $("#r1301Ad object").length > 0 || $("#r1301Ad div").length > 0 || $("#r1301Ad iframe").length > 0 || $("#r1301Ad style").length > 0 || $("#r1301Ad table").length > 0 || $("#r1301Ad p").length > 0 || $.trim($("#r1301Ad a").text()).length > 0) {$("#r1301Ad").show();} else {$("#r1301Ad").hide();}});
 			</script>
-			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=580851100;adloc=r1301;tile=1;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r1301;sz=2x2,300x250,300x600;"></script>
+			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=189092740;adloc=r1301;tile=1;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r1301;sz=2x2,300x250,300x600;"></script>
 			<noscript>
 				
-				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=580851100;adloc=r1301;tile=1;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r1301;sz=2x2,300x250,300x600;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=580851100;adloc=r1301;tile=1;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r1301;sz=2x2,300x250,300x600;"/></a>
+				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=189092740;adloc=r1301;tile=1;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r1301;sz=2x2,300x250,300x600;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=189092740;adloc=r1301;tile=1;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r1301;sz=2x2,300x250,300x600;"/></a>
 			</noscript>
 </div>		<div class="jobsModule genericModule">
 			<header>
@@ -773,7 +773,18 @@ opacity: 0.6;
 			<div class="moduleContent">
 					<div class="storyContent">
 							<figure class="thumbnail">
-								<a href="/article/1326913/ee-bts-last-chance-transform-consumer-champion" title="EE is BT&#39;s last chance to transform into a &#39;consumer champion&#39;"><img alt="EE is BT&#39;s last chance to transform into a &#39;consumer champion&#39;" src="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/300/offlinehbpl.hbpl.co.uk/news/OKM/BTadcrop-20141217122520417.jpg" /></a>
+								<a href="/article/1379586/does-apples-move-potentially-disband-its-iad-sales-team-mean" title="What does Apple&#39;s move to potentially disband its iAd sales team mean?"><img alt="What does Apple&#39;s move to potentially disband its iAd sales team mean?" src="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/300/offlinehbpl.hbpl.co.uk/news/OKM/scaler-20160115041223953.jpg" /></a>
+							</figure>
+
+					
+						<h3>	<a href="/article/1379586/does-apples-move-potentially-disband-its-iad-sales-team-mean" data-url="http://www.marketingmagazine.co.uk/article/1379586" data-id="1379586" title="What does Apple&#39;s move to potentially disband its iAd sales team mean?">What does Apple&#39;s move to potentially disband its iAd sales team mean?</a>
+</h3>
+						
+
+					</div>
+					<div class="storyContent">
+							<figure class="thumbnail">
+								<a href="/article/1326913/ee-bts-last-chance-transform-consumer-champion" title="EE is BT&#39;s last chance to transform into a &#39;consumer champion&#39;"><img alt="EE is BT&#39;s last chance to transform into a &#39;consumer champion&#39;" src="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/300/offlinehbpl.hbpl.co.uk/news/OKM/play1-20160117102608349.jpg" /></a>
 							</figure>
 
 					
@@ -804,17 +815,6 @@ opacity: 0.6;
 						
 
 					</div>
-					<div class="storyContent">
-							<figure class="thumbnail">
-								<a href="/article/1379494/william-hill-eyes-e-sports-millennials-150000-betgame-investment" title="William Hill eyes e-sports and millennials with £150,000 BetGame investment"><img alt="William Hill eyes e-sports and millennials with £150,000 BetGame investment" src="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/300/offlinehbpl.hbpl.co.uk/news/OKM/betgamecropped-20160115102313480.jpg" /></a>
-							</figure>
-
-					
-						<h3>	<a href="/article/1379494/william-hill-eyes-e-sports-millennials-150000-betgame-investment" data-url="http://www.marketingmagazine.co.uk/article/1379494" data-id="1379494" title="William Hill eyes e-sports and millennials with &#163;150,000 BetGame investment">William Hill eyes e-sports and millennials with &#163;150,000 BetGame investment</a>
-</h3>
-						
-
-					</div>
 			</div>
 		</div>
 	<div class="textHtmlModule">
@@ -825,10 +825,10 @@ opacity: 0.6;
 				$(window).load(function() {
 					if ($("#r2302Ad a img").height() > 1 || $("#r2302Ad embed").length > 0 || $("#r2302Ad object").length > 0 || $("#r2302Ad div").length > 0 || $("#r2302Ad iframe").length > 0 || $("#r2302Ad style").length > 0 || $("#r2302Ad table").length > 0 || $("#r2302Ad p").length > 0 || $.trim($("#r2302Ad a").text()).length > 0) {$("#r2302Ad").show();} else {$("#r2302Ad").hide();}});
 			</script>
-			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=580851100;adloc=r2302;tile=2;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r2302;sz=2x2,300x250,300x600;"></script>
+			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=189092740;adloc=r2302;tile=2;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r2302;sz=2x2,300x250,300x600;"></script>
 			<noscript>
 				
-				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=580851100;adloc=r2302;tile=2;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r2302;sz=2x2,300x250,300x600;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=580851100;adloc=r2302;tile=2;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r2302;sz=2x2,300x250,300x600;"/></a>
+				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=189092740;adloc=r2302;tile=2;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r2302;sz=2x2,300x250,300x600;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=189092740;adloc=r2302;tile=2;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=r2302;sz=2x2,300x250,300x600;"/></a>
 			</noscript>
 </div>
 					</div>
@@ -868,10 +868,10 @@ opacity: 0.6;
 				$(window).load(function() {
 					if ($("#f201Ad a img").height() > 1 || $("#f201Ad embed").length > 0 || $("#f201Ad object").length > 0 || $("#f201Ad div").length > 0 || $("#f201Ad iframe").length > 0 || $("#f201Ad style").length > 0 || $("#f201Ad table").length > 0 || $("#f201Ad p").length > 0 || $.trim($("#f201Ad a").text()).length > 0) {$("#f201Ad").show();} else {$("#f201Ad").hide();}});
 			</script>
-			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=580851100;adloc=f201;tile=3;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=f201;sz=2x2,970x250;"></script>
+			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=189092740;adloc=f201;tile=3;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=f201;sz=2x2,970x250;"></script>
 			<noscript>
 				
-				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=580851100;adloc=f201;tile=3;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=f201;sz=2x2,970x250;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=580851100;adloc=f201;tile=3;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=f201;sz=2x2,970x250;"/></a>
+				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=189092740;adloc=f201;tile=3;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=f201;sz=2x2,970x250;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=189092740;adloc=f201;tile=3;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=f201;sz=2x2,970x250;"/></a>
 			</noscript>
 </div>
 	<div id="xX1Ad" class="ad ">			<script type="text/javascript">
@@ -879,10 +879,10 @@ opacity: 0.6;
 				$(window).load(function() {
 					if ($("#xX1Ad a img").height() > 1 || $("#xX1Ad embed").length > 0 || $("#xX1Ad object").length > 0 || $("#xX1Ad div").length > 0 || $("#xX1Ad iframe").length > 0 || $("#xX1Ad style").length > 0 || $("#xX1Ad table").length > 0 || $("#xX1Ad p").length > 0 || $.trim($("#xX1Ad a").text()).length > 0) {$("#xX1Ad").show();} else {$("#xX1Ad").hide();}});
 			</script>
-			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=580851100;adloc=xX1;tile=5;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=xx1;sz=125x125;"></script>
+			<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5748/adj/mar.main/news/article;ord=189092740;adloc=xX1;tile=5;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=xx1;sz=125x125;"></script>
 			<noscript>
 				
-				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=580851100;adloc=xX1;tile=5;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=xx1;sz=125x125;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=580851100;adloc=xX1;tile=5;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=xx1;sz=125x125;"/></a>
+				<a href="http://ad.uk.doubleclick.net/N5748/jump/mar.main/news/article;ord=189092740;adloc=xX1;tile=5;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=xx1;sz=125x125;"><img src="http://ad.uk.doubleclick.net/N5748/ad/mar.main/news/article;ord=189092740;adloc=xX1;tile=5;cid=1111393;cjc=mko;auth=0;nt=1;kw=europe,mcdonald%27s,food+%26+drink;ptg=5880;tg=5880;ptg=5832;tg=5832;ptg=2832;tg=2818;tg=2832;lang=en-gb;adloc=xx1;sz=125x125;"/></a>
 			</noscript>
 </div>
 </div>

@@ -236,20 +236,20 @@
  
 <script>
   function incclick(){
-    $.get('http://www.thelocal.de/spotlight/incclick/491');
+    $.get('http://www.thelocal.de/spotlight/incclick/489');
     ga('theLocalNetwork.send','event', 'Content sections', 'Spotlights');
   }
 </script>
 
 <div id="spotlight">
-  <a href="http://www.thelocal.de/jobs/?alljobs=1" onmousedown="incclick()"><img
-    src="http://www.thelocal.de/userdata/images/spotlights/the-logo-jobs-spotlight1.jpg" alt="The Local Jobs"></a>
+  <a href="http://www.thelocal.de/assets/jobs_admin/media/pdf/larsen-job-spec-v1.pdf" onmousedown="incclick()"><img
+    src="http://www.thelocal.de/userdata/images/spotlights/larsen-logo-3.jpg" alt="larsen-logo-2.jpg"></a>
   <div>
     <p style="line-height: 20px; padding: 3px 3px 0 0;">
-            <a href="http://www.thelocal.de/jobs/?alljobs=1" onclick="incclick()">Get the job you've always wanted with The Local Jobs</a>
+            <a href="http://www.thelocal.de/assets/jobs_admin/media/pdf/larsen-job-spec-v1.pdf" onclick="incclick()">Job: Quality Assurance Manager</a>
           </p>
     <p class="subheading" style="color: #989898; font-size:0.9em; margin-top:5px; padding-right: 3px;">
-      <a style="color: #989898;" href="http://www.thelocal.de/jobs/?alljobs=1" onclick="incclick()">More English-language jobs in Germany than anyone else</a>  
+      <a style="color: #989898;" href="http://www.thelocal.de/assets/jobs_admin/media/pdf/larsen-job-spec-v1.pdf" onclick="incclick()">Larsen Logistik</a>  
     </p>
   </div>
 </div>
@@ -442,22 +442,22 @@
           </div>
                     			<div class="submenu-right">
                 <div style="padding:10px">
-                					<div class="title1">Don't Miss ...</div><div class="menu_alist"><div class="imageleft"><img src="/userdata/images/article7dcd92ea56633830b2503dc7a62b53eb65c454f66b8f9272db379a6cbdf0b0c3.rthumb.jpg" alt="Thumb" style="width: 60px; height: 60px;" />
+                					<div class="title1">Don't Miss ...</div><div class="menu_alist"><div class="imageleft"><img src="/userdata/images/article109bfaa5a0e6ad4cfd0a2c746d58b25098a3ebb09edb10b699313f565e68be94.rthumb.jpg" alt="Thumb" style="width: 60px; height: 60px;" />
+			</div>
+			<div class="menu_article"><div style="min-height:60px;"><div class="menu_atitle">
+			  <a href="/20160117/remains-of-german-victims-of-istanbul-attack-flown-home">Remains of German victims of Istanbul attack flown home</a>
+			</div></div></div>
+			<div style="clear:both"></div>
+			</div><div class="menu_alist"><div class="imageleft"><img src="/userdata/images/articleb0dfec3ef795243bf4b0c07d10866a305325d4edf83ff0c07d38bc5c62b7705c.rthumb.jpg" alt="Thumb" style="width: 60px; height: 60px;" />
+			</div>
+			<div class="menu_article"><div style="min-height:60px;"><div class="menu_atitle">
+			  <a href="/20160116/ten-of-germanys-greatest-inventions-every-day-german-inventors">10 genius ways German inventors improved our lives</a>
+			</div></div></div>
+			<div style="clear:both"></div>
+			</div><div class="menu_alist"><div class="imageleft"><img src="/userdata/images/article7dcd92ea56633830b2503dc7a62b53eb65c454f66b8f9272db379a6cbdf0b0c3.rthumb.jpg" alt="Thumb" style="width: 60px; height: 60px;" />
 			</div>
 			<div class="menu_article"><div style="min-height:60px;"><div class="menu_atitle">
 			  <a href="/20160115/berlin-studio-throws-party-in-bowies-honour">Bowie's old studio opens doors for fan farewell</a>
-			</div></div></div>
-			<div style="clear:both"></div>
-			</div><div class="menu_alist"><div class="imageleft"><img src="/userdata/images/article512fad151dde8a66d21401aaa3ce7badad260e4ab4d576a4da653300ae68e635.rthumb.jpg" alt="Thumb" style="width: 60px; height: 60px;" />
-			</div>
-			<div class="menu_article"><div style="min-height:60px;"><div class="menu_atitle">
-			  <a href="/20160115/germans-defend-slow-progress-on-sorting-nazi-looted-art-collection">Experts defend slow progress on sorting Nazi-looted art haul</a>
-			</div></div></div>
-			<div style="clear:both"></div>
-			</div><div class="menu_alist"><div class="imageleft"><img src="/userdata/images/articleca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.rthumb.jpg" alt="Thumb" style="width: 60px; height: 60px;" />
-			</div>
-			<div class="menu_article"><div style="min-height:60px;"><div class="menu_atitle">
-			  <a href="/20160114/german-live-action-short-makes-oscar-nomination-list">German live-action short takes student director to Oscars</a>
 			</div></div></div>
 			<div style="clear:both"></div>
 			</div>                                </div>
@@ -759,34 +759,32 @@
         
 	<div class="newsSummary  wide">
 		
-		 
-			<div class="tabloid" style="width: 458px; ">Death of David Bowie</div>
 				
-					<a href="http://www.thelocal.de/20160115/berlin-studio-throws-party-in-bowies-honour" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Bowie's old studio opens doors for fan farewell" alt="Bowie's old studio opens doors for fan farewell"  
-											src="http://www.thelocal.de/userdata/images/article/7dcd92ea56633830b2503dc7a62b53eb65c454f66b8f9272db379a6cbdf0b0c3.jpg"/>
+					<a href="http://www.thelocal.de/20160117/germany-plans-repatriation-centres-for-algerians-moroccans" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="Germany plans centres for Algerians and Moroccans" alt="Germany plans centres for Algerians and Moroccans"  
+											src="http://www.thelocal.de/userdata/images/article/acec4793db9aa3da8e745add3187fde904d4ef28a342b3962942187bcf82278b.jpg"/>
 												</a>
-			<div class="small">File photo: DPA</div>
-					<h1 class="ts2">
-				<a href="http://www.thelocal.de/20160115/berlin-studio-throws-party-in-bowies-honour" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Bowie's old studio opens doors for fan farewell				</a>
+			<div class="small">In Düsseldorf, police said they had detained 40 men from North Africa, nearly all on suspicion of being in Germany illegally. Photo: DPA</div>
+					<h1 class="ts3">
+				<a href="http://www.thelocal.de/20160117/germany-plans-repatriation-centres-for-algerians-moroccans" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					Germany plans centres for Algerians and Moroccans				</a>
 				<div class="art-date">
-					2 hours ago				</div>
+					13 minutes ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								The former Hansa Studios, where David Bowie spent much of his time in the years he spent in Berlin in the late 1970s, is throwing a party on Friday for his fans in the capital to raise a glass – or just put on the red shoes and dance the blues. 
+								Germany is planning measures to expedite the deportation of rejected asylum seekers from Algeria and Morocco including placing them in special expulsion centres, officials said on Sunday. 
 				<span class="small">
-					<!-- a class="c108781" title="Read 'Bowie's old studio opens doors for fan farewell' in full"
-						href="http://www.thelocal.de/20160115/berlin-studio-throws-party-in-bowies-honour" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108831" title="Read 'Germany plans centres for Algerians and Moroccans' in full"
+						href="http://www.thelocal.de/20160117/germany-plans-repatriation-centres-for-algerians-moroccans" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/berlin-studio-throws-party-in-bowies-honour#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160117/germany-plans-repatriation-centres-for-algerians-moroccans#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/berlin-studio-throws-party-in-bowies-honour#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160117/germany-plans-repatriation-centres-for-algerians-moroccans#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -796,35 +794,35 @@
 	<div class="newsSummary ">
 		
 				
-					<a href="http://www.thelocal.de/20160115/poll-shows-most-germans-fear-refugee-burden-too-great" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Polls show most Germans fear refugee burden too great" alt="Polls show most Germans fear refugee burden too great"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/c906920b85912310cf7eb8f76d85a51b1e440e41cf04dd58c4c5c4036fe28afa.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/c906920b85912310cf7eb8f76d85a51b1e440e41cf04dd58c4c5c4036fe28afa.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/c906920b85912310cf7eb8f76d85a51b1e440e41cf04dd58c4c5c4036fe28afa.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/c906920b85912310cf7eb8f76d85a51b1e440e41cf04dd58c4c5c4036fe28afa.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/c906920b85912310cf7eb8f76d85a51b1e440e41cf04dd58c4c5c4036fe28afa.jpg"/>
+					<a href="http://www.thelocal.de/20160117/german-businesses-put-on-brave-face-amid-china-economic-slowdown" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="German business grits teeth as Chinese economy slows" alt="German business grits teeth as Chinese economy slows"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/7aa8fb37a02a6a1bfa45600bd787a5cebab575faee73cb43d417637895bb436b.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/7aa8fb37a02a6a1bfa45600bd787a5cebab575faee73cb43d417637895bb436b.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/7aa8fb37a02a6a1bfa45600bd787a5cebab575faee73cb43d417637895bb436b.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/7aa8fb37a02a6a1bfa45600bd787a5cebab575faee73cb43d417637895bb436b.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/7aa8fb37a02a6a1bfa45600bd787a5cebab575faee73cb43d417637895bb436b.jpg"/>
 												</a>
-			<div class="small">Migrants being loaded onto a bus for transport back to the Austrian border on Tuesday. Photo: DPA</div>
+			<div class="small">Markets have tumbled around the world as the Chinese economy has slowed. Photo: DPA.</div>
 					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160115/poll-shows-most-germans-fear-refugee-burden-too-great" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Polls show most Germans fear refugee burden too great				</a>
+				<a href="http://www.thelocal.de/20160117/german-businesses-put-on-brave-face-amid-china-economic-slowdown" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					German business grits teeth as Chinese economy slows				</a>
 				<div class="art-date">
-					3 hours ago				</div>
+					45 minutes ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								Most Germans now doubt their country's ability to cope with a record migrant influx, and fear refugees more, after the New Year's Eve mass assaults on women in Cologne, opinion polls released Friday show. 
+								German companies are trying not to let themselves be spooked by the economic slowdown in China, even if they concede they are currently seeing a drop in demand for their products there. 
 				<span class="small">
-					<!-- a class="c108777" title="Read 'Polls show most Germans fear refugee burden too great' in full"
-						href="http://www.thelocal.de/20160115/poll-shows-most-germans-fear-refugee-burden-too-great" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108829" title="Read 'German business grits teeth as Chinese economy slows' in full"
+						href="http://www.thelocal.de/20160117/german-businesses-put-on-brave-face-amid-china-economic-slowdown" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/poll-shows-most-germans-fear-refugee-burden-too-great#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160117/german-businesses-put-on-brave-face-amid-china-economic-slowdown#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/poll-shows-most-germans-fear-refugee-burden-too-great#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160117/german-businesses-put-on-brave-face-amid-china-economic-slowdown#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -834,35 +832,35 @@
 	<div class="newsSummary ">
 		
 				
-					<a href="http://www.thelocal.de/20160115/germans-still-prefer-a-good-book-to-digital-technologies" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Germans still prefer a good book to Netflix and Spotify" alt="Germans still prefer a good book to Netflix and Spotify"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/2639dbf7e36b26b91425bb6c7a21423f00fce78c95b845ebde38bce3e8e59bb3.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/2639dbf7e36b26b91425bb6c7a21423f00fce78c95b845ebde38bce3e8e59bb3.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/2639dbf7e36b26b91425bb6c7a21423f00fce78c95b845ebde38bce3e8e59bb3.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/2639dbf7e36b26b91425bb6c7a21423f00fce78c95b845ebde38bce3e8e59bb3.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/2639dbf7e36b26b91425bb6c7a21423f00fce78c95b845ebde38bce3e8e59bb3.jpg"/>
+					<a href="http://www.thelocal.de/20160117/germany-hails-iran-nuclear-compliance-historic-success-for-diplomacy" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="Iran deal 'historic success for diplomacy' - Germany" alt="Iran deal 'historic success for diplomacy' - Germany"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/d770e768f2eeefd062e4f755d5c881cdc17f758265663090ebdffb367571113e.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/d770e768f2eeefd062e4f755d5c881cdc17f758265663090ebdffb367571113e.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/d770e768f2eeefd062e4f755d5c881cdc17f758265663090ebdffb367571113e.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/d770e768f2eeefd062e4f755d5c881cdc17f758265663090ebdffb367571113e.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/d770e768f2eeefd062e4f755d5c881cdc17f758265663090ebdffb367571113e.jpg"/>
 												</a>
-			<div class="small">Photo: DPA</div>
+			<div class="small">Frank-Walter Steinmeier said "that the diplomatic victory allows for the hope that "we may yet succeed in defusing other urgent crises and conflicts in the region." Photo: DPA</div>
 					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160115/germans-still-prefer-a-good-book-to-digital-technologies" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Germans still prefer a good book to Netflix and Spotify				</a>
+				<a href="http://www.thelocal.de/20160117/germany-hails-iran-nuclear-compliance-historic-success-for-diplomacy" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					Iran deal 'historic success for diplomacy' - Germany				</a>
 				<div class="art-date">
 					4 hours ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								They may have a reputation for being one of the most technologically advanced countries in the world, but Germans remain surprisingly traditional in their entertainment choices, a new survey shows. 
+								The implementation of the nuclear deal between Iran and world powers marks &quot;a historic success for diplomacy&quot;, German Foreign Minister Frank-Walter Steinmeier said on Saturday. 
 				<span class="small">
-					<!-- a class="c108772" title="Read 'Germans still prefer a good book to Netflix and Spotify' in full"
-						href="http://www.thelocal.de/20160115/germans-still-prefer-a-good-book-to-digital-technologies" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108822" title="Read 'Iran deal 'historic success for diplomacy' - Germany' in full"
+						href="http://www.thelocal.de/20160117/germany-hails-iran-nuclear-compliance-historic-success-for-diplomacy" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/germans-still-prefer-a-good-book-to-digital-technologies#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160117/germany-hails-iran-nuclear-compliance-historic-success-for-diplomacy#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/germans-still-prefer-a-good-book-to-digital-technologies#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160117/germany-hails-iran-nuclear-compliance-historic-success-for-diplomacy#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -872,35 +870,36 @@
 	<div class="newsSummary ">
 		
 				
-					<a href="http://www.thelocal.de/20160115/rhineland-town-cancels-carnival-over-sexual-assault-fears" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Rhineland town axes Carnival over sexual assault fears" alt="Rhineland town axes Carnival over sexual assault fears"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/687178c9bcae3212f38f6b26e3c73fe30249789980842acbe732537ce9eb96f9.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/687178c9bcae3212f38f6b26e3c73fe30249789980842acbe732537ce9eb96f9.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/687178c9bcae3212f38f6b26e3c73fe30249789980842acbe732537ce9eb96f9.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/687178c9bcae3212f38f6b26e3c73fe30249789980842acbe732537ce9eb96f9.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/687178c9bcae3212f38f6b26e3c73fe30249789980842acbe732537ce9eb96f9.jpg"/>
+					<a href="http://www.thelocal.de/20160117/remains-of-german-victims-of-istanbul-attack-flown-home" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="Remains of German victims of Istanbul attack flown home" alt="Remains of German victims of Istanbul attack flown home"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/109bfaa5a0e6ad4cfd0a2c746d58b25098a3ebb09edb10b699313f565e68be94.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/109bfaa5a0e6ad4cfd0a2c746d58b25098a3ebb09edb10b699313f565e68be94.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/109bfaa5a0e6ad4cfd0a2c746d58b25098a3ebb09edb10b699313f565e68be94.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/109bfaa5a0e6ad4cfd0a2c746d58b25098a3ebb09edb10b699313f565e68be94.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/109bfaa5a0e6ad4cfd0a2c746d58b25098a3ebb09edb10b699313f565e68be94.jpg"/>
 												</a>
-			<div class="small">Rhineland carnival parades traditionally include decorated floats. Photo: DPA</div>
+			<div class="small">Coffins with the remains of ten German tourists killed in a suicide bomb attack in Istanbul, laid out in a hangar at Berlin's Tegel Airport. Photo: DPA</div>
 					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160115/rhineland-town-cancels-carnival-over-sexual-assault-fears" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Rhineland town axes Carnival over sexual assault fears				</a>
+				<a href="http://www.thelocal.de/20160117/remains-of-german-victims-of-istanbul-attack-flown-home" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					Remains of German victims of Istanbul attack flown home				</a>
 				<div class="art-date">
-					6 hours ago				</div>
+					4 hours ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								A town north of Cologne has cancelled one of its Carnival parades, citing fears of a repeat of the sexual assaults which took place in the Cathedral city over the New Year. 
+								The remains of 10 Germans killed in a suicide attack blamed on the Islamic State (IS) group in the Turkish city of Istanbul were flown home on Saturday.
+ 
 				<span class="small">
-					<!-- a class="c108763" title="Read 'Rhineland town axes Carnival over sexual assault fears' in full"
-						href="http://www.thelocal.de/20160115/rhineland-town-cancels-carnival-over-sexual-assault-fears" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108821" title="Read 'Remains of German victims of Istanbul attack flown home' in full"
+						href="http://www.thelocal.de/20160117/remains-of-german-victims-of-istanbul-attack-flown-home" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/rhineland-town-cancels-carnival-over-sexual-assault-fears#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160117/remains-of-german-victims-of-istanbul-attack-flown-home#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/rhineland-town-cancels-carnival-over-sexual-assault-fears#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160117/remains-of-german-victims-of-istanbul-attack-flown-home#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -910,35 +909,35 @@
 	<div class="newsSummary ">
 		
 				
-					<a href="http://www.thelocal.de/20160115/weather-forecast-snow-ice-cold-january" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Watch out Germany! Chilly sub-zero weekend ahead" alt="Watch out Germany! Chilly sub-zero weekend ahead"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/082718d85d37c0937544758621d7d8b7ec9544c8590b4130df83b52c5d4ee2c1.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/082718d85d37c0937544758621d7d8b7ec9544c8590b4130df83b52c5d4ee2c1.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/082718d85d37c0937544758621d7d8b7ec9544c8590b4130df83b52c5d4ee2c1.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/082718d85d37c0937544758621d7d8b7ec9544c8590b4130df83b52c5d4ee2c1.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/082718d85d37c0937544758621d7d8b7ec9544c8590b4130df83b52c5d4ee2c1.jpg"/>
+					<a href="http://www.thelocal.de/20160117/germany-and-greece-step-up-fight-against-tax-evasion" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="Germany and Greece step up fight against tax evasion" alt="Germany and Greece step up fight against tax evasion"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/caaab6b7e97a6b3a521eca510eb7572aad96807e210ce6e217e13f9f91020d78.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/caaab6b7e97a6b3a521eca510eb7572aad96807e210ce6e217e13f9f91020d78.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/caaab6b7e97a6b3a521eca510eb7572aad96807e210ce6e217e13f9f91020d78.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/caaab6b7e97a6b3a521eca510eb7572aad96807e210ce6e217e13f9f91020d78.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/caaab6b7e97a6b3a521eca510eb7572aad96807e210ce6e217e13f9f91020d78.jpg"/>
 												</a>
-			<div class="small">A family play with a sled on the Großer Feldberg mountain near Frankfurt am Main, Hesse. Photo: DPA</div>
+			<div class="small">Greek Prime Minister Alexis Tsipras (L) meets Norbert Walter-Borjans, finance minister of the German state of North Rhine-Westphalia, in Athens on Saturday. Photo: DPA </div>
 					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160115/weather-forecast-snow-ice-cold-january" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Watch out Germany! Chilly sub-zero weekend ahead				</a>
+				<a href="http://www.thelocal.de/20160117/germany-and-greece-step-up-fight-against-tax-evasion" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					Germany and Greece step up fight against tax evasion				</a>
 				<div class="art-date">
-					6 hours ago				</div>
+					4 hours ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								Snow, ice, and freezing temperatures are all ahead this weekend as winter comes back with a vengeance after a brief respite. 
+								Greek and German authorities agreed Saturday to step up their cooperation on tax evasion, with information supplied by Germany already being used to probe thousands of Greeks suspected of stashing money in Swiss accounts. 
 				<span class="small">
-					<!-- a class="c108761" title="Read 'Watch out Germany! Chilly sub-zero weekend ahead' in full"
-						href="http://www.thelocal.de/20160115/weather-forecast-snow-ice-cold-january" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108820" title="Read 'Germany and Greece step up fight against tax evasion' in full"
+						href="http://www.thelocal.de/20160117/germany-and-greece-step-up-fight-against-tax-evasion" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/weather-forecast-snow-ice-cold-january#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160117/germany-and-greece-step-up-fight-against-tax-evasion#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/weather-forecast-snow-ice-cold-january#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160117/germany-and-greece-step-up-fight-against-tax-evasion#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -948,69 +947,31 @@
 	<div class="newsSummary  wide">
 		
 				
-					<a href="http://www.thelocal.de/20160115/high-court-scolds-facebook-for-sending-harassing-emails" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="High Court scolds Facebook for sending ‘harassing’ emails" alt="High Court scolds Facebook for sending ‘harassing’ emails"  
-											src="http://www.thelocal.de/userdata/images/article/4cc1db26ceff4f5fcfc56004217f4b69b797fb27b0727013c03e89fe114483c9.jpg"/>
+					<a href="http://www.thelocal.de/20160117/tax-petrol-more-to-pay-for-migrant-crisis-german-minister" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="'Tax petrol more to pay for migrant crisis'" alt="'Tax petrol more to pay for migrant crisis'"  
+											src="http://www.thelocal.de/userdata/images/article/5016f00388ea9bf53e948eb6d784a9238bef5efaaf3e747dc8835fc9845c3394.jpg"/>
 												</a>
-			<div class="small">Photo: DPA</div>
-					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160115/high-court-scolds-facebook-for-sending-harassing-emails" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					High Court scolds Facebook for sending ‘harassing’ emails				</a>
-				<div class="art-date">
-					7 hours ago				</div>
-			</h1>
-					
-		    
-			<p> 
-								The German High court has ruled that Facebook and other social networks which send invitations to join right to people’s inboxes are engaging in &quot;unwanted and harassing&quot; advertising. 
-				<span class="small">
-					<!-- a class="c108754" title="Read 'High Court scolds Facebook for sending ‘harassing’ emails' in full"
-						href="http://www.thelocal.de/20160115/high-court-scolds-facebook-for-sending-harassing-emails" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
-					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/high-court-scolds-facebook-for-sending-harassing-emails#disqus_thread" style="white-space: nowrap;"></a>
-					 
-				</span>
-			</p>
-			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/high-court-scolds-facebook-for-sending-harassing-emails#disqus_thread" style="white-space: nowrap;"></a>
-				 
-			</p>
-							<ul class="not small" style="margin-top:0px;">
-									</ul>
-				</div>
-
-	<div class="newsSummary ">
-		
-				
-					<a href="http://www.thelocal.de/20160115/busload-of-refugees-to-be-sent-straight-back-to-bavaria" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Busload of refugees to be sent straight back to Bavaria" alt="Busload of refugees to be sent straight back to Bavaria"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/2af1b86b31e264f8b2e7e5113c8ba0f02caf72575dcefb4f9ef63f185d2ac5d7.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/2af1b86b31e264f8b2e7e5113c8ba0f02caf72575dcefb4f9ef63f185d2ac5d7.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/2af1b86b31e264f8b2e7e5113c8ba0f02caf72575dcefb4f9ef63f185d2ac5d7.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/2af1b86b31e264f8b2e7e5113c8ba0f02caf72575dcefb4f9ef63f185d2ac5d7.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/2af1b86b31e264f8b2e7e5113c8ba0f02caf72575dcefb4f9ef63f185d2ac5d7.jpg"/>
-												</a>
-			<div class="small">The busload of Syrian refugees arrives at the Federal Chancellery in Berlin on Thursday evening. Photo: DPA</div>
-					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160115/busload-of-refugees-to-be-sent-straight-back-to-bavaria" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Busload of refugees to be sent straight back to Bavaria				</a>
+			<div class="small"></div>
+					<h1 class="ts2">
+				<a href="http://www.thelocal.de/20160117/tax-petrol-more-to-pay-for-migrant-crisis-german-minister" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					'Tax petrol more to pay for migrant crisis'				</a>
 				<div class="art-date">
 					8 hours ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								The 31 refugees sent to Chancellor Angela Merkel's office in Berlin by a Bavarian mayor as a protest are to be sent back down south on Friday – prompting harsh criticism of the use of human beings as political tokens. 
+								Germany's Finance Minister Wolfgang Schaeuble on Saturday raised the prospect of introducing a tax on petrol in Europe to pay for solving the migrant crisis, in remarks to the Suddeutsche Zeitung newspaper. 
 				<span class="small">
-					<!-- a class="c108749" title="Read 'Busload of refugees to be sent straight back to Bavaria' in full"
-						href="http://www.thelocal.de/20160115/busload-of-refugees-to-be-sent-straight-back-to-bavaria" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108818" title="Read ''Tax petrol more to pay for migrant crisis'' in full"
+						href="http://www.thelocal.de/20160117/tax-petrol-more-to-pay-for-migrant-crisis-german-minister" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/busload-of-refugees-to-be-sent-straight-back-to-bavaria#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160117/tax-petrol-more-to-pay-for-migrant-crisis-german-minister#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/busload-of-refugees-to-be-sent-straight-back-to-bavaria#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160117/tax-petrol-more-to-pay-for-migrant-crisis-german-minister#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -1020,73 +981,35 @@
 	<div class="newsSummary ">
 		
 				
-					<a href="http://www.thelocal.de/20160115/germans-defend-slow-progress-on-sorting-nazi-looted-art-collection" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Experts defend slow progress on sorting Nazi-looted art haul" alt="Experts defend slow progress on sorting Nazi-looted art haul"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/512fad151dde8a66d21401aaa3ce7badad260e4ab4d576a4da653300ae68e635.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/512fad151dde8a66d21401aaa3ce7badad260e4ab4d576a4da653300ae68e635.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/512fad151dde8a66d21401aaa3ce7badad260e4ab4d576a4da653300ae68e635.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/512fad151dde8a66d21401aaa3ce7badad260e4ab4d576a4da653300ae68e635.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/512fad151dde8a66d21401aaa3ce7badad260e4ab4d576a4da653300ae68e635.jpg"/>
+					<a href="http://www.thelocal.de/20160116/germany-wants-algeria-and-morocco-to-take-back-deportees" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="'Algeria and Morocco must take back deportees': Berlin" alt="'Algeria and Morocco must take back deportees': Berlin"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/5a22dccf0efc184788cdd9419c4f242852366b81b0aa141ed431824e50142aaf.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/5a22dccf0efc184788cdd9419c4f242852366b81b0aa141ed431824e50142aaf.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/5a22dccf0efc184788cdd9419c4f242852366b81b0aa141ed431824e50142aaf.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/5a22dccf0efc184788cdd9419c4f242852366b81b0aa141ed431824e50142aaf.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/5a22dccf0efc184788cdd9419c4f242852366b81b0aa141ed431824e50142aaf.jpg"/>
 												</a>
-			<div class="small">A worker in the Gurlitt taksforce sorts through images of the seized artworks in December. Photo: DPA</div>
+			<div class="small">German Chancellor Angela Merkel (R) and Algerian Prime Minister Abdelmalek Sellal during a news conference following talks in Berlin this week. Photo: DPA</div>
 					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160115/germans-defend-slow-progress-on-sorting-nazi-looted-art-collection" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Experts defend slow progress on sorting Nazi-looted art haul				</a>
-				<div class="art-date">
-					8 hours ago				</div>
-			</h1>
-					
-		    
-			<p> 
-								A German task force investigating the provenance of a spectacular Nazi-era art hoard of hundreds of works said Thursday that only five had been proved to be looted thus far, and defended its slow progress. 
-				<span class="small">
-					<!-- a class="c108745" title="Read 'Experts defend slow progress on sorting Nazi-looted art haul' in full"
-						href="http://www.thelocal.de/20160115/germans-defend-slow-progress-on-sorting-nazi-looted-art-collection" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
-					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160115/germans-defend-slow-progress-on-sorting-nazi-looted-art-collection#disqus_thread" style="white-space: nowrap;"></a>
-					 
-				</span>
-			</p>
-			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160115/germans-defend-slow-progress-on-sorting-nazi-looted-art-collection#disqus_thread" style="white-space: nowrap;"></a>
-				 
-			</p>
-							<ul class="not small" style="margin-top:0px;">
-									</ul>
-				</div>
-
-	<div class="newsSummary ">
-		
-				
-					<a href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="Woman grabs sex attacker and hands him over to police" alt="Woman grabs sex attacker and hands him over to police"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/cfc2ce40c1779da924edc40b7671bbc4c9f3ac6ab8f5dc0d0d429d8f1ae7f1dc.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/cfc2ce40c1779da924edc40b7671bbc4c9f3ac6ab8f5dc0d0d429d8f1ae7f1dc.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/cfc2ce40c1779da924edc40b7671bbc4c9f3ac6ab8f5dc0d0d429d8f1ae7f1dc.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/cfc2ce40c1779da924edc40b7671bbc4c9f3ac6ab8f5dc0d0d429d8f1ae7f1dc.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/cfc2ce40c1779da924edc40b7671bbc4c9f3ac6ab8f5dc0d0d429d8f1ae7f1dc.jpg"/>
-												</a>
-			<div class="small">Photo: DPA</div>
-					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					Woman grabs sex attacker and hands him over to police				</a>
+				<a href="http://www.thelocal.de/20160116/germany-wants-algeria-and-morocco-to-take-back-deportees" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					'Algeria and Morocco must take back deportees': Berlin				</a>
 				<div class="art-date">
 					1 day ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								A young mother made a brave stand against sexual assault in Germany’s streets on Tuesday, when she grabbed her attacker and stopped him getting away until the police arrived. 
+								Germany wants Algeria and Morocco to take back their nationals with no residence permits in Germany after a sharp rise in asylum seekers from the two North African countries, officials said Friday. 
 				<span class="small">
-					<!-- a class="c108722" title="Read 'Woman grabs sex attacker and hands him over to police' in full"
-						href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108807" title="Read ''Algeria and Morocco must take back deportees': Berlin' in full"
+						href="http://www.thelocal.de/20160116/germany-wants-algeria-and-morocco-to-take-back-deportees" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160116/germany-wants-algeria-and-morocco-to-take-back-deportees#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160116/germany-wants-algeria-and-morocco-to-take-back-deportees#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -1096,37 +1019,113 @@
 	<div class="newsSummary ">
 		
 		 
-			<div class="tabloid" style="width: 458px; ">Oscars 2016</div>
+			<div class="tabloid" style="width: 458px; ">The Local List</div>
 				
-					<a href="http://www.thelocal.de/20160114/german-live-action-short-makes-oscar-nomination-list" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-									<img width="468" title="German live-action short takes student director to Oscars" alt="German live-action short takes student director to Oscars"  
-											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/ca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.jpg&amp;size=139x83&amp;mode=resize 430w, 
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/ca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.jpg&amp;size=212x127&amp;mode=resize 640w,
-						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/ca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.jpg&amp;size=257x154&amp;mode=resize 768w,
-						http://www.thelocal.de/userdata/images/article/ca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.jpg 880w"  
-						src="http://www.thelocal.de/userdata/images/article/ca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.jpg"/>
+					<a href="http://www.thelocal.de/20160116/ten-of-germanys-greatest-inventions-every-day-german-inventors" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="10 genius ways German inventors improved our lives" alt="10 genius ways German inventors improved our lives"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/b0dfec3ef795243bf4b0c07d10866a305325d4edf83ff0c07d38bc5c62b7705c.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/b0dfec3ef795243bf4b0c07d10866a305325d4edf83ff0c07d38bc5c62b7705c.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/b0dfec3ef795243bf4b0c07d10866a305325d4edf83ff0c07d38bc5c62b7705c.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/b0dfec3ef795243bf4b0c07d10866a305325d4edf83ff0c07d38bc5c62b7705c.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/b0dfec3ef795243bf4b0c07d10866a305325d4edf83ff0c07d38bc5c62b7705c.jpg"/>
 												</a>
-			<div class="small">Patrick Vollrath pictured in Hamburg in June 2015. Photo: DPA</div>
+			<div class="small">Photo: DPA</div>
 					<h1 class="ts3">
-				<a href="http://www.thelocal.de/20160114/german-live-action-short-makes-oscar-nomination-list" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
-					German live-action short takes student director to Oscars				</a>
+				<a href="http://www.thelocal.de/20160116/ten-of-germanys-greatest-inventions-every-day-german-inventors" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					10 genius ways German inventors improved our lives				</a>
 				<div class="art-date">
 					1 day ago				</div>
 			</h1>
 					
 		    
 			<p> 
-								A German student filmmaker has been nominated for the &quot;best live action short film&quot; Oscar by the jury – placing his work in lights alongside blockbuster movies and A-list actors. 
+								German inventors have made contributions to our every day lives in more ways than you may know. The Local looks at some of the best inventions, from the serious to the silly. 
 				<span class="small">
-					<!-- a class="c108724" title="Read 'German live-action short takes student director to Oscars' in full"
-						href="http://www.thelocal.de/20160114/german-live-action-short-makes-oscar-nomination-list" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					<!-- a class="c108784" title="Read '10 genius ways German inventors improved our lives' in full"
+						href="http://www.thelocal.de/20160116/ten-of-germanys-greatest-inventions-every-day-german-inventors" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
 					&nbsp; --> 
-											<a href="http://www.thelocal.de/20160114/german-live-action-short-makes-oscar-nomination-list#disqus_thread" style="white-space: nowrap;"></a>
+											<a href="http://www.thelocal.de/20160116/ten-of-germanys-greatest-inventions-every-day-german-inventors#disqus_thread" style="white-space: nowrap;"></a>
 					 
 				</span>
 			</p>
 			<p class="art-disqus"> 
-									<a href="http://www.thelocal.de/20160114/german-live-action-short-makes-oscar-nomination-list#disqus_thread" style="white-space: nowrap;"></a>
+									<a href="http://www.thelocal.de/20160116/ten-of-germanys-greatest-inventions-every-day-german-inventors#disqus_thread" style="white-space: nowrap;"></a>
+				 
+			</p>
+							<ul class="not small" style="margin-top:0px;">
+									</ul>
+				</div>
+
+	<div class="newsSummary ">
+		
+				
+					<a href="http://www.thelocal.de/20160116/hugo-boss-smashes-sales-records-as-europe-business-booms" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="Hugo Boss smashes sales records as Europe booms" alt="Hugo Boss smashes sales records as Europe booms"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/f664d656cca7acafc5668aa6d5c15d4e0d8aaa0e85e1ebbb53e4539ef507a835.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/f664d656cca7acafc5668aa6d5c15d4e0d8aaa0e85e1ebbb53e4539ef507a835.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/f664d656cca7acafc5668aa6d5c15d4e0d8aaa0e85e1ebbb53e4539ef507a835.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/f664d656cca7acafc5668aa6d5c15d4e0d8aaa0e85e1ebbb53e4539ef507a835.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/f664d656cca7acafc5668aa6d5c15d4e0d8aaa0e85e1ebbb53e4539ef507a835.jpg"/>
+												</a>
+			<div class="small"></div>
+					<h1 class="ts3">
+				<a href="http://www.thelocal.de/20160116/hugo-boss-smashes-sales-records-as-europe-business-booms" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					Hugo Boss smashes sales records as Europe booms				</a>
+				<div class="art-date">
+					1 day ago				</div>
+			</h1>
+					
+		    
+			<p> 
+								German fashion house Hugo Boss said Friday it clocked up record sales and operating profit in 2015, even as growth slowed in the fourth quarter due to &quot;challenges&quot; in China and the United States. 
+				<span class="small">
+					<!-- a class="c108805" title="Read 'Hugo Boss smashes sales records as Europe booms' in full"
+						href="http://www.thelocal.de/20160116/hugo-boss-smashes-sales-records-as-europe-business-booms" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					&nbsp; --> 
+											<a href="http://www.thelocal.de/20160116/hugo-boss-smashes-sales-records-as-europe-business-booms#disqus_thread" style="white-space: nowrap;"></a>
+					 
+				</span>
+			</p>
+			<p class="art-disqus"> 
+									<a href="http://www.thelocal.de/20160116/hugo-boss-smashes-sales-records-as-europe-business-booms#disqus_thread" style="white-space: nowrap;"></a>
+				 
+			</p>
+							<ul class="not small" style="margin-top:0px;">
+									</ul>
+				</div>
+
+	<div class="newsSummary ">
+		
+				
+					<a href="http://www.thelocal.de/20160115/town-bans-asylum-seekers-from-pools-after-spate-of-harassment" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+									<img width="468" title="Town bans male refugees from pools amid complaints" alt="Town bans male refugees from pools amid complaints"  
+											srcset="http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/96ee0b1e89eaee06fc8f645c1a40ef6cd72c9a92396a0711686f508566f75bbd.jpg&amp;size=139x83&amp;mode=resize 430w, 
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/96ee0b1e89eaee06fc8f645c1a40ef6cd72c9a92396a0711686f508566f75bbd.jpg&amp;size=212x127&amp;mode=resize 640w,
+						http://www.thelocal.de/assets/libraries/img.class/view.php?image=http://www.thelocal.de/userdata/images/article/96ee0b1e89eaee06fc8f645c1a40ef6cd72c9a92396a0711686f508566f75bbd.jpg&amp;size=257x154&amp;mode=resize 768w,
+						http://www.thelocal.de/userdata/images/article/96ee0b1e89eaee06fc8f645c1a40ef6cd72c9a92396a0711686f508566f75bbd.jpg 880w"  
+						src="http://www.thelocal.de/userdata/images/article/96ee0b1e89eaee06fc8f645c1a40ef6cd72c9a92396a0711686f508566f75bbd.jpg"/>
+												</a>
+			<div class="small">A leaflet produced by Munich city authorities, including behaviour rules for migrants in the swimming pool. Photo: DPA</div>
+					<h1 class="ts3">
+				<a href="http://www.thelocal.de/20160115/town-bans-asylum-seekers-from-pools-after-spate-of-harassment" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">
+					Town bans male refugees from pools amid complaints				</a>
+				<div class="art-date">
+					2 days ago				</div>
+			</h1>
+					
+		    
+			<p> 
+								A town in western Germany has banned male asylum seekers from public swimming pools after complaints from women that they were being harassed by migrants. 
+				<span class="small">
+					<!-- a class="c108799" title="Read 'Town bans male refugees from pools amid complaints' in full"
+						href="http://www.thelocal.de/20160115/town-bans-asylum-seekers-from-pools-after-spate-of-harassment" onclick="ga('theLocalNetwork.send','event','Content sections', 'Headlines');">READ</a>
+					&nbsp; --> 
+											<a href="http://www.thelocal.de/20160115/town-bans-asylum-seekers-from-pools-after-spate-of-harassment#disqus_thread" style="white-space: nowrap;"></a>
+					 
+				</span>
+			</p>
+			<p class="art-disqus"> 
+									<a href="http://www.thelocal.de/20160115/town-bans-asylum-seekers-from-pools-after-spate-of-harassment#disqus_thread" style="white-space: nowrap;"></a>
 				 
 			</p>
 							<ul class="not small" style="margin-top:0px;">
@@ -1168,27 +1167,27 @@
 		    </div>
 
     <ol id="popularloader">
-		        <li><a href="http://www.thelocal.de/20160114/maddened-local-politician-sends-bus-full-of-refugees-to-merkel" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Maddened local leader sends bus full of refugees to Merkel</a></li>
-                <li><a href="http://www.thelocal.de/20160113/german-war-graves-being-desecrated-on-british-tv" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">German war graves are being desecrated on TV</a></li>
-                <li><a href="http://www.thelocal.de/20160114/german-woman-sues-airbnb-after-finding-hiding-camera-in-flat" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Tourist sues Airbnb after finding hidden camera in flat</a></li>
-                <li><a href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Woman grabs sex attacker and hands him over to police</a></li>
-                <li><a href="http://www.thelocal.de/20160113/merkel-breached-constitution-on-refugees-top-judge" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Merkel refugee welcome 'unconstitutional': judge</a></li>
+		        <li><a href="http://www.thelocal.de/20160116/germany-wants-algeria-and-morocco-to-take-back-deportees" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">'Algeria and Morocco must take back deportees': Berlin</a></li>
+                <li><a href="http://www.thelocal.de/20160115/town-bans-asylum-seekers-from-pools-after-spate-of-harassment" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Town bans male refugees from pools amid complaints</a></li>
+                <li><a href="http://www.thelocal.de/20160115/poll-shows-most-germans-fear-refugee-burden-too-great" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Polls show most Germans fear refugee burden too great</a></li>
+                <li><a href="http://www.thelocal.de/20160115/rhineland-town-cancels-carnival-over-sexual-assault-fears" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Rhineland town axes Carnival over sexual assault fears</a></li>
+                <li><a href="http://www.thelocal.de/20160115/busload-of-refugees-to-be-sent-straight-back-to-bavaria" onclick="ga('theLocalNetwork.send','event','Content sections', 'Most reads');">Busload of refugees to be sent straight back to Bavaria</a></li>
             </ol>
     
 </div>
 
 <div id="most_commented" style="display:none;">
 		<ol>
-						<li><a href="http://www.thelocal.de/20160113/german-war-graves-being-desecrated-on-british-tv" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">German war graves are being desecrated on TV</a></li>				<li><a href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">Woman grabs sex attacker and hands him over to police</a></li>				<li><a href="http://www.thelocal.de/20160114/woman-watches-helplessly-as-old-couple-poison-her-puppy" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">Woman watches helplessly as old couple poison her puppy</a></li>				<li><a href="http://www.thelocal.de/20160114/500-cops-raid-berlin-house-after-attack" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">500 cops raid Berlin far-left squat after attack</a></li>				<li><a href="http://www.thelocal.de/20160107/cameron-begs-germany-to-help-avoid-brexit" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">Cameron woos Germans with EU reform plan</a></li>			</ol>
+						<li><a href="http://www.thelocal.de/20160113/german-war-graves-being-desecrated-on-british-tv" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">German war graves are being desecrated on TV</a></li>				<li><a href="http://www.thelocal.de/20160114/woman-watches-helplessly-as-old-couple-poison-her-puppy" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">Woman watches helplessly as old couple poison her puppy</a></li>				<li><a href="http://www.thelocal.de/20160114/500-cops-raid-berlin-house-after-attack" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">500 cops raid Berlin far-left squat after attack</a></li>				<li><a href="http://www.thelocal.de/20160115/germans-still-prefer-a-good-book-to-digital-technologies" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">Germans still prefer a good book to Netflix and Spotify</a></li>				<li><a href="http://www.thelocal.de/20160116/ten-of-germanys-greatest-inventions-every-day-german-inventors" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Most comments');">10 genius ways German inventors improved our lives</a></li>			</ol>
 	</div>
 
 <div id="most_read" style="display:none;">
     <ol>
-    	    	<li><a href="http://www.thelocal.de/20160114/maddened-local-politician-sends-bus-full-of-refugees-to-merkel">Maddened local leader sends bus full of refugees to Merkel</a></li>
-    	    	<li><a href="http://www.thelocal.de/20160113/german-war-graves-being-desecrated-on-british-tv">German war graves are being desecrated on TV</a></li>
-    	    	<li><a href="http://www.thelocal.de/20160114/german-woman-sues-airbnb-after-finding-hiding-camera-in-flat">Tourist sues Airbnb after finding hidden camera in flat</a></li>
-    	    	<li><a href="http://www.thelocal.de/20160114/mother-grabs-sex-attacker-and-hands-him-over-to-cops">Woman grabs sex attacker and hands him over to police</a></li>
-    	    	<li><a href="http://www.thelocal.de/20160113/merkel-breached-constitution-on-refugees-top-judge">Merkel refugee welcome 'unconstitutional': judge</a></li>
+    	    	<li><a href="http://www.thelocal.de/20160116/germany-wants-algeria-and-morocco-to-take-back-deportees">'Algeria and Morocco must take back deportees': Berlin</a></li>
+    	    	<li><a href="http://www.thelocal.de/20160115/town-bans-asylum-seekers-from-pools-after-spate-of-harassment">Town bans male refugees from pools amid complaints</a></li>
+    	    	<li><a href="http://www.thelocal.de/20160115/poll-shows-most-germans-fear-refugee-burden-too-great">Polls show most Germans fear refugee burden too great</a></li>
+    	    	<li><a href="http://www.thelocal.de/20160115/rhineland-town-cancels-carnival-over-sexual-assault-fears">Rhineland town axes Carnival over sexual assault fears</a></li>
+    	    	<li><a href="http://www.thelocal.de/20160115/busload-of-refugees-to-be-sent-straight-back-to-bavaria">Busload of refugees to be sent straight back to Bavaria</a></li>
     	    </ol>
 </div>
 
@@ -1210,10 +1209,10 @@
 <table class="featuredTable">
 	<tr>
 		<td>
-		<a href="http://www.thelocal.de/page/view/poll-shows-most-germans-fear-refugee-burden-too-great" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
-    	    <img width="300" height="183" src="/userdata/images/article/w300/c906920b85912310cf7eb8f76d85a51b1e440e41cf04dd58c4c5c4036fe28afa.jpg" alt="" title="" />
-	        <div class="highlight_category">Society</div>
-            <div class="highlight_text">Polls show Germans fear the country can't manage refugees</div>
+		<a href="http://www.thelocal.de/page/view/german-woman-sues-airbnb-after-finding-hiding-camera-in-flat" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
+    	    <img width="300" height="186" src="/userdata/images/article/w300/96db4fd8d64a7f5ff9a0cd6bbb10272cb2b84c87d29ea1e6eaed2a539074a133.jpg" alt="" title="" />
+	        <div class="highlight_category">Travel</div>
+            <div class="highlight_text">Tourist sues Airbnb after finding hidden camera in German flat</div>
         </a>
 		</td>
 	</tr>
@@ -1244,10 +1243,10 @@
 <table class="featuredTable">
 	<tr>
 		<td>
-		<a href="http://www.thelocal.de/page/view/german-live-action-short-makes-oscar-nomination-list" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
-    	    <img width="300" height="179" src="/userdata/images/article/w300/ca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.jpg" alt="" title="" />
-	        <div class="highlight_category">Culture</div>
-            <div class="highlight_text">The German student director who's going to the Oscars</div>
+		<a href="http://www.thelocal.de/page/view/poll-shows-most-germans-fear-refugee-burden-too-great" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
+    	    <img width="300" height="183" src="/userdata/images/article/w300/c906920b85912310cf7eb8f76d85a51b1e440e41cf04dd58c4c5c4036fe28afa.jpg" alt="" title="" />
+	        <div class="highlight_category">Society</div>
+            <div class="highlight_text">Polls show Germans fear the country can't manage refugees</div>
         </a>
 		</td>
 	</tr>
@@ -1264,10 +1263,10 @@
 <table class="featuredTable">
 	<tr>
 		<td>
-		<a href="http://www.thelocal.de/page/view/woman-watches-helplessly-as-old-couple-poison-her-puppy" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
-    	    <img width="300" height="183" src="/userdata/images/article/w300/22aebf2e05e5cf0aa5f8eadfec40913c65ebfcd7e37a53f7d03c3c24bc53aee7.jpg" alt="" title="" />
-	        <div class="highlight_category"></div>
-            <div class="highlight_text">Woman horrified after seniors attack and poison her puppy</div>
+		<a href="http://www.thelocal.de/page/view/german-live-action-short-makes-oscar-nomination-list" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
+    	    <img width="300" height="179" src="/userdata/images/article/w300/ca1c9098af766216304f6c8d70b1c85313ae82ed8de892df6fd1a18110002dd4.jpg" alt="" title="" />
+	        <div class="highlight_category">Culture</div>
+            <div class="highlight_text">The German student director who's going to the Oscars</div>
         </a>
 		</td>
 	</tr>
@@ -1291,6 +1290,26 @@
 		</td>
 	</tr>
 </table>
+
+<table class="featuredTable">
+	<tr>
+		<td>
+		<a href="http://www.thelocal.de/page/view/woman-watches-helplessly-as-old-couple-poison-her-puppy" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
+    	    <img width="300" height="183" src="/userdata/images/article/w300/22aebf2e05e5cf0aa5f8eadfec40913c65ebfcd7e37a53f7d03c3c24bc53aee7.jpg" alt="" title="" />
+	        <div class="highlight_category"></div>
+            <div class="highlight_text">Woman horrified after seniors attack and poison her puppy</div>
+        </a>
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+
+
+
 
 <table class="featuredTable">
 	<tr>
@@ -1326,6 +1345,13 @@
 
 
 
+  <div class="ad_container" style="overflow: hidden; margin-bottom: 28px;">
+    <div id='de_column2_3' style='height:250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('de_column2_3'); });
+  </script>
+</div>
+  </div>
 
 
 
@@ -1346,13 +1372,6 @@
 
 
 
-  <div class="ad_container" style="overflow: hidden; margin-bottom: 28px;">
-    <div id='de_column2_3' style='height:250px;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('de_column2_3'); });
-  </script>
-</div>
-  </div>
 
 
 
@@ -1394,6 +1413,13 @@
 
 
 
+  <div class="ad_container" style="margin-bottom: 28px;">
+    <div id='de_column2_4' style='height:250px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('de_column2_4'); });
+  </script>
+</div>
+  </div>
 
 
 
@@ -1414,13 +1440,6 @@
 
 
 
-  <div class="ad_container" style="margin-bottom: 28px;">
-    <div id='de_column2_4' style='height:250px;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('de_column2_4'); });
-  </script>
-</div>
-  </div>
 
 
 
@@ -1462,6 +1481,14 @@
 
 
 
+    <div id="unit_83604" class="ad_container" style="margin-bottom: 28px;"></div>
+  <script>
+    (function() {
+      var sc = document.createElement('script'); sc.async = true;
+      sc.src = '//news.fark.com/data/js/83604.js'; sc.charset = 'utf-8';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    }());
+  </script>
 
 
 
@@ -1482,14 +1509,6 @@
 
 
 
-    <div id="unit_83604" class="ad_container" style="margin-bottom: 28px;"></div>
-  <script>
-    (function() {
-      var sc = document.createElement('script'); sc.async = true;
-      sc.src = '//news.fark.com/data/js/83604.js'; sc.charset = 'utf-8';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
-    }());
-  </script>
 
 
 
@@ -1693,26 +1712,6 @@
 
 
 
-
-<table class="featuredTable">
-	<tr>
-		<td>
-		<a href="http://www.thelocal.de/page/view/german-jobless-count-falls-below-2-million" onclick="ga('theLocalNetwork.send','event', 'Content sections', 'Highlights');">
-    	    <img width="300" height="179" src="/userdata/images/article/w300/ffb7b9731c773e60c4fd376157d13a551cffa42982f13ebf4ab9f1512f51fe41.jpg" alt="" title="" />
-	        <div class="highlight_category">Business & Money</div>
-            <div class="highlight_text">Germany has lowest unemployment of any EU nation</div>
-        </a>
-		</td>
-	</tr>
-</table>
-
-
-
-
-
-
-
-
 </div>
 	</div> <!-- end #col1col2wrapper -->
 
@@ -1720,7 +1719,7 @@
 
   <div style="background-color: #f57000; text-align: center; padding: 10px 0; font-size: 1.25em; margin-bottom: 5px;">
   <a href="/jobs/" style="text-decoration: none; color: white;" onclick="ga('theLocalNetwork.send','event', 'Jobs navigation', 'Column 3 button');">
-    <div style="font-size: 3.2em; line-height: 110%;">6,802</div>
+    <div style="font-size: 3.2em; line-height: 110%;">6,750</div>
   	<div>jobs available</div>
   </a>
 </div>
@@ -1770,26 +1769,26 @@
         </div>
         <div class="panelDiv">
         <div class="panel forum">Toytown Germany</div>
-        <ul><li><span class="datetime">15:37</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=118984&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Germany produces the best TV in the world</a></span></li>
-<li><span class="datetime">15:24</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=45673&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Friday beer garden. 15th January. Wirtshaus Zur Brez'n&hellip;</a></span></li>
-<li><span class="datetime">13:41</span>
+        <ul><li><span class="datetime">14:59</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=138482&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Munich Full Moon H3 next run Thur 21.Jan.2016 7pm</a></span></li>
+<li><span class="datetime">14:39</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=31098&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Top five David Bowie songs</a></span></li>
+<li><span class="datetime">13:08</span>
 <span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=53608&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">New in Berlin (or new to this forum)</a></span></li>
-<li><span class="datetime">13:28</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=198207&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Cross-country skiing tours - Next: Sunday 17.Jan.2016&hellip;</a></span></li>
-<li><span class="datetime">12:36</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=241697&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Any foreign-trained lawyers on the board?</a></span></li>
-<li><span class="datetime">11:47</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=57251&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Family cars suitable for three kids</a></span></li>
-<li><span class="datetime">11:13</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=184992&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Where to buy party supplies in Frankfurt</a></span></li>
-<li><span class="datetime">10:02</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=313638&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Please tell your kids to use their bike lights</a></span></li>
-<li><span class="datetime">00:37</span>
-<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=322407&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Drunken Uninhibited Meetup for Beer (DUMB), Wed. 13 Jan,&hellip;</a></span></li>
-<li><span class="datetime">23:32</span>
+<li><span class="datetime">12:14</span>
 <span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=28859&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">TT Munich book reading and discussion club</a></span></li>
+<li><span class="datetime">10:48</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=75196&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Problems with Debitel mobile phone service</a></span></li>
+<li><span class="datetime">08:43</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=22311&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Life as an Asian in Germany</a></span></li>
+<li><span class="datetime">07:38</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=118984&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Germany produces the best TV in the world</a></span></li>
+<li><span class="datetime">20:45</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=104585&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Choirs and other similar singing groups</a></span></li>
+<li><span class="datetime">20:23</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=82154&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Saturday is considered a &quot;Werktag&quot; (work day)</a></span></li>
+<li><span class="datetime">19:17</span>
+<span class="description"><a href="http://www.toytowngermany.com/forum/index.php?showtopic=198207&amp;view=getnewpost" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">Cross-country skiing tours - Next: Sunday 17.Jan.2016&hellip;</a></span></li>
 </ul>
         <div class="other"><a href="http://www.toytowngermany.com/forum/" onclick="theLocalNetwork._link(this.href); combinedTracker._link(this.href); return false;">FULL INDEX &#187;</a></div>
         </div>

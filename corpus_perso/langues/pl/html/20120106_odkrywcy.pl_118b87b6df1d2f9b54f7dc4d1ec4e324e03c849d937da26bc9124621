@@ -34,7 +34,7 @@
 <link rel="stylesheet" type="text/css" href="s.css?ts=1448452218" />
 <!-- stg461style::end -->
 
-		<!-- WPJSlib::begin [160115164322] -->
+		<!-- WPJSlib::begin [160117215739] -->
                 <script type="text/javascript">
                         <!--//--><![CDATA[//><!--
                 	var pp_gemius_identifier = 'zPpKuGs8T7vkTvNnalZvHKRtDfuGTee2aAM2UaTHd6..R7';
@@ -62,7 +62,7 @@
 				var wp_gemius_send = false;
 				var wp_dot_type = 'click';
 				var wp_sn = 'future';
-				var wp_fba = '1452872602.805';
+				var wp_fba = '1453064258.998';
 				var wp_mobile = 0;
 				var wp_vm = 692;
                         // ]]> -->
@@ -98,7 +98,7 @@
           var rekid="221850";
           function NPB() {}
           function NJB() {return false;}
-          var rekpath = "http://rek.www.wp.pl/pliki/221850_20160115160.js";
+          var rekpath = "http://rek.www.wp.pl/pliki/221850_20160117210.js";
           document.write('<scr' + 'ipt src="' + (window.hamper ? window.hamper(rekpath) : rekpath) +'"></scr'+'ipt>');
 </script>
     <div id="headerBg">
@@ -361,7 +361,7 @@ Bardzo trudno przewidzieæ jakie skutki móg³by nie¶æ za sob± atak bioterrostyczny
 <!-- oce&#324; { -->
 		<!-- stampOcen { -->
 		<div class="stampOcen stamp on" onmouseover="WP.dmodule('rating 2');">
-			<form id="rating_form_5699139ad7577" method="post">
+			<form id="rating_form_569c004313c04" method="post">
 				<input type="hidden" name="rate" class="stgRating_rate" value="0">
 				<input type="hidden" name="minRate" value="1" />
 				<input type="hidden" name="maxRate" value="5" />
@@ -441,13 +441,29 @@ if(PWA_Itxt!=true){
 				<div class="cnt">
 					<div class="header">Zobacz tak&#380;e</div>
 					<div class="main">
-						<div class="pPage" data-statparam="srv=sowa&action=show&par=sn%3D{wp_sn}%26c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h1%3Dpytamy.pl%26r1%3Dpytania%26h2%3Dwiadomosci.wp.pl%26r2%3Dwiadomosci%26h3%3Dhistoria.wp.pl%26r3%3Dwiadomosci">
+						<div class="pPage" data-statparam="srv=sowa&action=show&par=sn%3D{wp_sn}%26c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h1%3Dwiadomosci.wp.pl%26r1%3Dwiadomosci%26h2%3Dpytamy.pl%26r2%3Dpytania">
+		
+			<div class="stampSowaZajawka">
+				<a  href="http://wiadomosci.wp.pl/kat,1356,title,Grypa-na-Ukrainie-wladze-Kijowa-zamykaja-szkoly,wid,18106131,wiadomosc.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dwiadomosci.wp.pl%26r%3Dwiadomosci" title="Grypa na Ukrainie - w³adze Kijowa zamykaj± szko³y">
+		<img src="http://j.wpimg.pl/140-90/SMFT/sowa-future/1/jpeg_36037_lekarz__625.jpeg.jpg" class="stampSowaFoto" alt="Grypa na Ukrainie - w³adze Kijowa zamykaj± szko³y">
+				</a>
+				<div class="stampSowaTytul"><a  href="http://wiadomosci.wp.pl/kat,1356,title,Grypa-na-Ukrainie-wladze-Kijowa-zamykaja-szkoly,wid,18106131,wiadomosc.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dwiadomosci.wp.pl%26r%3Dwiadomosci" title="Grypa na Ukrainie - w³adze Kijowa zamykaj± szko³y">Grypa na Ukrainie - w³adze Kijowa zamykaj± szko³y</a></div>
+		<span class="stampSowaZrodlo"><a  href="http://wiadomosci.wp.pl" title="Wiadomo¶ci">wiadomosci.wp.pl</a></span>
+			</div>
 		
 			<div class="stampSowaZajawka">
 				<a  href="http://pytamy.pl/title,czy-to-epidemia,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Czy to epidemia?">
-		<img src="http://j.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_19_6.jpg" class="stampSowaFoto" alt="Czy to epidemia?">
+		<img src="http://i.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_19_3.jpg" class="stampSowaFoto" alt="Czy to epidemia?">
 				</a>
 				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,czy-to-epidemia,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Czy to epidemia?">Czy to epidemia?</a></div>
+		<span class="stampSowaZrodlo"><a  href="http://pytamy.pl" title="Pytamy.pl">pytamy.pl</a></span>
+			</div>
+		
+			<div class="stampSowaZajawka">
+				<a  href="http://pytamy.pl/title,czy-wirus-ko-troja-ski-jest-niebezpieczny-dla-komputera,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?">
+		<img src="http://j.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_7_2.jpg" class="stampSowaFoto" alt="Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?">
+				</a>
+				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,czy-wirus-ko-troja-ski-jest-niebezpieczny-dla-komputera,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?">Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?</a></div>
 		<span class="stampSowaZrodlo"><a  href="http://pytamy.pl" title="Pytamy.pl">pytamy.pl</a></span>
 			</div>
 		
@@ -459,11 +475,13 @@ if(PWA_Itxt!=true){
 		<span class="stampSowaZrodlo"><a  href="http://wiadomosci.wp.pl" title="Wiadomo¶ci">wiadomosci.wp.pl</a></span>
 			</div>
 		
+</div><div class="pPage" data-statparam="srv=sowa&action=show&par=sn%3D{wp_sn}%26c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h1%3Dhistoria.wp.pl%26r1%3Dwiadomosci%26h2%3Dbloog.pl%26r2%3Dposty">
+
 			<div class="stampSowaZajawka">
-				<a  href="http://pytamy.pl/title,czy-wirus-ko-troja-ski-jest-niebezpieczny-dla-komputera,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?">
-		<img src="http://j.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_7_6.jpg" class="stampSowaFoto" alt="Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?">
+				<a  href="http://pytamy.pl/title,czym-sie-rozni-wirus-od-bakterii,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="czym sie ró¿ni wirus od bakterii?">
+		<img src="http://j.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_25_5.jpg" class="stampSowaFoto" alt="czym sie ró¿ni wirus od bakterii?">
 				</a>
-				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,czy-wirus-ko-troja-ski-jest-niebezpieczny-dla-komputera,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?">Czy wirus KOÑ TROJAÑSKI jest niebezpieczny dla komputera?</a></div>
+				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,czym-sie-rozni-wirus-od-bakterii,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="czym sie ró¿ni wirus od bakterii?">czym sie ró¿ni wirus od bakterii?</a></div>
 		<span class="stampSowaZrodlo"><a  href="http://pytamy.pl" title="Pytamy.pl">pytamy.pl</a></span>
 			</div>
 		
@@ -473,16 +491,6 @@ if(PWA_Itxt!=true){
 				</a>
 				<div class="stampSowaTytul"><a  href="http://historia.wp.pl/title,Historica-Epidemie-najwieksze-katastrofy-w-historii-Europy,wid,18100284,wiadomosc.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dhistoria.wp.pl%26r%3Dwiadomosci" title="Historica: Epidemie - najwiêksze katastrofy w historii Europy">Historica: Epidemie - najwiêksze katastrofy w historii Europy</a></div>
 		<span class="stampSowaZrodlo"><a  href="http://historia.wp.pl" title="Historia">historia.wp.pl</a></span>
-			</div>
-		
-</div><div class="pPage" data-statparam="srv=sowa&action=show&par=sn%3D{wp_sn}%26c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h1%3Dbloog.pl%26r1%3Dposty">
-
-			<div class="stampSowaZajawka">
-				<a  href="http://pytamy.pl/title,czym-sie-rozni-wirus-od-bakterii,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="czym sie ró¿ni wirus od bakterii?">
-		<img src="http://j.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_25_1.jpg" class="stampSowaFoto" alt="czym sie ró¿ni wirus od bakterii?">
-				</a>
-				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,czym-sie-rozni-wirus-od-bakterii,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="czym sie ró¿ni wirus od bakterii?">czym sie ró¿ni wirus od bakterii?</a></div>
-		<span class="stampSowaZrodlo"><a  href="http://pytamy.pl" title="Pytamy.pl">pytamy.pl</a></span>
 			</div>
 		
 			<div class="stampSowaZajawka">
@@ -501,16 +509,16 @@ if(PWA_Itxt!=true){
 		<span class="stampSowaZrodlo"><a  href="http://bloog.pl" title="Bloog.pl">bloog.pl</a></span>
 			</div>
 		
+</div><div class="pPage" data-statparam="srv=sowa&action=show&par=sn%3D{wp_sn}%26c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h1%3Dtech.wp.pl%26r1%3Dwiadomosci">
+
 			<div class="stampSowaZajawka">
 				<a  href="http://pytamy.pl/title,jak-pokonac-epidemie-otylosci,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Jak pokonaæ epidemiê oty³o¶ci">
-		<img src="http://i.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_273_2.jpg" class="stampSowaFoto" alt="Jak pokonaæ epidemiê oty³o¶ci">
+		<img src="http://j.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_273_1.jpg" class="stampSowaFoto" alt="Jak pokonaæ epidemiê oty³o¶ci">
 				</a>
 				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,jak-pokonac-epidemie-otylosci,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Jak pokonaæ epidemiê oty³o¶ci">Jak pokonaæ epidemiê oty³o¶ci</a></div>
 		<span class="stampSowaZrodlo"><a  href="http://pytamy.pl" title="Pytamy.pl">pytamy.pl</a></span>
 			</div>
 		
-</div><div class="pPage" data-statparam="srv=sowa&action=show&par=sn%3D{wp_sn}%26c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h1%3Dtech.wp.pl%26r1%3Dwiadomosci">
-
 			<div class="stampSowaZajawka">
 				<a  href="http://domorosly-filozof.bloog.pl/id,339799209,title,98-Wirus,index.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dbloog.pl%26r%3Dposty" title="98. Wirus">
 		<img src="http://j.wpimg.pl/140-90/SMFT/sowa-future/2/blog-php5_meskie__sprawy_3.png.jpg" class="stampSowaFoto" alt="98. Wirus">
@@ -521,7 +529,7 @@ if(PWA_Itxt!=true){
 		
 			<div class="stampSowaZajawka">
 				<a  href="http://pytamy.pl/title,gta-san-andreas,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Gta San Andreas?">
-		<img src="http://i.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_7_1.jpg" class="stampSowaFoto" alt="Gta San Andreas?">
+		<img src="http://j.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_7_2.jpg" class="stampSowaFoto" alt="Gta San Andreas?">
 				</a>
 				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,gta-san-andreas,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Gta San Andreas?">Gta San Andreas?</a></div>
 		<span class="stampSowaZrodlo"><a  href="http://pytamy.pl" title="Pytamy.pl">pytamy.pl</a></span>
@@ -533,14 +541,6 @@ if(PWA_Itxt!=true){
 				</a>
 				<div class="stampSowaTytul"><a  href="http://tech.wp.pl/kat,126394,title,Jak-wirus-w-Microsoft-Office-pozbawil-Ukraine-pradu,wid,18086067,wiadomosc.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dtech.wp.pl%26r%3Dwiadomosci" title="Jak wirus w Microsoft Office pozbawi³ Ukrainê pr±du">Jak wirus w Microsoft Office pozbawi³ Ukrainê pr±du</a></div>
 		<span class="stampSowaZrodlo"><a  href="http://tech.wp.pl" title="Tech">tech.wp.pl</a></span>
-			</div>
-		
-			<div class="stampSowaZajawka">
-				<a  href="http://pytamy.pl/title,jak-szybko-i-bezbole-nie-si-rozchorowa,pytanie.html" class="stampSowaLink icoCnt" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Jak szybko i bezbole¶nie siê rozchorowaæ?">
-		<img src="http://i.wpimg.pl/140-90/SMF/sowa-future/2/pytamy_groups_24_3.jpg" class="stampSowaFoto" alt="Jak szybko i bezbole¶nie siê rozchorowaæ?">
-				</a>
-				<div class="stampSowaTytul"><a  href="http://pytamy.pl/title,jak-szybko-i-bezbole-nie-si-rozchorowa,pytanie.html" data-statparam="c%3Dfuture%26v%3Dwiadomosc.html%26s%3D%26h%3Dpytamy.pl%26r%3Dpytania" title="Jak szybko i bezbole¶nie siê rozchorowaæ?">Jak szybko i bezbole¶nie siê rozchorowaæ?</a></div>
-		<span class="stampSowaZrodlo"><a  href="http://pytamy.pl" title="Pytamy.pl">pytamy.pl</a></span>
 			</div>
 		
 						</div>
@@ -621,7 +621,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">agnes</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2012-07-22</span>
 				<span class="stampZrodloGodzina ">(16:38)</span>
-				<span class="stampZrodloWiek ">3 lata 5 miesi&#281;cy 24 dni i 5 minut  temu</span>
+				<span class="stampZrodloWiek ">3 lata 5 miesi&#281;cy 26 dni 5 godzin i 19 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>przeciesz firmy jak wypuszcz± wirusa potem na szczepionkach zarabiaj± kupe kasy zrobia pandemie i bêd± przymusowo szczepic w Polsce zmenili niedawno ustawe o chorobach teraz mog± na polakach eksperymentowac kiedy chc± mog± wywo³ac pandemie</p>
 			<p class="opOdpowiedz">
@@ -638,7 +638,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">...</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2012-02-19</span>
 				<span class="stampZrodloGodzina ">(11:27)</span>
-				<span class="stampZrodloWiek ">3 lata 10 miesi&#281;cy 27 dni 5 godzin i 16 minut  temu</span>
+				<span class="stampZrodloWiek ">3 lata 10 miesi&#281;cy 29 dni 10 godzin i 30 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>Zniszczyæ tego wirusa tam gdzie powsta³, ale nie... To jest dla nich zbyt wa¿ny wirus by go u¶mierciæ.</p>
 			<p class="opOdpowiedz">
@@ -655,7 +655,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">saggers</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(07:06)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 9 godzin i 37 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 14 godzin i 51 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>Ja siedzê przed kompem w nachach MASS, z krokiem w kolanach, bez majtek, po piwach (kilku:D) i piszê tego posta i dobrze mi tak:D Jeszcze laska by siê przyda³a:)</p>
 			<p class="opOdpowiedz">
@@ -676,7 +676,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">aaa</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2012-01-20</span>
 				<span class="stampZrodloGodzina ">(23:23)</span>
-				<span class="stampZrodloWiek ">3 lata 11 miesi&#281;cy 25 dni 17 godzin i 20 minut  temu</span>
+				<span class="stampZrodloWiek ">3 lata 11 miesi&#281;cy 27 dni 22 godziny i 34 minuty  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@saggers <a href="#41862553">^</a> sam se zrób...</p><p class="opOdpowiedz"><a href="#43012483">odpowiedz</a></p></div></div>			
 				</div>
@@ -691,7 +691,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">pseba</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-30</span>
 				<span class="stampZrodloGodzina ">(10:47)</span>
-				<span class="stampZrodloWiek ">4 lata 16 dni 5 godzin i 56 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 18 dni 11 godzin i 10 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>piêknie k... piêknie....</p>
 			<p class="opOdpowiedz">
@@ -708,7 +708,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">Poszepszyñski</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(22:12)</span>
-				<span class="stampZrodloWiek ">4 lata 18 dni 18 godzin i 31 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 20 dni 23 godziny i 45 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>Bezedeury...</p>
 			<p class="opOdpowiedz">
@@ -725,7 +725,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">Ar</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(07:18)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 9 godzin i 25 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 14 godzin i 39 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>&quot;niemal ka¿da organizacja terrorystyczna na ¶wiecie&quot; - za¶ USA po wysadzeniu WTC?</p>
 			<p class="opOdpowiedz">
@@ -746,7 +746,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">macko</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(15:25)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 1 godzin&#281; i 18 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 6 godzin i 32 minuty  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@Ar <a href="#41862612">^</a> a te &quot;za¶&quot; to z jakiego regionu polski przywedrowalo i jak to interpretowac</p><p class="opOdpowiedz"><a href="#41880134">odpowiedz</a></p></div></div>			
 				</div>
@@ -761,7 +761,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">seb</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(02:04)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 14 godzin i 39 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 19 godzin i 53 minuty  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>Oby tylko nic mi kompa nie zainfekowa³o,to bêdê móg³ dalej czytaæ te ciekawe artyku³y i m±dre komentarze</p>
 			<p class="opOdpowiedz">
@@ -782,7 +782,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">mika</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(09:43)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 7 godzin i 1 minut&#281;  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 12 godzin i 14 minut  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@seb <a href="#41861777">^</a> ludzie lepiej dbaj± o swoje komputery, samochody i inne wynalazki tylko o sobie zapominaj± a us³u¿ni naukowcy od wszelkich zarazków na us³ugach prywatnych laboratoriów maj± w nosie dobro cz³owieka, liczy siê kasa i mutowanie co i rusz nowych wirusów, licz± na nobla chyba.</p><p class="opOdpowiedz"><a href="#41866389">odpowiedz</a></p></div></div>			
 				</div>
@@ -797,7 +797,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">MAt</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(07:12)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 9 godzin i 31 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 14 godzin i 45 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>i  bedzie Resident Evil</p>
 			<p class="opOdpowiedz">
@@ -814,7 +814,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">dfe</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(03:17)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 13 godzin i 26 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 18 godzin i 40 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>zrobiæ z naukowcem to co siê robi z terrorystami</p>
 			<p class="opOdpowiedz">
@@ -835,7 +835,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">Bo</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(07:03)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 9 godzin i 40 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 14 godzin i 54 minuty  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@dfe <a href="#41862039">^</a> Polecam Klewki.</p><p class="opOdpowiedz"><a href="#41862551">odpowiedz</a></p></div></div>			
 				</div>
@@ -850,7 +850,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">wladek</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(07:03)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 9 godzin i 40 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 14 godzin i 54 minuty  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>a co za ch... to jest recenzja tandetnego filmiku</p>
 			<p class="opOdpowiedz">
@@ -867,7 +867,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">AnTYNWO</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:34)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 9 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 23 minuty  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>bullshit, NWO chce wymordowac miliony, doprowadzili do ekonomicznej katastrofy i chetnie pozbeda sie milionow, za tym soi Bildenberg grupa przestpcow do ktorej nalezy Palikot.</p>
 			<p class="opOdpowiedz">
@@ -888,7 +888,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">44</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:56)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 9 godzin i 47 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 1 minut&#281;  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@AnTYNWO <a href="#41862500">^</a> i Olechowski:/ BEZPARTYJNY kandydat na Prezydenta Polski. Naszej POLSKIEJ Polski.</p><p class="opOdpowiedz"><a href="#41862535">odpowiedz</a></p></div></div>			
 				</div>
@@ -903,7 +903,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">jaciegacie</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:54)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 9 godzin i 49 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 3 minuty  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>No to w USA i Izraelu ju¿ produkuj± tak± broñ bo to dwa kraje które nie maj± skrupu³ów i lubuj± siê w ludobójstwach w imiê demokracji.</p>
 			<p class="opOdpowiedz">
@@ -920,7 +920,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">dziadek</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:40)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 3 minuty  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 17 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>zmodyfikowaæ i wys³aæ do usa.</p>
 			<p class="opOdpowiedz">
@@ -937,7 +937,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">WIADOMO</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:29)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 14 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 28 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>EPIDEMIA G£UPOTY W TEJ  nadal KOMUNISTYCZNEJ TOTALITARNEJ  POLSCE  NIESTETY JEST JEST  NIEUNIKNIONA!</p>
 			<p class="opOdpowiedz">
@@ -954,7 +954,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">Dyl Sowizdrza³</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:00)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 43 minuty  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 57 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>Dawno temu, gdy kryzys nie puka³ jeszcze do naszych drzwi i nie by³o wolnych sobót, nagle oko³o 16:00 zaczê³a mnie braæ grypa. Bardzo mnie to zmartwi³o, bo pó¼niej mog³o byæ gorzej, a na mojej g³owie mia³em opiekê nad ma³ym synkiem. &quot;Nie tylko sam zachorujê, pomy¶la³em, jeszcze dziecko zara¿ê&quot;. Na szczê¶cie zjawili siê starsi koledzy, tacy, co to &quot;nie z jednego pieca chleb jedli&quot;. Obaj zaproponowali mi swe metody antygrypowe. &quot;Tako&quot; rzek³ Anto¶: jak mówi³e¶, przywioz³e¶ z Rumunii rum i cytryny. We¼ 0,5 l kubek gor±cej herbaty. Wyci¶nij do niego sok z 1 - 2 cytryn. Dodaj ³y¿kê miodu. Wlej do tego &quot;setkê&quot; rumu. Zamieszaj i wypij wieczorem. A, przygotuj 3 - 4 flanelowe pi¿amy, bo tak siê bêdziesz poci³, jak nigdy w ¿yciu. Rano bêdziesz zdrów, tylko trochê odwodniony, co uzupe³nisz herbat± z cytryn±&quot;. Tadzio, który ok. 16:00 w ka¿d± sobotê odwiedza³ mniej ju¿ na rauszu, mia³ inn± koncepcjê. &quot;Ja - powiedzia³ - w okresie grypy staram siê zawsze byæ na bañce.&quot; &quot;A to czemu? - zapyta³em. &quot;Pos³uchaj - ci±gn±³. - Je¶li kto¶ na dobrej bañce wyjdzie na balkon, to wypadnie za balustradê. Tak te¿  jest z wirusami. Wtargnie ci taki do organizmu, gdy jeste¶ porz±dnie wstawiony, to nie ma cudów: on te¿ przesi±knie alkoholem. Zapomina, po co w ciebie wlaz³. Przy byle kichniêciu wypada na zewn±trz. Radzê ci wiêc, nie mieszaj tego rumu z herbat±, jak ci radzi³ Anto¶, bo rozrzedzanie rumu to hañba, ale siê upij. Diabli wezm± nie tylko te wirusy, które do ciebie wesz³y, ale - co wa¿niejsze - inne nie zaatakuj±, bo bêdzie jecha³o od ciebie, jak z kanalizacji przy gorzelni. A takie wirusy to te¿ ludzie i smrodu nie znosz±.&quot; Skorzysta³em z porady Antosia. 3 pi¿amy zala³em swym potem, ale rano faktycznie by³em zdrów, niczym ryba. Jestem ciekaw opinii lekarzy na ten temat.</p>
 			<p class="opOdpowiedz">
@@ -975,7 +975,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">xxx</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:29)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 14 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 28 minut  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@Dyl Sowizdrza³ <a href="#41862435">^</a> Wszystko prawda!Moje kole¿anki przy przekwicie mia³y uderzenia gor±ca i inne tam wybuchy.Ja wali³am drinka i organizm my¶la³,ze to jest gor±co po alkoholu i ca³e te hormony zosta³y oszukane i nic mi nigdy nie by³o.Ka¿d± chorobê mo¿na zapiæ lub zag³odziæ--leki i lekarze to tylko na pozegnanie tego ¶wiata</p><p class="opOdpowiedz"><a href="#41862489">odpowiedz</a></p></div></div>			
 				</div>
@@ -990,7 +990,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">P L_P U L O K</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:26)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 17 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 31 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>Zarazy czerwono - czarnej, to im  jeszcze ma³o obfitego ¿arcia z koryta, teraz chc± po¿reæ nas aby kasê mieæ z leków, lecznie no a na koniec czarni od pochówku. taki to jest oto Orwellowski FOLWARK ZWIERZÊCY z ogólno¶wiatowym rz±dem</p>
 			<p class="opOdpowiedz">
@@ -1007,7 +1007,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">ktm</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:25)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 18 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 32 minuty  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>a wypu¶ciæ te wirusy do Izraela, to jaki¶ po¿ytek z nich (wirusów) bêdzie :))</p>
 			<p class="opOdpowiedz">
@@ -1024,7 +1024,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">jaa</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(05:59)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 44 minuty  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 58 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>po cholere to robia by swiat zagrazac  nie trzeba wojny sami siebie  wytrujemy...... zby spokojne nie pozyc</p>
 			<p class="opOdpowiedz">
@@ -1045,7 +1045,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">trigi</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:17)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 26 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 40 minut  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@jaa <a href="#41862420">^</a> z powodu swojej grzesznej natury dzialaja zgodnie z nia na szkode ludzkosci</p><p class="opOdpowiedz"><a href="#41862467">odpowiedz</a></p></div></div>			
 				</div>
@@ -1060,7 +1060,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">jeju</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(05:22)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 11 godzin i 21 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 16 godzin i 35 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>Przez 35 lat pobytu w stanach nie bylem ani razu chory .W 2009 wziolem szczepienie na swinska grype,ostatnie trzy lata mam dwa razy w roku zapalenie pluc .Za najwieksza mafie na swiecie uwaza sie mafie FARMACEUTYCZNA ,szczegolnie amerykanska !!!</p>
 			<p class="opOdpowiedz">
@@ -1081,7 +1081,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">jaa</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:01)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 42 minuty  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 56 minut  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@jeju <a href="#41862263">^</a> dawno nie ufam szczepionkom bedzie jak w filmie   iam  a  legend</p><p class="opOdpowiedz"><a href="#41862439">odpowiedz</a></p></div></div><div id="41862466" class="opOpinia">		<div class="opOcena">
 			<div class="vote green">
@@ -1094,7 +1094,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">Dyl Sowizdrza³</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(06:17)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 10 godzin i 26 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 15 godzin i 40 minut  temu</span>
 				</span>
 		</div><div class="opTresc"><p>@jeju <a href="#41862263">^</a> Mój ojciec te¿ d³ugo pracowa³ w USA i nie chorowa³. By³o to jednak zas³ug± nie tamtego powietrza, lecz m³odego i ¶redniego wieku. Na stare lata , ju¿ w kraju, jednak zachorowa³   i umar³, gdy ja mia³em 7 rok ¿ycia. Po 16 latach od jego zgonu mia³em broniæ na uczelni z³o¿onej i przyjêtej pracy dyplomowej. Relegowano mnie jednak z  tego powodu, ¿e - jak uzasadniono -  &quot;mój ojciec by³ w USA, wiêc móg³ tam po nim kto¶ zostaæ, kto mnie odszuka i bêdzie mnie nastawia³ wrogo przeciw partii i w³adzy ludowej. Partia musi strzec kraju przed tak niebezpiecznymi indywiduami, jak ja&quot;.Tak wiêc nie ojcu, lecz mnie zaszkodzi³ jego &quot;pobyt w USA&quot; .</p><p class="opOdpowiedz"><a href="#41862466">odpowiedz</a></p></div></div>			
 				</div>
@@ -1109,7 +1109,7 @@ if(PWA_Itxt!=true){
 		<div class="opHd">~<span class="name">dareko</span> 		<span class="stampZrodloCzas">
 					<span class="stampZrodloData">2011-12-27</span>
 				<span class="stampZrodloGodzina ">(05:18)</span>
-				<span class="stampZrodloWiek ">4 lata 19 dni 11 godzin i 25 minut  temu</span>
+				<span class="stampZrodloWiek ">4 lata 21 dni 16 godzin i 39 minut  temu</span>
 				</span>
 		</div><div class="opTresc">			<p>¶wiñska ptasia teraz kacza , kupujcie szcepionkê</p>
 			<p class="opOdpowiedz">

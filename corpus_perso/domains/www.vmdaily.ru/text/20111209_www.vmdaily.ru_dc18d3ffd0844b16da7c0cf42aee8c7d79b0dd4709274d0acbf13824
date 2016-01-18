@@ -105,7 +105,7 @@
     <![endif]-->
 
             <script>
-            static_loader.site = 'vmdaily';static_loader.setVersions({"news":"1452869348","timetables_tv":"1452416648"});
+            static_loader.site = 'vmdaily';static_loader.setVersions({"news":"1453056999","timetables_tv":"1452416648"});
         </script>
             <script>
             
@@ -208,63 +208,6 @@
      
           " >
 
-			<div class='radio_slidebox active substrate'>
-<div class='bonus_container'> 
-	<div class='right active'>
-		<div class='block_title'>
-			<p>Радио &quot;Вечерняя Москва&quot;</p><div class='close'><span>&#215;</span></div>
-		</div>
-		<div class='block_container'>
-			<p>
-<link rel="stylesheet" href="/libs/mediaelementjs/mediaelementplayer.css" />
-<link rel="stylesheet" href="/css/vm-radio-skin.css" />     <script src="/libs/mediaelementjs/mediaelement-and-player.js"></script></p>
-<div class="vm-radio"><video id="stream" style="display: none;"> <source src="http://vm.cdnvideo.ru/vm-live/vmradio.sdp/playlist.m3u8" type="application/vnd.apple.mpegURL"></source>          <source src="mp4:vmradio.sdp" type="video/rtmp"></source>      </video>
-<div class="radio-title">&quot;Итоги недели/Вечер пятницы&quot; Звоните: &nbsp;8 499 557 04 29</div>
-<div class="radio-title">&nbsp;</div>
-<div class="radio-title">&nbsp;</div>
-<div class="radio-title">&nbsp;</div>
-</div>
-<script type="text/javascript">
-$('#stream').mediaelementplayer({flashStreamer:"rtmp://vm.cdnvideo.ru/vm-live/vmradio.sdp", isVideo: false, mode:'auto_plugin',startVolume: 0.2,
-success: function(mediaelement){
-	mediaelement.addEventListener('play', function(e){
-		$.cookie('radio_status', true, {path: '/'});
-		yaCounter25041881.reachGoal('Radio_clickOn', {title: 'Дневной радиоэфир'});
-	}, false);
-	mediaelement.addEventListener('pause', function(e){
-		$.cookie('radio_status', false, {path: '/'});
-	}, false);
-	if($.cookie('radio_status') == 'true') mediaelement.play();
-}
- 
-});
-</script>
-		</div>
-	</div>
-	<div class='left active'>
-		<div>
-			<image src="/photo/uploads/radio_background.png"/>		</div>
-	</div>
-</div>
-</div>
-
-
-<script>
-radio_slidebox(50,125,1);
-</script>
-<style>
-.radio_slidebox .left{
-	width:50px;
-	/*background-image: url("/photo/uploads/radio_background.png");*/
-}
-.radio_slidebox .left.active{
-	/*background-image: url("/photo/uploads/radio_background.png");*/
-}
-.radio_slidebox .left img{
-	width:50px;
-}
-
-</style>
 	
 <!--header class="sochi2014"-->
 <!--header class="march_8"-->
@@ -309,7 +252,7 @@ radio_slidebox(50,125,1);
 			<div class="row-fluid no-indent">
 				<div class="fcol9 social_buttons_mini">
 											<a onclick="social_login('http://oauth.vk.com/authorize?client_id=4283108&display=page&redirect_uri=http://vm.ru/authorization/vk_login');" title='Авторизоваться через социальную сеть'><span class='vk'></span></a>					
-																<a onclick="social_login('https://www.facebook.com/dialog/oauth?client_id=625988000804252&redirect_uri=http%3A%2F%2Fvm.ru%2Fauthorization%2Ffb_login&state=fa20e65ce9169dd3f2327770ef31d527');" title='Авторизоваться через социальную сеть'><span class='fb'></span></a>					
+																<a onclick="social_login('https://www.facebook.com/dialog/oauth?client_id=625988000804252&redirect_uri=http%3A%2F%2Fvm.ru%2Fauthorization%2Ffb_login&state=29755cb557b194ec1b166235486d23e5');" title='Авторизоваться через социальную сеть'><span class='fb'></span></a>					
 																<a onclick="social_login_tw();" title='Авторизоваться через социальную сеть'><span class='tw'></span></a>					
 																<a onclick="social_login('http://www.odnoklassniki.ru/oauth/authorize?client_id=1085288960&response_type=code&redirect_uri=http://vm.ru/authorization/ok_login');" title='Авторизоваться через социальную сеть'><span class='ok'></span></a>					
 										<!--<label class='remember' title='Если галочка включена, вы будете автоматически авторизовываться с этого компьютера. Если галочки нет, при закрытии браузера, вы автоматически разлогинитесь.'>
@@ -370,8 +313,8 @@ radio_slidebox(50,125,1);
     <a href="http://vm.ru/" class="logo" title="">
         <strong>Вечерняя Москва</strong>
     </a>
-    <p class="date">Пятница, 15 января 2016</p>
-    <p class="time">17:58</p>
+    <p class="date">Понедельник, 18 января 2016</p>
+    <p class="time">00:41</p>
     <form id="search_form" method="GET" action="/search" class="search-block">
         <input type="text" name="q" placeholder="Поиск по сайту" />
 
@@ -405,9 +348,9 @@ radio_slidebox(50,125,1);
 
 <div class="info">
 
-        <div class="weather clearfix" title="Москва и область, 16 января, днём облачно с прояснениями, снег, на юго-западе области,  метель, на дорогах гололедица, температура -9..-7°, по области -12..-7°, ветер ю-в 5-10 м/с, местами порывы 12-1">
+        <div class="weather clearfix" title="Москва и область, 18 января, днём облачно, местами снег, температура -9..-7°, по области -11..-6°, ветер слабый">
 
-        <h3>Погода на завтра</h3>
+        <h3>Погода</h3>
         <span>
             <strong>-9..-7</strong> (день)
             <strong>-16..-14</strong> (ночь)
@@ -460,14 +403,13 @@ radio_slidebox(50,125,1);
             <div class="viewport">
                 <ul class="overview">
                                                                         <li><a href="/topic/395">Радио «Вечерняя Москва»</a></li>
-                                                                                                <li><a href="/topic/602">Новый год-2016</a></li>
+                                                                                                <li><a href="/topic/622">Крещение Господне-2016</a></li>
                                                                                                 <li><a href="/topic/462">Активный гражданин</a></li>
                                                                                                 <li><a href="/topic/593">Пятилетка</a></li>
                                                                                                 <li><a href="/topic/331">Конфликт в Сирии</a></li>
                                                                                                 <li><a href="/topic/618">Стрельба в кафе в центре Москвы</a></li>
                                                                                                 <li><a href="/topic/614">Взрыв на улице Покровка</a></li>
                                                                                                 <li><a href="/topic/603">Крушение российского лайнера в Египте</a></li>
-                                                                                                <li><a href="/topic/606">Российских туристов вывозят из Египта</a></li>
                                                                                                 <li><a href="/topic/608">Теракт в Париже: погибли более 100 человек</a></li>
                                                                                                 <li><a href="/topic/291">Народы Москвы</a></li>
                                                                                                 <li><a href="/topic/297">Сквозной эфир</a></li>
@@ -545,7 +487,7 @@ radio_slidebox(50,125,1);
         <div class="fcol6">
             <p class="views-counter fr">
                 <b class="inline-block"></b>
-                225
+                231
             </p>
         </div>
     </div>
@@ -623,10 +565,10 @@ radio_slidebox(50,125,1);
     <section class="blogers">
     <h2 class="block-name pull-left"><a href="/author/blogs">Ещё колумнисты</a></h2>
     <div class="pull-right"><div class="page-navigator" > 
-	<a href="/news/2011/12/08/esli-zavtra-bolshaya-vojna-130769.html?page=2437" class="to-previous">&nbsp;</a> 
+	<a href="/news/2011/12/08/esli-zavtra-bolshaya-vojna-130769.html?page=2438" class="to-previous">&nbsp;</a> 
 	<div class="current-page" >1</div> 
 	<div class="of" >из</div> 
-	<div class="total-pages" >2437</div> 
+	<div class="total-pages" >2438</div> 
 	<a href="/news/2011/12/08/esli-zavtra-bolshaya-vojna-130769.html?page=2" class="to-next">&nbsp;</a> 
 </div>
 </div>
@@ -634,31 +576,32 @@ radio_slidebox(50,125,1);
     <hr>
     <div class="row">
                     <article class="dx6">
-                <a class="img" href="/news/2016/01/15/mozhet-li-demokratiya-bit-chuzhdoj-308661.html"><img alt="Может ли демократия быть «чуждой»?" src="http://files.vm.ru/photo/vecherka/2014/11/doc6hyxuudtdog1kjtzpf5_277_200.jpg" /></a>
+                <a class="img" href="/news/2016/01/17/flagi-nad-groznim-308796.html"><img alt="Флаги над Грозным" src="http://files.vm.ru/photo/vecherka/2015/11/doc6n1dpli8napwmpug47q_277_200.jpg" /></a>
                 <div class="content">
                     <div class="name clearfix">
-                        <a href="/news/2016/01/15/mozhet-li-demokratiya-bit-chuzhdoj-308661.html#comments" class="comments-counter fr">0</a>
+                        <a href="/news/2016/01/17/flagi-nad-groznim-308796.html#comments" class="comments-counter fr">1</a>
                         <p class="author">
-                            <a href="/author/5006">Георгий Бовт</a>
+                            <a href="/author/5017">Александр Хохлов</a>
                         </p>
                     </div>
-                    <h3><a href="/news/2016/01/15/mozhet-li-demokratiya-bit-chuzhdoj-308661.html">Может ли демократия быть «чуждой»?</a></h3>
-                    <p class="date-string"><b>12:23</b>15 января 2016</p>
-                    <p>Чем мне нравятся некоторые российские опросы общественного мнения, так это тем, что их можно трактовать по-всякому. А еще тем, что в самой...</p>
+                    <h3><a href="/news/2016/01/17/flagi-nad-groznim-308796.html">Флаги над Грозным</a></h3>
+                    <p class="date-string"><b>15:00</b>17 января 2016</p>
+                    <p>19 января 1995 года российские солдаты взяли «дворец Дудаева».
+</p>
                 </div><!-- [END] class="content" -->
             </article>
                     <article class="dx6">
-                <a class="img" href="/news/2016/01/15/avraam-poslednee-ispitanie-308643.html"><img alt="Авраам ‑ последнее испытание" src="http://files.vm.ru/photo/vecherka/2014/05/doc6fb352c1c14q9de49e2_277_200.jpg" /></a>
+                <a class="img" href="/news/2016/01/17/zachistka-statusnih-perev-308792.html"><img alt="Зачистка статусных перьев" src="http://files.vm.ru/photo/vecherka/2013/08/doc6b8tdj17unrzhgz4304_277_200.jpg" /></a>
                 <div class="content">
                     <div class="name clearfix">
-                        <a href="/news/2016/01/15/avraam-poslednee-ispitanie-308643.html#comments" class="comments-counter fr">0</a>
+                        <a href="/news/2016/01/17/zachistka-statusnih-perev-308792.html#comments" class="comments-counter fr">0</a>
                         <p class="author">
-                            <a href="/author/4985">Митрополит Калужский и Боровский Климент</a>
+                            <a href="/author/5175">Никита Миронов</a>
                         </p>
                     </div>
-                    <h3><a href="/news/2016/01/15/avraam-poslednee-ispitanie-308643.html">Авраам ‑ последнее испытание</a></h3>
-                    <p class="date-string"><b>07:36</b>15 января 2016</p>
-                    <p>Однажды во время беседы с семинаристами, когда речь зашла о ветхозаветном патриархе Аврааме, его непреклонной вере и полном, безоговорочном доверии...</p>
+                    <h3><a href="/news/2016/01/17/zachistka-statusnih-perev-308792.html">Зачистка статусных перьев</a></h3>
+                    <p class="date-string"><b>14:13</b>17 января 2016</p>
+                    <p>Москвичей, не заплативших штрафы на сумму больше 10 тысяч рублей, с 15 января начали лишать прав. </p>
                 </div><!-- [END] class="content" -->
             </article>
             </div>
@@ -930,9 +873,8 @@ document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/con
                     	<div class="news-b2 pbm">
                 <h2 class="block-name">САМОЕ ЧИТАЕМОЕ</h2>
                 <ul>
-										                    <li class="bold"><h3><a href="/news/2016/01/14/sergej-sobyanin-v-moskve-vedetsya-rabota-povisheniya-nadezhnosti-elektrosnabzheniya-308544.html">Сергей Собянин: В Москве ведется работа повышения надежности электроснабжения</a></h3></li>
-										                    <li><h3><a href="/news/2016/01/14/putin-i-obama-po-telefonu-obsudili-situatsiyu-na-ukraine-i-v-sirii-308519.html">Владимир Путин и Барак Обама по телефону обсудили ситуацию на Украине и в Сирии</a></h3></li>
-										                    <li><h3><a href="/news/2016/01/14/prezident-rossii-i-korol-iordanii-dogovorilis-o-sovmestnoj-borbe-protiv-igil-308627.html">Президент России и король Иордании договорились о совместной борьбе против ИГИЛ*</a></h3></li>
+										                    <li class="bold"><h3><a href="/news/2016/01/17/kogda-evropa-stanet-kak-nigeriya-308789.html">Когда Европа станет как Нигерия</a></h3></li>
+										                    <li><h3><a href="/news/2016/01/17/reshenie-evrosoyuza-o-snyatii-sanktsij-s-irana-vstupilo-v-silu-308768.html">Решение Евросоюза о снятии санкций с Ирана вступило в силу</a></h3></li>
 					                </ul>
             </div><!-- [END] class="news-b2" -->
 
@@ -988,28 +930,28 @@ document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/con
     <ul>
                     <li class="bold">
                 <h3>
-                    <a href="/news/2016/01/15/sergej-sobyanin-zhurnalisti-igrayut-kolossalnuyu-rol-v-obektivnom-chestnom-informirovanii-gorozhan-pomogayut-razobratsya-308682.html">Сергей Собянин наградил журналистов за освещение московских событий в 2015 году</a>
+                    <a href="/news/2016/01/17/buran-i-babushki-aktivnie-pensionerki-pomogayut-kommunalnim-sluzhbam-podderzhivat-chistotu-i-poryadok-308837.html">Буран и бабушки. Активные пенсионерки помогают коммунальным службам поддерживать чистоту и порядок</a>
                 </h3>
-                                <a class="img-wrp mrgnbtm10" href="/news/2016/01/15/sergej-sobyanin-zhurnalisti-igrayut-kolossalnuyu-rol-v-obektivnom-chestnom-informirovanii-gorozhan-pomogayut-razobratsya-308682.html">
-                    <img alt="" src="http://files.vm.ru/photo/vecherka/2016/01/doc6o07rynh3b9pgxx6h86_277_200.jpg" />
+                                <a class="img-wrp mrgnbtm10" href="/news/2016/01/17/buran-i-babushki-aktivnie-pensionerki-pomogayut-kommunalnim-sluzhbam-podderzhivat-chistotu-i-poryadok-308837.html">
+                    <img alt="" src="http://files.vm.ru/photo/vecherka/2016/01/doc6o1cqltavx01kovg1h84_277_200.jpg" />
                                                         </a>
                             </li>
                     <li class="bold">
                 <h3>
-                    <a href="/news/2016/01/15/gorodskie-sluzhbi-prodolzhat-rabotu-v-usilennom-rezhime-308686.html">Городские службы продолжат работу в усиленном режиме</a>
+                    <a href="/news/2016/01/17/snezhnoe-iglu-stalo-mestom-dlya-igr-a-skorostnuyu-ledyanuyu-trassu-postroili-vo-dvore-308808.html">Зимняя сказка своими руками. Горнолыжник вместе с женой построили настоящую горку для своего двора</a>
                 </h3>
-                                <a class="img-wrp mrgnbtm10" href="/news/2016/01/15/gorodskie-sluzhbi-prodolzhat-rabotu-v-usilennom-rezhime-308686.html">
-                    <img alt="" src="http://files.vm.ru/photo/vecherka/2013/09/doc6bvezzdn62t1ji33tomr_277_200.jpg" />
+                                <a class="img-wrp mrgnbtm10" href="/news/2016/01/17/snezhnoe-iglu-stalo-mestom-dlya-igr-a-skorostnuyu-ledyanuyu-trassu-postroili-vo-dvore-308808.html">
+                    <img alt="" src="http://files.vm.ru/photo/vecherka/2016/01/doc6o1c6djfs1x1h5rfwh84_277_200.jpg" />
                                                         </a>
                             </li>
                     <li class="bold">
                 <h3>
-                    <a href="/news/2016/01/15/v-moskve-zavershilos-stroitelstvo-samoj-visokoj-v-evrope-oranzherei-308660.html">В Москве завершилось строительство самой высокой в Европе оранжереи</a>
+                    <a href="/news/2016/01/17/im-teplij-dush-ne-radost-im-led-i-holod-podavaj-308777.html">Им теплый душ – не радость, им лед и холод подавай!</a>
                 </h3>
                             </li>
                     <li class="bold">
                 <h3>
-                    <a href="/news/2016/01/15/v-silu-vstupil-zakon-o-blokirovke-prav-voditelej-dolzhnikov-308647.html">В силу вступил закон о блокировке прав водителей-должников</a>
+                    <a href="/news/2016/01/17/kupite-atele-avtoservis-ili-tsvetochnij-magazin-i-budet-vam-schaste-308811.html">Купите ателье, автосервис или цветочный магазин. И будет вам счастье</a>
                 </h3>
                             </li>
             </ul>
@@ -1023,125 +965,7 @@ document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/con
 <!--noindex-->
                 <div class="ads-block">
                 <div class="inner">
-					<p>Чат прямого эфира на <a href="http://vm.ru">главной </a>Вечерки!</p>
-<div id='playerContainer' style="width:240px;height:180px">
-      <div id='player'>This div will be replaced by the JW Player.</div>
-   </div>
-   <script type='text/javascript' src='http://www.aloha.cdnvideo.ru/aloha/jwplayer/js_for_embed/jwplayer.js'></script>
-   <script type='text/javascript'>
-      if ((navigator.userAgent.indexOf('iPad') != -1) || (navigator.userAgent.indexOf('iPhone') != -1) || (navigator.userAgent.indexOf('Android') != -1)) {
-         var pc = document.getElementById('playerContainer');
-         var pcp = pc.parentNode;
-         pcp.removeChild(pc);
-         pc = null;
-         pcp = null;
-         document.write('<video width="240" height="180" controls="true"><source src="http://hls.vm.cdnvideo.ru/vm-publish/0222-utro.sdp1/playlist.m3u8" type="video/mp4" /> </video>');
-      } else {
-         var oPlayer = jwplayer('player').setup({
-            'id': 'player',
-            'width': '240',
-            'height': '180',
-            'bgcolor': 'undefined',
-            'allowscriptaccess': 'always',
-            'autostart': 'false',
-            'allowfullscreen': 'true',
-            'wmode': 'transparent',
-            'volume':'0',
-            'provider': 'rtmp',
-            'streamer': 'rtmp://vm.cdnvideo.ru/vm-live',
-            'file': '0222-utro.sdp1',
-            'src': 'http://www.aloha.cdnvideo.ru/aloha/jwplayer/jw/mediaplayer-5.7-viral/player.swf',
-            'plugins': {
-               "gapro.trackstarts": true
-            },
-            'events': {
-               onPlay:  function(event) { _gaq.push(['_trackEvent', 'Videos', 'Play', 'Pushed play']) },
-               onPause: function(event) { _gaq.push(['_trackEvent', 'Videos', 'Pause', 'Pushed pause']) }
-            },
-            'modes': [
-               {type: 'flash', src: 'http://www.aloha.cdnvideo.ru/aloha/jwplayer/jw/mediaplayer-5.7-viral/player.swf'},
-               {type: 'html5', config: {
-                     'file': 'http://hls.vm.cdnvideo.ru/vm-publish/0222-utro.sdp1/playlist.m3u8',
-                     'width' : '240',
-                     'volume':'0',
-                     'height' : '180',
-                     'controls' : 'true',
-                     'provider': 'video'
-                  }
-               }
-            ]
-         });
-         (function(){
-            var play_fired = false;
-
-            oPlayer.onReady(function(e){
-               if (oPlayer.getRenderingMode() != 'flash') {
-                  play_fired = true;
-               };
-               oPlayer.play();
-            });
-
-            var is_chrome = false;
-            try { is_chrome = !!chrome } catch(e) { is_chrome = false };
-            if (is_chrome) {
-               var w, h;
-               var resize_mode = 0;
-               var row_objects = [];
-
-               oPlayer.onPlay(function(e) {
-                  if (!play_fired) {
-                     play_fired = true;
-                     w = oPlayer.getWidth();
-                     h = oPlayer.getHeight();
-                     resize_mode = 1;
-
-                     var o = document.getElementById('playerContainer');
-                     while (o.parentNode) {
-                        if (o.className == "row") {
-                           row_objects.push({obj: o, overflow: o.style.overflow});
-                           o.style.overflow = "visible";
-                        };
-                        o = o.parentNode;
-                     };
-
-                     player.style.visibility = "hidden";
-                     oPlayer.resize(400, 360);
-                  };
-               });
-
-               oPlayer.onResize(function(e) {
-                  if (resize_mode == 1) {
-                     resize_mode = 2;
-                     oPlayer.resize(w, h);
-                  } else if (resize_mode == 2) {
-                     resize_mode = 0;
-                     player.style.visibility = "visible";
-
-                     for (var i in row_objects) {
-                        console.log(row_objects[i]);
-                        row_objects[i]['obj'].style.overflow = (row_objects[i]['overflow'] || "");
-                     };
-                  };
-               });
-            };
-         })();
-      };
-   </script>
-   <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-35685769-1']);
-      _gaq.push(['_trackPageview']);
-      (function(){
-         var ga = document.createElement('script');
-         ga.type = 'text/javascript';
-         ga.async = true;
-         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-         var s = document.getElementsByTagName('script')[0];
-         s.parentNode.insertBefore(ga, s);
-      })();
-   </script>
-
-<!-- R-84778-1 Яндекс.RTB-блок  -->
+					<!-- R-84778-1 Яндекс.RTB-блок  -->
 <div id="yandex_ad_R-84778-1"></div>
 <script type="text/javascript">
     (function(w, n) {
@@ -1197,18 +1021,6 @@ document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/con
                             </a>
                         </div>
                                             <div class="teaser"
-                                                             data-id="101">
-                            <a href="http://caoinform.ru/nikolay-tsiskaridze-ya-bozhiy-podarok/?from=vmc" target="_blank">
-                                <div class="image">
-                                    <img src="http://files.vm.ru/photo/teaser/5949065509.jpg">
-                                </div>
-
-                                <div class="text">
-                                    Николай Цискаридзе о себе...
-                                </div>
-                            </a>
-                        </div>
-                                            <div class="teaser"
                                                              data-id="97">
                             <a href="http://caoinform.ru/god-predpriimchivyih-i-aktivnyih-lyudey/?from=vmc" target="_blank">
                                 <div class="image">
@@ -1217,6 +1029,18 @@ document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/con
 
                                 <div class="text">
                                     Год предприимчивых и активных
+                                </div>
+                            </a>
+                        </div>
+                                            <div class="teaser"
+                                                             data-id="101">
+                            <a href="http://caoinform.ru/nikolay-tsiskaridze-ya-bozhiy-podarok/?from=vmc" target="_blank">
+                                <div class="image">
+                                    <img src="http://files.vm.ru/photo/teaser/5949065509.jpg">
+                                </div>
+
+                                <div class="text">
+                                    Николай Цискаридзе о себе...
                                 </div>
                             </a>
                         </div>
@@ -1588,7 +1412,7 @@ var _ga3_channel='3066';
 					<!-- VMD.Counter-->
 					<script type="text/javascript">
 					<!--
-					new Image().src = "/user_counter.php?t=1"+((typeof(screen)=="undefined")?"":"&sw="+screen.width+"&sh="+screen.height+"&sd="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+"&trackId=d63b5010d21b6eae&nrnd="+Math.random();
+					new Image().src = "/user_counter.php?t=1"+((typeof(screen)=="undefined")?"":"&sw="+screen.width+"&sh="+screen.height+"&sd="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+"&trackId=698e1fef216fbe2e&nrnd="+Math.random();
 					//-->
 					</script>
 					<!--/VMD.Counter-->
@@ -1597,7 +1421,7 @@ var _ga3_channel='3066';
                     <!-- <div class="online-counter inline-block">
                         <i class="icon fl"></i>
                         <p><b>Сейчас онлайн</b></p>
-                        <p><b class="red-txt">738</b> посетителей</p>
+                        <p><b class="red-txt">677</b> посетителей</p>
                     </div> -->
                      <!--/noindex-->
 
@@ -1687,6 +1511,6 @@ console.log("social_static.js "+ e)
 
 <div class="to_top" id="to_top"></div>
 
-<!-- DEBUG: 10-2-96-23 -->
+<!-- DEBUG: 10-2-96-14 -->
 </body>
 </html>

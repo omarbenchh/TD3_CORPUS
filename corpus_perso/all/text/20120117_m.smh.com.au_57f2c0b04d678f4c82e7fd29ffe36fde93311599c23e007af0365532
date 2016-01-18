@@ -13,7 +13,7 @@
 <!-- Digital Data Script -->
 <script>
     var titanEnabled = true;
-    var digitalData = {"page":{"pageInfo":{"pageID":"2898136","pageName":"Warning on heart catheter, inquest into baby's death hears","brand":"smh","generator":"CQ","author":"Malcolm Brown","effectiveDate":"","issueDate":"2012-01-17T03:39:41Z","sysEnv":"mobile","template":"stories-list","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"nsw","subCategory1":"","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"mobile-smh","adZone":"news/nsw","adKeyValues":{"cat1":"nsw","cat":"news","ctype":"article"},"adSlots":["adspot-320x360_320x50_300x250_300x50-pos2","adspot-320x120_320x60_320x50_300x50-pos1"],"adRegistry":"1600","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.smh.com.au","brandSite":"smh","domain":"smh.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://smh.myfairfax.com.au","hagridChannelKey":"Dks89-tJMqw6zsOGPU5c5Q","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["NSW"],"assetId":"2898136","assetSources":["SMH"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-1"}}};
+    var digitalData = {"page":{"pageInfo":{"pageID":"2898136","pageName":"Warning on heart catheter, inquest into baby's death hears","brand":"smh","generator":"CQ","author":"Malcolm Brown","effectiveDate":"","issueDate":"2012-01-17T03:39:41Z","sysEnv":"mobile","template":"stories-list","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"nsw","subCategory1":"","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"mobile-smh","adZone":"news/nsw","adKeyValues":{"cat1":"nsw","cat":"news","ctype":"article"},"adSlots":["adspot-320x360_320x50_300x250_300x50-pos2","adspot-320x120_320x60_320x50_300x50-pos1"],"adRegistry":"3779","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.smh.com.au","brandSite":"smh","domain":"smh.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://smh.myfairfax.com.au","hagridChannelKey":"Dks89-tJMqw6zsOGPU5c5Q","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["NSW"],"assetId":"2898136","assetSources":["SMH"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-1"}}};
 
     var titan = window.titan || {};
     titan.requestAd = titan.requestAd || [];
@@ -197,19 +197,19 @@ data-href="https://www.facebook.com/sydneymorningherald" data-hide-cover="false"
 <div class="most-viewed most-viewed-nontouch"><h2>Most Viewed</h2>
         <ul class="most-viewed cfix" id="mostviewed">
             <li>
-                    <a href="http://m.smh.com.au/news-and-views/news-features/greens-mp-mehreen-faruqi-stopped-and-interrogated-at-lax-20160115-gm6xup.html"><em>1</em> Greens MP Mehreen Faruqi stopped and interrogated at LAX</a>
+                    <a href="http://m.smh.com.au/nsw/sydney-traffic-crash-causes-10km-traffic-jam-on-m4-at-homebush-20160117-gm7vnh.html"><em>1</em> Sydney traffic: Crash causes major traffic jam on M4 at Homebush</a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/nsw/chinese-student-filmed-bashing-dog-on-wollongong-balcony-20160115-gm74ke.html"><em>2</em> Chinese student filmed bashing dog on Wollongong balcony</a>
+                    <a href="http://m.smh.com.au/nsw/gold-opal-proposal-to-strip-selffunded-retirees-increase-daily-cap-faces-backlash-20160112-gm4b3z.html"><em>2</em> Gold Opal: proposal to strip self-funded retirees and lift daily cap faces a backlash</a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/nsw/cracks-emerge-in-skytrain-section-of-83-billion-sydney-rail-line-20160115-gm6nes.html"><em>3</em> Cracks emerge in Skytrain section of $8.3 billion Sydney rail line</a>
+                    <a href="http://m.smh.com.au/nsw/mystery-jogger-in-induced-coma-after-being-hit-by-car-20160117-gm7vgu.html"><em>3</em> Mystery jogger in induced coma after being hit by car </a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/nsw/csi-green-thumbs-royal-botanic-garden-scientists-find-the-culprit-20160114-gm5lfx.html"><em>4</em> CSI Green Thumbs: Royal Botanic Garden scientists find the culprit</a>
+                    <a href="http://m.smh.com.au/nsw/two-security-guards-sacked-for-removing-violent-patient-from-busy-emergency-ward-20160117-gm7iqe.html"><em>4</em> Two security guards sacked for removing violent patient from busy emergency ward</a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/nsw/2016-the-year-of-a-new-darling-harbour-20160114-gm6c06.html"><em>5</em> 2016: The year of a new Darling Harbour</a>
+                    <a href="http://m.smh.com.au/nsw/terrifying-crash-at-sydney-service-station-caught-on-camera-20160117-gm7stp.html"><em>5</em> Terrifying crash at Sydney service station caught on camera</a>
                 </li>
             </ul></div>
 <div class="breadcrumb-component"><!-- Breadcrumb (scope: network-wide) -->

@@ -13,7 +13,7 @@
 <!-- Digital Data Script -->
 <script>
     var titanEnabled = true;
-    var digitalData = {"page":{"pageInfo":{"pageID":"2897414","pageName":"Boy swallows coin on way to get ice cream","brand":"smh","generator":"CQ","author":"Jonathan Carson","effectiveDate":"","issueDate":"2012-01-16T20:59:11Z","sysEnv":"mobile","template":"stories-list","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"world","subCategory1":"","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"mobile-smh","adZone":"news/world","adKeyValues":{"cat1":"world","cat":"news","ctype":"article"},"adSlots":["adspot-320x360_320x50_300x250_300x50-pos2","adspot-320x120_320x60_320x50_300x50-pos1"],"adRegistry":"774","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.smh.com.au","brandSite":"smh","domain":"smh.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://smh.myfairfax.com.au","hagridChannelKey":"Dks89-tJMqw6zsOGPU5c5Q","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["World"],"assetId":"2897414","assetSources":["smh.com.au"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-1"}}};
+    var digitalData = {"page":{"pageInfo":{"pageID":"2897414","pageName":"Boy swallows coin on way to get ice cream","brand":"smh","generator":"CQ","author":"Jonathan Carson","effectiveDate":"","issueDate":"2012-01-16T20:59:11Z","sysEnv":"mobile","template":"stories-list","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"world","subCategory1":"","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"mobile-smh","adZone":"news/world","adKeyValues":{"cat1":"world","cat":"news","ctype":"article"},"adSlots":["adspot-320x360_320x50_300x250_300x50-pos2","adspot-320x120_320x60_320x50_300x50-pos1"],"adRegistry":"3602","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.smh.com.au","brandSite":"smh","domain":"smh.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://smh.myfairfax.com.au","hagridChannelKey":"Dks89-tJMqw6zsOGPU5c5Q","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["World"],"assetId":"2897414","assetSources":["smh.com.au"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-1"}}};
 
     var titan = window.titan || {};
     titan.requestAd = titan.requestAd || [];
@@ -211,19 +211,19 @@ data-href="https://www.facebook.com/sydneymorningherald" data-hide-cover="false"
 <div class="most-viewed most-viewed-nontouch"><h2>Most Viewed</h2>
         <ul class="most-viewed cfix" id="mostviewed">
             <li>
-                    <a href="http://m.smh.com.au/world/the-west-is-losing-the-battle-for-the-heart-of-europe-20160114-gm6c82.html"><em>1</em> The West is losing the battle for the heart of Europe</a>
+                    <a href="http://m.smh.com.au/world/swedish-fritzl-accused-of-drugging-and-raping-woman-in-locked-dungeon-20160117-gm7uqo.html"><em>1</em> 'Swedish Fritzl' accused of drugging and raping woman in dungeon</a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/world/six-seriously-ill-after-french-drug-trial-20160115-gm75os.html"><em>2</em> French 'cannabis' drug trial leaves one brain dead, five seriously ill</a>
+                    <a href="http://m.smh.com.au/world/us-election/british-parliament-to-debate-banning-donald-trump-from-the-uk-20160117-gm7umq.html"><em>2</em> British parliament to debate banning Donald Trump from the UK</a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/world/jakarta-terror-attacks-foreign-fighters-feared-as-the-cause-20160115-gm6psk.html"><em>3</em> Jakarta terror attacks: foreign fighters feared as the cause</a>
+                    <a href="http://m.smh.com.au/world/islamic-state-abducts-400-civilians-of-sunni-faith-following-syrian-attack-20160117-gm7u4p.html"><em>3</em> Islamic State abducts 400 civilians in Syria, monitor says</a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/world/explosion-near-sarinah-a-shopping-mall-in-central-jakarta-20160114-gm5uvl.html"><em>4</em> Jakarta attacks: seven dead in multiple attacks linked to Islamic State </a>
+                    <a href="http://m.smh.com.au/world/ken-elliott-and-wife-jocelyn-built-a-surgery-for-two-million-people-from-the-ground-up-in-burkina-faso-20160117-gm7qj7.html"><em>4</em> Ken Elliott and wife Jocelyn built a surgery for two million people from the ground up in Burkina Faso</a>
                 </li>
             <li>
-                    <a href="http://m.smh.com.au/world/jakarta-attacks-three-arrests-made-in-west-java-police-say-20160115-gm6mty.html"><em>5</em> Business as usual in Jakarta after terror attacks</a>
+                    <a href="http://m.smh.com.au/news-and-views/news-features/grindr-thrives-in-india-when-gay-sex-is-taboo-apps-open-a-door-20160117-gm7uxb.html"><em>5</em> Grindr thrives in India: When gay sex is taboo, apps open a door</a>
                 </li>
             </ul></div>
 <div class="breadcrumb-component"><!-- Breadcrumb (scope: network-wide) -->

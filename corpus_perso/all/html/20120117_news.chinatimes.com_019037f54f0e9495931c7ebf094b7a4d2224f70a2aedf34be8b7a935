@@ -14,8 +14,8 @@
 <meta name="twitter:description" content="《中時電子報》台灣網站100強「傳播媒體類」第一名，同時也是最吸睛的新聞網站。內容來源包括《中國時報》、《工商時報》、《旺報》、《時報周刊》、《中天新聞》、《中視》各類型精選報導。《中時電子報》自大幅改版以來，除網站設計全面採用回應式網站設計RWD，並陸續推出全新「影視」頻道，提供第一手娛樂消息；《中時電子報》APP，個性訂閱讓讀者打造自己專屬的內容專頁；大圖像視覺的圖輯頻道，讓您一覽最夯、最熱的圖輯故事。" />
 <meta name="keywords" itemprop="keywords" content="中時, 工商, 旺報, 中天, 中視, 頭條, China Times, Market Daily, Commercial Times, Want Daily, CTW" />
 <meta name="parsely-tags" property="article:tag" data-ephemeral="true" content="中時, 工商, 旺報, 中天, 中視, 頭條, China Times, Market Daily, Commercial Times, Want Daily, CTW" />
-<meta name="lastmod" property="article:modified_time" itemprop="dateModified" content="2016-01-15T23:19:09+08:00" />
-<meta name="pubdate" property="article:published_time" itemprop="datePublished" content="2016-01-15T23:19:09+08:00" />
+<meta name="lastmod" property="article:modified_time" itemprop="dateModified" content="2016-01-18T06:04:11+08:00" />
+<meta name="pubdate" property="article:published_time" itemprop="datePublished" content="2016-01-18T06:04:11+08:00" />
 <meta name="source" content="中時電子報" />
 <meta name="copyright" content="中時電子報" />
 <meta name="author" content="中時電子報" />
@@ -152,7 +152,7 @@ $(function () {var r = new wwwRefresh();r.SetDelaySec(180);r.Start();});
     "creator": "中時電子報",
 　　"logo": "http://www.chinatimes.com/images/chinatimes_logo.png",
 　　"image": ["http://img.chinatimes.com/newsphoto/2015-06-18/Clipping/20150618003774_635702388922454097.jpg"],
-　　"datePublished": "2016-01-15T23:19:09+08:00",
+　　"datePublished": "2016-01-18T06:04:11+08:00",
     "keywords": ["中時", "工商", "旺報", "中天", "中視", "頭條", "China Times", "Market Daily", "Commercial Times", "Want Daily", "CTW"]
   }
 </script>
@@ -429,7 +429,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 function ctreal(cword, ccolor, ctitle, curl) { this.cword = cword; this.ccolor = ccolor; this.ctitle = ctitle; this.curl = curl; }
                 function addreal(cword, ccolor, ctitle, curl) { AryReal.push(new ctreal(cword, ccolor, ctitle, curl)); }
 
-                addreal("健康養生", "#dc1820", "早餐別喝冰飲料 它引起的疾病很嚴重", "http://tube.chinatimes.com/20160115005291-261410");addreal("生活新知", "#af793c", "８種放在房間可讓你一夜好眠的植物", "http://photo.chinatimes.com/20160115005383-260804");addreal("感人瞬間", "#123456", "哭慘了！他幫助女童偷渡 最終判無罪", "http://photo.chinatimes.com/20160115005545-260814");addreal("報時國中", "#ed0cd5", "新版身分證 內政部預計在何時上路？", "http://quiz.chinatimes.com/20160113005347-320201");addreal("好康活動", "#11d8e8", "寒假去哪玩 揪好友按讚抽沙雕展門票", "https://www.facebook.com/events/1525517941111227/");addreal("好康贈獎", "#14eb14", "按讚活動 中時電子報隨機好書大放送", "https://www.facebook.com/events/174921016197830/");
+                addreal("最完整資訊", "#de2717", "２０１６總統、立委大選當選名單！", "http://www.chinatimes.com/vote2016/");addreal("不敢相信", "#23762e", "這些經典韓劇竟然已經超過１５年！", "http://photo.chinatimes.com/20160117003323-260806");addreal("趕快藏好", "#7118dc", "男生不想在女友房內看到的五樣東西", "http://photo.chinatimes.com/20160117003229-260809");addreal("報時國中", "#d88813", "新版身分證 內政部預計在何時上路？", "http://quiz.chinatimes.com/20160113005347-320201");addreal("好康活動", "#11d8e8", "寒假去哪玩 揪好友按讚抽沙雕展門票", "https://www.facebook.com/events/1525517941111227/");addreal("好康贈獎", "#14eb14", "按讚活動 中時電子報隨機好書大放送", "https://www.facebook.com/events/174921016197830/");
 
                 var R_i, sReal;
                 sReal = "";
@@ -469,7 +469,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <div class="google-analytics"><span class="text1">目前</span>
 <span class="text2">網站上有</span>
 
-<span class="text3"><a href="/hotnews/click">7198</a></span>
+<span class="text3"><a href="/hotnews/click">3003</a></span>
 
 <span class="text4">位使用者</span><span class="text5">Power By GA</span></div>
  
@@ -496,7 +496,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 
 <script type="text/javascript">
     var ctmid = "";
-    var ctrwdArr = new Array("focus", "realtimenews", "newspapers", "star", "sports", "photo-app", "ivoting", "newsblog", "mag", "tv", "money");
+    var ctrwdArr = new Array("focus", "realtimenews", "newspapers", "star", "sports", "photo-app", "ivoting", "newsblog", "mag", "tv", "money", "event");
     function rwdmenu() {
         var ctrwdcss2 = "";
         var ctrwdcss = $('#menulist').attr("class");
@@ -576,6 +576,22 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     <div class="rwdsearchicon"  onclick="javascript:rwdsearch();"><i class="fa fa-search fa-2x"></i></div>
     <div id="menulist" class="menulist clear-fix">
       <ul>
+
+        <li id="menu_event" class="menu event sub clear-fix on"><a class="icon" href="/vote2016/" title="2016大選">2016大選專區</a>
+          <div class="submenu event_submenu">
+            <ul class="clear-fix">
+              <li><a href="/vote2016/">2016大選首頁</a></li>
+              <li><a href="/vote2016/president/">總統大選開票</a></li>
+              <li><a href="/vote2016/legislator/">立委即時開票</a></li>
+              <li><a href="/vote2016/party/">政黨數據明細</a></li>
+              <li><a href="/vote2016/county/">各縣市數據概況</a></li>
+              <li><a href="/vote2016/polls/">媒體民調</a></li>
+              <li><a href="/vote2016/history/">歷屆選舉資料</a></li>
+              <li><a href="/vote2016/result/">當選人名單</a></li>
+            </ul>
+          </div>
+        </li>
+
         <li id="menu_focus" class="menu focus sub clear-fix"><a class="icon" href="http://www.chinatimes.com/focus/260501" title="速覽">速覽</a>
           <div class="submenu focus_submenu">
             <ul class="clear-fix">
@@ -812,13 +828,81 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115006019-260401">
+              <a href="http://www.chinatimes.com/newspapers/20160118000288-260102">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884942637165474.jpg?sdate=201601152319" title="朱立倫:泛藍團結不會失敗" alt="朱立倫:泛藍團結不會失敗">
-                <h1>朱立倫:泛藍團結不會失敗</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886902043974990.jpg?sdate=201601180604" title="大選3天後 綠執政火車開動" alt="大選3天後 綠執政火車開動">
+                <h1>大選3天後 綠執政火車開動</h1>
                 <span></span></a>
                 
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115006019-260401" title="點閱數">4491</a></div>
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000288-260102" title="點閱數">3197</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000288, 260102);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000308-260102">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886903500549548.jpg?sdate=201601180604" title="小英忍心讓人民多等4個月?" alt="小英忍心讓人民多等4個月?">
+                <h1>小英忍心讓人民多等4個月?</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000308-260102" title="點閱數">2594</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000308, 260102);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000320-260102">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886905250248621.jpg?sdate=201601180604" title="非典第一家庭 女主人+2貓咪" alt="非典第一家庭 女主人+2貓咪">
+                <h1>非典第一家庭 女主人+2貓咪</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000320-260102" title="點閱數">1058</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000320, 260102);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000376-260109">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886906079546078.jpg?sdate=201601180604" title="觀點》少女‧台獨‧迴旋曲" alt="觀點》少女‧台獨‧迴旋曲">
+                <h1>觀點》少女‧台獨‧迴旋曲</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000376-260109" title="點閱數">1578</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000376, 260109);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000295-260102">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-17/656/B08A00_P_01_02.JPG?sdate=201601180604" title="藍粉心死冷漠如冰 不敗也難" alt="藍粉心死冷漠如冰 不敗也難">
+                <h1>藍粉心死冷漠如冰 不敗也難</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000295-260102" title="點閱數">1950</a></div>
                  
                   </li>
  
@@ -827,13 +911,30 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115005540-260401">
+              <a href="http://www.chinatimes.com/newspapers/20160118000649-260301">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884867574045632.jpg?sdate=201601152319" title="選前最後催票 馬九十度鞠躬" alt="選前最後催票 馬九十度鞠躬">
-                <h1>選前最後催票 馬九十度鞠躬</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886911480899565.jpg?sdate=201601180604" title="劉泰英:藍敗在沒做青年功課" alt="劉泰英:藍敗在沒做青年功課">
+                <h1>劉泰英:藍敗在沒做青年功課</h1>
                 <span></span></a>
                 
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115005540-260401" title="點閱數">12319</a></div>
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000649-260301" title="點閱數">1048</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000649, 260301);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000311-260102">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886868413591921.jpg?sdate=201601180604" title="立院龍頭 民進黨派系有盤算" alt="立院龍頭 民進黨派系有盤算">
+                <h1>立院龍頭 民進黨派系有盤算</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000311-260102" title="點閱數">823</a></div>
                  
                   </li>
  
@@ -842,12 +943,13 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://goo.gl/tPn1OW" target="_blank" rel="nofollow">
-              
-              
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884456849348232.jpg?sdate=201601152319" title="星展星富貸 利率2.68%起" alt="星展星富貸 利率2.68%起">
-                <h1>星展星富貸 利率2.68%起</h1>
+              <a href="http://www.chinatimes.com/newspapers/20160118000344-260102">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/656/20160118000826.jpg?sdate=201601180604" title="邱復生3策略 重塑經濟競爭力 " alt="邱復生3策略 重塑經濟競爭力 ">
+                <h1>邱復生3策略 重塑經濟競爭力 </h1>
                 <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000344-260102" title="點閱數">726</a></div>
                  
                   </li>
  
@@ -856,13 +958,64 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115005833-260407">
+              <a href="http://www.chinatimes.com/newspapers/20160118000478-260110">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005836.jpg?sdate=201601152319" title="催票 蔡英文:這是生存保衛戰" alt="催票 蔡英文:這是生存保衛戰">
-                <h1>催票 蔡英文:這是生存保衛戰</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886906995267686.jpg?sdate=201601180604" title="選後台股繫兩岸 恐先黑後彈" alt="選後台股繫兩岸 恐先黑後彈">
+                <h1>選後台股繫兩岸 恐先黑後彈</h1>
                 <span></span></a>
                 
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115005833-260407" title="點閱數">1443</a></div>
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000478-260110" title="點閱數">219</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000478, 260110);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000374-260109">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886908992383194.jpg?sdate=201601180604" title="時代力量是關鍵或尾巴政黨?" alt="時代力量是關鍵或尾巴政黨?">
+                <h1>時代力量是關鍵或尾巴政黨?</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000374-260109" title="點閱數">823</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000374, 260109);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000335-260102">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886908040781523.jpg?sdate=201601180604" title="卜睿哲談兩岸 以希望而非恐懼" alt="卜睿哲談兩岸 以希望而非恐懼">
+                <h1>卜睿哲談兩岸 以希望而非恐懼</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000335-260102" title="點閱數">384</a></div>
+                
+                  <a href="javascript:idx_relate(20160118000335, 260102);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000494-260112">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/656/BBC100_P_03_01.JPG?sdate=201601180604" title="《康熙》4大哭點今重現" alt="《康熙》4大哭點今重現">
+                <h1>《康熙》4大哭點今重現</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000494-260112" title="點閱數">365</a></div>
                  
                   </li>
  
@@ -871,13 +1024,30 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115006013-260404">
+              <a href="http://www.chinatimes.com/realtimenews/20160117003798-260404">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115006020.jpg?sdate=201601152319" title="周子瑜素顏道歉 我是中國人" alt="周子瑜素顏道歉 我是中國人">
-                <h1>周子瑜素顏道歉 我是中國人</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886686847369017.jpg?sdate=201601180604" title="白狼張安樂：堅持保護黃安" alt="白狼張安樂：堅持保護黃安">
+                <h1>白狼張安樂：堅持保護黃安</h1>
                 <span></span></a>
                 
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115006013-260404" title="點閱數">11748</a></div>
+                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160117003798-260404" title="點閱數">28078</a></div>
+                
+                  <a href="javascript:idx_relate(20160117003798, 260404);" class="related_news"><span></span>相關議題</a>
+                   
+                  </li>
+ 
+                
+
+                
+              <li>
+               
+              <a href="http://www.chinatimes.com/newspapers/20160118000466-260111">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886911108370911.jpg?sdate=201601180604" title="劉錚切翻裕隆 台啤斬斷3連敗" alt="劉錚切翻裕隆 台啤斬斷3連敗">
+                <h1>劉錚切翻裕隆 台啤斬斷3連敗</h1>
+                <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000466-260111" title="點閱數">139</a></div>
                  
                   </li>
  
@@ -886,13 +1056,13 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115004648-260404">
+              <a href="http://www.chinatimes.com/newspapers/20160118000470-260111">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884815474790125.jpg?sdate=201601152319" title="王尚智：該有人收拾黃安了" alt="王尚智：該有人收拾黃安了">
-                <h1>王尚智：該有人收拾黃安了</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/656/BS2A00_P_03_02.JPG?sdate=201601180604" title="蕭美玉帶傷衝 奪世錦賽門票" alt="蕭美玉帶傷衝 奪世錦賽門票">
+                <h1>蕭美玉帶傷衝 奪世錦賽門票</h1>
                 <span></span></a>
                 
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115004648-260404" title="點閱數">77214</a></div>
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000470-260111" title="點閱數">103</a></div>
                  
                   </li>
  
@@ -901,13 +1071,13 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115005971-260407">
+              <a href="http://www.chinatimes.com/newspapers/20160118000381-260106">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884934109254495.jpg?sdate=201601152319" title="宋楚瑜:放下藍綠 不含恨含淚" alt="宋楚瑜:放下藍綠 不含恨含淚">
-                <h1>宋楚瑜:放下藍綠 不含恨含淚</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/656/B12A00_P_01_01.JPG?sdate=201601180604" title="北市3線道禁行機車 將放寬" alt="北市3線道禁行機車 將放寬">
+                <h1>北市3線道禁行機車 將放寬</h1>
                 <span></span></a>
                 
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115005971-260407" title="點閱數">1595</a></div>
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000381-260106" title="點閱數">400</a></div>
                  
                   </li>
  
@@ -916,12 +1086,13 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://goo.gl/EMQo8z" target="_blank" rel="nofollow">
-              
-              
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884458077226389.jpg?sdate=201601152319" title="大選明開票 中時電子報即時看" alt="大選明開票 中時電子報即時看">
-                <h1>大選明開票 中時電子報即時看</h1>
+              <a href="http://www.chinatimes.com/newspapers/20160118000357-260108">
+                
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886909600160262.jpg?sdate=201601180604" title="核協議 歐美解除制裁伊朗" alt="核協議 歐美解除制裁伊朗">
+                <h1>核協議 歐美解除制裁伊朗</h1>
                 <span></span></a>
+                
+                <div class="click"><a href="http://www.chinatimes.com/newspapers/20160118000357-260108" title="點閱數">225</a></div>
                  
                   </li>
  
@@ -930,13 +1101,13 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115005866-260401">
+              <a href="http://www.chinatimes.com/realtimenews/20160117002402-260408">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005917.jpg?sdate=201601152319" title="郭瑤琪罹癌 獲准保外就醫" alt="郭瑤琪罹癌 獲准保外就醫">
-                <h1>郭瑤琪罹癌 獲准保外就醫</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886352610229960.jpg?sdate=201601180604" title="喝什麼酒 要用什麼杯?" alt="喝什麼酒 要用什麼杯?">
+                <h1>喝什麼酒 要用什麼杯?</h1>
                 <span></span></a>
                 
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115005866-260401" title="點閱數">8992</a></div>
+                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160117002402-260408" title="點閱數">14835</a></div>
                  
                   </li>
  
@@ -945,147 +1116,11 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 
               <li>
                
-              <a href="http://www.chinatimes.com/realtimenews/20160115006142-260408">
+              <a href="https://lecoin.chinatimes.com/story/230">
                 
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115006145.jpg?sdate=201601152319" title="道瓊開盤 一度大跌逾400點" alt="道瓊開盤 一度大跌逾400點">
-                <h1>道瓊開盤 一度大跌逾400點</h1>
+              <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886842973535238.jpg?sdate=201601180604" title="開心阿花阿嬤 點綴自我生命" alt="開心阿花阿嬤 點綴自我生命">
+                <h1>開心阿花阿嬤 點綴自我生命</h1>
                 <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115006142-260408" title="點閱數">28</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/realtimenews/20160115005721-260408">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005811.jpg?sdate=201601152319" title="美軍機相撞 12機組員恐罹難" alt="美軍機相撞 12機組員恐罹難">
-                <h1>美軍機相撞 12機組員恐罹難</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115005721-260408" title="點閱數">6638</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/realtimenews/20160115004662-260401">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884712143016632.jpg?sdate=201601152319" title="情殺案張彥文一審無期徒刑" alt="情殺案張彥文一審無期徒刑">
-                <h1>情殺案張彥文一審無期徒刑</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115004662-260401" title="點閱數">10802</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/realtimenews/20160115004219-260402">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884766837180697.jpg?sdate=201601152319" title="不滿鄭捷過太爽 傳獄友想下毒" alt="不滿鄭捷過太爽 傳獄友想下毒">
-                <h1>不滿鄭捷過太爽 傳獄友想下毒</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115004219-260402" title="點閱數">10854</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://goo.gl/mDCHVK" target="_blank" rel="nofollow">
-              
-              
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-12/Miscellaneous/h20160112635881897607289161.jpg?sdate=201601152319" title="人氣旺旺福袋免費抽！" alt="人氣旺旺福袋免費抽！">
-                <h1>人氣旺旺福袋免費抽！</h1>
-                <span></span></a>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/realtimenews/20160115004005-260408">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884706540110791.jpg?sdate=201601152319" title="美解除石油出口禁令 將輸中" alt="美解除石油出口禁令 將輸中">
-                <h1>美解除石油出口禁令 將輸中</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115004005-260408" title="點閱數">17378</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/realtimenews/20160115004088-260410">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884667012605365.jpg?sdate=201601152319" title="謝金河: 今年最猛黑天鵝是..." alt="謝金河: 今年最猛黑天鵝是...">
-                <h1>謝金河: 今年最猛黑天鵝是...</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115004088-260410" title="點閱數">28930</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/broadcast/20160115002502-260726">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884541852649533.jpg?sdate=201601152319" title="蔣經國閉眼25秒驚 太好吃了" alt="蔣經國閉眼25秒驚 太好吃了">
-                <h1>蔣經國閉眼25秒驚 太好吃了</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/broadcast/20160115002502-260726" title="點閱數">26598</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/realtimenews/20160115002153-260403">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884850314799318.jpg?sdate=201601152319" title="豪小子 偷拍隊友睡相上傳" alt="豪小子 偷拍隊友睡相上傳">
-                <h1>豪小子 偷拍隊友睡相上傳</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/realtimenews/20160115002153-260403" title="點閱數">9681</a></div>
-                 
-                  </li>
- 
-                
-
-                
-              <li>
-               
-              <a href="http://www.chinatimes.com/broadcast/20160114005388-260726">
-                
-              <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884348022465088.jpg?sdate=201601152319" title="忘年戀! 原以為王石不愛女人" alt="忘年戀! 原以為王石不愛女人">
-                <h1>忘年戀! 原以為王石不愛女人</h1>
-                <span></span></a>
-                
-                <div class="click"><a href="http://www.chinatimes.com/broadcast/20160114005388-260726" title="點閱數">6026</a></div>
                  
                   </li>
  
@@ -1162,6 +1197,19 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     </div>
 </div>
 
+<section class="vote2016_quicklink clear-fix">
+        <h1>2016大選懶人包</h1>
+        <article>
+                <ul class="clear-fix">
+                <li><a href="/vote2016/president/">總統開票</a></li>
+                <li><a href="/vote2016/legislator/">立委開票</a></li>
+                <li><a href="/vote2016/party/">政黨數據</a></li>
+                <li><a href="/vote2016/county/">縣市數據</a></li>
+            </ul>
+        </article>
+    </section>
+
+
      
  <section class="idx_real_tab clear-fix">
 
@@ -1171,90 +1219,90 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 
         
         <ul>
-       <li class="clear-fix"><div class="kindof real-260407"><a href="/realtimenews/260407">政治</a>
+       <li class="clear-fix"><div class="kindof real-260412"><a href="/realtimenews/260412">科技</a>
             </div>
             
-            <h2><a href="/realtimenews/20160115006090-260407" >宋：打破瓶頸 創憲政慣例</a></h2>
+            <h2><a href="/realtimenews/20160118000832-260412" >Google拍出超萌街景地圖</a></h2>
              
                 <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 22:57"><span class="h">22:57</span></time>
-              <div class="click">點閱：<span>111</span></div> 
+              <time datetime="2016/01/18 04:27"><span class="h">04:27</span></time>
+              <div class="click">點閱：<span>694</span></div> 
                </div>
              
           </li>
-<li class="clear-fix"><div class="kindof real-260401"><a href="/realtimenews/260401">焦點</a>
+<li class="clear-fix"><div class="kindof real-260405"><a href="/realtimenews/260405">生活</a>
             </div>
             
-            <h2><a href="/realtimenews/20160115006075-260401" >凱道造勢 蔡:改變 1票不能少</a></h2>
+            <h2><a href="/realtimenews/20160118000823-260405" >夫妻作息不一 有助婚姻？</a></h2>
              
                 <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 22:40"><span class="h">22:40</span></time>
-              <div class="click">點閱：<span>348</span></div> 
+              <time datetime="2016/01/18 04:16"><span class="h">04:16</span></time>
+              <div class="click">點閱：<span>616</span></div> 
+               </div>
+             
+          </li>
+<li class="clear-fix"><div class="kindof real-260405"><a href="/realtimenews/260405">生活</a>
+            </div>
+            
+            <h2><a href="/realtimenews/20160118000827-260405" >去健身房有助尋找真愛？</a></h2>
+             
+                <div class="rt_info clear-fix"><span class="icon_16x16"></span>
+              <time datetime="2016/01/18 04:20"><span class="h">04:20</span></time>
+              <div class="click">點閱：<span>574</span></div> 
                </div>
              
           </li>
 <li class="clear-fix"><div class="kindof real-260407"><a href="/realtimenews/260407">政治</a>
             </div>
             
-            <h2><a href="/realtimenews/20160115006003-260407" >柯P挺老柯 選前之夜合唱造勢</a></h2>
+            <h2><a href="/realtimenews/20160117003800-260407" >預防性外交 美前副卿抵台</a></h2>
              
                 <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 22:09"><span class="h">22:09</span></time>
-              <div class="click">點閱：<span>584</span></div> 
+              <time datetime="2016/01/17 23:37"><span class="h">23:37</span></time>
+              <div class="click">點閱：<span>4012</span></div> 
                </div>
              
           </li>
 <li class="clear-fix"><div class="kindof real-260407"><a href="/realtimenews/260407">政治</a>
             </div>
             
-            <h2><a href="/realtimenews/20160115005812-260407" >洪秀柱:讓朱當選 做牛做馬</a></h2>
+            <h2><a href="/realtimenews/20160117003775-260407" >沙雕小英總統 成品撞臉管媽</a></h2>
              
                 <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 21:09"><span class="h">21:09</span></time>
-              <div class="click">點閱：<span>3121</span></div> 
+              <time datetime="2016/01/17 23:00"><span class="h">23:00</span></time>
+              <div class="click">點閱：<span>2883</span></div> 
+               </div>
+             
+          </li>
+<li class="clear-fix"><div class="kindof real-260407"><a href="/realtimenews/260407">政治</a>
+            </div>
+            
+            <h2><a href="/realtimenews/20160117003788-260407" >楊麗環遞狀驗票 地院大陣仗...</a></h2>
+             
+                <div class="rt_info clear-fix"><span class="icon_16x16"></span>
+              <time datetime="2016/01/17 22:49"><span class="h">22:49</span></time>
+              <div class="click">點閱：<span>3980</span></div> 
                </div>
              
           </li>
 <li class="clear-fix"><div class="kindof real-260409"><a href="/realtimenews/260409">兩岸</a>
             </div>
             
-            <h2><a href="/realtimenews/20160115005693-260409" >羊羔酒 諸葛亮、雍正都很愛</a></h2>
+            <h2><a href="/realtimenews/20160117003726-260409" >陸學者嗆黃安沒種:統你個鬼!</a></h2>
              
                 <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 20:37"><span class="h">20:37</span></time>
-              <div class="click">點閱：<span>2419</span></div> 
-               </div>
-             
-          </li>
-<li class="clear-fix"><div class="kindof real-260407"><a href="/realtimenews/260407">政治</a>
-            </div>
-            
-            <h2><a href="/realtimenews/20160115005630-260407" >民眾比中指 林國春不計較</a></h2>
-             
-                <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 20:07"><span class="h">20:07</span></time>
-              <div class="click">點閱：<span>3106</span></div> 
+              <time datetime="2016/01/17 22:00"><span class="h">22:00</span></time>
+              <div class="click">點閱：<span>19959</span></div> 
                </div>
              
           </li>
 <li class="clear-fix"><div class="kindof real-ad2">焦點
             </div>
             
-            <h2><a href="http://goo.gl/jRl4wk" target="_blank" rel="nofollow">看乖孫照片 爺奶過年靠它</a></h2>
+            <h2><a href="http://goo.gl/0On9wT " target="_blank" rel="nofollow">強運! 刮中百萬返鄉過年</a></h2>
              
                 <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 17:00"><span class="h">17:00</span></time>
-              
-               </div>
-             
-          </li>
-<li class="clear-fix"><div class="kindof real-ad2">焦點
-            </div>
-            
-            <h2><a href="http://goo.gl/sHdKN8" target="_blank" rel="nofollow">星展豐盛理財享尊榮旅遊禮遇</a></h2>
-             
-                <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 17:00"><span class="h">17:00</span></time>
+              <time datetime="2016/01/18 00:00"><span class="h">00:00</span></time>
               
                </div>
              
@@ -1278,28 +1326,28 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         <a class="rwdtitle" href="/star/news/"><header class="clear-fix"><h4>影視即時通</h4><span></span></header></a>
 
         <ul>
-        <li class="clear-fix pic"><div class="pic"><a href="/realtimenews/20160115006122-260404"><img src="/newsphoto/2016-01-15/450/20160115006129.jpg" alt="周子瑜被迫道歉，讓律師呂秋遠氣憤。(取自YouTube)" title="周子瑜被迫道歉，讓律師呂秋遠氣憤。(取自YouTube)"></a></div>
-          	<h2> <a href="/realtimenews/20160115006122-260404" class="">子瑜逼道歉 他轟欺人太甚</a></h2>
+        <li class="clear-fix pic"><div class="pic"><a href="/newspapers/20160118000507-260112"><img src="/newsphoto/2016-01-18/450/BBC200_P_04_02.JPG" alt="小鐘咬不斷炸蟑螂，面帶驚恐地將牠分成好幾截吃掉。" title="小鐘咬不斷炸蟑螂，面帶驚恐地將牠分成好幾截吃掉。"></a></div>
+          	<h2> <a href="/newspapers/20160118000507-260112" class="">小鐘寮國硬嘗大蟑螂牛屎湯</a></h2>
             <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 23:03"><span class="h">23:03</span></time>
+              <time datetime="2016/01/18 01:38"><span class="h">01:38</span></time>
                 
-              <div class="click">點閱：<span>1254</span></div>
+              <div class="click">點閱：<span>235</span></div>
                
             </div></li>
          <li class="clear-fix">
-          	<h2> <a href="/realtimenews/20160115006014-260404" class="">靠友協助 小馬婚紗照曝光</a></h2>
+          	<h2> <a href="/newspapers/20160118000487-260112" class="">林佑威被罵奶嘴男當肯定</a></h2>
             <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 22:13"><span class="h">22:13</span></time>
+              <time datetime="2016/01/18 01:38"><span class="h">01:38</span></time>
                 
-              <div class="click">點閱：<span>744</span></div>
+              <div class="click">點閱：<span>196</span></div>
                
             </div></li>
          <li class="clear-fix">
-          	<h2> <a href="/realtimenews/20160115005864-260404" class="">千億媳婦宣布封肚:不生啦</a></h2>
+          	<h2> <a href="/newspapers/20160118000491-260112" class="">瑤瑤銀閃閃露腰見偶像</a></h2>
             <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 21:27"><span class="h">21:27</span></time>
+              <time datetime="2016/01/18 01:38"><span class="h">01:38</span></time>
                 
-              <div class="click">點閱：<span>3396</span></div>
+              <div class="click">點閱：<span>271</span></div>
                
             </div></li>
          
@@ -1313,28 +1361,28 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         <a class="rwdtitle" href="/sports/"><header class="clear-fix"><h4>運動特快車</h4><span></span></header></a>
 
         <ul>
-        <li class="clear-fix pic"><div class="pic"><a href="/realtimenews/20160115006078-260403"><img src="/newsphoto/2016-01-15/450/20160115006080.jpg" alt="勇士隊後衛吳永仁（左）切入禁區，遭到台銀洋將奈維爾（中）阻攔。（圖／中華籃協提供）" title="勇士隊後衛吳永仁（左）切入禁區，遭到台銀洋將奈維爾（中）阻攔。（圖／中華籃協提供）"></a></div>
-          	<h2> <a href="/realtimenews/20160115006078-260403" class="">貝倫延長賽9分 勇士3連勝</a></h2>
+        <li class="clear-fix pic"><div class="pic"><a href="/newspapers/20160118000468-260111"><img src="/newsphoto/2016-01-18/450/BS2A00_P_02_02.JPG" alt="林書豪昨拿全隊最高15分，另有3抄截，可惜黃蜂三分火力失靈，吞下最近10戰的第9敗。（法新社）" title="林書豪昨拿全隊最高15分，另有3抄截，可惜黃蜂三分火力失靈，吞下最近10戰的第9敗。（法新社）"></a></div>
+          	<h2> <a href="/newspapers/20160118000468-260111" class="">黃蜂3分失靈 最近10場9敗</a></h2>
             <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 22:42"><span class="h">22:42</span></time>
+              <time datetime="2016/01/18 04:11"><span class="h">04:11</span></time>
                 
-              <div class="click">點閱：<span>69</span></div>
+              <div class="click">點閱：<span>90</span></div>
                
             </div></li>
          <li class="clear-fix">
-          	<h2> <a href="/realtimenews/20160115005642-260403" class="">周儀翔補籃 達欣險勝台啤</a></h2>
+          	<h2> <a href="/newspapers/20160118000466-260111" class="">劉錚切翻裕隆 台啤起伏大</a></h2>
             <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 20:11"><span class="h">20:11</span></time>
+              <time datetime="2016/01/18 04:11"><span class="h">04:11</span></time>
                 
-              <div class="click">點閱：<span>502</span></div>
+              <div class="click">點閱：<span>146</span></div>
                
             </div></li>
          <li class="clear-fix">
-          	<h2> <a href="/realtimenews/20160115004801-260403" class="">布萊恩簽名鞋送勇士格林</a></h2>
+          	<h2> <a href="/newspapers/20160118000474-260111" class="">皇家簽甘迺迪 影響建仔</a></h2>
             <div class="rt_info clear-fix"><span class="icon_16x16"></span>
-              <time datetime="2016/01/15 16:38"><span class="h">16:38</span></time>
+              <time datetime="2016/01/18 04:11"><span class="h">04:11</span></time>
                 
-              <div class="click">點閱：<span>2440</span></div>
+              <div class="click">點閱：<span>107</span></div>
                
             </div></li>
          
@@ -1368,33 +1416,33 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         <div class="clumn1">
             <ul>
                 <li class="clear-fix">
-                    <h2><a href="http://www.chinatimes.com/realtimenews/20160115002723-260401">馬挺朱:所有批評我負擔</a></h2>
+                    <h2><a href="http://www.chinatimes.com/newspapers/20160118000314-260102">宋:台灣關鍵字─合作</a></h2>
                     <div class="pic_100x100">
-                        <a href="http://www.chinatimes.com/realtimenews/20160115002723-260401"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884876694133651.jpg" title="馬挺朱:所有批評我負擔"
-                            alt="馬挺朱:所有批評我負擔" /></a></div>
-                    <p>選戰剩下最後不到24小時，馬英九總統一...</p>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000314-260102"><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886882105267969.jpg" title="宋:台灣關鍵字─合作"
+                            alt="宋:台灣關鍵字─合作" /></a></div>
+                    <p>親民黨未來在立法院將扮演關鍵角色，面...</p>
                      
-                    <time id="th1"></time><script>                                                         IdxupT("th1", new Date("2016/01/15 20:48:00"));</script>
+                    <time id="th1"></time><script>                                                         IdxupT("th1", new Date("2016/01/18 04:59:49"));</script>
                
                 </li>
                 
                 <li class="clear-fix">
-                    <h2><a href="http://www.chinatimes.com/realtimenews/20160115005306-260405">遭查稅 布丁嬤壓力大</a></h2>
+                    <h2><a href="http://www.chinatimes.com/newspapers/20160118000349-260106">苦情妻下藥 悶斃家暴夫</a></h2>
                     <div class="pic_100x100">
-                        <a href="http://www.chinatimes.com/realtimenews/20160115005306-260405"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884946877564922.jpg" title="遭查稅 布丁嬤壓力大"
-                            alt="遭查稅 布丁嬤壓力大" /></a></div>
-                    <p>高雄三姐弟布丁雖已歇業，但國稅局三民...</p>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000349-260106"><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886882424444530.jpg" title="苦情妻下藥 悶斃家暴夫"
+                            alt="苦情妻下藥 悶斃家暴夫" /></a></div>
+                    <p>彰化市驚傳殺夫！徐姓女子17日凌晨2點...</p>
                      
-                    <time id="th2"></time><script>                                                         IdxupT("th2", new Date("2016/01/15 22:43:56"));</script>
+                    <time id="th2"></time><script>                                                         IdxupT("th2", new Date("2016/01/18 04:59:51"));</script>
                
                 </li>
                 
                 <li class="clear-fix">
-                    <h2><a href="https://lecoin.chinatimes.com/story/237">姚元浩愛不落人後</a></h2>
+                    <h2><a href="https://lecoin.chinatimes.com/story/231">送愛要及時</a></h2>
                     <div class="pic_100x100">
-                        <a href="https://lecoin.chinatimes.com/story/237"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884632103800051.jpg" title="姚元浩愛不落人後"
-                            alt="姚元浩愛不落人後" /></a></div>
-                    <p>「我自已想要捐助的對象，其實我覺得很多……」，談...</p>
+                        <a href="https://lecoin.chinatimes.com/story/231"><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886849774055183.jpg" title="送愛要及時"
+                            alt="送愛要及時" /></a></div>
+                    <p>一進門阿嬤就跟我說：「人哪死過五天，肉應該攏爛...</p>
                    
                 </li>
                  </ul>
@@ -1402,31 +1450,32 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
         
         <div class="clumn2 clumn_pic">
             <div class="pic">
-                <a href="http://www.chinatimes.com/newspapers/20160115000442-260109"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884545218823445.jpg" title="庸醫惡診 拖累台灣"
-                    alt="庸醫惡診 拖累台灣" /></a></div>
+                <a href="http://www.chinatimes.com/newspapers/20160118000517-260112"><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886882720065049.jpg" title="左左右右集胸章 拚出國"
+                    alt="左左右右集胸章 拚出國" /></a></div>
             <div class="textbg">
             </div>
-            <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160115000442-260109">庸醫惡診 拖累台灣</a></h2>
+            <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160118000517-260112">左左右右集胸章 拚出國</a></h2>
         </div>
         
         <div class="clumn3">
             <ul>
                 <li class="clear-fix">
-                    <h2><a href="http://www.chinatimes.com/realtimenews/20160114001678-260403">陳偉殷新約 超級比一比</a></h2>
+                    <h2><a href="http://www.chinatimes.com/newspapers/20160118000796-260603">台股抗震 太陽能發光</a></h2>
                     <div class="pic_100x100">
-                        <a href="http://www.chinatimes.com/realtimenews/20160114001678-260403"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884912527708589.jpg" title="陳偉殷新約 超級比一比"
-                            alt="陳偉殷新約 超級比一比" /></a></div>
-                    <p>台日雙方「搶奪夏普大戰」進入PK延長賽...</p>
-                    <time id="th5"></time><script>                                                         IdxupT("th5", new Date("2016/01/15 21:46:26"));</script>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000796-260603"><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886847446687095.jpg" title="台股抗震 太陽能發光"
+                            alt="台股抗震 太陽能發光" /></a></div>
+                    <p>新年一到，台股就遭黑天鵝攪局，連4黑...</p>
+                    <time id="th5"></time><script>                                                         IdxupT("th5", new Date("2016/01/18 04:59:53"));</script>
                 </li>
                 
                 <li class="clear-fix">
-                    <h2><a href="http://astro.chinatimes.com/article.php?id=1912">日月水招財妙法</a></h2>
+                    <h2><a href="http://astro.chinatimes.com/article.php?id=1926">今日星座運勢</a></h2>
                     <div class="pic_100x100">
-                        <a href="http://astro.chinatimes.com/article.php?id=1912"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884841241667382.jpg" title="日月水招財妙法"
-                            alt="日月水招財妙法" /></a></div>
-                    <p>先準備空碗一隻，放置在陽臺、頂樓，放...</p>
-                    <time id="th6"></time><script>                                                         IdxupT("th6", new Date("2016/01/15 19:47:10"));</script>
+                        <a href="http://astro.chinatimes.com/article.php?id=1926"><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886850263584042.jpg" title="今日星座運勢"
+                            alt="今日星座運勢" /></a></div>
+                    <p>【牡羊座】
+事業、財運暢旺，能掌握先...</p>
+                    <time id="th6"></time><script>                                                         IdxupT("th6", new Date("2016/01/18 04:59:57"));</script>
                 </li>
                  </ul>
         </div>
@@ -1436,7 +1485,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 <li><span class="arr_l"></span>
                     <div class="kind">
                         焦點要聞</div>
-                    <h1><a href="http://www.chinatimes.com/realtimenews/20160114004578-260401">景為快評》別讓統獨交鋒 竟成恐怖鬧劇</a></h1>
+                    <h1><a href="http://www.chinatimes.com/newspapers/20160118000022-260202">北台灣3000億房市新案 選後湧推案潮</a></h1>
                     <span class="arr_r"></span></li>
             </ul>
             
@@ -1552,13 +1601,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                     
                     <div class="clumn1 clumn_pic clear-fix">
                         <div class="pic">
-                            <a href="http://www.chinatimes.com/realtimenews/20160115005450-260407">
-                                <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884897991291057.jpg" title="王如玄:努力到最後一分鐘" alt="王如玄:努力到最後一分鐘" /></a></div>
+                            <a href="http://www.chinatimes.com/newspapers/20160118000680-260301">
+                                <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886926782966442.jpg" title="白宮賀蔡英文勝選" alt="白宮賀蔡英文勝選" /></a></div>
                         <div class="textbg">
                         </div>
                         <h2 class="text">
-                            <a href="http://www.chinatimes.com/realtimenews/20160115005450-260407">
-                                王如玄:努力到最後一分鐘</a></h2>
+                            <a href="http://www.chinatimes.com/newspapers/20160118000680-260301">
+                                白宮賀蔡英文勝選</a></h2>
                     </div>
                     
                     <div class="clumn2">
@@ -1566,31 +1615,31 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                             
                             <li>
                                 <h2>
-                                    <a href="http://www.chinatimes.com/realtimenews/20160115005233-260407">
-                                        小英台中一路催票到三重</a></h2>
+                                    <a href="http://www.chinatimes.com/newspapers/20160118000663-260301">
+                                        張亞中：身分國族論述成蔡難題</a></h2>
                                 <div class="content clear-fix">
                                     <div class="pic">
-                                        <a href="http://www.chinatimes.com/realtimenews/20160115005233-260407">
-                                            <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884898584248099.jpg" title="小英台中一路催票到三重" alt="小英台中一路催票到三重" /></a></div>
+                                        <a href="http://www.chinatimes.com/newspapers/20160118000663-260301">
+                                            <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886923413828524.jpg" title="張亞中：身分國族論述成蔡難題" alt="張亞中：身分國族論述成蔡難題" /></a></div>
                                     <p>
-                                        選前最後一天，民進黨總統候選人蔡英文今天進行全臺大掃街，高喊「最後這一里，不能沒有你！」口號催票，上午從臺中出發，一路向北經苗栗、新...</p>
+                                        「時代力量成為國會第三大黨，我認為，兩岸完美風暴已經形成。」台灣大學教授張亞中在「選後兩岸關係展望座談會」上指出，從1994年開始，國民...</p>
                                     <time id="ts12">
-                                    </time><script>                                               IdxupT("ts12", new Date("2016/01/15 21:21:33"));</script>
+                                    </time><script>                                               IdxupT("ts12", new Date("2016/01/18 05:35:06"));</script>
                                 </div>
                             </li>
                             
                             <li>
                                 <h2>
-                                    <a href="http://www.chinatimes.com/realtimenews/20160115005666-260407">
-                                        宋楚瑜選前之夜 風雨無阻</a></h2>
+                                    <a href="http://www.chinatimes.com/newspapers/20160118000293-260102">
+                                        國民黨青年中常委：世代交替</a></h2>
                                 <div class="content clear-fix">
                                     <div class="pic">
-                                        <a href="http://www.chinatimes.com/realtimenews/20160115005666-260407">
-                                            <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884899017772860.jpg" title="宋楚瑜選前之夜 風雨無阻" alt="宋楚瑜選前之夜 風雨無阻" /></a></div>
+                                        <a href="http://www.chinatimes.com/newspapers/20160118000293-260102">
+                                            <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886923099019971.jpg" title="國民黨青年中常委：世代交替" alt="國民黨青年中常委：世代交替" /></a></div>
                                     <p>
-                                        親民黨總統候選人宋楚瑜與民國黨副總統候選人徐欣瑩「宋瑩配」，今晚7時在台北田徑場舉行選前之夜造勢晚會，現場準備1萬3千個座位，風雨無阻...</p>
+                                        國民黨面臨史上最嚴重挫敗，黨內要求世代交替、改革聲浪再起。據悉，今天下午的臨時中常會，青年團和青工系統的年輕中常委，將提出「黨務改造...</p>
                                     <time id="ts13">
-                                    </time><script>                                               IdxupT("ts13", new Date("2016/01/15 21:20:10"));</script>
+                                    </time><script>                                               IdxupT("ts13", new Date("2016/01/18 05:33:27"));</script>
                                 </div>
                             </li>
                             
@@ -1600,43 +1649,43 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                         <ul>
                             
                             <li class="clear-fix"><span>
-                                <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884717301477692.jpg" title="王睽違40年站街頭" alt="王睽違40年站街頭"
+                                <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886922145546296.jpg" title="當選新秀謝票" alt="當選新秀謝票"
                                     width="80" height="80" /></span>
                                 <h3>
-                                    <a href="http://www.chinatimes.com/realtimenews/20160115004522-260407">
-                                        王睽違40年站街頭</a></h3>
+                                    <a href="http://www.chinatimes.com/newspapers/20160118000402-260107">
+                                        當選新秀謝票</a></h3>
                                 <p>
-                                    立法院長王金平上午回故鄉高雄固票，清晨7...</p>
+                                    立委選舉結果前天揭曉，國民黨北市新科立委...</p>
                             </li>
                             
                             <li class="clear-fix"><span>
-                                <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884718720144184.jpg" title="陳歐珀車隊掃街拜票" alt="陳歐珀車隊掃街拜票"
+                                <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886922407314756.jpg" title="蕭美琴謝票不入閣" alt="蕭美琴謝票不入閣"
                                     width="80" height="80" /></span>
                                 <h3>
-                                    <a href="http://www.chinatimes.com/realtimenews/20160115003645-260407">
-                                        陳歐珀車隊掃街拜票</a></h3>
+                                    <a href="http://www.chinatimes.com/newspapers/20160118000447-260107">
+                                        蕭美琴謝票不入閣</a></h3>
                                 <p>
-                                    宜蘭縣民進黨立委候選人陳歐珀今(15日)動員...</p>
+                                    成功翻轉花蓮，大贏國民黨近1.2萬票的民進...</p>
                             </li>
                             
                             <li class="clear-fix"><span>
-                                <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884719016544705.jpg" title="盧秀燕抱病上陣" alt="盧秀燕抱病上陣"
+                                <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886923745641107.jpg" title="小英古厝變景點" alt="小英古厝變景點"
                                     width="80" height="80" /></span>
                                 <h3>
-                                    <a href="http://www.chinatimes.com/realtimenews/20160115003803-260407">
-                                        盧秀燕抱病上陣</a></h3>
+                                    <a href="http://www.chinatimes.com/newspapers/20160118000322-260102">
+                                        小英古厝變景點</a></h3>
                                 <p>
-                                    選前一天，國民黨台中市第五選區立委候選人...</p>
+                                    經過選舉一夜激情，楓港從主席故鄉成為總統...</p>
                             </li>
                             
                             <li class="clear-fix"><span>
-                                <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884721984761918.jpg" title="顏寬恒徒步固樁" alt="顏寬恒徒步固樁"
+                                <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886922845519526.jpg" title="橘營向綠靠攏?" alt="橘營向綠靠攏?"
                                     width="80" height="80" /></span>
                                 <h3>
-                                    <a href="http://www.chinatimes.com/realtimenews/20160115004669-260407">
-                                        顏寬恒徒步固樁</a></h3>
+                                    <a href="http://www.chinatimes.com/newspapers/20160118000318-260102">
+                                        橘營向綠靠攏?</a></h3>
                                 <p>
-                                    選戰最後衝刺，國民黨台中市第2選區立委候...</p>
+                                    2016新國會出爐，面對親民黨已和泛藍分道揚...</p>
                             </li>
                             
                         </ul>
@@ -1674,16 +1723,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                         <div class="content">
                           <div class="thumb-photo">
                                 <div class="cropper">
-                                    <a href="http://photo.chinatimes.com/20160115005325-260813" title="軍醫：比起M4我寧願被AK47打中"> <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005331.jpg" alt="軍醫：比起M4我寧願被AK47打中" class="photo"> </a>
+                                    <a href="http://photo.chinatimes.com/20160117002880-260812" title="揭密：皇帝初夜權 由這些人掌握著"> <img src="http://img.chinatimes.com/newsphoto/2016-01-17/656/20160117002884.jpg" alt="揭密：皇帝初夜權 由這些人掌握著" class="photo"> </a>
                                 </div>
                             </div>
                             <div class="overlay-bgn">
                                 <div class="info-wrapper">
                                     <div class="caption">
-                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160115005325-260813">軍醫：比起M4我寧願被AK47打中</a></h3>
+                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160117002880-260812">揭密：皇帝初夜權 由這些人掌握著</a></h3>
                                     </div>
                                     <div class="meta-info">
-                                        <div class="click"> 點閱：<span>14041</span> </div>
+                                        <div class="click"> 點閱：<span>19545</span> </div>
                                     </div>
                                 </div>
                             </div>
@@ -1694,16 +1743,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                         <div class="content">
                           <div class="thumb-photo">
                                 <div class="cropper">
-                                    <a href="http://photo.chinatimes.com/20160115005400-260809" title="拍照炫耀釣大魚 沒想到背後竟出現超可怕東西！"> <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005409.jpg" alt="拍照炫耀釣大魚 沒想到背後竟出現超可怕東西！" class="photo"> </a>
+                                    <a href="http://photo.chinatimes.com/20160117003344-260806" title="曾是記者也是製片人的她！現是中國「國民媳婦」"> <img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886622224723513.jpg" alt="曾是記者也是製片人的她！現是中國「國民媳婦」" class="photo"> </a>
                                 </div>
                             </div>
                             <div class="overlay-bgn">
                                 <div class="info-wrapper">
                                     <div class="caption">
-                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160115005400-260809">拍照炫耀釣大魚 沒想到背後竟出現超可怕東西！</a></h3>
+                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160117003344-260806">曾是記者也是製片人的她！現是中國「國民媳婦」</a></h3>
                                     </div>
                                     <div class="meta-info">
-                                        <div class="click"> 點閱：<span>4501</span> </div>
+                                        <div class="click"> 點閱：<span>7121</span> </div>
                                     </div>
                                 </div>
                             </div>
@@ -1714,16 +1763,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                         <div class="content">
                           <div class="thumb-photo">
                                 <div class="cropper">
-                                    <a href="http://photo.chinatimes.com/20160115005816-260807" title="驚爆！當年勇士不選科比內幕"> <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005819.jpg" alt="驚爆！當年勇士不選科比內幕" class="photo"> </a>
+                                    <a href="http://photo.chinatimes.com/20160117003556-260809" title="古代的「滴血認親」科學嗎？"> <img src="http://img.chinatimes.com/newsphoto/2016-01-17/656/20160117003558.jpg" alt="古代的「滴血認親」科學嗎？" class="photo"> </a>
                                 </div>
                             </div>
                             <div class="overlay-bgn">
                                 <div class="info-wrapper">
                                     <div class="caption">
-                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160115005816-260807">驚爆！當年勇士不選科比內幕</a></h3>
+                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160117003556-260809">古代的「滴血認親」科學嗎？</a></h3>
                                     </div>
                                     <div class="meta-info">
-                                        <div class="click"> 點閱：<span>1779</span> </div>
+                                        <div class="click"> 點閱：<span>7087</span> </div>
                                     </div>
                                 </div>
                             </div>
@@ -1734,16 +1783,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                         <div class="content">
                           <div class="thumb-photo">
                                 <div class="cropper">
-                                    <a href="http://photo.chinatimes.com/20160115005916-260809" title="真的無極限！日本人把這東西印到絲襪上啦！"> <img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005958.jpg" alt="真的無極限！日本人把這東西印到絲襪上啦！" class="photo"> </a>
+                                    <a href="http://photo.chinatimes.com/20160117003245-260806" title="「四爺」原定不是吳奇隆？那些明星錯過的經典角色！"> <img src="http://img.chinatimes.com/newsphoto/2016-01-17/656/20160117003260.jpg" alt="「四爺」原定不是吳奇隆？那些明星錯過的經典角色！" class="photo"> </a>
                                 </div>
                             </div>
                             <div class="overlay-bgn">
                                 <div class="info-wrapper">
                                     <div class="caption">
-                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160115005916-260809">真的無極限！日本人把這東西印到絲襪上啦！</a></h3>
+                                        <h3 class="caption-title"><a href="http://photo.chinatimes.com/20160117003245-260806">「四爺」原定不是吳奇隆？那些明星錯過的經典角色！</a></h3>
                                     </div>
                                     <div class="meta-info">
-                                        <div class="click"> 點閱：<span>1005</span> </div>
+                                        <div class="click"> 點閱：<span>11183</span> </div>
                                     </div>
                                 </div>
                             </div>
@@ -1811,28 +1860,28 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                 
                 <li class="clear-fix">
                     <h2>
-                        <a href="http://newsblog.chinatimes.com/mayu1231/archive/42115">
-                            Stone Espresso Bar濃香茶蛋糕</a></h2>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000612-260113">
+                            情人節撞春節 餐廳加碼搶客</a></h2>
                     <div class="pic_100x100">
-                        <a href="http://newsblog.chinatimes.com/mayu1231/archive/42115">
-                            <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884887468604575.jpg" title="Stone Espresso Bar濃香茶蛋糕" alt="Stone Espresso Bar濃香茶蛋糕" /></a></div>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000612-260113">
+                            <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886908605502515.jpg" title="情人節撞春節 餐廳加碼搶客" alt="情人節撞春節 餐廳加碼搶客" /></a></div>
                     <p>
-                        永春站附近一向給人老舊的傳統市場,很住宅區,的印象</p>
+                        今年西洋情人節碰上春節連假，還是最後一天收假日，距離佳節不到一個月，飯店、餐...</p>
                     <time id="tt11">
-                    </time><script>                               IdxupT("tt11", new Date("2016/01/15 21:01:34"));</script>
+                    </time><script>                               IdxupT("tt11", new Date("2016/01/18 04:56:23"));</script>
                 </li>
                 
                 <li class="clear-fix">
                     <h2>
-                        <a href="http://www.chinatimes.com/realtimenews/20160115005202-260405">
-                            喜來登比薩屋 義大利香腸燉鍋</a></h2>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000608-260113">
+                            熱門糕點 超商春節伴手禮</a></h2>
                     <div class="pic_100x100">
-                        <a href="http://www.chinatimes.com/realtimenews/20160115005202-260405">
-                            <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884888172633812.jpg" title="喜來登比薩屋 義大利香腸燉鍋" alt="喜來登比薩屋 義大利香腸燉鍋" /></a></div>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000608-260113">
+                            <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886908738258748.jpg" title="熱門糕點 超商春節伴手禮" alt="熱門糕點 超商春節伴手禮" /></a></div>
                     <p>
-                        為了提供消費者有別傳統的啖鍋新選擇，更為了在寒冷的冬天以熱呼呼的暖食集客，台...</p>
+                        超商新春伴手禮，烘焙糕點、水果禮盒最熱門。7-11中村開運大四喜鮮奶蛋糕是暢銷的...</p>
                     <time id="tt12">
-                    </time><script>                               IdxupT("tt12", new Date("2016/01/15 21:00:32"));</script>
+                    </time><script>                               IdxupT("tt12", new Date("2016/01/18 04:55:52"));</script>
                 </li>
                 
             </ul>
@@ -1840,13 +1889,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
         <div class="clumn2 clumn_pic">
             
             <div class="pic">
-                <a href="http://www.chinatimes.com/realtimenews/20160115004909-260405">
-                    <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884888603662569.jpg" title="金酒推廣精緻品飲文化" alt="金酒推廣精緻品飲文化" /></a></div>
+                <a href="http://www.chinatimes.com/newspapers/20160118000601-260113">
+                    <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886908835758919.jpg" title="Outlet 百貨拚美食名店" alt="Outlet 百貨拚美食名店" /></a></div>
             <div class="textbg">
             </div>
             <h2 class="text">
-                <a href="http://www.chinatimes.com/realtimenews/20160115004909-260405">
-                    金酒推廣精緻品飲文化</a></h2>
+                <a href="http://www.chinatimes.com/newspapers/20160118000601-260113">
+                    Outlet 百貨拚美食名店</a></h2>
             
         </div>
         <div class="clumn3">
@@ -1856,24 +1905,24 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                 
                 <li>
                     <div class="pic_220x160">
-                        <a href="http://www.chinatimes.com/realtimenews/20160115001841-260405">
-                            <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884697863843552.jpg" title="養生段木香菇雞湯" alt="養生段木香菇雞湯" /></a></div>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000626-260113">
+                            <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886908509718346.jpg" title="世貿年貨大展鳴槍" alt="世貿年貨大展鳴槍" /></a></div>
                     <div class="textbg">
                     </div>
                     <h2 class="text">
-                        <a href="http://www.chinatimes.com/realtimenews/20160115001841-260405">
-                            養生段木香菇雞湯</a></h2>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000626-260113">
+                            世貿年貨大展鳴槍</a></h2>
                 </li>
                 
                 <li>
                     <div class="pic_220x160">
-                        <a href="http://www.chinatimes.com/newspapers/20160115000757-260113">
-                            <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884698104551975.jpg" title="國宴級火鍋飄香" alt="國宴級火鍋飄香" /></a></div>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000630-260113">
+                            <img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886908413310177.jpg" title="Hello Kitty佛跳牆" alt="Hello Kitty佛跳牆" /></a></div>
                     <div class="textbg">
                     </div>
                     <h2 class="text">
-                        <a href="http://www.chinatimes.com/newspapers/20160115000757-260113">
-                            國宴級火鍋飄香</a></h2>
+                        <a href="http://www.chinatimes.com/newspapers/20160118000630-260113">
+                            Hello Kitty佛跳牆</a></h2>
                 </li>
                 
             </ul>
@@ -1884,39 +1933,39 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
             <div class="clumn_box">
                 
                 <div class="pic_232x160">
-                    <a href="http://www.chinatimes.com/newspapers/20160115000738-260113">
-                        <img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884499618383352.jpg" title="鹹蛋黃漢堡 金沙開春" alt="鹹蛋黃漢堡 金沙開春" /></a></div>
+                    <a href="http://newsblog.chinatimes.com/highskyhighsky88/archive/42173">
+                        <img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886482963122913.jpg" title="網購美食 香草千層" alt="網購美食 香草千層" /></a></div>
                 <div class="textbg">
                 </div>
                 <h2 class="text">
-                    <a href="http://www.chinatimes.com/newspapers/20160115000738-260113">
-                        鹹蛋黃漢堡 金沙開春</a></h2>
+                    <a href="http://newsblog.chinatimes.com/highskyhighsky88/archive/42173">
+                        網購美食 香草千層</a></h2>
                 
             </div>
             <ul>
                 
                 <li class="clear-fix"><span class="icon_16x16"></span>
                     <h3>
-                        <a href="http://www.chinatimes.com/newspapers/20160115000326-260204">
-                            現烤半熟起司塔開賣</a></h3>
+                        <a href="http://www.chinatimes.com/realtimenews/20160117001905-260405">
+                            百元閱讀餐開賣</a></h3>
                 </li>
                 
                 <li class="clear-fix"><span class="icon_16x16"></span>
                     <h3>
-                        <a href="http://www.chinatimes.com/newspapers/20160115000759-260113">
-                            傳統國王派新出爐</a></h3>
+                        <a href="http://www.chinatimes.com/newspapers/20160116000310-260204">
+                            MIT清酒新裝釀商機</a></h3>
                 </li>
                 
                 <li class="clear-fix"><span class="icon_16x16"></span>
                     <h3>
-                        <a href="http://www.chinatimes.com/newspapers/20160115000138-260204">
-                            大人系巧克力熱賣</a></h3>
+                        <a href="http://www.chinatimes.com/newspapers/20160117000179-260210">
+                            全天然什穀堅果飲</a></h3>
                 </li>
                 
                 <li class="clear-fix"><span class="icon_16x16"></span>
                     <h3>
-                        <a href="http://newsblog.chinatimes.com/jade/archive/42098">
-                            石斑魚主題咖啡館</a></h3>
+                        <a href="http://www.chinatimes.com/newspapers/20160117000767-260117">
+                            猴年報喜 超商玩創意</a></h3>
                 </li>
                 
             </ul>
@@ -1938,10 +1987,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
               <ul>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/realtimenews/20160115005731-260408" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884896509600455.jpg" title="死了都要「吻」！巨浪當前仍要吻" alt="死了都要「吻」！巨浪當前仍要吻"></a></div>
-                  <h2><a href="http://www.chinatimes.com/realtimenews/20160115005731-260408" >死了都要「吻」！巨浪當前仍要吻</a></h2>
-                  <p>「問世間情為何物，直叫人生死相許」早在古時候就是一門令人不解的課題，至今仍被視為情侶熱戀時的宗旨，在澳洲...</p>
-                  <time id="tt31"></time><script>IdxupT("tt31", new Date("2016/01/15 21:18:14"));</script>
+                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160118000352-260106" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/330/B08A00_P_02_02.JPG" title="國道碰碰車 180度迴轉倒栽蔥" alt="國道碰碰車 180度迴轉倒栽蔥"></a></div>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000352-260106" >國道碰碰車 180度迴轉倒栽蔥</a></h2>
+                  <p>苗栗地區昨大雨不斷，34歲宋姓男子駕駛白色自小客車，近午時分行經國道1號苗栗銅鑼北上路段，疑變換車道不當加...</p>
+                  <time id="tt31"></time><script>IdxupT("tt31", new Date("2016/01/18 05:29:51"));</script>
                  </li>
                 
               </ul>
@@ -1951,50 +2000,50 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
               <ul>
               
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115002725-260408" >輕井澤巴士翻覆 旅行社社長致歉</a></h3>
-                  <time id="tt32"></time><script>IdxupT("tt32", new Date("2016/01/15 21:19:34"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000698-260309" >外資撤離陸房市 加劇信貸泡沫</a></h3>
+                  <time id="tt32"></time><script>IdxupT("tt32", new Date("2016/01/18 05:29:12"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115002563-260408" >油價跌 庫德族要求美國金援</a></h3>
-                  <time id="tt33"></time><script>IdxupT("tt33", new Date("2016/01/15 21:19:17"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000445-260107" >台大生扮教練 赴台東教足球</a></h3>
+                  <time id="tt33"></time><script>IdxupT("tt33", new Date("2016/01/18 05:27:46"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115003855-260408" >搬走ATM  俄罗斯醉男幹傻事</a></h3>
-                  <time id="tt34"></time><script>IdxupT("tt34", new Date("2016/01/15 21:19:12"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000434-260107" >畢展 「圖物製」前衛吸睛</a></h3>
+                  <time id="tt34"></time><script>IdxupT("tt34", new Date("2016/01/18 05:26:53"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005226-260408" >葉門恐攻 重要油管爆炸起火</a></h3>
-                  <time id="tt35"></time><script>IdxupT("tt35", new Date("2016/01/15 21:18:45"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000385-260106" >比水便宜 95跌回1字頭</a></h3>
+                  <time id="tt35"></time><script>IdxupT("tt35", new Date("2016/01/18 05:30:10"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005259-260408" >俄羅斯監獄將禁止囚犯罵髒話</a></h3>
-                  <time id="tt36"></time><script>IdxupT("tt36", new Date("2016/01/15 21:18:32"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000461-260107" >推女友入火坑 女同志判1年半</a></h3>
+                  <time id="tt36"></time><script>IdxupT("tt36", new Date("2016/01/18 05:26:09"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005323-260408" >全球去年27人因自拍喪命</a></h3>
-                  <time id="tt37"></time><script>IdxupT("tt37", new Date("2016/01/15 21:18:23"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000361-260108" >習近平明訪中東談合作</a></h3>
+                  <time id="tt37"></time><script>IdxupT("tt37", new Date("2016/01/18 05:25:29"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115004382-260408" >錯失當富翁女婿 英漢好心痛！</a></h3>
-                  <time id="tt38"></time><script>IdxupT("tt38", new Date("2016/01/15 22:12:50"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000359-260108" >搶食大餅 跨國企業摩拳擦掌</a></h3>
+                  <time id="tt38"></time><script>IdxupT("tt38", new Date("2016/01/18 05:25:24"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005385-260408" >美政府砸40億美元推廣自駕車</a></h3>
-                  <time id="tt39"></time><script>IdxupT("tt39", new Date("2016/01/15 21:19:58"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000364-260108" >北韓提條件取消核試爆</a></h3>
+                  <time id="tt39"></time><script>IdxupT("tt39", new Date("2016/01/18 05:18:16"));</script>
                 </li>
 
 
@@ -2005,38 +2054,38 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
               <ul>
                 
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/history-by-date/2016-01-09-260116" ><img src="http://img.chinatimes.com/newsphoto/2016-01-09/Miscellaneous/h20160109635879160940970461.jpg" title="《旺到報》" alt="《旺到報》" /></a></div>
-                  <p><a href="http://www.chinatimes.com/history-by-date/2016-01-09-260116" >《旺到報》</a></p>
+                  <div class="pic"><a href="http://www.chinatimes.com/history-by-date/2016-01-16-260116" ><img src="http://img.chinatimes.com/newsphoto/2016-01-16/Miscellaneous/h20160116635885221982644118.jpg" title="《旺到報》" alt="《旺到報》" /></a></div>
+                  <p><a href="http://www.chinatimes.com/history-by-date/2016-01-16-260116" >《旺到報》</a></p>
                       
                 </li>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/history-by-date/2016-01-10-260117" ><img src="http://img.chinatimes.com/newsphoto/2016-01-11/Miscellaneous/h20160111635880805901303681.jpg" title="《旺來報》" alt="《旺來報》" /></a></div>
-                  <p><a href="http://www.chinatimes.com/history-by-date/2016-01-10-260117" >《旺來報》</a></p>
+                  <div class="pic"><a href="http://www.chinatimes.com/history-by-date/2016-01-17-260117" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886186822810770.jpg" title="《旺來報》" alt="《旺來報》" /></a></div>
+                  <p><a href="http://www.chinatimes.com/history-by-date/2016-01-17-260117" >《旺來報》</a></p>
                       
                 </li>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160114000748-260113" ><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883469773994526.jpg" title="吸塵器大車拚" alt="吸塵器大車拚" /></a></div>
-                  <p><a href="http://www.chinatimes.com/newspapers/20160114000748-260113" >吸塵器大車拚</a></p>
+                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160117000742-260117" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886119279528137.jpg" title="平價新裝上市" alt="平價新裝上市" /></a></div>
+                  <p><a href="http://www.chinatimes.com/newspapers/20160117000742-260117" >平價新裝上市</a></p>
                       
                 </li>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160114000738-260113" ><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883469847938656.jpg" title="刻字表真心" alt="刻字表真心" /></a></div>
-                  <p><a href="http://www.chinatimes.com/newspapers/20160114000738-260113" >刻字表真心</a></p>
+                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160117000749-260117" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886119345516253.jpg" title="繽紛春妝預覽" alt="繽紛春妝預覽" /></a></div>
+                  <p><a href="http://www.chinatimes.com/newspapers/20160117000749-260117" >繽紛春妝預覽</a></p>
                       
                 </li>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160114000723-260113" ><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883469917514778.jpg" title="卡地亞鑽石漩渦" alt="卡地亞鑽石漩渦" /></a></div>
-                  <p><a href="http://www.chinatimes.com/newspapers/20160114000723-260113" >卡地亞鑽石漩渦</a></p>
+                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160117000757-260117" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886119425700393.jpg" title="百貨福袋送禮券" alt="百貨福袋送禮券" /></a></div>
+                  <p><a href="http://www.chinatimes.com/newspapers/20160117000757-260117" >百貨福袋送禮券</a></p>
                       
                 </li>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160114000715-260113" ><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883469982410892.jpg" title="Tiffany藍盒子閃耀" alt="Tiffany藍盒子閃耀" /></a></div>
-                  <p><a href="http://www.chinatimes.com/newspapers/20160114000715-260113" >Tiffany藍盒子閃耀</a></p>
+                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160117000767-260117" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886119501516527.jpg" title="超商玩猴年創意" alt="超商玩猴年創意" /></a></div>
+                  <p><a href="http://www.chinatimes.com/newspapers/20160117000767-260117" >超商玩猴年創意</a></p>
                       
                 </li>
                
@@ -2063,10 +2112,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                  <li class="clear-fix">
-                  <h2><a href="http://www.chinatimes.com/realtimenews/20160115005513-260402" >斗六5S運動 垃圾多到垃圾車逃走</a></h2>
-                  <div class="pic_100x100"><a href="http://www.chinatimes.com/realtimenews/20160115005513-260402" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884890511701920.jpg" title="斗六5S運動 垃圾多到垃圾車逃走" alt="斗六5S運動 垃圾多到垃圾車逃走" /></a></div>
-                  <p>發生什麼事使得垃圾車逃走？斗六市公所執行5S運動（整理、整頓、清掃、清潔、紀律...</p>
-                  <time id="tt41"></time><script>IdxupT("tt41", new Date("2016/01/15 21:08:59"));</script>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000437-260107" >農夫市集開鑼 學子賣在地味</a></h2>
+                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160118000437-260107" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886922941771695.jpg" title="農夫市集開鑼 學子賣在地味" alt="農夫市集開鑼 學子賣在地味" /></a></div>
+                  <p>中正大學企管所碩班學生（見圖，廖素慧攝）組成「打貓好滋味」團隊，腳踏實地訪談...</p>
+                  <time id="tt41"></time><script>IdxupT("tt41", new Date("2016/01/18 05:34:26"));</script>
                 </li>
 
 
@@ -2075,10 +2124,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                  <li class="clear-fix">
-                  <h2><a href="http://www.chinatimes.com/realtimenews/20160115005637-260402" >桃機貨棧 緝獲走私大陸乾香菇</a></h2>
-                  <div class="pic_100x100"><a href="http://www.chinatimes.com/realtimenews/20160115005637-260402" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884890606862087.jpg" title="桃機貨棧 緝獲走私大陸乾香菇" alt="桃機貨棧 緝獲走私大陸乾香菇" /></a></div>
-                  <p>台北關表示，7日在桃園機場貨棧，緝獲來自香港走私進口大陸乾香菇、黃金銀耳及巴...</p>
-                  <time id="tt42"></time><script>IdxupT("tt42", new Date("2016/01/15 21:08:52"));</script>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000450-260107" >10萬瓶蓋 打造校園藝術牆</a></h2>
+                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160118000450-260107" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886923268748269.jpg" title="10萬瓶蓋 打造校園藝術牆" alt="10萬瓶蓋 打造校園藝術牆" /></a></div>
+                  <p>二林鎮香田國小創意發想，利用回收瓶蓋創作藝術牆，60多名愛好環保的小朋友17日齊...</p>
+                  <time id="tt42"></time><script>IdxupT("tt42", new Date("2016/01/18 05:33:39"));</script>
                 </li>
 
 
@@ -2096,9 +2145,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
 
 
-                 <div class="pic"><a href="http://www.chinatimes.com/realtimenews/20160115004302-260402" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884890664114188.jpg" title="中和紙類工廠火警" alt="中和紙類工廠火警" /></a></div>
+                 <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160118000383-260106" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/330/B12A00_P_02_01.JPG" title="雲門靜舞如蓮 老美服" alt="雲門靜舞如蓮 老美服" /></a></div>
               <div class="textbg"></div>
-              <h2 class="text"><a href="http://www.chinatimes.com/realtimenews/20160115004302-260402" >中和紙類工廠火警</a></h2>
+              <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160118000383-260106" >雲門靜舞如蓮 老美服</a></h2>
              
 
 
@@ -2118,9 +2167,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                   <li>
-                  <div class="pic_220x160"><a href="http://www.chinatimes.com/newspapers/20160115000506-260107" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884518148095898.jpg" title="老外觀選團 樂喊凍蒜" alt="老外觀選團 樂喊凍蒜" /></a></div>
+                  <div class="pic_220x160"><a href="http://www.chinatimes.com/newspapers/20160118000396-260102" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886926448969855.jpg" title="玉里客城鐵橋花海" alt="玉里客城鐵橋花海" /></a></div>
                   <div class="textbg"></div>
-                  <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160115000506-260107" >老外觀選團 樂喊凍蒜</a></h2>
+                  <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160118000396-260102" >玉里客城鐵橋花海</a></h2>
                 </li>
 
                
@@ -2128,9 +2177,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                   <li>
-                  <div class="pic_220x160"><a href="http://www.chinatimes.com/newspapers/20160115000476-260102" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884518529828569.jpg" title="高市兒福中心遊戲室" alt="高市兒福中心遊戲室" /></a></div>
+                  <div class="pic_220x160"><a href="http://www.chinatimes.com/newspapers/20160118000392-260102" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886926537734011.jpg" title="沙雕總統岩補上小英" alt="沙雕總統岩補上小英" /></a></div>
                   <div class="textbg"></div>
-                  <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160115000476-260102" >高市兒福中心遊戲室</a></h2>
+                  <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160118000392-260102" >沙雕總統岩補上小英</a></h2>
                 </li>
 
                
@@ -2146,9 +2195,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
 
 
-                 <div class="pic_232x160"><a href="http://www.chinatimes.com/realtimenews/20160115002415-260405" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884519234169806.jpg" title="墾丁訪梅花鹿世界" alt="墾丁訪梅花鹿世界" /></a></div>
+                 <div class="pic_232x160"><a href="http://www.chinatimes.com/newspapers/20160118000354-260106" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886926620570156.jpg" title="催繳房租衰喪命" alt="催繳房租衰喪命" /></a></div>
                 <div class="textbg"></div>
-                <h2 class="text"><a href="http://www.chinatimes.com/realtimenews/20160115002415-260405" >墾丁訪梅花鹿世界</a></h2>
+                <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160118000354-260106" >催繳房租衰喪命</a></h2>
                
                
 
@@ -2163,28 +2212,28 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                   <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/newspapers/20160115000521-260107" >師生揮毫春聯義賣</a></h3>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000444-260107" >免費送 臘八粥暖人心</a></h3>
                 </li>
                
               
 
 
                   <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/newspapers/20160115000404-260106" >台籍慰安婦只剩3位</a></h3>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000462-260107" >毒鴛鴦遇警盤查</a></h3>
                 </li>
                
               
 
 
                   <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/newspapers/20160115000403-260106" >黑幫工作室接案 當街...</a></h3>
+                  <h3><a href="http://www.chinatimes.com/realtimenews/20160117003097-260405" >高雄歷史博物館吸客</a></h3>
                 </li>
                
               
 
 
                   <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/newspapers/20160115000594-260107" >檢查獲大選賭盤簽賭</a></h3>
+                  <h3><a href="http://www.chinatimes.com/realtimenews/20160117002908-260405" >花都─台中的代名詞</a></h3>
                 </li>
                
 
@@ -2211,10 +2260,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                  <li class="clear-fix">
-                  <h2><a  href="http://www.chinatimes.com/realtimenews/20160115004986-260412" >華碩推出追劇平板ZenPad 7.0</a></h2>
-                  <div class="pic_100x100"><a  href="http://www.chinatimes.com/realtimenews/20160115004986-260412" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884893802371700.jpg" title="華碩推出追劇平板ZenPad 7.0" alt="華碩推出追劇平板ZenPad 7.0" /></a></div>
-                  <p>華碩平板新年首傳捷報！「我的追劇神器」ZenPad系列平板，2015年12月份銷售突破3...</p>
-                  <time id="tt71"></time><script>IdxupT("tt71", new Date("2016/01/15 21:13:51"));</script>
+                  <h2><a  href="http://www.chinatimes.com/realtimenews/20160117001892-260412" >揭最夯科技品的秘密成本價</a></h2>
+                  <div class="pic_100x100"><a  href="http://www.chinatimes.com/realtimenews/20160117001892-260412" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886314403578854.jpg" title="揭最夯科技品的秘密成本價" alt="揭最夯科技品的秘密成本價" /></a></div>
+                  <p>時下最夯的3C產品iPhone 6 S、運動版Apple Watch、谷歌眼鏡、索尼PS4，售價總是令...</p>
+                  <time id="tt71"></time><script>IdxupT("tt71", new Date("2016/01/17 22:27:07"));</script>
                 
                 </li>
                 
@@ -2222,10 +2271,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                  <li class="clear-fix">
-                  <h2><a  href="http://www.chinatimes.com/realtimenews/20160115005059-260412" >廣穎行動電源 具備智慧辨識IC</a></h2>
-                  <div class="pic_100x100"><a  href="http://www.chinatimes.com/realtimenews/20160115005059-260412" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884893734823581.jpg" title="廣穎行動電源 具備智慧辨識IC" alt="廣穎行動電源 具備智慧辨識IC" /></a></div>
-                  <p>SP廣穎電通今（15)日推出最新快充行動電源─Power P52，具備智慧辨識IC技術和2.4A...</p>
-                  <time id="tt72"></time><script>IdxupT("tt72", new Date("2016/01/15 21:13:40"));</script>
+                  <h2><a  href="http://www.chinatimes.com/newspapers/20160117000278-260209" >歐洲》蘇格蘭的綠能里程碑</a></h2>
+                  <div class="pic_100x100"><a  href="http://www.chinatimes.com/newspapers/20160117000278-260209" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886314732271431.jpg" title="歐洲》蘇格蘭的綠能里程碑" alt="歐洲》蘇格蘭的綠能里程碑" /></a></div>
+                  <p>蘇格蘭政府推動環保能源不遺餘力，年用電量高達近50％由風力、水力發電。
+■While...</p>
+                  <time id="tt72"></time><script>IdxupT("tt72", new Date("2016/01/17 22:27:16"));</script>
                 
                 </li>
                 
@@ -2240,9 +2290,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
              
             
 
-                 <div class="pic"><a href="http://www.chinatimes.com/realtimenews/20160115003926-260410"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884740399190261.jpg" title="小米組特種部隊 拼未來" alt="小米組特種部隊 拼未來" /></a></div>
+                 <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160117000777-260117"><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886158215948525.jpg" title="360&#176;全景 視野更自由" alt="360&#176;全景 視野更自由" /></a></div>
               <div class="textbg"></div>
-              <h2 class="text"><a href="http://www.chinatimes.com/realtimenews/20160115003926-260410" >小米組特種部隊 拼未來 </a></h2>
+              <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160117000777-260117" >360&#176;全景 視野更自由 </a></h2>
              
 
 
@@ -2258,9 +2308,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                     <li>
-                  <div class="pic_220x160"><a href="http://www.chinatimes.com/realtimenews/20160115003600-260412" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884740706978802.jpg" title="註冊微軟Build大會要快" alt="註冊微軟Build大會要快" /></a></div>
+                  <div class="pic_220x160"><a href="http://www.chinatimes.com/newspapers/20160117000173-260210" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886158321092710.jpg" title="LUXGEN V7 TURBO" alt="LUXGEN V7 TURBO" /></a></div>
                   <div class="textbg"></div>
-                  <h2 class="text"><a href="http://www.chinatimes.com/realtimenews/20160115003600-260412" >註冊微軟Build大會要快</a></h2>
+                  <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160117000173-260210" >LUXGEN V7 TURBO</a></h2>
                  
                 </li>
 
@@ -2270,9 +2320,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
                     <li>
-                  <div class="pic_220x160"><a href="http://www.chinatimes.com/realtimenews/20160115003406-260412" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884740817582996.jpg" title="Cardboard支援立體聲" alt="Cardboard支援立體聲" /></a></div>
+                  <div class="pic_220x160"><a href="http://www.chinatimes.com/newspapers/20160117000171-260210" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886158412820871.jpg" title="最新油電混合動力科技" alt="最新油電混合動力科技" /></a></div>
                   <div class="textbg"></div>
-                  <h2 class="text"><a href="http://www.chinatimes.com/realtimenews/20160115003406-260412" >Cardboard支援立體聲</a></h2>
+                  <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160117000171-260210" >最新油電混合動力科技</a></h2>
                  
                 </li>
 
@@ -2290,9 +2340,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 <div class="clumn_box">
-                <div class="pic_232x160"><a href="http://www.chinatimes.com/realtimenews/20160115004200-260412" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884741036451381.jpg" title="臉書提醒台選民要投票" alt="臉書提醒台選民要投票" /></a></div>
+                <div class="pic_232x160"><a href="http://www.chinatimes.com/newspapers/20160117000181-260210" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886158758985479.jpg" title="Sony百萬獎金大放送" alt="Sony百萬獎金大放送" /></a></div>
                 <div class="textbg"></div>
-                <h2 class="text"><a href="http://www.chinatimes.com/realtimenews/20160115004200-260412" >臉書提醒台選民要投票</a></h2>
+                <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160117000181-260210" >Sony百萬獎金大放送</a></h2>
                 
               </div>
 
@@ -2307,7 +2357,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115003360-260410">獵豹移動成立全球智庫</a></h3>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160117000728-260117">幸運符 雙眼計時腕表</a></h3>
                 </li>
                 
 
@@ -2315,7 +2365,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115004530-260410">日盛銀打造Bank3.0</a></h3>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160117000158-260203">沃爾瑪全球要關269店</a></h3>
                 </li>
                 
 
@@ -2323,7 +2373,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115004719-260410">奇異家電事業賣海爾</a></h3>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160117000952-260301">陸加大環保川佳經濟財</a></h3>
                 </li>
                 
 
@@ -2331,7 +2381,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 <li class="clear-fix"><span class="icon_16x16"></span>
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115003262-260412">希捷推8TB NAS硬碟</a></h3>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160117000979-260301">新中式風格紅木燈飾轉型</a></h3>
                 </li>
                 
 
@@ -2356,10 +2406,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
               <ul>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/realtimenews/20160115005557-260405" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884899522121746.jpg" title="原始生命力 西川聡紅色器皿登台" alt="原始生命力 西川聡紅色器皿登台"></a></div>
-                  <h2><a href="http://www.chinatimes.com/realtimenews/20160115005557-260405" >原始生命力 西川聡紅色器皿登台</a></h2>
-                  <p>深受非洲原始生命力衝擊啟發的日本陶藝家西川聡，紅色器皿登台，即日起到2月28日在天母另空間展出餐具、茶具、...</p>
-                   <time id="tt51"></time><script>IdxupT("tt51", new Date("2016/01/15 21:23:31"));</script>
+                  <div class="pic"><a href="http://www.chinatimes.com/newspapers/20160118000394-260102" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886931972471556.jpg" title="台中休耕地變花卉廊道" alt="台中休耕地變花卉廊道"></a></div>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000394-260102" >台中休耕地變花卉廊道</a></h2>
+                  <p>「化腐朽為神奇！」農業局以龍井區作為示範點，補助中華路等道路兩旁120公頃農田，種植大、黃波斯菊及百日草等...</p>
+                   <time id="tt51"></time><script>IdxupT("tt51", new Date("2016/01/18 05:51:51"));</script>
                   
                 </li>
                 
@@ -2370,50 +2420,50 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
               <ul>
               
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005172-260405" >辣模著生菜裝 教「菜」英文</a></h3>
-                  <time id="tt52"></time><script>IdxupT("tt52", new Date("2016/01/15 21:25:13"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000400-260102" >梅山梅花盛開</a></h3>
+                  <time id="tt52"></time><script>IdxupT("tt52", new Date("2016/01/18 05:52:11"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115002176-260405" >3個數字畫出超逼真「腳」</a></h3>
-                  <time id="tt53"></time><script>IdxupT("tt53", new Date("2016/01/15 21:24:57"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000398-260102" >合歡山持續積雪 須加掛雪鏈</a></h3>
+                  <time id="tt53"></time><script>IdxupT("tt53", new Date("2016/01/18 05:52:22"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115002856-260405" >華夏武演會場 太極勁法揚威</a></h3>
-                  <time id="tt54"></time><script>IdxupT("tt54", new Date("2016/01/15 21:24:44"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000785-260306" >自由行看台灣微網誌－回到康熙年</a></h3>
+                  <time id="tt54"></time><script>IdxupT("tt54", new Date("2016/01/18 05:46:35"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115003618-260405" >嘉市票選肥胖防治意象LOGO</a></h3>
-                  <time id="tt55"></time><script>IdxupT("tt55", new Date("2016/01/15 21:24:35"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000784-260306" >大陸落不落後 去看才知道</a></h3>
+                  <time id="tt55"></time><script>IdxupT("tt55", new Date("2016/01/18 05:46:23"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115004818-260405" >史博館文創日益升值</a></h3>
-                  <time id="tt56"></time><script>IdxupT("tt56", new Date("2016/01/15 21:24:17"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000773-260306" >兩岸史話－藍鯨行動刺殺蔣介石</a></h3>
+                  <time id="tt56"></time><script>IdxupT("tt56", new Date("2016/01/18 05:46:14"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005065-260405" >百貨新春福袋和壽山動物園合作</a></h3>
-                  <time id="tt57"></time><script>IdxupT("tt57", new Date("2016/01/15 21:23:58"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000645-260115" >三少四壯集－低調的奢華</a></h3>
+                  <time id="tt57"></time><script>IdxupT("tt57", new Date("2016/01/18 05:45:56"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005095-260405" >南投高中學生 赴藍田書院祈福</a></h3>
-                  <time id="tt58"></time><script>IdxupT("tt58", new Date("2016/01/15 21:23:51"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000644-260115" >蔥</a></h3>
+                  <time id="tt58"></time><script>IdxupT("tt58", new Date("2016/01/18 05:45:51"));</script>
                 </li>
 
 
                 <li class="clear-fix">
-                  <h3><a href="http://www.chinatimes.com/realtimenews/20160115005401-260405" >國小短劇搭配人偶道具 教育衛教</a></h3>
-                  <time id="tt59"></time><script>IdxupT("tt59", new Date("2016/01/15 21:23:39"));</script>
+                  <h3><a href="http://www.chinatimes.com/newspapers/20160118000642-260115" >爆米香</a></h3>
+                  <time id="tt59"></time><script>IdxupT("tt59", new Date("2016/01/18 05:45:46"));</script>
                 </li>
 
 
@@ -2448,8 +2498,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                 </li>
                
                 <li>
-                  <div class="pic"><a href="http://www.chinatimes.com/realtimenews/20151107002443-260405" ><img src="http://img.chinatimes.com/newsphoto/2015-11-08/Miscellaneous/h20151108635825577608217490.jpg" title="《閱讀‧城市》展" alt="《閱讀‧城市》展" /></a></div>
-                  <p><a href="http://www.chinatimes.com/realtimenews/20151107002443-260405" >《閱讀‧城市》展</a></p>
+                  <div class="pic"><a href="http://www.chinatimes.com/realtimenews/20160116002117-260405" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635885987792357192.jpg" title="凱斯哈林個展" alt="凱斯哈林個展" /></a></div>
+                  <p><a href="http://www.chinatimes.com/realtimenews/20160116002117-260405" >凱斯哈林個展</a></p>
                 
                 </li>
                
@@ -2664,11 +2714,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                  
                   <blockquote>
-                    <h1><a href="http://www.chinatimes.com/newspapers/20160115000955-260310" >熔斷事件反映互聯網改變大陸</a></h1>
+                    <h1><a href="http://www.chinatimes.com/newspapers/20160118000374-260109" >時代力量是尾巴政黨或關鍵少數?</a></h1>
                   </blockquote>
                   <div class="text clear-fix">
-                    <div class="this_logo"><img src="/images/want-logo-8585.jpg" width="85" height="85" title="旺報logo" alt="旺報logo" /></div>
-                    大陸股市啟動熔斷機制短短4天就被叫停，證監會顏面掃地，這在大...</div>
+                    <div class="this_logo"><img src="/images/ct-logo-8585.jpg" width="85" height="85" title="中國時報logo" alt="中國時報logo" /></div>
+                    總統與立委選舉塵埃落定，興起於太陽花學運、得益於民心思變的社...</div>
                  
 
                     
@@ -2681,16 +2731,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
               
 
 
-                  <li class="clear-fix"><span class="logo"><img src="/images/ct-logo-8585.jpg" width="85" height="85" title="中國時報logo" alt="中國時報logo" /></span>
-                  <h2><a href="http://www.chinatimes.com/newspapers/20160115000437-260109" >對蔡、朱選舉揭曉後演說期望</a></h2>
+                  <li class="clear-fix"><span class="logo"><img src="/images/ctee-logo-8585.jpg" width="85" height="85" title="工商時報logo" alt="工商時報logo" /></span>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000029-260202" >以溝通包容化解兩岸波動風險</a></h2>
                 </li>
 
 
               
 
 
-                  <li class="clear-fix"><span class="logo"><img src="/images/ctee-logo-8585.jpg" width="85" height="85" title="工商時報logo" alt="工商時報logo" /></span>
-                  <h2><a href="http://www.chinatimes.com/newspapers/20160115000027-260202" >兩岸應消除貨貿談判不確定因素</a></h2>
+                  <li class="clear-fix"><span class="logo"><img src="/images/want-logo-8585.jpg" width="85" height="85" title="旺報logo" alt="旺報logo" /></span>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000788-260310" >當務之急防範網路黑天鵝現象</a></h2>
                 </li>
 
 
@@ -2708,10 +2758,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
 
                  <li class="clear-fix">
-                  <h2><a href="http://www.chinatimes.com/newspapers/20160115000843-260301" >原四總部主官任新職 權力縮水</a></h2>
-                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160115000843-260301" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884783936994732.jpg" title="原四總部主官任新職 權力縮水" alt="原四總部主官任新職 權力縮水" /></a></div>
-                  <p>大陸軍改將中央軍委下的四總部拆分為15個直屬部門後，大陸軍報於...</p>
-                  <time id="tf4"></time><script>IdxupT("tf4", new Date("2016/01/15 18:09:25"));</script>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000371-260109" >國民黨 向左轉</a></h2>
+                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160118000371-260109" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886895379019283.jpg" title="國民黨 向左轉" alt="國民黨 向左轉" /></a></div>
+                  <p>解嚴以來，國民黨一直是右派保守政黨，稱為「右」，是在經濟自由...</p>
+                  <time id="tf4"></time><script>IdxupT("tf4", new Date("2016/01/18 04:49:38"));</script>
                   
                 </li>
 
@@ -2722,10 +2772,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
 
                  <li class="clear-fix">
-                  <h2><a href="http://www.chinatimes.com/newspapers/20160115000848-260301" >習裁撤14集團軍 肅清薄熙來勢力</a></h2>
-                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160115000848-260301" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884784017178872.jpg" title="習裁撤14集團軍 肅清薄熙來勢力" alt="習裁撤14集團軍 肅清薄熙來勢力" /></a></div>
-                  <p>解放軍陸軍大裁軍已經啟動，南韓媒體指出，中共中央軍委主席習近...</p>
-                  <time id="tf5"></time><script>IdxupT("tf5", new Date("2016/01/15 18:09:32"));</script>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000379-260109" >輸掉一整個世代</a></h2>
+                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160118000379-260109" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886895819096056.jpg" title="輸掉一整個世代" alt="輸掉一整個世代" /></a></div>
+                  <p>雖然有周子瑜道歉事件的突襲，但這最多只是雪上加霜，因為國民黨...</p>
+                  <time id="tf5"></time><script>IdxupT("tf5", new Date("2016/01/18 04:50:14"));</script>
                   
                 </li>
 
@@ -2736,10 +2786,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
 
                  <li class="clear-fix">
-                  <h2><a href="http://www.chinatimes.com/newspapers/20160115000817-260309" >國家隊低調救市 陸股絕地反攻</a></h2>
-                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160115000817-260309" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884784089250999.jpg" title="國家隊低調救市 陸股絕地反攻" alt="國家隊低調救市 陸股絕地反攻" /></a></div>
-                  <p>市場正擔心2015年「股災底」2850點就要跌破時，滬指又神奇地收復...</p>
-                  <time id="tf6"></time><script>IdxupT("tf6", new Date("2016/01/15 18:09:51"));</script>
+                  <h2><a href="http://www.chinatimes.com/newspapers/20160118000375-260109" >高興過後 回到現實</a></h2>
+                  <div class="pic_100x100"><a href="http://www.chinatimes.com/newspapers/20160118000375-260109" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886895092134780.jpg" title="高興過後 回到現實" alt="高興過後 回到現實" /></a></div>
+                  <p>這幾天有幾件事，正可具體而微看出民進黨執政後，幾個必須面對的...</p>
+                  <time id="tf6"></time><script>IdxupT("tf6", new Date("2016/01/18 04:49:49"));</script>
                   
                 </li>
 
@@ -2760,9 +2810,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                 <li>
               <div class="coco">
                 <div class="cocobox">
-                  <figure><a href="http://www.chinatimes.com/newspapers/20160115000820-260309" ><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884784164287131.jpg" title="網上唱空被罰75萬 救市手段惹議" alt="網上唱空被罰75萬 救市手段惹議" /></a></figure>
+                  <figure><a href="http://www.chinatimes.com/newspapers/20160118000368-260109" ><img src="http://img.chinatimes.com/newsphoto/2016-01-18/Miscellaneous/h20160118635886894793862256.jpg" title="如果「中國」是一家公司" alt="如果「中國」是一家公司" /></a></figure>
                 </div>
-                <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160115000820-260309" >網上唱空被罰75萬 救市手段惹議</a></h2>
+                <h2 class="text"><a href="http://www.chinatimes.com/newspapers/20160118000368-260109" >如果「中國」是一家公司</a></h2>
               </div>
               
       </li>
@@ -2778,31 +2828,31 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                      
              
-              <li><a href="#w01">09<span>六</span></a></li>
+              <li><a href="#w01">12<span>二</span></a></li>
               
               
              
-              <li><a href="#w02">10<span>日</span></a></li>
+              <li><a href="#w02">13<span>三</span></a></li>
               
               
              
-              <li><a href="#w03">11<span>一</span></a></li>
+              <li><a href="#w03">14<span>四</span></a></li>
               
               
              
-              <li><a href="#w04">12<span>二</span></a></li>
+              <li><a href="#w04">15<span>五</span></a></li>
               
               
              
-              <li><a href="#w05">13<span>三</span></a></li>
+              <li><a href="#w05">16<span>六</span></a></li>
               
               
              
-              <li><a href="#w06">14<span>四</span></a></li>
+              <li><a href="#w06">17<span>日</span></a></li>
               
               
              
-              <li><a href="#w07">15<span>五</span></a></li>
+              <li><a href="#w07">18<span>一</span></a></li>
               
               
 
@@ -2818,75 +2868,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                     
 
                     <div id="w01" class="tab_content todayHotNews">
-                      <ul>
-
-
-                        <li><span class="icon_16x16"></span>
-                          <h3><a href="/history/2016-01-09#0">王世堅爆洪智坤收遠雄錢</a></h3>
-                        </li>
-                        
-
-
-
-                        <li><span class="icon_16x16"></span>
-                          <h3><a href="/history/2016-01-09#1">政見會最終場 論美豬開放</a></h3>
-                        </li>
-                        
-
-
-            
-                      </ul>
-                    </div>
-
-
-
-                    <div id="w02" class="tab_content todayHotNews">
-                      <ul>
-
-
-                        <li><span class="icon_16x16"></span>
-                          <h3><a href="/history/2016-01-10#0">小英：讓屏東女兒做總統</a></h3>
-                        </li>
-                        
-
-
-
-                        <li><span class="icon_16x16"></span>
-                          <h3><a href="/history/2016-01-10#1">三姝挺朱 拚逆轉勝</a></h3>
-                        </li>
-                        
-
-
-            
-                      </ul>
-                    </div>
-
-
-
-                    <div id="w03" class="tab_content todayHotNews">
-                      <ul>
-
-
-                        <li><span class="icon_16x16"></span>
-                          <h3><a href="/history/2016-01-11#0">京城銀竊案 ATM 被偷走</a></h3>
-                        </li>
-                        
-
-
-
-                        <li><span class="icon_16x16"></span>
-                          <h3><a href="/history/2016-01-11#1">超級星期天 朱蔡宋府城拚場</a></h3>
-                        </li>
-                        
-
-
-            
-                      </ul>
-                    </div>
-
-
-
-                    <div id="w04" class="tab_content todayHotNews">
                       <ul>
 
 
@@ -2909,7 +2890,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 
-                    <div id="w05" class="tab_content todayHotNews">
+                    <div id="w02" class="tab_content todayHotNews">
                       <ul>
 
 
@@ -2932,7 +2913,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 
-                    <div id="w06" class="tab_content todayHotNews">
+                    <div id="w03" class="tab_content todayHotNews">
                       <ul>
 
 
@@ -2955,7 +2936,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
 
 
-                    <div id="w07" class="tab_content todayHotNews">
+                    <div id="w04" class="tab_content todayHotNews">
                       <ul>
 
 
@@ -2968,6 +2949,75 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                         <li><span class="icon_16x16"></span>
                           <h3><a href="/history/2016-01-15#1">白宮：無論誰當選 盼兩岸續對話</a></h3>
+                        </li>
+                        
+
+
+            
+                      </ul>
+                    </div>
+
+
+
+                    <div id="w05" class="tab_content todayHotNews">
+                      <ul>
+
+
+                        <li><span class="icon_16x16"></span>
+                          <h3><a href="/history/2016-01-16#0">周子瑜為揮國旗Say Sorry</a></h3>
+                        </li>
+                        
+
+
+
+                        <li><span class="icon_16x16"></span>
+                          <h3><a href="/history/2016-01-16#1">2016總統大選、立委投票</a></h3>
+                        </li>
+                        
+
+
+            
+                      </ul>
+                    </div>
+
+
+
+                    <div id="w06" class="tab_content todayHotNews">
+                      <ul>
+
+
+                        <li><span class="icon_16x16"></span>
+                          <h3><a href="/history/2016-01-17#0">周子瑜道歉效應 牽動選情</a></h3>
+                        </li>
+                        
+
+
+
+                        <li><span class="icon_16x16"></span>
+                          <h3><a href="/history/2016-01-17#1">蔡英文贏308萬票 民進黨國會過半</a></h3>
+                        </li>
+                        
+
+
+            
+                      </ul>
+                    </div>
+
+
+
+                    <div id="w07" class="tab_content todayHotNews">
+                      <ul>
+
+
+                        <li><span class="icon_16x16"></span>
+                          <h3><a href="/history/2016-01-18#0">周子瑜表演 上大陸央視</a></h3>
+                        </li>
+                        
+
+
+
+                        <li><span class="icon_16x16"></span>
+                          <h3><a href="/history/2016-01-18#1">3天後 綠執政火車開動</a></h3>
                         </li>
                         
 
@@ -2999,9 +3049,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
                  <li class="king_click">
                 <div class="title_name"><span>今日</span><span>點閱王</span></div>
-                 <h3><a href="/reporter/1430">社群分享</a></h3>
-                <div class="num">213709</div>
-                <div class="info"><span>媒體達人</span>Social</div>
+                 <h3><a href="/reporter/10">王正寧</a></h3>
+                <div class="num">369221</div>
+                <div class="info"><span>中國時報</span>採訪中心</div>
                 <div class="nothing_t"></div>
                 <div class="nothing_b"></div>
                 </li>
@@ -3023,9 +3073,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                 <li class="king_facebook">
                 <div class="title_name"><span>今日</span><span>我最讚</span></div>
-                 <h3><a href="/reporter/151">沈揮勝</a></h3>
-                <div class="num">125927</div>
-                <div class="info"><span>中國時報</span>地方新聞中心</div>
+                 <h3><a href="/reporter/1643">賴冠廷</a></h3>
+                <div class="num">15220</div>
+                <div class="info"><span>中時電子報</span>娛樂內容組</div>
                 <div class="nothing_t"></div>
                 <div class="nothing_b"></div>
                 </li>
@@ -3043,8 +3093,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">1</div>
-                  <h3><a href="/reporter/1372">吳玫穎</a></h3>
-                  <span class="click">點閱：<span class="num">12938</span></span></li>
+                  <h3><a href="/reporter/3">楊毅</a></h3>
+                  <span class="click">點閱：<span class="num">493</span></span></li>
                 </li>
 
 
@@ -3053,8 +3103,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">2</div>
-                  <h3><a href="/reporter/1513">劉康彥</a></h3>
-                  <span class="click">點閱：<span class="num">7943</span></span></li>
+                  <h3><a href="/reporter/90">楊舒媚</a></h3>
+                  <span class="click">點閱：<span class="num">473</span></span></li>
                 </li>
 
 
@@ -3063,8 +3113,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">3</div>
-                  <h3><a href="/reporter/1341">蔡曉婷</a></h3>
-                  <span class="click">點閱：<span class="num">5741</span></span></li>
+                  <h3><a href="/reporter/1493">魏嘉瑀</a></h3>
+                  <span class="click">點閱：<span class="num">450</span></span></li>
                 </li>
 
 
@@ -3073,8 +3123,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">4</div>
-                  <h3><a href="/reporter/4">唐筱恬</a></h3>
-                  <span class="click">點閱：<span class="num">5660</span></span></li>
+                  <h3><a href="/reporter/10">王正寧</a></h3>
+                  <span class="click">點閱：<span class="num">420</span></span></li>
                 </li>
 
 
@@ -3083,8 +3133,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">5</div>
-                  <h3><a href="/reporter/3">楊毅</a></h3>
-                  <span class="click">點閱：<span class="num">5648</span></span></li>
+                  <h3><a href="/reporter/7">管婺媛</a></h3>
+                  <span class="click">點閱：<span class="num">260</span></span></li>
                 </li>
 
 
@@ -3093,8 +3143,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">6</div>
-                  <h3><a href="/reporter/1118">林思慧</a></h3>
-                  <span class="click">點閱：<span class="num">5632</span></span></li>
+                  <h3><a href="/reporter/859">張景為</a></h3>
+                  <span class="click">點閱：<span class="num">210</span></span></li>
                 </li>
 
 
@@ -3103,8 +3153,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">7</div>
-                  <h3><a href="/reporter/1430">社群分享</a></h3>
-                  <span class="click">點閱：<span class="num">4851</span></span></li>
+                  <h3><a href="/reporter/840">盧虹</a></h3>
+                  <span class="click">點閱：<span class="num">170</span></span></li>
                 </li>
 
 
@@ -3113,8 +3163,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
                     <li class="clear-fix">
                   <div class="num red">8</div>
-                  <h3><a href="/reporter/1347">吳品瑤</a></h3>
-                  <span class="click">點閱：<span class="num">1712</span></span></li>
+                  <h3><a href="/reporter/1480">周思宇</a></h3>
+                  <span class="click">點閱：<span class="num">151</span></span></li>
                 </li>
 
 
@@ -3122,7 +3172,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 
               
                <li class="time">
-                  每小時統計一次，更新時間23:19
+                  每小時統計一次，更新時間06:04
                 </li>
 
 
@@ -3153,13 +3203,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                                     <li class="clear-fix">
                                         <div class="pic">
                                             <div class="tag1"></div>
-                                            <a href="http://ivoting.chinatimes.com/20160115004745-261001" rel="nofollow" target="_blank"><img alt="柯P引入首長評鑑，您的看法是？" title="柯P引入首長評鑑，您的看法是？" src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884718727008196.jpg"></a>
+                                            <a href="http://ivoting.chinatimes.com/20160117003343-261001" rel="nofollow" target="_blank"><img alt="醫師洪浩雲點出小英執政後面臨的艱難狀況，您認為是？" title="醫師洪浩雲點出小英執政後面臨的艱難狀況，您認為是？" src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886562340742333.jpg"></a>
                                         </div>
-                                        <h2><a href="http://ivoting.chinatimes.com/20160115004745-261001" rel="nofollow" target="_blank">柯P引入首長評鑑，您的看法是？</a></h2>
+                                        <h2><a href="http://ivoting.chinatimes.com/20160117003343-261001" rel="nofollow" target="_blank">醫師洪浩雲點出小英執政後面臨的艱難狀況，您認為...</a></h2>
                                         <p>目前最多人投...</p>
-                                        <div class="result"><div class="title">非常支持</div><span class="num">44%</span></div>
-                                        <time >截至2016/01/15 23:19:10</time>
-                                        <div class="more_btn"><a href="http://ivoting.chinatimes.com/20160115004745-261001">投票去</a></div>
+                                        <div class="result"><div class="title">兩岸問題</div><span class="num">70%</span></div>
+                                        <time >截至2016/01/18 06:04:13</time>
+                                        <div class="more_btn"><a href="http://ivoting.chinatimes.com/20160117003343-261001">投票去</a></div>
                                     </li>
                                     
                                 </ul>
@@ -3170,14 +3220,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                                     <li class="clear-fix">
                                         <div class="pic">
                                             <div class="tag2"></div>
-                                            <a href="http://ivoting.chinatimes.com/20160115003199-261001" rel="nofollow" target="_blank"><img alt="基因造成台灣人注定不快樂，您認為呢？" title="基因造成台灣人注定不快樂，您認為呢？" src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884565802747599.jpg"></a>
+                                            <a href="http://ivoting.chinatimes.com/20160117002994-261001" rel="nofollow" target="_blank"><img alt="國民黨中常委擬提案欲留朱立倫主席一職，您的看法是？" title="國民黨中常委擬提案欲留朱立倫主席一職，您的看法是？" src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886461459577144.jpg"></a>
                                         </div>
-                                        <h2><a href="http://ivoting.chinatimes.com/20160115003199-261001" rel="nofollow" target="_blank">基因造成台灣人注定不快樂，您認為呢？</a></h2>
+                                        <h2><a href="http://ivoting.chinatimes.com/20160117002994-261001" rel="nofollow" target="_blank">國民黨中常委擬提案欲留朱立倫主席一職，您的看法...</a></h2>
                                         <p>目前最多人投...</p>
-                                        <div class="result"><div class="title">非常不認同</div><span class="num">38%</span></div>
+                                        <div class="result"><div class="title">非常不贊成</div><span class="num">75%</span></div>
                                         
-                                      <time >截至2016/01/15 23:19:10</time>
-                                        <div class="more_btn"><a href="http://ivoting.chinatimes.com/20160115003199-261001">投票去</a></div>
+                                      <time >截至2016/01/18 06:04:13</time>
+                                        <div class="more_btn"><a href="http://ivoting.chinatimes.com/20160117002994-261001">投票去</a></div>
                                     </li>
                                     
                                 </ul>
@@ -3185,33 +3235,33 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                             <div class="clumn3">
                                 <ul>
                                 
-                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160114004836-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883938313797473.jpg" title="傳LG G5有創舉，金屬機身或可換電池，您的看法是？" alt="傳LG G5有創舉，金屬機身或可換電池，您的看法是？" ></a></span>
-                                        <h4 class="color1"><a href="http://ivoting.chinatimes.com/20160114004836-261001">發燒科技</a></h4>
-                                        <h3><a href="http://ivoting.chinatimes.com/20160114004836-261001">傳LG G5有創舉，金屬機身或可換電池，您的...</a></h3>
+                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160117002266-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886359462073995.jpg" title="敗選扛責 誰是國民黨罪人，您怎麼看？" alt="敗選扛責 誰是國民黨罪人，您怎麼看？" ></a></span>
+                                        <h4 class="color1"><a href="http://ivoting.chinatimes.com/20160117002266-261001"></a></h4>
+                                        <h3><a href="http://ivoting.chinatimes.com/20160117002266-261001">敗選扛責 誰是國民黨罪人，您怎麼看？</a></h3>
                                     </li>
                                     
                                          
-                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160114004327-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883859753775490.jpg" title="陳偉殷簽下5年8千萬美元新約，您認為？" alt="陳偉殷簽下5年8千萬美元新約，您認為？" ></a></span>
-                                        <h4 class="color2"><a href="http://ivoting.chinatimes.com/20160114004327-261001">體育話題</a></h4>
-                                        <h3><a href="http://ivoting.chinatimes.com/20160114004327-261001">陳偉殷簽下5年8千萬美元新約，您認為？</a></h3>
+                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160117001284-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886136495406375.jpg" title="國民黨下任黨魁，您看好誰？" alt="國民黨下任黨魁，您看好誰？" ></a></span>
+                                        <h4 class="color2"><a href="http://ivoting.chinatimes.com/20160117001284-261001">政治議題</a></h4>
+                                        <h3><a href="http://ivoting.chinatimes.com/20160117001284-261001">國民黨下任黨魁，您看好誰？</a></h3>
                                     </li>
                                     
                                          
-                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160113004321-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-13/Miscellaneous/h20160113635882984973815020.jpg" title="新版晶片身分證採多卡合一，您怎麼看？" alt="新版晶片身分證採多卡合一，您怎麼看？" ></a></span>
-                                        <h4 class="color3"><a href="http://ivoting.chinatimes.com/20160113004321-261001">政策話題</a></h4>
-                                        <h3><a href="http://ivoting.chinatimes.com/20160113004321-261001">新版晶片身分證採多卡合一，您怎麼看？</a></h3>
+                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160116003221-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-16/Miscellaneous/h20160116635885576056466016.jpg" title="入口網站粉絲團即日起封殺黃安，您怎麼看？" alt="入口網站粉絲團即日起封殺黃安，您怎麼看？" ></a></span>
+                                        <h4 class="color3"><a href="http://ivoting.chinatimes.com/20160116003221-261001">發燒話題</a></h4>
+                                        <h3><a href="http://ivoting.chinatimes.com/20160116003221-261001">入口網站粉絲團即日起封殺黃安，您怎麼看？</a></h3>
                                     </li>
                                     
                                          
-                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160113003019-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-13/Miscellaneous/h20160113635882854654306126.jpg" title="德國計畫修改刑法，簡化犯罪移民遣返程序。請問您的看法為？" alt="德國計畫修改刑法，簡化犯罪移民遣返程序。請問您的看法為？" ></a></span>
-                                        <h4 class="color4"><a href="http://ivoting.chinatimes.com/20160113003019-261001">國際聚焦</a></h4>
-                                        <h3><a href="http://ivoting.chinatimes.com/20160113003019-261001">德國計畫修改刑法，簡化犯罪移民遣返程序。...</a></h3>
+                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160116002636-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-16/Miscellaneous/h20160116635885470180952055.jpg" title="台網站出1億台幣買斷子瑜經紀約，您怎麼看？" alt="台網站出1億台幣買斷子瑜經紀約，您怎麼看？" ></a></span>
+                                        <h4 class="color4"><a href="http://ivoting.chinatimes.com/20160116002636-261001">發燒話題</a></h4>
+                                        <h3><a href="http://ivoting.chinatimes.com/20160116002636-261001">台網站出1億台幣買斷子瑜經紀約，您怎麼看...</a></h3>
                                     </li>
                                     
                                          
-                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160113001128-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-13/Miscellaneous/h20160113635882661280578483.jpg" title="投票日上班給雙薪，違者可處2萬至30萬元罰鍰，您贊成嗎？" alt="投票日上班給雙薪，違者可處2萬至30萬元罰鍰，您贊成嗎？" ></a></span>
-                                        <h4 class="color5"><a href="http://ivoting.chinatimes.com/20160113001128-261001">熱議話題</a></h4>
-                                        <h3><a href="http://ivoting.chinatimes.com/20160113001128-261001">投票日上班給雙薪，違者可處2萬至30萬元罰...</a></h3>
+                                    <li class="clear-fix"> <span><a href="http://ivoting.chinatimes.com/20160116001316-261001" ><img src="http://img.chinatimes.com/newsphoto/2016-01-16/Miscellaneous/h20160116635885268931082579.jpg" title="高中職免試入學 志願序同分組增加放寬計分，您認為？" alt="高中職免試入學 志願序同分組增加放寬計分，您認為？" ></a></span>
+                                        <h4 class="color5"><a href="http://ivoting.chinatimes.com/20160116001316-261001">教育政策</a></h4>
+                                        <h3><a href="http://ivoting.chinatimes.com/20160116001316-261001">高中職免試入學 志願序同分組增加放寬計分...</a></h3>
                                     </li>
                                     
                                          
@@ -3241,10 +3291,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
             
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115005665-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/656/20160115005672.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117003390-261407"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/656/20160117003400.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115005665-261410">海獺媽媽抱著海獺寶寶漂浮 萌翻眾人</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117003390-261407">豪華酒店被棄鬧鬼 發現毛骨悚然秘密</a></h2>
                 </div>
               </li>
              
@@ -3252,10 +3302,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115005329-261411"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/220/20160115005342.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117003514-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/220/20160117003530.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115005329-261411">男子雪中喝咖啡 他的姿勢卻讓人驚呆</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117003514-261410">牙膏加一物 竟能讓黑頭粉刺清除！</a></h2>
                 </div>
               </li>
              
@@ -3263,10 +3313,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115005192-261406"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/220/20160115005201.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117003128-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/220/20160117003158.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115005192-261406">全英音樂獎入圍名單 新人力拼愛黛兒</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117003128-261410">百億樂透得主猝死 死因讓人尷尬</a></h2>
                 </div>
               </li>
              
@@ -3274,10 +3324,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115004354-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/220/20160115004366.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117003223-261407"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/220/20160117003230.jpg" class="photo" alt="「錢交出來」 通緝犯守ATM搶落單女"></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115004354-261410">健康小撇步！吃雞蛋對身體的好處</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117003223-261407">夜釣卻感到有問題 照片發現恐怖真相</a></h2>
                 </div>
               </li>
              
@@ -3293,37 +3343,37 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
              
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115004347-261406"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/220/20160115004360.jpg" class="photo" alt="他在街頭認真獻唱 卻慘遇紅衣小女孩"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117003510-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/220/20160117003518.jpg" class="photo" alt="狗狗流浪千里外 重逢一刻大家落淚"></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115004347-261406">他在街頭認真獻唱 卻慘遇紅衣小女孩</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117003510-261410">狗狗流浪千里外 重逢一刻大家落淚</a></h2>
                 </div>
               </li>
              
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115004154-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/220/20160115004163.jpg" class="photo" alt="熔銅倒入此液體 結果讓人跌破眼鏡"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117003348-261411"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/220/20160117003351.jpg" class="photo" alt="他故意掉東西在地上 卻讓路人超害羞"></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115004154-261410">熔銅倒入此液體 結果讓人跌破眼鏡</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117003348-261411">他故意掉東西在地上 卻讓路人超害羞</a></h2>
                 </div>
               </li>
              
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115003584-261411"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/220/20160115003604.jpg" class="photo" alt="他想用屁創造世界紀錄 卻讓網友笑瘋"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117002516-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/220/20160117002564.jpg" class="photo" alt="逃婚被抓哭著嫁給最花心君王 如今..."></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115003584-261411">他想用屁創造世界紀錄 卻讓網友笑瘋</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117002516-261410">逃婚被抓哭著嫁給最花心君王 如今...</a></h2>
                 </div>
               </li>
              
               <li class="clear-fix">
                 <div class="thumb-photo">
-                  <div class="cropper"><a href="http://tube.chinatimes.com/20160115003956-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-15/220/20160115003964.jpg" class="photo" alt="科幻電影成真！ 用APP控制家中電器"></a></div>
+                  <div class="cropper"><a href="http://tube.chinatimes.com/20160117003598-261410"><i class="video-icon"></i><img src="http://img.chinatimes.com/newsphoto/2016-01-17/220/20160117003612.jpg" class="photo" alt="小鎮人口詭異變化 納粹陰謀殘存？"></a></div>
                 </div>
                 <div class="video-title">
-                  <h2><a target="_top" href="http://tube.chinatimes.com/20160115003956-261410">科幻電影成真！ 用APP控制家中電器</a></h2>
+                  <h2><a target="_top" href="http://tube.chinatimes.com/20160117003598-261410">小鎮人口詭異變化 納粹陰謀殘存？</a></h2>
                 </div>
               </li>
              
@@ -3334,41 +3384,41 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
 <div class="clumn_down clear-fix">
           <ul>
           
-            <li> <a href="http://tube.chinatimes.com/20160115005473-261402">
-              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884922894394797.jpg"></div>
+            <li> <a href="http://tube.chinatimes.com/20160114002375-261403">
+              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886718115127936.jpg"></div>
               <div class="text">
-                <h3>新聞深喉嚨</h3>
-                <h4>大選之夜總整理</h4>
+                <h3>改變的起點</h3>
+                <h4>劉軒成功關鍵</h4>
               </div>
               </a> </li>
              
 
                
-            <li> <a href="http://tube.chinatimes.com/20160115004689-261403">
-              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884829079418020.jpg"></div>
+            <li> <a href="http://tube.chinatimes.com/20160117003333-261402">
+              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886564632542358.jpg"></div>
               <div class="text">
-                <h3>《MIT台灣誌》</h3>
-                <h4>合歡山花宴03</h4>
+                <h3>開放新中國</h3>
+                <h4>北京速食商機大</h4>
               </div>
               </a> </li>
              
 
                
-            <li> <a href="http://tube.chinatimes.com/20160115004373-261402">
-              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883947408613447.jpg"></div>
+            <li> <a href="http://tube.chinatimes.com/20160117003307-261402">
+              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886563677976681.jpg"></div>
               <div class="text">
-                <h3>SS小燕之夜</h3>
-                <h4>明星交換禮物</h4>
+                <h3>雅典納轟趴</h3>
+                <h4>熱搜正妹擂台趴</h4>
               </div>
               </a> </li>
              
 
                
-            <li> <a href="http://tube.chinatimes.com/20160115004197-261402">
-              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-14/Miscellaneous/h20160114635883812149355877.jpg"></div>
+            <li> <a href="http://tube.chinatimes.com/20160117003259-261404">
+              <div class="pic"><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886534769565906.jpg"></div>
               <div class="text">
-                <h3>康熙來了</h3>
-                <h4>康熙最後一夜Ⅱ</h4>
+                <h3>魯豫有約</h3>
+                <h4>天后姊妹</h4>
               </div>
               </a> </li>
              
@@ -3382,10 +3432,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
     </section>
   </div>
   
- <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/ads/indexmarket.js?sdate=201601152319"></script>
-        <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/scripts/updateTime.js?sdate=201601152319"></script>
-        <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/scripts/hometopnews10.js?sdate=201601152319"></script>
-        <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/scripts/hometopnews12.js?sdate=201601152319"></script>
+ <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/ads/indexmarket.js?sdate=201601180604"></script>
+        <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/scripts/updateTime.js?sdate=201601180604"></script>
+        <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/scripts/hometopnews10.js?sdate=201601180604"></script>
+        <script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/scripts/hometopnews12.js?sdate=201601180604"></script>
          
 <!--something area start-->
 <div class="stack">
@@ -3450,12 +3500,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
             <div class="share_box clear-fix">
                 <ul>
                     <li><a href="http://www.facebook.com/CTfans" target="_blank"><span class="icon fb">
-                    </span>中時電子報<span class="num">712,696</span></a></li>
+                    </span>中時電子報<span class="num">722,680</span></a></li>
                     <li><a href="http://www.youtube.com/user/ChinaTimes" target="_blank"><span class="icon youtube">
-                    </span>訂閱人數<span class="num">668,542</span></a></li>
+                    </span>訂閱人數<span class="num">668,833</span></a></li>
                     
                     <li><a href="https://plus.google.com/+%E4%B8%AD%E6%99%82%E9%9B%BB%E5%AD%90%E5%A0%B1/posts"
-                        target="_blank"><span class="icon google"></span>中時電子報<span class="num">504,880</span></a></li>
+                        target="_blank"><span class="icon google"></span>中時電子報<span class="num">505,465</span></a></li>
                     <li><a href="http://e.weibo.com/showbizct" target="_blank"><span class="icon weibo">
                     </span>新影視頻道<span class="num">513,092</span></a></li>
                     
@@ -3564,6 +3614,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
                     
                 	<li><a href="http://quiz.chinatimes.com" target="_blank" rel="nofollow">-報時國中-新聞大考驗</a></li>
                     
+                	<li><a href="http://www.chinatimes.com/vote2016/" target="_blank" rel="nofollow">2016選舉選情戰報</a></li>
+                    
                 </ul>
             </div>
              
@@ -3571,11 +3623,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
             	<div class="title">輕鬆一下<span>by cteditor</span></div>
                 <ul class="clear-fix">
                  
-                	<li><a href="http://tube.chinatimes.com/20160115005443-261411" target="_blank" rel="nofollow">花豹外出找食物</a><a href="http://tube.chinatimes.com/20160115005443-261411" target="_blank" rel="nofollow"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884903146164111.jpg" title="花豹外出找食物" alt="花豹外出找食物" /></a><a href="http://tube.chinatimes.com/20160115005443-261411" target="_blank" rel="nofollow">竟落入陷阱無法自拔</a></li>
+                	<li><a href="http://photo.chinatimes.com/20160117003157-260807" target="_blank" rel="nofollow">NBA地板學問大！</a><a href="http://photo.chinatimes.com/20160117003157-260807" target="_blank" rel="nofollow"><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886638430811978.jpg" title="NBA地板學問大！" alt="NBA地板學問大！" /></a><a href="http://photo.chinatimes.com/20160117003157-260807" target="_blank" rel="nofollow">限楓木還有身分證</a></li>
                     
-                	<li><a href="http://tube.chinatimes.com/20160115005417-261411" target="_blank" rel="nofollow">貓咪愛親親...</a><a href="http://tube.chinatimes.com/20160115005417-261411" target="_blank" rel="nofollow"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884902632611209.jpg" title="貓咪愛親親 " alt="貓咪愛親親 " /></a><a href="http://tube.chinatimes.com/20160115005417-261411" target="_blank" rel="nofollow">竟在主人手上種草莓</a></li>
+                	<li><a href="http://photo.chinatimes.com/20160117003495-260809" target="_blank" rel="nofollow">有錢宅男最愛？</a><a href="http://photo.chinatimes.com/20160117003495-260809" target="_blank" rel="nofollow"><img src="http://img.chinatimes.com/newsphoto/2016-01-17/Miscellaneous/h20160117635886638659196379.jpg" title="有錢宅男最愛？" alt="有錢宅男最愛？" /></a><a href="http://photo.chinatimes.com/20160117003495-260809" target="_blank" rel="nofollow">這模型要60萬！</a></li>
                     
-                	<li><a href="http://tube.chinatimes.com/20160115005749-261411" target="_blank" rel="nofollow">狗狗這樣笑的原因？</a><a href="http://tube.chinatimes.com/20160115005749-261411" target="_blank" rel="nofollow"><img src="http://img.chinatimes.com/newsphoto/2016-01-15/Miscellaneous/h20160115635884901549033306.jpg" title="狗狗這樣笑的原因？" alt="狗狗這樣笑的原因？" /></a><a href="http://tube.chinatimes.com/20160115005749-261411" target="_blank" rel="nofollow">原因讓人揪心</a></li>
+                	<li><a href="http://www.chinatimes.com/vote2016/" target="_blank" rel="nofollow">2016總統、立委大選</a><a href="http://www.chinatimes.com/vote2016/" target="_blank" rel="nofollow"><img src="http://img.chinatimes.com/newsphoto/2016-01-16/Miscellaneous/h20160116635885736966068639.jpg" title="2016總統、立委大選" alt="2016總統、立委大選" /></a><a href="http://www.chinatimes.com/vote2016/" target="_blank" rel="nofollow">最完整名單看這裡</a></li>
                     
                 </ul>
             </div>
@@ -3617,11 +3669,17 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420530169323-0');
     </div>
 </footer>
 
-<div id="watermark" class="ad_watermark idx"></div>
-<script type='text/javascript'>
-    var ctWaterId = "26002401";
-</script>	
-<script charset="utf-8" type="text/javascript" src="http://www.chinatimes.com/ads/forums/indexwaterad.js?sdate=2016011523"></script>
+<div class="vote2016_watermark">
+<div class="title"><a href="/vote2016/"></a></div>
+<ul>
+        <li><a href="/vote2016/president/">總統開票</a></li>
+    <li><a href="/vote2016/legislator/">立委開票</a></li>
+    <li><a href="/vote2016/party/">政黨數據</a></li>
+    <li><a href="/vote2016/county/">縣市數據</a></li>
+</ul>
+<div class="fb"><a href="https://www.facebook.com/CTfans/"></a></div>
+</div>
+
 
 
     </div>

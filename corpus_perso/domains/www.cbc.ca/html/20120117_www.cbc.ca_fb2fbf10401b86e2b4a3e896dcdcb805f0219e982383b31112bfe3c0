@@ -432,11 +432,11 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
         
         
-            <div id="container75837532" class="cbc-caffeine-outer-container">
+            <div id="container55315722" class="cbc-caffeine-outer-container">
                 
                         
                         
-                            <div id="playlist-content21180116" class="caffeine-playlist">
+                            <div id="playlist-content78088150" class="caffeine-playlist">
                             </div>
                             
                         
@@ -448,7 +448,7 @@ if (document.location.pathname.toLowerCase() != "/news/arts/") {
 
 <script type="text/javascript" src="/i/caffeine/js/Caffeine.js"></script>
 <script type="text/javascript">
-    CBC.APP.Caffeine.initInstance({'mediaId': '2187656334', 'playlistSelector': '#playlist-content21180116', 'playerWidth': '620', 'containerSelector': '#container75837532', 'ciid': 'caffeine11706182'});
+    CBC.APP.Caffeine.initInstance({'mediaId': '2187656334', 'playlistSelector': '#playlist-content78088150', 'playerWidth': '620', 'containerSelector': '#container55315722', 'ciid': 'caffeine11706182'});
 </script>
   </div>
                     					<p class="figure-caption basetext"><span class="spaced">Food safety cuts</span> 2:08</p>
@@ -746,7 +746,26 @@ if (Y.one("#sharetoolstwo"))
         
 
 
-	 <script type="text/javascript">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        	 <script type="text/javascript">
 if(typeof(advertising_site) == "undefined") { advertising_site = "cbc.ca"; }
 if(typeof(advertising_zone) == "undefined") { advertising_zone = "nozone"; }
 if(typeof(advertising_page_type) == "undefined") { advertising_page_type = "story"; }
@@ -776,6 +795,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 </div>
 		</div>
 	
+    
 
       
     
@@ -804,12 +824,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/business/markets-dollar-oil-1.3405067" class="complexlink media">
-								<img title='' height='79' alt='Loonie canadian dollar 20150130' width='140' class='media-side' src='http://i.cbc.ca/1.3153847.1436993640!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/loonie-canadian-dollar-20150130.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Falling oil prices drag loonie below 69 cents US</span>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316" class="complexlink media">
+								<img title='' height='79' alt='DEM 2016 Sanders' width='140' class='media-side' src='http://i.cbc.ca/1.3406498.1452897045!/cpImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/dem-2016-sanders.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">'Vanilla socialist' Bernie Sanders jams a wrench into the Clinton juggernaut</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/markets-dollar-oil-1.3405067"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -825,13 +845,15 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/hamilton/news/tim-bosma-slaying-jury-selection-in-millard-smich-trial-starts-monday-1.3400581">'This only happens in TV and in movies': Tim Bosma killing reads like crime novel</a>
+							<a  href="/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614">Burkina Faso attacks: 6 Quebecers killed were on humanitarian trip</a>
 							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/montreal/burkina-faso-quebecers-killed-1.3407614"></span></span>
+    <span class="offscreen">comments</span>
+   
 	    	    		    		    	    		    		    		
 			<span class="icon_video">video</span>
-				<span class="icon_audio">audio</span>
-	</span>
+		</span>
 															</span>
 						</li>
 														
@@ -841,10 +863,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/business/house-prices-crea-1.3405205">Average Canadian house price up another 12% to $454,342</a>
+							<a  href="/news/health/drug-trial-france-death-1.3407803">Man in botched painkiller drug trial dies in France</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/house-prices-crea-1.3405205"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/health/drug-trial-france-death-1.3407803"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -858,10 +880,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/world/powerball-winners-tennessee-1.3405104">Tennessee couple come forward with winning Powerball ticket</a>
+							<a  href="/news/technology/spacex-launch-climate-satellite-1.3407778">Satellite launched but SpaceX rocket damaged on landing</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/world/powerball-winners-tennessee-1.3405104"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/technology/spacex-launch-climate-satellite-1.3407778"></span></span>
     <span class="offscreen">comments</span>
    
 	
@@ -875,13 +897,14 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/business/rrsp/rrsp-tax-season-retirement-savings-debt-1.3369317">Thinking of saving for retirement? Pay your debts first</a>
+							<a  href="/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459">'They think we're terrorists': Men behind 'suspicious' photographs at Vancouver mall speak out</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/business/rrsp/rrsp-tax-season-retirement-savings-debt-1.3369317"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/canada/british-columbia/men-behind-vancouver-s-pacific-centre-mall-suspicious-photographs-speak-out-1.3407459"></span></span>
     <span class="offscreen">comments</span>
    
-	
+	    	    		    		    		
+			<span class="icon_video">video</span>
 		</span>
 															</span>
 						</li>
@@ -978,13 +1001,12 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li>
-							<a  href="/news/politics/rcmp-rifle-upgrades-semi-automatic-1.3400423" class="complexlink media">
-								<img title='' height='79' alt='Pallbearers' width='140' class='media-side' src='http://i.cbc.ca/1.2671239.1402429827!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/pallbearers.jpg' />								<span class="media-body lineuproll-item-body">
-									<span class="complexlink-target">Rifles converted to automatic fire an increasing risk, RCMP internal report warns</span>
+							<a  href="/news/politics/justin-trudeau-s-davos-trip-1-more-star-turn-before-promises-meet-reality-1.3407348" class="complexlink media">
+								<img title='' height='79' alt='Trudeau-Hollande' width='140' class='media-side' src='http://i.cbc.ca/1.3343110.1448868174!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/trudeau-hollande.jpg' />								<span class="media-body lineuproll-item-body">
+									<span class="complexlink-target">Justin Trudeau's Davos trip 1 more star turn before promises meet reality</span>
 									<span class="lineuproll-extra">
 																					<span class="lineuproll-icons"> 
-	    	    		    		    		
-			<span class="icon_video">video</span>
+	
 		</span>
 																			</span>
 								</span>
@@ -997,7 +1019,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/women-on-the-money-social-media-1.3403812">Women on the money: Your picks for female faces on Canadian currency</a>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316">'Vanilla socialist' Bernie Sanders jams a wrench into the Clinton juggernaut</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> 
 	
@@ -1011,10 +1033,24 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/canadian-dead-stephane-dion-extremism-1.3403994">Stéphane Dion offers support to Indonesia after attack that killed Canadian</a>
+							<a  href="/news/world/profanity-neil-macdonald-1.3406290">Why should we give a bleep about profanity?</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> 
-	    	    		    		    		
+	
+		</span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/canada/trudeau-mosque-peterborough-1.3407697">Trudeau visits Peterborough, Ont., mosque repaired after arson</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> 
+	    	    		    		    	    		    		    		
 			<span class="icon_video">video</span>
 		</span>
 															</span>
@@ -1026,25 +1062,11 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/canada/ottawa/catherine-mckenna-turns-off-phone-1.3404071">Family first: Why cabinet minister Catherine McKenna turns off her phone after work</a>
+							<a  href="/news/world/burkina-faso-hotel-attack-1.3407326">6 Canadians from Quebec killed in attack on Burkina Faso hotel</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> 
-	    	    		    		    		
-				<span class="icon_audio">audio</span>
-	</span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/grenier-whitby-oshawa-poll-1.3403579">Ontario PCs hold early lead in Whitby–Oshawa by-election campaign, poll suggests</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons"> 
-	
+	    	    		    		    	    		    		    		
+			<span class="icon_video">video</span>
 		</span>
 															</span>
 						</li>
@@ -1096,10 +1118,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/rcmp-rifle-upgrades-semi-automatic-1.3400423">Rifles converted to automatic fire an increasing risk, RCMP internal report warns</a>
+							<a  href="/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316">Bernie Sanders makes his run at stopping the Clinton juggernaut</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/rcmp-rifle-upgrades-semi-automatic-1.3400423"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/bernie-sanders-democratic-nomination-president-hillary-clinton-1.3405316"></span></span>
     <span class="offscreen">comments</span>
    </span>
 															</span>
@@ -1111,22 +1133,7 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/conservative-leadership-kevin-o-leary-1.3401967">Kevin O'Leary circling as key Conservatives test Tory leadership waters</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/conservative-leadership-kevin-o-leary-1.3401967"></span></span>
-    <span class="offscreen">comments</span>
-   </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/counterfeiters-perplexed-by-canada-s-plastic-money-1.3401839">Counterfeiters perplexed by Canada's plastic money</a>
+							<a  href="/news/politics/justin-trudeau-s-davos-trip-1-more-star-turn-before-promises-meet-reality-1.3407348">Justin Trudeau's Davos trip 1 more star turn before promises meet reality</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons"> </span>
 															</span>
@@ -1138,10 +1145,52 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/temporary-foreign-worker-reforms-immigration-chamber-report-1.3403375">Express entry, foreign worker reforms attract 'fewer' skilled workers: chamber report</a>
+							<a  href="/news/politics/ambassadors-appointted-u-s-un-1.3407072">Canada's new ambassadors to U.S., UN are David MacNaughton, Marc-André Blanchard</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/temporary-foreign-worker-reforms-immigration-chamber-report-1.3403375"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/ambassadors-appointted-u-s-un-1.3407072"></span></span>
+    <span class="offscreen">comments</span>
+   </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/politics/saudi-arabia-law-rights-1.3402678">The roots of Saudi Arabia's harsh system of justice </a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons"> </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/politics/tony-clement-conservatives-liberals-saudi-arabia-transparency-1.3402055">Tony Clement and the Conservative Party's reckoning with itself</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/tony-clement-conservatives-liberals-saudi-arabia-transparency-1.3402055"></span></span>
+    <span class="offscreen">comments</span>
+   </span>
+															</span>
+						</li>
+														
+															
+															
+															
+															
+																				
+											<li class="lineuproll-item-body">
+							<a  href="/news/politics/rcmp-rifle-upgrades-semi-automatic-1.3400423">Rifles converted to automatic fire an increasing risk, RCMP internal report warns</a>
+							<span class="lineuproll-extra">
+																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/rcmp-rifle-upgrades-semi-automatic-1.3400423"></span></span>
     <span class="offscreen">comments</span>
    </span>
 															</span>
@@ -1168,10 +1217,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/canadian-dead-stephane-dion-extremism-1.3403994">Stéphane Dion offers support to Indonesia after attack that killed Canadian</a>
+							<a  href="/news/politics/conservative-leadership-kevin-o-leary-1.3401967">Kevin O'Leary circling as key Conservatives test Tory leadership waters</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/canadian-dead-stephane-dion-extremism-1.3403994"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/conservative-leadership-kevin-o-leary-1.3401967"></span></span>
     <span class="offscreen">comments</span>
    </span>
 															</span>
@@ -1183,10 +1232,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/tony-clement-conservatives-liberals-saudi-arabia-transparency-1.3402055">Tony Clement and the Conservative Party's reckoning with itself</a>
+							<a  href="/news/politics/new-child-benefits-taxes-uccb-1.3369613">New child benefits coming later in 2016 – after tax bill comes due on UCCB</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/tony-clement-conservatives-liberals-saudi-arabia-transparency-1.3402055"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/new-child-benefits-taxes-uccb-1.3369613"></span></span>
     <span class="offscreen">comments</span>
    </span>
 															</span>
@@ -1198,40 +1247,10 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 															
 																				
 											<li class="lineuproll-item-body">
-							<a  href="/news/politics/infrastructure-acceleration-sohi-1.3403450">Trudeau's government set to speed up, double down on infrastructure</a>
+							<a  href="/news/politics/assisted-dying-supreme-court-federal-1.3406009">Supreme Court gives federal government 4-month extension to pass assisted dying law</a>
 							<span class="lineuproll-extra">
 																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/infrastructure-acceleration-sohi-1.3403450"></span></span>
-    <span class="offscreen">comments</span>
-   </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/grenier-whitby-oshawa-poll-1.3403579">Ontario PCs hold early lead in Whitby–Oshawa by-election campaign, poll suggests</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/grenier-whitby-oshawa-poll-1.3403579"></span></span>
-    <span class="offscreen">comments</span>
-   </span>
-															</span>
-						</li>
-														
-															
-															
-															
-															
-																				
-											<li class="lineuproll-item-body">
-							<a  href="/news/politics/trudeau-legalizing-pot-global-treaties-1.3390745">Legalizing pot in Canada will run afoul of global treaties, Trudeau warned</a>
-							<span class="lineuproll-extra">
-																	<span class="lineuproll-icons">      <span class="icon_comments">read</span>
-    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/trudeau-legalizing-pot-global-treaties-1.3390745"></span></span>
+    <span class="viafoura"><span class="vf-counter vf-widget" data-widget="counter" data-path="http://www.cbc.ca/news/politics/assisted-dying-supreme-court-federal-1.3406009"></span></span>
     <span class="offscreen">comments</span>
    </span>
 															</span>
@@ -1291,13 +1310,13 @@ if(typeof(ord) == "undefined") {  ord = Math.floor(Math.random() * 1000000000000
 								</h3>
 	</div>
 	<div class="carousel-body module-body">
-		<div id="carousel_7_585_1452793901-28921" class="scroller">
+		<div id="carousel_7_585_1452793901-20434" class="scroller">
 			<div class="scroller-wrapper layoutcontext">
 				<ul>
 				    						<li class="promo col2width">
 									    		 		<a href="/news/politics/grenier-cf18s-middle-east-isis-1.3398474" class="complexlink">
 			<p>
-        					    			<img title='' height='79' alt='Operation IMPACT' width='100%' src='http://i.cbc.ca/1.3372448.1450479625!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/operation-impact.jpg' />				    									<span class="promo-label label bombingmission">BOMBING MISSION</span>
+        					    			<img title='' height='79' alt='Operation IMPACT' width='100%' src='http://i.cbc.ca/1.3372448.1452876866!/fileImage/httpImage/image.jpg_gen/derivatives/16x9tight_140/operation-impact.jpg' />				    									<span class="promo-label label bombingmission">BOMBING MISSION</span>
 						</p>		
 			<p class="promo-title complexlink-target">2% of Canadian anti-ISIS airstrikes had targets in Syria</p>
 								</a>
@@ -1407,7 +1426,7 @@ CBC.Queue.push({
 		YUI(yo).use('scroller', function(Y, result) {
 			if (result.success){
 				var instance = new CBC.APP.Scroller();
-				var conf = { parentid:"carousel_7_585_1452793901-28921", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
+				var conf = { parentid:"carousel_7_585_1452793901-20434", debug: false, snap: true, navigation:true, outside_arrows:true, infinite:true, cutoff:false };
 		  		instance.init(Y, conf);
 			}
 		});
@@ -1440,7 +1459,7 @@ CBC.Queue.push({
 </style><footer id="cbc-globalfooter" class="sclt-globalFooter"><div class="cbc-globalfooter-section"><h2>Explore CBC</h2><ul><li><a href="http://www.cbc.ca">CBC Home</a></li><li><a href="http://www.cbc.ca/television/">TV</a></li><li><a href="http://www.cbc.ca/radio/">Radio</a></li><li><a href="http://www.cbc.ca/news">News</a></li><li><a href="http://www.cbc.ca/sports">Sports</a></li><li><a href="http://music.cbc.ca/">Music</a></li><li><a href="/arts/">Arts</a></li><li><a href="http://www.cbc.ca/kidscbc/">Kids</a></li><li><a href="http://www.cbc.ca/news/canada#region-nav">Local</a></li><li><a href="http://www.cbc.ca/documentaries/">Documentaries</a></li><li><a href="http://www.cbc.ca/punchline/">Comedy</a></li><li><a href="http://www.cbc.ca/books/">Books</a></li><li><a href="http://www.cbc.ca/parents/">Parents</a></li><li><a href="http://www.cbc.ca/news/aboriginal">Aboriginal</a></li><li><a href="http://www.cbc.ca/weather/">Weather</a></li><li><a href="http://www.cbc.ca/connects/">CBC Connects</a></li><li><a href="http://www.cbc.ca/archives/">Digital Archives</a></li><li><a href="http://www.cbc.ca/games/">Games</a></li><li><a href="http://www.cbc.ca/contests/">Contests</a></li><li><a href="http://www.cbc.ca/sitemap/">Site Map</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Stay Connected</h2><ul><li><a href="http://www.cbc.ca/mobile/services/">Mobile</a></li><li><a href="http://www.cbc.ca/rss/">RSS</a></li><li><a href="http://www.cbc.ca/radio/podcasts/">Podcasts</a></li><li><a href="http://subscriptions.cbc.ca/listmanagement">Newsletters &amp; Alerts</a></li></ul></div><div class="cbc-globalfooter-section"><h2>Services and Information</h2><ul><li><a href="http://www.cbc.radio-canada.ca/en">Corporate Info</a></li><li><a href="http://www.cbc.ca/appearances/">Public Appearances</a></li><li><a href="http://www.cbc.ca/sitemap/">Commercial Services</a></li><li><a href="http://www.cbc.ca/permissions/">Reuse &amp; Permission</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/termsofuse.html">Terms of Use</a></li><li><a href="http://www.cbc.ca/aboutcbc/discover/privacy.html">Privacy Policy</a></li><li><a href="http://www.cbcshop.ca/">CBC Shop</a></li><li><a href="http://www.cbc.ca/connects/">Help</a></li><li><a href="http://www.cbc.ca/connects/">Contact Us</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/jobs/">Jobs</a></li><li><a href="http://www.cbc.radio-canada.ca/en/explore/doing-business-with-us/">Doing Business with Us</a></li><li><a href="/productionfacilities/">Renting Facilities</a></li></ul></div><div class="cbc-globalfooter-bottom"><div class="cbc-globalfooter-logo"><p class="cbc"><a href="http://www.cbc.radio-canada.ca/">CBC</a></p><a href="http://www.cbc.radio-canada.ca/"><img class="cbc-globalfooter-logo" src="/i/o/globalnav/v14/images/cbc-gem.svg" width="40" height="40" alt="CBC gem logo"></a><p class="rc"><a href="http://www.cbc.radio-canada.ca/">Radio-Canada</a></p></div><div class="cbc-globalfooter-copyright"><p>©2016 CBC/Radio-Canada. All rights reserved</p></div><div class="cbc-globalfooter-bottom-link" lang="fr-CA"><a href="http://ici.radio-canada.ca/" hreflang="fr-CA">Visitez Radio-Canada.ca</a></div><div class="clear"></div></div></footer><script src="/i/o/globalnav/v14/scripts/globalfooter.js"></script><script>(function() {
 try{var a=
 {l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""}
-,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src=“//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
+,b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d28g9g3vb08y70.cloudfront.net?a=fecc80eaae2f48ef9e6739f773df5981";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/cbc907UvMO43/moatcontent.js#"+b}catch(f){try
 {var g= "//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}
 catch(h){}};
 })();</script>

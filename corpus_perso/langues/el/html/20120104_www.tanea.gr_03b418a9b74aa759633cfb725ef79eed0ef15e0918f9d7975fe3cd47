@@ -13,7 +13,7 @@
 	<base href="http://www.tanea.gr/" />
 	<link rel="publisher" href="https://plus.google.com/u/0/117116870237327933275" />
 	<meta property="og:title" content="Κρέμονται από τα χείλη του γκουρού των επενδύσεων" itemprop="headline" />
-	<meta property="og:url" content="http://www.tanea.gr/news/economy/article/4685064/" itemprop="url" />
+	<meta property="og:url" content="http://www.tanea.gr/news/economy/article/4685064/?iid=2" itemprop="url" />
 	<meta name="news_keywords" content="γκουρού,επενδύσεων,κρέμονται,χείλη,Οικονομία,Επικαιρότητα," />
 	<meta property="og:site_name" content="Τα Νέα Οnline" />
 	<meta name="medium" content="news" itemprop="genre" />
@@ -25,7 +25,7 @@
 	<meta name="author" content="Τα Νέα Οnline" itemprop="author" />
 	<meta name="section" content="Οικονομία" itemprop="articleSection" />
 	<meta name="source" content="Τα Νέα Οnline" itemprop="sourceOrganization" />
-	<link rel="canonical" href="http://www.tanea.gr/news/economy/article/4685064/" />
+	<link rel="canonical" href="http://www.tanea.gr/news/economy/article/4685064/?iid=2" />
 	<meta property="og:type" content="Article" />
 	<meta property="og:description" content="
 
@@ -69,7 +69,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
     <div class="row">
     
     <div class="col row-login-desktop">
-    	<span id="today">Παρασκευή 15 Ιανουαρίου 2016 </span>
+    	<span id="today">Κυριακή 17 Ιανουαρίου 2016 </span>
       	
       	<div class="loginme">
             
@@ -297,7 +297,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 
 <script type="text/javascript">
     var ArticleID = 4685064,
-        IsOldNea = false,
+        IsOldNea = true,
         Content, LastSizeCssClass = 'fontsmall';
     $(document).ready(function () {
         $('#print-me').click(function () {
@@ -384,14 +384,14 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 </style>
 
 <div class="share">
-    <div class="addthis_toolbox addthis_default_style" id='d5e86c3dd285b318096f09dae9ae86catoolbox' addthis:url='http://www.tanea.gr/news/economy/article/4685064/'
+    <div class="addthis_toolbox addthis_default_style" id='7cc59d7434984f6196ca80b4059a754btoolbox' addthis:url='http://www.tanea.gr/news/economy/article/4685064/?iid=2'
         addthis:title='Κρέμονται από τα χείλη του γκουρού των επενδύσεων' addthis:description='Κρέμονται από τα χείλη του γκουρού των επενδύσεων'>
         <div class="item">
             <a class="addthis_button_facebook_like" id="like-button-addthis"></a><a class="addthis_button_google_plusone" id="plusone-addthis-button"></a>
         </div>
         <div class="item">
             <a class="addthis_button_tweet"
-                tw:via="ta_nea"></a><a class="addthis_counter addthis_pill_style" addthis:url='http://www.tanea.gr/news/economy/article/4685064/' addthis:title='Κρέμονται από τα χείλη του γκουρού των επενδύσεων'
+                tw:via="ta_nea"></a><a class="addthis_counter addthis_pill_style" addthis:url='http://www.tanea.gr/news/economy/article/4685064/?iid=2' addthis:title='Κρέμονται από τα χείλη του γκουρού των επενδύσεων'
                     addthis:description='Κρέμονται από τα χείλη του γκουρού των επενδύσεων'></a>
         </div>
         
@@ -411,12 +411,12 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
             e = document.getElementByID('plusone-addthis-button');
             e.createAttribute('g:plusone:size', 'medium');
 
-            // gapi.plusone.render('d5e86c3dd285b318096f09dae9ae86ca', { "size": "medium", "href": "http://www.tanea.gr/news/economy/article/4685064/" });
-            addthis.toolbox('#d5e86c3dd285b318096f09dae9ae86catoolbox', {}, { url: 'http://www.tanea.gr/news/economy/article/4685064/', title: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων', description: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων' });
+            // gapi.plusone.render('7cc59d7434984f6196ca80b4059a754b', { "size": "medium", "href": "http://www.tanea.gr/news/economy/article/4685064/?iid=2" });
+            addthis.toolbox('#7cc59d7434984f6196ca80b4059a754btoolbox', {}, { url: 'http://www.tanea.gr/news/economy/article/4685064/?iid=2', title: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων', description: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων' });
 
             //            var inter = setInterval(function () {
-            //                addthis.counter('#d5e86c3dd285b318096f09dae9ae86caCounter', {}, { url: 'http://www.tanea.gr/news/economy/article/4685064/', title: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων', description: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων' });
-            //                $('#d5e86c3dd285b318096f09dae9ae86caCounter').fadeIn();
+            //                addthis.counter('#7cc59d7434984f6196ca80b4059a754bCounter', {}, { url: 'http://www.tanea.gr/news/economy/article/4685064/?iid=2', title: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων', description: 'Κρέμονται από τα χείλη του γκουρού των επενδύσεων' });
+            //                $('#7cc59d7434984f6196ca80b4059a754bCounter').fadeIn();
             //                clearInterval(inter);
             //            }
             //                                , 1000);
@@ -502,7 +502,7 @@ function SponsorLink() {
                 <span class="count">
                     0
                     
-                    <em></em></span><a href="http://www.tanea.gr/news/economy/article/4685064/#externaldisquss_div"><span class="text">
+                    <em></em></span><a href="http://www.tanea.gr/news/economy/article/4685064/?iid=2#externaldisquss_div"><span class="text">
                         <em>Σχόλια</em> αναγνωστών</span></a>
                 
             </div>
@@ -556,67 +556,67 @@ function SponsorLink() {
         
                 <div class="item" id="lastnews1">
                     <div class="photo">
-                        <a href='/news/world/article/5326747/dyo-stratiwtika-elikoptera-katepesan-sto-arxipelagos-ths-xabahs-agnooyntai-12-atoma/' title='Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'>
-                            <img title='Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα - Κόσμος - Επικαιρότητα - Τα Νέα Οnline' alt='Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα' src='http://nstatic.tanea.gr/24073989_Hawaii_Helicopter_Collision_JPEG_0de2e.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE1JTJmMjQwNzM5ODlfaGF3YWlpK2hlbGljb3B0ZXIrY29sbGlzaW9uLmpwZWctMGRlMmUuanBnJnc9MTI0Jmg9Njkmc3Q9dHJ1ZSZiZz0xNjc3NzIxNSZjcj10cnVlJmF0PTQ%3d'  border='0' />
+                        <a href='/news/politics/article/5327146/laiko-kseshkwmo-kata-toy-asfalistikoy-zhta-o-koytsoympas/' title='Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'>
+                            <img title='Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας - Πολιτική - Επικαιρότητα - Τα Νέα Οnline' alt='Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας' src='http://nstatic.tanea.gr/24095570_ip_723600_EKDHLOSH_17_01_2016.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE3JTJmMjQwOTU1NzBfaXBfNzIzNjAwX2VrZGhsb3NoXzE3LTAxLTIwMTYuanBnJnc9MTI0Jmg9Njkmc3Q9dHJ1ZSZiZz0xNjc3NzIxNSZjcj10cnVlJmF0PTQ%3d'  border='0' />
                         </a>
                     </div>
                     <div class="title">
-                        <a href='/news/world/article/5326747/dyo-stratiwtika-elikoptera-katepesan-sto-arxipelagos-ths-xabahs-agnooyntai-12-atoma/' title='Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'>
-                            Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα</a>
+                        <a href='/news/politics/article/5327146/laiko-kseshkwmo-kata-toy-asfalistikoy-zhta-o-koytsoympas/' title='Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'>
+                            Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας</a>
                     </div>
-                    <div class='data'> <span class='datetime'>Πριν 2'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/world/article/5326747/dyo-stratiwtika-elikoptera-katepesan-sto-arxipelagos-ths-xabahs-agnooyntai-12-atoma/#externaldisquss_div' title='Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
+                    <div class='data'> <span class='datetime'>Πριν 13'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/politics/article/5327146/laiko-kseshkwmo-kata-toy-asfalistikoy-zhta-o-koytsoympas/#externaldisquss_div' title='Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
                 </div>
             
                 <div class="item" id="lastnews2">
                     <div class="photo">
-                        <a href='/news/politics/article/5326745/pappas-h-eldorado-gold-na-sebastei-th-nomimothta/' title='Παππάς: Η Eldorado Gold να σεβαστεί τη νομιμότητα - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'>
-                            <img title='Ο υπουργός Επικρατείας Νίκος Παππάς' alt='Παππάς: Η Eldorado Gold να σεβαστεί τη νομιμότητα' src='http://nstatic.tanea.gr/23741659_16035843.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE1JTJmMjM3NDE2NTlfMTYwMzU4NDMuanBnJnc9MTI0Jmg9Njkmc3Q9dHJ1ZSZiZz0xNjc3NzIxNSZjcj10cnVlJmF0PTQ%3d'  border='0' />
+                        <a href='/news/greece/article/5327141/se-epifylakh-gia-ton-ebro-eksaitias-ths-yperxeilishs-toy-fragmatos-toy-ibailobgkrant/' title='Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            <img title='Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline' alt='Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ' src='http://nstatic.tanea.gr/20283057_14785840.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE3JTJmMjAyODMwNTdfMTQ3ODU4NDAuanBnJnc9MTI0Jmg9Njkmc3Q9dHJ1ZSZiZz0xNjc3NzIxNSZjcj10cnVlJmF0PTQ%3d'  border='0' />
                         </a>
                     </div>
                     <div class="title">
-                        <a href='/news/politics/article/5326745/pappas-h-eldorado-gold-na-sebastei-th-nomimothta/' title='Παππάς: Η Eldorado Gold να σεβαστεί τη νομιμότητα - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'>
-                            Παππάς: Η Eldorado Gold να σεβαστεί τη νομιμότητα</a>
+                        <a href='/news/greece/article/5327141/se-epifylakh-gia-ton-ebro-eksaitias-ths-yperxeilishs-toy-fragmatos-toy-ibailobgkrant/' title='Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ</a>
                     </div>
-                    <div class='data'> <span class='datetime'>Πριν 13'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/politics/article/5326745/pappas-h-eldorado-gold-na-sebastei-th-nomimothta/#externaldisquss_div' title='Παππάς: Η Eldorado Gold να σεβαστεί τη νομιμότητα - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
+                    <div class='data'> <span class='datetime'>Πριν 27'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/greece/article/5327141/se-epifylakh-gia-ton-ebro-eksaitias-ths-yperxeilishs-toy-fragmatos-toy-ibailobgkrant/#externaldisquss_div' title='Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
                 </div>
             
                 <div class="item" id="lastnews3">
                     <div class="photo">
-                        <a href='/news/world/article/5326674/tragikh-katalhksh-se-dokimh-peiramatikoy-farmakoy-sth-gallia/' title='Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'>
-                            <img title='Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία - Κόσμος - Επικαιρότητα - Τα Νέα Οnline' alt='Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία' src='http://nstatic.tanea.gr/6844615_SHA105_PHARMACEUTICALS_TRIALS_0506_11.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE1JTJmNjg0NDYxNV9zaGExMDVfcGhhcm1hY2V1dGljYWxzLXRyaWFsc18wNTA2XzExLmpwZyZ3PTEyNCZoPTY5JnN0PXRydWUmYmc9MTY3NzcyMTUmY3I9dHJ1ZSZhdD00'  border='0' />
+                        <a href='/news/greece/article/5327140/oi-tyxeroi-arithmoi-toy-tzoker-4-5-14-18-29-tzoker-8/' title='Οι τυχεροί αριθμοί του Τζόκερ: 4, 5, 14, 18, 29 - ΤΖΟΚΕΡ: 8 - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            
                         </a>
                     </div>
                     <div class="title">
-                        <a href='/news/world/article/5326674/tragikh-katalhksh-se-dokimh-peiramatikoy-farmakoy-sth-gallia/' title='Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'>
-                            Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία</a>
+                        <a href='/news/greece/article/5327140/oi-tyxeroi-arithmoi-toy-tzoker-4-5-14-18-29-tzoker-8/' title='Οι τυχεροί αριθμοί του Τζόκερ: 4, 5, 14, 18, 29 - ΤΖΟΚΕΡ: 8 - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            Οι τυχεροί αριθμοί του Τζόκερ: 4, 5, 14, 18, 29 - ΤΖΟΚΕΡ: 8</a>
                     </div>
-                    <div class='data'> <span class='datetime'>Πριν 29'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/world/article/5326674/tragikh-katalhksh-se-dokimh-peiramatikoy-farmakoy-sth-gallia/#externaldisquss_div' title='Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
+                    <div class='data'> <span class='datetime'>Πριν 31'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/greece/article/5327140/oi-tyxeroi-arithmoi-toy-tzoker-4-5-14-18-29-tzoker-8/#externaldisquss_div' title='Οι τυχεροί αριθμοί του Τζόκερ: 4, 5, 14, 18, 29 - ΤΖΟΚΕΡ: 8 - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
                 </div>
             
                 <div class="item" id="lastnews4">
                     <div class="photo">
-                        <a href='/news/world/article/5326737/soimple-h-ee-prepei-na-afierwsei-megalytera-kondylia-gia-to-prosfygiko/' title='Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'>
-                            <img title='Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό - Κόσμος - Επικαιρότητα - Τα Νέα Οnline' alt='Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό' src='http://nstatic.tanea.gr/24064145__654D3E1A_4ACF_440F_9FB3_A344BC03F8E4_.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE1JTJmMjQwNjQxNDVfJTdiNjU0ZDNlMWEtNGFjZi00NDBmLTlmYjMtYTM0NGJjMDNmOGU0JTdkLmpwZyZ3PTEyNCZoPTY5JnN0PXRydWUmYmc9MTY3NzcyMTUmY3I9dHJ1ZSZhdD00'  border='0' />
+                        <a href='/news/sports/article/5327124/nikh-toy-astera-tripolhs-epi-ths-kallonhs/' title='Νίκη του Αστέρα Τρίπολης  επί της Καλλονής  - Ομάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            <img title='Νίκη του Αστέρα Τρίπολης  επί της Καλλονής  - Ομάδα - Επικαιρότητα - Τα Νέα Οnline' alt='Νίκη του Αστέρα Τρίπολης  επί της Καλλονής ' src='http://nstatic.tanea.gr/24094864_asteraskaloni82.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE3JTJmMjQwOTQ4NjRfYXN0ZXJhc2thbG9uaTgyLmpwZyZ3PTEyNCZoPTY5JnN0PWZhbHNlJmJnPTAmY3I9ZmFsc2UmYXQ9NA%3d%3d'  border='0' />
                         </a>
                     </div>
                     <div class="title">
-                        <a href='/news/world/article/5326737/soimple-h-ee-prepei-na-afierwsei-megalytera-kondylia-gia-to-prosfygiko/' title='Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'>
-                            Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό</a>
+                        <a href='/news/sports/article/5327124/nikh-toy-astera-tripolhs-epi-ths-kallonhs/' title='Νίκη του Αστέρα Τρίπολης  επί της Καλλονής  - Ομάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            Νίκη του Αστέρα Τρίπολης  επί της Καλλονής </a>
                     </div>
-                    <div class='data'> <span class='datetime'>Πριν 29'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/world/article/5326737/soimple-h-ee-prepei-na-afierwsei-megalytera-kondylia-gia-to-prosfygiko/#externaldisquss_div' title='Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό - Κόσμος - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
+                    <div class='data'> <span class='datetime'>21:59</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/sports/article/5327124/nikh-toy-astera-tripolhs-epi-ths-kallonhs/#externaldisquss_div' title='Νίκη του Αστέρα Τρίπολης  επί της Καλλονής  - Ομάδα - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
                 </div>
             
                 <div class="item" id="lastnews5">
                     <div class="photo">
-                        <a href='/news/politics/article/5326739/syriza-to-prostimo-ston-papastayroy-diapseydei-th-nd/' title='ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'>
-                            <img title='ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ - Πολιτική - Επικαιρότητα - Τα Νέα Οnline' alt='ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ' src='http://nstatic.tanea.gr/21067746_EV_AN_100315_LOGOTYPO_SYRIZA7.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE1JTJmMjEwNjc3NDZfZXZfYW5fMTAwMzE1X2xvZ290eXBvX3N5cml6YTcuanBnJnc9MTI0Jmg9Njkmc3Q9dHJ1ZSZiZz0xNjc3NzIxNSZjcj10cnVlJmF0PTQ%3d'  border='0' />
+                        <a href='/news/sports/article/5327116/o-dioydhs-krathse-ton-paniwnio-orthio-sth-lewforo/' title='Ο Διούδης κράτησε τον Πανιώνιο «όρθιο» στη Λεωφόρο - Ομάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            <img title='(File: lato-10235.JPG )' alt='Ο Διούδης κράτησε τον Πανιώνιο «όρθιο» στη Λεωφόρο' src='http://nstatic.tanea.gr/24095274_lato_10235.limghandler.jpg?i=aT1maWxlcyUyZjElMmZtZWRpYSUyZjIwMTYlMmYwMSUyZjE3JTJmMjQwOTUyNzRfbGF0by0xMDIzNS5qcGcmdz0xMjQmaD02OSZzdD10cnVlJmJnPTE2Nzc3MjE1JmNyPXRydWUmYXQ9NA%3d%3d'  border='0' />
                         </a>
                     </div>
                     <div class="title">
-                        <a href='/news/politics/article/5326739/syriza-to-prostimo-ston-papastayroy-diapseydei-th-nd/' title='ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'>
-                            ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ</a>
+                        <a href='/news/sports/article/5327116/o-dioydhs-krathse-ton-paniwnio-orthio-sth-lewforo/' title='Ο Διούδης κράτησε τον Πανιώνιο «όρθιο» στη Λεωφόρο - Ομάδα - Επικαιρότητα - Τα Νέα Οnline'>
+                            Ο Διούδης κράτησε τον Πανιώνιο «όρθιο» στη Λεωφόρο</a>
                     </div>
-                    <div class='data'> <span class='datetime'>Πριν 32'</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/politics/article/5326739/syriza-to-prostimo-ston-papastayroy-diapseydei-th-nd/#externaldisquss_div' title='ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ - Πολιτική - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
+                    <div class='data'> <span class='datetime'>21:36</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/sports/article/5327116/o-dioydhs-krathse-ton-paniwnio-orthio-sth-lewforo/#externaldisquss_div' title='Ο Διούδης κράτησε τον Πανιώνιο «όρθιο» στη Λεωφόρο - Ομάδα - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
                 </div>
             
     </div>
@@ -670,21 +670,10 @@ function SponsorLink() {
     </div>
     <div class="items" id="newsroomcontainer">
         
-        <div class="item  heightfix" articleid="5326747" lastupdate="1452868882000">
+        <div class="item  heightfix" articleid="5327146" lastupdate="1453065262000">
             <div class="title">
-                <a title="Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα - Κόσμος - Επικαιρότητα - Τα Νέα Οnline" href="/news/world/article/5326747/dyo-stratiwtika-elikoptera-katepesan-sto-arxipelagos-ths-xabahs-agnooyntai-12-atoma/">
-                    Δύο στρατιωτικά ελικόπτερα κατέπεσαν στο αρχιπέλαγος της Χαβάης - αγνοούνται 12 άτομα
-                </a>
-                <div class="datetime">
-                    Πριν 3'
-                </div>
-            </div>
-        </div>
-    
-        <div class="item  heightfix" articleid="5326745" lastupdate="1452868233000">
-            <div class="title">
-                <a title="Παππάς: Η Eldorado Gold να σεβαστεί τη νομιμότητα - Πολιτική - Επικαιρότητα - Τα Νέα Οnline" href="/news/politics/article/5326745/pappas-h-eldorado-gold-na-sebastei-th-nomimothta/">
-                    Παππάς: Η Eldorado Gold να σεβαστεί τη νομιμότητα
+                <a title="Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας - Πολιτική - Επικαιρότητα - Τα Νέα Οnline" href="/news/politics/article/5327146/laiko-kseshkwmo-kata-toy-asfalistikoy-zhta-o-koytsoympas/">
+                    Λαϊκό ξεσηκωμό κατά του Ασφαλιστικού ζητά ο Κουτσούμπας
                 </a>
                 <div class="datetime">
                     Πριν 14'
@@ -692,90 +681,101 @@ function SponsorLink() {
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326674" lastupdate="1452867288000">
+        <div class="item  heightfix" articleid="5327141" lastupdate="1453064428000">
             <div class="title">
-                <a title="Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία - Κόσμος - Επικαιρότητα - Τα Νέα Οnline" href="/news/world/article/5326674/tragikh-katalhksh-se-dokimh-peiramatikoy-farmakoy-sth-gallia/">
-                    Ασθενής έμεινε εγκεφαλικά νεκρός από δοκιμή πειραματικού φαρμάκου στη Γαλλία
+                <a title="Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/greece/article/5327141/se-epifylakh-gia-ton-ebro-eksaitias-ths-yperxeilishs-toy-fragmatos-toy-ibailobgkrant/">
+                    Σε επιφυλακή για τον Έβρο εξαιτίας της υπερχείλισης του φράγματος του Ιβαϊλοβγκραντ
                 </a>
                 <div class="datetime">
-                    Πριν 30'
+                    Πριν 28'
                 </div>
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326737" lastupdate="1452867268000">
+        <div class="item  heightfix" articleid="5327140" lastupdate="1453064186000">
             <div class="title">
-                <a title="Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό - Κόσμος - Επικαιρότητα - Τα Νέα Οnline" href="/news/world/article/5326737/soimple-h-ee-prepei-na-afierwsei-megalytera-kondylia-gia-to-prosfygiko/">
-                    Σόιμπλε: Η ΕΕ πρέπει να χορηγήσει μεγαλύτερα κονδύλια για το προσφυγικό
+                <a title="Οι τυχεροί αριθμοί του Τζόκερ: 4, 5, 14, 18, 29 - ΤΖΟΚΕΡ: 8 - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/greece/article/5327140/oi-tyxeroi-arithmoi-toy-tzoker-4-5-14-18-29-tzoker-8/">
+                    Οι τυχεροί αριθμοί του Τζόκερ: 4, 5, 14, 18, 29 - ΤΖΟΚΕΡ: 8
                 </a>
                 <div class="datetime">
-                    Πριν 30'
+                    Πριν 32'
                 </div>
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326739" lastupdate="1452867110000">
+        <div class="item  heightfix" articleid="5327124" lastupdate="1453060770000">
             <div class="title">
-                <a title="ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ - Πολιτική - Επικαιρότητα - Τα Νέα Οnline" href="/news/politics/article/5326739/syriza-to-prostimo-ston-papastayroy-diapseydei-th-nd/">
-                    ΣΥΡΙΖΑ: Το πρόστιμο στον Παπασταύρου διαψεύδει τη ΝΔ
+                <a title="Νίκη του Αστέρα Τρίπολης  επί της Καλλονής  - Ομάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/sports/article/5327124/nikh-toy-astera-tripolhs-epi-ths-kallonhs/">
+                    Νίκη του Αστέρα Τρίπολης  επί της Καλλονής 
                 </a>
                 <div class="datetime">
-                    Πριν 33'
+                    21:59
                 </div>
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326620" lastupdate="1452866714000">
+        <div class="item  heightfix" articleid="5327116" lastupdate="1453059402000">
             <div class="title">
-                <a title="Γενική απεργία στις 4 Φεβρουαρίου αποφάσισε η ΓΣΕΕ - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/greece/article/5326620/genikh-apergia-stis-4-febroyarioy-eishgeitai-h-gsee/">
-                    Γενική απεργία στις 4 Φεβρουαρίου αποφάσισε η ΓΣΕΕ
+                <a title="Ο Διούδης κράτησε τον Πανιώνιο «όρθιο» στη Λεωφόρο - Ομάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/sports/article/5327116/o-dioydhs-krathse-ton-paniwnio-orthio-sth-lewforo/">
+                    Ο Διούδης κράτησε τον Πανιώνιο «όρθιο» στη Λεωφόρο
                 </a>
                 <div class="datetime">
-                    Πριν 39'
+                    21:36
                 </div>
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326713" lastupdate="1452865889000">
+        <div class="item  heightfix" articleid="5327115" lastupdate="1453058744000">
             <div class="title">
-                <a title="Αποχώρησαν από την εθνική οδό Αργους - Ναυπλίου οι αγρότες - νέες κινητοποιήσεις τη Δευτέρα - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/greece/article/5326713/agrotes-ekleisan-thn-ethnikh-odo-argoys-nayplioy/">
-                    Αποχώρησαν από την εθνική οδό Αργους - Ναυπλίου οι αγρότες - νέες κινητοποιήσεις τη Δευτέρα
+                <a title="Συνάντηση Αβραμόπουλου-Μητσοτάκη για το προσφυγικό - Πολιτική - Επικαιρότητα - Τα Νέα Οnline" href="/news/politics/article/5327115/synanthsh-abramopoyloy-mhtsotakh-gia-to-prosfygiko/">
+                    Συνάντηση Αβραμόπουλου-Μητσοτάκη για το προσφυγικό
                 </a>
                 <div class="datetime">
-                    Πριν 53'
+                    21:25
                 </div>
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326727" lastupdate="1452865466000">
+        <div class="item  heightfix" articleid="5327111" lastupdate="1453057873000">
             <div class="title">
-                <a title="Το υπουργείο Εργασίας... καταγγέλλει το λουκέτο στη Softex - Οικονομία - Επικαιρότητα - Τα Νέα Οnline" href="/news/economy/article/5326727/to-ypoyrgeio-ergasias-kataggellei-to-loyketo-sth-softex/">
-                    Το υπουργείο Εργασίας... καταγγέλλει το λουκέτο στη Softex
+                <a title="Νέο εκλογικό νόμο με μείωση του αριθμού των βουλευτών και του μπόνους προανήγγειλε ο Κουρουμπλής - Πολιτική - Επικαιρότητα - Τα Νέα Οnline" href="/news/politics/article/5327111/neo-eklogiko-nomo-me-meiwsh-toy-arithmoy-twn-boyleytwn-kai-toy-mponoys-proanhggeile-o-koyroymplhs/">
+                    Νέο εκλογικό νόμο με μείωση του αριθμού των βουλευτών και του μπόνους προανήγγειλε ο Κουρουμπλής
                 </a>
                 <div class="datetime">
-                    15:44
+                    21:11
                 </div>
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326724" lastupdate="1452865088000">
+        <div class="item  heightfix" articleid="5327096" lastupdate="1453055320383">
             <div class="title">
-                <a title="Νέος διευθυντής στο Μουσείο Μπενάκη και με τη βούλα - Νσυν - Επικαιρότητα - Τα Νέα Οnline" href="/news/nsin/article/5326724/neos-dieythynths-sto-moyseio-mpenakh-kai-me-th-boyla/">
-                    Νέος διευθυντής στο Μουσείο Μπενάκη και με τη βούλα
+                <a title="Συνεχίζονται από την Τρίτη οι κινητοποιήσεις στο σιδηρόδρομο - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/greece/article/5327096/synexizontai-apo-thn-trith-oi-kinhtopoihseis-sto-sidhrodromo/">
+                    Συνεχίζονται από την Τρίτη οι κινητοποιήσεις στο σιδηρόδρομο
                 </a>
                 <div class="datetime">
-                    15:38
+                    20:28
                 </div>
             </div>
         </div>
     
-        <div class="item  heightfix" articleid="5326720" lastupdate="1452864339000">
+        <div class="item  heightfix" articleid="5327098" lastupdate="1453055066000">
             <div class="title">
-                <a title="Γιούνκερ: Από τα σημαντικότερα επιτεύγματα της ΕΕ η αποφυγή της εξόδου της Ελλάδας από την ευρωζώνη - Πολιτική - Επικαιρότητα - Τα Νέα Οnline" href="/news/politics/article/5326720/gioynker-apo-ta-shmantikotera-epiteygmata-ths-ee-h-apofygh-ths-eksodoy-ths-elladas-apo-thn-eyrwzwnh/">
-                    Γιούνκερ: Από τα σημαντικότερα επιτεύγματα της ΕΕ η αποφυγή της εξόδου της Ελλάδας από την ευρωζώνη
+                <a title="Νέα στοιχεία για τη μαθητική διαρροή στη χώρα μας - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/greece/article/5327098/nea-stoixeia-gia-th-mathhtikh-diarroh-sth-xwra-mas/">
+                    Νέα στοιχεία για τη μαθητική διαρροή στη χώρα μας
                 </a>
                 <div class="datetime">
-                    15:25
+                    20:24
+                </div>
+            </div>
+        </div>
+    
+        <div class="item  heightfix" articleid="5327097" lastupdate="1453054630000">
+            <div class="title">
+                <a title="Οι οδηγίες της Πολιτικής Προστασίας για την επερχόμενη κακοκαιρία - Ελλάδα - Επικαιρότητα - Τα Νέα Οnline" href="/news/greece/article/5327097/oi-odhgies-ths-politikhs-prostasias-gia-thn-eperxomenh-kakokairia/">
+                    Οι οδηγίες της Πολιτικής Προστασίας για την επερχόμενη κακοκαιρία
+                </a>
+                <div class="datetime">
+                    20:17
                 </div>
             </div>
         </div>
@@ -831,11 +831,11 @@ function SponsorLink() {
                         1
                     </div>
                     <div class="title">
-                        <a href='/news/economy/article/5325415/oi-epta-anatropes-poy-fernei-to-sxedio-gia-to-asfalistiko/' title='Οι επτά ανατροπές που φέρνει το σχέδιο για το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
-                            Οι επτά ανατροπές που φέρνει το σχέδιο για το ασφαλιστικό
+                        <a href='/news/economy/article/5327006/ekatontades-onomata-sth-lista-mporgians-elegxontai-1-300-000-afm/' title='Εκατοντάδες ονόματα στη λίστα Μπόργιανς - Ελέγχονται 1.300.000 ΑΦΜ - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
+                            Εκατοντάδες ονόματα στη λίστα Μπόργιανς - Ελέγχονται 1.300.000 ΑΦΜ
                         </a>
                     </div>
-                    <div class='data'> <span class='datetime'>11/01/2016 21:26</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5325415/oi-epta-anatropes-poy-fernei-to-sxedio-gia-to-asfalistiko/#externaldisquss_div' title='Οι επτά ανατροπές που φέρνει το σχέδιο για το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />29</a></span></span> </div>
+                    <div class='data'> <span class='datetime'>16/01/2016 20:15</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5327006/ekatontades-onomata-sth-lista-mporgians-elegxontai-1-300-000-afm/#externaldisquss_div' title='Εκατοντάδες ονόματα στη λίστα Μπόργιανς - Ελέγχονται 1.300.000 ΑΦΜ - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />12</a></span></span> </div>
                 </div>
             
                 <div class="item heightfix">
@@ -847,12 +847,24 @@ function SponsorLink() {
                             Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό
                         </a>
                     </div>
-                    <div class='data'> <span class='datetime'>14/01/2016 20:49</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5326375/nteiselmploym-h-athhna-apodexetai-th-symmetoxh-toy-dnt-sto-ellhniko-programma/#externaldisquss_div' title='Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />12</a></span></span> </div>
+                    <div class='data'> <span class='datetime'>14/01/2016 20:49</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5326375/nteiselmploym-h-athhna-apodexetai-th-symmetoxh-toy-dnt-sto-ellhniko-programma/#externaldisquss_div' title='Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />17</a></span></span> </div>
                 </div>
             
                 <div class="item heightfix">
                     <div class="count">
                         3
+                    </div>
+                    <div class="title">
+                        <a href='/news/economy/article/5326186/stoys-2-550-oi-syntaksioyxoi-me-syntakseis-anw-twn-3-000-eyrw/' title='Συνολικά 2.550 είναι οι συνταξιούχοι με συντάξεις άνω των 3.000 ευρώ - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
+                            Συνολικά 2.550 είναι οι συνταξιούχοι με συντάξεις άνω των 3.000 ευρώ
+                        </a>
+                    </div>
+                    <div class='data'> <span class='datetime'>14/01/2016 03:24</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5326186/stoys-2-550-oi-syntaksioyxoi-me-syntakseis-anw-twn-3-000-eyrw/#externaldisquss_div' title='Συνολικά 2.550 είναι οι συνταξιούχοι με συντάξεις άνω των 3.000 ευρώ - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />9</a></span></span> </div>
+                </div>
+            
+                <div class="item heightfix">
+                    <div class="count">
+                        4
                     </div>
                     <div class="title">
                         <a href='/news/economy/article/5326155/parte-pisw-tis-pinakides-kai-plhrwste-telh-me-to-trimhno/' title='Πάρτε πίσω τις πινακίδες και πληρώστε τέλη με το τρίμηνο - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
@@ -864,18 +876,6 @@ function SponsorLink() {
             
                 <div class="item heightfix">
                     <div class="count">
-                        4
-                    </div>
-                    <div class="title">
-                        <a href='/news/economy/article/5325694/sxedio-ths-depa-gia-epektash-toy-fysikoy-aerioy-se-nees-perioxes/' title='Σχέδιο της ΔΕΠΑ για επέκταση του φυσικού αερίου σε νέες περιοχές - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
-                            Σχέδιο της ΔΕΠΑ για επέκταση του φυσικού αερίου σε νέες περιοχές
-                        </a>
-                    </div>
-                    <div class='data'> <span class='datetime'>12/01/2016 18:17</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5325694/sxedio-ths-depa-gia-epektash-toy-fysikoy-aerioy-se-nees-perioxes/#externaldisquss_div' title='Σχέδιο της ΔΕΠΑ για επέκταση του φυσικού αερίου σε νέες περιοχές - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' /></a></span></span> </div>
-                </div>
-            
-                <div class="item heightfix">
-                    <div class="count">
                         5
                     </div>
                     <div class="title">
@@ -883,7 +883,7 @@ function SponsorLink() {
                             Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία»
                         </a>
                     </div>
-                    <div class='data'> <span class='datetime'>13/01/2016 09:29</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5325856/skoyrleths-na-katalabei-h-eldorado-gold-oti-h-ellada-den-einai-mpanania/#externaldisquss_div' title='Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία» - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />23</a></span></span> </div>
+                    <div class='data'> <span class='datetime'>13/01/2016 09:29</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5325856/skoyrleths-na-katalabei-h-eldorado-gold-oti-h-ellada-den-einai-mpanania/#externaldisquss_div' title='Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία» - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />34</a></span></span> </div>
                 </div>
             
     </div>
@@ -894,11 +894,11 @@ function SponsorLink() {
                         1
                     </div>
                     <div class="title">
-                        <a href='/news/economy/article/5325415/oi-epta-anatropes-poy-fernei-to-sxedio-gia-to-asfalistiko/' title='Οι επτά ανατροπές που φέρνει το σχέδιο για το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
-                            Οι επτά ανατροπές που φέρνει το σχέδιο για το ασφαλιστικό
+                        <a href='/news/economy/article/5325856/skoyrleths-na-katalabei-h-eldorado-gold-oti-h-ellada-den-einai-mpanania/' title='Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία» - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
+                            Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία»
                         </a>
                     </div>
-                    <div class='data'> <span class='datetime'>11/01/2016 21:26</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5325415/oi-epta-anatropes-poy-fernei-to-sxedio-gia-to-asfalistiko/#externaldisquss_div' title='Οι επτά ανατροπές που φέρνει το σχέδιο για το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />29</a></span></span> </div>
+                    <div class='data'> <span class='datetime'>13/01/2016 09:29</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5325856/skoyrleths-na-katalabei-h-eldorado-gold-oti-h-ellada-den-einai-mpanania/#externaldisquss_div' title='Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία» - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />34</a></span></span> </div>
                 </div>
             
                 <div class="item heightfix">
@@ -906,16 +906,28 @@ function SponsorLink() {
                         2
                     </div>
                     <div class="title">
-                        <a href='/news/economy/article/5325856/skoyrleths-na-katalabei-h-eldorado-gold-oti-h-ellada-den-einai-mpanania/' title='Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία» - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
-                            Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία»
+                        <a href='/news/economy/article/5326375/nteiselmploym-h-athhna-apodexetai-th-symmetoxh-toy-dnt-sto-ellhniko-programma/' title='Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
+                            Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό
                         </a>
                     </div>
-                    <div class='data'> <span class='datetime'>13/01/2016 09:29</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5325856/skoyrleths-na-katalabei-h-eldorado-gold-oti-h-ellada-den-einai-mpanania/#externaldisquss_div' title='Σκουρλέτης: «Να καταλάβει η Eldorado Gold ότι η Ελλάδα δεν είναι μπανανία» - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />23</a></span></span> </div>
+                    <div class='data'> <span class='datetime'>14/01/2016 20:49</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5326375/nteiselmploym-h-athhna-apodexetai-th-symmetoxh-toy-dnt-sto-ellhniko-programma/#externaldisquss_div' title='Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />17</a></span></span> </div>
                 </div>
             
                 <div class="item heightfix">
                     <div class="count">
                         3
+                    </div>
+                    <div class="title">
+                        <a href='/news/economy/article/5326727/to-ypoyrgeio-ergasias-kataggellei-to-loyketo-sth-softex/' title='Το υπουργείο Εργασίας... καταγγέλλει το λουκέτο στη Softex - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
+                            Το υπουργείο Εργασίας... καταγγέλλει το λουκέτο στη Softex
+                        </a>
+                    </div>
+                    <div class='data'> <span class='datetime'>15/01/2016 15:44</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5326727/to-ypoyrgeio-ergasias-kataggellei-to-loyketo-sth-softex/#externaldisquss_div' title='Το υπουργείο Εργασίας... καταγγέλλει το λουκέτο στη Softex - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />16</a></span></span> </div>
+                </div>
+            
+                <div class="item heightfix">
+                    <div class="count">
+                        4
                     </div>
                     <div class="title">
                         <a href='/news/economy/article/5325705/prostima-1-7-ekat-eyrw-sthn-ellhnikos-xrysos-epebale-to-ypoyrgeio-periballontos/' title='Πρόστιμα 1,7 εκατ. ευρώ στην Ελληνικός Χρυσός επέβαλε το Υπουργείο Περιβάλλοντος - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
@@ -927,43 +939,19 @@ function SponsorLink() {
             
                 <div class="item heightfix">
                     <div class="count">
-                        4
-                    </div>
-                    <div class="title">
-                        <a href='/news/economy/article/5326375/nteiselmploym-h-athhna-apodexetai-th-symmetoxh-toy-dnt-sto-ellhniko-programma/' title='Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
-                            Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό
-                        </a>
-                    </div>
-                    <div class='data'> <span class='datetime'>14/01/2016 20:49</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5326375/nteiselmploym-h-athhna-apodexetai-th-symmetoxh-toy-dnt-sto-ellhniko-programma/#externaldisquss_div' title='Ντεϊσελμπλούμ: H Αθήνα αποδέχεται τη συμμετοχή του ΔΝΤ  - επί τάπητος το ασφαλιστικό - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />12</a></span></span> </div>
-                </div>
-            
-                <div class="item heightfix">
-                    <div class="count">
                         5
                     </div>
                     <div class="title">
-                        <a href='/news/economy/article/5326185/bloomberg-synanthsh-lagkarnt-tsipra-sto-ntabos-gia-to-ellhniko-xreos/' title='Bloomberg: Συνάντηση Λαγκάρντ-Τσίπρα στο Νταβός για το χρέος - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
-                            Bloomberg: Συνάντηση Λαγκάρντ-Τσίπρα στο Νταβός για το χρέος
+                        <a href='/news/economy/article/5327006/ekatontades-onomata-sth-lista-mporgians-elegxontai-1-300-000-afm/' title='Εκατοντάδες ονόματα στη λίστα Μπόργιανς - Ελέγχονται 1.300.000 ΑΦΜ - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
+                            Εκατοντάδες ονόματα στη λίστα Μπόργιανς - Ελέγχονται 1.300.000 ΑΦΜ
                         </a>
                     </div>
-                    <div class='data'> <span class='datetime'>14/01/2016 02:23</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5326185/bloomberg-synanthsh-lagkarnt-tsipra-sto-ntabos-gia-to-ellhniko-xreos/#externaldisquss_div' title='Bloomberg: Συνάντηση Λαγκάρντ-Τσίπρα στο Νταβός για το χρέος - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />10</a></span></span> </div>
+                    <div class='data'> <span class='datetime'>16/01/2016 20:15</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5327006/ekatontades-onomata-sth-lista-mporgians-elegxontai-1-300-000-afm/#externaldisquss_div' title='Εκατοντάδες ονόματα στη λίστα Μπόργιανς - Ελέγχονται 1.300.000 ΑΦΜ - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />12</a></span></span> </div>
                 </div>
             
     </div>
     <div id="tab_moirasmena" class="items" style="display: none;">
         
-                <div class="item heightfix">
-                    <div class="count">
-                        1
-                    </div>
-                    <div class="title">
-                        <a href='/news/economy/article/5324885/tis-epomenes-hmeres-h-rythmish-gia-to-aforologhto-me-plastiko-xrhma/' title='Τις επόμενες ημέρες η ρύθμιση για το αφορολόγητο με πλαστικό χρήμα - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'>
-                            Τις επόμενες ημέρες η ρύθμιση για το αφορολόγητο με πλαστικό χρήμα
-                        </a>
-                    </div>
-                    <div class='data'> <span class='datetime'>09/01/2016 11:12</span> <span class='articleiconsseperator'> • </span><span class='articleicons'><span class='hascomments'><a href='http://www.tanea.gr/news/economy/article/5324885/tis-epomenes-hmeres-h-rythmish-gia-to-aforologhto-me-plastiko-xrhma/#externaldisquss_div' title='Τις επόμενες ημέρες η ρύθμιση για το αφορολόγητο με πλαστικό χρήμα - Οικονομία - Επικαιρότητα - Τα Νέα Οnline'><img border='0' src='/themes/1/default/media/images/hascomments.png' />2</a></span></span> </div>
-                </div>
-            
 </div>
 </div>
 <div id="Banner300xRight2" class="banner bnr_300 "><img src="/files/1/BannerPlaceHolders/Banner300x250.gif" class="loader"></div> <div id="fb-root"></div>

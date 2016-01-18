@@ -209,7 +209,7 @@ D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute
     
 
       <div id="mc_embed_signup">
-        <div class="mc_icon mc_icon-1"></div><!-- Иконки mc_icon-1, mc_icon-2, mc_icon-3-->
+        <div class="mc_icon mc_icon-2"></div><!-- Иконки mc_icon-1, mc_icon-2, mc_icon-3-->
         <form action="//medportal.us10.list-manage.com/subscribe/post?u=bff58177323650479c3d599ad&amp;id=bba03857f3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
           <div id="mc_embed_signup_scroll">
             <label for="mce-EMAIL">Борьба с постельным режимом</label>
@@ -355,7 +355,7 @@ AdFox_Scroll(pr1,'//ads.adfox.ru/1435/prepareCode?pp=h&ps=bwqw&p2=ul&pct=a&plp=a
         <textarea id="TEXTAREA" cols="50" rows="5" onkeyup="countSymbolsDesc(this, 'leftSymbols', 1000);" onkeypress="this.onkeyup();"
                   onkeydown="this.onkeyup();" onchange="this.onkeyup();" tabindex="2"></textarea>
                 <div class="captcha">Код подтверждения:
-            <img src="/tools/captcha.php?type=2&amp;Medportal=scc8e4pqbppojeiaut19s22ma4" width="150" height="35" alt="" id="captchaImg">
+            <img src="/tools/captcha.php?type=2&amp;Medportal=lruhvr6q84tb2vns0o9njsq3h0" width="150" height="35" alt="" id="captchaImg">
             <input id="enteredCaptcha" type="text" tabindex="3">
         </div>
                 <input type="submit" value="Отправить комментарий" class="btn-submit" tabindex="4">
@@ -544,9 +544,9 @@ D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute
     <div class="lpost-mp__subtitle">Диетолог и врач восстановительной медицины об опасностях новогодних каникул для здоровья</div>
   </div>
       <div class="lpost-mp__item">
-        <a href="/mednovosti/news/2016/01/13/784potato/"><img src="http://static.medportal.ru/pic/mednovosti/news/2016/01/13/784potato/shutterstock_281306234_small_240x180.jpg" width="220" height="165" alt=""></a>
-        <div class="lpost-mp__title"><a href="/mednovosti/news/2016/01/13/784potato/">Не стоит есть много картофеля во время беременности</a></div>
-    <div class="lpost-mp__subtitle">У тех, кто съедает больше пяти порций картофеля в неделю, гестационный диабет развивается чаще</div>
+        <a href="/mednovosti/news/2016/01/15/812spermbot/"><img src="http://static.medportal.ru/pic/mednovosti/news/2016/01/15/812spermbot/spermbot_240x180.jpg" width="220" height="165" alt=""></a>
+        <div class="lpost-mp__title"><a href="/mednovosti/news/2016/01/15/812spermbot/">Микромоторы улучшат подвижность сперматозоидов</a></div>
+    <div class="lpost-mp__subtitle">Разрабатывается новый способ борьбы с мужским бесплодием</div>
   </div>
       <div class="lpost-mp__item lpost-mp__adv">
         <a href="/mednovosti/promo/2015/12/24/676ondoc/"><img src="http://static.medportal.ru/pic/mednovosti/promo/2015/12/24/676ondoc/b45_240x180.jpg" width="220" height="165" alt=""></a>
@@ -554,9 +554,9 @@ D.write('<div style="visibility:hidden;height:0px;left:-1000px;position:absolute
     <div class="lpost-mp__subtitle">Проект ONDOC создал бесплатную медицинскую инфраструктуру</div>
   </div>
       <div class="lpost-mp__item">
-        <a href="/mednovosti/news/2016/01/06/748aspirine/"><img src="http://static.medportal.ru/pic/mednovosti/news/2016/01/06/748aspirine/asp_240x180.jpg" width="220" height="165" alt=""></a>
-        <div class="lpost-mp__title"><a href="/mednovosti/news/2016/01/06/748aspirine/">Аспирин поможет при раке предстательной железы</a></div>
-    <div class="lpost-mp__subtitle">Исследование, в котором приняли участие более 22 тысяч человек, продолжалось 27 лет</div>
+        <a href="/mednovosti/news/2016/01/14/799brain/"><img src="http://static.medportal.ru/pic/mednovosti/news/2016/01/14/799brain/enc_240x180.jpg" width="220" height="165" alt=""></a>
+        <div class="lpost-mp__title"><a href="/mednovosti/news/2016/01/14/799brain/">Создан первый в мире носимый энцефалограф</a></div>
+    <div class="lpost-mp__subtitle">Особенность нового прибора – сухие электроды</div>
   </div>
       <div class="lpost-mp__item lpost-mp__adv">
         <a href="/mednovosti/promo/2015/12/22/650genetico/"><img src="http://static.medportal.ru/pic/mednovosti/promo/2015/12/22/650genetico/52ee9bd3-6795-4dcf-95ca-6aa7ce148add_240x180.jpg" width="220" height="165" alt=""></a>

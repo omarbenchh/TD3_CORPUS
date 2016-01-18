@@ -108,7 +108,7 @@ img.emoji {
     googletag.enableServices();
 	
 	
-	googletag.cmd.push(function() {googletag.pubads().setTargeting('ip', '193.49.229.71');});
+	googletag.cmd.push(function() {googletag.pubads().setTargeting('ip', '82.245.7.247');});
 googletag.cmd.push(function() {googletag.pubads().setTargeting('url', 'Home');});});</script>
 <!-- Theme version -->
 <meta name="generator" content="Canvas 5.2.7" />
@@ -244,7 +244,7 @@ div.addthis_32x32_style {
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//www.australianageingagenda.com.au/?wordfence_logHuman=1&hid=B365AA1A1B1FC9747231571B4D6E3ADE');
+})('//www.australianageingagenda.com.au/?wordfence_logHuman=1&hid=903D96561DF848C75F3C2F43393D2A92');
 </script>	<!-- Woo Slider Setup -->
 	<script type="text/javascript">
 	jQuery(window).load(function() {
@@ -681,7 +681,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1449121832894-0');
 </div><div id="section-2" class="widget section-widget"><h3>Notebook</h3><ul class="post-list"><li class="listed-post"><a class="pcs-post-title" href="http://www.australianageingagenda.com.au/2015/12/17/education-videos-showcase-cdc-delivery/" title="Education videos showcase CDC delivery">Education videos showcase CDC delivery</a></li><li class="listed-post"><a class="pcs-post-title" href="http://www.australianageingagenda.com.au/2015/12/17/suffering-in-silence-understanding-pain-and-dementia/" title="Suffering in silence: understanding pain and dementia">Suffering in silence: understanding pain and dementia</a></li><li class="listed-post"><a class="pcs-post-title" href="http://www.australianageingagenda.com.au/2015/12/14/dementia-support-website-launched/" title="Dementia support website launched">Dementia support website launched</a></li><li class="listed-post"><a class="pcs-post-title" href="http://www.australianageingagenda.com.au/2015/12/11/ehealth-software-developer-webinar/" title="eHealth software developer webinar">eHealth software developer webinar</a></li><li class="listed-post"><a class="pcs-post-title" href="http://www.australianageingagenda.com.au/2015/12/11/new-emergency-response-app/" title="New emergency response app">New emergency response app</a></li></ul> 
 </div><div id="adspace-widget-4" class="widget adspace-widget"><iframe id='aeea7de7' name='aeea7de7' src='http://openx.intermedia.com.au/www/delivery/afr.php?zoneid=1307&cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='125'><a href='http://openx.intermedia.com.au/www/delivery/ck.php?n=a59344f4&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://openx.intermedia.com.au/www/delivery/avw.php?zoneid=1307&cb=INSERT_RANDOM_NUMBER_HERE&n=a59344f4' border='0' alt='' /></a></iframe></div><div id="polls-widget-2" class="widget widget_polls-widget"><h3>Polls</h3><div id="polls-30" class="wp-polls">
 	<form id="polls_form_30" class="wp-polls-form" action="/index.php" method="post">
-		<p style="display: none;"><input type="hidden" id="poll_30_nonce" name="wp-polls-nonce" value="b412ff0981" /></p>
+		<p style="display: none;"><input type="hidden" id="poll_30_nonce" name="wp-polls-nonce" value="89d9f04eb5" /></p>
 		<p style="display: none;"><input type="hidden" name="poll_id" value="30" /></p>
 		<p style="text-align: center;"><strong>Do you support the government’s decision to fine residential aged providers $10,800 per offence for repeated false claims made under the Aged Care Funding Instrument?</strong></p><div id="polls-30-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
 		<li><input type="radio" id="poll-answer-77" name="poll_30" value="77" /> <label for="poll-answer-77">Yes</label></li>

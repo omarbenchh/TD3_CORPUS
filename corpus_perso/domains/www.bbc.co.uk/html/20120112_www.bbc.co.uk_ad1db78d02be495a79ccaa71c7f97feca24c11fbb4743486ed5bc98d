@@ -27,14 +27,14 @@
     <meta property="og:article:author" content="BBC News" />
     <meta property="og:article:section" content="Science &amp; Environment" />
     <meta property="og:url" content="http://www.bbc.co.uk/news/science-environment-16514637" />
-    <meta property="og:image" content="http://ichef-1.bbci.co.uk/news/1024/media/images/57825000/jpg/_57825118_134729647.jpg" />
+    <meta property="og:image" content="http://ichef.bbci.co.uk/news/1024/media/images/57825000/jpg/_57825118_134729647.jpg" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BBCNews">
     <meta name="twitter:title" content="Confiscated bushmeat 'poses virus threat' - BBC News">
     <meta name="twitter:description" content="US scientists document potentially dangerous viruses in illegally imported wildlife products that were confiscated at major American airports.">
     <meta name="twitter:creator" content="@BBCNews">
-    <meta name="twitter:image:src" content="http://ichef-1.bbci.co.uk/news/560/media/images/57825000/jpg/_57825118_134729647.jpg">
+    <meta name="twitter:image:src" content="http://ichef.bbci.co.uk/news/560/media/images/57825000/jpg/_57825118_134729647.jpg">
     <meta name="twitter:image:alt" content="Bushmeat" />
     <meta name="twitter:domain" content="www.bbc.co.uk">
 
@@ -163,7 +163,7 @@
         <script src="http://static.bbci.co.uk/news/1.106.0498/js/vendor/html5shiv/html5shiv.js"></script>
     <![endif]-->
  <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1; window.cutsTheMustard = modernDevice && !forceCore; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"16514637","asset_uri":"\/news\/science-environment-16514637","first_created":{"date":"2012-01-11 13:02:40","timezone_type":3,"timezone":"Europe\/London"},"last_updated":{"date":"2012-01-11 13:56:19","timezone_type":3,"timezone":"Europe\/London"},"options":{"allowHeadline":true,"allowDateStamp":true,"allowRelatedStoriesBox":true,"allowRightHandSide":true,"includeComments":false,"allowPrintingSharingLinks":true,"allowAdvertising":true},"section":{"name":"Science & Environment","id":"99110","uri":"\/news\/science_and_environment"},"edition":"Domestic","audience":null,"iStats_counter_name":"news.science_and_environment.story.16514637.page","type":"STY","length":3737,"byline":{},"headline":"Confiscated bushmeat 'poses virus threat'","mediaType":null},"smpBrand":null,"staticHost":"http:\/\/static.bbci.co.uk","environment":"live","locatorVersion":"0.46.3","pathPrefix":"\/news","staticPrefix":"http:\/\/static.bbci.co.uk\/news\/1.106.0498","jsPath":"http:\/\/static.bbci.co.uk\/news\/1.106.0498\/js","cssPath":"http:\/\/static.bbci.co.uk\/news\/1.106.0498\/stylesheets\/services\/news","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"travel":true,"gallery":true,"rollingnews":true,"rumanalytics":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"svg_brand":true,"chartbeat":true,"chartbeat_mvt":true,"connected_stream":true,"connected_stream_promo":true,"nav":true,"pulse_survey":false,"local_survey":true,"correspondents":true,"blogs":true,"open_graph":true,"follow_us":true,"marketdata_markets":true,"marketdata_shares":true,"nations_pseudo_nav":true,"politics_election2015_topic_pages":true,"politics_election2016_az_pages":true,"politics_election2016_council_police_pages":true,"politics_election2016_ni_results_page":true,"politics_election2016_scotland_results_page":true,"politics_election2016_wales_results_page":true,"politics_election2016_london_results_page":true,"responsive_breaking_news":true,"live_event":true,"most_popular":true,"most_popular_tabs":true,"most_popular_by_day":true,"routing":true,"rum":true,"radiopromonownext":true,"config_based_layout":true,"orb":true,"enhanced_gallery":true,"map_most_watched":true,"top_stories_promo":true,"features_and_analysis":true,"section_labels":true,"index_title":true,"share_tools":true,"local_live_promo":true,"adverts":true,"adverts_async":true,"adexpert":true,"igor_geo_redirect":true,"igor_device_redirect":true,"live":true,"comscore_mmx":true,"find_local_news":true,"comments":true,"comments_enhanced":true,"browser_notify":true,"stream_grid_promo":true,"breaking_news":false,"top_stories_max_volume":true,"record_livestats":true,"contact_form":true,"channel_page":true,"portlet_global_variants":true,"suppress_lep_timezone":true,"story_recommendations":true,"cedexis":true,"mpulse":true,"story_single_column_layout":true,"story_image_copyright_labels":true,"ovp_resolve_primary_media_vpids":false,"media_player":true,"travel":true,"services_bar":true,"live_v2_stream":true},"configuration":{"showtimestamp":"1","showweather":"1","showsport":"1","showolympics":"1","showfeaturemain":"1","showsitecatalyst":"1","candyplatform":"EnhancedMobile","showwatchlisten":"1","showspecialreports":"","videotopiccandyid":"","showvideofeedsections":"1","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"cps","channelpagecandyid":"10318089"},"pollingHost":"http:\/\/polling.bbc.co.uk","service":"news","locale":"en-GB","locatorHost":null,"locatorFlagPole":true,"local":{"allowLocationLookup":true},"isWorldService":false,"rumAnalytics":{"server":"http:\/\/ingest.rum.bbc.co.uk","key":"news","sample_rate":0.1,"url_params":null,"edition":"domestic"},"isChannelPage":false,"suitenameMap":"","languageVariant":"","commentsHost":"http:\/\/feeds.bbci.co.uk","search":null,"comscoreAnalytics":null}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };  var bootstrapUI=function(){var e=function(){if(navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(OSRE\/)|(Opera (Mini|Mobi))|(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone)|(XBLWP)|(ZuneWP)/))return!1;if(navigator.userAgent.match(/MSIE 10.0/))return!0;var e,t=document,n=t.head||t.getElementsByTagName("head")[0],r=t.createElement("style"),s=t.implementation||{hasFeature:function(){return!1}};r.type="text/css",n.insertBefore(r,n.firstChild),e=r.sheet||r.styleSheet;var i=s.hasFeature("CSS2","")?function(t){if(!e||!t)return!1;var n=!1;try{e.insertRule(t,0),n=!/unknown/i.test(e.cssRules[0].cssText),e.deleteRule(e.cssRules.length-1)}catch(r){}return n}:function(t){return e&&t?(e.cssText=t,0!==e.cssText.length&&!/unknown/i.test(e.cssText)&&0===e.cssText.replace(/\r+|\n+/g,"").indexOf(t.split(" ")[0])):!1};return i('@font-face{ font-family:"font";src:"font.ttf"; }')}();e&&(document.getElementsByTagName("html")[0].className+=" ff"),function(){var e=document.documentElement.style;("flexBasis"in e||"WebkitFlexBasis"in e||"msFlexBasis"in e)&&(document.documentElement.className+=" flex")}();var t,n,r,s,i,a,o={},u=function(){var e=document.documentElement.clientWidth,r=document.documentElement.clientHeight,s=window.innerWidth,i=window.innerHeight,a=s>1.5*e;t=a?e:s,n=a?r:i},c=function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href",r+e+s+".css"),t.setAttribute("media",a[e]),i.parentNode.insertBefore(t,i),delete a[e]},l=function(e,r,s){r&&!s&&(t>=r||n>=r)&&c(e),s&&!r&&(s>=t||s>=n)&&c(e),r&&s&&(t>=r||n>=r)&&(s>=t||s>=n)&&c(e)},f=function(e){if(o[e])return o[e];var t=e.match(/\(min\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),n=e.match(/\(max\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),r=t&&parseFloat(t[1])||null,s=n&&parseFloat(n[1])||null;return o[e]=[r,s],o[e]},m=function(){var e=0;for(var t in a)e++;return e},d=function(){m()||window.removeEventListener("resize",h,!1);for(var e in a){var t=a[e],n=f(t);l(e,n[0],n[1])}},h=function(){u(),d()},v=function(e,t){a=e,r=t.path+("/"!==t.path.substr(-1)?"/":""),s=t.postfix,i=t.insertBefore,u(),d(),window.addEventListener("resize",h,!1)};return{stylesheetLoaderInit:v}}(); var stylesheets = {"compact":"(max-width: 599px)","tablet":"(min-width: 600px)","wide":"(min-width: 1008px)"}; bootstrapUI.stylesheetLoaderInit(stylesheets, { path: 'http://static.bbci.co.uk/news/1.106.0498/stylesheets/services/news', postfix: '', insertBefore: insertPoint }); var loadRequire = function(){ var js_paths = {"jquery-1.9":"vendor\/jquery-1\/jquery","jquery-1":"http:\/\/static.bbci.co.uk\/frameworks\/jquery\/0.3.0\/sharedmodules\/jquery-1.7.2","demi-1":"http:\/\/static.bbci.co.uk\/frameworks\/demi\/0.10.0\/sharedmodules\/demi-1","swfobject-2":"http:\/\/static.bbci.co.uk\/frameworks\/swfobject\/0.1.10\/sharedmodules\/swfobject-2","jquery":"vendor\/jquery-2\/jquery.min","domReady":"vendor\/require\/domReady","translation":"module\/translations\/en-GB","bump-3":"\/\/emp.bbci.co.uk\/emp\/bump-3\/bump-3"};  js_paths.navigation = 'module/nav/navManager';  requirejs.config({ baseUrl: 'http://static.bbci.co.uk/news/1.106.0498/js', map: { 'vendor/locator': { 'module/bootstrap': 'vendor/locator/bootstrap', 'locator/stats': 'vendor/locator/stats', 'locator/locatorView': 'vendor/locator/locatorView' } }, paths: js_paths, waitSeconds: 30 }); define('config', function () { return config; });             require(["compiled\/all"], function() {
-      require(['domReady'], function (domReady) { domReady(function () { require(["module\/dotcom\/handlerAdapter","module\/rumAdaptor","module\/stats\/statsSubscriberAdapter","module\/alternativeJsStrategy\/controller","module\/iconLoaderAdapter","module\/polyfill\/location.origin","module\/components\/breakingNewsAdapter","module\/indexTitleAdaptor","module\/findLocalNewsAdaptor","module\/navigation\/handlerAdaptor","module\/noTouchDetectionForCss","module\/components\/responsiveImage","module\/components\/timestampAdaptor","module\/tableScrollAdapter","module\/components\/mediaPlayer\/mainAdapter","module\/stats\/statsBindingAdapter","module\/components\/swiftAdapter","module\/hotspot\/handlerAdapter"], function() {  require(["module\/strategiserAdaptor"]);  }); }); });              });
+      require(['domReady'], function (domReady) { domReady(function () { require(["module\/dotcom\/handlerAdapter","module\/rumAdaptor","module\/stats\/statsSubscriberAdapter","module\/alternativeJsStrategy\/controller","module\/iconLoaderAdapter","module\/polyfill\/location.origin","module\/components\/breakingNewsAdapter","module\/indexTitleAdaptor","module\/findLocalNewsAdaptor","module\/navigation\/handlerAdaptor","module\/noTouchDetectionForCss","module\/components\/responsiveImage","module\/components\/timestampAdaptor","module\/tableScrollAdapter","module\/components\/mediaPlayer\/mainAdapter","module\/stats\/statsBindingAdapter","module\/hotspot\/handlerAdapter"], function() {  require(["module\/strategiserAdaptor"]);  }); }); });              });
      };  loadRequire();  } else { var l = document.createElement('link'); l.href = 'http://static.bbci.co.uk/news/1.106.0498/icons/generated/icons.fallback.css'; l.rel = 'stylesheet'; document.getElementsByTagName('head')[0].appendChild(l); } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['leaderboard', 'sponsor_section', 'mpu', 'outbrain_ar_5', 'outbrain_ar_7', 'outbrain_ar_8', 'outbrain_ar_9', 'native', 'mpu_bottom', 'adsense', 'inread']}); /*]]>*/ </script>      <noscript><link href="http://static.bbci.co.uk/news/1.106.0498/icons/generated/icons.fallback.css" rel="stylesheet"></noscript>
 
                 
@@ -389,7 +389,7 @@
                                                                                                     <figure class="media-landscape has-caption body-narrow-width lead">
             <span class="image-and-copyright-container">
                 
-                <img class="js-image-replace" alt="Bushmeat" src="http://ichef.bbci.co.uk/news/320/media/images/57825000/jpg/_57825113_134729647.jpg" width="304" height="171">
+                <img class="js-image-replace" alt="Bushmeat" src="http://ichef-1.bbci.co.uk/news/320/media/images/57825000/jpg/_57825113_134729647.jpg" width="304" height="171">
                 
                 
                 
@@ -508,45 +508,20 @@
 </div>
                                         </div>
                                      <div class="column--secondary" role="complementary">
-                                                                            
-<div class="container-swift distinct-component-group">
-        <h2 class="group-title off-screen ">
-            
-            Science &amp; Environment live reporting
-        </h2>
-    <div class="swift faux-block-link" data-polling-url="http://polling.bbc.co.uk/news/live_event/news/live/science-environment-35303186" aria-live="polite" data-entityid="live_event_1">
-        <a href="/news/live/science-environment-35303186" class="title-link">
-            <h3 class="title-link__title">
-                            
-            
-            
-            <span class="badge-text-only badge-text-only--live">Live</span>
-
-                <span class="title-link__title-text">Tim Peake walks in space</span>
-            </h3>
-        </a>        <div class="swift__body-outer">
-            <div class="swift__body js-polling-content-container">
-                <div class="swift-source">
-                </div>
-            </div>
-        </div>
-        <a href="/news/live/science-environment-35303186" class="faux-block-link__overlay-link" tabindex="-1" aria-hidden="true">Full article Tim Peake walks in space</a>
-    </div>
-</div>
-                                                                                            <div id="comp-top-stories-promo" class="top-stories-promo">
+                                                                            <div id="comp-top-stories-promo" class="top-stories-promo">
     <h2 class="top-stories-promo__title">Top Stories</h2>
-                    <a href="/news/uk-35304528" class="top-stories-promo-story" data-asset-id="/news/uk-35304528"data-entityid="top-stories#1">
-        <strong class="top-stories-promo-story__title">Janner 'abused 12 at children's homes'</strong>
-                    <p class="top-stories-promo-story__summary ">Twelve former residents of children's homes say they were abused by Lord Janner, a BBC investigation finds, as criminal proceedings against the late peer end.</p>
-                    <div class="date date--v2" data-seconds="1452853395" data-datetime="15 January 2016">15 January 2016</div>
+                    <a href="/news/uk-politics-35337432" class="top-stories-promo-story" data-asset-id="/news/uk-politics-35337432"data-entityid="top-stories#1">
+        <strong class="top-stories-promo-story__title">Trident subs minus warheads 'an option'</strong>
+                    <p class="top-stories-promo-story__summary ">Labour leader Jeremy Corbyn suggests the UK could keep its Trident submarine fleet but without nuclear warheads as one option for protecting defence jobs.</p>
+                    <div class="date date--v2" data-seconds="1453048326" data-datetime="17 January 2016">17 January 2016</div>
     </a>
-                    <a href="/news/world-europe-35320895" class="top-stories-promo-story" data-asset-id="/news/world-europe-35320895"data-entityid="top-stories#3">
-        <strong class="top-stories-promo-story__title">One in coma after French clinical trial</strong>
-                    <div class="date date--v2" data-seconds="1452861452" data-datetime="15 January 2016">15 January 2016</div>
+                    <a href="/news/world-us-canada-35338901" class="top-stories-promo-story" data-asset-id="/news/world-us-canada-35338901"data-entityid="top-stories#3">
+        <strong class="top-stories-promo-story__title">US imposes fresh sanctions on Iran</strong>
+                    <div class="date date--v2" data-seconds="1453062736" data-datetime="17 January 2016">17 January 2016</div>
     </a>
-                    <a href="/news/science-environment-35273912" class="top-stories-promo-story" data-asset-id="/news/science-environment-35273912"data-entityid="top-stories#5">
-        <strong class="top-stories-promo-story__title">Tim Peake on historic spacewalk</strong>
-                    <div class="date date--v2" data-seconds="1452870127" data-datetime="15 January 2016">15 January 2016</div>
+                    <a href="/news/world-middle-east-35339840" class="top-stories-promo-story" data-asset-id="/news/world-middle-east-35339840"data-entityid="top-stories#5">
+        <strong class="top-stories-promo-story__title">US 'trying to find missing Americans'</strong>
+                    <div class="date date--v2" data-seconds="1453066581" data-datetime="17 January 2016">17 January 2016</div>
     </a>
         </div>                                
 <div id="bbccom_mpu_4" class="bbccom_slot mpu-ad"  aria-hidden="true">
@@ -572,98 +547,115 @@
     <div class="features-and-analysis__stories promo-unit-spacer">
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#1">
-            <a href="/news/uk-england-london-35158788" class="bold-image-promo">
+            <a href="/news/uk-england-35031879" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 
-                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/88C3/production/_87711053_frame3-caption_high-res.jpg" data-width="976" data-height="549" data-alt="Climbing down the lift shaft"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/AE7C/production/_87086644_londoninnbude.jpg" data-width="976" data-height="549" data-alt="London Inn"></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/88C3/production/_87711053_frame3-caption_high-res.jpg" class="js-image-replace" alt="Climbing down the lift shaft" width="976" height="549" />
+                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/AE7C/production/_87086644_londoninnbude.jpg" class="js-image-replace" alt="London Inn" width="976" height="549" />
                                     <![endif]-->
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">The Hatton Garden Job</h3>
-                <p class="bold-image-promo__summary">A cartoon guide to how the £14m raid unfolded</p>
+                <h3 class="bold-image-promo__title">'Irreplaceable images'</h3>
+                <p class="bold-image-promo__summary">The brewery photo archive that was retrieved from a skip</p>
             </a>
         </div>
         
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#2">
-            <a href="/news/magazine-35314549" class="bold-image-promo">
+            <a href="/news/uk-35337400" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 
-                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/F15E/production/_87709716_istock_000011986294_large.jpg" data-width="2048" data-height="1152" data-alt="Pair of little girls looking shocked"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/12971/production/_87754167_vipinchadha_miltonkeynes.jpg" data-width="976" data-height="549" data-alt="Snow in Milton Keynes, UK."></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/F15E/production/_87709716_istock_000011986294_large.jpg" class="js-image-replace" alt="Pair of little girls looking shocked" width="2048" height="1152" />
+                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/12971/production/_87754167_vipinchadha_miltonkeynes.jpg" class="js-image-replace" alt="Snow in Milton Keynes, UK." width="976" height="549" />
                                     <![endif]-->
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">7 days quiz</h3>
-                <p class="bold-image-promo__summary">&quot;What have we done?&quot; Whose reaction this week?</p>
+                <h3 class="bold-image-promo__title">In pictures</h3>
+                <p class="bold-image-promo__summary">Your photographs of snowy weather</p>
             </a>
         </div>
         
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#3">
-            <a href="/news/entertainment-arts-35284235" class="bold-image-promo">
+            <a href="/news/magazine-35312314" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 
-                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/15D61/production/_87614498_bowietitles.png" data-width="976" data-height="549" data-alt="David Bowie"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef.bbci.co.uk/news/304/cpsprodpb/EF4C/production/_87706216_godsavethequeen.jpg" data-width="976" data-height="549" data-alt="John Bull holds sign saying God Save the Queen"></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/15D61/production/_87614498_bowietitles.png" class="js-image-replace" alt="David Bowie" width="976" height="549" />
+                                    <img src="http://ichef.bbci.co.uk/news/304/cpsprodpb/EF4C/production/_87706216_godsavethequeen.jpg" class="js-image-replace" alt="John Bull holds sign saying God Save the Queen" width="976" height="549" />
                                     <![endif]-->
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">Bowie's world</h3>
-                <p class="bold-image-promo__summary">Plotting the Starman's tours</p>
+                <h3 class="bold-image-promo__title">Change your tune</h3>
+                <p class="bold-image-promo__summary">Is it time for a new British national anthem?</p>
             </a>
         </div>
         
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#4">
-            <a href="/news/magazine-35281338" class="bold-image-promo">
+            <a href="/news/magazine-35323124" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 
-                                    <div class="js-delayed-image-load" data-src="http://ichef.bbci.co.uk/news/304/cpsprodpb/2032/production/_87724280_composite.jpg" data-width="976" data-height="549" data-alt="Cleaning products; scented candles; air freshener"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/0841/production/_87731120_delhitrafficpromo.jpg" data-width="976" data-height="549" data-alt="Delhi traffic on first day of rule"></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef.bbci.co.uk/news/304/cpsprodpb/2032/production/_87724280_composite.jpg" class="js-image-replace" alt="Cleaning products; scented candles; air freshener" width="976" height="549" />
+                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/0841/production/_87731120_delhitrafficpromo.jpg" class="js-image-replace" alt="Delhi traffic on first day of rule" width="976" height="549" />
                                     <![endif]-->
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">Perfume menace</h3>
-                <p class="bold-image-promo__summary">Is there a hidden danger from scented products?</p>
+                <h3 class="bold-image-promo__title">Choking up</h3>
+                <p class="bold-image-promo__summary">The city in love with cars even though its air is toxic</p>
             </a>
         </div>
         
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#5">
-            <a href="/news/magazine-35296993" class="bold-image-promo">
+            <a href="/news/blogs-magazine-monitor-35280790" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 
-                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/11E4B/production/_87719237_tarantino_getty976b.jpg" data-width="976" data-height="549" data-alt="Quentin Tarantino at the Golden Globes"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef.bbci.co.uk/news/304/media/images/80894000/jpg/_80894584_60953580-9dfc-4d6d-aa96-45005b32e484.jpg" data-width="624" data-height="351" data-alt="Person reading - generic"></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/11E4B/production/_87719237_tarantino_getty976b.jpg" class="js-image-replace" alt="Quentin Tarantino at the Golden Globes" width="976" height="549" />
+                                    <img src="http://ichef.bbci.co.uk/news/304/media/images/80894000/jpg/_80894584_60953580-9dfc-4d6d-aa96-45005b32e484.jpg" class="js-image-replace" alt="Person reading - generic" width="624" height="351" />
                                     <![endif]-->
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">Tarantino uncut </h3>
-                <p class="bold-image-promo__summary">Is it racist to use the word 'ghetto'?</p>
+                <h3 class="bold-image-promo__title">Weekend Edition</h3>
+                <p class="bold-image-promo__summary">The week's best reads</p>
             </a>
         </div>
         
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#6">
-            <a href="/news/magazine-35244654" class="bold-image-promo">
+            <a href="/news/uk-england-34930450" class="bold-image-promo">
+                <div class="bold-image-promo__image">
+                            <div class="responsive-image responsive-image--16by9">
+                                
+                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/685D/production/_87071762_stuart1.jpg" data-width="976" data-height="549" data-alt="Stuart Elton, metal detectorist"></div>
+                                    <!--[if lt IE 9]>
+                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/685D/production/_87071762_stuart1.jpg" class="js-image-replace" alt="Stuart Elton, metal detectorist" width="976" height="549" />
+                                    <![endif]-->
+                            </div>
+                </div>
+                <h3 class="bold-image-promo__title">Treasure hotspots</h3>
+                <p class="bold-image-promo__summary">Where are the best places to unearth England's lost riches?</p>
+            </a>
+        </div>
+        
+        
+        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#7">
+            <a href="/news/magazine-35329347" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 <div class="responsive-image__inner-for-label">
-                                    <div class="js-delayed-image-load" data-src="http://ichef.bbci.co.uk/news/304/cpsprodpb/2226/production/_87724780_87724779.jpg" data-width="976" data-height="549" data-alt="Woman with pram"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/5E8C/production/_87740242_coverphoto.png" data-width="640" data-height="360" data-alt="Image of a gun violence victim"></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef.bbci.co.uk/news/304/cpsprodpb/2226/production/_87724780_87724779.jpg" class="js-image-replace" alt="Woman with pram" width="976" height="549" />
+                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/5E8C/production/_87740242_coverphoto.png" class="js-image-replace" alt="Image of a gun violence victim" width="640" height="360" />
                                     <![endif]-->
                                     
                                     <div class="responsive-image__label" aria-hidden="true">
@@ -671,64 +663,47 @@
                                                 
                                                 
                                                 
-                                            <span class="responsive-image__label-text">4:33</span>
+                                            <span class="responsive-image__label-text">1:06</span>
                                     </div>
                                 </div>
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">Meals on wheels </h3>
-                <p class="bold-image-promo__summary">The woman who delivers lunch from her pram</p>
-            </a>
-        </div>
-        
-        
-        <div class="features-and-analysis__story"  data-entityid="features-and-analysis#7">
-            <a href="/news/magazine-35311422" class="bold-image-promo">
-                <div class="bold-image-promo__image">
-                            <div class="responsive-image responsive-image--16by9">
-                                
-                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/12AC1/production/_87718467_molenbeek_getty976.jpg" data-width="976" data-height="549" data-alt="Man and policeman in Molenbeek 16 November 2015"></div>
-                                    <!--[if lt IE 9]>
-                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/12AC1/production/_87718467_molenbeek_getty976.jpg" class="js-image-replace" alt="Man and policeman in Molenbeek 16 November 2015" width="976" height="549" />
-                                    <![endif]-->
-                            </div>
-                </div>
-                <h3 class="bold-image-promo__title">Us and them </h3>
-                <p class="bold-image-promo__summary">Has Belgium created 'a system of apartheid'?</p>
+                <h3 class="bold-image-promo__title">The #EmptySeat</h3>
+                <p class="bold-image-promo__summary">Vacant chair that inspired Americans to commemorate gun victims</p>
             </a>
         </div>
         
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#8">
-            <a href="/news/business-35246320" class="bold-image-promo">
+            <a href="/news/world-latin-america-35251124" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 
-                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/17A4/production/_87525060_spacehop3.jpg" data-width="976" data-height="549" data-alt="Jayna Cavendish"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef.bbci.co.uk/news/304/cpsprodpb/131B6/production/_87526287_brazil1jpg.jpg" data-width="976" data-height="549" data-alt="Zezhino in his home"></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/17A4/production/_87525060_spacehop3.jpg" class="js-image-replace" alt="Jayna Cavendish" width="976" height="549" />
+                                    <img src="http://ichef.bbci.co.uk/news/304/cpsprodpb/131B6/production/_87526287_brazil1jpg.jpg" class="js-image-replace" alt="Zezhino in his home" width="976" height="549" />
                                     <![endif]-->
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">Air-biz-nb?</h3>
-                <p class="bold-image-promo__summary">Meet the people renting out their homes as offices</p>
+                <h3 class="bold-image-promo__title">Sole survivor</h3>
+                <p class="bold-image-promo__summary">Brazilian rebel recalls brutal jungle conflict</p>
             </a>
         </div>
         
         
         <div class="features-and-analysis__story"  data-entityid="features-and-analysis#9">
-            <a href="/news/entertainment-arts-35204656" class="bold-image-promo">
+            <a href="/news/blogs-magazine-monitor-35321845" class="bold-image-promo">
                 <div class="bold-image-promo__image">
                             <div class="responsive-image responsive-image--16by9">
                                 
-                                    <div class="js-delayed-image-load" data-src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/C9B1/production/_87433615_revenant1_fox.jpg" data-width="976" data-height="549" data-alt="Leonardo DiCaprio in The Revenant"></div>
+                                    <div class="js-delayed-image-load" data-src="http://ichef.bbci.co.uk/news/304/cpsprodpb/6787/production/_87730562_david_bowie_go_figure_twitt.png" data-width="976" data-height="549" data-alt="David Bowie graphic"></div>
                                     <!--[if lt IE 9]>
-                                    <img src="http://ichef-1.bbci.co.uk/news/304/cpsprodpb/C9B1/production/_87433615_revenant1_fox.jpg" class="js-image-replace" alt="Leonardo DiCaprio in The Revenant" width="976" height="549" />
+                                    <img src="http://ichef.bbci.co.uk/news/304/cpsprodpb/6787/production/_87730562_david_bowie_go_figure_twitt.png" class="js-image-replace" alt="David Bowie graphic" width="976" height="549" />
                                     <![endif]-->
                             </div>
                 </div>
-                <h3 class="bold-image-promo__title">Bear testimony</h3>
-                <p class="bold-image-promo__summary">Makers of The Revenant relive arduous shoot</p>
+                <h3 class="bold-image-promo__title">Go Figure</h3>
+                <p class="bold-image-promo__summary">The week's big numbers, visualised</p>
             </a>
         </div>
         
@@ -750,7 +725,7 @@
 </div>
                                                                     <div id=comp-most-popular
             class="hidden"
-            data-comp-meta="{&quot;id&quot;:&quot;comp-most-popular&quot;,&quot;type&quot;:&quot;most-popular&quot;,&quot;handler&quot;:&quot;mostPopular&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:5,&quot;lastInRegion&quot;:true,&quot;lastOnPage&quot;:true,&quot;column&quot;:&quot;secondary_column&quot;}}}">
+            data-comp-meta="{&quot;id&quot;:&quot;comp-most-popular&quot;,&quot;type&quot;:&quot;most-popular&quot;,&quot;handler&quot;:&quot;mostPopular&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;loading_strategy&quot;:&quot;post_load&quot;,&quot;position_info&quot;:{&quot;instanceNo&quot;:1,&quot;positionInRegion&quot;:4,&quot;lastInRegion&quot;:true,&quot;lastOnPage&quot;:true,&quot;column&quot;:&quot;secondary_column&quot;}}}">
         </div>                                
 <div id="bbccom_mpu_bottom_1_2_3_4" class="bbccom_slot mpu-bottom-ad"  aria-hidden="true">
     <div class="bbccom_advert">
@@ -1111,7 +1086,7 @@
         });
     </script>
 
- <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementsByTagName('body')[0] }); istats.track('download', { region: document.getElementsByTagName('body')[0] }); }); } </script>                 <img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~16514637~RS~p~RS~99110~RS~a~RS~Domestic~RS~u~RS~/news/science-environment-16514637~RS~r~RS~0~RS~q~RS~0~RS~z~RS~1629~RS~">     <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
+ <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementsByTagName('body')[0] }); istats.track('download', { region: document.getElementsByTagName('body')[0] }); }); } </script>                 <img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~16514637~RS~p~RS~99110~RS~a~RS~Domestic~RS~u~RS~/news/science-environment-16514637~RS~r~RS~0~RS~q~RS~0~RS~z~RS~1341~RS~">     <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
 <script type="text/javascript">
     /** CONFIGURATION START **/
     _sf_async_config.sections = "News, News - science-and-environment, News - STY, News - science-and-environment - STY";

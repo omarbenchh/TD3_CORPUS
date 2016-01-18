@@ -188,8 +188,8 @@
         <div class="top-nav hidden-sm hidden-xs">
             <div class="row">
                 <div class="col-lg-4 col-md-4">
-                    <div id="date">19:50, 15 января                        <span class="weather" style="margin:0 20px; font-weight: bold;">
-    <a target="blank" href="http://weather.day.az/">Баку <i class="wi wi-cloudy"></i> 7 <i class="wi wi-celsius"></i></a>
+                    <div id="date">01:05, 18 января                        <span class="weather" style="margin:0 20px; font-weight: bold;">
+    <a target="blank" href="http://weather.day.az/">Баку <i class="wi wi-cloudy"></i> 9 <i class="wi wi-celsius"></i></a>
 </span>                    </div>
                 </div>
                 <div class="col-lg-2 col-md-2">
@@ -198,13 +198,13 @@
             USD <strong>1,5706</strong> <span class="text-muted">  0,00%</span>
         </div>
             <div class="rate">
-            EUR <strong>1,7097</strong> <span class="text-danger"><i class="fa fa-arrow-down"></i> -0,05%</span>
+            EUR <strong>1,7097</strong> <span class="text-muted">  0,00%</span>
         </div>
             <div class="rate">
-            GBP <strong>2,2628</strong> <span class="text-success"><i class="fa fa-arrow-up"></i> +0,05%</span>
+            GBP <strong>2,2628</strong> <span class="text-muted">  0,00%</span>
         </div>
             <div class="rate">
-            RUB <strong>0,0206</strong> <span class="text-success"><i class="fa fa-arrow-up"></i> +0,97%</span>
+            RUB <strong>0,0206</strong> <span class="text-muted">  0,00%</span>
         </div>
     </div>
                 </div>
@@ -514,7 +514,7 @@
             <div class="detail">
                 <div class="info">
                     <span class="date"><i class="fa fa-calendar-o"></i> 27 ноября 2011 01:27</span>
-                    <span class="likes pull-right"><i class="fa fa-eye"></i> 1 333</span>
+                    <span class="likes pull-right"><i class="fa fa-eye"></i> 1 341</span>
                                             <span class="comments pull-right"><a href="#comments"><i class="fa fa-comment"></i> 0 комментариев</a></span>
                                     </div>
             </div>
@@ -669,7 +669,7 @@
                         <div class="info">
                             <span class="date"><i class="fa fa-calendar-o"></i> 28 июля  2015 10:38</span>
                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
-                            <span class="likes pull-right"><i class="fa fa-eye"></i> 2 149</span>
+                            <span class="likes pull-right"><i class="fa fa-eye"></i> 2 152</span>
                         </div>
                         <a href="http://news.day.az/medicine/600112.html"><h2 class="caption">Эти звуки могут свести нас с ума</h2></a>
                     </div>
@@ -688,7 +688,7 @@
                         <div class="info">
                             <span class="date"><i class="fa fa-calendar-o"></i> 13 июля  2015 22:44</span>
                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
-                            <span class="likes pull-right"><i class="fa fa-eye"></i> 742</span>
+                            <span class="likes pull-right"><i class="fa fa-eye"></i> 744</span>
                         </div>
                         <a href="http://news.day.az/medicine/596645.html"><h2 class="caption">Bu ərzaqları ac qarına yemək olmaz</h2></a>
                     </div>
@@ -707,7 +707,7 @@
                         <div class="info">
                             <span class="date"><i class="fa fa-calendar-o"></i> 28 июня  2015 22:46</span>
                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> 1</span>
-                            <span class="likes pull-right"><i class="fa fa-eye"></i> 2 574</span>
+                            <span class="likes pull-right"><i class="fa fa-eye"></i> 2 577</span>
                         </div>
                         <a href="http://news.day.az/medicine/592448.html"><h2 class="caption">10 ошибок, мешающих нам похудеть</h2></a>
                     </div>
@@ -728,7 +728,7 @@
                         <div class="info">
                             <span class="date"><i class="fa fa-calendar-o"></i> 25 июня  2015 13:17</span>
                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
-                            <span class="likes pull-right"><i class="fa fa-eye"></i> 1 732</span>
+                            <span class="likes pull-right"><i class="fa fa-eye"></i> 1 733</span>
                         </div>
                         <a href="http://news.day.az/medicine/591405.html"><h2 class="caption">Человеческие органы будут выращивать в теле свиньи</h2></a>
                     </div>
@@ -747,7 +747,7 @@
                         <div class="info">
                             <span class="date"><i class="fa fa-calendar-o"></i> 10 февраля  2015 23:06</span>
                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
-                            <span class="likes pull-right"><i class="fa fa-eye"></i> 1 979</span>
+                            <span class="likes pull-right"><i class="fa fa-eye"></i> 1 980</span>
                         </div>
                         <a href="http://news.day.az/medicine/555341.html"><h2 class="caption">Врачи будут ставить диагноз по постам в Интернете</h2></a>
                     </div>
@@ -882,16 +882,16 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/politika/03/4/800x550/elmira_suleymanova4.jpg" class="img-responsive" alt="Ombudsman 20 Yanvar faciəsinin ildönümü ilə əlaqədar bəyanat yaydı" >
-                            <div class="overlay-category"> Azərbaycanca</div>
+                            <img src="http://img.day.az/politika/03/8/800x550/rufat_guliev_02.jpg" class="img-responsive" alt="Депутат: Реформы Президента Ильхама Алиева сделают госуправление более эффективным" >
+                            <div class="overlay-category">Политика</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:45</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 00:28</span>
                                                     </div>
-                        <a href="http://news.day.az/azerinews/738597.html"><h2 class="caption">Ombudsman 20 Yanvar faciəsinin ildönümü ilə əlaqədar bəyanat yaydı</h2></a>
+                        <a href="http://news.day.az/politics/739095.html"><h2 class="caption">Депутат: Реформы Президента Ильхама Алиева сделают госуправление более эффективным</h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -899,16 +899,16 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/agriculture_251213.jpg" class="img-responsive" alt="В Азербайджане необходимо внедрить сельскохозяйственную специализацию регионов" >
-                            <div class="overlay-category">Экономика</div>
+                            <img src="http://img.day.az/politika/07/a/800x550/rufat_guliev_002.jpg" class="img-responsive" alt="Депутат: Повышение пенсий - важный шаг для защиты населения Азербайджана" >
+                            <div class="overlay-category">Политика</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:39</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 00:23</span>
                                                     </div>
-                        <a href="http://news.day.az/economy/738596.html"><h2 class="caption">В Азербайджане необходимо внедрить сельскохозяйственную специализацию регионов</h2></a>
+                        <a href="http://news.day.az/politics/739094.html"><h2 class="caption">Депутат: Повышение пенсий - важный шаг для защиты населения Азербайджана</h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -916,17 +916,17 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/stolen_150116.jpg" class="img-responsive" alt="В России преступники украли из банка миллиард рублей &lt;span class=&quot;color_red&quot;&gt;- ВИДЕО&lt;/span&gt;" >
+                            <img src="http://img.day.az/2016/01/16/800x550/738668.jpg" class="img-responsive" alt="Специалист по фотошопу объединил лица двух разных звезд в одно &lt;span class=&quot;color_red&quot;&gt;- ФОТО&lt;/span&gt;" >
                             <div class="overlay-category">Это интересно</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:35</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 00:15</span>
                                                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://news.day.az/unusual/738582.html"><h2 class="caption">В России преступники украли из банка миллиард рублей <span class="color_red">- ВИДЕО</span></h2></a>
+                        <a href="http://news.day.az/unusual/738668.html"><h2 class="caption">Специалист по фотошопу объединил лица двух разных звезд в одно <span class="color_red">- ФОТО</span></h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -936,88 +936,17 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2016/01/14/800x550/bank_07.jpg" class="img-responsive" alt="Изменения в одном из крупнейших азербайджанских банков" >
-                            <div class="overlay-category">Экономика</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:28</span>
-                                                    </div>
-                        <a href="http://news.day.az/economy/738594.html"><h2 class="caption">Изменения в одном из крупнейших азербайджанских банков</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/bread_091012.jpg" class="img-responsive" alt="Крупный производитель хлеба в Азербайджане вдвое увеличит объемы продукции" >
-                            <div class="overlay-category">Экономика</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:24</span>
-                                                    </div>
-                        <a href="http://news.day.az/economy/738593.html"><h2 class="caption">Крупный производитель хлеба в Азербайджане вдвое увеличит объемы продукции</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/3719a3364cc019fb8b4bd60955286fc9.jpg" class="img-responsive" alt="Azərbaycanda çörək və unun son qiymətləri &lt;span class=&quot;color_red&quot;&gt;- CƏDVƏL - FOTO&lt;/span&gt;" >
-                            <div class="overlay-category"> Azərbaycanca</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:20</span>
-                                                    </div>
-                        <a href="http://news.day.az/azerinews/738592.html"><h2 class="caption">Azərbaycanda çörək və unun son qiymətləri <span class="color_red">- CƏDVƏL - FOTO</span></h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                    </div>
-            <div class="row">
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/v_mire/10/3/800x550/svinoy_gripp.jpg" class="img-responsive" alt="Обращение Минздрава в связи со «свиным гриппом»" >
-                            <div class="overlay-category">Общество</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:15</span>
-                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
-                                                    </div>
-                        <a href="http://news.day.az/society/738591.html"><h2 class="caption">Обращение Минздрава в связи со «свиным гриппом»</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/12/800x550/terrorist_120116.jpg" class="img-responsive" alt="Главный подозреваемый по делу о терактах в Париже ищет адвоката &lt;span class=&quot;color_red&quot;&gt;- ВИДЕО&lt;/span&gt;" >
+                            <img src="http://img.day.az/flagi/0b/7/800x550/shveycariya_02.jpg" class="img-responsive" alt="Американцев, освобожденных в Иране, доставят в Швейцарию" >
                             <div class="overlay-category">В мире</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 19:06</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 22:59</span>
                                                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://news.day.az/world/738442.html"><h2 class="caption">Главный подозреваемый по делу о терактах в Париже ищет адвоката <span class="color_red">- ВИДЕО</span></h2></a>
+                        <a href="http://news.day.az/world/739083.html"><h2 class="caption">Американцев, освобожденных в Иране, доставят в Швейцарию</h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1025,17 +954,35 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/plane_150116.jpg" class="img-responsive" alt="У берегов Гавайских островов столкнулись два самолета" >
+                            <img src="http://img.day.az/2016/01/17/800x550/manat.jpg" class="img-responsive" alt="İçində 3500 manat olan çantanı mağazada unutdu" >
+                            <div class="overlay-category"> Azərbaycanca</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 22:57</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/azerinews/739076.html"><h2 class="caption">İçində 3500 manat olan çantanı mağazada unutdu</h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2015/10/09/800x550/siriya_vzriv.jpg" class="img-responsive" alt="СМИ: Взрыв прогремел на территории посольства Италии в Кабуле" >
                             <div class="overlay-category">В мире</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:58</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 22:25</span>
                                                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://news.day.az/world/738589.html"><h2 class="caption">У берегов Гавайских островов столкнулись два самолета</h2></a>
+                        <a href="http://news.day.az/world/739082.html"><h2 class="caption">СМИ: Взрыв прогремел на территории посольства Италии в Кабуле</h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1045,16 +992,17 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/yunus_oguz_005.jpg" class="img-responsive" alt="Kimin barmağının işarəsinə oynayırıq?" >
-                            <div class="overlay-category"> Azərbaycanca</div>
+                            <img src="http://img.day.az/iran/09/4/800x550/snyatiya_sankciy_s_irana.jpg" class="img-responsive" alt="ЕС уточнил перечень снятых с Ирана санкций" >
+                            <div class="overlay-category">В мире</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:50</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 22:22</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://news.day.az/azerinews/738587.html"><h2 class="caption">Kimin barmağının işarəsinə oynayırıq?</h2></a>
+                        <a href="http://news.day.az/world/739080.html"><h2 class="caption">ЕС уточнил перечень снятых с Ирана санкций</h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1062,17 +1010,17 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2015/09/28/800x550/futbol_new_04.jpg" class="img-responsive" alt="&amp;quot;Интер&amp;quot; уступил &amp;quot;Вердеру&amp;quot;" >
+                            <img src="http://img.day.az/sport/futbol/04/0/800x550/mario_balotelli_23124.jpg" class="img-responsive" alt="Балотелли может вернуться в английскую премьер-лигу" >
                             <div class="overlay-category">Спорт</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:48</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 22:00</span>
                                                             <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://sport.day.az/photostory/20160115175929404.html"><h2 class="caption">&quot;Интер&quot; уступил &quot;Вердеру&quot;</h2></a>
+                        <a href="http://news.day.az/sport/739014.html"><h2 class="caption">Балотелли может вернуться в английскую премьер-лигу</h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1080,69 +1028,17 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2015/09/21/800x550/ilham_aliyev_rasporyajenie.jpg" class="img-responsive" alt="Мурад Кажлаев награжден орденом «Достлуг»" >
-                            <div class="overlay-category">Политика</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:45</span>
-                                                    </div>
-                        <a href="http://news.day.az/politics/738586.html"><h2 class="caption">Мурад Кажлаев награжден орденом «Достлуг»</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                    </div>
-            <div class="row">
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/heyder_mescidi.jpg" class="img-responsive" alt="В бакинской мечети Гейдара совершен намаз-вахдат &lt;span class=&quot;color_red&quot;&gt;- ВИДЕО&lt;/span&gt;" >
+                            <img src="http://img.day.az/obshchestvo/04/7/800x550/pojar1.jpg" class="img-responsive" alt="В Баку произошел пожар в жилом здании &lt;span class=&quot;color_red&quot;&gt;- ОБНОВЛЕНО - ФОТО&lt;/span&gt;" >
                             <div class="overlay-category">Общество</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:42</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 21:28</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://news.day.az/society/738585.html"><h2 class="caption">В бакинской мечети Гейдара совершен намаз-вахдат <span class="color_red">- ВИДЕО</span></h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/vuqar_rehimzade_00.jpg" class="img-responsive" alt="Xalq öz Prezidentinə, cənab Prezident isə öz xalqına arxalanır" >
-                            <div class="overlay-category"> Azərbaycanca</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:35</span>
-                                                    </div>
-                        <a href="http://news.day.az/azerinews/738583.html"><h2 class="caption">Xalq öz Prezidentinə, cənab Prezident isə öz xalqına arxalanır</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2015/12/23/800x550/manat_180215.jpg" class="img-responsive" alt="Artan qiymətlərdir, yoxsa bəzilərinin iştahası?" >
-                            <div class="overlay-category"> Azərbaycanca</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:30</span>
-                                                    </div>
-                        <a href="http://news.day.az/azerinews/738581.html"><h2 class="caption">Artan qiymətlərdir, yoxsa bəzilərinin iştahası?</h2></a>
+                        <a href="http://news.day.az/society/739075.html"><h2 class="caption">В Баку произошел пожар в жилом здании <span class="color_red">- ОБНОВЛЕНО - ФОТО</span></h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1152,69 +1048,16 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2015/11/13/800x550/moy_baku_(1).jpg" class="img-responsive" alt="Böhrandan xilasın Azərbaycan modeli" >
-                            <div class="overlay-category"> Azərbaycanca</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:24</span>
-                                                    </div>
-                        <a href="http://news.day.az/azerinews/738577.html"><h2 class="caption">Böhrandan xilasın Azərbaycan modeli</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/grain_terminal.jpg" class="img-responsive" alt="Азербайджан способен полностью обеспечить себя зерном" >
-                            <div class="overlay-category">Экономика</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:20</span>
-                                                    </div>
-                        <a href="http://news.day.az/economy/738576.html"><h2 class="caption">Азербайджан способен полностью обеспечить себя зерном</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/398279.jpg" class="img-responsive" alt="Tarixi özündə yaşadan qədim Şəki qapıları" >
-                            <div class="overlay-category"> Azərbaycanca</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:16</span>
-                                                    </div>
-                        <a href="http://news.day.az/azerinews/738568.html"><h2 class="caption">Tarixi özündə yaşadan qədim Şəki qapıları</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                    </div>
-            <div class="row">
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2015/09/27/800x550/ilham_aliyev2.jpg" class="img-responsive" alt="Президент Ильхам Алиев поздравил народного артиста СССР Мурада Кажлаева" >
+                            <img src="http://img.day.az/2016/01/17/800x550/738974.jpg" class="img-responsive" alt="Антиазербайджанская свора взялась за армию &lt;span class=&quot;color_red&quot;&gt; - АНАТОМИЯ ПРОВОКАЦИИ&lt;/span&gt;" >
                             <div class="overlay-category">Политика</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:11</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 21:25</span>
                                                     </div>
-                        <a href="http://news.day.az/politics/738569.html"><h2 class="caption">Президент Ильхам Алиев поздравил народного артиста СССР Мурада Кажлаева</h2></a>
+                        <a href="http://news.day.az/politics/738974.html"><h2 class="caption">Антиазербайджанская свора взялась за армию <span class="color_red"> - АНАТОМИЯ ПРОВОКАЦИИ</span></h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1222,16 +1065,17 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2015/12/22/800x550/lisenziya2.jpg" class="img-responsive" alt="Sahibkar: &amp;quot;Lisenziya verilməsinin asanlaşdırılması dövlətin sahibkarlara ən böyük köməyidir&amp;quot;" >
-                            <div class="overlay-category"> Azərbaycanca</div>
+                            <img src="http://img.day.az/2016/01/17/800x550/63615-zdfmmdeym2njmq.jpg" class="img-responsive" alt="Профессии, которые исчезли с появлением современных технологий &lt;span class=&quot;color_red&quot;&gt;- ФОТО&lt;/span&gt;" >
+                            <div class="overlay-category">Это интересно</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:09</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 21:05</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://news.day.az/azerinews/738564.html"><h2 class="caption">Sahibkar: &quot;Lisenziya verilməsinin asanlaşdırılması dövlətin sahibkarlara ən böyük köməyidir&quot;</h2></a>
+                        <a href="http://news.day.az/unusual/739041.html"><h2 class="caption">Профессии, которые исчезли с появлением современных технологий <span class="color_red">- ФОТО</span></h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1239,53 +1083,35 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/heyder_mescidi.jpg" class="img-responsive" alt="Heydər Məscidində vəhdət namazı qılındı &lt;span class=&quot;color_red&quot;&gt;- VİDEO&lt;/span&gt;" >
-                            <div class="overlay-category"> Azərbaycanca</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:07</span>
-                                                    </div>
-                        <a href="http://news.day.az/azerinews/738562.html"><h2 class="caption">Heydər Məscidində vəhdət namazı qılındı <span class="color_red">- VİDEO</span></h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                    </div>
-            <div class="row">
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/2016/01/15/800x550/mmg_pm_pistolet_makarova_balakleya_7.jpg" class="img-responsive" alt="В квартире представителя главы ИВ Физулинского района нашли оружие" >
-                            <div class="overlay-category">Общество</div>
-                             
-                        </div>
-                    </div>
-                    <div class="detail">
-                        <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 18:04</span>
-                                                    </div>
-                        <a href="http://news.day.az/society/738561.html"><h2 class="caption">В квартире представителя главы ИВ Физулинского района нашли оружие</h2></a>
-                    </div>
-                </article>
-                <!-- ARTICLE ENDS -->
-                            <!-- ARTICLE STARTS -->
-                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-                    <div class="picture">
-                        <div class="category-image">
-                            <img src="http://img.day.az/politika/03/3/800x550/migranty_novye.jpg" class="img-responsive" alt="В Швейцарии за статус беженца придется заплатить &lt;span class=&quot;color_red&quot;&gt;- ВИДЕО&lt;/span&gt;" >
+                            <img src="http://img.day.az/2016/01/17/800x550/goldman_sachs_140815.jpg" class="img-responsive" alt="Goldman Sachs прогнозирует заметный рост нефтедобычи в Иране" >
                             <div class="overlay-category">В мире</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 17:53</span>
-                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 20:23</span>
                                                     </div>
-                        <a href="http://news.day.az/world/738539.html"><h2 class="caption">В Швейцарии за статус беженца придется заплатить <span class="color_red">- ВИДЕО</span></h2></a>
+                        <a href="http://news.day.az/world/739072.html"><h2 class="caption">Goldman Sachs прогнозирует заметный рост нефтедобычи в Иране</h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                    </div>
+            <div class="row">
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/obshchestvo/04/10/800x550/555984.jpg" class="img-responsive" alt="В Азербайджане появится новый городок &lt;span class=&quot;color_red&quot;&gt; - ФОТО&lt;/span&gt;" >
+                            <div class="overlay-category">Общество</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 20:13</span>
+                                                    </div>
+                        <a href="http://news.day.az/society/738754.html"><h2 class="caption">В Азербайджане появится новый городок <span class="color_red"> - ФОТО</span></h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
@@ -1293,23 +1119,209 @@
                 <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
                     <div class="picture">
                         <div class="category-image">
-                            <img src="http://img.day.az/2015/11/11/800x550/baku_sheheri.jpg" class="img-responsive" alt="Azərbaycan yeni mərhələnin başlanğıcında &lt;span class=&quot;color_red&quot;&gt;- TƏHLİL&lt;/span&gt;" >
+                            <img src="http://img.day.az/iran/09/4/800x550/snyatiya_sankciy_s_irana.jpg" class="img-responsive" alt="США ввели санкции против причастных к ракетам Ирана" >
+                            <div class="overlay-category">В мире</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 19:48</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/world/739071.html"><h2 class="caption">США ввели санкции против причастных к ракетам Ирана</h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2016/01/17/800x550/xw_1201853.jpg" class="img-responsive" alt="Толстый кот покачал пресс на камеру &lt;span class=&quot;color_red&quot;&gt;- ВИДЕО&lt;/span&gt;" >
+                            <div class="overlay-category">Это интересно</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 19:14</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/unusual/739057.html"><h2 class="caption">Толстый кот покачал пресс на камеру <span class="color_red">- ВИДЕО</span></h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                    </div>
+            <div class="row">
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2016/01/17/800x550/712.jpg" class="img-responsive" alt="10 самых красивых замерзших озер планеты &lt;span class=&quot;color_red&quot;&gt;- ФОТО&lt;/span&gt;" >
+                            <div class="overlay-category">Это интересно</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 19:00</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/unusual/739030.html"><h2 class="caption">10 самых красивых замерзших озер планеты <span class="color_red">- ФОТО</span></h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2016/01/17/800x550/41815_src.jpg" class="img-responsive" alt="Транзитная роль Азербайджана выходит на новый уровень &lt;span class=&quot;color_red&quot;&gt;- МНЕНИЕ&lt;/span&gt;" >
+                            <div class="overlay-category">Экономика</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:48</span>
+                                                    </div>
+                        <a href="http://news.day.az/economy/738985.html"><h2 class="caption">Транзитная роль Азербайджана выходит на новый уровень <span class="color_red">- МНЕНИЕ</span></h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2016/01/17/800x550/gruz.jpg" class="img-responsive" alt="В Тбилиси покончил с собой основатель «Голоса Грузии»" >
+                            <div class="overlay-category">Новости Грузии</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:38</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/georgia/739065.html"><h2 class="caption">В Тбилиси покончил с собой основатель «Голоса Грузии»</h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                    </div>
+            <div class="row">
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2016/01/17/800x550/xaker_300713.jpg" class="img-responsive" alt="Сайт посольства РФ в Израиле вновь заработал &lt;span class=&quot;color_red&quot;&gt; - ОБНОВЛЕНО&lt;/span&gt;" >
+                            <div class="overlay-category">Новости России</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:33</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/russia/739054.html"><h2 class="caption">Сайт посольства РФ в Израиле вновь заработал <span class="color_red"> - ОБНОВЛЕНО</span></h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2016/01/17/800x550/_____.jpg" class="img-responsive" alt="СМИ: У Польши назревают проблемы с ЕС" >
+                            <div class="overlay-category">В мире</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:29</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/world/739064.html"><h2 class="caption">СМИ: У Польши назревают проблемы с ЕС</h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2015/11/05/800x550/pojarnaya_mashina.jpg" class="img-responsive" alt="Bakıda binada yanğın &lt;span class=&quot;color_red&quot;&gt;- 2 nəfər yaralanıb, 20 nəfər təxliyə edilib &lt;/span&gt;" >
                             <div class="overlay-category"> Azərbaycanca</div>
                              
                         </div>
                     </div>
                     <div class="detail">
                         <div class="info">
-                            <span class="date"><i class="fa fa-calendar-o"></i> 17:48</span>
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:21</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
                                                     </div>
-                        <a href="http://news.day.az/azerinews/738550.html"><h2 class="caption">Azərbaycan yeni mərhələnin başlanğıcında <span class="color_red">- TƏHLİL</span></h2></a>
+                        <a href="http://news.day.az/azerinews/739061.html"><h2 class="caption">Bakıda binada yanğın <span class="color_red">- 2 nəfər yaralanıb, 20 nəfər təxliyə edilib </span></h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                    </div>
+            <div class="row">
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2015/09/28/800x550/futbol_new_04.jpg" class="img-responsive" alt="&amp;quot;Интер&amp;quot; вернулся к тренировкам" >
+                            <div class="overlay-category">Спорт</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:20</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://sport.day.az/photostory/20160117181035691.html"><h2 class="caption">&quot;Интер&quot; вернулся к тренировкам</h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2016/01/17/800x550/xw_1201823.jpg" class="img-responsive" alt="Ребенок-беженец убил школьника в Швеции &lt;span class=&quot;color_red&quot;&gt;- ВИДЕО&lt;/span&gt;" >
+                            <div class="overlay-category">В мире</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:19</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> 2</span>
+                                                    </div>
+                        <a href="http://news.day.az/world/739056.html"><h2 class="caption">Ребенок-беженец убил школьника в Швеции <span class="color_red">- ВИДЕО</span></h2></a>
+                    </div>
+                </article>
+                <!-- ARTICLE ENDS -->
+                            <!-- ARTICLE STARTS -->
+                <article class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+                    <div class="picture">
+                        <div class="category-image">
+                            <img src="http://img.day.az/2015/10/01/800x550/dorojnaya_policiya_baku.jpg" class="img-responsive" alt="Bu yollar bağlı olacaq &lt;span class=&quot;color_red&quot;&gt;- DYP-dən xəbərdarlıq &lt;/span&gt;" >
+                            <div class="overlay-category"> Azərbaycanca</div>
+                             
+                        </div>
+                    </div>
+                    <div class="detail">
+                        <div class="info">
+                            <span class="date"><i class="fa fa-calendar-o"></i> 17 января 18:14</span>
+                                                            <span class="comments pull-right"><i class="fa fa-comment-o"></i> </span>
+                                                    </div>
+                        <a href="http://news.day.az/azerinews/739058.html"><h2 class="caption">Bu yollar bağlı olacaq <span class="color_red">- DYP-dən xəbərdarlıq </span></h2></a>
                     </div>
                 </article>
                 <!-- ARTICLE ENDS -->
                     </div>
     </div>
 <script type="text/javascript">
-    rData = {isAjax: 1, ts: '11576966'};
+    rData = {isAjax: 1, ts: '11574060'};
 </script>                    </div>
         <!-- /. LEFT COLUMN ENDS ========================================================================= -->
 
@@ -1374,44 +1386,44 @@
             <div role="tabpanel" class="tab-pane active" id="popular">
                 <ul class="tabs-posts">
                                             <li>
-                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2016/01/15/thumb/thumb_20160115094143334.jpg" class="img-responsive" alt="Впервые азербайджанец избран на официальный пост в США" ></div>
+                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/sport/0d/9/thumb/azad_ragimov_ministr_sporta_4.jpg" class="img-responsive" alt="Azərbaycanda nazirə itki üz verib" ></div>
                             <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 10:08</span>                        
-                                <span class="likes pull-right"><i class="fa fa-eye"></i> 11 779</span>
+                                <span class="date"><i class="fa fa-calendar-o"></i> 17 Янв. 11:41</span>                        
+                                <span class="likes pull-right"><i class="fa fa-eye"></i> 6 133</span>
                             </div>
-                            <div class="caption"><a href="http://news.day.az/politics/738256.html">Впервые азербайджанец избран на официальный пост в США</a></div>
+                            <div class="caption"><a href="http://news.day.az/azerinews/738972.html">Azərbaycanda nazirə itki üz verib</a></div>
                         </li>
                                             <li>
-                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2016/01/15/thumb/araq_018.jpg" class="img-responsive" alt="Azərbaycanda spirtli içkilərlə bağlı yeni QADAĞA" ></div>
+                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/obshchestvo/04/7/thumb/pojar1.jpg" class="img-responsive" alt="В Баку произошел пожар в жилом здании &lt;span class=&quot;color_red&quot;&gt;- ОБНОВЛЕНО - ФОТО&lt;/span&gt;" ></div>
                             <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 08:10</span>                        
-                                <span class="likes pull-right"><i class="fa fa-eye"></i> 10 287</span>
+                                <span class="date"><i class="fa fa-calendar-o"></i> 17 Янв. 21:28</span>                        
+                                <span class="likes pull-right"><i class="fa fa-eye"></i> 4 641</span>
                             </div>
-                            <div class="caption"><a href="http://news.day.az/azerinews/738212.html">Azərbaycanda spirtli içkilərlə bağlı yeni QADAĞA</a></div>
+                            <div class="caption"><a href="http://news.day.az/society/739075.html">В Баку произошел пожар в жилом здании <span class="color_red">- ОБНОВЛЕНО - ФОТО</span></a></div>
                         </li>
                                             <li>
-                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2016/01/14/thumb/samyie_opasnie_bluda.jpg" class="img-responsive" alt="Представлены самые опасные блюда мира &lt;span class=&quot;color_red&quot;&gt;- ФОТО&lt;/span&gt;" ></div>
+                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/prezident/10/10/thumb/mekhriban_alieva_88_1.jpg" class="img-responsive" alt="По инициативе Первой леди Мехрибан Алиевой Фонд Гейдара Алиева оплатит лечение Заура Рашидова" ></div>
                             <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 14 Янв. 23:54</span>                        
-                                <span class="likes pull-right"><i class="fa fa-eye"></i> 5 517</span>
+                                <span class="date"><i class="fa fa-calendar-o"></i> 17 Янв. 14:52</span>                        
+                                <span class="likes pull-right"><i class="fa fa-eye"></i> 4 135</span>
                             </div>
-                            <div class="caption"><a href="http://news.day.az/unusual/738038.html">Представлены самые опасные блюда мира <span class="color_red">- ФОТО</span></a></div>
+                            <div class="caption"><a href="http://news.day.az/politics/739021.html">По инициативе Первой леди Мехрибан Алиевой Фонд Гейдара Алиева оплатит лечение Заура Рашидова</a></div>
                         </li>
                                             <li>
-                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2016/01/15/thumb/738444.jpg" class="img-responsive" alt="Снимки 2015 года, которые заставили интернет ахнуть &lt;span class=&quot;color_red&quot;&gt;- ФОТО&lt;/span&gt;" ></div>
+                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/obshchestvo/04/10/thumb/555984.jpg" class="img-responsive" alt="В Азербайджане появится новый городок &lt;span class=&quot;color_red&quot;&gt; - ФОТО&lt;/span&gt;" ></div>
                             <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 15:50</span>                        
-                                <span class="likes pull-right"><i class="fa fa-eye"></i> 3 426</span>
+                                <span class="date"><i class="fa fa-calendar-o"></i> 17 Янв. 20:13</span>                        
+                                <span class="likes pull-right"><i class="fa fa-eye"></i> 2 251</span>
                             </div>
-                            <div class="caption"><a href="http://news.day.az/unusual/738444.html">Снимки 2015 года, которые заставили интернет ахнуть <span class="color_red">- ФОТО</span></a></div>
+                            <div class="caption"><a href="http://news.day.az/society/738754.html">В Азербайджане появится новый городок <span class="color_red"> - ФОТО</span></a></div>
                         </li>
                                             <li>
-                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2015/11/11/thumb/telebe-mekteb11216-05-2011.jpg" class="img-responsive" alt="Tələbələrin təqaüdləri artırılır &lt;span class=&quot;color_red&quot;&gt;- CƏDVƏL&lt;/span&gt;" ></div>
+                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2016/01/16/thumb/738693.jpg" class="img-responsive" alt="Как работает водородная бомба &lt;span class=&quot;color_red&quot;&gt;- ФОТО&lt;/span&gt;" ></div>
                             <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 14:01</span>                        
-                                <span class="likes pull-right"><i class="fa fa-eye"></i> 2 678</span>
+                                <span class="date"><i class="fa fa-calendar-o"></i> 17 Янв. 01:20</span>                        
+                                <span class="likes pull-right"><i class="fa fa-eye"></i> 1 635</span>
                             </div>
-                            <div class="caption"><a href="http://news.day.az/azerinews/738417.html">Tələbələrin təqaüdləri artırılır <span class="color_red">- CƏDVƏL</span></a></div>
+                            <div class="caption"><a href="http://news.day.az/unusual/738693.html">Как работает водородная бомба <span class="color_red">- ФОТО</span></a></div>
                         </li>
                                     </ul>
             </div>
@@ -1420,20 +1432,20 @@
             <div role="tabpanel" class="tab-pane" id="comments">
                 <ul class="tabs-posts">
                                             <li>
-                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/obshchestvo/0d/f/thumb/mandarin.jpg" class="img-responsive" alt="200 кг турецких мандаринов на Ставрополье раздавили бульдозером" ></div>
-                            <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 10 Янв. 11:15</span>                        
-                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 17</span>
-                            </div>
-                            <div class="caption"><a href="http://news.day.az/world/736453.html">200 кг турецких мандаринов на Ставрополье раздавили бульдозером</a></div>
-                        </li>
-                                            <li>
                             <div class="pic"><img style="width: 75px;" src="http://img.day.az/2016/01/15/thumb/thumb_20160115094143334.jpg" class="img-responsive" alt="Впервые азербайджанец избран на официальный пост в США" ></div>
                             <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 10:08</span>                        
-                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 16</span>
+                                <span class="date"><i class="fa fa-calendar-o"></i> 15 Янв. 10:08</span>                        
+                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 20</span>
                             </div>
                             <div class="caption"><a href="http://news.day.az/politics/738256.html">Впервые азербайджанец избран на официальный пост в США</a></div>
+                        </li>
+                                            <li>
+                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2015/12/04/thumb/ilhame_(1).jpg" class="img-responsive" alt="СМИ: сына Ильхамы Гулиевой арестовали" ></div>
+                            <div class="info">
+                                <span class="date"><i class="fa fa-calendar-o"></i> 14 Янв. 16:24</span>                        
+                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 20</span>
+                            </div>
+                            <div class="caption"><a href="http://news.day.az/showbiz/738071.html">СМИ: сына Ильхамы Гулиевой арестовали</a></div>
                         </li>
                                             <li>
                             <div class="pic"><img style="width: 75px;" src="http://img.day.az/2016/01/12/thumb/gulsara_(4).jpg" class="img-responsive" alt="Азербайджанская актриса выбрала отдых в Индонезии &lt;span class=&quot;color_red&quot;&gt;- ФОТО&lt;/span&gt;" ></div>
@@ -1444,20 +1456,20 @@
                             <div class="caption"><a href="http://lady.day.az/news/guests/737249.html">Азербайджанская актриса выбрала отдых в Индонезии <span class="color_red">- ФОТО</span></a></div>
                         </li>
                                             <li>
-                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2015/12/04/thumb/ilhame_(1).jpg" class="img-responsive" alt="СМИ: сына Ильхамы Гулиевой арестовали" ></div>
-                            <div class="info">
-                                <span class="date"><i class="fa fa-calendar-o"></i> 14 Янв. 16:24</span>                        
-                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 15</span>
-                            </div>
-                            <div class="caption"><a href="http://news.day.az/showbiz/738071.html">СМИ: сына Ильхамы Гулиевой арестовали</a></div>
-                        </li>
-                                            <li>
                             <div class="pic"><img style="width: 75px;" src="http://img.day.az/shoubiz_kultura/0f/1/thumb/istanbul.jpg" class="img-responsive" alt="СМИ: стамбульский смертник оказался сыном армянки" ></div>
                             <div class="info">
                                 <span class="date"><i class="fa fa-calendar-o"></i> 14 Янв. 11:20</span>                        
-                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 14</span>
+                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 15</span>
                             </div>
                             <div class="caption"><a href="http://news.day.az/world/737884.html">СМИ: стамбульский смертник оказался сыном армянки</a></div>
+                        </li>
+                                            <li>
+                            <div class="pic"><img style="width: 75px;" src="http://img.day.az/2015/10/06/thumb/dorojnaya_policiya.jpg" class="img-responsive" alt="В Баку по-новому борются с нарушителями правил" ></div>
+                            <div class="info">
+                                <span class="date"><i class="fa fa-calendar-o"></i> 12 Янв. 07:15</span>                        
+                                <span class="comments pull-right"><i class="fa fa-comment-o"></i> 14</span>
+                            </div>
+                            <div class="caption"><a href="http://news.day.az/society/736837.html">В Баку по-новому борются с нарушителями правил</a></div>
                         </li>
                                     </ul>
             </div>
@@ -1777,5 +1789,5 @@
 <script type="text/javascript">GA_googleFillSlot("DAY_Slot_News_End_HTML");</script>
 </div>
 </body>
-</html><!-- 0.299501
+</html><!-- 0.314854
 -->

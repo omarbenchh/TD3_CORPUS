@@ -487,6 +487,21 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
     <div class="rozwijane" id="materialy-platne">
       <p class="info">Te materiały są płatne. Uzyskaj dostęp do wielu wartościowych treści - <a href="#" onclick="PianoMedia.box.info.open();">zarejestruj się już dziś</a> w systemie Piano.</p>
                         <div class="wybranyArt three mobile-two columns">
+            <a href="http://www.polskatimes.pl/artykul/9299672,pomorskie-wykopaliska-napiersnik-i-grob-krowy,id,t.html" >
+                            <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/c5/fe/569bb74ac7582_o,size,380x238,q,71,h,062ac4.jpg" class="lazy">
+                        <h3>
+                <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
+
+
+
+
+              Pomorskie wykopaliska. Napierśnik i grób krowy 
+            </h3>
+            <p class="raquo">O zwyczajach i życiu codziennym ludu kultury pomorskiej wciąż wiemy niewiele. Archeolodzy próbują kompletować wiedzę z nielicznych „puzzli”, którymi są przypadkowe najczęściej odkrycia.</p>
+            </a>
+          </div>
+
+                                <div class="wybranyArt three mobile-two columns">
             <a href="http://www.polskatimes.pl/artykul/9291878,prokurator-anna-jedynak-zamordowana-byla-dumna-z-syna-zginela-z-jego-reki,id,t.html" >
                             <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/c3/b7/5697fd1850fde_o,size,380x238,q,71,h,4797d8.jpg" class="lazy">
                         <h3>
@@ -501,33 +516,18 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
             </a>
           </div>
 
-                                <div class="wybranyArt three mobile-two columns">
-            <a href="http://www.polskatimes.pl/artykul/9278989,sanacja-zamyka-opozycje,id,t.html" >
-                            <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/63/19/5693f561b6f6e_o,size,380x238,q,71,h,69b76f.jpg" class="lazy">
-                        <h3>
-                <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
-
-
-
-
-              Sanacja zamyka opozycję
-            </h3>
-            <p class="raquo">13 stycznia 1932. Przed Sądem Okręgowym w Warszawie zapada wyrok w procesie brzeskim. Na kary więzienia skazani zostają byli posłowie, przywódcy opozycji. Proces jest wizerunkową klęską sanacji</p>
-            </a>
-          </div>
-
                                             <div class="kolInne six mobile-four columns">
                 <h2>Zobacz także:</h2>
                 <ul class="zobaczTakze">
                                             <li class="wyroznione">
-                    <a class="left" href="http://www.polskatimes.pl/artykul/9277022,co-dziesiate-polskie-dziecko-jest-niedozywione-rozmowa,id,t.html" >
-                                              <img class="lazy three columns" alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/29/1a/56938712145f0_o,size,380x238,q,71,h,4c0b5d.jpg">
+                    <a class="left" href="http://www.polskatimes.pl/artykul/9278989,sanacja-zamyka-opozycje,id,t.html" >
+                                              <img class="lazy three columns" alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/63/19/5693f561b6f6e_o,size,380x238,q,71,h,69b76f.jpg">
                                               <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
 
 
 
 
-                      Co dziesiąte polskie dziecko jest niedożywione [ROZMOWA]
+                      Sanacja zamyka opozycję
                     </a>
                   </li>
                                                                                               <li class="wyroznione">
@@ -541,6 +541,11 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
                       Magdalena Błeńska: Zamiast lepiej jest gorzej [ROZMOWA]
                     </a>
                   </li>
+                                                                                              <li class="left">  <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
+
+
+
+<a href="http://www.polskatimes.pl/artykul/9277022,co-dziesiate-polskie-dziecko-jest-niedozywione-rozmowa,id,t.html" >Co dziesiąte polskie dziecko jest niedożywione [ROZMOWA]</a></li>
                                                                                               <li class="left">  <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
 
 
@@ -561,11 +566,6 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
 
 
 <a href="http://www.polskatimes.pl/artykul/9268133,jerzy-kropiwnicki-moja-kandydatura-do-rpp-nie-wiaze-sie-z-porazka-w-wyborach-do-senatu,id,t.html" >Jerzy Kropiwnicki: Moja kandydatura do RPP nie wiąże się z porażką w wyborach do Senatu</a></li>
-                                                                                              <li class="left">  <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
-
-
-
-<a href="http://www.polskatimes.pl/artykul/9267445,myszka-miki-z-obozu-zaglady-w-sobiborze-zdjecia,id,t.html" >Myszka Miki z Sobiboru </a></li>
                                            </ul>
             </div>
                                   </div>
@@ -659,23 +659,23 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
        
             
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9289380,mpk-we-wroclawiu-za-darmo-dla-wszystkich-kierowcow,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/7b/29/5697811297cbd_o,size,380x238,q,71,h,f2f735.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9297923,od-strzelaniny-w-tuchowie-minelo-5-lat-serce-matki-wciaz-krwawi,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/fc/21/569aa404db917_o,size,380x238,crop,0.0029x0.0000x0.9856x0.4287,q,71,h,6ad0ae.jpg" class="lazy schowaj">
                         <h3>
-                            MPK we Wrocławiu za darmo dla każdego? Jest projekt uchwały
+                            Policyjna kula zabiła jej syna. Winnego brak
             </h3>
-            <p class="mobile-hidden">Wrocławska komunikacja miejska może być bezpłatna dla wszystkich kierowców. A w dni, kiedy powietrze w mieście będzie szczególnie zanieczyszczone - także dla pasażerów samochodów. To pomysł...</p>
+            <p class="mobile-hidden">Andrzej Swoszowski zginął 13 stycznia 2011 roku od przypadkowej kuli z policyjnej broni.  Tragicznym zdarzeniem trzykrotnie zajmował się sąd. Wszystko wskazuje na to, że to nie koniec.</p>
           </a>
         </div>
 
       
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9294650,wybierz-najpiekniej-oswietlone-miasto-w-polsce-i-zdecyduj-do-kogo-trafi-warta-50-tys-zl-pomoc,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/02/17/569904cb6b9d8_o,size,380x238,q,71,h,3a1d0b.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9294908,miasto-chce-likwidowac-i-przenosic-kolejne-szkoly,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/60/32/569a59345f042_o,size,380x238,q,71,h,4b83fc.jpg" class="lazy schowaj">
                         <h3>
-                            Wybierz najpiękniej oświetlone miasto w Polsce i zdecyduj do kogo trafi warta 50 tys. zł pomoc!
+                            Miasto chce likwidować i przenosić kolejne szkoły 
             </h3>
-            <p class="mobile-hidden">Rozpoczynamy finał ogólnopolskiej akcji Świeć się z Energą. Obejrzyj galerię 16 reprezentantów każdego z województw i zagłosuj na najpiękniej oświetlone zimą miasto w Polsce oraz na galerię...</p>
+            <p class="mobile-hidden">Władze Wrocławia chcą zlikwidować Technikum nr 4 przy ulicy Powstańców Śląskich oraz 29. LO im. Miłosza przy Szkockiej, a tzkaże przenieść uczniów z Gimnazjum nr 20 z ul. Fryderyka Pautscha do...</p>
           </a>
         </div>
 
@@ -684,16 +684,16 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
                                   <li>
-                                                            <a href="http://www.strefabiznesu.polskatimes.pl/artykul/prezydent-dla-frankowiczow-zamiast-przewalutowania-restrukturyzacja-kredytow-po-tzw-kursie-sprawiedl">Prezydent dla frankowiczów. Zamiast przewalutowania,...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9300120,rusza-program-rozkrecania-polskich-innowacji-trwaja-prace-nad-nowelizacja-ustawy,id,t.html">Rusza program rozkręcania polskich innowacji. Trwają...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9294034,molestowanie-seksualne-w-radomiu-ofiara-byla-czternastolatka,id,t.html">Molestowanie seksualne w Radomiu? Ofiarą była...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9299934,prezydent-andrzej-duda-spotka-sie-w-brukseli-z-szefem-rady-europejskiej-donaldem-tuskiem,id,t.html">Prezydent Andrzej Duda spotka się w Brukseli z szefem...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9293944,petro-poroszenko-naszym-celem-na-ten-rok-jest-odzyskanie-krymu-i-kontrola-nad-donbasem-video,id,t.html">Petro Poroszenko: Naszym celem na ten rok jest odzyskanie...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9298647,to-dolnoslaski-amber-gold,id,t.html">To dolnośląski Amber Gold</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9293908,sejm-przyjal-ustawe-o-policji-zdjecia-video,id,t.html">Sejm przyjął ustawę o policji [ZDJĘCIA] [VIDEO]</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9299858,afganistan-zamach-na-dom-polityka-zginelo-kilkanascie-osob-obaidullah-shinwari-nie-ucierpial,id,t.html">Afganistan: Zamach na dom polityka. Zginęło kilkanaście...</a>
                   </li>
                               </ul>
             </div>
@@ -701,12 +701,12 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Najczęściej komentowane:</h2>
               <ul class="komentowane">
                                   <li>
-                                        <a href="/artykul/9285875,posel-nowoczesnej-tez-nie-skonczyl-studiow-a-przed-wyborami-mowili-inaczej,id,t.html">Poseł Nowoczesnej też nie skończył studiów</a>
-                    <span class="ilosc">204</span>
+                                        <a href="/artykul/9289380,mpk-we-wroclawiu-za-darmo-dla-wszystkich-kierowcow,id,t.html">MPK we Wrocławiu za darmo dla każdego? Jest...</a>
+                    <span class="ilosc">210</span>
                   </li>
                                   <li>
-                                        <a href="/artykul/9284607,hitlerowskie-niemcy-jak-unia-europejska-taka-gazetka-zawisla-w-szkole-przyszlego-kuratora,id,t.html">Antyislamska gazetka w szkole przyszłego kuratora</a>
-                    <span class="ilosc">203</span>
+                                        <a href="/artykul/9294608,posel-pieta-o-slazakach-korfanty-kazalby-do-was-strzelac,id,t.html">Poseł Pięta o Ślązakach: Korfanty kazałby do...</a>
+                    <span class="ilosc">160</span>
                   </li>
                                   <li>
                       <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
@@ -714,7 +714,7 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
 
 
                     <a href="/artykul/9291878,prokurator-anna-jedynak-zamordowana-byla-dumna-z-syna-zginela-z-jego-reki,id,t.html">Prokurator Jedynak była dumna z syna. Zginęła z...</a>
-                    <span class="ilosc">3</span>
+                    <span class="ilosc">7</span>
                   </li>
                               </ul>
             </div>
@@ -750,23 +750,23 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
        
             
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9285487,mec-jacek-kondracki-zyjemy-w-kraju-w-ktorym-nikt-nikogo-nie-szanuje,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/f5/28/56990015521b3_o,size,380x238,crop,0.0000x0.0581x0.9881x0.3344,q,71,h,4a09b7.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9293736,wojewoda-ewa-leniart-zmienily-sie-czasy-a-urzad-sie-nie-zmienil-i-to-trzeba-zmienic,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/16/40/5698d110dbbdf_o,size,380x238,q,71,h,07f89e.jpg" class="lazy schowaj">
                         <h3>
-                            Mec. Jacek Kondracki: Żyjemy w kraju, w którym nikt nikogo nie szanuje
+                            Zmieniły się czasy, ale nie urząd. I to trzeba zmienić
             </h3>
-            <p class="mobile-hidden">O Trybunale Konstytucyjnym, kondycji polskiego wymiaru sprawiedliwości i o tym, czy minister sprawiedliwości powinien być jednocześnie prokuratorem generalnym – mówi mec. Jacek Kondracki w rozmowie...</p>
+            <p class="mobile-hidden">Gabinet wojewody podkarpackiego objęła przede wszystkim z misją wsparcia dla rodzin. Okazało się, że pilniejsze są problemy bezpieczeństwa i granic. Na decyzje kadrowe też przyjdzie czas....</p>
           </a>
         </div>
 
       
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9292997,krasnodebski-panstwo-i-media-ukrywaly-prawde-o-wydarzeniach-w-kolonii-niemcy-sa-sfrustrowani,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/4b/16/5698a9a3c6616_o,size,380x238,crop,0.0030x0.0473x0.9860x0.4107,q,71,h,25f8d5.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9297470,eugeniusz-smolar-w-polsce-latwo-wywolac-wrogie-nastroje-wobec-niemiec,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/15/74/569a6483c71e1_o,size,380x238,q,71,h,29d33b.jpg" class="lazy schowaj">
                         <h3>
-                            Krasnodębski: Państwo i media ukrywały prawdę o wydarzeniach w Kolonii. Niemcy są sfrustrowani
+                            Eugeniusz Smolar: W Polsce łatwo wywołać wrogie nastroje wobec Niemiec
             </h3>
-            <p class="mobile-hidden">- Niemcy są osamotnione w swojej polityce dotyczącej migrantów. To budzi u nich frustrację - mówi prof. Zdzisław Krasnodębski, polityk, w rozmowie z Agatonem Kozińskim.</p>
+            <p class="mobile-hidden">- Polska przestaje być stabilna i przewidywalna. To martwi Niemców  - mówi Eugeniusz Smolar w rozmowie z Cezarym Jaszczykiem.</p>
           </a>
         </div>
 
@@ -775,16 +775,16 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9292943,sakiewicz-moze-to-przypadek-ale-jak-doszlo-do-zmian-w-telewizji-wszystko-sie-uspokoilo,id,t.html">Sakiewicz: Może to przypadek, ale jak doszło do zmian w...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9294852,tadeusz-drozda-polska-dzis-kabaretem-stoi-wywiad,id,t.html">Tadeusz Drozda: "Polska dziś kabaretem stoi" [WYWIAD] </a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9293440,prof-paczkowski-nie-sadze-by-debata-o-bolku-mogla-cos-nowego-wniesc,id,t.html">Prof. Paczkowski: Nie sądzę, by debata o "Bolku" mogła...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9285235,cimoszewicz-zle-sie-stalo-ze-mamy-w-polsce-taka-wladze-jaka-mamy,id,t.html">Cimoszewicz: Źle się stało, że mamy w Polsce taką władzę,...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9293326,lech-walesa-o-publicznej-debacie-ws-bolka-na-debacie-bede-ja-przeciw-wszystkim-rozmowa,id,t.html">Lech Wałęsa: Na debacie będę ja. Przeciw wszystkim</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9285487,mec-jacek-kondracki-zyjemy-w-kraju-w-ktorym-nikt-nikogo-nie-szanuje,id,t.html">Mec. Jacek Kondracki: Żyjemy w kraju, w którym nikt...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9288549,mezydlo-zamach-na-media-publiczne-to-demonstracja-na-szczescie-mamy-tez-media-prywatne,id,t.html">Mężydło: Zamach na media publiczne to demonstracja. Na...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9292997,krasnodebski-panstwo-i-media-ukrywaly-prawde-o-wydarzeniach-w-kolonii-niemcy-sa-sfrustrowani,id,t.html">Krasnodębski: Państwo i media ukrywały prawdę o...</a>
                   </li>
                               </ul>
             </div>
@@ -792,8 +792,8 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Najczęściej komentowane:</h2>
               <ul class="komentowane">
                                   <li>
-                                        <a href="/artykul/9285235,cimoszewicz-z-oburzeniem-i-zalem-patrze-jak-pis-niszczy-dorobek-ostatnich-dziesiecioleci,id,t.html">Cimoszewicz: Z oburzeniem i żalem patrzę, jak...</a>
-                    <span class="ilosc">24</span>
+                                        <a href="/artykul/9292943,sakiewicz-moze-to-przypadek-ale-jak-doszlo-do-zmian-w-telewizji-wszystko-sie-uspokoilo,id,t.html">Sakiewicz: Może to przypadek, ale jak doszło do...</a>
+                    <span class="ilosc">26</span>
                   </li>
                                   <li>
                                         <a href="/artykul/9288549,mezydlo-zamach-na-media-publiczne-to-demonstracja-na-szczescie-mamy-tez-media-prywatne,id,t.html">Mężydło: Zamach na media publiczne to...</a>
@@ -851,23 +851,23 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
        
             
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9294630,mistrzostwa-swiata-w-lotach-dobry-start-kubackiego-dominacja-prevca-przerwana,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/bf/02/5699031f4eb1f_o,size,380x238,q,71,h,a2dbcc.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9300060,wyboista-droga-agnieszki-radwanskiej-do-wielkiego-szlema-rusza-australian-open-video,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/61/c0/569bd4f49b381_o,size,380x238,q,71,h,48b0cf.jpg" class="lazy schowaj">
                         <h3>
-                            Mistrzostwa świata w lotach. Dobry start Kubackiego, dominacja Prevca przerwana
+                            Wyboista droga Agnieszki Radwańskiej do Wielkiego Szlema. Rusza Australian Open [VIDEO]
             </h3>
-            <p class="mobile-hidden">Po dwóch piątkowych seriach mistrzostw świata w lotach, które odbywają się w Bad Mitterndorf, prowadzi Kenneth Gangnes. Norweg oddał skoki na odległość 236 i 216 m, dzięki czemu wyprzedza Słoweńca...</p>
+            <p class="mobile-hidden">Jesienią w Singapurze Agnieszka Radwańska dała sygnał, że jest gotowa na zwycięstwo w turnieju Wielkiego Szlema. W Melbourne czeka ją jednak trudne zadanie.</p>
           </a>
         </div>
 
       
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9294386,euro-2016-w-pilce-recznej-fakty-turnieju,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ce/f3/5698f3a49a3f8_o,size,380x238,q,71,h,099be9.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9299646,skoki-narciarskie-piate-miejsce-polakow-w-ms-w-lotach-zwyciezyli-norwegowie-video,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a4/cf/569bb4da7d219_o,size,380x238,q,71,h,750849.jpg" class="lazy schowaj">
                         <h3>
-                            Euro 2016 w piłce ręcznej. Fakty turnieju
+                            Skoki narciarskie: Piąte miejsce Polaków w MŚ w lotach. Zwyciężyli Norwegowie [VIDEO]
             </h3>
-            <p class="mobile-hidden">W dniach 15-31 stycznia 2016 odbędą się Mistrzostwa Europy w piłce ręcznej mężczyzn. Przedstawiamy najważniejsze fakty turnieju.</p>
+            <p class="mobile-hidden">W mistrzostwach świata w lotach polscy skoczkowie narciarscy zajęli piąte miejsce. Najlepiej skakał Kamil Stoch. Złote medale zdobyła reprezentacja Norwegii.</p>
           </a>
         </div>
 
@@ -876,16 +876,16 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9294276,euro-2016-w-pilce-recznej-terminarz-spotkan,id,t.html">Euro 2016 w piłce ręcznej. Terminarz spotkań</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9300430,polska-macedonia-kto-wygral-zobacz-wynik-meczu-relacja-zdjecia,id,t.html">Horror w końcówce, Polacy ponownie wygrali! [ZOBACZ ZDJĘCIA]</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9294148,czerczesow-daje-wycisk-legia-dalej-szuka-wzmocnien-video,id,t.html">Czerczesow daje wycisk, Legia dalej szuka wzmocnień [VIDEO]</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9298983,biathlon-osme-miejsce-polek-w-ruhpolding,id,t.html">Biathlon: Ósme miejsce Polek w Ruhpolding</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9290730,czy-rajd-dakar-mozna-tak-naprawde-pokochac-korespondecja-z-dakaru,id,t.html">Czy Rajd Dakar można tak naprawdę pokochać? Korespondecja...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9298735,marcin-gortat-wrocil-do-gry-po-kontuzji-ale-washington-wizards-i-tak-przegrali-z-boston-celtics,id,t.html">Marcin Gortat wrócił do gry po kontuzji, ale Washington...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9292129,euro-2016-zaczynamy-stawka-sa-medale-i-awans-do-rio-wideo,id,t.html">Euro 2016. Zaczynamy! Stawką są medale i awans do Rio...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9285231,szpilka-wilder-kto-wygral-szpilka-znokautowany-wyniki-walki-zdjecia,id,t.html">Szpilka znokautowany! Polak trafił do szpitala [ZDJĘCIA]</a>
                   </li>
                               </ul>
             </div>
@@ -893,12 +893,12 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Najczęściej komentowane:</h2>
               <ul class="komentowane">
                                   <li>
-                                        <a href="/artykul/9278443,hamalainen-kua-stara-kibice-lecha-wywiesili-transparent-na-boisku-treningowym-zdjecia,id,t.html">"Hamalainen ku..a stara". Kibice Lecha...</a>
-                    <span class="ilosc">37</span>
+                                        <a href="/artykul/9295424,lech-poznan-marcin-kaminski-w-nec-nijmegen-gergo-lovrencsics-w-chievo-werona,id,t.html">Kamiński i Lovrencsics odejdą z Lecha Poznań?</a>
+                    <span class="ilosc">8</span>
                   </li>
                                   <li>
-                                        <a href="/artykul/9278451,flavio-przesuniety-do-rezerw-a-przymierzany-do-slaska-obronca-wyladowal-w-jagielloni,id,t.html">Flavio przesunięty do rezerw, a przymierzany do...</a>
-                    <span class="ilosc">22</span>
+                                        <a href="/artykul/9289600,patryk-malecki-pilkarzem-wisly-krakow,id,t.html">Patryk Małecki piłkarzem Wisły Kraków</a>
+                    <span class="ilosc">7</span>
                   </li>
                               </ul>
             </div>
@@ -943,23 +943,23 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
        
             
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.motofakty.pl/artykul/uruchamianie-samochodu-na-mrozie-nie-tylko-odpalanie-na-kable-1.html?1-_ustawienie_samochodow&amp;amp;amp;zdjecie=1#galeria">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/93/f6/5698d70dba5bb_o,size,380x238,q,71,h,1c53ed.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9299241,stowarzyszenie-lexmid-zaskarza-decyzje-dot-kursow-polskiegobusa-do-warszawy,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/fe/70/569b94470a251_o,size,380x238,q,71,h,365af4.jpg" class="lazy schowaj">
                         <h3>
-                            Uruchamianie auta na mrozie. Poradnik 
+                            Decyzja marszałka ws. PolskiegoBusa zaskarżona
             </h3>
-            <p class="mobile-hidden">Niskie temperatury potrafią unieruchomić nawet sprawny samochód. Najczęściej przyczyną kłopotów z zapłonem jest słaby akumulator. Ale bywają też inne przyczyny. Jak sobie poradzić w takich momentach?</p>
+            <p class="mobile-hidden">Jedno ze stowarzyszeń zaskarżyło decyzję marszałka województwa dotyczącą częstszych kursów do stolicy PolskiBus.com.</p>
           </a>
         </div>
 
       
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.motofakty.pl/artykul/euro-ncap-najbezpieczniejsze-auta-2015-roku.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/4f/15/5698bab271bc4_o,size,380x238,q,71,h,986609.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9295344,agencja-ratingowa-sp-obnizyla-ranking-polski-do-poziomu-b-zloty-mocno-slabnie,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/9d/01/56992b3e0d143_o,size,380x238,q,71,h,325d33.jpg" class="lazy schowaj">
                         <h3>
-                            Najbezpieczniejsze auta 2015 roku 
+                            Agencja ratingowa S&P obniżyła ranking Polski do poziomu B. Złoty mocno słabnie
             </h3>
-            <p class="mobile-hidden">Organizacja Euro NCAP podsumowała 2015 rok. Które auta okazały się najbezpieczniejsze w swoich klasach w minionym roku?</p>
+            <p class="mobile-hidden">Agencja ratingowa S&P obniżyła ocenę wiarygodności dla Polski. Ocena z poziomu A- spadła do BBB+. Jest to równoznaczne z dalszą negatywną prognozą. Złoty gwałtownie się osłabił po tej decyzji....</p>
           </a>
         </div>
 
@@ -968,16 +968,16 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
                                   <li>
+                                                            <a href="http://www.motofakty.pl/artykul/uruchamianie-samochodu-na-mrozie-nie-tylko-odpalanie-na-kable-1.html?1-_ustawienie_samochodow&amp;amp;amp;zdjecie=1#galeria">Uruchamianie auta na mrozie. Poradnik </a>
+                  </li>
+                                  <li>
+                                                            <a href="http://www.motofakty.pl/artykul/euro-ncap-najbezpieczniejsze-auta-2015-roku.html">Najbezpieczniejsze auta 2015 roku </a>
+                  </li>
+                                  <li>
                                                             <a href="http://www.strefabiznesu.polskatimes.pl/artykul/uokik-t-mobile-bezpodstawnie-zmienial-wysokosc-abonamentu">UOKiK: T- Mobile bezpodstawnie zmieniał wysokość abonamentu</a>
                   </li>
                                   <li>
                                                             <a href="http://www.polskatimes.pl/artykul/9284881,oszust-dzwoni-z-sierra-leone-a-rozmowa-kosztuje-nas-majatek,id,t.html">Oszust dzwoni z Sierra Leone, a rozmowa kosztuje nas majątek</a>
-                  </li>
-                                  <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9285055,sluzby-mundurowe-otrzymaja-podwyzki-a-licza-na-jeszcze-wiecej,id,t.html">Mundurowi chcą większych podwyżek </a>
-                  </li>
-                                  <li>
-                                                            <a href="http://www.motofakty.pl/artykul/szukamy-drogowych-nonsensow-w-polsce-dolacz-do-akcji.html">Szukamy drogowych nonsensów w Polsce. Dołącz do akcji!</a>
                   </li>
                               </ul>
             </div>
@@ -985,12 +985,12 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Najczęściej komentowane:</h2>
               <ul class="komentowane">
                                   <li>
-                                        <a href="/artykul/9287533,grzegorz-muszynski-jest-juz-w-pkp-zajmie-sie-inwestycjami,id,t.html">Grzegorz Muszyński jest już w PKP. Zajmie się...</a>
-                    <span class="ilosc">63</span>
+                                        <a href="/artykul/9295344,agencja-ratingowa-sp-obnizyla-ranking-polski-do-poziomu-b-zloty-mocno-slabnie,id,t.html">Agencja ratingowa S&P obniżyła ranking Polski...</a>
+                    <span class="ilosc">52</span>
                   </li>
                                   <li>
-                                        <a href="/artykul/9284881,oszust-dzwoni-z-sierra-leone-a-rozmowa-kosztuje-nas-majatek,id,t.html">Oszust dzwoni z Sierra Leone, a rozmowa...</a>
-                    <span class="ilosc">19</span>
+                                        <a href="/artykul/9299241,stowarzyszenie-lexmid-zaskarza-decyzje-dot-kursow-polskiegobusa-do-warszawy,id,t.html">Decyzja marszałka ws. PolskiegoBusa zaskarżona</a>
+                    <span class="ilosc">50</span>
                   </li>
                               </ul>
             </div>
@@ -1059,7 +1059,7 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
         </div>
 
                     <div class="kolInne four mobile-four columns">
-                      <div class="mobile-two twelve columns">
+                      <div class="mobile-four twelve columns">
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
                                   <li>
@@ -1076,16 +1076,7 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
                   </li>
                               </ul>
             </div>
-                                <div class="mobile-two twelve columns">
-              <h2>Najczęściej komentowane:</h2>
-              <ul class="komentowane">
-                                  <li>
-                                        <a href="/artykul/9278065,apteka-to-nie-sklep-z-lekami-rozmowa,id,t.html">Apteka to nie sklep z lekami</a>
-                    <span class="ilosc">2</span>
-                  </li>
-                              </ul>
-            </div>
-                  </div>
+                            </div>
           </div>
   </li>
   <li>
@@ -1114,23 +1105,23 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
        
             
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9293119,samuel-l-jackson-malo-brakowalo-i-nie-zagralbym-w-nienawistnej-osemce-wywiad,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/15/2f/5698af92d4761_o,size,380x238,crop,0.0020x0.0000x0.9907x0.9310,q,71,h,ae0c2d.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9298961,wielka-draka-w-pasmanterii-recenzja-filmu-nienawistna-osemka,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/60/af/569b702ebe6c2_o,size,380x238,q,71,h,067b5b.jpg" class="lazy schowaj">
                         <h3>
-                            Samuel L. Jackson: Mało brakowało i nie zagrałbym w "Nienawistnej Ósemce" [WYWIAD]
+                            Wielka draka w pasmanterii. Recenzja filmu Nienawistna ósemka
             </h3>
-            <p class="mobile-hidden">[NIENAWISTNA ÓSEMKA][HATEFUL EIGHT] Aktor Samuel L. Jackson jest prawdziwą żyłą złota dla wytwórni filmowych. Muzą Quentina Tarantino. A ponadto - gwiazdorem, który ma coś do powiedzenia. Pomimo to...</p>
+            <p class="mobile-hidden">W swoim ósmym filmie Quentin Tarantino mierzy się po raz drugi ze swoim ukochanym gatunkiem, czyli westernem. Jednak tym razem zamiast epopei na Dzikim Zachodzie w stylu „Django”, otrzymujemy...</p>
           </a>
         </div>
 
       
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9290418,oscary-2016-zjawa-z-leonardo-dicaprio-z-12-nominacjami-video,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/8a/5e/5697b1af286a3_o,size,380x238,q,71,h,e55200.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9299930,okazalo-sie-ze-jest-dla-mnie-miejsce-wiec-jestem-szczesliwa-rozmowa-z-monika-kuszynska,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/88/1b/569bcbcb93d9c_o,size,380x238,q,71,h,f55e7b.jpg" class="lazy schowaj">
                         <h3>
-                            Oscary 2016. „Zjawa" z Leonardo DiCaprio z 12 nominacjami [VIDEO]
+                            Okazało się, że jest dla mnie miejsce, więc jestem szczęśliwa - rozmowa z Moniką Kuszyńską
             </h3>
-            <p class="mobile-hidden">Amerykańska Akademia Filmowa ogłosiła w czwartek o 14:30 czasu polskiego nominacje do tegorocznej edycji Oscarów. O najważniejszą statuetkę w świecie filmu powalczy m.in. Leonardo DiCaprio i Kate...</p>
+            <p class="mobile-hidden">z Moniką Kuszyńską, piosenkarką, byłą  wokalistką  Varius Manx, autorką książki  „Drugie życie” rozmawiamy o powrocie do normalnego funkjonowania po wypadku.</p>
           </a>
         </div>
 
@@ -1139,16 +1130,16 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9290162,nie-zyje-alan-rickman-aktor-zmarl-w-wieku-69-lat-video,id,t.html">Nie żyje Alan Rickman. Aktor zmarł w wieku 69 lat [VIDEO]</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9298945,alan-rickman-charyzmatyczny-aktor-przegral-walke-z-rakiem,id,t.html">Alan Rickman - charyzmatyczny aktor przegrał walkę z rakiem</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9287835,literacki-paszport-dla-lukasza-orbitowskiego,id,t.html">Literacki Paszport dla Łukasza Orbitowskiego</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9297154,david-bowie-potrafil-sprzedac-swiat,id,t.html">David Bowie potrafił sprzedać świat</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9283313,potrzebujemy-sienkiewicza-by-rewidowac-polska-historie,id,t.html">Potrzebujemy Sienkiewicza, by rewidować polską historię</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9293119,samuel-l-jackson-malo-brakowalo-i-nie-zagralbym-w-nienawistnej-osemce-wywiad,id,t.html">Samuel L. Jackson: Mało brakowało i nie zagrałbym w...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9285743,zlote-maliny-2016-ogloszono-nominacje-do-antynagrody-filmowej-video,id,t.html">Złote Maliny 2016. Ogłoszono nominację do antynagrody...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9290418,oscary-2016-zjawa-z-leonardo-dicaprio-z-12-nominacjami-video,id,t.html">Oscary 2016. „Zjawa" z Leonardo DiCaprio z 12 nominacjami...</a>
                   </li>
                               </ul>
             </div>
@@ -1156,12 +1147,12 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <h2>Najczęściej komentowane:</h2>
               <ul class="komentowane">
                                   <li>
-                                        <a href="/artykul/9283313,potrzebujemy-sienkiewicza-by-rewidowac-polska-historie,id,t.html">Potrzebujemy Sienkiewicza, by rewidować polską...</a>
+                                        <a href="/artykul/9290162,nie-zyje-alan-rickman-aktor-zmarl-w-wieku-69-lat-video,id,t.html">Nie żyje Alan Rickman. Aktor zmarł w wieku 69...</a>
                     <span class="ilosc">2</span>
                   </li>
                                   <li>
-                                        <a href="/artykul/9290162,nie-zyje-alan-rickman-aktor-zmarl-w-wieku-69-lat-video,id,t.html">Nie żyje Alan Rickman. Aktor zmarł w wieku 69...</a>
-                    <span class="ilosc">2</span>
+                                        <a href="/artykul/9298961,wielka-draka-w-pasmanterii-recenzja-filmu-nienawistna-osemka,id,t.html">Wielka draka w pasmanterii. Recenzja filmu...</a>
+                    <span class="ilosc">1</span>
                   </li>
                               </ul>
             </div>
@@ -1175,23 +1166,27 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
        
             
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9291616,krakow-ipn-bedzie-szukal-skrzyni-z-rzeczami-ofiar-zbrodni-katynskiej,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/30/bd/569893a8b5d3e_o,size,380x238,q,71,h,f1b41f.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9300000,zabic-czlowieka-to-nie-jest-hopsiup-historia-lucjana-sepa-wisniewskiego-likwidatora-z-ak,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a0/7f/569bcf43be4af_o,size,380x238,crop,0.0017x0.0688x0.9867x0.3869,q,71,h,21c2d5.jpg" class="lazy schowaj">
                         <h3>
-                            Katyńska tajemnica w Krakowie. Będą szukać skrzyni
+                            Zabić człowieka, to nie jest hop-siup! Historia Lucjana „Sępa” Wiśniewskiego, likwidatora z AK
             </h3>
-            <p class="mobile-hidden">Na terenie Starego Miasta w Krakowie ma się znajdować skrzynia z osobistymi rzeczami Polaków  zamordowanych w Katyniu - tak wynika z nagranej relacji nieżyjącego już Jana Sentka, profesora Akademii...</p>
+            <p class="mobile-hidden">Lucjan „Sęp” Wiśniewski - jeden z ostatnich żyjących likwidatorów z Armii Krajowej. Brał udział w ponad 60 egzekucjach zdrajców i konfidentów. Pierwszej dokonał, gdy miał zaledwie 17 lat. To o nim...</p>
           </a>
         </div>
 
       
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9285035,tu-gdzie-palac-branickich-2-tysiace-lat-temu-mieszkali-ludzie-zdjecia,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/af/03/5696369e8197a_o,size,380x238,q,71,h,e0d67a.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9299672,pomorskie-wykopaliska-napiersnik-i-grob-krowy,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/c5/fe/569bb74ac7582_o,size,380x238,q,71,h,062ac4.jpg" class="lazy schowaj">
                         <h3>
-                            Pałac Branickich to kolebka miasta (zdjęcia)
+                <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
+
+
+
+              Pomorskie wykopaliska. Napierśnik i grób krowy 
             </h3>
-            <p class="mobile-hidden">Archeolodzy szukali fontann z XVIII wieku, a natrafili na ślady osady pradziejowej. To kolebka miasta - mówią nam historycy. I tu hetman Branicki wybudował swoją rezydencję - Pałac Branickich. </p>
+            <p class="mobile-hidden">O zwyczajach i życiu codziennym ludu kultury pomorskiej wciąż wiemy niewiele. Archeolodzy próbują kompletować wiedzę z nielicznych „puzzli”, którymi są przypadkowe najczęściej odkrycia.</p>
           </a>
         </div>
 
@@ -1199,6 +1194,12 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
                       <div class="mobile-two twelve columns">
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
+                                  <li>
+                                                            <a href="http://www.polskatimes.pl/artykul/9291616,krakow-ipn-bedzie-szukal-skrzyni-z-rzeczami-ofiar-zbrodni-katynskiej,id,t.html">Katyńska tajemnica w Krakowie. Będą szukać skrzyni</a>
+                  </li>
+                                  <li>
+                                                            <a href="http://www.polskatimes.pl/artykul/9285035,tu-gdzie-palac-branickich-2-tysiace-lat-temu-mieszkali-ludzie-zdjecia,id,t.html">Pałac Branickich to kolebka miasta (zdjęcia)</a>
+                  </li>
                                   <li>
                                                             <a href="http://www.polskatimes.pl/artykul/9283457,instytut-pamieci-narodowej-moze-byc-jeszcze-wiekszy,id,t.html">Instytut Pamięci Narodowej może być jeszcze większy</a>
                   </li>
@@ -1209,28 +1210,14 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
 
                                         <a href="http://www.polskatimes.pl/artykul/9278989,sanacja-zamyka-opozycje,id,t.html">Sanacja zamyka opozycję</a>
                   </li>
-                                  <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9277062,mykola-czebotariw-i-tajemnica-pogranicza-polskoukrainskiego-nasza-historia,id,t.html">Mykoła Czebotariw i tajemnica pogranicza...</a>
-                  </li>
-                                  <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9275556,albo-jest-sie-chrzescijaninem-albo-niemcem-jednym-i-drugim-sie-nie-da,id,t.html">„Albo jest się chrześcijaninem, albo Niemcem. Jednym i...</a>
-                  </li>
                               </ul>
             </div>
                                 <div class="mobile-two twelve columns">
               <h2>Najczęściej komentowane:</h2>
               <ul class="komentowane">
                                   <li>
-                                        <a href="/artykul/9283457,instytut-pamieci-narodowej-moze-byc-jeszcze-wiekszy,id,t.html">Instytut Pamięci Narodowej może być jeszcze...</a>
-                    <span class="ilosc">5</span>
-                  </li>
-                                  <li>
-                      <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
-
-
-
-                    <a href="/artykul/9278989,sanacja-zamyka-opozycje,id,t.html">Sanacja zamyka opozycję</a>
-                    <span class="ilosc">3</span>
+                                        <a href="/artykul/9291616,krakow-ipn-bedzie-szukal-skrzyni-z-rzeczami-ofiar-zbrodni-katynskiej,id,t.html">Katyńska tajemnica w Krakowie. Będą szukać skrzyni</a>
+                    <span class="ilosc">6</span>
                   </li>
                               </ul>
             </div>
@@ -1287,11 +1274,7 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
               <ul class="komentowane">
                                   <li>
                                         <a href="/artykul/9287725,minister-filozof-wreszcie-dostrzegl-humanistyke,id,t.html">Minister filozof wreszcie dostrzegł humanistykę</a>
-                    <span class="ilosc">4</span>
-                  </li>
-                                  <li>
-                                        <a href="/artykul/9278231,co-dalej-z-gimnazjami-likwidacja-poczeka,id,t.html">Co dalej z gimnazjami - likwidacja poczeka?</a>
-                    <span class="ilosc">2</span>
+                    <span class="ilosc">5</span>
                   </li>
                               </ul>
             </div>
@@ -1321,45 +1304,58 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
        
             
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9293119,samuel-l-jackson-malo-brakowalo-i-nie-zagralbym-w-nienawistnej-osemce-wywiad,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/15/2f/5698af92d4761_o,size,380x238,crop,0.0020x0.0000x0.9907x0.9310,q,71,h,ae0c2d.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9299648,chasydzi-w-lelowie-w-202-rocznice-smierci-cadyka-bidermana-zdjecia-jpt,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/ea/04/569bb6afe2002_o,size,380x238,q,71,h,5ac2f1.jpg" class="lazy schowaj">
                         <h3>
-                            Samuel L. Jackson: Mało brakowało i nie zagrałbym w "Nienawistnej Ósemce" [WYWIAD]
+                            Chasydzi w Lelowie w 202. rocznicę śmierci cadyka Bidermana [ZDJĘCIA JPT]
             </h3>
-            <p class="mobile-hidden">[NIENAWISTNA ÓSEMKA][HATEFUL EIGHT] Aktor Samuel L. Jackson jest prawdziwą żyłą złota dla wytwórni filmowych. Muzą Quentina Tarantino. A ponadto - gwiazdorem, który ma coś do powiedzenia. Pomimo to...</p>
+            <p class="mobile-hidden">Grupa fotograficzna JPT w składzie Grzesiek Maciąg, Michał Bacior, Damian Straszak, utrwaliła tegoroczną wizytę chasydów w Lelowie, na grobie cadyka Bidermana.</p>
           </a>
         </div>
 
       
         <div class="wybranyArt three mobile-two columns">
-          <a href="http://www.polskatimes.pl/artykul/9293940,czy-wierzysz-w-stereotypy-nowy-spot-promujacy-polske-video,id,t.html">
-                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/a8/76/5698dc9b9f886_o,size,380x238,q,71,h,e985b1.jpg" class="lazy schowaj">
+          <a href="http://www.polskatimes.pl/artykul/9299444,you-can-dance-gdanszczanin-maciej-gleba-florek-jurorem,id,t.html">
+                          <img alt="" src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-pt.ppstatic.pl/kadry/k/r/1/43/33/569ba5d524b5c_o,size,380x238,q,71,h,52c37f.jpg" class="lazy schowaj">
                         <h3>
-                            „Czy wierzysz w stereotypy?”. Nowy spot promujący Polskę [VIDEO]
+                            Gdańszczanin Maciej Florek jurorem
             </h3>
-            <p class="mobile-hidden">Stereotypy, także narodowe są narzędziem powszechnie stosowanym w reklamie. Autor filmu „Czy wierzysz w stereotypy?” postanowił je wykorzystać do promocji naszego kraju. Efekt jest niesamowity....</p>
+            <p class="mobile-hidden">Udział w programie „Gleba” wspomina jako najcięższą, ale też najfajniejszą przygodę w swoim życiu. Uczestnicy, których teraz ocenia, śnią mu się po nocach. Po 7 latach wraca do „You Can Dance”. </p>
           </a>
         </div>
 
                     <div class="kolInne four mobile-four columns">
-                      <div class="mobile-four twelve columns">
+                      <div class="mobile-two twelve columns">
               <h2>Zobacz także:</h2>
               <ul class="zobaczTakze">
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9285435,meble-z-gdanska-zagraja-w-gwiezdnych-wojnach,id,t.html">Meble z Gdańska zagrają w "Gwiezdnych Wojnach"? </a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9299448,nowy-zwiastun-the-division-przywraca-nadzieje-na-swietna-gre-wideo,id,t.html">Nowy zwiastun The Division przywraca nadzieję na świetną...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9284911,koszulkowocom-polityczne-koszulki-to-politycy-napedzaja-firme-cytatami,id,t.html">Ich polityczne koszulki robią furorę</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9299199,mistrzostwa-polski-w-quidditchu-sport-z-harryego-pottera-w-rzeczywistosci,id,t.html">Mistrzostwa Polski w Quidditchu: Sport z "Harry'ego...</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9273233,studniowka-lo-nr-11-tak-bawili-sie-maturzysci-z-liceum-ogolnoksztalcacego-nr-11-zdjecia,id,t.html">Studniówka LO nr 11 (ZDJĘCIA)</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9277088,dzien-babci-2016-piekne-rymowane-i-powazne-zyczenia-na-dzien-babci-wierszyki-zyczenia-sms,id,t.html">Życzenia na Dzień Babci. Wybierz i wyślij!</a>
                   </li>
                                   <li>
-                                                            <a href="http://www.polskatimes.pl/artykul/9283541,najpopularniejsze-imiona-dla-dzieci-w-2015-roku-zobacz-jakie,id,t.html">Najpopularniejsze imiona dla dzieci w 2015 roku - zobacz...</a>
+                                                            <a href="http://www.polskatimes.pl/artykul/9298961,wielka-draka-w-pasmanterii-recenzja-filmu-nienawistna-osemka,id,t.html">Wielka draka w pasmanterii. Recenzja filmu Nienawistna...</a>
                   </li>
                               </ul>
             </div>
-                            </div>
+                                <div class="mobile-two twelve columns">
+              <h2>Najczęściej komentowane:</h2>
+              <ul class="komentowane">
+                                  <li>
+                                        <a href="/artykul/9299648,chasydzi-w-lelowie-w-202-rocznice-smierci-cadyka-bidermana-zdjecia-jpt,id,t.html">Chasydzi w Lelowie w 202. rocznicę śmierci...</a>
+                    <span class="ilosc">2</span>
+                  </li>
+                                  <li>
+                                        <a href="/artykul/9298961,wielka-draka-w-pasmanterii-recenzja-filmu-nienawistna-osemka,id,t.html">Wielka draka w pasmanterii. Recenzja filmu...</a>
+                    <span class="ilosc">1</span>
+                  </li>
+                              </ul>
+            </div>
+                  </div>
           </div>
   </li>
 
@@ -1400,13 +1396,13 @@ var pianoHostProtocol = (("https:" == document.location.protocol) ? "https://" :
 
     <div class="kolOgl three columns">
       <h2><a href="http://moto.gratka.pl" rel="external" id="h-ogl-moto">Motoryzacja</a></h2>
-      <a href="http://moto.gratka.pl/tresc/toyota-yaris-iii-active-19740793.html" rel="external" id="img-ogl-moto">
+      <a href="http://moto.gratka.pl/tresc/volkswagen-jetta-vi-highline-tsi-dsg-7g-19755151.html" rel="external" id="img-ogl-moto">
         <span class="oglFoto">
-                      <img src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-gm.ppstatic.pl/kadry/auto/-1/5e/4b/144899553571112768_B_M.jpg?1448995565" class="lazy schowaj" alt="">
+                      <img src="http://s-pt.ppstatic.pl/g/lazy_tlo.png" data-original="http://d-gm.ppstatic.pl/kadry/auto/-1/52/e1/144924258849979342_K_M.jpg?1449243200" class="lazy schowaj" alt="">
                   </span>
-        <h3>Toyota Yaris III Active</h3>
-        <h4 class="cena">45000 zł</h4>
-        <p>2013 r. 1230 km 1,3 benzyna</p>
+        <h3>Volkswagen Jetta VI HIGHLINE TSI DSG 7G. 122KM</h3>
+        <h4 class="cena">50500 zł</h4>
+        <p>2012 r. 22000 km 1,4 benzyna</p>
       </a>
 
       <ul class="liniaG" id="li-ogl-moto">
@@ -2074,40 +2070,40 @@ GR('wstawReklame', 'verboomInterText');
       <div id="zakladka-ranking_pierwsza" class="zakladkaRanking schowaj">
         <ul class="godziny">
                       <li data-vr-contentbox="">
-                              <time datetime="2016-01-16T00:00:00+01:00">00:00</time>
+                              <time datetime="2016-01-17T22:44:15+01:00">22:44</time>
                             
-                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9294208,doping-mozna-zaczac-od-kupienia-karnetow-na-mecze-ekantorpl-falubazu-zielona-gora,id,t.html">
-                <span class="zrodlo">Gazeta Lubuska:</span>                 Doping można zacząć od kupienia karnetów na mecze ekantor.pl Falubazu Zielona Góra              </a>
+                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9300857,polska-bialoczerwoni-czyli-strefa-kibica-pelna-kibicow-i-wrazen,id,t.html">
+                <span class="zrodlo">Gazeta Krakowska:</span>                 "Polska, biało-czerwoni!" czyli strefa kibica pełna kibiców i wrażeń              </a>
             </li>
                       <li data-vr-contentbox="">
-                              <time datetime="2016-01-15T16:00:02+01:00">16:00</time>
+                              <time datetime="2016-01-17T22:44:00+01:00">22:44</time>
                             
-                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9294622,dwoch-pijanych-mezczyzn-wlamalo-sie-do-marketu,id,t.html">
-                <span class="zrodlo">Gazeta Współczesna:</span>                 Dwóch pijanych mężczyzn włamało się do marketu              </a>
+                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9300875,euro-2016-polacy-wygrywaja-z-macedonia-2423,id,t.html">
+                <span class="zrodlo">Głos Szczeciński:</span>                 Euro 2016. Polacy wygrywają z Macedonią 24:23              </a>
             </li>
                       <li data-vr-contentbox="">
-                              <time datetime="2016-01-15T16:00:02+01:00">16:00</time>
+                              <time datetime="2016-01-17T22:43:47+01:00">22:43</time>
                             
-                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9294142,klub-explosion-w-radomiu-zaprasza-na-gorace-koncerty-zagraja-az-trzy-zespoly-disco-dance,id,t.html">
-                <span class="zrodlo">Echo Dnia Radomskie:</span>                 Klub Explosion w Radomiu zaprasza na gorące koncerty! Zagrają aż trzy zespoły disco dance              </a>
+                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9300779,radlin-kierowca-opla-astry-zakonczyl-jazde-na-przydomowym-ogrodzeniu,id,t.html">
+                <span class="zrodlo">Dziennik Zachodni:</span>                 Radlin: kierowca opla astry zakończył jazdę na przydomowym ogrodzeniu               </a>
             </li>
                       <li data-vr-contentbox="">
-                              <time datetime="2016-01-15T15:59:50+01:00">15:59</time>
+                              <time datetime="2016-01-17T22:40:02+01:00">22:40</time>
                             
-                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9294738,mistrzostwa-swiata-w-lotach-dobry-start-kubackiego-dominacja-prevca-przerwana,id,t.html">
-                <span class="zrodlo">Dziennik Bałtycki:</span>                 Mistrzostwa świata w lotach. Dobry start Kubackiego, dominacja Prevca przerwana              </a>
+                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9300220,nienawistna-osemka-trzy-godziny-z-westernowym-quentinem-tarantino-recenzja,id,t.html">
+                <span class="zrodlo">Express Ilustrowany:</span>                 Nienawistna ósemka. Trzy godziny z westernowym Quentinem Tarantino [RECENZJA]              </a>
             </li>
                       <li data-vr-contentbox="">
-                              <time datetime="2016-01-15T15:58:00+01:00">15:58</time>
+                              <time datetime="2016-01-17T22:39:00+01:00">22:39</time>
                             
-                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9294698,w-bydgoskiej-spalarni-wykryto-zagrozenie-radioaktywne,id,t.html">
-                <span class="zrodlo">Gazeta Pomorska:</span>                 W bydgoskiej spalarni wykryto zagrożenie radioaktywne              </a>
+                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9300867,rosa-w-swietnym-stylu-pokonala-anwil-wloclawek,id,t.html">
+                <span class="zrodlo">Echo Dnia Radomskie:</span>                 Rosa w świetnym stylu pokonała Anwil Włocławek              </a>
             </li>
                       <li data-vr-contentbox="">
-                              <time datetime="2016-01-15T15:57:05+01:00">15:57</time>
+                              <time datetime="2016-01-17T22:36:09+01:00">22:36</time>
                             
-                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9294726,arcybiskup-bialostocki-i-gdanski-jakub-komentuje-wywiad-zamieszczony-w-magazynie-kuriera-porannego,id,t.html">
-                <span class="zrodlo">Kurier Poranny:</span>                 Arcybiskup Białostocki i Gdański Jakub komentuje wywiad zamieszczony w Magazynie Kuriera Porannego              </a>
+                                          <a class="artykul-link-zakladka-aktualnosci" href="http://www.polskatimes.pl/artykul/9294288,mswia-nagrodzilo-mundurowych-z-podkarpacia,id,t.html">
+                <span class="zrodlo">Nowiny:</span>                 MSWiA nagrodziło mundurowych z Podkarpacia              </a>
             </li>
                   </ul>
                 <p class="raquo wiecej"><a href="http://www.polskatimes.pl/aktualnosci/">zobacz więcej</a></p>
@@ -2120,40 +2116,40 @@ GR('wstawReklame', 'verboomInterText');
       <div id="zakladka-ranking_druga" class="zakladkaRanking">
         <ul class="godziny">
                                     <li data-vr-contentbox="">
-                <time datetime="2016-01-15T15:34:19+01:00">15:34</time>
+                <time datetime="2016-01-17T21:29:00+01:00">21:29</time>
                 
-                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9294630,mistrzostwa-swiata-w-lotach-dobry-start-kubackiego-dominacja-prevca-przerwana,id,t.html">
-                                    Mistrzostwa świata w lotach. Dobry start Kubackiego, dominacja Prevca przerwana                </a>
+                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/zdjecia/9300560,grozny-wypadek-audi-uderzylo-w-drzewo-zdjecia,16727552,id,t,zid.html">
+                                    Groźny wypadek. Audi uderzyło w drzewo [zdjęcia]                 </a>
               </li>
                                                 <li data-vr-contentbox="">
-                <time datetime="2016-01-15T15:05:00+01:00">15:05</time>
+                <time datetime="2016-01-17T21:00:00+01:00">21:00</time>
                 
-                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9294520,w-tvp-trwa-kadrowe-trzesiesie-ziemi,id,t.html">
-                                    W TVP trwa kadrowe trzęsiesie ziemi                </a>
+                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9300430,polska-macedonia-kto-wygral-zobacz-wynik-meczu-relacja-zdjecia,id,t.html">
+                                    Polska - Macedonia KTO WYGRAŁ Zobacz wynik meczu [RELACJA, ZDJĘCIA]                </a>
               </li>
                                                 <li data-vr-contentbox="">
-                <time datetime="2016-01-15T14:38:28+01:00">14:38</time>
+                <time datetime="2016-01-17T20:24:00+01:00">20:24</time>
                 
-                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9294440,akt-oskarzenia-przeciwko-bylemu-wiceszefowi-krajowego-biura-wyborczego,id,t.html">
-                                    Akt oskarżenia przeciwko byłemu wiceszefowi Krajowego Biura Wyborczego                </a>
+                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9300416,pilka-reczna-euro-2016-norwegia-chorwacja-3431-kolejna-niespodzianka-w-spodku,id,t.html">
+                                    Piłka ręczna Euro 2016: Norwegia - Chorwacja 34:31 Kolejna niespodzianka w Spodku                </a>
               </li>
                                                 <li data-vr-contentbox="">
-                <time datetime="2016-01-15T14:37:00+01:00">14:37</time>
+                <time datetime="2016-01-17T20:04:00+01:00">20:04</time>
                 
-                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9294454,uruchomiono-instytut-im-bronislawa-komorowskiego-polska-nie-jest-w-ruinie-video,id,t.html">
-                                    Uruchomiono instytut im. Bronisława Komorowskiego. "Polska nie jest w ruinie" [VIDEO]                </a>
+                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9300400,euro-2016-mecz-polska-macedonia-polscy-kibice-juz-w-krakow-arenie-zdjecia,id,t.html">
+                                    Euro 2016. Mecz Polska - Macedonia. Polscy kibice już w Kraków Arenie [ZDJĘCIA]                </a>
               </li>
                                                 <li data-vr-contentbox="">
-                <time datetime="2016-01-15T14:22:00+01:00">14:22</time>
+                <time datetime="2016-01-17T19:32:00+01:00">19:32</time>
                 
-                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9294386,euro-2016-w-pilce-recznej-fakty-turnieju,id,t.html">
-                                    Euro 2016 w piłce ręcznej. Fakty turnieju                </a>
+                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9300000,zabic-czlowieka-to-nie-jest-hopsiup-historia-lucjana-sepa-wisniewskiego-likwidatora-z-ak,id,t.html">
+                                    Zabić człowieka, to nie jest hop-siup! Historia Lucjana „Sępa” Wiśniewskiego, likwidatora z AK                </a>
               </li>
                                                 <li data-vr-contentbox="">
-                <time datetime="2016-01-15T14:13:00+01:00">14:13</time>
+                <time datetime="2016-01-17T19:15:00+01:00">19:15</time>
                 
-                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9293160,dramatyczny-apel-zgwalconej-kasi-z-bedzina-twierdzi-ze-zgwalcil-ja-policjant-z-kpp-bedzin,id,t.html">
-                                    Dramatyczny apel zgwałconej Kasi z Będzina. Twierdzi, że zgwałcił ją policjant z KPP Będzin                </a>
+                                                <a class="artykul-link-zakladka-polska" href="http://www.polskatimes.pl/artykul/9300120,rusza-program-rozkrecania-polskich-innowacji-trwaja-prace-nad-nowelizacja-ustawy,id,t.html">
+                                    Rusza program rozkręcania polskich innowacji. Trwają prace nad nowelizacją ustawy                </a>
               </li>
                               </ul>
                 <div id="ranking-ad-2">
@@ -2169,13 +2165,6 @@ GR('wstawReklame', 'verboomInterText');
       <div id="zakladka-ranking_trzecia" class="zakladkaRanking" style="display:none;">
         <ol>
                                     <li data-vr-contentbox="">
-                
-                <span class="link">
-                                    <span class="oznaczenie">Tylko u nas</span>                  <a class="artykul-link-zakladka-popularne" href="http://www.polskatimes.pl/artykul/9285115,na-tym-nagraniu-widac-jak-piotr-swierczewski-bije-trenera-poloneza-wieden-na-meczu-w-debicy-wideo,id,t.html">
-                    Na tym nagraniu widać, jak Piotr Świerczewski bije trenera Poloneza Wiedeń na meczu w Dębicy [WIDEO]                  </a>
-                </span>
-              </li>
-                                                <li data-vr-contentbox="">
                 
                 <span class="link">
                                                       <a class="artykul-link-zakladka-popularne" href="http://www.polskatimes.pl/artykul/9289912,norwegia-tragedia-w-osrodku-dla-uchodzcow-tlum-zgwalcil-malego-chlopca,id,t.html">
@@ -2199,8 +2188,8 @@ GR('wstawReklame', 'verboomInterText');
                                                 <li data-vr-contentbox="">
                 
                 <span class="link">
-                                                      <a class="artykul-link-zakladka-popularne" href="http://www.polskatimes.pl/artykul/9278427,mieszkancy-sarzyny-sa-terroryzowani-przez-dwoch-mezczyzn,id,t.html">
-                    Mieszkańcy Sarzyny są terroryzowani przez dwóch mężczyzn                  </a>
+                                                      <a class="artykul-link-zakladka-popularne" href="http://www.polskatimes.pl/artykul/9299295,brat-ewy-tylman-pyta-internautow-o-adama-z-a-ci-sa-zaskoczeni-ten-post-zwalil-mnie-z-nog,id,t.html">
+                    Brat Ewy Tylman pyta internautów o Adama Z. A ci są zaskoczeni: "Ten post zwalił mnie z nóg"                  </a>
                 </span>
               </li>
                                                 <li data-vr-contentbox="">
@@ -2208,6 +2197,13 @@ GR('wstawReklame', 'verboomInterText');
                 <span class="link">
                                                       <a class="artykul-link-zakladka-popularne" href="http://www.polskatimes.pl/artykul/9289275,kolejni-dziennikarze-zwolnieni-z-tvp-nowi-prezenterzy-zmiany-w-telewizji-kto-stracil-prace-lista,id,t.html">
                     Kolejni dziennikarze zwolnieni z TVP, nowi prezenterzy. Zmiany w telewizji [KTO STRACIŁ PRACĘ LISTA]                  </a>
+                </span>
+              </li>
+                                                <li data-vr-contentbox="">
+                
+                <span class="link">
+                                                      <a class="artykul-link-zakladka-popularne" href="http://www.polskatimes.pl/artykul/9294286,bialystok-pobicie-krzysztofa-kononowicza-chcieli-mnie-zabic-wideo,id,t.html">
+                    Białystok. Pobicie Krzysztofa Kononowicza. "Chcieli mnie zabić" (wideo)                  </a>
                 </span>
               </li>
                               </ol>
@@ -2219,7 +2215,7 @@ GR('wstawReklame', 'verboomInterText');
       <div id="zakladka-ranking_czwarta" class="zakladkaRanking" style="display:none;">
         <ul class="komentowane">
                                     <li data-vr-contentbox="">
-                                  <span class="liczbaKomentarzy">225</span>
+                                  <span class="liczbaKomentarzy">259</span>
                                 
                 <span class="link">
                                                       <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9288479,smiertelny-wypadek-na-rondzie-reagana-bmw-uderzylo-w-latarnie,id,t.html">
@@ -2227,23 +2223,7 @@ GR('wstawReklame', 'verboomInterText');
                 </span>
               </li>
                                                 <li data-vr-contentbox="">
-                                  <span class="liczbaKomentarzy">204</span>
-                                
-                <span class="link">
-                                    <span class="oznaczenie">Tylko u nas</span>                  <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9285875,posel-nowoczesnej-tez-nie-skonczyl-studiow-a-przed-wyborami-mowili-inaczej,id,t.html">
-                      Poseł Nowoczesnej też nie skończył studiów. A przed wyborami mówili inaczej                  </a>
-                </span>
-              </li>
-                                                <li data-vr-contentbox="">
-                                  <span class="liczbaKomentarzy">203</span>
-                                
-                <span class="link">
-                                                      <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9284607,hitlerowskie-niemcy-jak-unia-europejska-taka-gazetka-zawisla-w-szkole-przyszlego-kuratora,id,t.html">
-                      Hitlerowskie Niemcy jak Unia Europejska? Taka gazetka zawisła w szkole przyszłego kuratora                  </a>
-                </span>
-              </li>
-                                                <li data-vr-contentbox="">
-                                  <span class="liczbaKomentarzy">192</span>
+                                  <span class="liczbaKomentarzy">210</span>
                                 
                 <span class="link">
                                                       <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9289380,mpk-we-wroclawiu-za-darmo-dla-wszystkich-kierowcow,id,t.html">
@@ -2251,23 +2231,39 @@ GR('wstawReklame', 'verboomInterText');
                 </span>
               </li>
                                                 <li data-vr-contentbox="">
-                                  <span class="liczbaKomentarzy">171</span>
+                                  <span class="liczbaKomentarzy">160</span>
                                 
                 <span class="link">
-                                                      <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9278301,wroclaw-mezczyzna-zmarl-na-przystanku-bo-za-dlugo-czekal-na-karetke,id,t.html">
-                      Wrocław: Mężczyzna zmarł na przystanku, bo za długo czekał na karetkę                  </a>
+                                                      <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9294608,posel-pieta-o-slazakach-korfanty-kazalby-do-was-strzelac,id,t.html">
+                      Poseł Pięta o Ślązakach: Korfanty kazałby do was strzelać                   </a>
                 </span>
               </li>
                                                 <li data-vr-contentbox="">
-                                  <span class="liczbaKomentarzy">3</span>
+                                  <span class="liczbaKomentarzy">140</span>
+                                
+                <span class="link">
+                                    <span class="oznaczenie">Ważne</span>                  <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9293652,pieta-korfanty-kazalby-do-was-strzelac-mniejszosc-slaska-w-sejmie-na-zywo-drwiny-ze-slazakow,id,t.html">
+                      Pięta: Korfanty kazałby do Was strzelać! Mniejszość śląska w Sejmie NA ŻYWO Drwiny ze Ślązaków                  </a>
+                </span>
+              </li>
+                                                <li data-vr-contentbox="">
+                                  <span class="liczbaKomentarzy">123</span>
+                                
+                <span class="link">
+                                                      <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9297640,i-kongres-kod-na-pomorzu-koordynatorem-zostal-radomir-szumelda,id,t.html">
+                      I Kongres KOD na Pomorzu. Koordynatorem został Radomir Szumełda                  </a>
+                </span>
+              </li>
+                                                <li data-vr-contentbox="">
+                                  <span class="liczbaKomentarzy">7</span>
                                 
                 <span class="link">
                     <img width="20" height="11" alt="Materiał płatny" class="kluczykM" src="http://s-pt.ppstatic.pl/g/platny_m.png?2">
 
 
 
-                                    <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9278989,sanacja-zamyka-opozycje,id,t.html">
-                      Sanacja zamyka opozycję                  </a>
+                                    <a class="artykul-link-zakladka-komentowane" href="http://www.polskatimes.pl/artykul/9291878,prokurator-anna-jedynak-zamordowana-byla-dumna-z-syna-zginela-z-jego-reki,id,t.html">
+                      Prokurator Anna Jedynak zamordowana. Była dumna z syna. Zginęła z jego ręki                  </a>
                 </span>
               </li>
                               </ul>

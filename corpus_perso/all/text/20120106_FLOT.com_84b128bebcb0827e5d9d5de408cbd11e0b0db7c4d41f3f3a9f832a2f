@@ -7,7 +7,7 @@
 								<script>var _ba = _ba || []; _ba.push(["aid", "490de9446a41522f0aedb98d31a5cec5"]);(function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = document.location.protocol + "//bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
 <script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'FLOT','SERVER_TZ_OFFSET':'10800','SITE_ID':'ru','USER_ID':'','SERVER_TIME':'1452871364','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'9f4f0c0b47155fd9709fd9d626680ba3'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'FLOT','SERVER_TZ_OFFSET':'10800','SITE_ID':'ru','USER_ID':'','SERVER_TIME':'1453068385','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'6f79c272161c3bbea575c85193e40350'});</script>
 
 
 <script type="text/javascript" src="/bitrix/js/main/core/core.js?141095923381396"></script>
@@ -17,7 +17,7 @@
 <script type="text/javascript" src="/bitrix/js/main/session.js?14109592333170"></script>
 
 <script type="text/javascript">
-bxSession.Expand(1440, '9f4f0c0b47155fd9709fd9d626680ba3', false, '3b74bfb566d22cffde92f01231b8202e');
+bxSession.Expand(1440, '6f79c272161c3bbea575c85193e40350', false, '811a1ddda3cc7e1941b6f14e57dd07f1');
 </script>
 <script src="/bitrix/js/main/utils.js"></script>
 <script src="/bitrix/components/bitrix/forum.interface/templates/popup/script.js"></script>
@@ -315,7 +315,7 @@ src: url("/include/adv/top-banner/blogger-sans/Blogger_Sans-Bold.otf") format("o
 								<td width="40%"><table class="vt">
 																		<tr width="100%">
 										<td width="40%" style="background-color: #000099">&nbsp;</td>
-										<td width="60%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;34,87%&nbsp;(348)</td>
+										<td width="60%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;34,62%&nbsp;(350)</td>
 									</tr></table></td>
 							</tr>
 						</table>
@@ -328,33 +328,7 @@ src: url("/include/adv/top-banner/blogger-sans/Blogger_Sans-Bold.otf") format("o
 								<td width="40%"><table class="vt">
 																		<tr width="100%">
 										<td width="19%" style="background-color: #FF0000">&nbsp;</td>
-										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,43%&nbsp;(164)</td>
-									</tr></table></td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-								<tr>
-					<td width="30%" valign="top" align="left" style="padding-right:5px!important">6 месяцев</td>
-					<td width="70%" valign="top" nowrap><table  class="vt">
-							<tr width="100%">
-								<td width="40%"><table class="vt">
-																		<tr width="100%">
-										<td width="19%" style="background-color: #FFFF00">&nbsp;</td>
-										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,33%&nbsp;(163)</td>
-									</tr></table></td>
-							</tr>
-						</table>
-					</td>
-				</tr>
-								<tr>
-					<td width="30%" valign="top" align="left" style="padding-right:5px!important">2 месяца</td>
-					<td width="70%" valign="top" nowrap><table  class="vt">
-							<tr width="100%">
-								<td width="40%"><table class="vt">
-																		<tr width="100%">
-										<td width="19%" style="background-color: #00CC00">&nbsp;</td>
-										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,23%&nbsp;(162)</td>
+										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,42%&nbsp;(166)</td>
 									</tr></table></td>
 							</tr>
 						</table>
@@ -367,7 +341,33 @@ src: url("/include/adv/top-banner/blogger-sans/Blogger_Sans-Bold.otf") format("o
 								<td width="40%"><table class="vt">
 																		<tr width="100%">
 										<td width="19%" style="background-color: #996666">&nbsp;</td>
-										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,13%&nbsp;(161)</td>
+										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,32%&nbsp;(165)</td>
+									</tr></table></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+								<tr>
+					<td width="30%" valign="top" align="left" style="padding-right:5px!important">6 месяцев</td>
+					<td width="70%" valign="top" nowrap><table  class="vt">
+							<tr width="100%">
+								<td width="40%"><table class="vt">
+																		<tr width="100%">
+										<td width="19%" style="background-color: #FFFF00">&nbsp;</td>
+										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,32%&nbsp;(165)</td>
+									</tr></table></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+								<tr>
+					<td width="30%" valign="top" align="left" style="padding-right:5px!important">2 месяца</td>
+					<td width="70%" valign="top" nowrap><table  class="vt">
+							<tr width="100%">
+								<td width="40%"><table class="vt">
+																		<tr width="100%">
+										<td width="19%" style="background-color: #00CC00">&nbsp;</td>
+										<td width="81%" nowrap style="text-align: right;color:#bbb;font-size:7px">&nbsp;&nbsp;16,32%&nbsp;(165)</td>
 									</tr></table></td>
 							</tr>
 						</table>

@@ -191,7 +191,7 @@
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="top" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -205,7 +205,7 @@
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="oop" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -898,7 +898,7 @@
 					
 				
 																<ul class="info cld flt-l fnt-13" aria-label="social links and weather">
-					<li class="flt-l first" title="Today's date" aria-haspopup="true">15/01/16</li>
+					<li class="flt-l first" title="Today's date" aria-haspopup="true">17/01/16</li>
 					
                   
     
@@ -908,8 +908,8 @@
 		    				
 
 <li class="flt-l">	
-	<span class='ico-weather ico-cloudy'><a  class="show-weather-popup" href="#" title="5 day forecast">
-		1&deg;C to 6&deg;C Cloudy
+	<span class='ico-weather ico-light_rain'><a  class="show-weather-popup" href="#" title="5 day forecast">
+		6&deg;C to 7&deg;C Light rain
 	</a></span>
 </li>  
 <div id="weather-lightbox" class="whyregister-lightbox dis-n">
@@ -917,54 +917,6 @@
 			<h3>Isle of Man 5-day weather forecast</h3>
 			<a href="" class="close" title="close">Close<b>X</b></a>
 		</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Friday
-					<span class="day-month">15 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Cloudy</p>
-  <div class='wico-weather wico-cloudy'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">6&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">1&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North west</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">20 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Saturday
-					<span class="day-month">16 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Light rain</p>
-  <div class='wico-weather wico-light_rain'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">6&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">3&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North east</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">5 mph</span>
-  </p>
-
-			</div>
 					<div class="weatherColLeft">
 				<p class="weekday weekDay flt-l">Sunday
 					<span class="day-month">17 Jan</span>
@@ -977,15 +929,15 @@
     <span class="day-month">7&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">5&deg;c</span>
+    <span class="day-month">6&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">16 mph</span>
+    <span class="day-month">13 mph</span>
   </p>
 
 			</div>
@@ -1001,7 +953,7 @@
     <span class="day-month">7&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">5&deg;c</span>
+    <span class="day-month">4&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
@@ -1009,7 +961,7 @@
     <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">17 mph</span>
+    <span class="day-month">15 mph</span>
   </p>
 
 			</div>
@@ -1017,15 +969,39 @@
 				<p class="weekday weekDay flt-l">Tuesday
 					<span class="day-month">19 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Light rain</p>
-  <div class='wico-weather wico-light_rain'>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">8&deg;c</span>
+    <span class="day-month">6&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">5&deg;c</span>
+    <span class="day-month">3&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">East</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">12 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Wednesday
+					<span class="day-month">20 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">6&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">4&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
@@ -1034,6 +1010,30 @@
   </p>
   <p class="greycolor weatherParam">Speed
     <span class="day-month">13 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Thursday
+					<span class="day-month">21 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Heavy rain</p>
+  <div class='wico-weather wico-heavy_rain'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">8&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">7&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South east</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">20 mph</span>
   </p>
 
 			</div>
@@ -1413,7 +1413,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu1,artmpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1425,7 +1425,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="2x1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1466,7 +1466,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1478,7 +1478,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu2,artmpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1490,7 +1490,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1628,7 +1628,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1677,7 +1677,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1715,17 +1715,6 @@ if(typeof(OX) !== "undefined"){
 		<article class="news-card trending-stories__card">
 									<header class="news-card__header">
 				<h3 class="news-card__title js-ellipsize" role="heading">
-					<a href="http://www.iomtoday.co.im/news/isle-of-man-news/i-m-being-sacked-for-having-cancer-1-7656442" class="news-card__title-link" title="&lsquo;I&rsquo;m being sacked for having cancer&rsquo;">
-						&lsquo;I&rsquo;m being sacked for having cancer&rsquo;
-					</a>
-				</h3>
-			</header>
-		</article>			
-		</li>
-			<li class="trending-stories__listitem" role="listitem">
-		<article class="news-card trending-stories__card">
-									<header class="news-card__header">
-				<h3 class="news-card__title js-ellipsize" role="heading">
 					<a href="http://www.iomtoday.co.im/news/isle-of-man-news/decided-the-new-bridge-for-old-laxey-1-7675809" class="news-card__title-link" title="Decided: The new bridge for old Laxey">
 						Decided: The new bridge for old Laxey
 					</a>
@@ -1737,8 +1726,19 @@ if(typeof(OX) !== "undefined"){
 		<article class="news-card trending-stories__card">
 									<header class="news-card__header">
 				<h3 class="news-card__title js-ellipsize" role="heading">
-					<a href="http://www.iomtoday.co.im/news/isle-of-man-news/motorist-has-a-lucky-escape-1-7665671" class="news-card__title-link" title="Motorist has a &lsquo;lucky escape&rsquo;">
-						Motorist has a &lsquo;lucky escape&rsquo;
+					<a href="http://www.iomtoday.co.im/news/isle-of-man-news/councillor-forced-out-of-seat-for-not-turning-up-to-meetings-1-7677465" class="news-card__title-link" title="Councillor forced out of seat for not turning up to meetings">
+						Councillor forced out of seat for not turning up to meetings
+					</a>
+				</h3>
+			</header>
+		</article>			
+		</li>
+			<li class="trending-stories__listitem" role="listitem">
+		<article class="news-card trending-stories__card">
+									<header class="news-card__header">
+				<h3 class="news-card__title js-ellipsize" role="heading">
+					<a href="http://www.iomtoday.co.im/news/isle-of-man-news/nunnery-set-to-become-university-college-1-7670035" class="news-card__title-link" title="Nunnery set to become University College">
+						Nunnery set to become University College
 					</a>
 				</h3>
 			</header>
@@ -1851,7 +1851,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1864,12 +1864,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/winter-garden-plan-for-queen-s-pier-project-1-7674814 title="Tom Durrant" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7674813!/image/2376668352.jpg_gen/derivatives/articleWidgetDeriv_140px/2376668352.jpg" alt="Tom Durrant"></a>
+				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/gambian-children-now-kitted-out-in-castletown-fc-strips-1-7675009 title="Wendy Mahon with founder of the academy Bassirou Bassane and some of the players wearing the donated Castletown FC shirts" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7675007!/image/1456377573.jpg_gen/derivatives/articleWidgetDeriv_140px/1456377573.jpg" alt="Wendy Mahon with founder of the academy Bassirou Bassane and some of the players wearing the donated Castletown FC shirts"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/winter-garden-plan-for-queen-s-pier-project-1-7674814 title="Winter Garden plan for Queen’s Pier project">Winter Garden plan for Queen’s Pier project</a>
+					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/gambian-children-now-kitted-out-in-castletown-fc-strips-1-7675009 title="Gambian children now kitted out in Castletown FC strips">Gambian children now kitted out in Castletown FC strips</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/news/isle-of-man-news" title="Isle of Man News">Isle of Man News</a></div>
 			</div>
@@ -1878,12 +1878,40 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.iomtoday.co.im/what-s-on/manx-entertainment-news/student-researches-link-between-group-membership-and-identity-1-7674796 title="Esther Chuang joins in with Hunt the Wren celebrations at Port St Mary" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7674795!/image/3091183607.jpg_gen/derivatives/articleWidgetDeriv_140px/3091183607.jpg" alt="Esther Chuang joins in with Hunt the Wren celebrations at Port St Mary"></a>
+				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/unseen-faces-exhibition-unveiled-at-sayle-gallery-1-7674996 title="Sleeping Giant Head, Unseen Faces exhibition, Tomasz Kowalski" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7674994!/image/65670085.jpg_gen/derivatives/articleWidgetDeriv_140px/65670085.jpg" alt="Sleeping Giant Head, Unseen Faces exhibition, Tomasz Kowalski"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.iomtoday.co.im/what-s-on/manx-entertainment-news/student-researches-link-between-group-membership-and-identity-1-7674796 title="Student researches link between group membership and identity">Student researches link between group membership and identity</a>
+					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/unseen-faces-exhibition-unveiled-at-sayle-gallery-1-7674996 title="Unseen Faces exhibition unveiled at Sayle Gallery">Unseen Faces exhibition unveiled at Sayle Gallery</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/news/isle-of-man-news" title="Isle of Man News">Isle of Man News</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--">
+				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/replica-station-name-board-goes-up-on-heritage-trail-site-1-7675001 title="The replica name board at Union Mills station that has been installed by the Steam Railway Supporters Association" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7674999!/image/1129465871.jpg_gen/derivatives/articleWidgetDeriv_140px/1129465871.jpg" alt="The replica name board at Union Mills station that has been installed by the Steam Railway Supporters Association"></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/replica-station-name-board-goes-up-on-heritage-trail-site-1-7675001 title="Replica station name board goes up on Heritage Trail site">Replica station name board goes up on Heritage Trail site</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/news/isle-of-man-news" title="Isle of Man News">Isle of Man News</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--">
+				<a href=http://www.iomtoday.co.im/what-s-on/manx-entertainment-news/pullyman-sailing-in-troubled-waters-1-7674988 title="Michael Cowin" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7338502!/image/2282536735.jpg_gen/derivatives/articleWidgetDeriv_140px/2282536735.jpg" alt="Michael Cowin"></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.iomtoday.co.im/what-s-on/manx-entertainment-news/pullyman-sailing-in-troubled-waters-1-7674988 title="Pullyman: Sailing in troubled waters">Pullyman: Sailing in troubled waters</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/what-s-on/manx-entertainment-news" title="Manx Entertainment News">Manx Entertainment News</a></div>
 			</div>
@@ -1892,12 +1920,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/pensioners-left-without-heating-over-christmas-1-7674809 title="Herbert and Wendy Bibby, from Ballakewish Farm, West Baldwin, who were left without heating fuel" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7674808!/image/1211657057.jpg_gen/derivatives/articleWidgetDeriv_140px/1211657057.jpg" alt="Herbert and Wendy Bibby, from Ballakewish Farm, West Baldwin, who were left without heating fuel"></a>
+				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/commissioner-thinks-captain-of-parish-should-be-elected-1-7674984 title="Commissioner Ian Davison" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7674983!/image/171052599.jpg_gen/derivatives/articleWidgetDeriv_140px/171052599.jpg" alt="Commissioner Ian Davison"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/pensioners-left-without-heating-over-christmas-1-7674809 title="Pensioners left without heating over Christmas">Pensioners left without heating over Christmas</a>
+					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/commissioner-thinks-captain-of-parish-should-be-elected-1-7674984 title="Commissioner thinks Captain of Parish should be elected">Commissioner thinks Captain of Parish should be elected</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/news/isle-of-man-news" title="Isle of Man News">Isle of Man News</a></div>
 			</div>
@@ -1906,40 +1934,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/everything-you-need-to-know-about-tim-peake-s-spacewalk-1-7677517 title="Tim Peake will carry out his space walk today." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677516!/image/1774527143.jpg_gen/derivatives/articleWidgetDeriv_140px/1774527143.jpg" alt="Tim Peake will carry out his space walk today."></a>
+				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/sulby-pub-wants-to-play-part-in-breaking-record-and-help-helicopter-1-7674971 title="Community news" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7674968!/image/2216367458.jpg_gen/derivatives/articleWidgetDeriv_140px/2216367458.jpg" alt="Community news"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/everything-you-need-to-know-about-tim-peake-s-spacewalk-1-7677517 title="Everything you need to know about Tim Peake’s spacewalk">Everything you need to know about Tim Peake’s spacewalk</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/news/isle-of-man-news" title="Isle of Man News">Isle of Man News</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/antiquarian-society-talk-on-stained-glass-in-the-isle-of-man-1-7677447 title="Patricia Tutt" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677446!/image/2452671892.jpg_gen/derivatives/articleWidgetDeriv_140px/2452671892.jpg" alt="Patricia Tutt"></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/antiquarian-society-talk-on-stained-glass-in-the-isle-of-man-1-7677447 title="Antiquarian Society talk on stained glass in the Isle of Man">Antiquarian Society talk on stained glass in the Isle of Man</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/news/isle-of-man-news" title="Isle of Man News">Isle of Man News</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.iomtoday.co.im/news/isle-of-man-news/number-out-of-work-rises-but-plenty-of-jobs-are-available-1-7676352 title="Jobs news" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7676351!/image/2150752471.jpg_gen/derivatives/articleWidgetDeriv_140px/2150752471.jpg" alt="Jobs news"></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/number-out-of-work-rises-but-plenty-of-jobs-are-available-1-7676352 title="Number out of work rises but plenty of jobs are available">Number out of work rises but plenty of jobs are available</a>
+					<a href=http://www.iomtoday.co.im/news/isle-of-man-news/sulby-pub-wants-to-play-part-in-breaking-record-and-help-helicopter-1-7674971 title="Sulby pub wants to play part in breaking record and help helicopter">Sulby pub wants to play part in breaking record and help helicopter</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.iomtoday.co.im/news/isle-of-man-news" title="Isle of Man News">Isle of Man News</a></div>
 			</div>
@@ -2099,7 +2099,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/iomonline.jp/health" 
 			data-adtag-pos="mpu5" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=cloudy;weathertomorrow=lightrain" 
+			data-additional=";weathertoday=lightrain;weathertomorrow=lightrain" 
 			data-nav="news,health"
 			data-pgid="14130359" 
 			data-trigger-once="gpt:ready"></div>					

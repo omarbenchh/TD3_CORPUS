@@ -11,7 +11,7 @@
 <!-- Digital Data Script -->
 <script>
     var titanEnabled = true;
-    var digitalData = {"page":{"pageInfo":{"pageID":"2889475","pageName":"Science proves alcohol is fun","brand":"theage","generator":"CQ","author":"Nick Collins and Kate Hagan","effectiveDate":"","issueDate":"2012-01-12T09:58:04Z","sysEnv":"desktop","template":"threecolumn","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"technology","subCategory1":"sci tech","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"theage","adZone":"tech/scitech","adKeyValues":{"cat":"tech","cat1":"scitech","ctype":"article","csub":"visitor"},"adSlots":["adspot-300x70-pos1","adspot-300x1515-pos1","adspot-300x600_300x250-pos1","adspot-300x250-pos2","adspot-149x170-pos1","adspot-996x120_970x250_940x250_940x120-pos1","adspot-149x170-pos2","adspot-1x11-pos1","adspot-728x90-pos2","adspot-728x90-pos1","adspot-300x250-pos3"],"adRegistry":"911","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.theage.com.au","brandSite":"age","domain":"theage.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://theage.myfairfax.com.au","hagridChannelKey":"QeFV9eVnngJX9eFB2HyKgQ","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["National","Sci-Tech"],"assetId":"2889475","assetSources":["The Telegraph, London"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-2"}}};
+    var digitalData = {"page":{"pageInfo":{"pageID":"2889475","pageName":"Science proves alcohol is fun","brand":"theage","generator":"CQ","author":"Nick Collins and Kate Hagan","effectiveDate":"","issueDate":"2012-01-12T09:58:04Z","sysEnv":"desktop","template":"threecolumn","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"technology","subCategory1":"sci tech","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"theage","adZone":"tech/scitech","adKeyValues":{"cat":"tech","cat1":"scitech","ctype":"article","csub":"visitor"},"adSlots":["adspot-300x70-pos1","adspot-300x1515-pos1","adspot-300x600_300x250-pos1","adspot-300x250-pos2","adspot-149x170-pos1","adspot-996x120_970x250_940x250_940x120-pos1","adspot-149x170-pos2","adspot-1x11-pos1","adspot-728x90-pos2","adspot-728x90-pos1","adspot-300x250-pos3"],"adRegistry":"4829","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.theage.com.au","brandSite":"age","domain":"theage.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://theage.myfairfax.com.au","hagridChannelKey":"QeFV9eVnngJX9eFB2HyKgQ","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["National","Sci-Tech"],"assetId":"2889475","assetSources":["The Telegraph, London"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-2"}}};
 
     var titan = window.titan || {};
     titan.requestAd = titan.requestAd || [];
@@ -161,7 +161,7 @@
 
 <ul class="alt">
         <li class="account todaysPaper">
-            <a class="btn trackingClick" href="/nsw/digitaleditionredirector" target="_blank" data-tracking-types="ga,sc" data-ga-action="TodaysPaper" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event50","events":"event50","eVar56":"mym_dock"}' data-sc-tl="todaysPaper" data-sub="http://www.theage.com.au/subscribe?channel_key=QeFV9eVnngJX9eFB2HyKgQ&callback_uri=http%3A%2F%2Fwww.theage.com.au%2F&plain_token=true&iid=other:webadv-14omn0065-prod-consumersubs:nnn-02/07/2014-todays_paper_redirection-all-dockbutton-nnn-age-u&campaign_code=14iaf201&promote_channel=webadvt" data-deu="http://theage.digitaleditions.com.au/olive/ode/ageweb/Login/Login.aspx?&Id=9682713e9d2195ec0679bf6138fa4b31db2cd6fb7ad9da0d363dc4dcbaec0385&d=2016-01-15&c=D3BE76A4899DEAE3B80A96C342FD4B7D">Today's Paper</a>
+            <a class="btn trackingClick" href="/nsw/digitaleditionredirector" target="_blank" data-tracking-types="ga,sc" data-ga-action="TodaysPaper" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event50","events":"event50","eVar56":"mym_dock"}' data-sc-tl="todaysPaper" data-sub="http://www.theage.com.au/subscribe?channel_key=QeFV9eVnngJX9eFB2HyKgQ&callback_uri=http%3A%2F%2Fwww.theage.com.au%2F&plain_token=true&iid=other:webadv-14omn0065-prod-consumersubs:nnn-02/07/2014-todays_paper_redirection-all-dockbutton-nnn-age-u&campaign_code=14iaf201&promote_channel=webadvt" data-deu="http://theage.digitaleditions.com.au/olive/ode/ageweb/Login/Login.aspx?&Id=9682713e9d2195ec0679bf6138fa4b31db2cd6fb7ad9da0d363dc4dcbaec0385&d=2016-01-17&c=AB55243EFD09E9EA74F50B69F9B2C4A6">Today's Paper</a>
         </li>
         <li class="account">
             <a class="btn alt trackingClick" href="http://www.theage.com.au/subscribe?channel_key=QeFV9eVnngJX9eFB2HyKgQ&callback_uri=http%3A%2F%2Fwww.theage.com.au%2F&plain_token=true&iid=houseinv:nnn-15omn0836-acq-consumersubs:nnn-eoys15-dom-eoys15_navlinka-nnn-age-u&campaign_code=eoys15&promote_channel=house_inventory" target="_blank" data-tracking-types="ga,sc" data-ga-action="Subscribe" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_Subscribe"}' data-sc-tl="subscribe">Subscribe</a>
@@ -206,8 +206,8 @@
     <div class="network-strip cf">
         <ul class="nav edition" role="menu">
             <li role="menuitem" id="whiteStrip-time">
-                Saturday Jan 16, 2016</li>
-            <li role="menuitem" id="whiteStrip-users" class="online">    16812<span class="collectorHidden" style="display:none">(0)</span> online now</li>
+                Monday Jan 18, 2016</li>
+            <li role="menuitem" id="whiteStrip-users" class="online">    3811<span class="collectorHidden" style="display:none">(0)</span> online now</li>
             <li role="menuitem">
                 <span>Do you know more about a story?</span>
                 <div class="dropdown-panel">
@@ -644,24 +644,9 @@
                     Most popular
                 </h3>
             </header>
-            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm6b6j" data-assettype="ARTICLE" data-asseturl="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html">
-                    <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" tabindex="0" sl-processed="1">
-                        <span class="num">1</span>
-                    </a>
-                    <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers">
-                        <img alt="Netflix could have faced an Australian rival using Telstra's technology." title="" src="/content/dam/images/g/i/5/m/f/4/image.related.thumbnail.90x60.gm6b6j.png/1452814208891.jpg"></a>
-                    <h3>
-                        <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html">Netflix to clamp down on geo-dodgers</a>
-
-                    </h3>
-                    <div class="article-meta">
-                        <em class="access">Contains:</em>
-                        <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html#comments"><span title="comments" class="icon comments">total comments</span>161</a>
-                        </div>
-                </article>
             <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm6b85" data-assettype="ARTICLE" data-asseturl="/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html">
                     <a href="/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html" tabindex="0" sl-processed="1">
-                        <span class="num">2</span>
+                        <span class="num">1</span>
                     </a>
                     <a href="/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html" title="Newly discovered supernova the biggest and brightest explosion ever seen">
                         <img alt="An artist's impression of the super-luminous supernova ASASSN-15lh as it would appear from an exoplanet located about 10,000 light-years from the blast." title="" src="/content/dam/images/g/m/6/b/x/8/image.related.thumbnail.90x60.gm6b85.png/1452807123656.jpg"></a>
@@ -675,7 +660,7 @@
                 </article>
             <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm6jze" data-assettype="ARTICLE" data-asseturl="/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html">
                     <a href="/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html" tabindex="0" sl-processed="1">
-                        <span class="num">3</span>
+                        <span class="num">2</span>
                     </a>
                     <a href="/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html" title="Jakarta attacks: why Facebook didn't trigger its Safety Check feature">
                         <img alt="Facebook's decision has raised questions about what it takes to trigger the Safety Check tool." title="" src="/content/dam/images/g/l/x/4/3/s/image.related.thumbnail.90x60.gm6jze.png/1452825421965.jpg"></a>
@@ -685,6 +670,21 @@
                     </h3>
                     <div class="article-meta">
                         <em class="access">Contains:</em>
+                        </div>
+                </article>
+            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm6b6j" data-assettype="ARTICLE" data-asseturl="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html">
+                    <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" tabindex="0" sl-processed="1">
+                        <span class="num">3</span>
+                    </a>
+                    <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers">
+                        <img alt="Netflix could have faced an Australian rival using Telstra's technology." title="" src="/content/dam/images/g/i/5/m/f/4/image.related.thumbnail.90x60.gm6b6j.png/1452814208891.jpg"></a>
+                    <h3>
+                        <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html">Netflix to clamp down on geo-dodgers</a>
+
+                    </h3>
+                    <div class="article-meta">
+                        <em class="access">Contains:</em>
+                        <a href="/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html#comments"><span title="comments" class="icon comments">total comments</span>170</a>
                         </div>
                 </article>
             <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm4nvc" data-assettype="ARTICLE" data-asseturl="/technology/sci-tech/food-allergies-in-infants-linked-to-hyperactive-immune-system-at-birth-20160112-gm4nvc.html">
@@ -701,14 +701,14 @@
                         <em class="access">Contains:</em>
                         </div>
                 </article>
-            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm5fc2" data-assettype="ARTICLE" data-asseturl="/technology/innovation/why-netflix-should-be-starting-to-worry-media-titans-20160113-gm5fc2.html">
-                    <a href="/technology/innovation/why-netflix-should-be-starting-to-worry-media-titans-20160113-gm5fc2.html" tabindex="0" sl-processed="1">
+            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm3k1i" data-assettype="ARTICLE" data-asseturl="/technology/technology-news/dark-net-drug-marketplaces-begin-to-emulate-organised-street-crime-20160111-gm3k1i.html">
+                    <a href="/technology/technology-news/dark-net-drug-marketplaces-begin-to-emulate-organised-street-crime-20160111-gm3k1i.html" tabindex="0" sl-processed="1">
                         <span class="num">5</span>
                     </a>
-                    <a href="/technology/innovation/why-netflix-should-be-starting-to-worry-media-titans-20160113-gm5fc2.html" title="Why Netflix should be starting to worry media titans">
-                        <img alt="Reed Hastings, chairman, president and CEO of Netflix, announces the service's availability in basically every country on Earth." title="" src="/content/dam/images/g/m/1/4/1/j/image.related.thumbnail.90x60.gm5fc2.png/1452854266890.jpg"></a>
+                    <a href="/technology/technology-news/dark-net-drug-marketplaces-begin-to-emulate-organised-street-crime-20160111-gm3k1i.html" title="Dark net drug marketplaces begin to emulate organised street crime">
+                        <img alt="Drug sales are flourishing on the dark web." title="" src="/content/dam/images/g/k/9/y/s/u/image.related.thumbnail.90x60.gm3k1i.png/1452815049230.jpg"></a>
                     <h3>
-                        <a href="/technology/innovation/why-netflix-should-be-starting-to-worry-media-titans-20160113-gm5fc2.html">Why Netflix should be starting to worry media ...</a>
+                        <a href="/technology/technology-news/dark-net-drug-marketplaces-begin-to-emulate-organised-street-crime-20160111-gm3k1i.html">Dark net drug marketplaces begin to emulate ...</a>
 
                     </h3>
                     <div class="article-meta">
@@ -728,18 +728,18 @@
             <h3><span class="icon huffpost-logo"></span>HuffPost Australia</h3>
         </header>
         <article class="article">
-                <a target="_blank" data-id="8985558" data-title="Ex-ABC Editor Claims NBN Coverage Gagged To Please Malcolm Turnbull" data-category="technology" data-location="1" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/14/nick-ross-abc-nbn_n_8985558.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce21X7uhIf337a9ShPfTV8Aqb38DXOh8dmCL4B4MZDLv8GQ=" width="90" height="60" alt="headline"></a>
-                <h3><a target="_blank" data-id="8985558" data-title="Ex-ABC Editor Claims NBN Coverage Gagged To Please Malcolm Turnbull" data-category="technology" data-location="1" href="http://www.huffingtonpost.com.au/2016/01/14/nick-ross-abc-nbn_n_8985558.html?ncid=edlinkauhpmg00000001">Ex-ABC Editor Claims NBN Coverage Gagged To Please Malcolm Turnbull</a></h3>
+                <a target="_blank" data-id="8995358" data-title="The Sweetest Valentine's Day Gift With A Salty Twist" data-category="technology" data-location="1" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/18/brownie-business-pop-up_n_8995358.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce21OgJwE6aOfU1b8RVjeYqhrhY5lBGLzK6ejdc1iKInsOI=" width="90" height="60" alt="headline"></a>
+                <h3><a target="_blank" data-id="8995358" data-title="The Sweetest Valentine's Day Gift With A Salty Twist" data-category="technology" data-location="1" href="http://www.huffingtonpost.com.au/2016/01/18/brownie-business-pop-up_n_8995358.html?ncid=edlinkauhpmg00000001">The Sweetest Valentine's Day Gift With A Salty Twist</a></h3>
                 <span class="source">HuffPost Australia <span class="icon external"> external site</span></span>
             </article>
             <article class="article">
-                <a target="_blank" data-id="8973734" data-title="Aussies Crash Local Site Offering Entry To $2 Billion Powerball" data-category="technology" data-location="2" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/14/australia-lottoland-powerball_n_8973734.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce21Vf6WjVo5WQdXAKCuHXlNBkhM6RfrXx9yKnSYbQw-Uek=" width="90" height="60" alt="headline"></a>
-                <h3><a target="_blank" data-id="8973734" data-title="Aussies Crash Local Site Offering Entry To $2 Billion Powerball" data-category="technology" data-location="2" href="http://www.huffingtonpost.com.au/2016/01/14/australia-lottoland-powerball_n_8973734.html?ncid=edlinkauhpmg00000001">Aussies Crash Local Site Offering Entry To $2 Billion Powerball</a></h3>
+                <a target="_blank" data-id="9001416" data-title="This Is What It Looks Like When 2 Galaxies Collide" data-category="technology" data-location="2" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/17/two-galaxies-collide_n_9001416.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce212DzJloRETBEx9IfS9fqqvlq3vo95NkIIRhQ2sZVmPp0=" width="90" height="60" alt="headline"></a>
+                <h3><a target="_blank" data-id="9001416" data-title="This Is What It Looks Like When 2 Galaxies Collide" data-category="technology" data-location="2" href="http://www.huffingtonpost.com.au/2016/01/17/two-galaxies-collide_n_9001416.html?ncid=edlinkauhpmg00000001">This Is What It Looks Like When 2 Galaxies Collide</a></h3>
                 <span class="source">HuffPost Australia <span class="icon external"> external site</span></span>
             </article>
             <input type="hidden" class="w_brand" name="w_brand" value="HuffPost_au" />
-        <input type="hidden" class="w_ids" name="w_ids" value="8985558,8973734" />
-        <input type="hidden" class="w_title" name="w_title" value="Ex-ABC Editor Claims NBN Coverage Gagged To Please Malcolm Turnbull,Aussies Crash Local Site Offering Entry To $2 Billion Powerball" />
+        <input type="hidden" class="w_ids" name="w_ids" value="8995358,9001416" />
+        <input type="hidden" class="w_title" name="w_title" value="The Sweetest Valentine's Day Gift With A Salty Twist,This Is What It Looks Like When 2 Galaxies Collide" />
         <input type="hidden" class="w_category" name="w_category" value="technology,technology" />
         <input type="hidden" class="w_location" name="w_location" value="1,2" />
         <input type="hidden" class="w_extraproperty" name="w_extraproperty" value="" />
@@ -773,13 +773,13 @@
 <div class="tab tab1selected">
     <h4><a href="/digital-life/computers/gadgets-on-the-go/netflix-wont-stop-aussies-sneaking-into-its-us-library-20160115-gm6m8i.html"></a></h4>
     <a href="/digital-life/computers/gadgets-on-the-go/netflix-wont-stop-aussies-sneaking-into-its-us-library-20160115-gm6m8i.html">
-        <img src="/content/dam/images/g/m/6/n/w/o/image.related.columnistThumbnail.127x127.gm6m8i.png/1452831312470.jpg" alt="Netflix knows all-too-well that Australians aren't content to be second-class digital citizens." width="127" height="127"/></a>
+        <img src="/content/dam/images/g/m/6/n/w/o/image.related.columnistThumbnail.127x127.gm6m8i.png/1452882210620.jpg" alt="Netflix knows all-too-well that Australians aren't content to be second-class digital citizens." width="127" height="127"/></a>
     <blockquote>
             <p><a href="/digital-life/computers/gadgets-on-the-go/netflix-wont-stop-aussies-sneaking-into-its-us-library-20160115-gm6m8i.html">Netflix's geo-blocking crackdown is doomed to fail, ...</a><span>&nbsp;</span></p>
         </blockquote>
     <div>
         <cite class="byline">Posted in: <span><a href="/digital-life/computers/gadgets-on-the-go">Gadgets-On-The-Go</a></span></cite>
-        <cite class="date">Date: <span>Today, 3:15PM</span></cite>
+        <cite class="date">Date: <span>Jan 16, 2016, 5:23AM</span></cite>
             <p class="comments">
                             <a href="/digital-life/computers/gadgets-on-the-go/netflix-wont-stop-aussies-sneaking-into-its-us-library-20160115-gm6m8i.html#comments">Comments<span></span></a>
                     </p>
@@ -1051,50 +1051,50 @@ Go Mobile Plan from $77/Mth:
 </div>
 <script type="text/javascript">
 _wo_Layouts[0][0] = 2;
-_wo_PI[0][0] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=1672259305?';
+_wo_PI[0][0] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=187371575?';
 _wo_CarouselWeightings[0][0] = 99000;
 _wo_Layouts[0][1] = 2;
-_wo_PI[0][1] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=1672259305?';
+_wo_PI[0][1] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=187371575?';
 _wo_CarouselWeightings[0][1] = 99000;
 _wo_Layouts[0][2] = 2;
-_wo_PI[0][2] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=1672259305?';
+_wo_PI[0][2] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=187371575?';
 _wo_CarouselWeightings[0][2] = 99000;
 _wo_Layouts[0][3] = 2;
-_wo_PI[0][3] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=1705737600?';
+_wo_PI[0][3] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=187785353?';
 _wo_CarouselWeightings[0][3] = 99000;
 _wo_Layouts[0][4] = 2;
-_wo_PI[0][4] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=1780198901?';
+_wo_PI[0][4] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=187785353?';
 _wo_CarouselWeightings[0][4] = 99000;
 _wo_Layouts[0][5] = 2;
-_wo_PI[0][5] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=1780198901?';
+_wo_PI[0][5] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=828518995?';
 _wo_CarouselWeightings[0][5] = 99000;
 _wo_Layouts[0][6] = 2;
-_wo_PI[0][6] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=1780198901?';
+_wo_PI[0][6] = 'https://ad.doubleclick.net/ddm/ad/N7057.157012.WHISTLEOUTAU/B9139348.124548984;sz=1x1;ord=828518995?';
 _wo_CarouselWeightings[0][6] = 99000;
 _wo_Layouts[0][7] = 2;
-_wo_PI[0][7] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=260170179';
+_wo_PI[0][7] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=828518995';
 _wo_CarouselWeightings[0][7] = 20000;
 _wo_Layouts[0][8] = 2;
-_wo_PI[0][8] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=260170179';
+_wo_PI[0][8] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=511452955';
 _wo_CarouselWeightings[0][8] = 20000;
 _wo_Layouts[0][9] = 2;
-_wo_PI[0][9] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=260170179';
+_wo_PI[0][9] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=511452955';
 _wo_CarouselWeightings[0][9] = 20000;
 _wo_Layouts[0][10] = 2;
-_wo_PI[0][10] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=260170179';
+_wo_PI[0][10] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=511452955';
 _wo_CarouselWeightings[0][10] = 20000;
 _wo_Layouts[0][11] = 2;
-_wo_PI[0][11] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=260170179';
+_wo_PI[0][11] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=511452955';
 _wo_CarouselWeightings[0][11] = 20000;
 _wo_Layouts[0][12] = 2;
 _wo_CarouselWeightings[0][12] = 90000;
 _wo_Layouts[0][13] = 2;
 _wo_CarouselWeightings[0][13] = 25000;
 _wo_Layouts[0][14] = 2;
-_wo_PI[0][14] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=260170179';
+_wo_PI[0][14] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=511452955';
 _wo_CarouselWeightings[0][14] = 20000;
 _wo_Layouts[0][15] = 2;
-_wo_PI[0][15] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=322180319';
+_wo_PI[0][15] = 'https://ad-ace.doubleclick.net/ad/N7535.157012.WHISTLEOUTAU/B7160999.13;sz=1x1;ord=511452955';
 _wo_CarouselWeightings[0][15] = 20000;
 _wo_AutoCarousel = 0;
 </script>
@@ -1139,13 +1139,13 @@ _wo_AutoCarousel = 0;
 <th>Guides and Articles</th>
 </tr>
 <tr class="wo-widget-row">
-<td class="wo-widget-product"><a target="_blank" href="http://broadband.theage.com.au/Broadband/National-Broadband-Network-NBN-100Mbps-Plans?utm_source=Widget_Fairfax_AGE_Technology&utm_medium=Widget&utm_campaign=National_Broadband_Network_NBN_100Mbps_Plans">National Broadband Network NBN 100Mbps Plans</a></td>
+<td class="wo-widget-product"><a target="_blank" href="http://broadband.theage.com.au/Broadband/National-Broadband-Network-NBN-50Mbps-Plans?utm_source=Widget_Fairfax_AGE_Technology&utm_medium=Widget&utm_campaign=National_Broadband_Network_NBN_50Mbps_Plans">National Broadband Network NBN 50Mbps Plans</a></td>
 </tr>
 <tr class="wo-widget-row">
-<td class="wo-widget-product"><a target="_blank" href="http://broadband.theage.com.au/Broadband/National-Broadband-Network-NBN-25Mbps-Tier-3-Plans?utm_source=Widget_Fairfax_AGE_Technology&utm_medium=Widget&utm_campaign=National_Broadband_Network_NBN_25Mbps_Tier_3_Plans">National Broadband Network NBN 25Mbps Tier 3 Plans</a></td>
+<td class="wo-widget-product"><a target="_blank" href="http://mobile-phones.theage.com.au/MobilePhones/Best-Mobile-Phone-Plans-Under-30?utm_source=Widget_Fairfax_AGE_Technology&utm_medium=Widget&utm_campaign=Best_Mobile_Phone_Plans_for_%2430_or_Under">Best Mobile Phone Plans for $30 or Under</a></td>
 </tr>
 <tr class="wo-widget-row">
-<td class="wo-widget-product"><a target="_blank" href="http://mobile-phones.theage.com.au/MobilePhones/Mobile-Phone-Plans-Under-$100?utm_source=Widget_Fairfax_AGE_Technology&utm_medium=Widget&utm_campaign=Mobile_Phone_Plans_Under_%24100">Mobile Phone Plans Under $100</a></td>
+<td class="wo-widget-product"><a target="_blank" href="http://mobile-phones.theage.com.au/MobilePhones/Prepaid-Mobile-Phone-Plans-High-Data?utm_source=Widget_Fairfax_AGE_Technology&utm_medium=Widget&utm_campaign=Prepaid_Mobile_Phone_Plans_High_Data">Prepaid Mobile Phone Plans High Data</a></td>
 </tr>
 </tbody>
 </table>
@@ -1187,18 +1187,18 @@ _wo_AutoCarousel = 0;
     <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js" async="async"></script>
 <div class="c5 classifieds cfix">
                             <div class="s1 cAge">
-                            <!-- Campaign ID: 1262239 -->
-                            <h2><a title="Money" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.theage.com.au">Money</a></h2>
+                            <!-- Campaign ID: 1262237 -->
+                            <h2><a title="Video" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.theage.com.au">Video</a></h2>
                                         <div class="puff">
-                                                <a href="http://compare.theage.com.au/credit-cards?mpp_tab=1&utm_source=The_Age&utm_medium=Rainbow&utm_campaign=HL_trim" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
-    <img src="http://images.theage.com.au/2014/03/07/5241079/Rainbow%20cross-promo%20pointer%20home-loan-trim-172x115.jpg" width="172" alt="Mozo 2014"/></a>
+                                                <a href="http://media.smh.com.au/executive-style/executive-style-special/australia-stops-without-tugboats-5799306.html" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.theage.com.au/2014/09/23/5802874/rb-tugboat1-172x115.jpg" width="172" alt="Tugboat"/></a>
 
-                                            <h5><a href="http://compare.theage.com.au/credit-cards?mpp_tab=1&utm_source=The_Age&utm_medium=Rainbow&utm_campaign=HL_trim" rel="nofollow" title="trimthousandsoffyourhomeloan" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Trim thousands off your home loan</a></h5>
+                                            <h5><a href="http://media.smh.com.au/executive-style/executive-style-special/australia-stops-without-tugboats-5799306.html" rel="nofollow" title="australiastopswithouttugboats" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Australia stops without tugboats</a></h5>
                                         </div><!-- class:puff -->
                                         <ul><li class="lAge"><a href="http://www.theage.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Theage.com.au</a></li>
-                                        <li><a href="http://compare.theage.com.au/savings-accounts" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Compare All Saving Accounts </a></li>
-                                        <li><a href="http://compare.smh.com.au/credit-cards" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Compare All Credit Cards </a></li>
-                                        <li><a href="http://compare.smh.com.au/home-loans" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Compare All Home Loans</a></li>
+                                        <li><a href="http://media.theage.com.au/entertainment/red-carpet" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Entertainment and Red Carpet</a></li>
+                                        <li><a href="http://media.theage.com.au/sport/sports-hq" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Latest Sports videos</a></li>
+                                        <li><a href="http://media.theage.com.au/national/breaking-news" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Breaking news videos</a></li>
                                 </ul>
                         </div><!-- class:s1 cAge -->
                         <div class="s2 cDrive">
@@ -1231,36 +1231,36 @@ _wo_AutoCarousel = 0;
                                         <li><a href="http://www.domain.com.au/advice/renovations/?utm_source=mastheads&utm_medium=rainbow&utm_campaign=renovation" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Renovation tips & advice</a></li>
                                 </ul>
                         </div><!-- class:s3 cDomain -->
-                        <div class="s4 cHuffPost">
-                            <!-- Campaign ID: 1262250 -->
-                            <h2><a title="Dating" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.huffingtonpost.com.au">Dating</a></h2>
+                        <div class="s4 cSmh">
+                            <!-- Campaign ID: 1262249 -->
+                            <h2><a title="Events" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.smh.com.au">Events</a></h2>
                                         <div class="puff">
-                                                <a href="http://www.huffingtonpost.com/cheaptickets/5-cheap-european-destinat_b_8190742.html?utm_hp_ref=travel" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
-    <img src="http://images.theage.com.au/2015/10/13/6926223/s-TRAVEL-large-172x115comp-172x115.jpg" width="172" alt="europe huffpost rainbow strip"/></a>
+                                                <a href="http://www.goodfoodmonth.com" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.theage.com.au/2015/09/02/6814103/Night-Noodle-Markets-Paid-Image-172x115.jpg" width="172" alt="night noodle market"/></a>
 
-                                            <h5><a href="http://www.huffingtonpost.com/cheaptickets/5-cheap-european-destinat_b_8190742.html?utm_hp_ref=travel" rel="nofollow" title="5cheapeuropeandestinations" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">5 cheap european destinations</a></h5>
+                                            <h5><a href="http://www.goodfoodmonth.com" rel="nofollow" title="goodfoodmonthreturns" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Good Food Month Returns</a></h5>
                                         </div><!-- class:puff -->
-                                        <ul><li class="lHuffPost"><a href="http://www.huffingtonpost.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Huffingtonpost.com.au</a></li>
-                                        <li><a href="http://www.huffingtonpost.com.au/entry/easy-comfort-food-recipes_560bea84e4b0768126ffeb5b?utm_hp_ref=taste&section=australia&adsSiteOverride=au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">20 easy comfort food recipes</a></li>
-                                        <li><a href="http://www.huffingtonpost.com.au/2015/10/10/truth-free-range-eggs_n_8266904.html?utm_hp_ref=australia" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">The low down on free range eggs</a></li>
-                                        <li><a href="http://www.huffingtonpost.com.au/2015/10/02/why-we-bite-our-fingernails_n_8224340.html?1443738830" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Why we bite our nails</a></li>
+                                        <ul><li class="lSmh"><a href="http://www.smh.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Smh.com.au</a></li>
+                                        <li><a href="http://adelaide.goodfoodmonth.com/" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Adelaide Night Noodle Markets</a></li>
+                                        <li><a href="http://sydney.goodfoodmonth.com/" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Sydney Good Food Month</a></li>
+                                        <li><a href="http://melbourne.goodfoodmonth.com" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Melbourne Good Food Month</a></li>
                                 </ul>
-                        </div><!-- class:s4 cHuffPost -->
-                        <div class="s5 cTheVine">
-                            <!-- Campaign ID: 1262254 -->
-                            <h2><a title="TheVine" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.thevine.com.au">TheVine</a></h2>
+                        </div><!-- class:s4 cSmh -->
+                        <div class="s5 cEssentialKids">
+                            <!-- Campaign ID: 1345585 -->
+                            <h2><a title="Essential Kids" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.essentialkids.com.au">Essential Kids</a></h2>
                                         <div class="puff">
-                                                <a href="http://www.executivestyle.com.au/how-to-turn-your-greying-locks-into-a-silver-fox-gj4ekl?utm_source=FD&utm_medium=rainbow&utm_campaign=silverfox" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
-    <img src="http://images.theage.com.au/2015/11/20/7025188/Clooney_172-172x115.jpg" width="172" alt="George Clooney"/></a>
+                                                <a href="http://www.essentialkids.com.au/activities/school-holidays/14-free-pools-to-try-in-australia-this-summer-20151218-glqqh4" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.theage.com.au/2015/12/22/7100015/ek-pools-rainbow-172x115.jpg" width="172" alt="ek-pools-rainbow"/></a>
 
-                                            <h5><a href="http://www.executivestyle.com.au/how-to-turn-your-greying-locks-into-a-silver-fox-gj4ekl?utm_source=FD&utm_medium=rainbow&utm_campaign=silverfox" rel="nofollow" title="50menwhoturngreyinglocksintosilverfox" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">50 men who turn greying locks into silver fox</a></h5>
+                                            <h5><a href="http://www.essentialkids.com.au/activities/school-holidays/14-free-pools-to-try-in-australia-this-summer-20151218-glqqh4" rel="nofollow" title="freewaterparksaroundaustralia" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Free water parks around Australia</a></h5>
                                         </div><!-- class:puff -->
-                                        <ul><li class="lTheVine"><a href="http://www.thevine.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Thevine.com.au</a></li>
-                                        <li><a href="http://www.smh.com.au/executive-style/style/guides/style?utm_source=FD&utm_medium=rainbow&utm_campaign=styleguide" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">The ultimate mens style guide</a></li>
-                                        <li><a href="http://www.smh.com.au/executive-style/luxury?utm_source=FD&utm_medium=rainbow&utm_campaign=luxury" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Fashion trends and collections</a></li>
-                                        <li><a href="http://www.smh.com.au/executive-style/management?utm_source=FD&utm_medium=rainbow&utm_campaign=management" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Management secrets from the boardroom</a></li>
+                                        <ul><li class="lEssentialKids"><a href="http://www.essentialkids.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Essentialkids.com.au</a></li>
+                                        <li><a href="http://www.essentialkids.com.au/recipes/lunchbox#utm_source=FD&utm_medium=rainbow&utm_campaign=lunchbox" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Lunchbox ideas & recipes</a></li>
+                                        <li><a href="http://www.essentialkids.com.au/activities-and-worksheets#utm_source=FD&utm_medium=rainbow&utm_campaign=activities" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Free kids' activities and worksheets</a></li>
+                                        <li><a href="http://www.essentialkids.com.au/recipes#utm_source=FD&utm_medium=rainbow&utm_campaign=recipes" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Family recipe finder</a></li>
                                 </ul>
-                        </div><!-- class:s5 cTheVine -->
+                        </div><!-- class:s5 cEssentialKids -->
 </div><!-- class:c5 classifieds cfix -->
 
 </div>
@@ -1307,18 +1307,18 @@ _wo_AutoCarousel = 0;
         <p class="links"><a href="http://compare.theage.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_bt&mpp_tab=3" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="3" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Find Out More</a></p>
     </div>
 <div class="four">
-        <h3><a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPhone 6s</a></h3>
-        <a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/widget_160x70_0915-iPhone6S-3.jpg" width="60" height="50"/></a>
-        <p><a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Compare all the prices and plans from all carrliers</a></p>
+        <h3><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Samsung Galaxy S6</a></h3>
+        <a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/GS6-strip-Fairfax-left-160x70.jpg" width="60" height="50"/></a>
+        <p><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Samsung's best phone with Google's Android</a></p>
         <span></span>
-        <p class="links"><a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPhone 6s</a></p>
+        <p class="links"><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Samsung GS6</a></p>
     </div>
 <div class="five">
-        <h3><a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPad Data Deals</a></h3>
-        <a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/iPad-strip-1-Fairfax-160x70.jpg" width="60" height="50"/></a>
-        <p><a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Data Deals for your tablet or modem</a></p>
+        <h3><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">With Big Data Plans</a></h3>
+        <a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/GS6-strip-Fairfax-right-160x70.jpg" width="60" height="50"/></a>
+        <p><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">GS6 phone plans with lots of data</a></p>
         <span></span>
-        <p class="links"><a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPad Data Deals</a></p>
+        <p class="links"><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">With Big Data</a></p>
     </div>
 </div>
     <div id="tab-2" class="tab cfix" aria-live="polite">
@@ -1347,19 +1347,19 @@ _wo_AutoCarousel = 0;
             <a href="http://www.brisbanetimes.com.au">Most viewed articles on Brisbane Times</a><h5>Top 5 <a href="http://www.brisbanetimes.com.au/technology">Technology</a> articles</h5>
             <ol>
                 <li>
-                        <a href="http://www.brisbanetimes.com.au/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html" title="Newly discovered supernova the biggest and brightest explosion ever seen" style="">Newly discovered supernova the biggest and brightest explosion ever seen</a>
+                        <a href="http://www.brisbanetimes.com.au/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers" style="">Netflix to clamp down on geo-dodgers</a>
                     </li>
                 <li>
                         <a href="http://www.brisbanetimes.com.au/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html" title="Jakarta attacks: why Facebook didn't trigger its Safety Check feature" style="">Jakarta attacks: why Facebook didn't trigger its Safety Check feature</a>
                     </li>
                 <li>
-                        <a href="http://www.brisbanetimes.com.au/technology/technology-news/internet-explorer-officially-dies-but-is-your-workplace-ready-to-it-let-go-20160113-gm4tfg.html" title="Internet Explorer officially dies, but is your workplace ready to it let go?" style="">Internet Explorer officially dies, but is your workplace ready to it let go?</a>
-                    </li>
-                <li>
-                        <a href="http://www.brisbanetimes.com.au/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers" style="">Netflix to clamp down on geo-dodgers</a>
-                    </li>
-                <li>
                         <a href="http://www.brisbanetimes.com.au/technology/sci-tech/food-allergies-in-infants-linked-to-hyperactive-immune-system-at-birth-20160112-gm4nvc.html" title="Food allergies in infants linked to hyperactive immune system at birth" style="">Food allergies in infants linked to hyperactive immune system at birth</a>
+                    </li>
+                <li>
+                        <a href="http://www.brisbanetimes.com.au/technology/technology-news/microsofts-ai-chatbot-gets-job-as-meteorologist-on-breakfast-news-show-20160113-gm5f6j.html" title="Microsoft's AI chatbot gets job as meteorologist on breakfast news show" style="">Microsoft's AI chatbot gets job as meteorologist on breakfast news show</a>
+                    </li>
+                <li>
+                        <a href="http://www.brisbanetimes.com.au/technology/technology-news/why-hoverboards-around-the-world-are-catching-on-fire-20151216-glphkd.html" title="Why 'hoverboards' around the world are catching on fire" style="">Why 'hoverboards' around the world are catching on fire</a>
                     </li>
                 </ol>
         </div>
@@ -1367,19 +1367,19 @@ _wo_AutoCarousel = 0;
             <a href="http://www.watoday.com.au">Most viewed articles on WA Today</a><h5>Top 5 <a href="http://www.watoday.com.au/technology">Technology</a> articles</h5>
             <ol>
                 <li>
+                        <a href="http://www.watoday.com.au/technology/technology-news/sex-tape-suicide-had-he-been-in-bed-with-a-woman-this-would-not-have-happened-20100930-15zld.html" title="Sex tape suicide: 'Had he been in bed with a woman, this would not have happened'" style="">Sex tape suicide: 'Had he been in bed with a woman, this would not have happened'</a>
+                    </li>
+                <li>
                         <a href="http://www.watoday.com.au/technology/technology-news/humans-are-slamming-into-driverless-cars-and-exposing-a-key-flaw-20151222-gltebr.html" title="Humans are slamming into driverless cars and exposing a key flaw" style="">Humans are slamming into driverless cars and exposing a key flaw</a>
                     </li>
                 <li>
-                        <a href="http://www.watoday.com.au/technology/technology-news/sex-tape-suicide-had-he-been-in-bed-with-a-woman-this-would-not-have-happened-20100930-15zld.html" title="Sex tape suicide: 'Had he been in bed with a woman, this would not have happened'" style="">Sex tape suicide: 'Had he been in bed with a woman, this would not have happened'</a>
+                        <a href="http://www.watoday.com.au/news-and-views/news-features/ending-texts-with-a-full-stop-is-terrible-study-confirms-20151208-glivyb.html" title="Ending texts with a full stop is terrible, study confirms" style="">Ending texts with a full stop is terrible, study confirms</a>
                     </li>
                 <li>
                         <a href="http://www.watoday.com.au/technology/sci-tech/the-most-overhyped-scientific-discoveries-of-2015-20151230-glx40s.html" title="The most overhyped scientific discoveries of 2015" style="">The most overhyped scientific discoveries of 2015</a>
                     </li>
                 <li>
-                        <a href="http://www.watoday.com.au/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html" title="Jakarta attacks: why Facebook didn't trigger its Safety Check feature" style="">Jakarta attacks: why Facebook didn't trigger its Safety Check feature</a>
-                    </li>
-                <li>
-                        <a href="http://www.watoday.com.au/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers" style="">Netflix to clamp down on geo-dodgers</a>
+                        <a href="http://www.watoday.com.au/technology/sci-tech/dr-karl-kruszelnickis-science-conundrums-why-is-the-worlds-spin-axis-shifting-20151113-gky7or.html" title="Dr Karl Kruszelnicki's science conundrums: Why is the world's spin axis shifting?" style="">Dr Karl Kruszelnicki's science conundrums: Why is the world's spin axis shifting?</a>
                     </li>
                 </ol>
         </div>
@@ -1390,16 +1390,16 @@ _wo_AutoCarousel = 0;
                         <a href="http://www.smh.com.au/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers" style="">Netflix to clamp down on geo-dodgers</a>
                     </li>
                 <li>
-                        <a href="http://www.smh.com.au/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html" title="Jakarta attacks: why Facebook didn't trigger its Safety Check feature" style="">Jakarta attacks: why Facebook didn't trigger its Safety Check feature</a>
-                    </li>
-                <li>
                         <a href="http://www.smh.com.au/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html" title="Newly discovered supernova the biggest and brightest explosion ever seen" style="">Newly discovered supernova the biggest and brightest explosion ever seen</a>
                     </li>
                 <li>
-                        <a href="http://www.smh.com.au/technology/sci-tech/humans-breeding-with-neanderthals-created-allergies-researchers-find-20160108-gm1pyy.html" title="Humans breeding with Neanderthals created allergies, researchers find" style="">Humans breeding with Neanderthals created allergies, researchers find</a>
+                        <a href="http://www.smh.com.au/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html" title="Jakarta attacks: why Facebook didn't trigger its Safety Check feature" style="">Jakarta attacks: why Facebook didn't trigger its Safety Check feature</a>
                     </li>
                 <li>
-                        <a href="http://www.smh.com.au/technology/technology-news/dark-net-drug-marketplaces-begin-to-emulate-organised-street-crime-20160111-gm3k1i.html" title="Dark net drug marketplaces begin to emulate organised street crime" style="">Dark net drug marketplaces begin to emulate organised street crime</a>
+                        <a href="http://www.smh.com.au/technology/technology-news/internet-explorer-officially-dies-but-is-your-workplace-ready-to-it-let-go-20160113-gm4tfg.html" title="Internet Explorer officially dies, but is your workplace ready to it let go?" style="">Internet Explorer officially dies, but is your workplace ready to it let go?</a>
+                    </li>
+                <li>
+                        <a href="http://www.smh.com.au/technology/sci-tech/food-allergies-in-infants-linked-to-hyperactive-immune-system-at-birth-20160112-gm4nvc.html" title="Food allergies in infants linked to hyperactive immune system at birth" style="">Food allergies in infants linked to hyperactive immune system at birth</a>
                     </li>
                 </ol>
         </div>
@@ -1407,28 +1407,25 @@ _wo_AutoCarousel = 0;
             <a href="http://www.canberratimes.com.au">Most viewed articles on Canberra Times</a><h5>Top 5 <a href="http://www.canberratimes.com.au/technology">Technology</a> articles</h5>
             <ol>
                 <li>
+                        <a href="http://www.canberratimes.com.au/technology/sci-tech/humans-breeding-with-neanderthals-created-allergies-researchers-find-20160108-gm1pyy.html" title="Humans breeding with Neanderthals created allergies, researchers find" style="">Humans breeding with Neanderthals created allergies, researchers find</a>
+                    </li>
+                <li>
                         <a href="http://www.canberratimes.com.au/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers" style="">Netflix to clamp down on geo-dodgers</a>
+                    </li>
+                <li>
+                        <a href="http://www.canberratimes.com.au/technology/technology-news/dark-net-drug-marketplaces-begin-to-emulate-organised-street-crime-20160111-gm3k1i.html" title="Dark net drug marketplaces begin to emulate organised street crime" style="">Dark net drug marketplaces begin to emulate organised street crime</a>
                     </li>
                 <li>
                         <a href="http://www.canberratimes.com.au/technology/sci-tech/food-allergies-in-infants-linked-to-hyperactive-immune-system-at-birth-20160112-gm4nvc.html" title="Food allergies in infants linked to hyperactive immune system at birth" style="">Food allergies in infants linked to hyperactive immune system at birth</a>
                     </li>
                 <li>
-                        <a href="http://www.canberratimes.com.au/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html" title="Newly discovered supernova the biggest and brightest explosion ever seen" style="">Newly discovered supernova the biggest and brightest explosion ever seen</a>
-                    </li>
-                <li>
-                        <a href="http://www.canberratimes.com.au/technology/sci-tech/humans-breeding-with-neanderthals-created-allergies-researchers-find-20160108-gm1pyy.html" title="Humans breeding with Neanderthals created allergies, researchers find" style="">Humans breeding with Neanderthals created allergies, researchers find</a>
-                    </li>
-                <li>
-                        <a href="http://www.canberratimes.com.au/technology/technology-news/internet-explorer-officially-dies-but-is-your-workplace-ready-to-it-let-go-20160113-gm4tfg.html" title="Internet Explorer officially dies, but is your workplace ready to it let go?" style="">Internet Explorer officially dies, but is your workplace ready to it let go?</a>
+                        <a href="http://www.canberratimes.com.au/technology/technology-news/jakarta-attacks-why-facebook-didnt-trigger-its-safety-check-feature-20160115-gm6jze.html" title="Jakarta attacks: why Facebook didn't trigger its Safety Check feature" style="">Jakarta attacks: why Facebook didn't trigger its Safety Check feature</a>
                     </li>
                 </ol>
         </div>
     <div class="s5 lAge">
             <a href="http://www.theage.com.au">Most viewed articles on The Age</a><h5>Top 5 <a href="http://www.theage.com.au/technology">Technology</a> articles</h5>
             <ol>
-                <li>
-                        <a href="http://www.theage.com.au/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html" title="Newly discovered supernova the biggest and brightest explosion ever seen" style="">Newly discovered supernova the biggest and brightest explosion ever seen</a>
-                    </li>
                 <li>
                         <a href="http://www.theage.com.au/technology/technology-news/netflix-to-clamp-down-on-geododgers-20160114-gm6b6j.html" title="Netflix to clamp down on geo-dodgers" style="">Netflix to clamp down on geo-dodgers</a>
                     </li>
@@ -1439,7 +1436,10 @@ _wo_AutoCarousel = 0;
                         <a href="http://www.theage.com.au/technology/sci-tech/food-allergies-in-infants-linked-to-hyperactive-immune-system-at-birth-20160112-gm4nvc.html" title="Food allergies in infants linked to hyperactive immune system at birth" style="">Food allergies in infants linked to hyperactive immune system at birth</a>
                     </li>
                 <li>
-                        <a href="http://www.theage.com.au/technology/technology-news/rise-of-the-artistic-machines-20160107-gm1o8v.html" title="Rise of the artistic machines" style="">Rise of the artistic machines</a>
+                        <a href="http://www.theage.com.au/technology/sci-tech/newly-discovered-supernova-the-biggest-and-brightest-explosion-ever-seen-20160114-gm6b85.html" title="Newly discovered supernova the biggest and brightest explosion ever seen" style="">Newly discovered supernova the biggest and brightest explosion ever seen</a>
+                    </li>
+                <li>
+                        <a href="http://www.theage.com.au/technology/technology-news/internet-explorer-officially-dies-but-is-your-workplace-ready-to-it-let-go-20160113-gm4tfg.html" title="Internet Explorer officially dies, but is your workplace ready to it let go?" style="">Internet Explorer officially dies, but is your workplace ready to it let go?</a>
                     </li>
                 </ol>
         </div>

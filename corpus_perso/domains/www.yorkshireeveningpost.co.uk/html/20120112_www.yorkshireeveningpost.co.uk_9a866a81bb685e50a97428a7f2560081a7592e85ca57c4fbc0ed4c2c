@@ -193,7 +193,7 @@
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="top" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -207,7 +207,7 @@
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="oop" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -901,7 +901,7 @@
 					
 				
 																<ul class="info cld flt-l fnt-13" aria-label="social links and weather">
-					<li class="flt-l first" title="Today's date" aria-haspopup="true">15/01/16</li>
+					<li class="flt-l first" title="Today's date" aria-haspopup="true">17/01/16</li>
 					
                   
     
@@ -911,8 +911,8 @@
 		    				
 
 <li class="flt-l">	
-	<span class='ico-weather ico-sunny'><a  class="show-weather-popup" href="#" title="5 day forecast">
-		-1&deg;C to 5&deg;C Sunny
+	<span class='ico-weather ico-cloudy'><a  class="show-weather-popup" href="#" title="5 day forecast">
+		1&deg;C to 2&deg;C Cloudy
 	</a></span>
 </li>  
 <div id="weather-lightbox" class="whyregister-lightbox dis-n">
@@ -920,54 +920,6 @@
 			<h3>Leeds 5-day weather forecast</h3>
 			<a href="" class="close" title="close">Close<b>X</b></a>
 		</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Friday
-					<span class="day-month">15 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny</p>
-  <div class='wico-weather wico-sunny'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">5&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North west</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">6 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Saturday
-					<span class="day-month">16 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">3&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-2&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">North west</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">8 mph</span>
-  </p>
-
-			</div>
 					<div class="weatherColLeft">
 				<p class="weekday weekDay flt-l">Sunday
 					<span class="day-month">17 Jan</span>
@@ -980,15 +932,15 @@
     <span class="day-month">2&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">1&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">East</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">6 mph</span>
+    <span class="day-month">5 mph</span>
   </p>
 
 			</div>
@@ -996,23 +948,23 @@
 				<p class="weekday weekDay flt-l">Monday
 					<span class="day-month">18 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Light sleet showers</p>
-  <div class='wico-weather wico-lightsleet_showers'>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
+    <span class="day-month">4&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">0&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">South</span>
+    <span class="day-month">South east</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">8 mph</span>
+    <span class="day-month">7 mph</span>
   </p>
 
 			</div>
@@ -1025,18 +977,66 @@
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">3&deg;c</span>
+    <span class="day-month">4&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">0&deg;c</span>
+    <span class="day-month">-2&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
   <p class="greycolor weatherParam">From
-    <span class="day-month">East</span>
+    <span class="day-month">North</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">3 mph</span>
+    <span class="day-month">4 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Wednesday
+					<span class="day-month">20 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">2&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">-2&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South west</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">2 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Thursday
+					<span class="day-month">21 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">3&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">1&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">8 mph</span>
   </p>
 
 			</div>
@@ -1497,7 +1497,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu1,artmpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1509,7 +1509,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="2x1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1550,7 +1550,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1562,7 +1562,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu2,artmpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1574,7 +1574,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1586,7 +1586,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1598,7 +1598,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1610,7 +1610,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1719,7 +1719,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1967,7 +1967,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1994,31 +1994,17 @@ if(typeof(OX) !== "undefined"){
 	
           
         <div id="topStories1" class="top-stories top-stories--vertical">
-	<h2 class="top-stories__title">More from Sport</h2>
+	<h2 class="top-stories__title">More from News</h2>
 	<ul class="top-stories__list">
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.yorkshireeveningpost.co.uk/news/weather-update-sub-zero-temperatures-until-next-tuesday-1-7674224 title="Danby village in the the North Yorkshire Moors was under a blanket of snow this morning with a temperature of -1. Picture: Ross Parry Agency" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7678029!/image/428945430.jpg_gen/derivatives/articleWidgetDeriv_140px/428945430.jpg" alt="Danby village in the the North Yorkshire Moors was under a blanket of snow this morning with a temperature of -1. Picture: Ross Parry Agency"></a>
+				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/updated-murder-investigation-after-body-found-outside-leeds-church-hall-1-7679820 title="Police investigation officers at the scene at Hyde Park, Leeds. Pic: Steve Riding" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679906!/image/1753134710.jpg_gen/derivatives/articleWidgetDeriv_140px/1753134710.jpg" alt="Police investigation officers at the scene at Hyde Park, Leeds. Pic: Steve Riding"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.yorkshireeveningpost.co.uk/news/weather-update-sub-zero-temperatures-until-next-tuesday-1-7674224 title="Weather update: Sub-zero temperatures until next Tuesday">Weather update: Sub-zero temperatures until next Tuesday</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.yorkshireeveningpost.co.uk/news" title="News">News</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/yep-exclusive-leeds-communities-fight-back-against-booze-fuelled-yobs-1-7677019 title="l" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677018!/image/2644249938.jpg_gen/derivatives/articleWidgetDeriv_140px/2644249938.jpg" alt="l"></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/yep-exclusive-leeds-communities-fight-back-against-booze-fuelled-yobs-1-7677019 title="YEP exclusive: Leeds communities fight back against booze-fuelled yobs">YEP exclusive: Leeds communities fight back against booze-fuelled yobs</a>
+					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/updated-murder-investigation-after-body-found-outside-leeds-church-hall-1-7679820 title="UPDATED: Murder investigation after body found outside Leeds church hall">UPDATED: Murder investigation after body found outside Leeds church hall</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories" title="Top Stories">Top Stories</a></div>
 			</div>
@@ -2027,12 +2013,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/man-injured-in-motorway-bridge-plunge-near-leeds-1-7677474 title="l" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677473!/image/1830172848.jpg_gen/derivatives/articleWidgetDeriv_140px/1830172848.jpg" alt="l"></a>
+				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/it-s-junior-snowtime-leeds-children-of-all-ages-enjoy-frozen-conditions-1-7680155 title="Children playing in the snow at Temple Newsam. Pictured Ewan Thomas from Cross Gates, takes off with the help of Adam Dykes.17th January 2016.Picture Jonathan Gawthorpe." class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680150!/image/3817385642.jpg_gen/derivatives/articleWidgetDeriv_140px/3817385642.jpg" alt="Children playing in the snow at Temple Newsam. Pictured Ewan Thomas from Cross Gates, takes off with the help of Adam Dykes.17th January 2016.Picture Jonathan Gawthorpe."></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/man-injured-in-motorway-bridge-plunge-near-leeds-1-7677474 title="Man injured in motorway bridge plunge near Leeds">Man injured in motorway bridge plunge near Leeds</a>
+					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/it-s-junior-snowtime-leeds-children-of-all-ages-enjoy-frozen-conditions-1-7680155 title="It’s Junior Snowtime! Leeds children of all ages enjoy frozen conditions">It’s Junior Snowtime! Leeds children of all ages enjoy frozen conditions</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories" title="Top Stories">Top Stories</a></div>
 			</div>
@@ -2041,12 +2027,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/leeds-in-call-for-3m-to-fund-work-on-floods-1-7678395 title="DECEMBER 2015: Flooding in Kirkstall Road at Viaduct Road. PIC: Bruce Rollinson" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7678394!/image/1995509247.jpg_gen/derivatives/articleWidgetDeriv_140px/1995509247.jpg" alt="DECEMBER 2015: Flooding in Kirkstall Road at Viaduct Road. PIC: Bruce Rollinson"></a>
+				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/cameron-challenged-on-leeds-sink-estates-proposal-1-7680046 title="PIC: Jonathan Gawthorpe" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680477!/image/3877173928.jpg_gen/derivatives/articleWidgetDeriv_140px/3877173928.jpg" alt="PIC: Jonathan Gawthorpe"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/leeds-in-call-for-3m-to-fund-work-on-floods-1-7678395 title="Leeds in call for £3m to fund work on floods">Leeds in call for £3m to fund work on floods</a>
+					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/cameron-challenged-on-leeds-sink-estates-proposal-1-7680046 title="Cameron challenged on Leeds ‘sink’ estates proposal">Cameron challenged on Leeds ‘sink’ estates proposal</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories" title="Top Stories">Top Stories</a></div>
 			</div>
@@ -2055,12 +2041,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/leeds-fans-now-face-lifetime-bans-if-they-misbehave-on-trains-1-7677257 title="Football fans caught misbehaving on the way to or from Leeds United games by rail could face penalties from the club" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7615954!/image/3443029353.jpg_gen/derivatives/articleWidgetDeriv_140px/3443029353.jpg" alt="Football fans caught misbehaving on the way to or from Leeds United games by rail could face penalties from the club"></a>
+				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/meet-the-10-year-old-leeds-children-s-mayor-who-wants-to-bring-city-s-young-together-1-7679996 title="Meet the 10-year-old Leeds children’s mayor who wants to bring city’s young together" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679995!/image/1124230213.jpg_gen/derivatives/articleWidgetDeriv_140px/1124230213.jpg" alt="Meet the 10-year-old Leeds children’s mayor who wants to bring city’s young together"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/leeds-fans-now-face-lifetime-bans-if-they-misbehave-on-trains-1-7677257 title="Leeds fans now face lifetime bans if they misbehave on trains">Leeds fans now face lifetime bans if they misbehave on trains</a>
+					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/meet-the-10-year-old-leeds-children-s-mayor-who-wants-to-bring-city-s-young-together-1-7679996 title="Meet the 10-year-old Leeds children’s mayor who wants to bring city’s young together">Meet the 10-year-old Leeds children’s mayor who wants to bring city’s young together</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories" title="Top Stories">Top Stories</a></div>
 			</div>
@@ -2069,12 +2055,26 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/leeds-communities-wage-war-on-drink-fuelled-hooliganism-1-7676799 title="." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7676792!/image/1385816671.jpg_gen/derivatives/articleWidgetDeriv_140px/1385816671.jpg" alt="."></a>
+				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/housing-market-looks-on-course-for-buoyant-2016-as-prices-rise-1-7680513 title="l" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680512!/image/2824834824.jpg_gen/derivatives/articleWidgetDeriv_140px/2824834824.jpg" alt="l"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/leeds-communities-wage-war-on-drink-fuelled-hooliganism-1-7676799 title="Leeds communities wage war on drink-fuelled hooliganism">Leeds communities wage war on drink-fuelled hooliganism</a>
+					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/housing-market-looks-on-course-for-buoyant-2016-as-prices-rise-1-7680513 title="Housing market looks on course for buoyant 2016 as prices rise">Housing market looks on course for buoyant 2016 as prices rise</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories" title="Top Stories">Top Stories</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--">
+				<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/talks-over-extra-leeds-primary-places-1-7680482 title="l" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680354!/image/1265209130.jpg_gen/derivatives/articleWidgetDeriv_140px/1265209130.jpg" alt="l"></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/talks-over-extra-leeds-primary-places-1-7680482 title="Talks over extra Leeds primary places">Talks over extra Leeds primary places</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories" title="Top Stories">Top Stories</a></div>
 			</div>
@@ -2157,7 +2157,34 @@ if(typeof(OX) !== "undefined"){
 						<li class="newseye-videos__list-item">
 			<article class="video-card newseye-videos__card">					
 				<div class="video-card__image">  
-					<a id="videoteaservideoTeaser-video-card__image-link-1" href="/video/news/freed-leeds-aid-worker-who-feared-jail-for-taking-pity-on-a-little-girl-4703991362001" class="responsive-img--16x9 video-card__image-link"
+					<a id="videoteaservideoTeaser-video-card__image-link-1" href="/video/sport/sheffield-wednesday-2-leeds-united-0-phil-hay-s-video-verdict-4708818093001" class="responsive-img--16x9 video-card__image-link"
+					   title="Sheffield Wednesday 2 Leeds United 0: Phil Hay's video verdict">
+					    						<img class="img video-card__img" 
+							 src="/videoimage/4708818093001"
+							 alt="Sheffield Wednesday 2 Leeds United 0: Phil Hay's video verdict" />					
+						<svg version="1.1" class="video-card__play-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+							<path d="M0,0v64h64V0H0z M18.666,52.605V12.447l29.061,20.079L18.666,52.605z"/>
+						</svg>	
+					</a>
+				</div>
+				<div class="video-card__text">
+					<h3 class="video-card__title js-ellipsize">
+						<a id="videoteaservideoTeaser-video-card__title-link-1" href="/video/sport/sheffield-wednesday-2-leeds-united-0-phil-hay-s-video-verdict-4708818093001" 
+						   title="Sheffield Wednesday 2 Leeds United 0: Phil Hay's video verdict">
+							Sheffield Wednesday 2 Leeds United 0: Phil Hay's video verdict
+						</a>
+					</h3>
+					<time class="video-card__meta">							
+						2:57
+					</time>
+				</div>
+			</article>
+		</li>
+			<li class="newseye-videos__list-item">
+			<article class="video-card newseye-videos__card">					
+				<div class="video-card__image">  
+					<a id="videoteaservideoTeaser-video-card__image-link-2" href="/video/news/freed-leeds-aid-worker-who-feared-jail-for-taking-pity-on-a-little-girl-4703991362001" class="responsive-img--16x9 video-card__image-link"
 					   title="Freed: Leeds aid worker who feared jail for taking pity on a little girl">
 					    						<img class="img video-card__img" 
 							 src="/videoimage/4703991362001"
@@ -2170,7 +2197,7 @@ if(typeof(OX) !== "undefined"){
 				</div>
 				<div class="video-card__text">
 					<h3 class="video-card__title js-ellipsize">
-						<a id="videoteaservideoTeaser-video-card__title-link-1" href="/video/news/freed-leeds-aid-worker-who-feared-jail-for-taking-pity-on-a-little-girl-4703991362001" 
+						<a id="videoteaservideoTeaser-video-card__title-link-2" href="/video/news/freed-leeds-aid-worker-who-feared-jail-for-taking-pity-on-a-little-girl-4703991362001" 
 						   title="Freed: Leeds aid worker who feared jail for taking pity on a little girl">
 							Freed: Leeds aid worker who feared jail for taking pity on a little girl
 						</a>
@@ -2184,7 +2211,7 @@ if(typeof(OX) !== "undefined"){
 			<li class="newseye-videos__list-item">
 			<article class="video-card newseye-videos__card">					
 				<div class="video-card__image">  
-					<a id="videoteaservideoTeaser-video-card__image-link-2" href="/video/news/video-rowing-record-attempt-all-set-for-photo-finish-4703937736001" class="responsive-img--16x9 video-card__image-link"
+					<a id="videoteaservideoTeaser-video-card__image-link-3" href="/video/news/video-rowing-record-attempt-all-set-for-photo-finish-4703937736001" class="responsive-img--16x9 video-card__image-link"
 					   title="Video: Rowing record attempt all set for photo finish">
 					    						<img class="img video-card__img" 
 							 src="/videoimage/4703937736001"
@@ -2197,40 +2224,13 @@ if(typeof(OX) !== "undefined"){
 				</div>
 				<div class="video-card__text">
 					<h3 class="video-card__title js-ellipsize">
-						<a id="videoteaservideoTeaser-video-card__title-link-2" href="/video/news/video-rowing-record-attempt-all-set-for-photo-finish-4703937736001" 
+						<a id="videoteaservideoTeaser-video-card__title-link-3" href="/video/news/video-rowing-record-attempt-all-set-for-photo-finish-4703937736001" 
 						   title="Video: Rowing record attempt all set for photo finish">
 							Video: Rowing record attempt all set for photo finish
 						</a>
 					</h3>
 					<time class="video-card__meta">							
 						1:37
-					</time>
-				</div>
-			</article>
-		</li>
-			<li class="newseye-videos__list-item">
-			<article class="video-card newseye-videos__card">					
-				<div class="video-card__image">  
-					<a id="videoteaservideoTeaser-video-card__image-link-3" href="/video/news/video-firefighters-tackle-huge-mill-blaze-in-batley-4703879665001" class="responsive-img--16x9 video-card__image-link"
-					   title="Video: Firefighters tackle huge mill blaze in Batley">
-					    						<img class="img video-card__img" 
-							 src="/videoimage/4703879665001"
-							 alt="Video: Firefighters tackle huge mill blaze in Batley" />					
-						<svg version="1.1" class="video-card__play-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-							<path d="M0,0v64h64V0H0z M18.666,52.605V12.447l29.061,20.079L18.666,52.605z"/>
-						</svg>	
-					</a>
-				</div>
-				<div class="video-card__text">
-					<h3 class="video-card__title js-ellipsize">
-						<a id="videoteaservideoTeaser-video-card__title-link-3" href="/video/news/video-firefighters-tackle-huge-mill-blaze-in-batley-4703879665001" 
-						   title="Video: Firefighters tackle huge mill blaze in Batley">
-							Video: Firefighters tackle huge mill blaze in Batley
-						</a>
-					</h3>
-					<time class="video-card__meta">							
-						0:26
 					</time>
 				</div>
 			</article>
@@ -2254,7 +2254,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/leeds.jp/top-stories" 
 			data-adtag-pos="mpu5" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunnyspells" 
+			data-additional=";weathertoday=cloudy;weathertomorrow=cloudy" 
 			data-nav="news,latest-news,top-stories"
 			data-pgid="14131780" 
 			data-trigger-once="gpt:ready"></div>					

@@ -46,15 +46,15 @@
 		s_tagemax="10000", 
 		s_tagemin="216", 
 		s_cuih="12145_3266", 
-		s_cuil="845_3507", 
-		s_cuim="12142_12141_12144_12143_488", 
+		s_cuil="3507_845", 
+		s_cuim="12142_12141_12143_12144_488", 
 		s_sbtyp="Headlines", 
 		s_tgender="All", 
 		s_furl="/diet/20120110/diabetes-medications-may-double-as-weight-loss-drugs", 
 		s_uk_user="false", 
 		s_account="webmdcom", 
 		s_server_type="1b", 
-		s_server="WFAWS12L-CON-08", 
+		s_server="WFAWS23L-CON-08", 
 		s_object_type="wbmd_cons_article", 
 		s_page_number="1", 
 		s_site_class="ooc", 
@@ -103,15 +103,7 @@
 		
 		
 		 
-	
-                  <script type="text/javascript">
-                    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(c,a){AKSB.q.push(["mark",c,a||(new Date).getTime()])};AKSB.measure=function(c,a,b){AKSB.q.push(["measure",c,a,b||(new Date).getTime()])};AKSB.done=function(c){AKSB.q.push(["done",c])};AKSB.mark("firstbyte",(new Date).getTime());
-                    AKSB.prof={custid:"132506",ustr:"",originlat:0,clientrtt:13,ghostip:"88.221.15.135",ipv6:false,pct:10,xhrtest:false,clientip:"193.49.229.71",requestid:"7b2722f",protocol:"",blver:2,akM:"g",akN:"ae",akTT:"O",akTX:"1",
-                    akTI:"7b2722f"};
-                    (function(c){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var b=document.getElementsByTagName("script"),b=b[b.length-1];b.parentNode.insertBefore(a,b);a=a.contentWindow.document;b=String.fromCharCode;c=b(60)+"body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+c+"';document.body.appendChild(js);\""+b(62);a.open().write(c);a.close()})(("https:"===document.location.protocol?
-                    "https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js");
-                  </script>
-                  </head>
+	</head>
 	
 	<body>
 		<section id="s1" class="section">
@@ -123,7 +115,7 @@
 		}
 	}
 </script><!-- ROMWidget ID:091e9c5e80edecd8.Missing XSLT or XSLT error in GenerateAndCacheContent. Failed to get XSL from IXSLTProvider --></div>
-			<div id="ContentPane2" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 101</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 90</li><li>iframewidth = 728</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 101</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1895717696</li><li>tmg = </li><li>transactionID = 203152449</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
+			<div id="ContentPane2" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 101</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 90</li><li>iframewidth = 728</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 101</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1395682865</li><li>tmg = </li><li>transactionID = 1801308109</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
 	var priTopId='2731', secTopId='';
 </script><div id="bannerAd_rdr"><div class="bannerAd_top_fmt"></div><div id="bannerAd_fmt" class="bannerAd_BG_fmt loaded"><div id="ads2-pos-101-ad_banner" class="ad_placeholder"></div></div></div><script>
 				webmd.ads2Consumer.defineAd({targets:{art:'091e9c5e809931f3',cc:'17',env:'&amp;env=0',hcent:'1004',leaf:'&amp;leaf=',mcent:'',mic:'',pt:'2731',sec:'',pug:'__',scent:'',tmg:'',tug:'',uri:'%2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs'},blockCodes:'_1694060_din_cust4_diet_e11_',id:'ads2-pos-101-ad_banner',pos:'101',sizes:[[728,90],[970, 90],[970,250]]});
@@ -478,7 +470,7 @@ requirejs(['article/2/article'],function(){
 					});
 				</script>
 </div></div>
-				<div id="ContentPane29" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 121</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 250</li><li>iframewidth = 300</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 121</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1895717696</li><li>tmg = </li><li>transactionID = 203152449</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
+				<div id="ContentPane29" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 121</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 250</li><li>iframewidth = 300</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 121</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1395682865</li><li>tmg = </li><li>transactionID = 1801308109</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
 	var priTopId='2731', secTopId='';
 </script><div id="rightAd_rdr"><div class="rightAd_top_fmt"></div><div id="rightAd_fmt" class="rightAd_BG_fmt loaded"><div id="ads2-pos-121-ad_rr_p1" class="ad_placeholder"></div></div><div class="rightAd_bottom_fmt"></div></div><div class="moduleSpacer_rdr"></div><script>
 				webmd.ads2Consumer.defineAd({targets:{art:'091e9c5e809931f3',cc:'17',env:'&amp;env=0',hcent:'1004',leaf:'&amp;leaf=',mcent:'',mic:'',pt:'2731',sec:'',pug:'__',scent:'',tmg:'',tug:'',uri:'%2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs'},blockCodes:'_1694060_din_cust4_diet_e11_',id:'ads2-pos-121-ad_rr_p1',pos:'121',sizes:[[300,250],[300, 600],[300,1050]]});
@@ -652,7 +644,7 @@ requirejs(['carousel/1/carousel'],function(carousel){
 <script>
 								webmd.oas = window.webmd.oas || {}; webmd.oas.mapping = window.webmd.oas.mapping || {};
 						webmd.oas.mapping['oas_recc'] = ['x14','x15','x16','x17','x18','x19','x20','x21']; </script></div>
-				<div id="ContentPane32" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 137</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 250</li><li>iframewidth = 300</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 137</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1895717696</li><li>tmg = </li><li>transactionID = 203152449</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
+				<div id="ContentPane32" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 137</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 250</li><li>iframewidth = 300</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 137</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1395682865</li><li>tmg = </li><li>transactionID = 1801308109</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
 	var priTopId='2731', secTopId='';
 </script><div id="rightAd_rdr"><div class="rightAd_top_fmt"></div><div id="rightAd_fmt" class="rightAd_BG_fmt loaded"><div id="ads2-pos-137-ad_rr_p2" class="ad_placeholder"></div></div><div class="rightAd_bottom_fmt"></div></div><div class="moduleSpacer_rdr"></div><script>
 				webmd.ads2Consumer.defineAd({targets:{art:'091e9c5e809931f3',cc:'17',env:'&amp;env=0',hcent:'1004',leaf:'&amp;leaf=',mcent:'',mic:'',pt:'2731',sec:'',pug:'__',scent:'',tmg:'',tug:'',uri:'%2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs'},blockCodes:'_1694060_din_cust4_diet_e11_',id:'ads2-pos-137-ad_rr_p2',pos:'137',sizes:[[300,251],[300, 250]]});
@@ -1127,11 +1119,11 @@ var chapters = [
 				<div id="ContentPane40" class="pane"></div>
 				<div id="ContentPane41" class="pane"></div>
 				<div id="ContentPane42" class="pane"></div>
-				<div id="ContentPane43" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 5000</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 1</li><li>iframewidth = 1</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 5000</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1895717696</li><li>tmg = </li><li>transactionID = 203152449</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
+				<div id="ContentPane43" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 5000</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 1</li><li>iframewidth = 1</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 5000</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1395682865</li><li>tmg = </li><li>transactionID = 1801308109</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
 	var priTopId='2731', secTopId='';
 </script><div class="centerAd_r1_rdr"><div id="centerAd_fmt" class="centerAd_BG_fmt"><div id="ads2-pos-5000-ad_cw1_icm" class="ad_placeholder"></div><script>
 				webmd.ads2Consumer.defineAd({targets:{art:'091e9c5e809931f3',cc:'17',env:'&amp;env=0',hcent:'1004',leaf:'&amp;leaf=',mcent:'',mic:'',pt:'2731',sec:'',pug:'__',scent:'',tmg:'',tug:'',uri:'%2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs'},blockCodes:'_1694060_din_cust4_diet_e11_',id:'ads2-pos-5000-ad_cw1_icm',pos:'5000',sizes:[1,2]});
-			</script></div></div><div class="moduleSpacer_rdr"></div><!--<ul><li>$adsystem = DFP</li><li>$pos = 5001</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 1</li><li>iframewidth = 1</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 5001</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1895717696</li><li>tmg = </li><li>transactionID = 203152449</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
+			</script></div></div><div class="moduleSpacer_rdr"></div><!--<ul><li>$adsystem = DFP</li><li>$pos = 5001</li><li>$print = false</li></ul><ul><li>adtype = iFRAME</li><li>iframeheight = 1</li><li>iframewidth = 1</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 5001</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1395682865</li><li>tmg = </li><li>transactionID = 1801308109</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
 	var priTopId='2731', secTopId='';
 </script><div class="centerAd_r1_rdr"><div id="centerAd_fmt" class="centerAd_BG_fmt"><div id="ads2-pos-5001-ad_cw2_icm" class="ad_placeholder"></div><script>
 				webmd.ads2Consumer.defineAd({targets:{art:'091e9c5e809931f3',cc:'17',env:'&amp;env=0',hcent:'1004',leaf:'&amp;leaf=',mcent:'',mic:'',pt:'2731',sec:'',pug:'__',scent:'',tmg:'',tug:'',uri:'%2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs'},blockCodes:'_1694060_din_cust4_diet_e11_',id:'ads2-pos-5001-ad_cw2_icm',pos:'5001',sizes:[1,2]});
@@ -1418,7 +1410,7 @@ requirejs(['carousel/1/carousel'],function(carousel){
 		</ul>
 	</div>
 </footer></div>
-			<div id="ContentPane65" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 901</li><li>$print = false</li></ul><ul><li>adtype = JavaScript</li><li>iframeheight = 1</li><li>iframewidth = 1</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 901</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1895717696</li><li>tmg = </li><li>transactionID = 203152449</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
+			<div id="ContentPane65" class="pane"><!--<ul><li>$adsystem = DFP</li><li>$pos = 901</li><li>$print = false</li></ul><ul><li>adtype = JavaScript</li><li>iframeheight = 1</li><li>iframewidth = 1</li><li>adserver = as.webmd.com</li></ul><ul><li>affiliate = 20</li><li>apg = 2731</li><li>artid = 091e9c5e809931f3</li><li>au1 = </li><li>au2 = </li><li>bc = _1694060_din_cust4_diet_e11_</li><li>brand = 0</li><li>cc = 17</li><li>env = &amp;env=0</li><li>hcent = 1004</li><li>mcent = </li><li>micro = </li><li>pkg = &amp;leaf=</li><li>pos = 901</li><li>pug = __</li><li>scent = </li><li>sec = </li><li>segval = </li><li>site = 2</li><li>tile = 1395682865</li><li>tmg = </li><li>transactionID = 1801308109</li><li>tug = </li><li>uri = %2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs</li></ul>--><script>
 	var priTopId='2731', secTopId='';
 </script><div id="ads2-pos-901-1x1ad" class="ad_placeholder" style="display:none;"></div><script>
 				webmd.ads2Consumer.defineAd({targets:{art:'091e9c5e809931f3',cc:'17',env:'&amp;env=0',hcent:'1004',leaf:'&amp;leaf=',mcent:'',mic:'',pt:'2731',sec:'',pug:'__',scent:'',tmg:'',tug:'',uri:'%2fdiet%2f20120110%2fdiabetes-medications-may-double-as-weight-loss-drugs'},blockCodes:'_1694060_din_cust4_diet_e11_',id:'ads2-pos-901-1x1ad',pos:'901',sizes:[1,1]});
@@ -1482,7 +1474,7 @@ requirejs(['carousel/1/carousel'],function(carousel){
 </script></div>
 			<div id="ContentPane72" class="pane"></div>
 		</section>
-		<script type="text/javascript" src="http://img.webmd.com/bi_common/bi_consumer.js?d=1/15/2016"></script>
+		<script type="text/javascript" src="http://img.webmd.com/bi_common/bi_consumer.js?d=1/17/2016"></script>
 
 		
 		<script type="text/javascript">

@@ -119,7 +119,7 @@ window.magnum.processFlags(["limitFabrikSave","facebookOauthButton","videoVHSCov
 }
 </script>
 
-    	</head><body class="single single-post postid-16135 blog-universal nyt-blog-india" id="" data-env="production" data-region="ewr1">
+    	</head><body class="single single-post postid-16135 blog-universal nyt-blog-india" id="" data-env="production" data-region="sea1">
 	<div id="shell" class="shell">
 			<header id="masthead" class="masthead masthead-theme-standard" role="banner">
     <div class="container">
@@ -1048,5 +1048,5 @@ require(['foundation/main'], function () {
 <div id="prop2" class="ad prop2-ad hidden"></div>
 <div id="Anchor" class="ad anchor-ad hidden"></div>
 <div id="ADX_CLIENTSIDE" class="ad adx-clientside-ad hidden"></div>
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"5164608","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRtQWV9TFxtCDkk=","queueTime":0,"applicationTime":50,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"5164156","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRtQWV9TFxtCDkk=","queueTime":0,"applicationTime":67,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body>
 </html>

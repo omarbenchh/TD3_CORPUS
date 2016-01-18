@@ -108,37 +108,13 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
 
   <div class="container">
 
-    <div id="ads-top-banner" class="ads"><img src="/assets/images/nownews_new.png"></div>
+    <!-- <div id="ads-top-banner" class="ads"><img src="/assets/images/nownews_new.png"></div> -->
 
     <a href="/" title="首頁" rel="home" class="header__logo" id="logo">
       <img src="/assets/images/logo.gif">
     </a>
 
     <div id="ads-logo-right" class="ads"></div>
-
-    <div id="presidential_election_started" class="ads"></div>
-
-    <script type="text/javascript">
-      $('#presidential_election_started').countdown('2016/01/16 16:00', function(event) {
-        $(this).html(event.strftime('剩餘 %w 週 %d 天 %H:%M:%S'));
-        $(this).html(event.strftime('' +
-          '<div class="countdown">' +
-            '<div class="countdown_time_title">大選開票倒數</div>' +
-            '<div class="countdown_time_block">' +
-              '<p>%d天</p>' +
-            '</div>' +
-            '<div class="countdown_time_block">' +
-              '<p>%H時</p>' +
-            '</div>' +
-            '<div class="countdown_time_block">' +
-              '<p>%M分</p>' +
-            '</div>' +
-            '<div class="countdown_time_block">' +
-              '<p>%S秒</p>' +
-            '</div>' +
-          '</div>'));
-      });
-    </script>
 
     <!-- top_menu -->
     <nav class="top_menu">
@@ -407,10 +383,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961745" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=180&q=60&src=http%3A%2F%2Fs.nownews.com%2F5e%2Fa3%2F5ea3ad1fceffec4e3b32acf89ec1be62.jpg">
-            <h2>突擊A片現場　工作人員不好當</h2>
-            <p>[國際中心／台北報導] 許多男生都喜歡看A片，但你知道A片拍攝現場究竟需要準備什麼、花費的時間有多長嗎？</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964235" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=180&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc6%2F98%2Fc698683bc3f4a9e587bdc1c19717d6e8.jpg">
+            <h2>美媒：除役AV-8戰機美擬售台灣</h2>
+            <p>[記者呂炯昌／綜合報導]  美國媒體報導，面對中國大陸遽增的飛彈威脅，美國海軍陸戰隊除役的AV-8B海獵鷹</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -438,37 +414,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961285" target="_blank"><!-- 連結到文章 -->
-              <h3>馬臉書催票：朱一定做得比我更好！</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963888" target="_blank"><!-- 連結到文章 -->
+              <h3>余天怒嗆黃安垃圾　早就想找人修理</h3>
             </a>
-              <p>[記者王鼎鈞／台北報導] 明天，就是中華民國正副總統與立法委員選舉的投票日了。總統馬英九今（15）日一早就 (2016/01/15)</p>
+              <p>[娛樂中心／綜合報導] 黃安自以為正義害慘一大票藝人，尤其是遠在韓國努力的「TWICE」成員周子瑜，還被 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961628" target="_blank"><!-- 連結到文章 -->
-              <h3>這員工超霸氣　遞辭職信飆罵老闆</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963897" target="_blank"><!-- 連結到文章 -->
+              <h3>小S開心回歸平淡　雨天也溜許老三</h3>
             </a>
-              <p>[生活中心／台北報導] 在辭職時都會遞上辭職信，但你敢寫下對於老闆的所有怨言嗎？一位網友在臉書社團《爆料 (2016/01/15)</p>
+              <p>[娛樂中心／綜合報導] 《康熙來了》14日播出最後一集，讓粉絲們又哭又笑，只能感嘆一個時代的結束，主持人 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961745" target="_blank"><!-- 連結到文章 -->
-              <h3>突擊A片現場　工作人員不好當</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964213" target="_blank"><!-- 連結到文章 -->
+              <h3>國民黨18日中常會　黨魁大戲登場</h3>
             </a>
-              <p>[國際中心／台北報導] 許多男生都喜歡看A片，但你知道A片拍攝現場究竟需要準備什麼、花費的時間有多長嗎？ (2016/01/15)</p>
+              <p>[記者王鼎鈞／台北報導] 國民黨總統立委選舉慘敗，黨主席朱立倫宣布請辭，國民黨18日將舉行臨時中常會，朱立 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962107" target="_blank"><!-- 連結到文章 -->
-              <h3>黃安觸「最高禁忌」　他出面說話！</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964235" target="_blank"><!-- 連結到文章 -->
+              <h3>美媒：除役AV-8戰機美擬售台灣</h3>
             </a>
-              <p>[娛樂中心／綜合報導] 黃安移居大陸多年、自封「台獨剋星」，近期他像發瘋似的連續舉報盧廣仲、林宥嘉、NO (2016/01/15)</p>
+              <p>[記者呂炯昌／綜合報導]  美國媒體報導，面對中國大陸遽增的飛彈威脅，美國海軍陸戰隊除役的AV-8B海獵鷹 (2016/01/17)</p>
           </li>
           
  
@@ -705,10 +681,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1957543" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fe8%2Fc2%2Fe8c263998e24a090800ec04a41223592.jpg">
-            <h2>失戀後你要多久才能復活</h2>
-            <p>[文／科技紫微網] 失戀總是讓人痛苦的，但是我們也不能總是沉浸在失戀的痛苦中，不走出來，幸福也就不會</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1961888" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F0c%2F1c%2F0c1cfdaa9a75e1b9fb30bb9d28daec9a.jpg">
+            <h2>12星座0118～0124愛情運</h2>
+            <p>[文／命理大街摘星工廠星座館] 本周愛情運勢前五名：魔羯座、雙魚座、獅子座、天蠍座、天秤座。</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -736,37 +712,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1949990" target="_blank"><!-- 連結到文章 -->
-              <h3>0111日～0117日趨吉避凶榜</h3>
-            </a>
-              <p>[文／運勢一點通　陳哲毅老師] 本週生肖「雞」求職者要小心遇到騙人的公司，對於天花亂墜的內容，千萬不要當真上當； (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1957398" target="_blank"><!-- 連結到文章 -->
-              <h3>會被戀人當作提款機的可憐蟲</h3>
-            </a>
-              <p>[文／科技紫微網] 錢不是萬能，但沒有錢卻萬萬不能，甚至連愛情也難免會與金錢糾葛在一起。於是，有一些 (2016/01/13)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1957481" target="_blank"><!-- 連結到文章 -->
-              <h3>對這些星座女當眾表白易遭致失敗</h3>
-            </a>
-              <p>[文／科技紫微網] 到底向哪些星座女們當眾表白，最有可能被拒絕呢？ (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1957543" target="_blank"><!-- 連結到文章 -->
               <h3>失戀後你要多久才能復活</h3>
             </a>
               <p>[文／科技紫微網] 失戀總是讓人痛苦的，但是我們也不能總是沉浸在失戀的痛苦中，不走出來，幸福也就不會 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1961888" target="_blank"><!-- 連結到文章 -->
+              <h3>12星座0118～0124愛情運</h3>
+            </a>
+              <p>[文／命理大街摘星工廠星座館] 本周愛情運勢前五名：魔羯座、雙魚座、獅子座、天蠍座、天秤座。 (2016/01/17)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1961932" target="_blank"><!-- 連結到文章 -->
+              <h3>12星座0117～0123運勢</h3>
+            </a>
+              <p>[文／命理大街摘星工廠星座館] 本週「寶瓶座」在感情方面有困擾，好幾次因別人的緣故而心情不佳；而「天蠍座」在愛情 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1961944" target="_blank"><!-- 連結到文章 -->
+              <h3>12星座0117～0123運勢</h3>
+            </a>
+              <p>[文／命理大街摘星工廠星座館] 本週「牡羊座」財運不佳——開銷多，吃吃喝喝或買物品的支出，最好能忍則忍，或控制一 (2016/01/16)</p>
           </li>
           
  
@@ -876,10 +852,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962176" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fea%2Fb1%2Feab10a33d06369e8ef4ad686e6c03b9c.jpg">
-            <h2>宋楚瑜：放下藍綠惡鬥，快樂投票</h2>
-            <p>[記者孫偉倫／台北報導] 大選前最後一日，親民黨總統候選人宋楚瑜與搭配競選副手的民國黨主席徐欣瑩15日參加</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1963112" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd2%2F98%2Fd2983a7865d2d851b121d5205f63e5b9.jpg">
+            <h2>探／美豬難題待解　朝野攜手第一步</h2>
+            <p>[記者王鼎鈞／分析報導] 大選已過，牽涉TIFA談判、加入TPP的美豬議題仍是焦點，新國會勢必盡快達成共識</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -907,37 +883,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962171" target="_blank"><!-- 連結到文章 -->
-              <h3>宋楚瑜：當選後推動二輪選舉</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1963122" target="_blank"><!-- 連結到文章 -->
+              <h3>看守內閣期　蔡英文不能迴避的挑戰</h3>
             </a>
-              <p>[記者孫偉倫／台北報導] 親民黨總統候選人宋楚瑜與搭配競選副手的民國黨主席徐欣瑩15日參加聯合造勢晚會，宋 (2016/01/15)</p>
+              <p>[記者楊淳卉／分析報導] 蔡英文終於走完她的最後一里路，高票當選新政府領導人。在5月20日之前，總統馬英九 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962176" target="_blank"><!-- 連結到文章 -->
-              <h3>宋楚瑜：放下藍綠惡鬥，快樂投票</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964341" target="_blank"><!-- 連結到文章 -->
+              <h3>民國黨立委席次掛蛋　徐欣瑩辭黨魁</h3>
             </a>
-              <p>[記者孫偉倫／台北報導] 大選前最後一日，親民黨總統候選人宋楚瑜與搭配競選副手的民國黨主席徐欣瑩15日參加 (2016/01/15)</p>
+              <p>[政治中心／綜合報導]  民國黨主席徐欣瑩參選副總統失敗，民國黨也未能取得立委席次，徐欣瑩17日宣布辭去 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962407" target="_blank"><!-- 連結到文章 -->
-              <h3>藍選前之夜湧五萬人　表演多氣氛歡</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964441" target="_blank"><!-- 連結到文章 -->
+              <h3>行政院今臨時院會　毛內閣總辭</h3>
             </a>
-              <p>[記者李鴻典／台北報導]  選前之夜，國民黨在新北市舉辦台灣團結之夜晚會，要為國民黨正副總統候選人朱立倫、 (2016/01/15)</p>
+              <p>[記者王鼎鈞／台北報導] 國民黨總統立委選舉慘敗，行政院長毛治國在黨主席朱立倫宣布請辭後，也對外發出請辭聲 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962523" target="_blank"><!-- 連結到文章 -->
-              <h3>披綠讓台灣沉淪！柱：圓圈蓋朱頭上</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964456" target="_blank"><!-- 連結到文章 -->
+              <h3>蔡英文：重啟台日自由貿易協定協商</h3>
             </a>
-              <p>[記者李鴻典／台北報導] 選前之夜狂催票！立法院副院長洪秀柱15日在新北市的國民黨選前之夜活動上呼籲，一定 (2016/01/15)</p>
+              <p>[記者楊繼宇／台北報導] 甫當選中華民國第14任總統的民進黨主席蔡英文今（17）日會見日本交流協會會長大橋 (2016/01/17)</p>
           </li>
           
  
@@ -1067,10 +1043,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961502" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fb4%2Fdd%2Fb4dd32de0effe75bc5ca1944330e2a8a.JPG">
-            <h2>林小愛／墨西哥絕美秘境探險</h2>
-            <p>[文／林小愛] 越冷門的地方越有驚喜，搭了一段巴士兩段Taxi 一趟船，來到宛如亞馬遜雨林的神秘</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1963122" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F99%2F10%2F991055c5bb29cb6def2634f06371f9e0.jpg">
+            <h2>看守內閣期　蔡英文不能迴避的挑戰</h2>
+            <p>[記者楊淳卉／分析報導] 蔡英文終於走完她的最後一里路，高票當選新政府領導人。在5月20日之前，總統馬英九</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -1098,37 +1074,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1957756" target="_blank"><!-- 連結到文章 -->
-              <h3>倩兒／僅台幣300　即享立食美味</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1961760" target="_blank"><!-- 連結到文章 -->
+              <h3>民進黨完全執政　透視內部矛盾因子</h3>
             </a>
-              <p>[文／Adrianne倩兒]  在日本「立食」文化非常盛行，幾乎在每個車站都可以看到不同的立食店。「立食」通常 (2016/01/13)</p>
+              <p>[記者楊淳卉／分析報導] 2016總統選舉蔡英文大勝，民進黨在113席立委中囊括68席單獨過半，完成台灣政 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1957899" target="_blank"><!-- 連結到文章 -->
-              <h3>不分區缺額爭議　須修選罷法補缺失</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1962174" target="_blank"><!-- 連結到文章 -->
+              <h3>觀察／藍營慘敗　王金平下一步..</h3>
             </a>
-              <p>[記者林人芳／台北報導] 第三勢力的崛起，讓大黨面臨政黨票遭割分的局勢，時代力量在這次立委選戰中，支持度持 (2016/01/13)</p>
+              <p>[記者孫偉倫／分析報導] 大選結果終於揭曉，執政的國民黨不出所料慘敗，立法院長王金平未來恐降格成為陽春立委 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1959550" target="_blank"><!-- 連結到文章 -->
-              <h3>探／憂小黨分食　兩大黨急催政黨票</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1963122" target="_blank"><!-- 連結到文章 -->
+              <h3>看守內閣期　蔡英文不能迴避的挑戰</h3>
             </a>
-              <p>[記者林人芳／分析報導] 距離今年總統大選吐剩三天的時間，各政黨總統候選人及立委候選人，紛紛使出看家本領進 (2016/01/14)</p>
+              <p>[記者楊淳卉／分析報導] 蔡英文終於走完她的最後一里路，高票當選新政府領導人。在5月20日之前，總統馬英九 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961502" target="_blank"><!-- 連結到文章 -->
-              <h3>林小愛／墨西哥絕美秘境探險</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963738" target="_blank"><!-- 連結到文章 -->
+              <h3>民進黨拿下主導權　國會改革可期？</h3>
             </a>
-              <p>[文／林小愛] 越冷門的地方越有驚喜，搭了一段巴士兩段Taxi 一趟船，來到宛如亞馬遜雨林的神秘 (2016/01/15)</p>
+              <p>[記者林人芳／台北報導] 第九屆立法委員改選今天出爐，民進黨一舉拿下68席，不僅取得國會主導權，也讓國會首 (2016/01/17)</p>
           </li>
           
  
@@ -1147,10 +1123,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/13/1958901" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Ff8%2Fae%2Ff8aec298863607ad35acd8b7644855e4.jpg">
-            <h2>小妤ㄦ／自己缺點　不該別人來負責</h2>
-            <p>[文／小妤ㄦ] 『如果妳跟我交往，我就戒菸。』乍看之下好像你能為對方改變一件事，但其實這不但只是</p><h6>(2016/01/13)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963702" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc6%2F85%2Fc68567c212c1107a95457ca7c5172e11.jpg">
+            <h2>心情隨筆》小妤ㄦ／簽個名吧！</h2>
+            <p>[文／小妤ㄦ] 我覺得我的名字很特別，你們也這樣覺得自己的名字特別嗎？我姓詹，而我從小到大認識的</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -1175,15 +1151,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/06/1950124" target="_blank"><!-- 連結到文章 -->
-              <h3>小妤ㄦ／2016新年快樂</h3>
-            </a>
-              <p>[文／小妤ㄦ] 邁向新的一年，365天裡，轉眼一瞬間，彷彿才剛許下新年願望，又到了54321倒數 (2016/01/06)</p>
-          </li>
-          
  
  
           <li>
@@ -1212,6 +1179,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963702" target="_blank"><!-- 連結到文章 -->
+              <h3>心情隨筆》小妤ㄦ／簽個名吧！</h3>
+            </a>
+              <p>[文／小妤ㄦ] 我覺得我的名字很特別，你們也這樣覺得自己的名字特別嗎？我姓詹，而我從小到大認識的 (2016/01/16)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -1233,10 +1209,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962176" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fea%2Fb1%2Feab10a33d06369e8ef4ad686e6c03b9c.jpg">
-            <h2>宋楚瑜：放下藍綠惡鬥，快樂投票</h2>
-            <p>[記者孫偉倫／台北報導] 大選前最後一日，親民黨總統候選人宋楚瑜與搭配競選副手的民國黨主席徐欣瑩15日參加</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1963112" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd2%2F98%2Fd2983a7865d2d851b121d5205f63e5b9.jpg">
+            <h2>探／美豬難題待解　朝野攜手第一步</h2>
+            <p>[記者王鼎鈞／分析報導] 大選已過，牽涉TIFA談判、加入TPP的美豬議題仍是焦點，新國會勢必盡快達成共識</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -1264,37 +1240,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962171" target="_blank"><!-- 連結到文章 -->
-              <h3>宋楚瑜：當選後推動二輪選舉</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1963122" target="_blank"><!-- 連結到文章 -->
+              <h3>看守內閣期　蔡英文不能迴避的挑戰</h3>
             </a>
-              <p>[記者孫偉倫／台北報導] 親民黨總統候選人宋楚瑜與搭配競選副手的民國黨主席徐欣瑩15日參加聯合造勢晚會，宋 (2016/01/15)</p>
+              <p>[記者楊淳卉／分析報導] 蔡英文終於走完她的最後一里路，高票當選新政府領導人。在5月20日之前，總統馬英九 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962176" target="_blank"><!-- 連結到文章 -->
-              <h3>宋楚瑜：放下藍綠惡鬥，快樂投票</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964341" target="_blank"><!-- 連結到文章 -->
+              <h3>民國黨立委席次掛蛋　徐欣瑩辭黨魁</h3>
             </a>
-              <p>[記者孫偉倫／台北報導] 大選前最後一日，親民黨總統候選人宋楚瑜與搭配競選副手的民國黨主席徐欣瑩15日參加 (2016/01/15)</p>
+              <p>[政治中心／綜合報導]  民國黨主席徐欣瑩參選副總統失敗，民國黨也未能取得立委席次，徐欣瑩17日宣布辭去 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962407" target="_blank"><!-- 連結到文章 -->
-              <h3>藍選前之夜湧五萬人　表演多氣氛歡</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964441" target="_blank"><!-- 連結到文章 -->
+              <h3>行政院今臨時院會　毛內閣總辭</h3>
             </a>
-              <p>[記者李鴻典／台北報導]  選前之夜，國民黨在新北市舉辦台灣團結之夜晚會，要為國民黨正副總統候選人朱立倫、 (2016/01/15)</p>
+              <p>[記者王鼎鈞／台北報導] 國民黨總統立委選舉慘敗，行政院長毛治國在黨主席朱立倫宣布請辭後，也對外發出請辭聲 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962523" target="_blank"><!-- 連結到文章 -->
-              <h3>披綠讓台灣沉淪！柱：圓圈蓋朱頭上</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964456" target="_blank"><!-- 連結到文章 -->
+              <h3>蔡英文：重啟台日自由貿易協定協商</h3>
             </a>
-              <p>[記者李鴻典／台北報導] 選前之夜狂催票！立法院副院長洪秀柱15日在新北市的國民黨選前之夜活動上呼籲，一定 (2016/01/15)</p>
+              <p>[記者楊繼宇／台北報導] 甫當選中華民國第14任總統的民進黨主席蔡英文今（17）日會見日本交流協會會長大橋 (2016/01/17)</p>
           </li>
           
  
@@ -1423,10 +1399,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962498" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F90%2F0f%2F900fa9784e68de23346021b42d18cf1f.JPG">
-            <h2>大樂透摃龜　今彩539頭獎1注中</h2>
-            <p>[記者顏真真／台北報導] 第105000005期大樂透15日晚間開獎，開出的中獎號碼為6、11、16、17</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964337" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1f%2Fa2%2F1fa2ded8654119e1072aac75edd9c344.JPG">
+            <h2>央行備戰　台幣短期恐破34</h2>
+            <p>[記者顏真真／台北報導] 總統大選結果出爐，台灣將再經歷第三次政黨輪替，並出現史上首位女總統，不過，在面對</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -1454,37 +1430,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961527" target="_blank"><!-- 連結到文章 -->
-              <h3>3柱香煞到宗祠　美麗華黃家殞5命</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963940" target="_blank"><!-- 連結到文章 -->
+              <h3>加油且慢！中油再降汽柴油1.1元</h3>
             </a>
-              <p>[記者劉建宏／台北報導] 去年11月5日，美麗華集團黃家發生命案，1天之內，3房3子全亡。宜蘭廣成宮濟公活 (2016/01/15)</p>
+              <p>[記者彭夢竺／台北報導] 還沒加油的民眾可以再等等！中油公司今（17）日宣布，將自明（18）日凌晨0時起調 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962242" target="_blank"><!-- 連結到文章 -->
-              <h3>一零四去年自結營收年增3.68%</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964141" target="_blank"><!-- 連結到文章 -->
+              <h3>把握鋒面　石門、寶二水庫人工增雨</h3>
             </a>
-              <p>[記者曹逸雯／台北報導] 一零四資訊科技15日公布2015年全年自結合併營收為25.53億元，年增3.68 (2016/01/15)</p>
+              <p>[財經中心／台北報導] 氣象局今（17）日表示，在鋒面的影響下，全台各地區整日都會有陣性降雨，並且局部地 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962375" target="_blank"><!-- 連結到文章 -->
-              <h3>我與加拿大簽署避免雙重課稅協議</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964280" target="_blank"><!-- 連結到文章 -->
+              <h3>存老本　退休規畫掌握3大重點</h3>
             </a>
-              <p>[記者曹逸雯／台北報導] 財政部15日晚間表示，台灣與加拿大「避免所得稅雙重課稅及防杜逃稅協議」已分別在渥 (2016/01/15)</p>
+              <p>[記者顏真真／台北報導] 根據內政部統計，國人2014年平均壽命男性為76.72歲、女性為83.19歲；勞 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962498" target="_blank"><!-- 連結到文章 -->
-              <h3>大樂透摃龜　今彩539頭獎1注中</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964337" target="_blank"><!-- 連結到文章 -->
+              <h3>央行備戰　台幣短期恐破34</h3>
             </a>
-              <p>[記者顏真真／台北報導] 第105000005期大樂透15日晚間開獎，開出的中獎號碼為6、11、16、17 (2016/01/15)</p>
+              <p>[記者顏真真／台北報導] 總統大選結果出爐，台灣將再經歷第三次政黨輪替，並出現史上首位女總統，不過，在面對 (2016/01/18)</p>
           </li>
           
  
@@ -1538,10 +1514,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961400" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F96%2F4e%2F964e139d2eaa30a73616a1e9b5d0bd03.JPG">
-            <h2>名媛豪宅法拍　一底價拍出、一流標</h2>
-            <p>[記者曹逸雯／台北報導] 名媛吳麗玲名下的2戶豪宅法拍，其中位於信義區的「寶徠花園廣場」23樓豪宅，以二拍</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963680" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fdd%2Ff5%2Fddf53ea4bd6605c630e8c3244aa92792.jpg">
+            <h2>選後房市可望進入「價跌量穩」期</h2>
+            <p>[記者曹逸雯／台北報導] 總統大選順利落幕，包含上個月的美國升息以及今年起實施的房地合一，一年多來影響房市</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -1566,15 +1542,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1958433" target="_blank"><!-- 連結到文章 -->
-              <h3>房市警訊？國銀房貸逾放比罕見攀升</h3>
-            </a>
-              <p>[記者顏真真／台北報導] 根據金管會最新統計，去(2015)年11月底本國銀行購置住宅貸款及建築貸款逾期放 (2016/01/13)</p>
-          </li>
-          
  
  
           <li>
@@ -1603,6 +1570,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963680" target="_blank"><!-- 連結到文章 -->
+              <h3>選後房市可望進入「價跌量穩」期</h3>
+            </a>
+              <p>[記者曹逸雯／台北報導] 總統大選順利落幕，包含上個月的美國升息以及今年起實施的房地合一，一年多來影響房市 (2016/01/17)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -1618,10 +1594,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962498" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F90%2F0f%2F900fa9784e68de23346021b42d18cf1f.JPG">
-            <h2>大樂透摃龜　今彩539頭獎1注中</h2>
-            <p>[記者顏真真／台北報導] 第105000005期大樂透15日晚間開獎，開出的中獎號碼為6、11、16、17</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964337" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1f%2Fa2%2F1fa2ded8654119e1072aac75edd9c344.JPG">
+            <h2>央行備戰　台幣短期恐破34</h2>
+            <p>[記者顏真真／台北報導] 總統大選結果出爐，台灣將再經歷第三次政黨輪替，並出現史上首位女總統，不過，在面對</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -1649,24 +1625,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961591" target="_blank"><!-- 連結到文章 -->
-              <h3>繳醫療費　4大醫院接受晶片金融卡</h3>
-            </a>
-              <p>[記者顏真真／台北報導] 財金公司表示，「晶片金融卡」付費已成為金融機構搶攻「電子支付」版圖的重要利器，其 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961835" target="_blank"><!-- 連結到文章 -->
-              <h3>台幣翻貶破33.8　近7年新低　</h3>
-            </a>
-              <p>[記者顏真真／台北報導] 在人民幣小貶、韓元彈升後又回貶，加上中央銀行尾盤摜壓，新台幣兌美元15日收盤貶破 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1962120" target="_blank"><!-- 連結到文章 -->
               <h3>銀行祭高利　人民幣存款終止連5跌</h3>
             </a>
@@ -1680,6 +1638,24 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>大樂透摃龜　今彩539頭獎1注中</h3>
             </a>
               <p>[記者顏真真／台北報導] 第105000005期大樂透15日晚間開獎，開出的中獎號碼為6、11、16、17 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964280" target="_blank"><!-- 連結到文章 -->
+              <h3>存老本　退休規畫掌握3大重點</h3>
+            </a>
+              <p>[記者顏真真／台北報導] 根據內政部統計，國人2014年平均壽命男性為76.72歲、女性為83.19歲；勞 (2016/01/17)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964337" target="_blank"><!-- 連結到文章 -->
+              <h3>央行備戰　台幣短期恐破34</h3>
+            </a>
+              <p>[記者顏真真／台北報導] 總統大選結果出爐，台灣將再經歷第三次政黨輪替，並出現史上首位女總統，不過，在面對 (2016/01/18)</p>
           </li>
           
  
@@ -2018,10 +1994,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962498" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F90%2F0f%2F900fa9784e68de23346021b42d18cf1f.JPG">
-            <h2>大樂透摃龜　今彩539頭獎1注中</h2>
-            <p>[記者顏真真／台北報導] 第105000005期大樂透15日晚間開獎，開出的中獎號碼為6、11、16、17</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964337" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1f%2Fa2%2F1fa2ded8654119e1072aac75edd9c344.JPG">
+            <h2>央行備戰　台幣短期恐破34</h2>
+            <p>[記者顏真真／台北報導] 總統大選結果出爐，台灣將再經歷第三次政黨輪替，並出現史上首位女總統，不過，在面對</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -2049,37 +2025,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961527" target="_blank"><!-- 連結到文章 -->
-              <h3>3柱香煞到宗祠　美麗華黃家殞5命</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963940" target="_blank"><!-- 連結到文章 -->
+              <h3>加油且慢！中油再降汽柴油1.1元</h3>
             </a>
-              <p>[記者劉建宏／台北報導] 去年11月5日，美麗華集團黃家發生命案，1天之內，3房3子全亡。宜蘭廣成宮濟公活 (2016/01/15)</p>
+              <p>[記者彭夢竺／台北報導] 還沒加油的民眾可以再等等！中油公司今（17）日宣布，將自明（18）日凌晨0時起調 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962242" target="_blank"><!-- 連結到文章 -->
-              <h3>一零四去年自結營收年增3.68%</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964141" target="_blank"><!-- 連結到文章 -->
+              <h3>把握鋒面　石門、寶二水庫人工增雨</h3>
             </a>
-              <p>[記者曹逸雯／台北報導] 一零四資訊科技15日公布2015年全年自結合併營收為25.53億元，年增3.68 (2016/01/15)</p>
+              <p>[財經中心／台北報導] 氣象局今（17）日表示，在鋒面的影響下，全台各地區整日都會有陣性降雨，並且局部地 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962375" target="_blank"><!-- 連結到文章 -->
-              <h3>我與加拿大簽署避免雙重課稅協議</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964280" target="_blank"><!-- 連結到文章 -->
+              <h3>存老本　退休規畫掌握3大重點</h3>
             </a>
-              <p>[記者曹逸雯／台北報導] 財政部15日晚間表示，台灣與加拿大「避免所得稅雙重課稅及防杜逃稅協議」已分別在渥 (2016/01/15)</p>
+              <p>[記者顏真真／台北報導] 根據內政部統計，國人2014年平均壽命男性為76.72歲、女性為83.19歲；勞 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962498" target="_blank"><!-- 連結到文章 -->
-              <h3>大樂透摃龜　今彩539頭獎1注中</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964337" target="_blank"><!-- 連結到文章 -->
+              <h3>央行備戰　台幣短期恐破34</h3>
             </a>
-              <p>[記者顏真真／台北報導] 第105000005期大樂透15日晚間開獎，開出的中獎號碼為6、11、16、17 (2016/01/15)</p>
+              <p>[記者顏真真／台北報導] 總統大選結果出爐，台灣將再經歷第三次政黨輪替，並出現史上首位女總統，不過，在面對 (2016/01/18)</p>
           </li>
           
  
@@ -2193,10 +2169,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962635" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F09%2F64%2F09649a635b5170a0e44573953a199826.jpg">
-            <h2>果果森林探險趣　孩童攜手玩創作！</h2>
-            <p>[生活中心／台北報導] 果果森林裡的小豬阿布、小狐狸阿尼、還有小松鼠、小兔子們要和插畫家「貝果」手牽手、</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964245" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc1%2Fe7%2Fc1e7f1347afb0767e980a8637c68a9c7.jpg">
+            <h2>彰化確診1禽流感　防檢局撲殺蛋雞</h2>
+            <p>[生活中心／台北報導] 又有新型禽流感出現！農委會防檢局今（17）日表示，家畜衛生試驗所15日確診彰化縣</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -2224,37 +2200,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962287" target="_blank"><!-- 連結到文章 -->
-              <h3>發現好茶的秘密　坪林茶農說茶趣！</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963872" target="_blank"><!-- 連結到文章 -->
+              <h3>豪雨特報　高雄、屏東恆春慎防淹水</h3>
             </a>
-              <p>[生活中心／台北報導] 為了讓所有造訪坪林的民眾都能深入體驗茶文化，親自品嚐一杯好茶的芬芳，新北市坪林茶 (2016/01/15)</p>
+              <p>[生活中心／台北報導] 高雄、屏東的民眾留意囉！中央氣象局今（17）日表示，今天在鋒面的影響下，全台各地 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962289" target="_blank"><!-- 連結到文章 -->
-              <h3>高鐵彰化站訊號異常　列車倒駛進站</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963929" target="_blank"><!-- 連結到文章 -->
+              <h3>國5路肩　11點半起機動開放</h3>
             </a>
-              <p>[記者王苡嫣／台北報導]  台灣高鐵17時04分彰化段轉轍器訊號異常，導致一南下列車無法直接靠站，列車須先 (2016/01/15)</p>
+              <p>[記者王苡嫣／台北報導]  高公局通報，1月17日於11時28分起，國道5號北向35.3-30.5K外側機 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962393" target="_blank"><!-- 連結到文章 -->
-              <h3>年前來送餐吧　助獨居老人過好年　</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963945" target="_blank"><!-- 連結到文章 -->
+              <h3>紓解選後北上人潮　高鐵加開3班次</h3>
             </a>
-              <p>[生活中心／台北報導] 農曆年將至，家家戶戶準備倒數圍爐吃團圓飯，但對於弱勢貧困的長輩和身障者來說，長達 (2016/01/15)</p>
+              <p>[生活中心／台北報導] 大選過後，今（17）日不少民眾準備返回北部，為了疏運龐大車潮，高公局在國道5號北 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962635" target="_blank"><!-- 連結到文章 -->
-              <h3>果果森林探險趣　孩童攜手玩創作！</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964245" target="_blank"><!-- 連結到文章 -->
+              <h3>彰化確診1禽流感　防檢局撲殺蛋雞</h3>
             </a>
-              <p>[生活中心／台北報導] 果果森林裡的小豬阿布、小狐狸阿尼、還有小松鼠、小兔子們要和插畫家「貝果」手牽手、 (2016/01/15)</p>
+              <p>[生活中心／台北報導] 又有新型禽流感出現！農委會防檢局今（17）日表示，家畜衛生試驗所15日確診彰化縣 (2016/01/17)</p>
           </li>
           
  
@@ -2384,10 +2360,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961783" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F40%2F37%2F40379907cae24053c65039ec2c80cd67.jpg">
-            <h2>免試入學提早準備　求學新的里程碑</h2>
-            <p>[記者李采妮／台北報導] 教育部於今(15)日公布105學年度高級中等學校免試入學招生簡章，為了創造質優、</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1962077" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fa8%2F31%2Fa831a068aa02b427058695417d79e6d0.JPG">
+            <h2>「滑」時代來臨　復興高中翻轉教學</h2>
+            <p>[記者李采妮／台北報導] 隨著科技時代的來臨，台北市復興高中向教育部申請高中職行動學習計畫，並獲得HTC贊</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -2415,15 +2391,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960287" target="_blank"><!-- 連結到文章 -->
-              <h3>體育育樂營　健康fun寒假</h3>
-            </a>
-              <p>[記者李采妮／台北報導] 讓學生們體驗一個不一樣的寒假作業，教育部體育署105年的寒假體育育樂營活動將於1 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/14/1960739" target="_blank"><!-- 連結到文章 -->
               <h3>五常登山勇士　小小身體大大志向</h3>
             </a>
@@ -2446,6 +2413,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>免試入學提早準備　求學新的里程碑</h3>
             </a>
               <p>[記者李采妮／台北報導] 教育部於今(15)日公布105學年度高級中等學校免試入學招生簡章，為了創造質優、 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1962077" target="_blank"><!-- 連結到文章 -->
+              <h3>「滑」時代來臨　復興高中翻轉教學</h3>
+            </a>
+              <p>[記者李采妮／台北報導] 隨著科技時代的來臨，台北市復興高中向教育部申請高中職行動學習計畫，並獲得HTC贊 (2016/01/16)</p>
           </li>
           
  
@@ -2614,10 +2590,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962635" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F09%2F64%2F09649a635b5170a0e44573953a199826.jpg">
-            <h2>果果森林探險趣　孩童攜手玩創作！</h2>
-            <p>[生活中心／台北報導] 果果森林裡的小豬阿布、小狐狸阿尼、還有小松鼠、小兔子們要和插畫家「貝果」手牽手、</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964245" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc1%2Fe7%2Fc1e7f1347afb0767e980a8637c68a9c7.jpg">
+            <h2>彰化確診1禽流感　防檢局撲殺蛋雞</h2>
+            <p>[生活中心／台北報導] 又有新型禽流感出現！農委會防檢局今（17）日表示，家畜衛生試驗所15日確診彰化縣</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -2645,37 +2621,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962287" target="_blank"><!-- 連結到文章 -->
-              <h3>發現好茶的秘密　坪林茶農說茶趣！</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963872" target="_blank"><!-- 連結到文章 -->
+              <h3>豪雨特報　高雄、屏東恆春慎防淹水</h3>
             </a>
-              <p>[生活中心／台北報導] 為了讓所有造訪坪林的民眾都能深入體驗茶文化，親自品嚐一杯好茶的芬芳，新北市坪林茶 (2016/01/15)</p>
+              <p>[生活中心／台北報導] 高雄、屏東的民眾留意囉！中央氣象局今（17）日表示，今天在鋒面的影響下，全台各地 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962289" target="_blank"><!-- 連結到文章 -->
-              <h3>高鐵彰化站訊號異常　列車倒駛進站</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963929" target="_blank"><!-- 連結到文章 -->
+              <h3>國5路肩　11點半起機動開放</h3>
             </a>
-              <p>[記者王苡嫣／台北報導]  台灣高鐵17時04分彰化段轉轍器訊號異常，導致一南下列車無法直接靠站，列車須先 (2016/01/15)</p>
+              <p>[記者王苡嫣／台北報導]  高公局通報，1月17日於11時28分起，國道5號北向35.3-30.5K外側機 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962393" target="_blank"><!-- 連結到文章 -->
-              <h3>年前來送餐吧　助獨居老人過好年　</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963945" target="_blank"><!-- 連結到文章 -->
+              <h3>紓解選後北上人潮　高鐵加開3班次</h3>
             </a>
-              <p>[生活中心／台北報導] 農曆年將至，家家戶戶準備倒數圍爐吃團圓飯，但對於弱勢貧困的長輩和身障者來說，長達 (2016/01/15)</p>
+              <p>[生活中心／台北報導] 大選過後，今（17）日不少民眾準備返回北部，為了疏運龐大車潮，高公局在國道5號北 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962635" target="_blank"><!-- 連結到文章 -->
-              <h3>果果森林探險趣　孩童攜手玩創作！</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964245" target="_blank"><!-- 連結到文章 -->
+              <h3>彰化確診1禽流感　防檢局撲殺蛋雞</h3>
             </a>
-              <p>[生活中心／台北報導] 果果森林裡的小豬阿布、小狐狸阿尼、還有小松鼠、小兔子們要和插畫家「貝果」手牽手、 (2016/01/15)</p>
+              <p>[生活中心／台北報導] 又有新型禽流感出現！農委會防檢局今（17）日表示，家畜衛生試驗所15日確診彰化縣 (2016/01/17)</p>
           </li>
           
  
@@ -2894,10 +2870,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962129" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F52%2F66%2F5266db48564b0ace44f2ccec9d8975c7.jpg">
-            <h2>動保團體挺丁守中　曾銘宗陪拜票</h2>
-            <p>[記者尤翔霆／台北報導] 台北市立委選舉，第一選區戰況激烈，選戰最後一天衝刺，包括關懷生命協會、台灣貓狗人</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963588" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F5d%2F78%2F5d78efd3834ab4e3c4ce411bbebfa8fe.jpg">
+            <h2>柯：台灣以民主選舉，證明自己作主</h2>
+            <p>[記者邱明玉／台北報導] 2016總統及立委選舉結果揭曉，台北市長柯文哲16日晚間在臉書po文表示，「恭喜</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -2925,24 +2901,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961571" target="_blank"><!-- 連結到文章 -->
-              <h3>東明公宅啟動　柯：盼成為公宅典範</h3>
-            </a>
-              <p>[記者邱明玉／台北報導] 國內首座智慧型公共住宅「南港東明公共住宅」，今（15）日上午在市府舉行統包工程簽 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961839" target="_blank"><!-- 連結到文章 -->
-              <h3>視察投開票所　柯：七點應可開完票</h3>
-            </a>
-              <p>[記者邱明玉／台北報導] 在投票日前夕，台北市長柯文哲今（15）日下午前往台北市選舉委員會及信義區投開票所 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1962092" target="_blank"><!-- 連結到文章 -->
               <h3>黨籍議員陪同拜票　費鴻泰全力衝刺</h3>
             </a>
@@ -2956,6 +2914,24 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>動保團體挺丁守中　曾銘宗陪拜票</h3>
             </a>
               <p>[記者尤翔霆／台北報導] 台北市立委選舉，第一選區戰況激烈，選戰最後一天衝刺，包括關懷生命協會、台灣貓狗人 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963528" target="_blank"><!-- 連結到文章 -->
+              <h3>首都大聯盟上三席　柯輔選勉強過關</h3>
+            </a>
+              <p>[記者邱明玉／台北報導] 民進黨這次在台北市所籌組的「首都改革陣線」，獲得台北市長柯文哲全力相挺，最後包括 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963588" target="_blank"><!-- 連結到文章 -->
+              <h3>柯：台灣以民主選舉，證明自己作主</h3>
+            </a>
+              <p>[記者邱明玉／台北報導] 2016總統及立委選舉結果揭曉，台北市長柯文哲16日晚間在臉書po文表示，「恭喜 (2016/01/16)</p>
           </li>
           
  
@@ -3205,10 +3181,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962053" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F67%2F2b%2F672b9f1aaf6f54dbd6d79c50e30f025f.jpg">
-            <h2>農地污染嚴重　桃市府積極推動復育</h2>
-            <p>[地方中心／桃園報導] 為解決農地污染的問題，桃園市政府近年已經獲得行政院環保署署補助3.3億經費，分年</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964439" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1e%2Fa6%2F1ea6c8f7de304e2f55c6ab625be6c1ce.jpg">
+            <h2>169票落敗　楊麗環聲請重新驗票</h2>
+            <p>[地方中心／桃園報導]  原以30票領先，自行宣布當選的桃園市第4選區國民黨籍候選人楊麗環，到最後卻翻轉</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -3236,37 +3212,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961868" target="_blank"><!-- 連結到文章 -->
-              <h3>衛服部針對知名保健食品抽查　竟驗出含禁藥成分</h3>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963664" target="_blank"><!-- 連結到文章 -->
+              <h3>龜山肉身菩薩生前預言女總統成真</h3>
             </a>
-              <p>[地方中心／桃園報導] 桃園市政府衛生局分別於104年11月23日及12月24日接獲衛生福利部食品藥物管 (2016/01/15)</p>
+              <p>[記者范文濱／桃園報導]  一句「女人統治天下」預言，是來自31年前由桃園龜山靈雲寺，早就化成肉身菩薩的謝 (2016/01/16)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961946" target="_blank"><!-- 連結到文章 -->
-              <h3>蛋鴨場染新型禽流感　動保處急撲殺</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963847" target="_blank"><!-- 連結到文章 -->
+              <h3>大選翻盤　民進黨4席翻轉國會</h3>
             </a>
-              <p>[地方中心／桃園報導] 市府於12日接獲楊梅區1蛋鴨場通報，產蛋率於數日內嚴重下降伴隨零星死亡，疑似感染 (2016/01/15)</p>
+              <p>[記者鍾翊伶、袁慧心／桃園報導]  2016總統立委大選結果出爐，民進黨在桃園6區立委選戰中拼出4席過半，總統票開 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962023" target="_blank"><!-- 連結到文章 -->
-              <h3>桃園與日本學者共研磁磚剝落防範</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963849" target="_blank"><!-- 連結到文章 -->
+              <h3>總統大選競爭激烈　首投族返鄉投票</h3>
             </a>
-              <p>[地方中心／桃園報導] 全台近日發生多起大樓外牆剝落意外，民眾人心惶惶，桃園市民對建築物公共安全整體意識 (2016/01/15)</p>
+              <p>[記者鍾翊伶／桃園報導]  周子瑜道歉影片在總統大選前一夜投下一枚催票彈，台灣主權問題在網路上發酵，與論激 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962053" target="_blank"><!-- 連結到文章 -->
-              <h3>農地污染嚴重　桃市府積極推動復育</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964439" target="_blank"><!-- 連結到文章 -->
+              <h3>169票落敗　楊麗環聲請重新驗票</h3>
             </a>
-              <p>[地方中心／桃園報導] 為解決農地污染的問題，桃園市政府近年已經獲得行政院環保署署補助3.3億經費，分年 (2016/01/15)</p>
+              <p>[地方中心／桃園報導]  原以30票領先，自行宣布當選的桃園市第4選區國民黨籍候選人楊麗環，到最後卻翻轉 (2016/01/17)</p>
           </li>
           
  
@@ -3285,10 +3261,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962118" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fbb%2F60%2Fbb602977125909416bcdfca68834bcbb.jpg">
-            <h2>蔡英文再度陪同柯建銘掃街</h2>
-            <p>[記者張旭東／新竹報導] 蔡英文參加14日新竹孔廟晚會後，15日中午再度前往柯建銘競選總部召開記者會並陪同</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1961758" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fad%2Faf%2Fadafc7ec1c93ac1167a224c9f63eff41.jpg">
+            <h2>觀察／九合一藍綠版塊位移並非偶然</h2>
+            <p>[記者楊淳卉／分析報導] 蔡英文客家票倉絕地大反攻！不但在桃竹苗地區總統票囊括約79萬票，民進黨桃園市立委</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -3316,15 +3292,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1957833" target="_blank"><!-- 連結到文章 -->
-              <h3>密／凱道選前之夜　小英出場有玄機</h3>
-            </a>
-              <p>[記者楊淳卉／台北報導] 選前最後倒數！民進黨總統候選人蔡英文將在15日晚間，先前往新北市板橋造勢掃街，接 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/14/1957834" target="_blank"><!-- 連結到文章 -->
               <h3>賴清德、姚立明現身　搶救柯建銘</h3>
             </a>
@@ -3338,6 +3305,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>打電話催票　柯建銘籲鄉親幫忙</h3>
             </a>
               <p>[記者張旭東／新竹報導] 林智堅市長、謝文進議長及所有新民意議員、民進黨議員14日集聚競選總部，拿起手機共 (2016/01/14)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1961758" target="_blank"><!-- 連結到文章 -->
+              <h3>觀察／九合一藍綠版塊位移並非偶然</h3>
+            </a>
+              <p>[記者楊淳卉／分析報導] 蔡英文客家票倉絕地大反攻！不但在桃竹苗地區總統票囊括約79萬票，民進黨桃園市立委 (2016/01/17)</p>
           </li>
           
  
@@ -3365,10 +3341,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/13/1957826" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd1%2F2f%2Fd12f3332916cc9f1d2dca642c0b8144c.jpg">
-            <h2>掃客家票倉　小英：情況比四年前好</h2>
-            <p>[記者楊淳卉／桃園報導] 總統候選人蔡英文搶攻客家選票，選前3天三度重返客家區桃園。蔡英文今（13）日表示</p><h6>(2016/01/13)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1961758" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fad%2Faf%2Fadafc7ec1c93ac1167a224c9f63eff41.jpg">
+            <h2>觀察／九合一藍綠版塊位移並非偶然</h2>
+            <p>[記者楊淳卉／分析報導] 蔡英文客家票倉絕地大反攻！不但在桃竹苗地區總統票囊括約79萬票，民進黨桃園市立委</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -3405,15 +3381,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/05/1949019" target="_blank"><!-- 連結到文章 -->
-              <h3>新局！中部四首長簽署共同治理宣言</h3>
-            </a>
-              <p>[記者鄧富珍／彰化報導] 中彰投苗四縣市首長第一次跨出全新格局，共同簽訂「中彰投區域治理平台」，5日上午彰 (2016/01/05)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/13/1957823" target="_blank"><!-- 連結到文章 -->
               <h3>倒數3天　蔡英文桃竹苗搶攻客家票</h3>
             </a>
@@ -3427,6 +3394,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>掃客家票倉　小英：情況比四年前好</h3>
             </a>
               <p>[記者楊淳卉／桃園報導] 總統候選人蔡英文搶攻客家選票，選前3天三度重返客家區桃園。蔡英文今（13）日表示 (2016/01/13)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1961758" target="_blank"><!-- 連結到文章 -->
+              <h3>觀察／九合一藍綠版塊位移並非偶然</h3>
+            </a>
+              <p>[記者楊淳卉／分析報導] 蔡英文客家票倉絕地大反攻！不但在桃竹苗地區總統票囊括約79萬票，民進黨桃園市立委 (2016/01/17)</p>
           </li>
           
  
@@ -3445,10 +3421,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962466" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1d%2F98%2F1d98da98c429067d82455d203afe93d1.jpg">
-            <h2>警方投入警力　保護選舉順利進行</h2>
-            <p>[記者陳榮昌／台中報導]  大甲警分局於十四日及十五日分別配合大甲、大安、外埔、后里區公所至臺中市立萬和國</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964083" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F77%2Ffb%2F77fba87caf5614dfdb012d93e6e6737d.jpg">
+            <h2>書法家吳運進現場寫春聯</h2>
+            <p>[記者林重鎣／台中報導]  市議員張芬郁服務處17日舉辦迎春揮毫送春聯活動，市政府農業局並配合提供300株</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -3476,37 +3452,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961893" target="_blank"><!-- 連結到文章 -->
-              <h3>雪霸公園雪季登山　需遵守管制　</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963775" target="_blank"><!-- 連結到文章 -->
+              <h3>江士良要一肩扛下敗選責任</h3>
             </a>
-              <p>[記者黃玿琮／台中報導] 為維護遊客在雪季期間登山安全，雪霸處將於1月20日起至3月31日止實施雪季入園管 (2016/01/15)</p>
+              <p>[記者官達里／台中報導] 面對國民黨台中市立委提名8席當選3席次，正副總統在台中市選舉結果不佳的結果，台中 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962051" target="_blank"><!-- 連結到文章 -->
-              <h3>百合提早開花供過於求價格下跌</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963808" target="_blank"><!-- 連結到文章 -->
+              <h3>中市立委版圖重組　綠4藍3時力1</h3>
             </a>
-              <p>[記者黃玿琮／台中報導] 受到暖冬影響，后里、新社等地區原預定春節上市的百合提早開花，導致價格下跌，農民損 (2016/01/15)</p>
+              <p>[記者林怡滿／台中報導] 2016年第9屆立委選舉結果16號晚間出爐，民進黨在台中市8席次拿下4席。相較上 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962396" target="_blank"><!-- 連結到文章 -->
-              <h3>汰換自來水管線中市福科路附近停水</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964083" target="_blank"><!-- 連結到文章 -->
+              <h3>書法家吳運進現場寫春聯</h3>
             </a>
-              <p>[記者賴淑禎／台中報導]  台水公司第四區辦理『台中市西屯區福科路900mm汰換管線工程』，轄內部分地區停 (2016/01/15)</p>
+              <p>[記者林重鎣／台中報導]  市議員張芬郁服務處17日舉辦迎春揮毫送春聯活動，市政府農業局並配合提供300株 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962466" target="_blank"><!-- 連結到文章 -->
-              <h3>警方投入警力　保護選舉順利進行</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964123" target="_blank"><!-- 連結到文章 -->
+              <h3>海線扭蛋大盜　烏日警方逮捕</h3>
             </a>
-              <p>[記者陳榮昌／台中報導]  大甲警分局於十四日及十五日分別配合大甲、大安、外埔、后里區公所至臺中市立萬和國 (2016/01/15)</p>
+              <p>[記者林重鎣／台中報導]  臺中市龍井區一名劉姓男子趁警方忙於選舉勤務，於1月期間多次前往海線龍井、大肚、 (2016/01/17)</p>
           </li>
           
  
@@ -3525,10 +3501,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961864" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F77%2Fd5%2F77d5a0a4ab699fd5af913618216689f9.JPG">
-            <h2>火葬場引爭議　魏明谷致歉化解紛爭</h2>
-            <p>[記者鄧富珍／彰化報導] 彰化縣議會正召開臨時會，不料因縣府規劃興建「火葬場」引發爭議，當縣議員陳一惇質疑</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963459" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd9%2Fd5%2Fd9d535c71bfeff86d7eecf89b7a306b4.JPG">
+            <h2>陳素月開出紅盤　宣布當選連任！</h2>
+            <p>[記者鄧富珍／彰化報導] 今(16)日為總統立委大選彰化縣第四選區立委陳素月再度高票當選連任，總統蔡英文也</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -3553,24 +3529,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960297" target="_blank"><!-- 連結到文章 -->
-              <h3>彰化金山角：員味．田頭水輔導成果</h3>
-            </a>
-              <p>[記者鄧富珍／彰化報導] 彰化縣政府為促進彰化縣東南地方特色產業持續成長、深化彰化在地產業品牌，以一鄉鎮一 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961790" target="_blank"><!-- 連結到文章 -->
-              <h3>櫻花戀半線　台日傳統民謠文化交流</h3>
-            </a>
-              <p>[記者鄧富珍／彰化報導] 彰化市「友好城市」之一的日本石川縣小松市，由該市議會議長宮西健吉率領的參訪團，將 (2016/01/15)</p>
-          </li>
-          
  
  
           <li>
@@ -3590,6 +3548,24 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963219" target="_blank"><!-- 連結到文章 -->
+              <h3>彰化縣長魏明谷投下神聖的一票！</h3>
+            </a>
+              <p>[記者鄧富珍／彰化報導]  今天（16日）是總統與立委選舉投票日，中部天氣一掃連日陰雨，加上選前選情激烈， (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963459" target="_blank"><!-- 連結到文章 -->
+              <h3>陳素月開出紅盤　宣布當選連任！</h3>
+            </a>
+              <p>[記者鄧富珍／彰化報導] 今(16)日為總統立委大選彰化縣第四選區立委陳素月再度高票當選連任，總統蔡英文也 (2016/01/16)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -3605,10 +3581,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962145" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F30%2Fe4%2F30e4b2040bd473f54ceb667a3d3e2cd3.jpg">
-            <h2>婦幼志工中隊隊長楊月娥愛心不間斷</h2>
-            <p>[記者吳素珍／南投報導] 南投縣警察局婦幼志工中隊隊長楊月娥從事社會關懷工作已超過16年，其愛心不間斷最為</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964210" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F13%2Fb3%2F13b3dd3e82777e0261a0ae2003eadef9.jpg">
+            <h2>馬文君頂雨謝票　允諾南投開創新局</h2>
+            <p>[記者蘇彩娥／南投報導]  2016中華民國總統大選和南投立委選舉結果，由藍營現任國民黨籍馬文君和許淑華連</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -3636,37 +3612,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961814" target="_blank"><!-- 連結到文章 -->
-              <h3>林明溱指示鼓崎道路災修復建工程</h3>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963467" target="_blank"><!-- 連結到文章 -->
+              <h3>許淑華七鄉鎮市全勝</h3>
             </a>
-              <p>[記者吳素珍／南投報導] 農路是農民最仰賴的運輸、生活道路，縣長林明溱一直以來都相當重視，1月15日在集集 (2016/01/15)</p>
+              <p>[記者扶小萍／南投報導] 2016年總統及立委選舉，16日下午5時40分許第二選區立委候選人蔡煌瑯在南投市 (2016/01/16)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962114" target="_blank"><!-- 連結到文章 -->
-              <h3>副總統夫婦催票　挺南投女兒許淑華</h3>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963580" target="_blank"><!-- 連結到文章 -->
+              <h3>選舉結果出爐　南投二席立委連任成功</h3>
             </a>
-              <p>[記者扶小萍／南投報導] 2016總統及第9屆立委選舉前一天，立委許淑華由副總統夫人蔡令怡、縣長夫人陳麗珠 (2016/01/15)</p>
+              <p>[記者扶小萍／南投報導] 第14任總統副總統與第9屆立法委員選舉結果出爐，南投縣總統部份蔡英文陳建仁以13 (2016/01/16)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962145" target="_blank"><!-- 連結到文章 -->
-              <h3>婦幼志工中隊隊長楊月娥愛心不間斷</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964053" target="_blank"><!-- 連結到文章 -->
+              <h3>許淑華謝票　允諾將更勤懇回報鄉親</h3>
             </a>
-              <p>[記者吳素珍／南投報導] 南投縣警察局婦幼志工中隊隊長楊月娥從事社會關懷工作已超過16年，其愛心不間斷最為 (2016/01/15)</p>
+              <p>[記者吳素珍　扶小萍／南投報導] 選後天氣再變又濕又冷且下著雨，南投縣立委當選人許淑華17日在雨中展開謝票之旅，她 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962221" target="_blank"><!-- 連結到文章 -->
-              <h3>南投高中畢業生　祈求庇佑大考順利</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964210" target="_blank"><!-- 連結到文章 -->
+              <h3>馬文君頂雨謝票　允諾南投開創新局</h3>
             </a>
-              <p>[記者扶小萍／南投報導] 南投高中校長黃國軒15日上午率領300多位應屆畢業生到藍田書院，為即將到來的大學 (2016/01/15)</p>
+              <p>[記者蘇彩娥／南投報導]  2016中華民國總統大選和南投立委選舉結果，由藍營現任國民黨籍馬文君和許淑華連 (2016/01/17)</p>
           </li>
           
  
@@ -3765,10 +3741,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962557" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F43%2Fcc%2F43cc496cf0913d91627c452f2b3c4f64.JPG">
-            <h2>臺中榮總醫院嘉分院長布達交接</h2>
-            <p>[記者郭政隆／嘉義報導]  臺中榮民總醫院嘉義分院於15日下午辦理院長布達交接典禮，典禮由臺中榮民總醫院許</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1962642" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F4c%2F8a%2F4c8a361c1b99fba8ec58f8054641d8dc.jpg">
+            <h2>凌晨工地竊鐵條　見警心虛放原位</h2>
+            <p>[記者郭政隆／嘉義報導]  嘉義市八掌派出所警員郭建志、熊廷琛於日前執行勤務時，在民生南路一處工地中，見有</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -3796,37 +3772,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960057" target="_blank"><!-- 連結到文章 -->
-              <h3>創新構想　嘉大發想受肯定獎不斷</h3>
-            </a>
-              <p>[記者郭政隆／嘉義報導] 為了培養學生創新和產業實際需求的能力，嘉義大學在生物事業管理學系李俊彥教授的指導 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1961029" target="_blank"><!-- 連結到文章 -->
-              <h3>議會所刪四預算　市府採追加辦理</h3>
-            </a>
-              <p>[記者郭政隆／嘉義報導]  嘉義市政府今年四項重大計畫在去年市議會審查預算時被刪除，包含1999市民服務專 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1961107" target="_blank"><!-- 連結到文章 -->
-              <h3>偷摘水果稱落果　機智警令賊臣服</h3>
-            </a>
-              <p>[記者郭政隆／嘉義報導]  一位賴姓農民於日前向嘉義市長竹派出所報案指稱，他在自家農地砍柴時，有不明人士騎 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1962557" target="_blank"><!-- 連結到文章 -->
               <h3>臺中榮總醫院嘉分院長布達交接</h3>
             </a>
               <p>[記者郭政隆／嘉義報導]  臺中榮民總醫院嘉義分院於15日下午辦理院長布達交接典禮，典禮由臺中榮民總醫院許 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1962630" target="_blank"><!-- 連結到文章 -->
+              <h3>票選肥胖防治標誌　第一階段出爐</h3>
+            </a>
+              <p>[記者郭政隆／嘉義報導]  嘉義市成人過重或肥胖比率高達45.3%，肥胖是許多慢性病及癌症的危險因子，造成 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1962642" target="_blank"><!-- 連結到文章 -->
+              <h3>凌晨工地竊鐵條　見警心虛放原位</h3>
+            </a>
+              <p>[記者郭政隆／嘉義報導]  嘉義市八掌派出所警員郭建志、熊廷琛於日前執行勤務時，在民生南路一處工地中，見有 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963035" target="_blank"><!-- 連結到文章 -->
+              <h3>台灣阿成搞烏龍　沒身分證不能投票</h3>
+            </a>
+              <p>[政治中心／綜合報導] 嘉義市立委候選人黃宏成台灣阿成世界偉人財神總統喜氣洋洋穿著財神裝去投票所投票，卻 (2016/01/16)</p>
           </li>
           
  
@@ -3845,10 +3821,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962473" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F16%2Fb8%2F16b8c7782785a45edca84cf12a5f200c.jpg">
-            <h2>感恩之夜　林南生抱病為陳淑慧催票</h2>
-            <p>[記者莊漢昌／台南報導] 立委陳淑慧15日在風雨中，舉辦幸福大遊行及感恩晚會，超過萬名台南鄉親冒著風雨力挺</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964321" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F61%2F3c%2F613ca872936c35b8195a5fea2c87d6ed.jpg">
+            <h2>感謝支持　陳亭妃要讓大家幸福有感</h2>
+            <p>[記者莊漢昌／台南報導]  感謝鄉親支持，立委陳亭妃17日率競選團隊冒雨謝票。陳亭妃表示，未來一定更加骨力</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -3876,37 +3852,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962071" target="_blank"><!-- 連結到文章 -->
-              <h3>長榮大學23人通過禮儀接待員證照</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964307" target="_blank"><!-- 連結到文章 -->
+              <h3>謝票！王定宇造訪各地寺廟</h3>
             </a>
-              <p>[記者李文生／台南報導] 配合國家政策與20項重點產業發展，增加學生就業競爭力，長榮大學推廣教育中心辦理「 (2016/01/15)</p>
+              <p>[記者莊漢昌／台南報導]  全國立委最高票當選的王定宇，17日立即造訪地方寺廟謝票，感謝鄉親支持。王定宇表 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962419" target="_blank"><!-- 連結到文章 -->
-              <h3>點亮台灣　陳亭妃冒雨團結大遊行</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964309" target="_blank"><!-- 連結到文章 -->
+              <h3>歲末傳愛　邰欣建設送暖近貧家庭</h3>
             </a>
-              <p>[記者莊漢昌／台南報導]  選前決戰之夜，尋求3連任的立委陳亭妃，風雨無阻展開全程12公里的團結大遊行，沿 (2016/01/15)</p>
+              <p>[記者莊漢昌／台南報導]  臺南在地的邰欣建設公司，為回饋鄉里，繼續與市議員郭國文合作，將資源用於幫助在地 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962424" target="_blank"><!-- 連結到文章 -->
-              <h3>風雨無阻　王定宇拜票不敢懈怠</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964311" target="_blank"><!-- 連結到文章 -->
+              <h3>想在家照顧小孩　主動申請育兒津貼</h3>
             </a>
-              <p>[記者莊漢昌／台南報導]  立委候選人王定宇「守護新豐五百里，堅壁清野45天」的行動，持續到最後一刻，早上 (2016/01/15)</p>
+              <p>[記者莊漢昌／台南報導]  為協助家庭照顧幼兒，減輕經濟負擔，市府社會局針對家中有2歲以下幼兒，父母中有1 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962473" target="_blank"><!-- 連結到文章 -->
-              <h3>感恩之夜　林南生抱病為陳淑慧催票</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964321" target="_blank"><!-- 連結到文章 -->
+              <h3>感謝支持　陳亭妃要讓大家幸福有感</h3>
             </a>
-              <p>[記者莊漢昌／台南報導] 立委陳淑慧15日在風雨中，舉辦幸福大遊行及感恩晚會，超過萬名台南鄉親冒著風雨力挺 (2016/01/15)</p>
+              <p>[記者莊漢昌／台南報導]  感謝鄉親支持，立委陳亭妃17日率競選團隊冒雨謝票。陳亭妃表示，未來一定更加骨力 (2016/01/17)</p>
           </li>
           
  
@@ -3925,10 +3901,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961984" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F95%2Fc2%2F95c2dea74d67ddd410598d6e9cecdcdd.JPG">
-            <h2>改革讓國會過半　李昆澤懇請栽培　</h2>
-            <p>[記者何沛霖／高雄報導] 選戰倒數24小時，雖然天空下著細雨，但三民東區立法委員候選人李昆澤仍從大清早就馬</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964364" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Ffb%2F62%2Ffb62e03f64499f46c65a0a79c1e7a86f.jpg">
+            <h2>感謝選民支持　劉世芳選區車隊謝票</h2>
+            <p>[記者何沛霖／高雄報導] 高雄市由國民黨黃昭順獨霸20多年的左楠區立委，此次由花媽力挺的「強副手」劉世芳以</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -3956,37 +3932,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1959351" target="_blank"><!-- 連結到文章 -->
-              <h3>寵物登記稽查　確保牠找到回家的路</h3>
-            </a>
-              <p>[記者潘姿瑛／高雄報導] 為了讓飼主了解飼養寵物是一輩子的責任。讓走失犬貓能盡快並順利的回到主人身邊，為家 (2016/01/13)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960825" target="_blank"><!-- 連結到文章 -->
-              <h3>花媽同日二度陪劉世芳車隊掃街</h3>
-            </a>
-              <p>[記者何沛霖／高雄報導] 高雄市長陳菊今（14）日加碼陪民進黨左楠區立委候選人劉世芳二度車隊掃街，除了有固 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960833" target="_blank"><!-- 連結到文章 -->
-              <h3>李昆澤全力衝刺　小英花媽陪同掃街</h3>
-            </a>
-              <p>[記者何沛霖／高雄報導] 選戰倒數最後48小時，三民東區立委參選人李昆澤全力衝刺，今（14）日在蔡英文主席 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1961984" target="_blank"><!-- 連結到文章 -->
               <h3>改革讓國會過半　李昆澤懇請栽培　</h3>
             </a>
               <p>[記者何沛霖／高雄報導] 選戰倒數24小時，雖然天空下著細雨，但三民東區立法委員候選人李昆澤仍從大清早就馬 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963730" target="_blank"><!-- 連結到文章 -->
+              <h3>劉世芳：我們做到翻轉左楠了！</h3>
+            </a>
+              <p>[記者何沛霖／高雄報導] 「我們做到翻轉左楠了！」這是民進黨左楠區立委候選人劉世芳在獲悉自己得票勝過張顯耀 (2016/01/17)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963733" target="_blank"><!-- 連結到文章 -->
+              <h3>李昆澤順利連任　感謝鄉親長年栽培</h3>
+            </a>
+              <p>[記者何沛霖／高雄報導] 民進黨三民東區立委提名人李昆澤今天順利當選連任，李昆澤表示，感謝鄉親四年來的疼惜 (2016/01/17)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964364" target="_blank"><!-- 連結到文章 -->
+              <h3>感謝選民支持　劉世芳選區車隊謝票</h3>
+            </a>
+              <p>[記者何沛霖／高雄報導] 高雄市由國民黨黃昭順獨霸20多年的左楠區立委，此次由花媽力挺的「強副手」劉世芳以 (2016/01/17)</p>
           </li>
           
  
@@ -4085,10 +4061,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962513" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F61%2F82%2F618294e1a8210dad615c60cd704c7994.jpg">
-            <h2>宜縣癌症篩檢　一年搶救上千人命</h2>
-            <p>[記者陳盈真／宜蘭報導] 癌症始終高居國人十大死因之首！宜蘭縣政府衛生局於2015年提供10萬5,623人</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963658" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fb1%2F85%2Fb185486d885bcb240788f1e05f28669e.jpg">
+            <h2>宜蘭選戰　立委陳歐珀順利蟬聯</h2>
+            <p>[記者陳木隆／宜蘭報導] 第十四任總統、副總統和第九屆立法委員選舉，宜蘭選區投票率約六成四，其中區域立委選</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -4116,15 +4092,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1959614" target="_blank"><!-- 連結到文章 -->
-              <h3>鼓勵返鄉投票　北宜國道客運有優惠</h3>
-            </a>
-              <p>[記者陳木隆／宜蘭報導] 第14任總統、副總統及第9屆立法委員選舉投票日快到了，為鼓勵縣民返鄉投票，宜蘭縣 (2016/01/13)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/14/1961112" target="_blank"><!-- 連結到文章 -->
               <h3>警民合作　運用餐盒宣導防騙</h3>
             </a>
@@ -4147,6 +4114,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>宜縣癌症篩檢　一年搶救上千人命</h3>
             </a>
               <p>[記者陳盈真／宜蘭報導] 癌症始終高居國人十大死因之首！宜蘭縣政府衛生局於2015年提供10萬5,623人 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963658" target="_blank"><!-- 連結到文章 -->
+              <h3>宜蘭選戰　立委陳歐珀順利蟬聯</h3>
+            </a>
+              <p>[記者陳木隆／宜蘭報導] 第十四任總統、副總統和第九屆立法委員選舉，宜蘭選區投票率約六成四，其中區域立委選 (2016/01/16)</p>
           </li>
           
  
@@ -4388,10 +4364,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962100" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F05%2Fe0%2F05e084282dd28d8c44c8eb73379bbad1.jpg">
-            <h2>超出備胎速限　車輛失控「翻肚」</h2>
-            <p>[社會中心／台北報導]  今日下午3時許，一名簡姓女子駕車行經台北市環東大道，車輛失控撞上護欄後翻車，簡</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964432" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Ff7%2Fbf%2Ff7bfaec658be401f0bf6e27a311909bc.jpg">
+            <h2>鄭寶清險勝楊麗環　20日重新驗票</h2>
+            <p>[社會中心／桃園報導] 立委選舉桃園市第4選區出現落選的國民黨候選人楊麗環向桃園地方法院提出重新驗票，藍</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -4419,37 +4395,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961935" target="_blank"><!-- 連結到文章 -->
-              <h3>偷拍正妹裙下風光　教官逮攝狼</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964228" target="_blank"><!-- 連結到文章 -->
+              <h3>小英當選總統　沙雕頭像見證歷史</h3>
             </a>
-              <p>[社會中心／台北報導] 看到就想拍，男子被教官逮個正著。一名陳姓男子14日下午現身在台北市喬治高職，他不 (2016/01/15)</p>
+              <p>[社會中心／高雄報導] 民進黨主席蔡英文當選中華民國第14任總統，也是我國有史以來第一位女總統，為紀念歷 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961960" target="_blank"><!-- 連結到文章 -->
-              <h3>張彥文47刀砍殺前女友　判囚無期</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964259" target="_blank"><!-- 連結到文章 -->
+              <h3>情侶爭吵鬧出人命　男子墜樓不治</h3>
             </a>
-              <p>[社會中心／台北報導]  「台大宅王」張彥文2年前砍殺前女友47刀致死，今日台北地方法院依殺人等罪判他無 (2016/01/15)</p>
+              <p>[社會中心／高雄報導] 高雄市鳳山區今日凌晨發生一起情侶爭吵而致男子墜樓案，一名51歲的江姓男子與50歲 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961977" target="_blank"><!-- 連結到文章 -->
-              <h3>到四稜溫泉泡湯　男子失足跌落山谷</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964380" target="_blank"><!-- 連結到文章 -->
+              <h3>宜蘭6旬女遭車撞　肇事駕駛逃逸</h3>
             </a>
-              <p>[社會中心／桃園報導] 今(15)日上午11點許，桃園市一名38歲的男子與妻子相約10多名友人，一同到桃 (2016/01/15)</p>
+              <p>[社會中心／宜蘭報導] 宜蘭縣今（17）日晚間發生一起車禍，一名年約60多歲的女子被行經路口的車輛撞擊， (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962100" target="_blank"><!-- 連結到文章 -->
-              <h3>超出備胎速限　車輛失控「翻肚」</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964432" target="_blank"><!-- 連結到文章 -->
+              <h3>鄭寶清險勝楊麗環　20日重新驗票</h3>
             </a>
-              <p>[社會中心／台北報導]  今日下午3時許，一名簡姓女子駕車行經台北市環東大道，車輛失控撞上護欄後翻車，簡 (2016/01/15)</p>
+              <p>[社會中心／桃園報導] 立委選舉桃園市第4選區出現落選的國民黨候選人楊麗環向桃園地方法院提出重新驗票，藍 (2016/01/17)</p>
           </li>
           
  
@@ -4570,10 +4546,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962100" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F05%2Fe0%2F05e084282dd28d8c44c8eb73379bbad1.jpg">
-            <h2>超出備胎速限　車輛失控「翻肚」</h2>
-            <p>[社會中心／台北報導]  今日下午3時許，一名簡姓女子駕車行經台北市環東大道，車輛失控撞上護欄後翻車，簡</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964432" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Ff7%2Fbf%2Ff7bfaec658be401f0bf6e27a311909bc.jpg">
+            <h2>鄭寶清險勝楊麗環　20日重新驗票</h2>
+            <p>[社會中心／桃園報導] 立委選舉桃園市第4選區出現落選的國民黨候選人楊麗環向桃園地方法院提出重新驗票，藍</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -4601,37 +4577,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961935" target="_blank"><!-- 連結到文章 -->
-              <h3>偷拍正妹裙下風光　教官逮攝狼</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964228" target="_blank"><!-- 連結到文章 -->
+              <h3>小英當選總統　沙雕頭像見證歷史</h3>
             </a>
-              <p>[社會中心／台北報導] 看到就想拍，男子被教官逮個正著。一名陳姓男子14日下午現身在台北市喬治高職，他不 (2016/01/15)</p>
+              <p>[社會中心／高雄報導] 民進黨主席蔡英文當選中華民國第14任總統，也是我國有史以來第一位女總統，為紀念歷 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961960" target="_blank"><!-- 連結到文章 -->
-              <h3>張彥文47刀砍殺前女友　判囚無期</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964259" target="_blank"><!-- 連結到文章 -->
+              <h3>情侶爭吵鬧出人命　男子墜樓不治</h3>
             </a>
-              <p>[社會中心／台北報導]  「台大宅王」張彥文2年前砍殺前女友47刀致死，今日台北地方法院依殺人等罪判他無 (2016/01/15)</p>
+              <p>[社會中心／高雄報導] 高雄市鳳山區今日凌晨發生一起情侶爭吵而致男子墜樓案，一名51歲的江姓男子與50歲 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961977" target="_blank"><!-- 連結到文章 -->
-              <h3>到四稜溫泉泡湯　男子失足跌落山谷</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964380" target="_blank"><!-- 連結到文章 -->
+              <h3>宜蘭6旬女遭車撞　肇事駕駛逃逸</h3>
             </a>
-              <p>[社會中心／桃園報導] 今(15)日上午11點許，桃園市一名38歲的男子與妻子相約10多名友人，一同到桃 (2016/01/15)</p>
+              <p>[社會中心／宜蘭報導] 宜蘭縣今（17）日晚間發生一起車禍，一名年約60多歲的女子被行經路口的車輛撞擊， (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962100" target="_blank"><!-- 連結到文章 -->
-              <h3>超出備胎速限　車輛失控「翻肚」</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964432" target="_blank"><!-- 連結到文章 -->
+              <h3>鄭寶清險勝楊麗環　20日重新驗票</h3>
             </a>
-              <p>[社會中心／台北報導]  今日下午3時許，一名簡姓女子駕車行經台北市環東大道，車輛失控撞上護欄後翻車，簡 (2016/01/15)</p>
+              <p>[社會中心／桃園報導] 立委選舉桃園市第4選區出現落選的國民黨候選人楊麗環向桃園地方法院提出重新驗票，藍 (2016/01/17)</p>
           </li>
           
  
@@ -4750,10 +4726,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962443" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fe6%2Fcf%2Fe6cf58a97b2eac8078fc7df0e84de015.jpg">
-            <h2>不怕林智勝競爭　陳江和：當他洋將</h2>
-            <p>[記者林柏宇／屏東報導] 重砲「大師兄」林智勝加入中信兄弟後，影響最大的的球員之一就是內野手「紅龜」陳江和</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964292" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc5%2Fdc%2Fc5dc77376cbbca1f86e47bc090c40aa1.JPG">
+            <h2>犀牛18日開訓　牛棚戰力令人擔心</h2>
+            <p>[記者方正東／台北報導]  義大犀牛將於18日上午11時30分在義大遊樂世界園區開訓，犀牛隊每一年都有問鼎</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -4781,37 +4757,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962252" target="_blank"><!-- 連結到文章 -->
-              <h3>老隊友加LINE　鄭達鴻適應快</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964292" target="_blank"><!-- 連結到文章 -->
+              <h3>犀牛18日開訓　牛棚戰力令人擔心</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 「我是捕手，鄭達鴻，剛進來的新人，今年18歲。」12日剛過35歲生日的「達鬨」鄭 (2016/01/15)</p>
+              <p>[記者方正東／台北報導]  義大犀牛將於18日上午11時30分在義大遊樂世界園區開訓，犀牛隊每一年都有問鼎 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962266" target="_blank"><!-- 連結到文章 -->
-              <h3>總統認證！歐巴馬：喬丹比柯、詹好</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964379" target="_blank"><!-- 連結到文章 -->
+              <h3>簡浩單場砍21分　改善心態很重要</h3>
             </a>
-              <p>[記者鄭廷瑋／綜合報導]  美國總統Barack Obama對籃球的熱愛程度街知巷聞，每年在白宮召見NBA (2016/01/15)</p>
+              <p>[記者賴佩汝／新北報導]  璞園建築17日與金門酒廠交手，末節璞園強勢攻擊，讓金酒無力抵抗，最終77：69 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962376" target="_blank"><!-- 連結到文章 -->
-              <h3>公益園區新球場　熱情象迷都說讚</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964385" target="_blank"><!-- 連結到文章 -->
+              <h3>永遠的汽車城象徵　大班球衣退休</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 中華職棒中信兄弟15日在屏東中信公益園區開訓，相較於去年在台中洲際棒球場，今年往 (2016/01/15)</p>
+              <p>[記者沈明璁／綜合報導] 這座城市，屬於廣大的無產階級，而這個人的風格與經歷，正是這座城市的寫照，這是他的 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962443" target="_blank"><!-- 連結到文章 -->
-              <h3>不怕林智勝競爭　陳江和：當他洋將</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964462" target="_blank"><!-- 連結到文章 -->
+              <h3>狀元Mia太優　滅火器大正約唱歌</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 重砲「大師兄」林智勝加入中信兄弟後，影響最大的的球員之一就是內野手「紅龜」陳江和 (2016/01/15)</p>
+              <p>[記者黃士瑋／台北報導] LamiGirls徵選會17日下午舉行，21號參賽者Mia外型亮眼，加分題展現歌 (2016/01/17)</p>
           </li>
           
  
@@ -5021,10 +4997,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962443" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fe6%2Fcf%2Fe6cf58a97b2eac8078fc7df0e84de015.jpg">
-            <h2>不怕林智勝競爭　陳江和：當他洋將</h2>
-            <p>[記者林柏宇／屏東報導] 重砲「大師兄」林智勝加入中信兄弟後，影響最大的的球員之一就是內野手「紅龜」陳江和</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964292" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc5%2Fdc%2Fc5dc77376cbbca1f86e47bc090c40aa1.JPG">
+            <h2>犀牛18日開訓　牛棚戰力令人擔心</h2>
+            <p>[記者方正東／台北報導]  義大犀牛將於18日上午11時30分在義大遊樂世界園區開訓，犀牛隊每一年都有問鼎</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -5052,37 +5028,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962119" target="_blank"><!-- 連結到文章 -->
-              <h3>轉隊風波　劉玠廷：祝福小頭好好做</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964292" target="_blank"><!-- 連結到文章 -->
+              <h3>犀牛18日開訓　牛棚戰力令人擔心</h3>
             </a>
-              <p>[記者黃士瑋／綜合報導] 對於近日來因為「小頭」石志偉轉隊引起的風波，Lamigo桃猿隊領隊劉玠廷表示，小 (2016/01/15)</p>
+              <p>[記者方正東／台北報導]  義大犀牛將於18日上午11時30分在義大遊樂世界園區開訓，犀牛隊每一年都有問鼎 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962252" target="_blank"><!-- 連結到文章 -->
-              <h3>老隊友加LINE　鄭達鴻適應快</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964303" target="_blank"><!-- 連結到文章 -->
+              <h3>桃猿女孩大勝　新成員16強出爐</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 「我是捕手，鄭達鴻，剛進來的新人，今年18歲。」12日剛過35歲生日的「達鬨」鄭 (2016/01/15)</p>
+              <p>[記者黃士瑋／台北報導] Lamigo桃猿隊專屬啦啦隊LamiGirls今年再度擴編，17日下午徵選進入準 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962376" target="_blank"><!-- 連結到文章 -->
-              <h3>公益園區新球場　熱情象迷都說讚</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964313" target="_blank"><!-- 連結到文章 -->
+              <h3>武田翔太力拚軟銀隊史紀錄</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 中華職棒中信兄弟15日在屏東中信公益園區開訓，相較於去年在台中洲際棒球場，今年往 (2016/01/15)</p>
+              <p>[記者方正東／綜合報導]  日本職棒軟銀隊22歲投手武田翔太將力拚今年開幕戰的先發投手，如果可以成功，他將 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962443" target="_blank"><!-- 連結到文章 -->
-              <h3>不怕林智勝競爭　陳江和：當他洋將</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964462" target="_blank"><!-- 連結到文章 -->
+              <h3>狀元Mia太優　滅火器大正約唱歌</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 重砲「大師兄」林智勝加入中信兄弟後，影響最大的的球員之一就是內野手「紅龜」陳江和 (2016/01/15)</p>
+              <p>[記者黃士瑋／台北報導] LamiGirls徵選會17日下午舉行，21號參賽者Mia外型亮眼，加分題展現歌 (2016/01/17)</p>
           </li>
           
  
@@ -5101,10 +5077,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961934" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F08%2Faa%2F08aa8542f0adf42f5747943b81801b2d.jpg">
-            <h2>「東方不敗」推手　籃網有意費瑞</h2>
-            <p>[記者沈明璁／綜合報導]  布魯克林籃網最高行政總管職缺懸而未決，15日又傳新人選，曾操刀亞特蘭大老鷹的D</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964385" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F04%2Fdd%2F04dddf680106c7b350954ee9cdebad71.jpg">
+            <h2>永遠的汽車城象徵　大班球衣退休</h2>
+            <p>[記者沈明璁／綜合報導] 這座城市，屬於廣大的無產階級，而這個人的風格與經歷，正是這座城市的寫照，這是他的</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -5132,37 +5108,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961882" target="_blank"><!-- 連結到文章 -->
-              <h3>湖人半場好球　Kobe告別勇士</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964268" target="_blank"><!-- 連結到文章 -->
+              <h3>國王終結快艇10連勝　後衛很努力</h3>
             </a>
-              <p>[記者沈明璁／綜合報導]  洛杉磯湖人15日挑戰金州勇士，打了2節半好球，最終沒能向昨天的丹佛金塊致敬，以 (2016/01/15)</p>
+              <p>[記者賴佩汝／綜合報導]  洛杉磯快艇17日與沙加緬度國王交手，Blake Griffin以及DeAndr (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961934" target="_blank"><!-- 連結到文章 -->
-              <h3>「東方不敗」推手　籃網有意費瑞</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964334" target="_blank"><!-- 連結到文章 -->
+              <h3>台啤止敗　劉錚攻下27分本季新高</h3>
             </a>
-              <p>[記者沈明璁／綜合報導]  布魯克林籃網最高行政總管職缺懸而未決，15日又傳新人選，曾操刀亞特蘭大老鷹的D (2016/01/15)</p>
+              <p>[記者賴佩汝／新北報導]  SBL本周末因昨日總統大選日停賽一天，17日由台灣啤酒對戰裕隆納智捷，上半節裕 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961997" target="_blank"><!-- 連結到文章 -->
-              <h3>馬刺波總叫住法國跑車　只為了說…</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964379" target="_blank"><!-- 連結到文章 -->
+              <h3>簡浩單場砍21分　改善心態很重要</h3>
             </a>
-              <p>[記者鄭廷瑋／綜合報導]  聖安東尼奧馬刺主帥Gregg Popovich一向治軍嚴謹，而多年來的輝煌成就 (2016/01/15)</p>
+              <p>[記者賴佩汝／新北報導]  璞園建築17日與金門酒廠交手，末節璞園強勢攻擊，讓金酒無力抵抗，最終77：69 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962266" target="_blank"><!-- 連結到文章 -->
-              <h3>總統認證！歐巴馬：喬丹比柯、詹好</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964385" target="_blank"><!-- 連結到文章 -->
+              <h3>永遠的汽車城象徵　大班球衣退休</h3>
             </a>
-              <p>[記者鄭廷瑋／綜合報導]  美國總統Barack Obama對籃球的熱愛程度街知巷聞，每年在白宮召見NBA (2016/01/15)</p>
+              <p>[記者沈明璁／綜合報導] 這座城市，屬於廣大的無產階級，而這個人的風格與經歷，正是這座城市的寫照，這是他的 (2016/01/17)</p>
           </li>
           
  
@@ -5261,10 +5237,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962443" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fe6%2Fcf%2Fe6cf58a97b2eac8078fc7df0e84de015.jpg">
-            <h2>不怕林智勝競爭　陳江和：當他洋將</h2>
-            <p>[記者林柏宇／屏東報導] 重砲「大師兄」林智勝加入中信兄弟後，影響最大的的球員之一就是內野手「紅龜」陳江和</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964292" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc5%2Fdc%2Fc5dc77376cbbca1f86e47bc090c40aa1.JPG">
+            <h2>犀牛18日開訓　牛棚戰力令人擔心</h2>
+            <p>[記者方正東／台北報導]  義大犀牛將於18日上午11時30分在義大遊樂世界園區開訓，犀牛隊每一年都有問鼎</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -5292,37 +5268,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962252" target="_blank"><!-- 連結到文章 -->
-              <h3>老隊友加LINE　鄭達鴻適應快</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964292" target="_blank"><!-- 連結到文章 -->
+              <h3>犀牛18日開訓　牛棚戰力令人擔心</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 「我是捕手，鄭達鴻，剛進來的新人，今年18歲。」12日剛過35歲生日的「達鬨」鄭 (2016/01/15)</p>
+              <p>[記者方正東／台北報導]  義大犀牛將於18日上午11時30分在義大遊樂世界園區開訓，犀牛隊每一年都有問鼎 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962266" target="_blank"><!-- 連結到文章 -->
-              <h3>總統認證！歐巴馬：喬丹比柯、詹好</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964379" target="_blank"><!-- 連結到文章 -->
+              <h3>簡浩單場砍21分　改善心態很重要</h3>
             </a>
-              <p>[記者鄭廷瑋／綜合報導]  美國總統Barack Obama對籃球的熱愛程度街知巷聞，每年在白宮召見NBA (2016/01/15)</p>
+              <p>[記者賴佩汝／新北報導]  璞園建築17日與金門酒廠交手，末節璞園強勢攻擊，讓金酒無力抵抗，最終77：69 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962376" target="_blank"><!-- 連結到文章 -->
-              <h3>公益園區新球場　熱情象迷都說讚</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964385" target="_blank"><!-- 連結到文章 -->
+              <h3>永遠的汽車城象徵　大班球衣退休</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 中華職棒中信兄弟15日在屏東中信公益園區開訓，相較於去年在台中洲際棒球場，今年往 (2016/01/15)</p>
+              <p>[記者沈明璁／綜合報導] 這座城市，屬於廣大的無產階級，而這個人的風格與經歷，正是這座城市的寫照，這是他的 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962443" target="_blank"><!-- 連結到文章 -->
-              <h3>不怕林智勝競爭　陳江和：當他洋將</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964462" target="_blank"><!-- 連結到文章 -->
+              <h3>狀元Mia太優　滅火器大正約唱歌</h3>
             </a>
-              <p>[記者林柏宇／屏東報導] 重砲「大師兄」林智勝加入中信兄弟後，影響最大的的球員之一就是內野手「紅龜」陳江和 (2016/01/15)</p>
+              <p>[記者黃士瑋／台北報導] LamiGirls徵選會17日下午舉行，21號參賽者Mia外型亮眼，加分題展現歌 (2016/01/17)</p>
           </li>
           
  
@@ -5436,10 +5412,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962579" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F48%2Fe4%2F48e4f62f3f43943e1a2fc702a588c916.jpg">
-            <h2>周子瑜含淚道歉　被迫認「中國人」</h2>
-            <p>[娛樂中心／綜合報導] 台灣藝人周子瑜只是一位16歲單純小女生，先遭黃安誣陷，莫名成為大陸失控網友仇恨對</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964497" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F5c%2F1c%2F5c1c42363e82ee031e47909685fa36b8.jpg">
+            <h2>她大膽仿效天后　第一發就這樣搞</h2>
+            <p>[記者林士傑／台北報導] 新人李德筠從高中開始創作、演唱，就讀成大建築系大四時決定重考追夢，雙親因此很失望</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -5467,37 +5443,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962250" target="_blank"><!-- 連結到文章 -->
-              <h3>圖多／殷琦露乳PK下身全裸劉薰愛</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964312" target="_blank"><!-- 連結到文章 -->
+              <h3>李艷秋舌戰曾國城　受封國母害羞了</h3>
             </a>
-              <p>[記者林士傑／台北報導] 一年一度爭奇鬥豔時刻登場，殷琦再端籃球奶、劉薰愛下半身幾近全裸、賴琳恩高衩露屁股 (2016/01/15)</p>
+              <p>[記者林鈺芳／台北報導] 李艷秋17日應邀錄製公視《一字千金榜中榜》，與主持人曾國城進行友誼賽，賽前先是互 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962386" target="_blank"><!-- 連結到文章 -->
-              <h3>卓文萱訪熊本熊　遭放鳥又被活埋　</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964480" target="_blank"><!-- 連結到文章 -->
+              <h3>羅志祥自認「中國人」　引戰遭譙爆</h3>
             </a>
-              <p>[記者阮馨儀／台北報導]  卓文萱與旅遊達人Alen共同主持的東森《玩樂誌》，到了南九州享受陽光和沙浴溫泉 (2016/01/15)</p>
+              <p>[記者林士傑／台北報導] 周子瑜道歉影片激起全台熱血愛國心，然而網友曝光羅志祥（小豬）15日參加《極限挑戰 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962426" target="_blank"><!-- 連結到文章 -->
-              <h3>天氣女孩慘摔送醫　嗨獎胸肋骨受傷</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964497" target="_blank"><!-- 連結到文章 -->
+              <h3>她大膽仿效天后　第一發就這樣搞</h3>
             </a>
-              <p>[記者阮馨儀／台北報導]  少女團體「天氣女孩」於今（15）日上MTV《我愛偶像》錄製過年特別節目，團員H (2016/01/15)</p>
+              <p>[記者林士傑／台北報導] 新人李德筠從高中開始創作、演唱，就讀成大建築系大四時決定重考追夢，雙親因此很失望 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962579" target="_blank"><!-- 連結到文章 -->
-              <h3>周子瑜含淚道歉　被迫認「中國人」</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964548" target="_blank"><!-- 連結到文章 -->
+              <h3>蔡阿嘎痛譙黃安　網友超爽der </h3>
             </a>
-              <p>[娛樂中心／綜合報導] 台灣藝人周子瑜只是一位16歲單純小女生，先遭黃安誣陷，莫名成為大陸失控網友仇恨對 (2016/01/15)</p>
+              <p>[娛樂中心／台北報導] 黃安因舉報周子瑜「台獨」，不僅點燃台灣人的怒火，微博與節目也遭大陸封殺，更讓他成 (2016/01/18)</p>
           </li>
           
  
@@ -5547,10 +5523,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962222" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F68%2F58%2F6858a5e7e60275b177fa4a5d888b63e7.png">
-            <h2>扭臀團KARA合約到期　名存實亡</h2>
-            <p>[記者鄭惠文／台北報導] 韓國女團「KARA」2007年出道至今9年，以第2張專輯的《Mister》掀起扭</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964258" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fca%2Ff4%2Fcaf40068eb284cbe9a9a6430fd164281.jpg">
+            <h2>宋茜主演大陸電視劇引話題勤奮有佳</h2>
+            <p>[記者簡立婷／台北報導] 由韓國SM娛樂旗下人氣女子組合f(x)成員宋茜領銜主演的大陸電視劇「美麗的秘密」</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -5578,37 +5554,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961486" target="_blank"><!-- 連結到文章 -->
-              <h3>KAI生日　EXO創紀錄連奪大賞</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964144" target="_blank"><!-- 連結到文章 -->
+              <h3>SHINee泰民準備SOLO回歸</h3>
             </a>
-              <p>[記者鄭惠文／綜合報導] SM娛樂旗下夯團「EXO」不止人氣高，還屢創佳績，連續3年獲得MAMA最佳年度專 (2016/01/15)</p>
+              <p>[記者簡立婷／台北報導] 韓國SM娛樂旗下大勢男子組合SHINee成員泰民，出道至今參演多部電視劇，並為動 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961826" target="_blank"><!-- 連結到文章 -->
-              <h3>哈妮被說「長得很俊秀」　淚灑舞台</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964211" target="_blank"><!-- 連結到文章 -->
+              <h3>張根碩暖男大爆發請練習生吃炸雞</h3>
             </a>
-              <p>[記者鄭惠文／綜合報導] 14日晚間舉行的第25屆《首爾歌謠大賞》在首爾奧林匹克公園舉行，由全炫茂 (全賢 (2016/01/15)</p>
+              <p>[記者簡立婷／台北報導] 「PRODUCE 101」是Mnet在2016年企劃的韓國第一個「經紀公司大型企 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961985" target="_blank"><!-- 連結到文章 -->
-              <h3>JYJ俊秀得獎　臉上的笑不是笑</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964244" target="_blank"><!-- 連結到文章 -->
+              <h3>雪炫夢幻代言畫報　自體發光美到翻</h3>
             </a>
-              <p>[記者鄭惠文／台北報導] 14日晚間的韓國音樂頒獎典禮第２５屆《首爾歌謠大賞》，男團JYJ的金俊秀力壓夯團 (2016/01/15)</p>
+              <p>[記者簡立婷／台北報導] 隸屬於韓國FNC娛樂旗下人氣女子組合AOA的成員雪炫，日前在經紀公司FNC娛樂表 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962222" target="_blank"><!-- 連結到文章 -->
-              <h3>扭臀團KARA合約到期　名存實亡</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964258" target="_blank"><!-- 連結到文章 -->
+              <h3>宋茜主演大陸電視劇引話題勤奮有佳</h3>
             </a>
-              <p>[記者鄭惠文／台北報導] 韓國女團「KARA」2007年出道至今9年，以第2張專輯的《Mister》掀起扭 (2016/01/15)</p>
+              <p>[記者簡立婷／台北報導] 由韓國SM娛樂旗下人氣女子組合f(x)成員宋茜領銜主演的大陸電視劇「美麗的秘密」 (2016/01/18)</p>
           </li>
           
  
@@ -5627,10 +5603,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/14/1960420" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F68%2F44%2F6844b3d115905fbe40690b51b20ac1a7.JPG">
-            <h2>康熙77萬人跟哭　最後一夜有彩蛋</h2>
-            <p>[記者阮馨儀／台北報導]  中天《康熙來了》昨（13）日晚播出「康熙來了的最後一夜」上集，總收視人口77.</p><h6>(2016/01/14)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964548" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fb6%2F48%2Fb648fb5e3ffe75febe4b02dc5c736144.jpg">
+            <h2>蔡阿嘎痛譙黃安　網友超爽der </h2>
+            <p>[娛樂中心／台北報導] 黃安因舉報周子瑜「台獨」，不僅點燃台灣人的怒火，微博與節目也遭大陸封殺，更讓他成</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -5658,37 +5634,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961249" target="_blank"><!-- 連結到文章 -->
-              <h3>中年模樣曝光！　豆花妹讓他直喊媽</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964262" target="_blank"><!-- 連結到文章 -->
+              <h3>子瑜受盡委屈　周媽媽今發言表心聲</h3>
             </a>
-              <p>[記者王麗娟／台北報導] 豆花妹（蔡黃汝）在華劇《1989一念間》首次超齡挑戰、演出近50歲的家政婦角色， (2016/01/15)</p>
+              <p>[娛樂中心／綜合報導] 「TWICE」成員周子瑜早前在綜藝節目揮國旗，被黃安舉報成「台獨」，單一事件卻演 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961451" target="_blank"><!-- 連結到文章 -->
-              <h3>伊能靜自然受孕成功　全靠超強XX</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964293" target="_blank"><!-- 連結到文章 -->
+              <h3>郭書瑤一秒裸露好騷　霸氣壓徐懷鈺</h3>
             </a>
-              <p>[娛樂中心／台北報導]  現年46歲的伊能靜，日前和老公秦昊，在微博分享嬰兒的超音波片段，證實已經懷孕， (2016/01/15)</p>
+              <p>[記者林鈺芳／台北報導] 宅男女神郭書瑤（瑤瑤）受邀登上《2016超級巨星紅白藝能大賞》，除了帶來多首經典 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961749" target="_blank"><!-- 連結到文章 -->
-              <h3>圖多／小馬浪吻美妻　婚紗辣露股溝</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964312" target="_blank"><!-- 連結到文章 -->
+              <h3>李艷秋舌戰曾國城　受封國母害羞了</h3>
             </a>
-              <p>[記者林士傑／台北報導] 小馬（倪子鈞）去年閃婚，偕新婚老婆小米（許書綺）赴台東池上拍攝婚紗照，他透露該處 (2016/01/15)</p>
+              <p>[記者林鈺芳／台北報導] 李艷秋17日應邀錄製公視《一字千金榜中榜》，與主持人曾國城進行友誼賽，賽前先是互 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961836" target="_blank"><!-- 連結到文章 -->
-              <h3>伊能靜差點離婚：你找個年輕老婆生</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964548" target="_blank"><!-- 連結到文章 -->
+              <h3>蔡阿嘎痛譙黃安　網友超爽der </h3>
             </a>
-              <p>[娛樂中心／台北報導]  46歲的伊能靜，去年和小10歲秦昊結婚，便信誓旦旦想為愛小孩的老公生小孩，但說 (2016/01/15)</p>
+              <p>[娛樂中心／台北報導] 黃安因舉報周子瑜「台獨」，不僅點燃台灣人的怒火，微博與節目也遭大陸封殺，更讓他成 (2016/01/18)</p>
           </li>
           
  
@@ -5707,10 +5683,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962045" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F86%2Fa5%2F86a5ed4dd45434da78fc1ce8c6e089f2.jpg">
-            <h2>煎熬僅1天！郭書瑤就原諒金陽</h2>
-            <p>[文／黃雯犀] 郭書瑤（瑤瑤）2016年連接兩齣新戲，人氣紅不讓！回顧2015年，她歷經男友金陽</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963078" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc3%2F11%2Fc311e3092f5c2dcedeb3bbed8cf050d2.jpg">
+            <h2>檢舉他！黃安領陸身分證不能看健保</h2>
+            <p>[娛樂中心／台北報導]  有大陸資深圈內人士，早在2008年就跟媒體爆料，指黃安在2001年就已經申請了</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -5738,37 +5714,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961451" target="_blank"><!-- 連結到文章 -->
-              <h3>伊能靜自然受孕成功　全靠超強XX</h3>
+            <a class="no-linx link-block" href="/n/2016/01/16/1962994" target="_blank"><!-- 連結到文章 -->
+              <h3>是他！唯一大陸明星嘲諷周子瑜道歉</h3>
             </a>
-              <p>[娛樂中心／台北報導]  現年46歲的伊能靜，日前和老公秦昊，在微博分享嬰兒的超音波片段，證實已經懷孕， (2016/01/15)</p>
+              <p>[娛樂中心／台北報導]  這真的很傷台灣粉絲的心，因為大陸夯劇《步步驚心》的「十四爺」林更新，居然是大陸 (2016/01/16)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961739" target="_blank"><!-- 連結到文章 -->
-              <h3>陸友反彈揭黃安真面目　假裝愛中國</h3>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963078" target="_blank"><!-- 連結到文章 -->
+              <h3>檢舉他！黃安領陸身分證不能看健保</h3>
             </a>
-              <p>[娛樂中心／綜合報導]  黃安反台獨的假面，終於被大陸網友揭發出來！強國人發現，原來「黃安以前也支持台獨 (2016/01/15)</p>
+              <p>[娛樂中心／台北報導]  有大陸資深圈內人士，早在2008年就跟媒體爆料，指黃安在2001年就已經申請了 (2016/01/16)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961836" target="_blank"><!-- 連結到文章 -->
-              <h3>伊能靜差點離婚：你找個年輕老婆生</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963771" target="_blank"><!-- 連結到文章 -->
+              <h3>惡有惡報／黃安微博和節目全被封殺</h3>
             </a>
-              <p>[娛樂中心／台北報導]  46歲的伊能靜，去年和小10歲秦昊結婚，便信誓旦旦想為愛小孩的老公生小孩，但說 (2016/01/15)</p>
+              <p>[娛樂中心／台北報導]  自我感覺良好的黃安，終於得到報應！不僅慘遭新浪微博「修理」，關閉他微博評論留言 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962045" target="_blank"><!-- 連結到文章 -->
-              <h3>煎熬僅1天！郭書瑤就原諒金陽</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964480" target="_blank"><!-- 連結到文章 -->
+              <h3>羅志祥自認「中國人」　引戰遭譙爆</h3>
             </a>
-              <p>[文／黃雯犀] 郭書瑤（瑤瑤）2016年連接兩齣新戲，人氣紅不讓！回顧2015年，她歷經男友金陽 (2016/01/15)</p>
+              <p>[記者林士傑／台北報導] 周子瑜道歉影片激起全台熱血愛國心，然而網友曝光羅志祥（小豬）15日參加《極限挑戰 (2016/01/18)</p>
           </li>
           
  
@@ -5787,10 +5763,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/14/1961143" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd8%2F8f%2Fd88f8f02b62d31eefae437cc6acb1c37.jpg">
-            <h2>子瑜公司要人民幣　道歉喊一個中國</h2>
-            <p>[娛樂中心／綜合報導] 台灣藝人周子瑜摔捲進黃安風暴，先是大陸活動全面喊停後，TWICE所屬公司JYP於</p><h6>(2016/01/14)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/18/1964480" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F19%2Fbb%2F19bb9298a461b0cf7810f86f63a9b0ea.JPG">
+            <h2>羅志祥自認「中國人」　引戰遭譙爆</h2>
+            <p>[記者林士傑／台北報導] 周子瑜道歉影片激起全台熱血愛國心，然而網友曝光羅志祥（小豬）15日參加《極限挑戰</p><h6>(2016/01/18)</h6>
           </a>
         </div>
         
@@ -5818,37 +5794,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960011" target="_blank"><!-- 連結到文章 -->
-              <h3>黃安列舉報觀察名單　嗆吳宗憲小心</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964031" target="_blank"><!-- 連結到文章 -->
+              <h3>人妻軟Q開腿　清涼薄紗黏李宗盛</h3>
             </a>
-              <p>[娛樂中心／綜合報導] 「台獨剋星」黃安最近動作頻頻，不斷舉報無冤無仇的藝人，不僅害到NONO與王喜，就 (2016/01/14)</p>
+              <p>[記者林士傑／台北報導] 莫文蔚16日在上海舉辦個唱，邀來恩師李宗盛擔任嘉賓，合唱《寂寞的戀人啊》，兩人承 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1961143" target="_blank"><!-- 連結到文章 -->
-              <h3>子瑜公司要人民幣　道歉喊一個中國</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964293" target="_blank"><!-- 連結到文章 -->
+              <h3>郭書瑤一秒裸露好騷　霸氣壓徐懷鈺</h3>
             </a>
-              <p>[娛樂中心／綜合報導] 台灣藝人周子瑜摔捲進黃安風暴，先是大陸活動全面喊停後，TWICE所屬公司JYP於 (2016/01/14)</p>
+              <p>[記者林鈺芳／台北報導] 宅男女神郭書瑤（瑤瑤）受邀登上《2016超級巨星紅白藝能大賞》，除了帶來多首經典 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961451" target="_blank"><!-- 連結到文章 -->
-              <h3>伊能靜自然受孕成功　全靠超強XX</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964328" target="_blank"><!-- 連結到文章 -->
+              <h3>韓星轟台撈千萬　違規灌酒討罵</h3>
             </a>
-              <p>[娛樂中心／台北報導]  現年46歲的伊能靜，日前和老公秦昊，在微博分享嬰兒的超音波片段，證實已經懷孕， (2016/01/15)</p>
+              <p>[記者林士傑／台北報導] 「FTISLAND」主唱李洪基17日完成個唱，票房不受周子瑜事件影響，加上周邊共 (2016/01/18)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961836" target="_blank"><!-- 連結到文章 -->
-              <h3>伊能靜差點離婚：你找個年輕老婆生</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964480" target="_blank"><!-- 連結到文章 -->
+              <h3>羅志祥自認「中國人」　引戰遭譙爆</h3>
             </a>
-              <p>[娛樂中心／台北報導]  46歲的伊能靜，去年和小10歲秦昊結婚，便信誓旦旦想為愛小孩的老公生小孩，但說 (2016/01/15)</p>
+              <p>[記者林士傑／台北報導] 周子瑜道歉影片激起全台熱血愛國心，然而網友曝光羅志祥（小豬）15日參加《極限挑戰 (2016/01/18)</p>
           </li>
           
  
@@ -5867,10 +5843,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/14/1960420" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F68%2F44%2F6844b3d115905fbe40690b51b20ac1a7.JPG">
-            <h2>康熙77萬人跟哭　最後一夜有彩蛋</h2>
-            <p>[記者阮馨儀／台北報導]  中天《康熙來了》昨（13）日晚播出「康熙來了的最後一夜」上集，總收視人口77.</p><h6>(2016/01/14)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963771" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F4d%2Fe2%2F4de2c0877141491879c4d7f0fbc123cc.jpg">
+            <h2>惡有惡報／黃安微博和節目全被封殺</h2>
+            <p>[娛樂中心／台北報導]  自我感覺良好的黃安，終於得到報應！不僅慘遭新浪微博「修理」，關閉他微博評論留言</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -5898,37 +5874,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960011" target="_blank"><!-- 連結到文章 -->
-              <h3>黃安列舉報觀察名單　嗆吳宗憲小心</h3>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963078" target="_blank"><!-- 連結到文章 -->
+              <h3>檢舉他！黃安領陸身分證不能看健保</h3>
             </a>
-              <p>[娛樂中心／綜合報導] 「台獨剋星」黃安最近動作頻頻，不斷舉報無冤無仇的藝人，不僅害到NONO與王喜，就 (2016/01/14)</p>
+              <p>[娛樂中心／台北報導]  有大陸資深圈內人士，早在2008年就跟媒體爆料，指黃安在2001年就已經申請了 (2016/01/16)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960420" target="_blank"><!-- 連結到文章 -->
-              <h3>康熙77萬人跟哭　最後一夜有彩蛋</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963771" target="_blank"><!-- 連結到文章 -->
+              <h3>惡有惡報／黃安微博和節目全被封殺</h3>
             </a>
-              <p>[記者阮馨儀／台北報導]  中天《康熙來了》昨（13）日晚播出「康熙來了的最後一夜」上集，總收視人口77. (2016/01/14)</p>
+              <p>[娛樂中心／台北報導]  自我感覺良好的黃安，終於得到報應！不僅慘遭新浪微博「修理」，關閉他微博評論留言 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960649" target="_blank"><!-- 連結到文章 -->
-              <h3>男星被逼表態「中國人」　嗆：瞎傻</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964262" target="_blank"><!-- 連結到文章 -->
+              <h3>子瑜受盡委屈　周媽媽今發言表心聲</h3>
             </a>
-              <p>[娛樂中心／台北報導]  受到黃安咒怨效應，現在大陸許多網友也紛紛變成黃安分身，居然開始一個個「審查」台 (2016/01/14)</p>
+              <p>[娛樂中心／綜合報導] 「TWICE」成員周子瑜早前在綜藝節目揮國旗，被黃安舉報成「台獨」，單一事件卻演 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1961143" target="_blank"><!-- 連結到文章 -->
-              <h3>子瑜公司要人民幣　道歉喊一個中國</h3>
+            <a class="no-linx link-block" href="/n/2016/01/18/1964480" target="_blank"><!-- 連結到文章 -->
+              <h3>羅志祥自認「中國人」　引戰遭譙爆</h3>
             </a>
-              <p>[娛樂中心／綜合報導] 台灣藝人周子瑜摔捲進黃安風暴，先是大陸活動全面喊停後，TWICE所屬公司JYP於 (2016/01/14)</p>
+              <p>[記者林士傑／台北報導] 周子瑜道歉影片激起全台熱血愛國心，然而網友曝光羅志祥（小豬）15日參加《極限挑戰 (2016/01/18)</p>
           </li>
           
  
@@ -6010,10 +5986,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962486" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F48%2F8f%2F488f651918a0a569aa01ae9a3e536164.jpg">
-            <h2>美軍直升機相撞　12人失蹤</h2>
-            <p>[國際中心／台北報導]  有2架軍用直升機於夏威夷歐胡島(Oahu)一帶發生相撞意外，2機搭載12人生死</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964342" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F33%2F48%2F33486ae0caca81e635d1515cb6038eea.JPG">
+            <h2>蔡英文當選　日媒看好台日關係</h2>
+            <p>[國際中心／綜合報導] 民主進步黨主席蔡英文當選總統，即將主政，日本媒體普遍看好蔡英文領導的新政府將能與</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6041,37 +6017,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961784" target="_blank"><!-- 連結到文章 -->
-              <h3>英國海軍海王直升機　3月除役</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964124" target="_blank"><!-- 連結到文章 -->
+              <h3>查理週刊嘲諷敘童亞蘭　父：沒人性</h3>
             </a>
-              <p>[記者呂烱昌／綜合報導]  在執行逾千次搜救任務後，英國海軍海王(Sea King)搜救直升機14日在蘇格 (2016/01/15)</p>
+              <p>[記者黃日暉／綜合報導]  敘利亞3歲男童亞藍（Aylan Kurdi）伏屍土耳其海灘的畫面，讓全球各國為 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962249" target="_blank"><!-- 連結到文章 -->
-              <h3>WHO證實　獅子山現伊波拉死亡例</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964224" target="_blank"><!-- 連結到文章 -->
+              <h3>阿富汗傳自殺炸彈攻擊　釀11死</h3>
             </a>
-              <p>[國際中心／綜合報導]  想要慶祝伊波拉(Ebola)疫情結束，可能還言之過早。世界衛生組織（WHO）今 (2016/01/15)</p>
+              <p>[記者黃日暉／綜合報導] 阿富汗東部城市賈拉拉巴德（Jalalabad）於17日上午，在當地1名部落長老辛 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962421" target="_blank"><!-- 連結到文章 -->
-              <h3>巴西驚傳貨櫃爆炸　毒煙瀰漫港口</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964235" target="_blank"><!-- 連結到文章 -->
+              <h3>美媒：除役AV-8戰機美擬售台灣</h3>
             </a>
-              <p>[國際中心／綜合報導]  巴西桑多斯港(Santos)當地時間14日發生爆炸意外，存放化學原料的貨櫃因不 (2016/01/15)</p>
+              <p>[記者呂炯昌／綜合報導]  美國媒體報導，面對中國大陸遽增的飛彈威脅，美國海軍陸戰隊除役的AV-8B海獵鷹 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962486" target="_blank"><!-- 連結到文章 -->
-              <h3>美軍直升機相撞　12人失蹤</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964342" target="_blank"><!-- 連結到文章 -->
+              <h3>蔡英文當選　日媒看好台日關係</h3>
             </a>
-              <p>[國際中心／台北報導]  有2架軍用直升機於夏威夷歐胡島(Oahu)一帶發生相撞意外，2機搭載12人生死 (2016/01/15)</p>
+              <p>[國際中心／綜合報導] 民主進步黨主席蔡英文當選總統，即將主政，日本媒體普遍看好蔡英文領導的新政府將能與 (2016/01/17)</p>
           </li>
           
  
@@ -6105,10 +6081,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961784" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F94%2F0f%2F940f8122d820fd6b14452527db59eabd.jpg">
-            <h2>英國海軍海王直升機　3月除役</h2>
-            <p>[記者呂烱昌／綜合報導]  在執行逾千次搜救任務後，英國海軍海王(Sea King)搜救直升機14日在蘇格</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964235" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fc6%2F98%2Fc698683bc3f4a9e587bdc1c19717d6e8.jpg">
+            <h2>美媒：除役AV-8戰機美擬售台灣</h2>
+            <p>[記者呂炯昌／綜合報導]  美國媒體報導，面對中國大陸遽增的飛彈威脅，美國海軍陸戰隊除役的AV-8B海獵鷹</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6133,15 +6109,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1958782" target="_blank"><!-- 連結到文章 -->
-              <h3>美軍AV-8B戰機修復　重回部隊</h3>
-            </a>
-              <p>[記者呂烱昌／綜合報導]  2012年9月，阿富汗巴斯蒂安營區（Camp Bastion)遭到塔利班分子襲 (2016/01/13)</p>
-          </li>
-          
  
  
           <li>
@@ -6170,6 +6137,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964235" target="_blank"><!-- 連結到文章 -->
+              <h3>美媒：除役AV-8戰機美擬售台灣</h3>
+            </a>
+              <p>[記者呂炯昌／綜合報導]  美國媒體報導，面對中國大陸遽增的飛彈威脅，美國海軍陸戰隊除役的AV-8B海獵鷹 (2016/01/17)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -6185,10 +6161,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962486" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F48%2F8f%2F488f651918a0a569aa01ae9a3e536164.jpg">
-            <h2>美軍直升機相撞　12人失蹤</h2>
-            <p>[國際中心／台北報導]  有2架軍用直升機於夏威夷歐胡島(Oahu)一帶發生相撞意外，2機搭載12人生死</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964342" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F33%2F48%2F33486ae0caca81e635d1515cb6038eea.JPG">
+            <h2>蔡英文當選　日媒看好台日關係</h2>
+            <p>[國際中心／綜合報導] 民主進步黨主席蔡英文當選總統，即將主政，日本媒體普遍看好蔡英文領導的新政府將能與</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6216,37 +6192,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961784" target="_blank"><!-- 連結到文章 -->
-              <h3>英國海軍海王直升機　3月除役</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964124" target="_blank"><!-- 連結到文章 -->
+              <h3>查理週刊嘲諷敘童亞蘭　父：沒人性</h3>
             </a>
-              <p>[記者呂烱昌／綜合報導]  在執行逾千次搜救任務後，英國海軍海王(Sea King)搜救直升機14日在蘇格 (2016/01/15)</p>
+              <p>[記者黃日暉／綜合報導]  敘利亞3歲男童亞藍（Aylan Kurdi）伏屍土耳其海灘的畫面，讓全球各國為 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962249" target="_blank"><!-- 連結到文章 -->
-              <h3>WHO證實　獅子山現伊波拉死亡例</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964224" target="_blank"><!-- 連結到文章 -->
+              <h3>阿富汗傳自殺炸彈攻擊　釀11死</h3>
             </a>
-              <p>[國際中心／綜合報導]  想要慶祝伊波拉(Ebola)疫情結束，可能還言之過早。世界衛生組織（WHO）今 (2016/01/15)</p>
+              <p>[記者黃日暉／綜合報導] 阿富汗東部城市賈拉拉巴德（Jalalabad）於17日上午，在當地1名部落長老辛 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962421" target="_blank"><!-- 連結到文章 -->
-              <h3>巴西驚傳貨櫃爆炸　毒煙瀰漫港口</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964235" target="_blank"><!-- 連結到文章 -->
+              <h3>美媒：除役AV-8戰機美擬售台灣</h3>
             </a>
-              <p>[國際中心／綜合報導]  巴西桑多斯港(Santos)當地時間14日發生爆炸意外，存放化學原料的貨櫃因不 (2016/01/15)</p>
+              <p>[記者呂炯昌／綜合報導]  美國媒體報導，面對中國大陸遽增的飛彈威脅，美國海軍陸戰隊除役的AV-8B海獵鷹 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962486" target="_blank"><!-- 連結到文章 -->
-              <h3>美軍直升機相撞　12人失蹤</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964342" target="_blank"><!-- 連結到文章 -->
+              <h3>蔡英文當選　日媒看好台日關係</h3>
             </a>
-              <p>[國際中心／台北報導]  有2架軍用直升機於夏威夷歐胡島(Oahu)一帶發生相撞意外，2機搭載12人生死 (2016/01/15)</p>
+              <p>[國際中心／綜合報導] 民主進步黨主席蔡英文當選總統，即將主政，日本媒體普遍看好蔡英文領導的新政府將能與 (2016/01/17)</p>
           </li>
           
  
@@ -6330,10 +6306,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961634" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F7f%2Fe9%2F7fe93aae50d8c77fbd6b8c99e3986272.jpg">
-            <h2>韓寒莫文蔚…明星們小時候長啥樣？</h2>
-            <p>[大陸新聞中心／綜合報導] 在你翻看童年相冊的時候，是否也很想知道如今那些大牌明星們童年都長什麼樣？下面，記</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1948048" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F15%2F7c%2F157cd6b4453cac1caa591b0e0048541c.jpg">
+            <h2>越多越好？一晚嘿咻幾次最幸福？</h2>
+            <p>[大陸新聞中心／綜合報導] 滾床單的次數越多越好嗎？在某種情況下，這一點都沒有錯！比如要跟哥們姐們吹噓的時候</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6361,37 +6337,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1956991" target="_blank"><!-- 連結到文章 -->
-              <h3>75歲婆婆酒吧駐唱　兒：為練膽量</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1955799" target="_blank"><!-- 連結到文章 -->
+              <h3>外國攝影師拍攝的《舌尖上的中國》</h3>
             </a>
-              <p>[大陸新聞中心／綜合報導] 「雲陽75歲最牛婆婆學吉他一年登台演唱。」11日，網上關於高齡婆婆學吉他駐唱的帖 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 30年前，一個叫Wolf Reinhart的德國人，用他冷峻理性的鏡頭記錄下當時 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1958328" target="_blank"><!-- 連結到文章 -->
-              <h3>大陸考古六大新發現　在北京揭曉</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1957336" target="_blank"><!-- 連結到文章 -->
+              <h3>愛情來了的12種本能反應</h3>
             </a>
-              <p>[大陸中心／綜合報導] 中國社會科學院12日在北京公布了2015年大陸考古六大新發現。江西南昌西漢海昏侯 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 愛情既純潔又複雜，既甜蜜又可怕。男女之間的事，看似簡單，卻蘊涵著許多科學知識。近 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961344" target="_blank"><!-- 連結到文章 -->
-              <h3>女人床上有五件事　難以啟齒</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1957386" target="_blank"><!-- 連結到文章 -->
+              <h3>大冰：我不靠寫作吃飯不看版稅多少</h3>
             </a>
-              <p>[大陸新聞中心綜合報導] 在性方面，女人總是較為被動和靦腆，有些私密的性事，她們不願輕易說出口，心裡卻希望 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 「我講的是江湖故事，有別於其他暢銷書，我不寫都市言情。之所以寫江湖故事是因為這麼 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961634" target="_blank"><!-- 連結到文章 -->
-              <h3>韓寒莫文蔚…明星們小時候長啥樣？</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1958846" target="_blank"><!-- 連結到文章 -->
+              <h3>大陸人迷美白　1.5萬年基因突變</h3>
             </a>
-              <p>[大陸新聞中心／綜合報導] 在你翻看童年相冊的時候，是否也很想知道如今那些大牌明星們童年都長什麼樣？下面，記 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 科學家表示，大陸人對白皮膚的迷戀，與1.5萬年前的基因突變有關。大陸科學家主導的 (2016/01/17)</p>
           </li>
           
  
@@ -6442,10 +6418,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961634" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F7f%2Fe9%2F7fe93aae50d8c77fbd6b8c99e3986272.jpg">
-            <h2>韓寒莫文蔚…明星們小時候長啥樣？</h2>
-            <p>[大陸新聞中心／綜合報導] 在你翻看童年相冊的時候，是否也很想知道如今那些大牌明星們童年都長什麼樣？下面，記</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1948048" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F15%2F7c%2F157cd6b4453cac1caa591b0e0048541c.jpg">
+            <h2>越多越好？一晚嘿咻幾次最幸福？</h2>
+            <p>[大陸新聞中心／綜合報導] 滾床單的次數越多越好嗎？在某種情況下，這一點都沒有錯！比如要跟哥們姐們吹噓的時候</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6473,37 +6449,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1956991" target="_blank"><!-- 連結到文章 -->
-              <h3>75歲婆婆酒吧駐唱　兒：為練膽量</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1955799" target="_blank"><!-- 連結到文章 -->
+              <h3>外國攝影師拍攝的《舌尖上的中國》</h3>
             </a>
-              <p>[大陸新聞中心／綜合報導] 「雲陽75歲最牛婆婆學吉他一年登台演唱。」11日，網上關於高齡婆婆學吉他駐唱的帖 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 30年前，一個叫Wolf Reinhart的德國人，用他冷峻理性的鏡頭記錄下當時 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1958328" target="_blank"><!-- 連結到文章 -->
-              <h3>大陸考古六大新發現　在北京揭曉</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1957336" target="_blank"><!-- 連結到文章 -->
+              <h3>愛情來了的12種本能反應</h3>
             </a>
-              <p>[大陸中心／綜合報導] 中國社會科學院12日在北京公布了2015年大陸考古六大新發現。江西南昌西漢海昏侯 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 愛情既純潔又複雜，既甜蜜又可怕。男女之間的事，看似簡單，卻蘊涵著許多科學知識。近 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961344" target="_blank"><!-- 連結到文章 -->
-              <h3>女人床上有五件事　難以啟齒</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1957386" target="_blank"><!-- 連結到文章 -->
+              <h3>大冰：我不靠寫作吃飯不看版稅多少</h3>
             </a>
-              <p>[大陸新聞中心綜合報導] 在性方面，女人總是較為被動和靦腆，有些私密的性事，她們不願輕易說出口，心裡卻希望 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 「我講的是江湖故事，有別於其他暢銷書，我不寫都市言情。之所以寫江湖故事是因為這麼 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961634" target="_blank"><!-- 連結到文章 -->
-              <h3>韓寒莫文蔚…明星們小時候長啥樣？</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1958846" target="_blank"><!-- 連結到文章 -->
+              <h3>大陸人迷美白　1.5萬年基因突變</h3>
             </a>
-              <p>[大陸新聞中心／綜合報導] 在你翻看童年相冊的時候，是否也很想知道如今那些大牌明星們童年都長什麼樣？下面，記 (2016/01/15)</p>
+              <p>[大陸新聞中心／綜合報導] 科學家表示，大陸人對白皮膚的迷戀，與1.5萬年前的基因突變有關。大陸科學家主導的 (2016/01/17)</p>
           </li>
           
  
@@ -6587,10 +6563,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961745" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F5e%2Fa3%2F5ea3ad1fceffec4e3b32acf89ec1be62.jpg">
-            <h2>突擊A片現場　工作人員不好當</h2>
-            <p>[國際中心／台北報導] 許多男生都喜歡看A片，但你知道A片拍攝現場究竟需要準備什麼、花費的時間有多長嗎？</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963871" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F40%2Fcf%2F40cf792c67ee31cbe995d0f9da075502.JPG">
+            <h2>網神圖秒解689　原來藏著這玄機</h2>
+            <p>[生活中心／綜合報導]  昨日開出2016總統大選最終結果，蔡英文以689.4744票當選，這數據讓不少</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6618,37 +6594,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961286" target="_blank"><!-- 連結到文章 -->
-              <h3>醫生迷昏女病患　還在她臉上射精</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963866" target="_blank"><!-- 連結到文章 -->
+              <h3>假女優吉澤明步挺子瑜「妳不孤單」</h3>
             </a>
-              <p>[國際中心／台北報導]  美國紐約一名22女病患因為肩膀疼痛而就診，看診的45歲男醫生紐曼(David  (2016/01/15)</p>
+              <p>[國際中心／綜合報導]  南韓團體「TWICE」成員周子瑜被牽涉到台獨風波，在各界的壓力下被迫出面念稿道 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961325" target="_blank"><!-- 連結到文章 -->
-              <h3>他把黃安當偶像　惡搞影片爆紅</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963871" target="_blank"><!-- 連結到文章 -->
+              <h3>網神圖秒解689　原來藏著這玄機</h3>
             </a>
-              <p>[生活中心／綜合報導] 近日資深藝人黃安砲火猛烈，積極舉報台灣演藝圈的「台獨份子」引發熱議，更曾嗆封殺全 (2016/01/15)</p>
+              <p>[生活中心／綜合報導]  昨日開出2016總統大選最終結果，蔡英文以689.4744票當選，這數據讓不少 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961537" target="_blank"><!-- 連結到文章 -->
-              <h3>秦國首都在哪？大部分的人都答錯！</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963876" target="_blank"><!-- 連結到文章 -->
+              <h3>紐約設全球首個「自慰亭」完全免費</h3>
             </a>
-              <p>[生活中心／綜合報導]  最近網路上掀起一股熱潮，許多人用line問朋友「秦國的首都在哪裡？」，竟然大部 (2016/01/15)</p>
+              <p>[國際中心／綜合報導]  在公開場合自慰屬違法，但又突然很想要「爽一下」提振精神該怎麼辦呢？美國一家情趣 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961745" target="_blank"><!-- 連結到文章 -->
-              <h3>突擊A片現場　工作人員不好當</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963905" target="_blank"><!-- 連結到文章 -->
+              <h3>她的網購退貨經驗　感動無數網友</h3>
             </a>
-              <p>[國際中心／台北報導] 許多男生都喜歡看A片，但你知道A片拍攝現場究竟需要準備什麼、花費的時間有多長嗎？ (2016/01/15)</p>
+              <p>[國際中心／綜合報導] 相信大家都有過網購的經驗，也多少會遇上要退換貨時和對方發生糾紛的情況。但美國一名 (2016/01/17)</p>
           </li>
           
  
@@ -6689,10 +6665,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961519" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F7a%2F8e%2F7a8ec3ff6da7c5e18c66337773e5ee09.PNG">
-            <h2>好想有人陪　小法鬥用這招叫醒主人</h2>
-            <p>[寵物中心／台北報導]  起床真的是件非常痛苦的事，聽到鬧鐘響更是恨不得把它打碎，但如果是家中的汪星人叫</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964230" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1d%2F9b%2F1d9b3fdb637c6f131da73e032f83f843.jpg">
+            <h2>台灣常見寵物兔品種介紹Part2</h2>
+            <p>[寵物中心／綜合報導] 接續上回介紹的台灣常見的7種寵物兔品種Part1，這次愛兔協會又將和大家介紹另外</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6720,37 +6696,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960608" target="_blank"><!-- 連結到文章 -->
-              <h3>看見食物小卡車　飢餓熊拔腿狂追</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963933" target="_blank"><!-- 連結到文章 -->
+              <h3>不斷撫摸倉鼠就能目睹超萌事件發生</h3>
             </a>
-              <p>[國際中心／綜合報導] 當人們肚子餓看到食物時，肯定是飛奔搶奪食物大口大口狼吞虎嚥起來，就連飢餓的動物也 (2016/01/14)</p>
+              <p>[寵物中心／綜合報導]  你印象中的小倉鼠是什麼模樣呢？應該是像一顆球一樣圓滾滾的可愛模樣吧！ (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960621" target="_blank"><!-- 連結到文章 -->
-              <h3>袋鼠緊擁垂死伴侶？真相卻令人憤怒</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964002" target="_blank"><!-- 連結到文章 -->
+              <h3>研究：狗能讀懂人類情緒</h3>
             </a>
-              <p>[國際中心／綜合報導]  網路上瘋傳的這組照片，只見袋鼠緊緊擁抱垂死的伴侶，眾人看到這一幕紛紛直言「好感 (2016/01/14)</p>
+              <p>[寵物中心／綜合報導]  你家狗狗真的懂你！近日一份國外研究顯示，狗狗不僅能讀懂主人的情緒，甚至連陌生人 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961469" target="_blank"><!-- 連結到文章 -->
-              <h3>主人做瑜珈　喵星人竟趁機偷親</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964071" target="_blank"><!-- 連結到文章 -->
+              <h3>萌貓瘋自拍！專業神韻堪稱自拍達人</h3>
             </a>
-              <p>[寵物中心／綜合報導]  不少人家中有養寵物，你的寵物都怎麼跟你撒嬌呢？國外一個影片造成瘋傳，喵星人趁著 (2016/01/15)</p>
+              <p>[寵物中心／綜合報導]  現代人人手一機，幾乎人人會自拍，人類的「自拍成癮症」也掃到萌寵的世界。國外貓咪 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961519" target="_blank"><!-- 連結到文章 -->
-              <h3>好想有人陪　小法鬥用這招叫醒主人</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964230" target="_blank"><!-- 連結到文章 -->
+              <h3>台灣常見寵物兔品種介紹Part2</h3>
             </a>
-              <p>[寵物中心／台北報導]  起床真的是件非常痛苦的事，聽到鬧鐘響更是恨不得把它打碎，但如果是家中的汪星人叫 (2016/01/15)</p>
+              <p>[寵物中心／綜合報導] 接續上回介紹的台灣常見的7種寵物兔品種Part1，這次愛兔協會又將和大家介紹另外 (2016/01/17)</p>
           </li>
           
  
@@ -6769,10 +6745,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961380" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fd3%2Fbe%2Fd3bedfb7778f828b123f0afee4e86e04.PNG">
-            <h2>小時候以為的蠢事？網：睪丸是貢丸</h2>
-            <p>[生活中心／台北報導]  小時候總是充滿求知慾，對於任何事物都想知道，也經常聽信一些謠言，或者又是被爸媽</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963901" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F59%2Fe9%2F59e9c7dd238458a38d0336dafb677a03.JPG">
+            <h2>不能同意更多！女人容易變砲友特徵</h2>
+            <p>[國際中心／綜合報導]  女人在愛情上總是常犯傻，為了愛可以不顧一切；為了愛可以忍受屈辱，你身邊是否有莫</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6800,37 +6776,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961686" target="_blank"><!-- 連結到文章 -->
-              <h3>天使臉孔魔鬼身材　網友直呼天菜</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963947" target="_blank"><!-- 連結到文章 -->
+              <h3>「龍騎士」也來投票！警抓屁股搜身</h3>
             </a>
-              <p>[國際中心／綜合報導] 莫斯科一名27歲模特兒科諾娃（Angelica Kenova），擁有天使臉孔魔鬼 (2016/01/15)</p>
+              <p>[生活中心／綜合報導]  昨(16)日為台灣2016總統大選之日，不少知名人士都呼籲大家出門投票，各地選 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961745" target="_blank"><!-- 連結到文章 -->
-              <h3>突擊A片現場　工作人員不好當</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964027" target="_blank"><!-- 連結到文章 -->
+              <h3>超驚悚！日本農田驚見兇殺案現場？</h3>
             </a>
-              <p>[國際中心／台北報導] 許多男生都喜歡看A片，但你知道A片拍攝現場究竟需要準備什麼、花費的時間有多長嗎？ (2016/01/15)</p>
+              <p>[國際中心／綜合報導]  日本鬼片在世界排行榜中，列居前幾名想必不是什麼問題，但日本人不僅把內心恐懼呈現 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961746" target="_blank"><!-- 連結到文章 -->
-              <h3>「阿嬤衛生棉」　女網友實穿照分享</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964181" target="_blank"><!-- 連結到文章 -->
+              <h3>為什麼女生月經要叫大姨媽？</h3>
             </a>
-              <p>[生活中心／綜合報導]  有一名女網友在Dcard發文，表示自己每次月經來都害怕弄髒床單，因此喜歡用最長 (2016/01/15)</p>
+              <p>[生活中心／綜合報導]  常聽人稱女生的月經為「大姨媽」，但你知道究竟月經和大姨媽有什麼關係嗎？酷瞧網站 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961858" target="_blank"><!-- 連結到文章 -->
-              <h3>男子疑在褲襠藏武器　查後竟發現…</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964255" target="_blank"><!-- 連結到文章 -->
+              <h3>自拍照中求婚百次　女友竟都沒發現</h3>
             </a>
-              <p>[國際中心／綜合報導] 網路上流傳一段影片，一名男子被警察逮捕搜身時，發現褲襠裡疑似藏有武器，於是警察反 (2016/01/15)</p>
+              <p>[國際中心／綜合報導] 英國一名38歲的男子和女友同居多年，在去年得知女友懷孕後就開始規劃求婚計畫，希望 (2016/01/17)</p>
           </li>
           
  
@@ -6934,10 +6910,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962313" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fb2%2F25%2Fb2257ed3c205a351ec33a52d544a2b6d.jpg">
-            <h2>謝欣穎甜美出席寶格麗春夏配件預覽</h2>
-            <p>[記者賴鵬翔／台北報導]  寶格麗2016年春夏配件系列以「羅馬假期」為名，匯聚巨星名流薈萃時期之經典風格</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963853" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fe2%2Fca%2Fe2ca7e0a227d18e8413d3a121b226fbb.jpg">
+            <h2>MIU MIU中國新年限定系列</h2>
+            <p>[記者賴鵬翔／台北報導]  為慶祝中國新年得到來，精品品牌MIUMIU推出『Rouge Obsession</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -6965,37 +6941,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962106" target="_blank"><!-- 連結到文章 -->
-              <h3>保養品牌Aesop忠孝店開幕酒會</h3>
-            </a>
-              <p>[記者賴鵬翔／台北報導]  於1987年成立於澳洲墨爾本的Aesop台灣第二家概念店、同時也是第一家獨立店 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962244" target="_blank"><!-- 連結到文章 -->
-              <h3>Roger Vivier春夏發表</h3>
-            </a>
-              <p>[記者賴鵬翔／台北報導]  昨（１５）Roger Vivier春夏發表會揭幕，七○年代復古風情大放異彩，品 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962264" target="_blank"><!-- 連結到文章 -->
-              <h3>女神宋芸樺出席Dior春光肌秘密</h3>
-            </a>
-              <p>[記者賴鵬翔／台北報導]  時尚品牌Dior今(15日)於信義誠品盛大舉辦2016「全新Dior雪晶靈光感 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1962313" target="_blank"><!-- 連結到文章 -->
               <h3>謝欣穎甜美出席寶格麗春夏配件預覽</h3>
             </a>
               <p>[記者賴鵬翔／台北報導]  寶格麗2016年春夏配件系列以「羅馬假期」為名，匯聚巨星名流薈萃時期之經典風格 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963139" target="_blank"><!-- 連結到文章 -->
+              <h3>想美白？謹記這8大白美成分就對了</h3>
+            </a>
+              <p>[消費中心／台北報導] 送走冷颼颼的冬季，隨著氣溫逐漸轉暖，妳準備好迎接即將開始熱情綻放的陽光了嗎？女人 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963284" target="_blank"><!-- 連結到文章 -->
+              <h3>金屬風外套添喜氣　好萊塢女神最愛</h3>
+            </a>
+              <p>[消費中心／台北報導] 「羽絨衣之王」盟可睞Moncler搶在農曆年前夕，精選一系列金屬風外套。新春賀歲 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963853" target="_blank"><!-- 連結到文章 -->
+              <h3>MIU MIU中國新年限定系列</h3>
+            </a>
+              <p>[記者賴鵬翔／台北報導]  為慶祝中國新年得到來，精品品牌MIUMIU推出『Rouge Obsession (2016/01/17)</p>
           </li>
           
  
@@ -7041,10 +7017,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962313" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fb2%2F25%2Fb2257ed3c205a351ec33a52d544a2b6d.jpg">
-            <h2>謝欣穎甜美出席寶格麗春夏配件預覽</h2>
-            <p>[記者賴鵬翔／台北報導]  寶格麗2016年春夏配件系列以「羅馬假期」為名，匯聚巨星名流薈萃時期之經典風格</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963853" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fe2%2Fca%2Fe2ca7e0a227d18e8413d3a121b226fbb.jpg">
+            <h2>MIU MIU中國新年限定系列</h2>
+            <p>[記者賴鵬翔／台北報導]  為慶祝中國新年得到來，精品品牌MIUMIU推出『Rouge Obsession</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -7072,37 +7048,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962106" target="_blank"><!-- 連結到文章 -->
-              <h3>保養品牌Aesop忠孝店開幕酒會</h3>
-            </a>
-              <p>[記者賴鵬翔／台北報導]  於1987年成立於澳洲墨爾本的Aesop台灣第二家概念店、同時也是第一家獨立店 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962244" target="_blank"><!-- 連結到文章 -->
-              <h3>Roger Vivier春夏發表</h3>
-            </a>
-              <p>[記者賴鵬翔／台北報導]  昨（１５）Roger Vivier春夏發表會揭幕，七○年代復古風情大放異彩，品 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962264" target="_blank"><!-- 連結到文章 -->
-              <h3>女神宋芸樺出席Dior春光肌秘密</h3>
-            </a>
-              <p>[記者賴鵬翔／台北報導]  時尚品牌Dior今(15日)於信義誠品盛大舉辦2016「全新Dior雪晶靈光感 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1962313" target="_blank"><!-- 連結到文章 -->
               <h3>謝欣穎甜美出席寶格麗春夏配件預覽</h3>
             </a>
               <p>[記者賴鵬翔／台北報導]  寶格麗2016年春夏配件系列以「羅馬假期」為名，匯聚巨星名流薈萃時期之經典風格 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963139" target="_blank"><!-- 連結到文章 -->
+              <h3>想美白？謹記這8大白美成分就對了</h3>
+            </a>
+              <p>[消費中心／台北報導] 送走冷颼颼的冬季，隨著氣溫逐漸轉暖，妳準備好迎接即將開始熱情綻放的陽光了嗎？女人 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963284" target="_blank"><!-- 連結到文章 -->
+              <h3>金屬風外套添喜氣　好萊塢女神最愛</h3>
+            </a>
+              <p>[消費中心／台北報導] 「羽絨衣之王」盟可睞Moncler搶在農曆年前夕，精選一系列金屬風外套。新春賀歲 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963853" target="_blank"><!-- 連結到文章 -->
+              <h3>MIU MIU中國新年限定系列</h3>
+            </a>
+              <p>[記者賴鵬翔／台北報導]  為慶祝中國新年得到來，精品品牌MIUMIU推出『Rouge Obsession (2016/01/17)</p>
           </li>
           
  
@@ -7121,10 +7097,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962313" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fb2%2F25%2Fb2257ed3c205a351ec33a52d544a2b6d.jpg">
-            <h2>謝欣穎甜美出席寶格麗春夏配件預覽</h2>
-            <p>[記者賴鵬翔／台北報導]  寶格麗2016年春夏配件系列以「羅馬假期」為名，匯聚巨星名流薈萃時期之經典風格</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963853" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fe2%2Fca%2Fe2ca7e0a227d18e8413d3a121b226fbb.jpg">
+            <h2>MIU MIU中國新年限定系列</h2>
+            <p>[記者賴鵬翔／台北報導]  為慶祝中國新年得到來，精品品牌MIUMIU推出『Rouge Obsession</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -7149,15 +7125,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962106" target="_blank"><!-- 連結到文章 -->
-              <h3>保養品牌Aesop忠孝店開幕酒會</h3>
-            </a>
-              <p>[記者賴鵬翔／台北報導]  於1987年成立於澳洲墨爾本的Aesop台灣第二家概念店、同時也是第一家獨立店 (2016/01/15)</p>
-          </li>
-          
  
  
           <li>
@@ -7186,6 +7153,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963853" target="_blank"><!-- 連結到文章 -->
+              <h3>MIU MIU中國新年限定系列</h3>
+            </a>
+              <p>[記者賴鵬翔／台北報導]  為慶祝中國新年得到來，精品品牌MIUMIU推出『Rouge Obsession (2016/01/17)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -7201,10 +7177,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/13/1959676" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F46%2Ffb%2F46fba5f0e13cf15d3d1be85f85a3f2de.JPG">
-            <h2>五星級年菜　涵碧樓早鳥預購享9折</h2>
-            <p>[消費中心／台北報導] 南投涵碧樓湖光軒外帶年菜，今年主打融入珍貴食材的滋補湯品「湖光閩菜佛跳牆」，每盅</p><h6>(2016/01/13)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1959153" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F53%2F64%2F53643b29dd81e5bfa05c4da4b82d3a62.jpg">
+            <h2>尾牙飲酒禮儀學問大　喝的巧事業好</h2>
+            <p>[記者甘偉中／台北報導]  春節快到了，這段期間也是尾牙旺季，不少人是一攤接一攤的跑，難免就會遇上需要飲酒</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -7232,19 +7208,19 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/08/1953220" target="_blank"><!-- 連結到文章 -->
-              <h3>想學世界級調酒？就到新竹喜來登</h3>
+            <a class="no-linx link-block" href="/n/2016/01/12/1958087" target="_blank"><!-- 連結到文章 -->
+              <h3>路易十三奇美博物館首辦頂級盛宴</h3>
             </a>
-              <p>[消費中心／台北報導] 新竹喜來登大飯店週末「WOW!窩新竹」藝文活動，一直以來都受到參與者熱烈的迴響。 (2016/01/08)</p>
+              <p>[生活中心／台北報導]  奢華烈酒品牌路易十三於台南奇美博物館舉辦盛大晚宴【路易十三臻峯之夜】，讓二十一 (2016/01/12)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/12/1958087" target="_blank"><!-- 連結到文章 -->
-              <h3>路易十三奇美博物館首辦頂級盛宴</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1959153" target="_blank"><!-- 連結到文章 -->
+              <h3>尾牙飲酒禮儀學問大　喝的巧事業好</h3>
             </a>
-              <p>[生活中心／台北報導]  奢華烈酒品牌路易十三於台南奇美博物館舉辦盛大晚宴【路易十三臻峯之夜】，讓二十一 (2016/01/12)</p>
+              <p>[記者甘偉中／台北報導]  春節快到了，這段期間也是尾牙旺季，不少人是一攤接一攤的跑，難免就會遇上需要飲酒 (2016/01/17)</p>
           </li>
           
  
@@ -7454,10 +7430,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962499" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F73%2F62%2F7362ea1ff95bb7ee48a9c9663125b5b3.jpg">
-            <h2>甜姐兒凱特哈德森「變裝」上菜囉！</h2>
-            <p>[旅遊中心／台北報導] 美國甜姐兒凱特哈德森日前才以一襲裸色禮服，大露性感蠻腰在金球獎紅毯上殺光眾家媒體</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fdb%2F9d%2Fdb9d4ff911de6358b65ccf523475d5f6.jpg">
+            <h2>劍湖山推優惠　2人同行1人免費</h2>
+            <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -7485,24 +7461,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960719" target="_blank"><!-- 連結到文章 -->
-              <h3>馬來西亞新去處　吃喝玩樂通通有</h3>
-            </a>
-              <p>[記者黃靜宜／綜合報導] 下個月就要開始放為期9天的春節假期，你已經想好要怎麼度過了嗎？擁有多元文化以及豐 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961973" target="_blank"><!-- 連結到文章 -->
-              <h3>酷航首開中東航線　5月起前進吉達</h3>
-            </a>
-              <p>[記者黃靜宜／台北報導] 酷航宣布自2016年5月1日起，將從母公司新加坡航空手上接手，開航沙烏地阿拉伯第 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1962020" target="_blank"><!-- 連結到文章 -->
               <h3>興航與四川航空　松山重慶共掛班號</h3>
             </a>
@@ -7516,6 +7474,24 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>甜姐兒凱特哈德森「變裝」上菜囉！</h3>
             </a>
               <p>[旅遊中心／台北報導] 美國甜姐兒凱特哈德森日前才以一襲裸色禮服，大露性感蠻腰在金球獎紅毯上殺光眾家媒體 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963025" target="_blank"><!-- 連結到文章 -->
+              <h3>旅遊保障！觀光局公布問題旅行社</h3>
+            </a>
+              <p>[旅遊中心／台北報導] 寒假旅遊旺季將屆，為保障旅遊消費者權益，交通部觀光局公告104年6月19日至10 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+              <h3>劍湖山推優惠　2人同行1人免費</h3>
+            </a>
+              <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1 (2016/01/16)</p>
           </li>
           
  
@@ -7561,10 +7537,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/13/1959658" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F87%2F1c%2F871cff5015aa9a2148e2322af90fefd2.jpg">
-            <h2>「猴」彩頭　熱門飯店住宿5折起！</h2>
-            <p>[旅遊中心／台北報導] 農曆春節倒數計時，想好去哪走春了嗎？春節連假最適合領完年終、壓歲錢犒賞自己、或是</p><h6>(2016/01/13)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fdb%2F9d%2Fdb9d4ff911de6358b65ccf523475d5f6.jpg">
+            <h2>劍湖山推優惠　2人同行1人免費</h2>
+            <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -7589,24 +7565,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/12/1957870" target="_blank"><!-- 連結到文章 -->
-              <h3>澎湖戀愛季來了　3大玩法你玩過嗎</h3>
-            </a>
-              <p>[記者黃靜宜／台北報導] 為期9天的春節假期，你已經有規畫了嗎？延續2015年澎湖戀愛季六大愛的景點，今年 (2016/01/12)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/12/1958150" target="_blank"><!-- 連結到文章 -->
-              <h3>Janet領部落客　行銷寶島美</h3>
-            </a>
-              <p>[記者黃靜宜／台北報導] TLC旅遊生活頻道《瘋台灣》系列節目再度強勢回歸！這次Janet將率領各國網軍天 (2016/01/12)</p>
-          </li>
-          
  
  
           <li>
@@ -7626,6 +7584,24 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963025" target="_blank"><!-- 連結到文章 -->
+              <h3>旅遊保障！觀光局公布問題旅行社</h3>
+            </a>
+              <p>[旅遊中心／台北報導] 寒假旅遊旺季將屆，為保障旅遊消費者權益，交通部觀光局公告104年6月19日至10 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+              <h3>劍湖山推優惠　2人同行1人免費</h3>
+            </a>
+              <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1 (2016/01/16)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -7641,10 +7617,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962499" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F73%2F62%2F7362ea1ff95bb7ee48a9c9663125b5b3.jpg">
-            <h2>甜姐兒凱特哈德森「變裝」上菜囉！</h2>
-            <p>[旅遊中心／台北報導] 美國甜姐兒凱特哈德森日前才以一襲裸色禮服，大露性感蠻腰在金球獎紅毯上殺光眾家媒體</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fdb%2F9d%2Fdb9d4ff911de6358b65ccf523475d5f6.jpg">
+            <h2>劍湖山推優惠　2人同行1人免費</h2>
+            <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -7672,37 +7648,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961772" target="_blank"><!-- 連結到文章 -->
-              <h3>跑跑卡丁車帶你環遊世界　</h3>
-            </a>
-              <p>[記者徐浩偉／台北報導] 遊戲橘子旗下競速遊戲《跑跑卡丁車》於今(15)日推出全新「環遊世界」主題賽道。此 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961973" target="_blank"><!-- 連結到文章 -->
-              <h3>酷航首開中東航線　5月起前進吉達</h3>
-            </a>
-              <p>[記者黃靜宜／台北報導] 酷航宣布自2016年5月1日起，將從母公司新加坡航空手上接手，開航沙烏地阿拉伯第 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962020" target="_blank"><!-- 連結到文章 -->
-              <h3>興航與四川航空　松山重慶共掛班號</h3>
-            </a>
-              <p>[記者黃靜宜／台北報導] 復興航空與四川航空共同宣佈，今（15）日起於松山重慶航線上開啟共掛班號（code (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1962499" target="_blank"><!-- 連結到文章 -->
               <h3>甜姐兒凱特哈德森「變裝」上菜囉！</h3>
             </a>
               <p>[旅遊中心／台北報導] 美國甜姐兒凱特哈德森日前才以一襲裸色禮服，大露性感蠻腰在金球獎紅毯上殺光眾家媒體 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963025" target="_blank"><!-- 連結到文章 -->
+              <h3>旅遊保障！觀光局公布問題旅行社</h3>
+            </a>
+              <p>[旅遊中心／台北報導] 寒假旅遊旺季將屆，為保障旅遊消費者權益，交通部觀光局公告104年6月19日至10 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963136" target="_blank"><!-- 連結到文章 -->
+              <h3>前女友爸媽中頭獎　他被友貼照嘲笑</h3>
+            </a>
+              <p>[國際中心／綜合報導]  英國上一期樂透彩票，頭獎金額累積破紀錄6,600萬鎊（約新台幣31.8億），最 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+              <h3>劍湖山推優惠　2人同行1人免費</h3>
+            </a>
+              <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1 (2016/01/16)</p>
           </li>
           
  
@@ -7721,10 +7697,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962499" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F73%2F62%2F7362ea1ff95bb7ee48a9c9663125b5b3.jpg">
-            <h2>甜姐兒凱特哈德森「變裝」上菜囉！</h2>
-            <p>[旅遊中心／台北報導] 美國甜姐兒凱特哈德森日前才以一襲裸色禮服，大露性感蠻腰在金球獎紅毯上殺光眾家媒體</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fdb%2F9d%2Fdb9d4ff911de6358b65ccf523475d5f6.jpg">
+            <h2>劍湖山推優惠　2人同行1人免費</h2>
+            <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -7749,24 +7725,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/14/1960719" target="_blank"><!-- 連結到文章 -->
-              <h3>馬來西亞新去處　吃喝玩樂通通有</h3>
-            </a>
-              <p>[記者黃靜宜／綜合報導] 下個月就要開始放為期9天的春節假期，你已經想好要怎麼度過了嗎？擁有多元文化以及豐 (2016/01/14)</p>
-          </li>
-          
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961973" target="_blank"><!-- 連結到文章 -->
-              <h3>酷航首開中東航線　5月起前進吉達</h3>
-            </a>
-              <p>[記者黃靜宜／台北報導] 酷航宣布自2016年5月1日起，將從母公司新加坡航空手上接手，開航沙烏地阿拉伯第 (2016/01/15)</p>
-          </li>
-          
  
  
           <li>
@@ -7786,6 +7744,24 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963025" target="_blank"><!-- 連結到文章 -->
+              <h3>旅遊保障！觀光局公布問題旅行社</h3>
+            </a>
+              <p>[旅遊中心／台北報導] 寒假旅遊旺季將屆，為保障旅遊消費者權益，交通部觀光局公告104年6月19日至10 (2016/01/16)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+              <h3>劍湖山推優惠　2人同行1人免費</h3>
+            </a>
+              <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1 (2016/01/16)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -7801,10 +7777,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1961883" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1f%2Fb0%2F1fb0086b84b021841789832327248350.jpg">
-            <h2>日本御柱祭盛事x百選春櫻賞花趣</h2>
-            <p>[本報訊] 日本眾多節慶活動中，多數於每年固定時間進行，有些好幾年才會舉辦一次，需先預約安排</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fdb%2F9d%2Fdb9d4ff911de6358b65ccf523475d5f6.jpg">
+            <h2>劍湖山推優惠　2人同行1人免費</h2>
+            <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -7829,15 +7805,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/13/1959658" target="_blank"><!-- 連結到文章 -->
-              <h3>「猴」彩頭　熱門飯店住宿5折起！</h3>
-            </a>
-              <p>[旅遊中心／台北報導] 農曆春節倒數計時，想好去哪走春了嗎？春節連假最適合領完年終、壓歲錢犒賞自己、或是 (2016/01/13)</p>
-          </li>
-          
  
  
           <li>
@@ -7863,6 +7830,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>日本御柱祭盛事x百選春櫻賞花趣</h3>
             </a>
               <p>[本報訊] 日本眾多節慶活動中，多數於每年固定時間進行，有些好幾年才會舉辦一次，需先預約安排 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963265" target="_blank"><!-- 連結到文章 -->
+              <h3>劍湖山推優惠　2人同行1人免費</h3>
+            </a>
+              <p>[記者黃靜宜／台北報導] 總統大選投票剛結束，位於雲林的主題樂園劍湖山世界邀請民眾選後放輕鬆，特別於1月1 (2016/01/16)</p>
           </li>
           
  
@@ -8042,10 +8018,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962637" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F90%2F0d%2F900d15605ec122009fea01fe9638bbe9.jpg">
-            <h2>臉書推選舉大聲公　鼓勵大家去投票</h2>
-            <p>[記者甘偉中／台北報導]  在1月16日投票當天，大家會在手機Facebook上收到訊息通知去投票，並且還</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1964384" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2Fa6%2Ffa%2Fa6fa71c72cd68dae89e90460e1ca4886.jpg">
+            <h2>華碩尾牙施崇棠：今年看得到機器人</h2>
+            <p>[記者甘偉中／台北報導]  華碩今日（17）舉辦歲末聯歡晚會，董事長施崇棠表示2016年是華碩非常關鍵的一</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -8073,37 +8049,37 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962049" target="_blank"><!-- 連結到文章 -->
-              <h3>雷神粉絲頁面發表道歉聲明</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963801" target="_blank"><!-- 連結到文章 -->
+              <h3>台北電玩展PS4舞台活動大公開！</h3>
             </a>
-              <p>[記者徐浩偉／台北報導] 英雄聯盟前HKE戰隊AD選手Raison因簽證問題和薪資問題日前鬧得沸沸揚揚，R (2016/01/15)</p>
+              <p>[記者甘偉中／台北報導]  2016台北國際電玩展將於1月29日至2月2日舉辦，PlayStation攤位 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962088" target="_blank"><!-- 連結到文章 -->
-              <h3>Pawn：腰部傷勢決定賽場上表現</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964051" target="_blank"><!-- 連結到文章 -->
+              <h3>為輕量玩家設計　戴爾全新遊戲筆電</h3>
             </a>
-              <p>[記者徐浩偉／台北報導] 在2015英雄聯盟世界賽上八強止步的LPL賽區強權EDG戰隊狀況似乎始終沒調整回 (2016/01/15)</p>
+              <p>[記者甘偉中／台北報導]  戴爾宣布在台推出Inspiron 15 7000高效能遊戲筆電，搶攻春節寒假商 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962581" target="_blank"><!-- 連結到文章 -->
-              <h3>別叫我平板　三星推全新平板電視</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964269" target="_blank"><!-- 連結到文章 -->
+              <h3>15Q4全球PC出貨下滑8.3%</h3>
             </a>
-              <p>[記者甘偉中／台北報導]  三星電子宣布推出全新「平板電視」－Galaxy View，具備18.4吋大螢幕 (2016/01/15)</p>
+              <p>[科技中心／台北報導]  根據國際顧問暨研究機構Gartner初步統計結果顯示，2015年第四季全球個人 (2016/01/17)</p>
           </li>
           
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1962637" target="_blank"><!-- 連結到文章 -->
-              <h3>臉書推選舉大聲公　鼓勵大家去投票</h3>
+            <a class="no-linx link-block" href="/n/2016/01/17/1964384" target="_blank"><!-- 連結到文章 -->
+              <h3>華碩尾牙施崇棠：今年看得到機器人</h3>
             </a>
-              <p>[記者甘偉中／台北報導]  在1月16日投票當天，大家會在手機Facebook上收到訊息通知去投票，並且還 (2016/01/15)</p>
+              <p>[記者甘偉中／台北報導]  華碩今日（17）舉辦歲末聯歡晚會，董事長施崇棠表示2016年是華碩非常關鍵的一 (2016/01/17)</p>
           </li>
           
  
@@ -8149,10 +8125,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/14/1961138" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F1c%2F03%2F1c038c0ddae73bbfa346aeb8d3b01250.jpg">
-            <h2>情人好禮　買Z5抽名牌粉色鍋具組</h2>
-            <p>[記者甘偉中／台北報導]  Sony Mobile宣布Xperia Z5新色玫瑰石英粉將於1月20日正式發</p><h6>(2016/01/14)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/16/1963340" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F2a%2Fa1%2F2aa184e75263bebb61bcb5f1db8b87eb.jpg">
+            <h2>乘勝追擊！華碩7吋追劇平板上市</h2>
+            <p>[記者甘偉中／台北報導]  華碩力推ZenPad追劇平板系列不遺餘力，在網路上連續以Kuso影片造勢，果然</p><h6>(2016/01/16)</h6>
           </a>
         </div>
         
@@ -8177,15 +8153,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           <!-- 這邊是右側的文章列表，只輸出標題與部分內文，共四則。 -->
           
  
- 
- 
-          <li>
-            <a class="no-linx link-block" href="/n/2016/01/12/1958210" target="_blank"><!-- 連結到文章 -->
-              <h3>台灣之星推出首張4G預付卡</h3>
-            </a>
-              <p>[記者甘偉中／台北報導]  台灣之星今日（12）宣布推出首張4G預付卡「4G台灣卡」，促銷期間旅客可以3G (2016/01/12)</p>
-          </li>
-          
  
  
           <li>
@@ -8214,6 +8181,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
           </li>
           
  
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/16/1963340" target="_blank"><!-- 連結到文章 -->
+              <h3>乘勝追擊！華碩7吋追劇平板上市</h3>
+            </a>
+              <p>[記者甘偉中／台北報導]  華碩力推ZenPad追劇平板系列不遺餘力，在網路上連續以Kuso影片造勢，果然 (2016/01/16)</p>
+          </li>
+          
+ 
         </ul>
       </div>
       
@@ -8229,10 +8205,10 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
         <div class="b-left">
-          <a class="no-linx link-block" href="/n/2016/01/15/1962088" target="_blank"><!-- 連結到文章 -->
-            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F28%2F0f%2F280f319abd52f720b4d123e611575aa0.jpg">
-            <h2>Pawn：腰部傷勢決定賽場上表現</h2>
-            <p>[記者徐浩偉／台北報導] 在2015英雄聯盟世界賽上八強止步的LPL賽區強權EDG戰隊狀況似乎始終沒調整回</p><h6>(2016/01/15)</h6>
+          <a class="no-linx link-block" href="/n/2016/01/17/1963801" target="_blank"><!-- 連結到文章 -->
+            <img src="http://imgapi.nownews.com/?w=300&h=240&q=60&src=http%3A%2F%2Fs.nownews.com%2F02%2F65%2F0265dca244c25cc0b02294e4fcbf2853.jpg">
+            <h2>台北電玩展PS4舞台活動大公開！</h2>
+            <p>[記者甘偉中／台北報導]  2016台北國際電玩展將於1月29日至2月2日舉辦，PlayStation攤位</p><h6>(2016/01/17)</h6>
           </a>
         </div>
         
@@ -8260,15 +8236,6 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a class="no-linx link-block" href="/n/2016/01/15/1961874" target="_blank"><!-- 連結到文章 -->
-              <h3>《女神聯盟II》即將和玩家相見歡</h3>
-            </a>
-              <p>[記者徐浩偉／台北報導] 艾肯娛樂於今（15）日正式宣布獲得《女神聯盟II》台港澳獨家代理權，預計將於20 (2016/01/15)</p>
-          </li>
-          
- 
- 
-          <li>
             <a class="no-linx link-block" href="/n/2016/01/15/1961942" target="_blank"><!-- 連結到文章 -->
               <h3>Garena校際盃將開放報名！</h3>
             </a>
@@ -8291,6 +8258,15 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
               <h3>Pawn：腰部傷勢決定賽場上表現</h3>
             </a>
               <p>[記者徐浩偉／台北報導] 在2015英雄聯盟世界賽上八強止步的LPL賽區強權EDG戰隊狀況似乎始終沒調整回 (2016/01/15)</p>
+          </li>
+          
+ 
+ 
+          <li>
+            <a class="no-linx link-block" href="/n/2016/01/17/1963801" target="_blank"><!-- 連結到文章 -->
+              <h3>台北電玩展PS4舞台活動大公開！</h3>
+            </a>
+              <p>[記者甘偉中／台北報導]  2016台北國際電玩展將於1月29日至2月2日舉辦，PlayStation攤位 (2016/01/17)</p>
           </li>
           
  
@@ -8732,9 +8708,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item active">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1957843" target="_blank">
-          前進總統府　蔡要帶人民走向新時代
-          <span>22:29</span>
+        <a href="/n/2016/01/18/1963112" target="_blank">
+          探／美豬難題待解　朝野攜手第一步
+          <span>04:00</span>
         </a>
       </span>
     </div>
@@ -8743,9 +8719,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962171" target="_blank">
-          宋楚瑜：當選後推動二輪選舉
-          <span>22:53</span>
+        <a href="/n/2016/01/18/1963122" target="_blank">
+          看守內閣期　蔡英文不能迴避的挑戰
+          <span>00:05</span>
         </a>
       </span>
     </div>
@@ -8754,9 +8730,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962176" target="_blank">
-          宋楚瑜：放下藍綠惡鬥，快樂投票
-          <span>23:27</span>
+        <a href="/n/2016/01/18/1964258" target="_blank">
+          宋茜主演大陸電視劇引話題勤奮有佳
+          <span>00:30</span>
         </a>
       </span>
     </div>
@@ -8765,9 +8741,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962407" target="_blank">
-          藍選前之夜湧五萬人　表演多氣氛歡
-          <span>22:50</span>
+        <a href="/n/2016/01/18/1964292" target="_blank">
+          犀牛18日開訓　牛棚戰力令人擔心
+          <span>00:11</span>
         </a>
       </span>
     </div>
@@ -8776,9 +8752,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962443" target="_blank">
-          不怕林智勝競爭　陳江和：當他洋將
-          <span>22:10</span>
+        <a href="/n/2016/01/18/1964293" target="_blank">
+          郭書瑤一秒裸露好騷　霸氣壓徐懷鈺
+          <span>00:00</span>
         </a>
       </span>
     </div>
@@ -8787,9 +8763,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962498" target="_blank">
-          大樂透摃龜　今彩539頭獎1注中
-          <span>22:13</span>
+        <a href="/n/2016/01/18/1964312" target="_blank">
+          李艷秋舌戰曾國城　受封國母害羞了
+          <span>00:00</span>
         </a>
       </span>
     </div>
@@ -8798,9 +8774,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962506" target="_blank">
-          跟小倩十指緊扣　朱感性訴求大團結
-          <span>22:11</span>
+        <a href="/n/2016/01/18/1964337" target="_blank">
+          央行備戰　台幣短期恐破34
+          <span>04:00</span>
         </a>
       </span>
     </div>
@@ -8809,9 +8785,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962523" target="_blank">
-          披綠讓台灣沉淪！柱：圓圈蓋朱頭上
-          <span>22:38</span>
+        <a href="/n/2016/01/18/1964347" target="_blank">
+          他返白色恐怖刑求處　逼供崩潰噴淚
+          <span>00:00</span>
         </a>
       </span>
     </div>
@@ -8820,9 +8796,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962579" target="_blank">
-          周子瑜含淚道歉　被迫認「中國人」
-          <span>23:10</span>
+        <a href="/n/2016/01/18/1964441" target="_blank">
+          行政院今臨時院會　毛內閣總辭
+          <span>00:04</span>
         </a>
       </span>
     </div>
@@ -8831,9 +8807,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962581" target="_blank">
-          別叫我平板　三星推全新平板電視
-          <span>22:55</span>
+        <a href="/n/2016/01/18/1964480" target="_blank">
+          羅志祥自認「中國人」　引戰遭譙爆
+          <span>00:33</span>
         </a>
       </span>
     </div>
@@ -8842,9 +8818,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962635" target="_blank">
-          果果森林探險趣　孩童攜手玩創作！
-          <span>23:24</span>
+        <a href="/n/2016/01/18/1964497" target="_blank">
+          她大膽仿效天后　第一發就這樣搞
+          <span>04:00</span>
         </a>
       </span>
     </div>
@@ -8853,9 +8829,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
     <div class="item ">
       <span>【快訊】</span>
       <span>
-        <a href="/n/2016/01/15/1962637" target="_blank">
-          臉書推選舉大聲公　鼓勵大家去投票
-          <span>23:27</span>
+        <a href="/n/2016/01/18/1964548" target="_blank">
+          蔡阿嘎痛譙黃安　網友超爽der 
+          <span>03:28</span>
         </a>
       </span>
     </div>
@@ -8993,7 +8969,11 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
  
-    <a class="sno tag_30306" rel="tag" href="/search/餵母乳">餵母乳</a>
+    <a class="sno tag_132128" rel="tag" href="/search/母嬰親善">母嬰親善</a>
+  
+ 
+ 
+    <a class="sno tag_132129" rel="tag" href="/search/母嬰同室">母嬰同室</a>
   
  
  
@@ -9001,11 +8981,7 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
   
  
  
-    <a class="sno tag_132128" rel="tag" href="/search/母嬰親善">母嬰親善</a>
-  
- 
- 
-    <a class="sno tag_132129" rel="tag" href="/search/母嬰同室">母嬰同室</a>
+    <a class="sno tag_30306" rel="tag" href="/search/餵母乳">餵母乳</a>
   
  
  
@@ -9070,9 +9046,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961584">
+            <a href="/n/2016/01/17/1959369">
               
- 懷孕前嗜吃馬鈴薯妊娠糖尿病風險增
+ 尾牙抽獎開運小妙招　無私大公開
  
             </a>
           </li>
@@ -9081,9 +9057,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961642">
+            <a href="/n/2016/01/16/1962077">
               
- 師大管樂法式浪漫　開啟香榭奇緣
+ 「滑」時代來臨　復興高中翻轉教學
  
             </a>
           </li>
@@ -9092,9 +9068,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961734">
+            <a href="/n/2016/01/16/1962098">
               
- 情人節遇過年　搶50億巧克力商機
+ 林志興接任史前文化博物館副館長
  
             </a>
           </li>
@@ -9103,9 +9079,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961783">
+            <a href="/n/2016/01/15/1962643">
               
- 免試入學提早準備　求學新的里程碑
+ 新生代藝術家　展現城市新面貌　
  
             </a>
           </li>
@@ -9114,9 +9090,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961871">
+            <a href="/n/2016/01/15/1962655">
               
- 濫用類固醇藥膏　月通報逾500例
+ 跟著選舉潮　新北特映16部紀錄片
  
             </a>
           </li>
@@ -9125,9 +9101,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961878">
+            <a href="/n/2016/01/16/1962875">
               
- 《游於藝》計畫開跑　18萬童受益
+ 雲量多偶有短暫雨　各地早晚偏涼
  
             </a>
           </li>
@@ -9136,9 +9112,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961947">
+            <a href="/n/2016/01/16/1963033">
               
- 搭公車史上最優惠　十條路線免費搭
+ 大陸冷氣團明來襲　北部下探13度
  
             </a>
           </li>
@@ -9147,9 +9123,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961972">
+            <a href="/n/2016/01/16/1963105">
               
- 天冷促發心肌梗塞　床頭別少救命衣
+ 故宮南院餐廳複查　衛生局：合格
  
             </a>
           </li>
@@ -9158,9 +9134,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961992">
+            <a href="/n/2016/01/16/1963220">
               
- 一樣買到大統油　頂新13人被告
+ 日本陶藝家來台辦個展　展陶藝之美
  
             </a>
           </li>
@@ -9204,9 +9180,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961976">
+            <a href="/n/2016/01/17/1964203">
               
- 太陽花女王PO五星旗　挺一個中國
+ 老公半年1次　妻鬥垮性交易養生館
  
             </a>
           </li>
@@ -9216,9 +9192,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961380">
+            <a href="/n/2016/01/17/1963771">
               
- 小時候以為的蠢事？網：睪丸是貢丸
+ 惡有惡報／黃安微博和節目全被封殺
  
             </a>
           </li>
@@ -9228,9 +9204,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961836">
+            <a href="/n/2016/01/17/1964213">
               
- 伊能靜差點離婚：你找個年輕老婆生
+ 國民黨18日中常會　黨魁大戲登場
  
             </a>
           </li>
@@ -9240,9 +9216,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961739">
+            <a href="/n/2016/01/17/1963901">
               
- 陸友反彈揭黃安真面目　假裝愛中國
+ 不能同意更多！女人容易變砲友特徵
  
             </a>
           </li>
@@ -9252,9 +9228,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961858">
+            <a href="/n/2016/01/17/1963897">
               
- 男子疑在褲襠藏武器　查後竟發現…
+ 小S開心回歸平淡　雨天也溜許老三
  
             </a>
           </li>
@@ -9264,9 +9240,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961745">
+            <a href="/n/2016/01/17/1963635">
               
- 突擊A片現場　工作人員不好當
+ 學者警告　若蔡拉美日制衡陸風險高
  
             </a>
           </li>
@@ -9276,9 +9252,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961421">
+            <a href="/n/2016/01/17/1964031">
               
- 蔡康永這樣對小S　暖心6招超完美
+ 人妻軟Q開腿　清涼薄紗黏李宗盛
  
             </a>
           </li>
@@ -9288,9 +9264,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961628">
+            <a href="/n/2016/01/17/1964228">
               
- 這員工超霸氣　遞辭職信飆罵老闆
+ 小英當選總統　沙雕頭像見證歷史
  
             </a>
           </li>
@@ -9300,9 +9276,9 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
           <li>
-            <a href="/n/2016/01/15/1961565">
+            <a href="/n/2016/01/17/1964222">
               
- 8天拆橋用炸的...柯P難得尷尬
+ 想以湖人退休　Kobe不打奧運了
  
             </a>
           </li>
@@ -9394,7 +9370,7 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
 
 </section> <section class="sidebar-second">
 
-  <!-- <div id="crazy-video" class="ads">
+  <div id="crazy-video" class="ads">
 
 <link rel="stylesheet" href="/assets/css/crazy-video.css">
 <script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script>
@@ -9487,7 +9463,7 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
         ad_player.stopVideo();
     });
   </script>
--</div> -->
+</div>
 
   <!-- 更多新聞 -->
   
@@ -9501,14 +9477,14 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
  
-          <li><a href="/n/2016/01/15/1962635">果果森林探險趣　孩童攜手玩創作！</a></li>
+          <li><a href="/n/2016/01/17/1964245">彰化確診1禽流感　防檢局撲殺蛋雞</a></li>
           
  
  
  
  
  
-          <li><a href="/n/2016/01/15/1962393">年前來送餐吧　助獨居老人過好年　</a></li>
+          <li><a href="/n/2016/01/17/1963945">紓解選後北上人潮　高鐵加開3班次</a></li>
           
             <li class="ads-inline ads-text"></li>
           
@@ -9517,7 +9493,7 @@ _atrk_opts = { atrk_acct:"3yibi1aoZM00M2", domain:"nownews.com",dynamic: true};
  
  
  
-          <li><a href="/n/2016/01/15/1962289">高鐵彰化站訊號異常　列車倒駛進站</a></li>
+          <li><a href="/n/2016/01/17/1963929">國5路肩　11點半起機動開放</a></li>
           
  
  

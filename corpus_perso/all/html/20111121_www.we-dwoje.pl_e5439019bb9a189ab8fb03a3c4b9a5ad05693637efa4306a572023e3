@@ -466,10 +466,10 @@ Oceń
 <div class="sg_box2">
 <a class="header">Redakcja poleca</a>
 <div class="box2_content">
-<script type="text/javascript">window.ediPlayer = true</script><div id="player-yakk6xvkv9hcljjr-container" class="player-container"><div id="player-yakk6xvkv9hcljjr" class="video-js vjs-default-skin polki-skin vjs-controls-over"></div></div>
+<script type="text/javascript">window.ediPlayer = true</script><div id="player-fahber8mkunk5g9l-container" class="player-container"><div id="player-fahber8mkunk5g9l" class="video-js vjs-default-skin polki-skin vjs-controls-over"></div></div>
 <script>
 (function() {
-var playerId = 'player-yakk6xvkv9hcljjr';
+var playerId = 'player-fahber8mkunk5g9l';
 var playerConfig = {"controls":true,"autoplay":true,"preload":"auto","loop":false,"maxWidth":660,"maxHeight":360,"responsive":true,"defaultVolume":1,"defaultQuality":"auto","percentProgressCallback":70,"techOrder":["html5","flash","youtube"],"plugins":{"movie":true,"playlist":true,"related":true,"gemiusStream":{"IDENTIFIER":"AfTqyCeNP8QMupBgiQLJ1sWnXmXNFkdsk9BZh6XcVwD.87","HITCOLLECTOR":"http://spl.hit.gemius.pl","libraryUrl":"http://spl.hit.gemius.pl/gstream.js"},"persistVolume":true,"resolutions":true,"ads":true,"vast":{"url":"http://edipresse.adocean.pl/ad.xml?id=\"+( typeof(vd_placement_related) !== \"undefined\" ? vd_placement_related : \"tAL1vl1TjSyMAG9AHzTpH_QDTrvC11rd8m3hQGqMEg7.f7\" )+\"/service=\"+( typeof(vd_service) !== \"undefined\" ? vd_service : \"\" )+\"/edi_service_id=\"+( typeof(EDI_SERVICE_ID) !== \"undefined\" ? EDI_SERVICE_ID : \"\" )+\"/key=\"+( typeof(vd_keywords) !== \"undefined\" ? vd_keywords : \"\" )+\""}},"flash":{"swf":"http://demo.edi-net.pl/player-video/export/player.swf"},"movie":{"title":"Jak dobra\u0107 narty? Oto porady eksperta","poster":"http://x.video-edi.com/pictures/polkipl/jak-wybrac-narty-11883.jpg","gemiusStream":{"materialIdentifier":"15028","treeId":[0],"totalTime":247,"additionalPackage":[],"customPackage":[{"name":"Nazwa","value":"Jak wybra\u0107 narty"},{"name":"Serwis","value":"polki.pl"}]},"sources":[{"src":"http://x.video-edi.com/video/polkipl/jak-wybrac-narty-15028.mp4","type":"video/mp4"}]}};
 try {
 preparePlayerConfig(playerConfig);

@@ -121,13 +121,12 @@ var newsru_var_puid1 = 0;
 </script>
 
 
-<!-- MSK //-->
+<!-- NY //-->
 <script type="text/javascript" src="http://static.newsru.com/css/adfox.asyn.code.ver3.js"> </script>
 <script type="text/javascript" src="http://static.newsru.com/css/adfox.asyn.code.scroll.js"> </script>
 
 <script type="text/javascript" src="http://static.newsru.com/js/adriver/adriver.core.2.js"> </script>
 <script type="text/javascript" src="http://static.newsru.com/js/adriver/adriver.core.2.min.js"> </script>
-
 
 
 
@@ -916,26 +915,26 @@ if (navigator.appName != 'Microsoft Internet Explorer') {
 <div style="padding-top: 5px;"><table width="525" border="0" cellspacing="3" cellpadding="0" bgcolor="#e6e6e6">
 <tr><td><!-- ъМДЕЙЯ.дХПЕЙР -->
 <script type="text/javascript">
-//<![CDATA[
 yandex_partner_id = 43120;
 yandex_site_bg_color = 'E6E6E6';
-yandex_stat_id = 1215138;
+yandex_stat_id = 1215140;
 yandex_site_charset = 'windows-1251';
 yandex_ad_format = 'direct';
 yandex_font_size = 0.9;
 yandex_font_family = 'arial';
 yandex_direct_type = 'flat';
 yandex_direct_limit = 4;
+yandex_direct_title_font_size = 2;
 yandex_direct_bg_color = 'E6E6E6';
-yandex_direct_title_color = '0000FF';
+yandex_direct_title_color = '0016A6';
 yandex_direct_url_color = '006A29';
 yandex_direct_all_color = '333333';
 yandex_direct_text_color = '000000';
-yandex_direct_hover_color = '0016A6';
+yandex_direct_hover_color = '006A29';
 yandex_direct_favicon = false;
 document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
-//]]>
-</script></td></tr>
+</script>
+</td></tr>
 </table></div>
 
 
@@ -964,13 +963,12 @@ document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/syste
 </noindex>
 <img src="http://static.newsru.com/img/b.gif" width="1" height="5" alt=""><br><table width="100%" cellspacing="0" cellpadding="5">
 <tr>
-<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 18:08</b><br></span>
-<span class="copy"><font color="#ffffff"><b><a href="/religy/15jan2016/chaplin.html"><font color="#ffffff">Протоиерей Всеводлод Чаплин исключен из президентского Совета по взаимодействию с
-религиозными объединениями</font></a> // <a href=/religy/index.html><font color="#ffffff">Религия и общество</font></a></b><br>
+<td bgcolor="#0016a6"><span class="datetime"><b>Последняя новость NEWSru.com &ndash; 23:58</b><br></span>
+<span class="copy"><font color="#ffffff"><b><a href="/russia/17jan2016/vahta.html"><font color="#ffffff">Из ульяновского техникума, где была жестоко избита студентка, уволили дежурную по общежитию</font></a> // <a href=/russia/index.html><font color="#ffffff">В России</font></a></b><br>
 Досье NEWSru.com:<br><b>
-<a href="/dossier/154.html"><font color="#ffffff">Религия</font></a> /
-<a href="/dossier/1324.html"><font color="#ffffff">Русская Православная Церковь</font></a> /
-<a href="/dossier/18345.html"><font color="#ffffff">Решения, назначения, кадры</font></a>
+<a href="/dossier/177.html"><font color="#ffffff">Ульяновская область</font></a> /
+<a href="/dossier/4537.html"><font color="#ffffff">Криминал</font></a> /
+<a href="/dossier/13695.html"><font color="#ffffff">Подростки</font></a>
 </b>
 </font></span></td>
 </tr>
@@ -1089,7 +1087,7 @@ width=88 height=31>
 
 
 <div style="margin-bottom:5px">
-<b>Пятница, 15 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/religy/15jan2016/chaplin.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 18:08</a></h1></b><br>
+<b>Понедельник, 18 января 2016 г. &nbsp; <h1 class="indextop" style="display:inline"><a href="/russia/17jan2016/vahta.html" title="Последняя новость" class="indextop">Последняя новость &ndash; 23:58</a></h1></b><br>
 Все права на материалы и новости, опубликованные на сайте NEWSru.com, охраняются в соответствии с законодательством РФ.
 <noindex>
 Допускается цитирование без согласования с редакцией не более 50% от объема оригинального материала, с обязательной прямой гиперссылкой на страницу, с которой материал заимствован.
@@ -1172,7 +1170,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="http://ads.adfox.ru/715
 &copy;&nbsp;<a href="http://www.newsru.com" class="down" style="text-decoration:none">NEWSru.com &ndash; самые быстрые новости</a> 2000-2016
 </div>
 
-<!--  tdt Fri Jan 15 18:15:18 2016 /sport/06jan2012/wcup.html 80  -->
+<!--  tdt Mon Jan 18 00:56:40 2016 /sport/06jan2012/wcup.html 80  -->
 
 
 </div>

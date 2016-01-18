@@ -6,21 +6,21 @@
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?O" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/newstream/style.css?O" />
-<script type="text/javascript" src="/misc/jquery.js?O"></script>
-<script type="text/javascript" src="/misc/drupal.js?O"></script>
-<script type="text/javascript" src="/sites/all/modules/disqus/disqus.js?O"></script>
-<script type="text/javascript" src="/sites/all/themes/newstream/script.js?O"></script>
+<link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?i" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/newstream/style.css?i" />
+<script type="text/javascript" src="/misc/jquery.js?i"></script>
+<script type="text/javascript" src="/misc/drupal.js?i"></script>
+<script type="text/javascript" src="/sites/all/modules/disqus/disqus.js?i"></script>
+<script type="text/javascript" src="/sites/all/themes/newstream/script.js?i"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "disqus": { "url": "http://newstonight.co.za/content/researchers-say-cannabis-smokers-should-prefer-mouth-spray", "title": "Researchers Say Cannabis Smokers Should Prefer Mouth Spray", "identifier": "node/1876", "shortname": "newstonight" } });
@@ -169,7 +169,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </div>
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
 <div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul></div><input type="hidden" name="form_build_id" id="form-zSqv5N_G402fxFoElYhRvxXqXrdW7Sf-kg2Dyuq_7eM" value="form-zSqv5N_G402fxFoElYhRvxXqXrdW7Sf-kg2Dyuq_7eM"  />
+</ul></div><input type="hidden" name="form_build_id" id="form-WCkQfXW13-eZLEEr4TmxrbsdVxhEo-3ZmJJ3cx2LmjU" value="form-WCkQfXW13-eZLEEr4TmxrbsdVxhEo-3ZmJJ3cx2LmjU"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 
 </div></form>
@@ -184,7 +184,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
  <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit-1" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-deEFonYLjohSxwDQW8HzweKUyIe5vpw65kfNpz0Cc7A" value="form-deEFonYLjohSxwDQW8HzweKUyIe5vpw65kfNpz0Cc7A"  />
+<input type="hidden" name="form_build_id" id="form-jheqe8n9M4L-Rx6s7RaK8i3Ml23-5I1i4-HnxB1o0Pw" value="form-jheqe8n9M4L-Rx6s7RaK8i3Ml23-5I1i4-HnxB1o0Pw"  />
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
 </div>
 
@@ -214,29 +214,29 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 						<div class="bottom-block">
 						<div class="sblock2-bottom block-views" id="block-views-bl1-block_1">
 			 <h3 class="title"><span>You May Have Missed...</span></h3>
-			 <div class="view view-bl1 view-id-bl1 view-display-id-block_1 view-dom-id-89f493c41c718d9bbe58a9521e2bb8de">
+			 <div class="view view-bl1 view-id-bl1 view-display-id-block_1 view-dom-id-ade495744c29f8b278ba62073bc94e0e">
     
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/content/sheffield-gp-facility-inadequate-says-inspectors"><a href="/content/sheffield-gp-facility-inadequate-says-inspectors" class="imagecache imagecache-thumb imagecache-linked imagecache-thumb_linked"><img src="http://newstonight.co.za/assets/imagecache/thumb/Sheffield-GP-surgery.jpg" alt="Sheffield GP facility is inadequate, says inspectors" title="" width="80" height="80" class="imagecache imagecache-thumb"/></a></a></span>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/sheffield-gp-facility-inadequate-says-inspectors">Sheffield GP facility is inadequate, says inspectors</a></span>  </div>  
-  <div class="views-field views-field-created">        <span class="field-content">Wed, 01/13/2016 - 03:25</span>  </div>  
-  <div class="views-field views-field-body">        <div class="field-content"><p>A team of inspectors have said categorised a Sheffield GP surgery as inadequate and said that it is not fit for providing quality care to the...</div>  </div>  </div>
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/content/uk-junior-doctors-conclude-first-strike"><a href="/content/uk-junior-doctors-conclude-first-strike" class="imagecache imagecache-thumb imagecache-linked imagecache-thumb_linked"><img src="http://newstonight.co.za/assets/imagecache/thumb/UK-junior-doctors.jpg" alt="UK junior doctors conclude first strike" title="" width="80" height="80" class="imagecache imagecache-thumb"/></a></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/uk-junior-doctors-conclude-first-strike">UK junior doctors conclude first strike</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Thu, 01/14/2016 - 03:04</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>The junior doctors in the United Kingdom have concluded their first industrial action that went on for 24 hours amid signs that an agreement might...</div>  </div>  </div>
     </div>
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl1 view-id-bl1 view-display-id-attachment_1 view-dom-id-5859f95292579b43cbadff8c92c1063f">
+      <div class="view view-bl1 view-id-bl1 view-display-id-attachment_1 view-dom-id-507b63583d32ef308fe34ef6ce23c5c1">
     
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/experts-urge-more-steps-fight-obesity-uk">Experts urge for more steps to fight obesity in the UK</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/sheffield-gp-facility-inadequate-says-inspectors">Sheffield GP facility is inadequate, says inspectors</a></span>  </div>  </div>
     </div>
   
   
@@ -244,14 +244,14 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl1 view-id-bl1 view-display-id-attachment_2 view-dom-id-e6448d11e33b602a78dfade5652d6601">
+</div><div class="view view-bl1 view-id-bl1 view-display-id-attachment_2 view-dom-id-c8817df30e42b0088aa3b652069a7e46">
     
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/location/japan">More from Japan</a></span>  </div>  </div>
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/category/company/microsoft">More from Microsoft</a></span>  </div>  </div>
     </div>
   
   
@@ -272,7 +272,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 			<div class="bottom-block grad">
 						<div class="sblock2-bottom block-views" id="block-views-bl2-block_1">
 			 <h3 class="title"><span>Nigeria Update</span></h3>
-			 <div class="view view-bl2 view-id-bl2 view-display-id-block_1 view-dom-id-679b91792d1bf72a53954b4aa73380fc">
+			 <div class="view view-bl2 view-id-bl2 view-display-id-block_1 view-dom-id-061b889fffaacc88c4753049ff586538">
     
   
   
@@ -287,7 +287,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl2 view-id-bl2 view-display-id-attachment_1 view-dom-id-8e3a7668be3875f28292edb8d02b9e27">
+      <div class="view view-bl2 view-id-bl2 view-display-id-attachment_1 view-dom-id-f79cdc5f1ee955047fc21c659b5c1d94">
     
   
   
@@ -302,7 +302,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl2 view-id-bl2 view-display-id-attachment_2 view-dom-id-70c990c89601f17a773cb3c8ab24ecca">
+</div><div class="view view-bl2 view-id-bl2 view-display-id-attachment_2 view-dom-id-42e940b4aa35cc2044a17062c88ed3ad">
     
   
   
@@ -330,7 +330,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 			<div class="bottom-block nopad">
 						<div class="sblock2-bottom block-views" id="block-views-bl3-block_1">
 			 <h3 class="title"><span>Economy Watch</span></h3>
-			 <div class="view view-bl3 view-id-bl3 view-display-id-block_1 view-dom-id-cb49ae47b60070c95266e3f34fb3b283">
+			 <div class="view view-bl3 view-id-bl3 view-display-id-block_1 view-dom-id-3f414df5696ef7621dfe58eb866a5710">
     
   
   
@@ -345,7 +345,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl3 view-id-bl3 view-display-id-attachment_1 view-dom-id-3ba3ff56ed4a3a033c43b0b880a1c494">
+      <div class="view view-bl3 view-id-bl3 view-display-id-attachment_1 view-dom-id-2aa60354a57e0d7372dfc030f6261605">
     
   
   
@@ -360,7 +360,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl3 view-id-bl3 view-display-id-attachment_2 view-dom-id-c104440c4c1794b90b81832a10c57bbd">
+</div><div class="view view-bl3 view-id-bl3 view-display-id-attachment_2 view-dom-id-11bab44807b81483b1b7529833e13e7e">
     
   
   
@@ -390,7 +390,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 						<div class="bottom-block grad">
 						<div class="sblock2-bottom block-views" id="block-views-bl4-block_1">
 			 <h3 class="title"><span>Health Tonight</span></h3>
-			 <div class="view view-bl4 view-id-bl4 view-display-id-block_1 view-dom-id-d1996d1ee5d5d10c14a54e1ebd41b1c1">
+			 <div class="view view-bl4 view-id-bl4 view-display-id-block_1 view-dom-id-23983c409fdb5642b0bc410ed6d2839f">
     
   
   
@@ -405,7 +405,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl4 view-id-bl4 view-display-id-attachment_1 view-dom-id-dd5d572a4cac034656d9eaa24698295d">
+      <div class="view view-bl4 view-id-bl4 view-display-id-attachment_1 view-dom-id-7666852e2e2a17c0187e955ee8ac2163">
     
   
   
@@ -420,7 +420,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl4 view-id-bl4 view-display-id-attachment_2 view-dom-id-4e47fc5cb810c4f9d27ce896cfa0b0d0">
+</div><div class="view view-bl4 view-id-bl4 view-display-id-attachment_2 view-dom-id-3ea8dc73513e8ae483eadfe4f3967ad6">
     
   
   
@@ -444,7 +444,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 	</div>
 		<div class="sblock2-bottom block-views" id="block-views-bl7-block_1">
 			 <h3 class="title"><span>Science Tonight</span></h3>
-			 <div class="view view-bl7 view-id-bl7 view-display-id-block_1 view-dom-id-c157d57aad21447b326bce7c1f772086">
+			 <div class="view view-bl7 view-id-bl7 view-display-id-block_1 view-dom-id-76ccc28655dd83d0c04db77886b648f8">
     
   
   
@@ -459,7 +459,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl7 view-id-bl7 view-display-id-attachment_1 view-dom-id-c4ef5f626e9a3f15f19a92c25ae21a55">
+      <div class="view view-bl7 view-id-bl7 view-display-id-attachment_1 view-dom-id-ee6534a82f890fdebc7d25e5e1549ed7">
     
   
   
@@ -474,7 +474,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl7 view-id-bl7 view-display-id-attachment_2 view-dom-id-0859242e05003b5b1fe6226897c66279">
+</div><div class="view view-bl7 view-id-bl7 view-display-id-attachment_2 view-dom-id-2bb44c2798ee9ed713c8fecd99506fe0">
     
   
   
@@ -502,7 +502,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 			<div class="bottom-block">
 						<div class="sblock2-bottom block-views" id="block-views-bl5-block_1">
 			 <h3 class="title"><span>UK News</span></h3>
-			 <div class="view view-bl5 view-id-bl5 view-display-id-block_1 view-dom-id-7428038fe551be716c1e880c05bfd5f8">
+			 <div class="view view-bl5 view-id-bl5 view-display-id-block_1 view-dom-id-891151ae0e36fceb7c4bd344c3df43ae">
     
   
   
@@ -517,7 +517,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl5 view-id-bl5 view-display-id-attachment_1 view-dom-id-d99266a01829a31f1978d1af7d63d223">
+      <div class="view view-bl5 view-id-bl5 view-display-id-attachment_1 view-dom-id-24d463c81358e641e4e094ca708f4cc1">
     
   
   
@@ -532,7 +532,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl5 view-id-bl5 view-display-id-attachment_2 view-dom-id-6dc6199f1cfe93c089ba2d646ca2bcfb">
+</div><div class="view view-bl5 view-id-bl5 view-display-id-attachment_2 view-dom-id-46a7b476486c6a2fcba32d8bb8ca3e7b">
     
   
   
@@ -556,7 +556,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 	</div>
 		<div class="sblock2-bottom block-views" id="block-views-bl8-block_1">
 			 <h3 class="title"><span>Pharmaceuticals</span></h3>
-			 <div class="view view-bl8 view-id-bl8 view-display-id-block_1 view-dom-id-01b7806438ecb9e84fb50afb9695ee17">
+			 <div class="view view-bl8 view-id-bl8 view-display-id-block_1 view-dom-id-95047e216fc2eddaeaa378aa88da2027">
     
   
   
@@ -571,7 +571,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl8 view-id-bl8 view-display-id-attachment_1 view-dom-id-f0cc2c27eb7f040e1793301ecc44c4ca">
+      <div class="view view-bl8 view-id-bl8 view-display-id-attachment_1 view-dom-id-62c852e8c9fa4c51caad2c6cf5473b01">
     
   
   
@@ -586,7 +586,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl8 view-id-bl8 view-display-id-attachment_2 view-dom-id-8ed023f57eac9fe41b0daa7087a80c95">
+</div><div class="view view-bl8 view-id-bl8 view-display-id-attachment_2 view-dom-id-c7014e9acba89527f8d52a625b3d765a">
     
   
   
@@ -614,7 +614,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 			<div class="bottom-block nopad grad">
 						<div class="sblock2-bottom block-views" id="block-views-bl6-block_1">
 			 <h3 class="title"><span>US News</span></h3>
-			 <div class="view view-bl6 view-id-bl6 view-display-id-block_1 view-dom-id-b51675b46df91e5fb7be6e0f0443884f">
+			 <div class="view view-bl6 view-id-bl6 view-display-id-block_1 view-dom-id-d96e9e47593ab6a000c37b53a1a9235e">
     
   
   
@@ -629,7 +629,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl6 view-id-bl6 view-display-id-attachment_1 view-dom-id-eb9d467fb2abd0053d7da591600fd852">
+      <div class="view view-bl6 view-id-bl6 view-display-id-attachment_1 view-dom-id-19616bb2ee932c2ef86a6c2cbb24d9c0">
     
   
   
@@ -644,7 +644,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl6 view-id-bl6 view-display-id-attachment_2 view-dom-id-ba82e51ed61a97b52d424e6aade22313">
+</div><div class="view view-bl6 view-id-bl6 view-display-id-attachment_2 view-dom-id-a7c8038cc1a2fa2954d3df1082e71802">
     
   
   
@@ -668,29 +668,29 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 	</div>
 		<div class="sblock2-bottom block-views" id="block-views-bl9-block_1">
 			 <h3 class="title"><span>Technology Tonight</span></h3>
-			 <div class="view view-bl9 view-id-bl9 view-display-id-block_1 view-dom-id-562dcfe6d66d1310587a99ec50002d32">
+			 <div class="view view-bl9 view-id-bl9 view-display-id-block_1 view-dom-id-0603857743180548c8a64d36d78e1360">
     
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/content/facebook-will-test-shopping-section-making-users-convenient-purchase-things-while-browsing-n"><a href="/content/facebook-will-test-shopping-section-making-users-convenient-purchase-things-while-browsing-n" class="imagecache imagecache-thumb imagecache-linked imagecache-thumb_linked"><img src="http://newstonight.co.za/assets/imagecache/thumb/facebook-shopping-section2.jpg" alt="Facebook will test Shopping section, making users convenient to purchase things " title="" width="80" height="80" class="imagecache imagecache-thumb"/></a></a></span>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/facebook-will-test-shopping-section-making-users-convenient-purchase-things-while-browsing-n">Facebook will test Shopping section, making users convenient to purchase things while browsing Newsfeed</a></span>  </div>  
-  <div class="views-field views-field-created">        <span class="field-content">Tue, 10/13/2015 - 19:51</span>  </div>  
-  <div class="views-field views-field-body">        <div class="field-content"><p>A social networking site, Facebook, headquartered in Menlo Park is planning to transform your...</div>  </div>  </div>
+  <div class="views-field views-field-field-image-fid">        <span class="field-content"><a href="/content/ndrf-ties-isro-unitfor-valuable-satellite-data"><a href="/content/ndrf-ties-isro-unitfor-valuable-satellite-data" class="imagecache imagecache-thumb imagecache-linked imagecache-thumb_linked"><img src="http://newstonight.co.za/assets/imagecache/thumb/NDRF.jpg" alt="NDRF ties up ISRO unitfor valuable satellite data" title="" width="80" height="80" class="imagecache imagecache-thumb"/></a></a></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/ndrf-ties-isro-unitfor-valuable-satellite-data">NDRF ties up ISRO unitfor valuable satellite data</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Thu, 10/29/2015 - 13:59</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>The National Disaster Response Force (NDRF) has announced that it has entered into a partnership...</div>  </div>  </div>
     </div>
   
   
       <div class="attachment attachment-after">
-      <div class="view view-bl9 view-id-bl9 view-display-id-attachment_1 view-dom-id-403c4f411bb94cb2b8a2a4a1ae2f6005">
+      <div class="view view-bl9 view-id-bl9 view-display-id-attachment_1 view-dom-id-6e4523531f47f75c13e71a136794d5b0">
     
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/pepsico-s-smartphone-go-sale-china">PepsiCo’s smartphone to go on sale in China </a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/facebook-will-test-shopping-section-making-users-convenient-purchase-things-while-browsing-n">Facebook will test Shopping section, making users convenient to purchase things while browsing Newsfeed</a></span>  </div>  </div>
     </div>
   
   
@@ -698,7 +698,7 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
   
   
   
-</div><div class="view view-bl9 view-id-bl9 view-display-id-attachment_2 view-dom-id-7f45d7000bafabd785e90889f4a482cc">
+</div><div class="view view-bl9 view-id-bl9 view-display-id-attachment_2 view-dom-id-be00f1b6f7c9fac4a4dfdfd1405be731">
     
   
   
@@ -810,4 +810,4 @@ var _tcq = _tcq || []; _tcq.push(['bblog', 'b1e331d869', '000000', '000000']);
 	
 </body>
 </html>
-
+<!-- Page cached by Boost @ 2016-01-17 09:21:10, expires @ 2016-01-17 10:21:10 -->

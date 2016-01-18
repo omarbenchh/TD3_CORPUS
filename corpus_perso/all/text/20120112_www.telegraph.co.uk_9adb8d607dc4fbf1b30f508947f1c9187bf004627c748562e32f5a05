@@ -447,9 +447,10 @@ $(document).ready(function() {
 </script>
 <script type="text/javascript">
   var gs_channels="default";
-  // Last-updated: 2016-01-15 15:25:57.158
-gs_channels="trv_holidays,lfe_food,fam_family";
-
+  // Last-updated: 2016-01-17 22:11:36.451
+// Status code: 0
+// Read timed out
+gs_channels="RETRY"; 
 </script>
 <script type="text/javascript">
     // <![CDATA[
@@ -597,7 +598,15 @@ gs_channels="trv_holidays,lfe_food,fam_family";
 	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
-</head>
+
+                  <script type="text/javascript">
+                    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(c,a){AKSB.q.push(["mark",c,a||(new Date).getTime()])};AKSB.measure=function(c,a,b){AKSB.q.push(["measure",c,a,b||(new Date).getTime()])};AKSB.done=function(c){AKSB.q.push(["done",c])};AKSB.mark("firstbyte",(new Date).getTime());
+                    AKSB.prof={custid:"44707",ustr:"",originlat:0,clientrtt:54,ghostip:"88.221.83.39",ipv6:false,pct:10,xhrtest:false,clientip:"82.245.7.247",requestid:"1bbc2042",protocol:"",blver:2,akM:"w7",akN:"",akTT:"O",akTX:"1",
+                    akTI:"1bbc2042"};
+                    (function(c){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var b=document.getElementsByTagName("script"),b=b[b.length-1];b.parentNode.insertBefore(a,b);a=a.contentWindow.document;b=String.fromCharCode;c=b(60)+"body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+c+"';document.body.appendChild(js);\""+b(62);a.open().write(c);a.close()})(("https:"===document.location.protocol?
+                    "https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js");
+                  </script>
+                  </head>
 
 <body class="finance">
 	<div id="fb-root"></div>
@@ -698,7 +707,7 @@ gs_channels="trv_holidays,lfe_food,fam_family";
 				<div id="tmglTopRight" class="tmgTopBarDate">
 					<div id="tmglLasUpdatedDateFeed">
 	<p>
-		Friday 15 January 2016</p>
+		Sunday 17 January 2016</p>
 </div>
 
 </div>
@@ -1159,6 +1168,32 @@ McDonald's will briefly become the country's biggest retailer of children's
 		<div class="gutterUnder noSummaryTopBorder">
 	
 			<div class="summary headlineImageLeft">
+			<!-- 12101740 -->
+			<h3>
+                    <a  href="/finance/personalfinance/investing/12101740/Time-to-sell-everything-No-this-is-when-a-hold-everything-strategy-works.html">Time to 'sell'? No, this is when 'hold' works</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a class=" imageParsely" href="/finance/personalfinance/investing/12101740/Time-to-sell-everything-No-this-is-when-a-hold-everything-strategy-works.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03275/markets_3275787f.jpg" alt="A dealer stands under a monitor displaying the US dollar rate against the yen at a brokerage in Tokyo" border="0" width="219"  height="137" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec">The Opportunist</span>	
+<a href= "/finance/personalfinance/investing/12101740/Time-to-sell-everything-No-this-is-when-a-hold-everything-strategy-works.html" 
+                         	 
+                         >
+							<p>
+Experts predict market meltdown. A respected investor had already tipped off 
+  the Telegraph on how to play this one, says <strong>Andrew Oxlade</strong>
+</p></a>
+                </div><span class="comments">
+			            	<a href="/finance/personalfinance/investing/12101740/Time-to-sell-everything-No-this-is-when-a-hold-everything-strategy-works.html#disqus_thread" dsqid="12101740" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
 			<!-- 12100453 -->
 			<h3>
                     <a  href="/finance/newsbysector/retailandconsumer/12100453/Colgate-ready-meals-and-Hooters-airlines-the-weirdest-product-launches-from-major-companies.html">From Colgate ready meals to Bic's disposable undies: the world's weirdest off-brand products</a>
@@ -1180,6 +1215,31 @@ Would you buy wine from jeans maker Diesel, disposable underwear from Bic or
   entirely new product ranges. These are some of the odder attempts. 
 </p></a>
                 </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10611058 -->
+			<h3>
+                    <a  href="/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html">Tables: The cheapest  places to buy an Isa</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a class=" imageParsely" href="/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03526/14_12-lang-cat-pou_3526132f.jpg" alt="" border="0" width="220"  height="109" />
+									<span class="cornerimageleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html" 
+                         	 
+                         >
+							<p>
+Our colour-coded tables show at a glance which investment shop will be 
+  cheapest for you 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html#disqus_thread" dsqid="10611058" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
 		</div>
 	<div class="summary headlineImageLeft">
 			<!-- 11904378 -->
@@ -1309,31 +1369,6 @@ There are over 87,000 different drink combinations at Starbucks, according to
 					<div class="cl"></div>
 		</div>
 	<div class="summary headlineImageLeft">
-			<!-- 10611058 -->
-			<h3>
-                    <a  href="/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html">Tables: The cheapest  places to buy an Isa</a>
-                </h3>
-
-	<!-- imagePosition: left, columnContext: twoThirds -->
-<div class="picleft containerdiv  ">
-        <a class=" imageParsely" href="/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03526/14_12-lang-cat-pou_3526132f.jpg" alt="" border="0" width="220"  height="109" />
-									<span class="cornerimageleft">&nbsp;</span></a>
-                </div>
-	
-<div class="labelAbstract">
-<a href= "/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html" 
-                         	 
-                         >
-							<p>
-Our colour-coded tables show at a glance which investment shop will be 
-  cheapest for you 
-</p></a>
-                </div><span class="comments">
-			            	<a href="/finance/personalfinance/investing/isas/10611058/Tables-cheapest-fund-supermarkets-for-Isa-investing.html#disqus_thread" dsqid="10611058" class="">Comments</a>
-			            </span>
-					<div class="cl"></div>
-		</div>
-	<div class="summary headlineImageLeft">
 			<!-- 12074853 -->
 			<h3>
                     <a  href="/finance/personalfinance/investing/shares/12074853/The-best-and-worst-performing-stock-markets-in-2015.html">The best and worst performing stock markets in 2015</a>
@@ -1379,31 +1414,6 @@ Money no object? We've found a whole load of extravagant gifts starting from
 </p></a>
                 </div><span class="comments">
 			            	<a href="/finance/personalfinance/household-bills/12062480/The-most-extravagant-childrens-Christmas-gifts.html#disqus_thread" dsqid="12062480" class="">Comments</a>
-			            </span>
-					<div class="cl"></div>
-		</div>
-	<div class="summary headlineImageLeft">
-			<!-- 11309676 -->
-			<h3>
-                    <a  href="/finance/picture-galleries/11309676/The-top-grossing-Christmas-films-of-all-time.html">The top grossing Christmas films of all time</a>
-                </h3>
-
-	<!-- imagePosition: left, columnContext: twoThirds -->
-<div class="picleft containerdiv  ">
-        <a  href="/finance/picture-galleries/11309676/The-top-grossing-Christmas-films-of-all-time.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03136/home-alone_3136318f.jpg" alt="Mariamma Sesy managed to catch the man how broke into her flat using Home Alone style techniques" border="0" width="219"  height="137" />
-									<span class="cornerimageleft">&nbsp;</span></a>
-                </div>
-	
-<div class="labelAbstract">
-<a href= "/finance/picture-galleries/11309676/The-top-grossing-Christmas-films-of-all-time.html" 
-                         	 
-                         >
-							<p>
-Is Die Hard a Christmas film? Is Die Hard not a Christmas film? Well, we 
-  included it anyway in this list of the highest grossing Christmas flicks.
-</p></a>
-                </div><span class="comments">
-			            	<a href="/finance/picture-galleries/11309676/The-top-grossing-Christmas-films-of-all-time.html#disqus_thread" dsqid="11309676" class="">Comments</a>
 			            </span>
 					<div class="cl"></div>
 		</div>
@@ -2420,26 +2430,26 @@ function onClickedForTabCountNonZero(tabTitle){
 			
 					
 						
-							<!-- 12100266 -->
+							<!-- 12102215 -->
 <div class="oneQuarter servicesSmall ">
 	<div class="summarySmall">
 		<div class="headerFive">		
-			<a href="http://www.telegraph.co.uk/sponsored/finance/household-savings/?WT.mc_id=tmgspk_td_1198_9486&utm_source=tmgspk&utm_medium=td&utm_content=1198&utm_campaign=tmgspk_td_1198_9486				"> 
-				Household Savings</a>
+			<a href="http://www.telegraph.co.uk/sponsored/business/business-sport-series/?WT.mc_id=tmgspk_td_606022_9279&utm_source=tmgspk&utm_medium=td&utm_content=606022&utm_campaign=tmgspk_td_606022_9279				"> 
+				The Business of Sport Series</a>
 		</div>
 		<!-- imagePosition: centre, columnContext: oneQuarter -->
 <div class="piccentre containerdiv  ">
-        <a  href="http://www.telegraph.co.uk/sponsored/finance/household-savings/11963720/save-on-your-smartphone.html?WT.mc_id=tmgspk_td_1198_11963720&utm_source=tmgspk&utm_medium=td&utm_content=1198&utm_campaign=tmgspk_td_1198_11963720">
-                                <img src="http://i.telegraph.co.uk/multimedia/archive/03486/RBS-Smart-Phones-M_3486675f.jpg" alt="Man in coffee shop typing text on smart phone" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+        <a  href="http://www.telegraph.co.uk/sponsored/business/business-sport-series/12051564/social-media-in-sport.html?WT.mc_id=tmgspk_td_606022_12051564&utm_source=tmgspk&utm_medium=td&utm_content=606022&utm_campaign=tmgspk_td_606022_12051564">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03528/Cristiano_Ronaldo__3528444f.jpg" alt="Real Madrid's Portuguese forward Cristiano Ronaldo celebrating after scoring a goal" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
                                 </a>
                             </div>
 	
 <h3>
-			<a  href="http://www.telegraph.co.uk/sponsored/finance/household-savings/11963720/save-on-your-smartphone.html?WT.mc_id=tmgspk_td_1198_11963720&utm_source=tmgspk&utm_medium=td&utm_content=1198&utm_campaign=tmgspk_td_1198_11963720">
-                                Save money on your smartphone costs</a>
+			<a  href="http://www.telegraph.co.uk/sponsored/business/business-sport-series/12051564/social-media-in-sport.html?WT.mc_id=tmgspk_td_606022_12051564&utm_source=tmgspk&utm_medium=td&utm_content=606022&utm_campaign=tmgspk_td_606022_12051564">
+                                The social side of the beautiful game</a>
                             </h3>
 		<div class="traffdrivViewLink">
-			<a  href="http://www.telegraph.co.uk/sponsored/finance/household-savings/11963720/save-on-your-smartphone.html?WT.mc_id=tmgspk_td_1198_11963720&utm_source=tmgspk&utm_medium=td&utm_content=1198&utm_campaign=tmgspk_td_1198_11963720">
+			<a  href="http://www.telegraph.co.uk/sponsored/business/business-sport-series/12051564/social-media-in-sport.html?WT.mc_id=tmgspk_td_606022_12051564&utm_source=tmgspk&utm_medium=td&utm_content=606022&utm_campaign=tmgspk_td_606022_12051564">
                                 View</a>
                             </div>
 
@@ -2451,69 +2461,7 @@ function onClickedForTabCountNonZero(tabTitle){
 			
 					
 						
-							<!-- 12087583 -->
-<div class="oneQuarter servicesSmall ">
-	<div class="summarySmall">
-		<div class="headerFive">		
-			<a href="http://www.telegraph.co.uk/sponsored/business/solutions/?WT.mc_id=tmgspk_td_1210_9504&utm_source=tmgspk&utm_medium=td&utm_content=1210&utm_campaign=tmgspk_td_1210_9504"> 
-				Business Solutions</a>
-		</div>
-		<!-- imagePosition: centre, columnContext: oneQuarter -->
-<div class="piccentre containerdiv  ">
-        <a  href="http://www.telegraph.co.uk/sponsored/business/solutions/12014108/new-tax-and-pensions-rules.html?WT.mc_id=tmgspk_td_1210_12014108&utm_source=tmgspk&utm_medium=td&utm_content=1210&utm_campaign=tmgspk_td_1210_12014108">
-                                <img src="http://i.telegraph.co.uk/multimedia/archive/03508/sage_compliance_Ge_3508841f.jpg" alt="A group of work colleagues has an intense business conversation on the office" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
-                                </a>
-                            </div>
-	
-<h3>
-			<a  href="http://www.telegraph.co.uk/sponsored/business/solutions/12014108/new-tax-and-pensions-rules.html?WT.mc_id=tmgspk_td_1210_12014108&utm_source=tmgspk&utm_medium=td&utm_content=1210&utm_campaign=tmgspk_td_1210_12014108">
-                                Briefing 2016: the business year ahead</a>
-                            </h3>
-		<div class="traffdrivViewLink">
-			<a  href="http://www.telegraph.co.uk/sponsored/business/solutions/12014108/new-tax-and-pensions-rules.html?WT.mc_id=tmgspk_td_1210_12014108&utm_source=tmgspk&utm_medium=td&utm_content=1210&utm_campaign=tmgspk_td_1210_12014108">
-                                View</a>
-                            </div>
-
-	</div>
-</div>
-					
-				
-
-			
-					
-						
-							<!-- 12083242 -->
-<div class="oneQuarter servicesSmall last">
-	<div class="summarySmall">
-		<div class="headerFive">		
-			<a href="http://www.telegraph.co.uk/sponsored/business/the-elevator/?WT.mc_id=tmgspk_td_1166_9453&utm_source=tmgspk&utm_medium=td&utm_content=1166&utm_campaign=tmgspk_td_1166_9453				"> 
-				HSBC</a>
-		</div>
-		<!-- imagePosition: centre, columnContext: oneQuarter -->
-<div class="piccentre containerdiv  ">
-        <a  href="http://www.telegraph.co.uk/sponsored/business/the-elevator/12057666/will-greenwood-business-strategy.html?WT.mc_id=tmgspk_td_1166_12057666&utm_source=tmgspk&utm_medium=td&utm_content=1166&utm_campaign=tmgspk_td_1166_12057666">
-                                <img src="http://i.telegraph.co.uk/multimedia/archive/03517/Will_Greenwood_and_3517215f.jpg" alt="Will Greenwood and Katie Derham at an HSBC Elevator Talk" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
-                                </a>
-                            </div>
-	
-<h3>
-			<a  href="http://www.telegraph.co.uk/sponsored/business/the-elevator/12057666/will-greenwood-business-strategy.html?WT.mc_id=tmgspk_td_1166_12057666&utm_source=tmgspk&utm_medium=td&utm_content=1166&utm_campaign=tmgspk_td_1166_12057666">
-                                Will Greenwood talks business strategy and ambition</a>
-                            </h3>
-		<div class="traffdrivViewLink">
-			<a  href="http://www.telegraph.co.uk/sponsored/business/the-elevator/12057666/will-greenwood-business-strategy.html?WT.mc_id=tmgspk_td_1166_12057666&utm_source=tmgspk&utm_medium=td&utm_content=1166&utm_campaign=tmgspk_td_1166_12057666">
-                                View</a>
-                            </div>
-
-	</div>
-</div>
-					
-				
-
-			
-					
-						
-							<!-- 12093220 -->
+							<!-- 12101936 -->
 <div class="oneQuarter servicesSmall ">
 	<div class="summarySmall">
 		<div class="headerFive">		
@@ -2522,17 +2470,79 @@ function onClickedForTabCountNonZero(tabTitle){
 		</div>
 		<!-- imagePosition: centre, columnContext: oneQuarter -->
 <div class="piccentre containerdiv  ">
-        <a  href="http://www.telegraph.co.uk/promotions/12086734/Order-your-free-Telegraph-Tours-brochure.html?utm_source=tmg&utm_medium=td&utm_campaign=ttours-brochurerequest">
-                                <img src="http://i.telegraph.co.uk/multimedia/archive/03546/Subscription_XL_3546518f.jpg" alt="" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+        <a  rel="nofollow" href="https://rivieratravel.telegraph.co.uk/european-tours/apulia-lecce-and-vieste-undiscovered-italy?utm_source=tmg&utm_medium=td&utm_campaign=riv-apulialeccevieste">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03550/Apulia_Jan-15_3550402f.jpg" alt="" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
                                 </a>
                             </div>
 	
 <h3>
-			<a  href="http://www.telegraph.co.uk/promotions/12086734/Order-your-free-Telegraph-Tours-brochure.html?utm_source=tmg&utm_medium=td&utm_campaign=ttours-brochurerequest">
-                                Order your free brochure and discover trips of a lifetime led by a Telegraph expert</a>
+			<a  rel="nofollow" href="https://rivieratravel.telegraph.co.uk/european-tours/apulia-lecce-and-vieste-undiscovered-italy?utm_source=tmg&utm_medium=td&utm_campaign=riv-apulialeccevieste">
+                                Undiscovered Italy tour for eight days from £849 per person</a>
                             </h3>
 		<div class="traffdrivViewLink">
-			<a  href="http://www.telegraph.co.uk/promotions/12086734/Order-your-free-Telegraph-Tours-brochure.html?utm_source=tmg&utm_medium=td&utm_campaign=ttours-brochurerequest">
+			<a  rel="nofollow" href="https://rivieratravel.telegraph.co.uk/european-tours/apulia-lecce-and-vieste-undiscovered-italy?utm_source=tmg&utm_medium=td&utm_campaign=riv-apulialeccevieste">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 12102038 -->
+<div class="oneQuarter servicesSmall last">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href=""> 
+				Telegraph Dating</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://dating.telegraph.co.uk/s/?utm_source=tmg&utm_medium=td_sun&utm_campaign=none">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03550/TD_Jan-15_3550459f.jpg" alt="" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://dating.telegraph.co.uk/s/?utm_source=tmg&utm_medium=td_sun&utm_campaign=none">
+                                Discover up to 1,000 matches with our intelligent two-way matching feature. Find love today!</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://dating.telegraph.co.uk/s/?utm_source=tmg&utm_medium=td_sun&utm_campaign=none">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 12102087 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href=""> 
+				Telegraph Wine from Waitrose</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://wine.telegraph.co.uk/jan-exclusive?utm_source=tmg&utm_medium=referral&utm_campaign=jan-exclusive&utm_content=td_sun">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03550/td_chateau-neuf_Ja_3550481f.jpg" alt="" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://wine.telegraph.co.uk/jan-exclusive?utm_source=tmg&utm_medium=referral&utm_campaign=jan-exclusive&utm_content=td_sun">
+                                Save £46.94 on six bottle case of Châteauneuf-du-Pape. Offer ends Jan 26</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://wine.telegraph.co.uk/jan-exclusive?utm_source=tmg&utm_medium=referral&utm_campaign=jan-exclusive&utm_content=td_sun">
                                 View</a>
                             </div>
 
@@ -2743,7 +2753,7 @@ function onClickedForTabCountNonZero(tabTitle){
 <div id="footerinfo">
 			<p>&copy; Copyright of Telegraph Media Group Limited 2016</p>
 			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
-			<p><a target="_parent" href="/archive/2016-1-15.html">Today's News</a></p>
+			<p><a target="_parent" href="/archive/2016-1-17.html">Today's News</a></p>
 			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
 					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
 					<p class="last"><a target="_parent" href="/news/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>

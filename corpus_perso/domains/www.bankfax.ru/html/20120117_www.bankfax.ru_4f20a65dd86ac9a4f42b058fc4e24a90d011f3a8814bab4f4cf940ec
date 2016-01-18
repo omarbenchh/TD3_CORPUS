@@ -19,6 +19,8 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 	<link rel="alternate" type="application/rss+xml" title="Новости Банкфакс" href="/rss.xml"/>
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.bankfax.ru" />
+	<link rel="alternate" media="handheld" href="http://m.bankfax.ru" />
 
 	<link rel="stylesheet" type="text/css" href="/static/css/fancybox/jquery.fancybox.css" />
 	<link rel="stylesheet" type="text/css" href="/static/css/style.css" />
@@ -200,9 +202,9 @@
 	</div>
 	<div class="logo"><a href="/" title="Информационное агентство &laquo;Банкфакс&raquo;"><img src="/static/images/logo.png" alt="Информационное агентство &laquo;Банкфакс&raquo;" /></a></div>
 	<div class="now_time">
-		сегодня пятница,<br />
-		15 января,<br />
-		20:49
+		сегодня понедельник,<br />
+		18 января,<br />
+		03:32
 	</div>
 	<div class="top_menu">
 		<ul>
@@ -258,10 +260,10 @@ $(document).ready(function(){
 		<div class="izbr_wrap">
 					<div class="izbr_item">
 				<a href="/opinions/99773/">«Рейтинг будет субъективным»: известные персоны Барнаула оценили испытание для губернаторов от Минкультуры</a>
-				<div class="what_in"><a href="/opinions/99773/#comments" class="comm">10</a></div>			</div>
+				<div class="what_in"><a href="/opinions/99773/#comments" class="comm">12</a></div>			</div>
 					<div class="izbr_item">
 				<a href="/opinions/99640/">Редактор Doc22 Артем Кудинов: «ОНФ в Алтайском крае подверг издевательскому остракизму кампанию по выборам главы администрации краевого центра»</a>
-				<div class="what_in"><a href="/opinions/99640/#comments" class="comm">425</a></div>			</div>
+				<div class="what_in"><a href="/opinions/99640/#comments" class="comm">461</a></div>			</div>
 				</div>
 	</div>
 	<div class="block_shadow"></div>
@@ -273,7 +275,7 @@ $(document).ready(function(){
 			<a href="/no_comment/99806/"><img src="/files/images/%D0%B1%D0%B5%D0%B7%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0.jpg?size=190x" /></a>
 			<p><a href="/no_comment/99806/">ОНФ и ГИБДД борются с нерадивыми водителями</a></p>
                         			<div class="what_in">                <a href="/no_comment/99806/#comments" class="comm">
-            4
+            7
         </a>
     
 
@@ -305,7 +307,7 @@ $(document).ready(function(){
 				<p class="ib_nh1"><a href="/razgovor/99794/">«Ждите от нас сюрпризов!»</a></p>
 				<div class="what_in">
                                         					                <a href="/razgovor/99794/#comments" class="comm">
-            36
+            59
         </a>
     
 
@@ -444,7 +446,7 @@ $(document).ready(function(){
 				<p class="ib_nh"><a href="/in_blogs/99810/">Шило в мешке</a></p>
 				<div class="what_in">
                                         					                <a href="/in_blogs/99810/#comments" class="comm">
-            6
+            7
         </a>
     
 
@@ -469,7 +471,7 @@ $(document).ready(function(){
 				<p class="ib_nh"><a href="/in_blogs/99796/">Отчитались об уничтожении продовольствия</a></p>
 				<div class="what_in">
                                         					                <a href="/in_blogs/99796/#comments" class="comm">
-            6
+            10
         </a>
     
 
@@ -494,7 +496,7 @@ $(document).ready(function(){
 				<p class="ib_nh"><a href="/in_blogs/99771/">Привычка к анализу информации не оставляет меня никогда</a></p>
 				<div class="what_in">
                                         					                <a href="/in_blogs/99771/#comments" class="comm">
-            27
+            56
         </a>
     
 
@@ -553,8 +555,8 @@ VK.Widgets.Group("vk_groups", {mode: 0, width: "220", height: "220", color1: 'FF
 	<link rel="stylesheet" type="text/css" href="/smg-rss/smgrss_style.css" />
     </head>
 <body><div class=smgrssblock><center><img src="/smg-rss/smg.png"><hr size="2" noshade color="#9b0f0f"></center><div class=smgrssitems><img src="/smg-rss/bw.png" style="vertical-align:middle"> <a href=http://biwork.ru/novosti/25114-epidemiyu-grippa-bijskie-mediki-ozhidayut-k-kontsu-yanvarya-nachalu-fevralya.html rel="nofollow">Эпидемию гриппа бийские медики ожидают к концу января – началу февраля</a><hr><img src="/smg-rss/ps.png" style="vertical-align:middle"> <a href=
-http://politsib.ru/news/84494 rel="nofollow">
-Новосибирские полицейские пресекли деятельность ОПГ, охватившей 9 регионов</a><hr><img src="/smg-rss/af.png" style="vertical-align:middle"> <a href=http://avtograf22.ru/kuda-sxodit-na-vyxodnyx-v-barnaule-16-i-17-yanvarya/ rel="nofollow">Куда сходить на выходных в Барнауле 16 и 17 января</a><hr><img src="/smg-rss/nn.png" style="vertical-align:middle"> <a href=http://www.nashinovosti.tv/?p=11920 rel="nofollow">Сегодня в Барнауле стартовала всероссийская олимпиада для старшеклассников</a></div>
+http://politsib.ru/news/84507 rel="nofollow">
+Жить будем небогато, но надежно. Александр Карлин прокомментировал возможный секвестр федерального бюджета</a><hr><img src="/smg-rss/af.png" style="vertical-align:middle"> <a href=http://avtograf22.ru/kuda-valit-barnaul-v-rejtinge-gorodov-v-bloge-ili-varlamova/ rel="nofollow">«Куда валить?»: Барнаул в рейтинге городов в блоге Ильи Варламова</a><hr><img src="/smg-rss/nn.png" style="vertical-align:middle"> <a href=http://www.nashinovosti.tv/?p=11920 rel="nofollow">Сегодня в Барнауле стартовала всероссийская олимпиада для старшеклассников</a></div>
 <hr size="2" noshade color="#9b0f0f">
 <center><img src="/smg-rss/slogan.png"></center>
 </div><br></body></html><div id="n4p_26934">Loading...</div>
@@ -591,7 +593,7 @@ http://politsib.ru/news/84494 rel="nofollow">
 <div class="banner_220x124 sape">
 	
 Городской информационно-справочный <a href="http://obzorgoroda.su/">портал</a></br>
-<a href="http://spb.dreamline.moscow/">ортопедические матрасы в спб со скидкой 50% / spb.dreamline.moscow</a> предложение ограниченно
+Мебель для спальни: <a href="http://spb.dreamline.moscow/">ортопедические матрасы в спб со скидкой 50% / spb.dreamline.moscow</a> предложение ограниченно
 <br>
 </div>
 

@@ -162,11 +162,11 @@
 
             <div id="date_peoples" style="margin-top: 40px;">
                                     <div id="current_date">
-                        <span>Пятница, 15 Января 2016</span> года
+                        <span>Понедельник, 18 Января 2016</span> года
                     </div>
                                 <div id="current_peoples">
                                         <!--Сейчас на сайте--><br/>
-                    <span id="serverClock">18:14:24</span>&nbsp;МСК
+                    <span id="serverClock">00:55:40</span>&nbsp;МСК
                 </div>
             </div>
 
@@ -185,251 +185,140 @@
                 });
             </script>
         </div>
-        <div class="main_menu_wrapper" style="background-color: #fff">
-        <div class="main_menu template new_main_menu">
-            <div id="horisontal_menu" class="new_menu" role="navigation">
-                <ul>
-                    <li>
-                        <a href="http://regnum.ru/" >Главное</a>
-                    </li>
-                    <li>
-                                                <a id="modalMenu" href="http://regnum.ru/news.html" class="selected">Новости</a>
-                                            </li>
-                    <li>
-                                                <a id="modalMenu2" href="http://regnum.ru/analytics.html" >Аналитика</a>
-                                            </li>
-                    <li>
-                        <a href="http://regnum.ru/russian.html" >В России</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/foreign.html" >За&nbsp;рубежом</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/video.html" >Видео</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/gallery.html" >Галерея</a>
-                    </li>
-                    <li>
-                        <a id="office" href="http://regnum.ru/office.html" >Кабинет</a>
-                    </li>
-                    <li class="rss-btn">
-                        <a id="rss" href="http://regnum.ru/rss" title="RSS Regnum" target="_blank">
-                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve" style="fill: #5C76A6; padding: 2px;">
-                                <path id="rss-icon" d="M161.757,406.249c0,30.791-24.96,55.751-55.75,55.751c-30.79,0-55.751-24.96-55.751-55.751
-                                    s24.961-55.75,55.751-55.75C136.796,350.499,161.757,375.458,161.757,406.249z M50.256,190.424v82.593
-                                    C153.994,274.083,238.172,358.261,239.238,462h82.593C320.764,312.48,199.774,191.491,50.256,190.424z M50.256,132.602
-                                    c87.695,0.381,170.084,34.695,232.135,96.747c62.175,62.173,96.506,144.764,96.754,232.651h82.6
-                                    C461.228,234.858,277.333,50.794,50.256,50V132.602z">
-                                </path>
-                            </svg>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div class="template" id="news_loader">
 
-                                                                        <div id="head_ticker_2055486" class="head_ticker" data-id="2055486" data-type="news" data-time="1452870846" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/society/2055486.html">
-        <span class="">
-            18:14        </span>Африканский подросток попал в приют под Мурманском    </a>
-        <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="0"></div>
-    </div>
-                                                <div id="head_ticker_2055484" class="head_ticker" data-id="2055484" data-type="news" data-time="1452870789" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/society/2055484.html">
-        <span class="">
-            18:13        </span>Владимирские врачи смогут выхаживать новорожденных с экстремальным весом    </a>
-        <div class="head_ticker_loader" style="width: 25%; overflow: hidden;" data-timer="1"></div>
-    </div>
-                                                <div id="head_ticker_2055482" class="head_ticker" data-id="2055482" data-type="news" data-time="1452870778" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/accidents/2055482.html">
-        <span class="">
-            18:12        </span>Следствие ищет виновных в гибели водителя трактора, рухнувшего в Петербурге    </a>
-        <div class="head_ticker_loader" style="width: 50%; overflow: hidden;" data-timer="2"></div>
-    </div>
-                                        <div id="lastTicketId" style="display: none" data-id="2055486"></div>
-                <div id="startMainTickets" style="display: none">
-                                    <div class="startMainTicket" id="2055472">
-                <div id="head_ticker_2055472" class="head_ticker_hidden" data-id="2055472" data-type="news" data-time="1452870348" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2055472.html">
-        <span class="">
-            18:05        </span>Игра продолжается: кандидат в премьеры Молдавии снял свою кандидатуру    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="0"></div>
-    </div>
+        <div class="main_menu_wrapper" style="background-color: #fff">
+            <div class="main_menu template new_main_menu">
+                <div id="horisontal_menu" class="new_menu" role="navigation">
+                    <ul>
+                        <li>
+                            <a href="http://regnum.ru/" >Главное</a>
+                        </li>
+                        <li>
+                                                        <a id="modalMenu" href="http://regnum.ru/news.html" class="selected">Новости</a>
+                                                    </li>
+                        <li>
+                                                        <a id="modalMenu2" href="http://regnum.ru/analytics.html" >Аналитика</a>
+                                                    </li>
+                        <li>
+                            <a href="http://regnum.ru/russian.html" >В России</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/foreign.html" >За&nbsp;рубежом</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/video.html" >Видео</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/gallery.html" >Галерея</a>
+                        </li>
+                        <li>
+                            <a id="office" href="http://regnum.ru/office.html" >Кабинет</a>
+                        </li>
+                        <li class="rss-btn">
+                            <a id="rss" href="http://regnum.ru/rss" title="RSS Regnum" target="_blank">
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve" style="fill: #5C76A6; padding: 2px;">
+                                    <path id="rss-icon" d="M161.757,406.249c0,30.791-24.96,55.751-55.75,55.751c-30.79,0-55.751-24.96-55.751-55.751
+                                        s24.961-55.75,55.751-55.75C136.796,350.499,161.757,375.458,161.757,406.249z M50.256,190.424v82.593
+                                        C153.994,274.083,238.172,358.261,239.238,462h82.593C320.764,312.48,199.774,191.491,50.256,190.424z M50.256,132.602
+                                        c87.695,0.381,170.084,34.695,232.135,96.747c62.175,62.173,96.506,144.764,96.754,232.651h82.6
+                                        C461.228,234.858,277.333,50.794,50.256,50V132.602z">
+                                    </path>
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+
             </div>
-                                <div class="startMainTicket" id="2055356">
-                <div id="head_ticker_2055356" class="head_ticker_hidden" data-id="2055356" data-type="analytic" data-time="1452863340" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2055356.html">
-        <span class="">
-            16:09        </span><strong>Сибирская редакция  ИА REGNUM&nbsp;</strong>Сто дней губернатора Левченко – борьба с предшественником и свобода слова    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="1"></div>
-    </div>
+            <div class="template header-ticker" id="news_loader">
+                                
+                    
+                                <div class="header-ticker-item incut-ticker">
+                <a class="header-ticker-link" target="_blank" href="http://news.rambler.ru/32365726/">
+                    <span class="incut-ticker-time"></span><!--
+                    --><strong class="incut-ticker-partner">Rambler</strong>
+                    <span class="header-ticker-title">На Украине паника: Запад услышал Москву</span>
+                </a>
+                <div class="header-ticker-loader"></div>
             </div>
-                                <div class="startMainTicket" id="2055286">
-                <div id="head_ticker_2055286" class="head_ticker_hidden" data-id="2055286" data-type="analytic" data-time="1452859260" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2055286.html">
-        <span class="federal-mark">
-            15:01        </span><strong>Михаил Нейжмаков&nbsp;</strong>Чалый и Меняйло. Чем закончится «битва за Севастополь»?    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="2"></div>
-    </div>
+        
+                    
+            <div class="header-ticker-item">
+                <a class="header-ticker-link" target="_blank" href="http://regnum.ru/news/society/2056082.html">
+                    <span class="header-ticker-time ">00:48</span><!--
+                    --><!--
+                    --><span class="header-ticker-title">Расследовать избиение в Ульяновской области будет специальная комиссия</span>
+                </a>
+                <div class="header-ticker-loader"></div>
             </div>
-                                <div class="startMainTicket" id="2055260">
-                <div id="head_ticker_2055260" class="head_ticker_hidden" data-id="2055260" data-type="news" data-time="1452858060" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2055260.html">
-        <span class="">
-            14:41        </span>«Он умеет и любит вешать лапшу»: послесловие к пресс-конференции Порошенко    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="3"></div>
-    </div>
+                    
+            <div class="header-ticker-item">
+                <a class="header-ticker-link" target="_blank" href="http://regnum.ru/news/polit/2056080.html">
+                    <span class="header-ticker-time ">00:37</span><!--
+                    --><!--
+                    --><span class="header-ticker-title">&laquo;Россия выполняет Минские соглашения &mdash; нет оснований говорить о &laquo;Минске-3&raquo;</span>
+                </a>
+                <div class="header-ticker-loader"></div>
             </div>
-                                <div class="startMainTicket" id="2055244">
-                <div id="head_ticker_2055244" class="head_ticker_hidden" data-id="2055244" data-type="news" data-time="1452856740" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/economy/2055244.html">
-        <span class="federal-mark">
-            14:19        </span>Нефтяной век уже кончился — Греф    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="4"></div>
-    </div>
+                <span id="lastNewsId" style="display: none">2056082</span>
+                                <div id="modal_menu" data-showed="false" class="new_menu left_menu" role="navigation">
+                    <ul>
+                        <li>
+                            <a href="http://regnum.ru/news/polit.html">Политика</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/news/economy.html">Экономика</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/news/society.html">Общество</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/news/cultura.html">Культура</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/news/innovatio.html">Наука</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/news/it.html">Техника</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/news/sport.html">Спорт</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/news/accidents.html">Происшествия</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="modal_menu2" data-showed="false" class="new_menu left_menu" role="navigation">
+                    <ul>
+                        <li>
+                            <a href="http://regnum.ru/analytics/polit.html">Политика</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/analytics/economy.html">Экономика</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/analytics/society.html">Общество</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/analytics/cultura.html">Культура</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/analytics/innovatio.html">Наука</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/analytics/it.html">Техника</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/analytics/ratings.html">Рейтинги</a>
+                        </li>
+                        <li>
+                            <a href="http://regnum.ru/analytics/international.html">Международное</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-                                <div class="startMainTicket" id="2055202">
-                <div id="head_ticker_2055202" class="head_ticker_hidden" data-id="2055202" data-type="news" data-time="1452855900" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/economy/2055202.html">
-        <span class="federal-mark">
-            14:05        </span>Греф: Россия попала в список технологически порабощённых стран    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="5"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2055168">
-                <div id="head_ticker_2055168" class="head_ticker_hidden" data-id="2055168" data-type="analytic" data-time="1452854400" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/economy/2055168.html">
-        <span class="federal-mark">
-            13:40        </span><strong>Редакция ИА REGNUM&nbsp;</strong>Чем грозит приватизация Сбербанка?    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="6"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2055136">
-                <div id="head_ticker_2055136" class="head_ticker_hidden" data-id="2055136" data-type="analytic" data-time="1452851340" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2055136.html">
-        <span class="federal-mark">
-            12:49        </span><strong>Яков Рудь&nbsp;</strong>Гордая Украина отвергает мир с русскими и требует их полной капитуляции    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="7"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2055116">
-                <div id="head_ticker_2055116" class="head_ticker_hidden" data-id="2055116" data-type="analytic" data-time="1452850740" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2055116.html">
-        <span class="federal-mark">
-            12:39        </span><strong>Татьяна Полоскова&nbsp;</strong>БРИКС нежизнеспособен: кто и зачем придумал БРИКС?    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="8"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2055106">
-                <div id="head_ticker_2055106" class="head_ticker_hidden" data-id="2055106" data-type="news" data-time="1452850440" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/society/2055106.html">
-        <span class="">
-            12:34        </span>В Якутии первый должник временно лишился водительских прав    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="9"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2053536">
-                <div id="head_ticker_2053536" class="head_ticker_hidden" data-id="2053536" data-type="news" data-time="1452849499" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/cultura/2053536.html">
-        <span class="">
-            12:18        </span>Голливуд: русские &mdash; похотливые, жестокие и циничные скоты    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="10"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2053546">
-                <div id="head_ticker_2053546" class="head_ticker_hidden" data-id="2053546" data-type="news" data-time="1452848280" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2053546.html">
-        <span class="">
-            11:58        </span>Турция пошла к новой Османской империи. Что это значит для православия?    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="11"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2053500">
-                <div id="head_ticker_2053500" class="head_ticker_hidden" data-id="2053500" data-type="news" data-time="1452846720" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/economy/2053500.html">
-        <span class="">
-            11:32        </span>Как не превратить войну мировую экономическую в войну Третью мировую    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="12"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2053780">
-                <div id="head_ticker_2053780" class="head_ticker_hidden" data-id="2053780" data-type="news" data-time="1452843540" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2053780.html">
-        <span class="">
-            10:39        </span>Азербайджан: ставки сделаны, ставок больше нет. А проблемы остались    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="13"></div>
-    </div>
-            </div>
-                                <div class="startMainTicket" id="2054874">
-                <div id="head_ticker_2054874" class="head_ticker_hidden" data-id="2054874" data-type="news" data-time="1452838860" style="display: block;">
-    <a class="showed_ticker" target="_blank" href="http://regnum.ru/news/polit/2054874.html">
-        <span class="federal-mark">
-            09:21        </span>Порошенко забыл украинский язык, отвечая на вопрос о «кошельках»    </a>
-            <div class="head_ticker_loader" style="width: 0%; overflow: hidden;" data-timer="14"></div>
-    </div>
-            </div>
-                            </div>
-            
-            <div class="waiting-tickers-container" style="display: none"></div>
-            <div id="modal_menu" data-showed="false" class="new_menu left_menu" role="navigation">
-                <ul>
-                    <li>
-                        <a href="http://regnum.ru/news/polit.html">Политика</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/news/economy.html">Экономика</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/news/society.html">Общество</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/news/cultura.html">Культура</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/news/innovatio.html">Наука</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/news/it.html">Техника</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/news/sport.html">Спорт</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/news/accidents.html">Происшествия</a>
-                    </li>
-                </ul>
-            </div>
-            <div id="modal_menu2" data-showed="false" class="new_menu left_menu" role="navigation">
-                <ul>
-                    <li>
-                        <a href="http://regnum.ru/analytics/polit.html">Политика</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/analytics/economy.html">Экономика</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/analytics/society.html">Общество</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/analytics/cultura.html">Культура</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/analytics/innovatio.html">Наука</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/analytics/it.html">Техника</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/analytics/ratings.html">Рейтинги</a>
-                    </li>
-                    <li>
-                        <a href="http://regnum.ru/analytics/international.html">Международное</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
         </div>
     </header><!-- .header-->
 
@@ -564,12 +453,42 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p><a class="author-link" href="http://regnum.ru/analytics/author/yuriy_baranchik.html" target="_blank">Юрий Баранчик</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2056062.html" target="_blank">За что проливал кровь Донбасс? Москва ускоряет развязку. Киев накануне шока</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
+                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
         <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055472.html" target="_blank">Игра продолжается: кандидат в премьеры Молдавии снял свою кандидатуру</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2056050.html" target="_blank">Обама пугает Иран новыми санкциями</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -579,12 +498,12 @@
                         Политика                    </a>
                             </div>
             <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/1664.html" target="_blank">
-                        Политический кризис в Молдавии                    </a>
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/494.html" target="_blank">
+                        Ядерная программа Ирана                    </a>
                             </div>
             <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/moldova.html" target="_blank">
-                        <span class="place_link">Кишинёв</span>,&nbsp;<span class="place_link">Молдавия</span>                    </a>
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/usa.html" target="_blank">
+                        <span class="place_link">Вашингтон</span>,&nbsp;<span class="place_link">США</span>                    </a>
                             </div>
         </div>
     </div>
@@ -596,12 +515,12 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
-        <p><a class="author-link" href="http://regnum.ru/analytics/author/regnum_siberia.html" target="_blank">Сибирская редакция  ИА REGNUM</a></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055356.html" target="_blank">Сто дней губернатора Левченко – борьба с предшественником и свобода слова</a></p>
+        <p><a class="author-link" href="http://regnum.ru/analytics/author/vladimir_kozlovskiy.html" target="_blank">Владимир Козловский</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2056032.html" target="_blank">Швейцария: немцы беспринципно угодливы к Путину</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -611,12 +530,12 @@
                         Политика                    </a>
                             </div>
             <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2157.html" target="_blank">
-                        Главное в регионах: обзоры событий и СМИ                    </a>
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2139.html" target="_blank">
+                        Обзоры зарубежных СМИ                    </a>
                             </div>
             <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/irkutsk.html" target="_blank">
-                        <span class="place_link">Иркутск</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/switzerland.html" target="_blank">
+                        <span class="place_link">Берн</span>,&nbsp;<span class="place_link">Швейцария</span>                    </a>
                             </div>
         </div>
     </div>
@@ -628,12 +547,12 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
-        <p><a class="author-link" href="http://regnum.ru/analytics/author/mihail_neyzhmakov.html" target="_blank">Михаил Нейжмаков</a></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055286.html" target="_blank">Чалый и Меняйло. Чем закончится «битва за Севастополь»?</a></p>
+        <p><a class="author-link" href="http://regnum.ru/analytics/author/anna_tumanova.html" target="_blank">Анна Туманова</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055988.html" target="_blank">Италия: татары оказывают реальное сопротивление &laquo;оккупантам&raquo; в Крыму</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -645,8 +564,8 @@
             <div class="tags-col detail-main-news-dossier">
                             </div>
             <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/sevastopol.html" target="_blank">
-                        <span class="place_link">Севастополь</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/italy.html" target="_blank">
+                        <span class="place_link">Рим</span>,&nbsp;<span class="place_link">Италия</span>                    </a>
                             </div>
         </div>
     </div>
@@ -658,12 +577,260 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p><a class="author-link" href="http://regnum.ru/analytics/author/stanislav_tarasov.html" target="_blank">Станислав Тарасов</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055980.html" target="_blank">России не нужна Украина в Азербайджане</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
+                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
         <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055260.html" target="_blank">«Он умеет и любит вешать лапшу»: послесловие к пресс-конференции Порошенко</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/economy/2055978.html" target="_blank">Саудовский фондовый рынок обвалился</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/economy.html" target="_blank">
+                        Экономика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/saudiarabia.html" target="_blank">
+                        <span class="place_link">Эр-Рияд</span>,&nbsp;<span class="place_link">Саудовская Аравия</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p><a class="author-link" href="http://regnum.ru/analytics/author/yakov_rud.html" target="_blank">Яков Рудь</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055976.html" target="_blank">Бідність: путь Украины с &laquo;майдана&raquo; на задворки истории</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/ukraine.html" target="_blank">
+                        <span class="place_link">Киев</span>,&nbsp;<span class="place_link">Украина</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p><a class="author-link" href="http://regnum.ru/analytics/author/andrey_vypolzov.html" target="_blank">Андрей Выползов</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2051446.html" target="_blank">«Нас зовёт Отчизна, нас зовут братья-поляки!» — о чём мечтает забыть Польша</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2269.html" target="_blank">
+                        REGNUM: ничто не забыто                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/polska.html" target="_blank">
+                        <span class="place_link">Варшава</span>,&nbsp;<span class="place_link">Польша</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/society/2054720.html" target="_blank">Не можешь выполнять свои обязанности — делай рейтинг губернаторов</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/society.html" target="_blank">
+                        Общество                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/1384.html" target="_blank">
+                        Судьба архитектурного наследия                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
+                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054992.html" target="_blank">Кровавый теракт в Стамбуле — пиар президентской республики по Эрдогану?</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/991.html" target="_blank">
+                        Взрывы в Турции                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/turkey.html" target="_blank">
+                        <span class="place_link">Анкара</span>,&nbsp;<span class="place_link">Турция</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055948.html" target="_blank">Рогозин: Язык министра обороны Хорватии «болтается как галстук»</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
+                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055944.html" target="_blank">США оставили часть своих санкций против Ирана в силе</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/494.html" target="_blank">
+                        Ядерная программа Ирана                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/usa.html" target="_blank">
+                        <span class="place_link">Вашингтон</span>,&nbsp;<span class="place_link">США</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055940.html" target="_blank">ДНР: В Мариуполе обнаружены польские военные</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -677,8 +844,8 @@
                         Гражданская война на Украине                    </a>
                             </div>
             <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/ukraine.html" target="_blank">
-                        <span class="place_link">Киев</span>,&nbsp;<span class="place_link">Украина</span>                    </a>
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/donetsk.html" target="_blank">
+                        <span class="place_link">Донецк</span>,&nbsp;<span class="place_link">ДНР</span>                    </a>
                             </div>
         </div>
     </div>
@@ -690,164 +857,12 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
         <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/economy/2055244.html" target="_blank">Нефтяной век уже кончился — Греф</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/economy.html" target="_blank">
-                        Экономика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/363.html" target="_blank">
-                        Динамика цен на нефтепродукты                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
-                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/economy/2055202.html" target="_blank">Греф: Россия попала в список технологически порабощённых стран</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/economy.html" target="_blank">
-                        Экономика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
-                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p><a class="author-link" href="http://regnum.ru/analytics/author/regnum_editorial.html" target="_blank">Редакция ИА REGNUM</a></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/economy/2055168.html" target="_blank">Чем грозит приватизация Сбербанка?</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/economy.html" target="_blank">
-                        Экономика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
-                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p><a class="author-link" href="http://regnum.ru/analytics/author/yakov_rud.html" target="_blank">Яков Рудь</a></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055136.html" target="_blank">Гордая Украина отвергает мир с русскими и требует их полной капитуляции</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/polit.html" target="_blank">
-                        Политика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/ukraine.html" target="_blank">
-                        <span class="place_link">Киев</span>,&nbsp;<span class="place_link">Украина</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p><a class="author-link" href="http://regnum.ru/analytics/author/tatyana_poloskova.html" target="_blank">Татьяна Полоскова</a></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055116.html" target="_blank">БРИКС нежизнеспособен: кто и зачем придумал БРИКС?</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/polit.html" target="_blank">
-                        Политика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
-                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/society/2055106.html" target="_blank">В Якутии первый должник временно лишился водительских прав</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/society/2055922.html" target="_blank">Пушков: «Либеральная одержимость» Меркель развалит и Шенген, и коалицию ФРГ</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -857,100 +872,8 @@
                         Общество                    </a>
                             </div>
             <div class="tags-col detail-main-news-dossier">
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/yakutia.html" target="_blank">
-                        <span class="place_link">Якутск</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/cultura/2053536.html" target="_blank">Голливуд: русские &mdash; похотливые, жестокие и циничные скоты</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/cultura.html" target="_blank">
-                        Культура                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2168.html" target="_blank">
-                        Информационная война против России                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/usa.html" target="_blank">
-                        <span class="place_link">Лос-Анджелес</span>,&nbsp;<span class="place_link">США</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2053546.html" target="_blank">Турция пошла к новой Османской империи. Что это значит для православия?</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
-                        Политика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/turkey.html" target="_blank">
-                        <span class="place_link">Стамбул</span>,&nbsp;<span class="place_link">Турция</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/economy/2053500.html" target="_blank">Как не превратить войну мировую экономическую в войну Третью мировую</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/economy.html" target="_blank">
-                        Экономика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/1505.html" target="_blank">
-                        Мировой финансовый кризис                    </a>
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2131.html" target="_blank">
+                        Проблема с беженцами в ЕС                    </a>
                             </div>
             <div class="tags-col detail-main-news-region">
                                                         <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
@@ -966,12 +889,12 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
         <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2053780.html" target="_blank">Азербайджан: ставки сделаны, ставок больше нет. А проблемы остались</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054694.html" target="_blank">Нескончаемая «арабская весна» грозит Европе не только беженцами</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -981,8 +904,40 @@
                         Политика                    </a>
                             </div>
             <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2298.html" target="_blank">
-                        Осложнение отношений с Турцией                    </a>
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/1786.html" target="_blank">
+                        Арабская весна                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/syria.html" target="_blank">
+                        <span class="place_link">Дамаск</span>,&nbsp;<span class="place_link">Сирия</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054636.html" target="_blank">Станет ли Нагорный Карабах новым Косово?</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/48.html" target="_blank">
+                        Нагорно-карабахский конфликт                    </a>
                             </div>
             <div class="tags-col detail-main-news-region">
                                                         <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/azerbaijan.html" target="_blank">
@@ -998,12 +953,12 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-17.html" target="_blank">17.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
         <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054874.html" target="_blank">Порошенко забыл украинский язык, отвечая на вопрос о «кошельках»</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055878.html" target="_blank">Обама подписал указ об отмене санкций против Ирана</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -1013,10 +968,44 @@
                         Политика                    </a>
                             </div>
             <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/494.html" target="_blank">
+                        Ядерная программа Ирана                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-region">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/usa.html" target="_blank">
+                        <span class="place_link">Вашингтон</span>,&nbsp;<span class="place_link">США</span>                    </a>
+                            </div>
+        </div>
+    </div>
+
+</div>
+                                            
+<div class="detail-main-news-tile">
+    <div class="detail-main-news-datetime">
+                    <div class="detail-main-news-date detail-main-news-date--nb">
+                <span>NB!</span>
+            </div>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-16.html" target="_blank">16.01.16</a>
+            </div>
+
+    <div class="detail-main-news-article">
+        <p></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054254.html" target="_blank">Власти Украины держат украинский народ за идиотов. Это больше чем ошибка...</a></p>
+    </div>
+
+    <div class="detail-main-news-footer">
+        <div class="detail-main-news-tags tags-row">
+            <div class="tags-col detail-main-news-theme">
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
+                        Политика                    </a>
+                            </div>
+            <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/1551.html" target="_blank">
+                        Социально-экономический кризис на Украине                     </a>
                             </div>
             <div class="tags-col detail-main-news-region">
                                                         <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/ukraine.html" target="_blank">
-                        <span class="place_link">Киев</span>,&nbsp;<span class="place_link">Украина</span>                    </a>
+                        <span class="place_link">Геническ</span>,&nbsp;<span class="place_link">Украина</span>                    </a>
                             </div>
         </div>
     </div>
@@ -1028,27 +1017,27 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-16.html" target="_blank">16.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/society/2054838.html" target="_blank">Рогозина хотят лишить зуба: «Зуб не дам, а в зубы — с удовольствием»</a></p>
+        <p><a class="author-link" href="http://regnum.ru/analytics/author/boris_savodyan.html" target="_blank">Борис Саводян</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055844.html" target="_blank">Война без смысла: почему падает боевой дух афганской армии</a></p>
     </div>
 
     <div class="detail-main-news-footer">
         <div class="detail-main-news-tags tags-row">
             <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/society.html" target="_blank">
-                        Общество                    </a>
+                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/analytics/polit.html" target="_blank">
+                        Политика                    </a>
                             </div>
             <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/1908.html" target="_blank">
-                        Строительство космодрома «Восточный» в Приамурье                    </a>
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/1928.html" target="_blank">
+                        Афганский фактор                    </a>
                             </div>
             <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/amur.html" target="_blank">
-                        <span class="place_link">Благовещенск</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/afghan.html" target="_blank">
+                        <span class="place_link">Кабул</span>,&nbsp;<span class="place_link">Афганистан</span>                    </a>
                             </div>
         </div>
     </div>
@@ -1060,44 +1049,12 @@
                     <div class="detail-main-news-date detail-main-news-date--nb">
                 <span>NB!</span>
             </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
+            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-16.html" target="_blank">16.01.16</a>
             </div>
 
     <div class="detail-main-news-article">
         <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/accidents/2054828.html" target="_blank">Родственники погибшего на перевале Дятлова собираются в Ивдель за телом</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/accidents.html" target="_blank">
-                        Происшествия                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/561.html" target="_blank">
-                        ЧП в горах                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/ural.html" target="_blank">
-                        <span class="place_link">Ивдель</span>,&nbsp;<span class="place_link">Свердловская область</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054820.html" target="_blank">Захарова не исключила, что МИД РФ возглавит женщина</a></p>
+        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2055838.html" target="_blank">Премьер-министр Баварии поставил Меркель ультиматум</a></p>
     </div>
 
     <div class="detail-main-news-footer">
@@ -1107,72 +1064,12 @@
                         Политика                    </a>
                             </div>
             <div class="tags-col detail-main-news-dossier">
+                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2131.html" target="_blank">
+                        Проблема с беженцами в ЕС                    </a>
                             </div>
             <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
-                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054804.html" target="_blank">Россия готова смягчить санкции против турецких компаний</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
-                        Политика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                                    <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/news/dossier/2298.html" target="_blank">
-                        Осложнение отношений с Турцией                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/moscow.html" target="_blank">
-                        <span class="place_link">Москва</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
-                            </div>
-        </div>
-    </div>
-
-</div>
-                                            
-<div class="detail-main-news-tile">
-    <div class="detail-main-news-datetime">
-                    <div class="detail-main-news-date detail-main-news-date--nb">
-                <span>NB!</span>
-            </div>
-            <a class="detail-main-news-time detail-main-news-link" href="http://regnum.ru/news/2016-01-15.html" target="_blank">15.01.16</a>
-            </div>
-
-    <div class="detail-main-news-article">
-        <p></p>
-        <p class="detail-main-news-header"><a href="http://regnum.ru/news/polit/2054798.html" target="_blank">Депутат Сенченко публично извинился перед Кадыровым</a></p>
-    </div>
-
-    <div class="detail-main-news-footer">
-        <div class="detail-main-news-tags tags-row">
-            <div class="tags-col detail-main-news-theme">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link"  href="http://regnum.ru/news/polit.html" target="_blank">
-                        Политика                    </a>
-                            </div>
-            <div class="tags-col detail-main-news-dossier">
-                            </div>
-            <div class="tags-col detail-main-news-region">
-                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/russian/krasnoyarsk.html" target="_blank">
-                        <span class="place_link">Красноярск</span>,&nbsp;<span class="place_link">Россия</span>                    </a>
+                                                        <a class="detail-main-news-tag-item detail-main-news-link" href="http://regnum.ru/foreign/germany.html" target="_blank">
+                        <span class="place_link">Берлин</span>,&nbsp;<span class="place_link">Германия</span>                    </a>
                             </div>
         </div>
     </div>
@@ -1195,7 +1092,7 @@
     var isUserLogin = false;
     var lastSendTime = new Date();
 
-        var incutNews = [[{"id":"9","header":"Когда ждать ядерной войны: Первыми, разумеется, ударят...","url":"http://news.rambler.ru/articles/32355306/","partner":true},{"id":"1","header":"Россия обнаружила в Крыму то, что проворонила Украина","url":"http://news.rambler.ru/world/32230917/","partner":true},{"id":"1414","header":"На Украине паника: Запад услышал Москву","url":"http://news.rambler.ru/32365726/","partner":true}],[{"id":"15","header":"Россия открыла ответный огонь из Ту-22М3","url":"http://news.rambler.ru/politics/31952248/","partner":true},{"id":"5","header":"События в Мариуполе изменят карту Украины","url":"http://news.rambler.ru/articles/32089625/","partner":true},{"id":"13","header":"Как Турция отомстит России","url":"http://news.rambler.ru/world/32392472/","partner":true}],[{"id":"1418","header":"Слова Якунина об окружении Путина назвали двусмысленными","url":"http://regnum.ru/","partner":true},{"id":"1420","header":"Запад приговорил Турцию к распаду","url":"http://regnum.ru/","partner":true},{"id":"1416","header":"В Турции начался «ползучий переворот»","url":"http://regnum.ru/","partner":true}]];
+        var incutNews = [[{"id":"9","header":"Когда ждать ядерной войны: Первыми, разумеется, ударят...","url":"http://news.rambler.ru/articles/32355306/","partner":true},{"id":"1414","header":"На Украине паника: Запад услышал Москву","url":"http://news.rambler.ru/32365726/","partner":true},{"id":"1","header":"Россия обнаружила в Крыму то, что проворонила Украина","url":"http://news.rambler.ru/world/32230917/","partner":true}],[{"id":"5","header":"События в Мариуполе изменят карту Украины","url":"http://news.rambler.ru/articles/32089625/","partner":true},{"id":"13","header":"Как Турция отомстит России","url":"http://news.rambler.ru/world/32392472/","partner":true},{"id":"15","header":"Россия открыла ответный огонь из Ту-22М3","url":"http://news.rambler.ru/politics/31952248/","partner":true}],[{"id":"2054636","header":"Станет ли Нагорный Карабах новым Косово?","url":"http://regnum.ru/news/polit/2054636.html","partner":""},{"id":"2056062","header":"За что проливал кровь Донбасс? Москва ускоряет развязку. Киев накануне шока","url":"http://regnum.ru/news/polit/2056062.html","partner":""},{"id":"2055922","header":"Пушков: «Либеральная одержимость» Меркель развалит и Шенген, и коалицию ФРГ","url":"http://regnum.ru/news/society/2055922.html","partner":""}]];
     var pList = getListParagraphs();
 
     displayIncutBlock(incutNews[0], 'top');

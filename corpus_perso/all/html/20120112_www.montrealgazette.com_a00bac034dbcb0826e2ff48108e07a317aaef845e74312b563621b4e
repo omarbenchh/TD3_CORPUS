@@ -2306,36 +2306,36 @@ font-weight: bold;
   
   
       <div class="element poll ">
-            <div class="pollContentpoll7_672225_9 pollQuestion" style="display:none;">
+            <div class="pollContentpoll7_672287_20 pollQuestion" style="display:none;">
         <div class="pollContainer">
       
-              <form method="post" action="/poll" id="formpoll7_672225_9" onsubmit="return false;">
-                      <h2 class="questionHdr"> Quick Poll - Jan. 14, 2016 </h2>
-                    <fieldset><h4 class="questionCopy">How do you receive mail from Canada Post?   </h4>
-            <input type="hidden" name="pollId" value="poll_7_672225" />
+              <form method="post" action="/poll" id="formpoll7_672287_20" onsubmit="return false;">
+                      <h2 class="questionHdr"> Quick Poll -  Jan. 15, 2016 </h2>
+                    <fieldset><h4 class="questionCopy">With such a low Canadian dollar, will you avoid travel to the United States? </h4>
+            <input type="hidden" name="pollId" value="poll_7_672287" />
             <input type="hidden" name="questionId" value="0" />
-                        <input type="hidden" name="forward" value="http://ottawa.ctvnews.ca/quick-poll-jan-14-2016-7.672225?ot=AjaxLayout&mode=www" />
+                        <input type="hidden" name="forward" value="http://ottawa.ctvnews.ca/quick-poll-jan-15-2016-7.672287?ot=AjaxLayout&mode=www" />
                         
-                                              <button name="answerId" class="todayPoll submit" value="0" type="submit"><div>Door-to-door delivery</div></button>
-                                  <button name="answerId" class="todayPoll submit" value="1" type="submit"><div>Community Mailbox</div></button>
+                                              <button name="answerId" class="todayPoll submit" value="0" type="submit"><div>Yes</div></button>
+                                  <button name="answerId" class="todayPoll submit" value="1" type="submit"><div>No</div></button>
                                               
                               <div class="linkContainer">
-                                      <div class="viewResult" onclick="getPollpoll7_672225_9('/quick-poll-jan-14-2016-7.672225?ot=AjaxLayout&mode=www&amp;showResult=true', 'poll7_672225_9')">View result</div> 
+                                      <div class="viewResult" onclick="getPollpoll7_672287_20('/quick-poll-jan-15-2016-7.672287?ot=AjaxLayout&mode=www&amp;showResult=true', 'poll7_672287_20')">View result</div> 
                     <a class="viewResult" href="http://ottawa.ctvnews.ca/community/poll-results">View the latest polls</a>
                                   </div>
                         </fieldset>
         </form>
         <script type="text/javascript">
           jQuery(document).ready(function() {
-              jQuery("#formpoll7_672225_9").ajaxForm(function(data) {
-                  fadeInResult("poll7_672225_9", data);
+              jQuery("#formpoll7_672287_20").ajaxForm(function(data) {
+                  fadeInResult("poll7_672287_20", data);
                   return false;
               });
           });
         </script>
           <script type="text/javascript">
     jQuery(document).ready(function() {
-      var pollId = 'poll7_672225_9';
+      var pollId = 'poll7_672287_20';
       jQuery(".pollContent" + pollId).fadeTo("slow", 1);
     });
         function fadeInResult(pollId, data) {
@@ -2345,7 +2345,7 @@ font-weight: bold;
       });
     }  
     
-        function getPollpoll7_672225_9(requestUrl, pollId) {
+        function getPollpoll7_672287_20(requestUrl, pollId) {
       jQuery.ajax({
         url: requestUrl + '&standalone=false',
         success: function(data) {
@@ -2383,12 +2383,12 @@ font-weight: bold;
   <div class='sml' >
       <h3 class="c-header">Latest Videos<span class="da"></span></h3>
     
-    <ul id="rotator_136944886_7_539279" style="visibility: hidden">
+    <ul id="rotator__911901126_7_539279" style="visibility: hidden">
           
 
 
         <li class='topTeaser' style="width: 300px;">
-      <div  id="carousel7_539279_136944886_1">
+      <div  id="carousel7_539279__911901126_1">
                               
 
 
@@ -2399,22 +2399,22 @@ font-weight: bold;
               <div class="teaser-image-wrapper teaser-image-top">
       <div class="teaserImage">
       
-                                        <a  href="http://ottawa.ctvnews.ca/video?clipId=788718"   ><div class='vid'>false</div><img title='CTV MOrning Live Weather Jan 15' height='169' alt='CTV MOrning Live Weather Jan 15' width='300' src='http://ottawa.ctvnews.ca/polopoly_fs/1.2738478.1452856414!/httpImage/image.jpg_gen/derivatives/landscape_300/image.jpg' /></a>
+                                        <a  href="http://ottawa.ctvnews.ca/video?clipId=789568"   ><div class='vid'>false</div><img title='CTVNews player background' height='169' alt='The default image to displayed before a clip plays.' width='300' src='http://ottawa.ctvnews.ca/polopoly_fs/1.846393.1380568208!/httpImage/image.jpeg_gen/derivatives/landscape_300/image.jpeg' /></a>
                         </div>
     <div class="bn-headline">
               <h2 class="teaserTitle">
-                                                                                <a  href="http://ottawa.ctvnews.ca/video?clipId=788718"   >CTV Morning Live Weather: Chance of snow</a>
+                                                                                <a  href="http://ottawa.ctvnews.ca/video?clipId=789568"   >CTV News at Six Ottawa for Saturday, January 16, 2016</a>
         </h2>
   </div>
     </div>
 
-  			<div class="airClip">Air Date: January 15, 2016</div>
+  			<div class="airClip">Air Date: January 16, 2016</div>
 	   
 </div>
                        </div>
     </li>
         <li class='topTeaser' style="width: 300px;">
-      <div  id="carousel7_539279_136944886_2">
+      <div  id="carousel7_539279__911901126_2">
                   <div class="element teaser" style="display: inline-table">
 					<div class='teaser-image-wrapper teaser-image-top'>
 					<img src="http://static.ctvnews.ca/bellmedia/common/img/bx_loader.gif" alt="CTVNews" class="ajx-img" />
@@ -2431,7 +2431,7 @@ font-weight: bold;
               </div>
     </li>
         <li class='topTeaser' style="width: 300px;">
-      <div  id="carousel7_539279_136944886_3">
+      <div  id="carousel7_539279__911901126_3">
                   <div class="element teaser" style="display: inline-table">
 					<div class='teaser-image-wrapper teaser-image-top'>
 					<img src="http://static.ctvnews.ca/bellmedia/common/img/bx_loader.gif" alt="CTVNews" class="ajx-img" />
@@ -2448,7 +2448,7 @@ font-weight: bold;
               </div>
     </li>
         <li class='topTeaser' style="width: 300px;">
-      <div  id="carousel7_539279_136944886_4">
+      <div  id="carousel7_539279__911901126_4">
                   <div class="element teaser" style="display: inline-table">
 					<div class='teaser-image-wrapper teaser-image-top'>
 					<img src="http://static.ctvnews.ca/bellmedia/common/img/bx_loader.gif" alt="CTVNews" class="ajx-img" />
@@ -2465,7 +2465,7 @@ font-weight: bold;
               </div>
     </li>
         <li class='topTeaser' style="width: 300px;">
-      <div  id="carousel7_539279_136944886_5">
+      <div  id="carousel7_539279__911901126_5">
                   <div class="element teaser" style="display: inline-table">
 					<div class='teaser-image-wrapper teaser-image-top'>
 					<img src="http://static.ctvnews.ca/bellmedia/common/img/bx_loader.gif" alt="CTVNews" class="ajx-img" />
@@ -2488,7 +2488,7 @@ font-weight: bold;
   var mySlider;
   jQuery(document).ready(function() {
     requiresDependency('http://static.ctvnews.ca/bellmedia/common/js/jquery.bxslider.min.js', function() {
-        mySlider = $('#rotator_136944886_7_539279').bxSlider({
+        mySlider = $('#rotator__911901126_7_539279').bxSlider({
                       
                       
                       
@@ -2496,7 +2496,7 @@ font-weight: bold;
                                             minSlides: 1,
                       slideWidth:300,
                       onSlideBefore : function ( $slideElement, oldIndex, newIndex ) {
-                        getCarouselSlide7_539279_136944886("7.539279", "rotator_136944886_7_539279", newIndex+1, "7_539279_136944886");
+                        getCarouselSlide7_539279__911901126("7.539279", "rotator__911901126_7_539279", newIndex+1, "7_539279__911901126");
                       },
                       moveSlides: 6,
                       infiniteLoop:true,hideControlOnEnd: false,
@@ -2504,19 +2504,19 @@ font-weight: bold;
                                               prevText: 'Previous'
                                           });
         
-        $('#rotator_136944886_7_539279').css("visibility", "visible");
+        $('#rotator__911901126_7_539279').css("visibility", "visible");
                   $('.bx-wrapper').addClass("loop");
         
       });
       
       // get first slide
-      getCarouselSlide7_539279_136944886("7.539279", "rotator_136944886_7_539279", 1, "7_539279_136944886");
+      getCarouselSlide7_539279__911901126("7.539279", "rotator__911901126_7_539279", 1, "7_539279__911901126");
   });
   
   
-  function getCarouselSlide7_539279_136944886(path, containingDiv, pageNum, carouselUniqueId) {
+  function getCarouselSlide7_539279__911901126(path, containingDiv, pageNum, carouselUniqueId) {
   
-    if ( loadedPageNum7_539279_136944886.indexOf(pageNum) != -1 ){
+    if ( loadedPageNum7_539279__911901126.indexOf(pageNum) != -1 ){
       // slide already loaded, no need to do anything
     } else {
       // slide not loaded yet, load it.
@@ -2540,7 +2540,7 @@ font-weight: bold;
           }
       
           // unique carousel id
-          targetPath = targetPath + "&carouselUniqueId=7_539279_136944886";
+          targetPath = targetPath + "&carouselUniqueId=7_539279__911901126";
           
           // teaser image deriv and img width
           targetPath = targetPath + "&imgDeriv=landscape";
@@ -2568,16 +2568,16 @@ font-weight: bold;
                 
                 //$("#carousel" + carouselId + "_"+carouselIndex).html($(data).find("#carousel" + carouselId + "_"+carouselIndex).html());
                 if("true" == "true"){
-                  $("li.bx-clone #carousel7_539279_136944886_"+carouselIndex).html($(data).find("#carousel7_539279_136944886_"+carouselIndex).html());
-                  $("li #carousel7_539279_136944886_"+carouselIndex).html($(data).find("#carousel7_539279_136944886_"+carouselIndex).html());
+                  $("li.bx-clone #carousel7_539279__911901126_"+carouselIndex).html($(data).find("#carousel7_539279__911901126_"+carouselIndex).html());
+                  $("li #carousel7_539279__911901126_"+carouselIndex).html($(data).find("#carousel7_539279__911901126_"+carouselIndex).html());
                 }else{
-                  $("#carousel7_539279_136944886_"+carouselIndex).html($(data).find("#carousel7_539279_136944886_"+carouselIndex).html());
+                  $("#carousel7_539279__911901126_"+carouselIndex).html($(data).find("#carousel7_539279__911901126_"+carouselIndex).html());
                 }
               
               }
               
               // flag this page has been loaded
-              loadedPageNum7_539279_136944886.push(pageNum);
+              loadedPageNum7_539279__911901126.push(pageNum);
               
             }
           });
@@ -2586,7 +2586,7 @@ font-weight: bold;
   }
   
   // keep track of which carousel page has been loaded.  If loaded, no need to load again.
-  var loadedPageNum7_539279_136944886 = new Array();
+  var loadedPageNum7_539279__911901126 = new Array();
   </script>
 
 
@@ -2606,18 +2606,18 @@ font-weight: bold;
                                     
               <span class="numCount">1</span><div class="numList">
            
-                                <a  href="http://ottawa.ctvnews.ca/pembroke-lawyer-being-investigated-for-allegations-of-professional-misconduct-1.2736242"  title="Pembroke lawyer being investigated for allegations of professional misconduct" >Pembroke lawyer being investigated for allegations of professional misconduct</a>
+                                <a  href="http://ottawa.ctvnews.ca/safety-warning-for-skiers-after-man-found-unconscious-in-gatineau-park-1.2740274"  title="Safety warning for skiers after man found unconscious in Gatineau Park " >Safety warning for skiers after man found unconscious in Gatineau Park </a>
           <span class="comment-video">
-      <a href="http://ottawa.ctvnews.ca/pembroke-lawyer-being-investigated-for-allegations-of-professional-misconduct-1.2736242#comments" class="smallCount" title="Comments">
-        <span class="comments"></span><span id="1_2736242_136944890" class="gigyaCount"></span>
+      <a href="http://ottawa.ctvnews.ca/safety-warning-for-skiers-after-man-found-unconscious-in-gatineau-park-1.2740274#comments" class="smallCount" title="Comments">
+        <span class="comments"></span><span id="1_2740274__911901122" class="gigyaCount"></span>
       </a>
     </span>    
               
         <script type='text/javascript'>
-        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2736242","#1_2736242_136944890"));
+        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2740274","#1_2740274__911901122"));
       </script>
       <span class="comment-video">
-  <a href="http://ottawa.ctvnews.ca/pembroke-lawyer-being-investigated-for-allegations-of-professional-misconduct-1.2736242?autoPlay=true" class="smallCount" title="Videos">
+  <a href="http://ottawa.ctvnews.ca/safety-warning-for-skiers-after-man-found-unconscious-in-gatineau-park-1.2740274?autoPlay=true" class="smallCount" title="Videos">
     <span class="videos"></span>1
   </a>
 </span>
@@ -2629,18 +2629,45 @@ font-weight: bold;
                                     
               <span class="numCount">2</span><div class="numList">
            
-                                <a  href="http://ottawa.ctvnews.ca/ottawa-residents-frustrated-over-frozen-mailboxes-1.2737793"  title="Ottawa residents frustrated over frozen mailboxes" >Ottawa residents frustrated over frozen mailboxes</a>
+                                <a  href="http://ottawa.ctvnews.ca/shoppers-strategy-to-save-on-produce-as-prices-soar-1.2739492"  title="Shoppers' strategy to save on produce as prices soar" >Shoppers' strategy to save on produce as prices soar</a>
           <span class="comment-video">
-      <a href="http://ottawa.ctvnews.ca/ottawa-residents-frustrated-over-frozen-mailboxes-1.2737793#comments" class="smallCount" title="Comments">
-        <span class="comments"></span><span id="1_2737793_136944891" class="gigyaCount"></span>
+      <a href="http://ottawa.ctvnews.ca/shoppers-strategy-to-save-on-produce-as-prices-soar-1.2739492#comments" class="smallCount" title="Comments">
+        <span class="comments"></span><span id="1_2739492__911901121" class="gigyaCount"></span>
       </a>
     </span>    
               
         <script type='text/javascript'>
-        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2737793","#1_2737793_136944891"));
+        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2739492","#1_2739492__911901121"));
       </script>
-      <span class="comment-video">
-  <a href="http://ottawa.ctvnews.ca/ottawa-residents-frustrated-over-frozen-mailboxes-1.2737793?autoPlay=true" class="smallCount" title="Videos">
+                </div>
+                                                    </li>
+        
+            
+                        <li id='orderedList'>
+                                    
+              <span class="numCount">3</span><div class="numList">
+           
+                                <a  href="http://ottawa.ctvnews.ca/ottawa-police-investigate-overnight-shooting-1.2738664"  title="Ottawa Police investigate overnight shooting" >Ottawa Police investigate overnight shooting</a>
+          <span class="comment-video">
+      <a href="http://ottawa.ctvnews.ca/ottawa-police-investigate-overnight-shooting-1.2738664#comments" class="smallCount" title="Comments">
+        <span class="comments"></span><span id="1_2738664__911901120" class="gigyaCount"></span>
+      </a>
+    </span>    
+              
+        <script type='text/javascript'>
+        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2738664","#1_2738664__911901120"));
+      </script>
+                </div>
+                                                    </li>
+        
+            
+                        <li id='orderedList'>
+                                    
+              <span class="numCount">4</span><div class="numList">
+           
+                                <a  href="http://ottawa.ctvnews.ca/winter-celebrations-at-rideau-hall-attract-thousands-1.2740207"  title="Winter celebrations at Rideau Hall attract thousands " >Winter celebrations at Rideau Hall attract thousands </a>
+    <span class="comment-video">
+  <a href="http://ottawa.ctvnews.ca/winter-celebrations-at-rideau-hall-attract-thousands-1.2740207?autoPlay=true" class="smallCount" title="Videos">
     <span class="videos"></span>1
   </a>
 </span>
@@ -2650,7 +2677,39 @@ font-weight: bold;
             
                         <li id='orderedList'>
                                     
-              <span class="numCount">3</span><div class="numList">
+              <span class="numCount">5</span><div class="numList">
+           
+                                <a  href="http://ottawa.ctvnews.ca/cross-country-skier-dies-after-being-found-unconscious-in-gatineau-park-1.2739470"  title="Cross-country skier dies after being found unconscious in Gatineau Park" >Cross-country skier dies after being found unconscious in Gatineau Park</a>
+              </div>
+                                                    </li>
+        
+            
+                        <li id='orderedList'>
+                                    
+              <span class="numCount">6</span><div class="numList">
+           
+                                <a  href="http://ottawa.ctvnews.ca/opp-using-new-high-tech-tool-to-nab-illegal-drivers-1.2275279"  title="OPP using new high tech tool to nab illegal drivers" >OPP using new high tech tool to nab illegal drivers</a>
+          <span class="comment-video">
+      <a href="http://ottawa.ctvnews.ca/opp-using-new-high-tech-tool-to-nab-illegal-drivers-1.2275279#comments" class="smallCount" title="Comments">
+        <span class="comments"></span><span id="1_2275279__911901117" class="gigyaCount"></span>
+      </a>
+    </span>    
+              
+        <script type='text/javascript'>
+        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2275279","#1_2275279__911901117"));
+      </script>
+      <span class="comment-video">
+  <a href="http://ottawa.ctvnews.ca/opp-using-new-high-tech-tool-to-nab-illegal-drivers-1.2275279?autoPlay=true" class="smallCount" title="Videos">
+    <span class="videos"></span>2
+  </a>
+</span>
+          </div>
+                                                    </li>
+        
+            
+                        <li id='orderedList'>
+                                    
+              <span class="numCount">7</span><div class="numList">
            
                                 <a  href="http://ottawa.ctvnews.ca/second-victim-of-alleged-sexual-predator-comes-forward-1.2737480"  title="Second victim of alleged sexual predator comes forward" >Second victim of alleged sexual predator comes forward</a>
     <span class="comment-video">
@@ -2664,93 +2723,20 @@ font-weight: bold;
             
                         <li id='orderedList'>
                                     
-              <span class="numCount">4</span><div class="numList">
-           
-                                <a  href="http://ottawa.ctvnews.ca/ottawa-police-investigate-overnight-shooting-1.2738664"  title="Ottawa Police investigate overnight shooting" >Ottawa Police investigate overnight shooting</a>
-          <span class="comment-video">
-      <a href="http://ottawa.ctvnews.ca/ottawa-police-investigate-overnight-shooting-1.2738664#comments" class="smallCount" title="Comments">
-        <span class="comments"></span><span id="1_2738664_136944893" class="gigyaCount"></span>
-      </a>
-    </span>    
-              
-        <script type='text/javascript'>
-        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2738664","#1_2738664_136944893"));
-      </script>
-                </div>
-                                                    </li>
-        
-            
-                        <li id='orderedList'>
-                                    
-              <span class="numCount">5</span><div class="numList">
-           
-                                <a  href="http://ottawa.ctvnews.ca/87-year-old-woman-dies-after-being-struck-by-oc-transpo-bus-1.2732839"  title="87-year-old woman dies after being struck by OC Transpo bus" >87-year-old woman dies after being struck by OC Transpo bus</a>
-          <span class="comment-video">
-      <a href="http://ottawa.ctvnews.ca/87-year-old-woman-dies-after-being-struck-by-oc-transpo-bus-1.2732839#comments" class="smallCount" title="Comments">
-        <span class="comments"></span><span id="1_2732839_136944894" class="gigyaCount"></span>
-      </a>
-    </span>    
-              
-        <script type='text/javascript'>
-        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2732839","#1_2732839_136944894"));
-      </script>
-      <span class="comment-video">
-  <a href="http://ottawa.ctvnews.ca/87-year-old-woman-dies-after-being-struck-by-oc-transpo-bus-1.2732839?autoPlay=true" class="smallCount" title="Videos">
-    <span class="videos"></span>3
-  </a>
-</span>
-          </div>
-                                                    </li>
-        
-            
-                        <li id='orderedList'>
-                                    
-              <span class="numCount">6</span><div class="numList">
-           
-                                <a  href="http://ottawa.ctvnews.ca/libraries-part-of-2-remaining-proposals-for-lebreton-flats-redevelopment-1.2737584"  title="Libraries part of 2 remaining proposals for LeBreton Flats redevelopment" >Libraries part of 2 remaining proposals for LeBreton Flats redevelopment</a>
-    <span class="comment-video">
-  <a href="http://ottawa.ctvnews.ca/libraries-part-of-2-remaining-proposals-for-lebreton-flats-redevelopment-1.2737584?autoPlay=true" class="smallCount" title="Videos">
-    <span class="videos"></span>1
-  </a>
-</span>
-          </div>
-                                                    </li>
-        
-            
-                        <li id='orderedList'>
-                                    
-              <span class="numCount">7</span><div class="numList">
-           
-                                <a  href="http://ottawa.ctvnews.ca/ottawa-police-issue-127-tickets-in-school-zone-blitz-1.2737288"  title="Ottawa Police issue 127 tickets in school zone blitz" >Ottawa Police issue 127 tickets in school zone blitz</a>
-          <span class="comment-video">
-      <a href="http://ottawa.ctvnews.ca/ottawa-police-issue-127-tickets-in-school-zone-blitz-1.2737288#comments" class="smallCount" title="Comments">
-        <span class="comments"></span><span id="1_2737288_136944896" class="gigyaCount"></span>
-      </a>
-    </span>    
-              
-        <script type='text/javascript'>
-        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2737288","#1_2737288_136944896"));
-      </script>
-                </div>
-                                                    </li>
-        
-            
-                        <li id='orderedList'>
-                                    
               <span class="numCount">8</span><div class="numList">
            
-                                <a  href="http://ottawa.ctvnews.ca/safety-is-focus-at-ottawa-airport-s-canine-training-course-1.2737667"  title="Safety is focus at Ottawa Airport's canine training course " >Safety is focus at Ottawa Airport's canine training course </a>
+                                <a  href="http://ottawa.ctvnews.ca/ottawa-residents-frustrated-over-frozen-mailboxes-1.2737793"  title="Ottawa residents frustrated over frozen mailboxes" >Ottawa residents frustrated over frozen mailboxes</a>
           <span class="comment-video">
-      <a href="http://ottawa.ctvnews.ca/safety-is-focus-at-ottawa-airport-s-canine-training-course-1.2737667#comments" class="smallCount" title="Comments">
-        <span class="comments"></span><span id="1_2737667_136944897" class="gigyaCount"></span>
+      <a href="http://ottawa.ctvnews.ca/ottawa-residents-frustrated-over-frozen-mailboxes-1.2737793#comments" class="smallCount" title="Comments">
+        <span class="comments"></span><span id="1_2737793__911901115" class="gigyaCount"></span>
       </a>
     </span>    
               
         <script type='text/javascript'>
-        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2737667","#1_2737667_136944897"));
+        gigya.comments.getComments(createMinGigyaParams("Pre-Moderated","1.2737793","#1_2737793__911901115"));
       </script>
       <span class="comment-video">
-  <a href="http://ottawa.ctvnews.ca/safety-is-focus-at-ottawa-airport-s-canine-training-course-1.2737667?autoPlay=true" class="smallCount" title="Videos">
+  <a href="http://ottawa.ctvnews.ca/ottawa-residents-frustrated-over-frozen-mailboxes-1.2737793?autoPlay=true" class="smallCount" title="Videos">
     <span class="videos"></span>1
   </a>
 </span>
@@ -3189,17 +3175,17 @@ font-weight: bold;
 
 
 	<div id="divLogin" class="element tveLoginButtonelement">
-		<div id="divLogIn-7_489985_1423585512_136944961" class="tve-button-login"><a href="#" style="position:relative;" onclick="axisAuthApi.performAuthentication('login');jump('top'); return false;">Video Sign In</a></div>
-		<div id="divLogOut-7_489985_1423585512_136944961" style="display:none;" class="tve-button-logout"><a href="#" onclick="axisAuthApi.performLogout('logout'); Tracking.trackLogout(); return false;">Video Sign Out</a></div>
+		<div id="divLogIn-7_489985_1423585512__911901056" class="tve-button-login"><a href="#" style="position:relative;" onclick="axisAuthApi.performAuthentication('login');jump('top'); return false;">Video Sign In</a></div>
+		<div id="divLogOut-7_489985_1423585512__911901056" style="display:none;" class="tve-button-logout"><a href="#" onclick="axisAuthApi.performLogout('logout'); Tracking.trackLogout(); return false;">Video Sign Out</a></div>
 	</div>
 	<script type="text/javascript">
 	requiresDependency('http://cauth.9c9media.com/auth9/axisAuthApi.js', function() {
   	axisAuthApi.events.addEvent('on_authentication_state_change', function (authenticationStatus, options) {
   		if (authenticationStatus == true) { 
-  			$('#divLogIn-7_489985_1423585512_136944961').hide(); $('#divLogOut-7_489985_1423585512_136944961').show(); 
+  			$('#divLogIn-7_489985_1423585512__911901056').hide(); $('#divLogOut-7_489985_1423585512__911901056').show(); 
 			}
   		else { 
-				$('#divLogIn-7_489985_1423585512_136944961').show(); $('#divLogOut-7_489985_1423585512_136944961').hide(); 
+				$('#divLogIn-7_489985_1423585512__911901056').show(); $('#divLogOut-7_489985_1423585512__911901056').hide(); 
 			}
   	});
 		});

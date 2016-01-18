@@ -226,7 +226,7 @@ var _userLocation = 'INTERNATIONAL';
 <script type="text/javascript">
 <!--
 	bbc.fmtj.page = {
-		serverTime: 1452869247000,
+		serverTime: 1453066262000,
 		editionToServe: null,
 		queryString: null,
 		section: null,
@@ -741,7 +741,7 @@ istats_countername = countername(location.href);
 </div>
 	
 		
-<img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~Democracy~RS~t~RS~HighWeb_AV~RS~i~RS~9661283~RS~p~RS~92014~RS~a~RS~Domestic~RS~u~RS~/democracylive/hi/northern_ireland/newsid_9661000/9661283.stm~RS~r~RS~(none)~RS~q~RS~~RS~z~RS~27~RS~"/></td>
+<img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~Democracy~RS~t~RS~HighWeb_AV~RS~i~RS~9661283~RS~p~RS~92014~RS~a~RS~Domestic~RS~u~RS~/democracylive/hi/northern_ireland/newsid_9661000/9661283.stm~RS~r~RS~(none)~RS~q~RS~~RS~z~RS~02~RS~"/></td>
         
         <td class="contentwrapper">
             <table  class="datetools" cellpadding="0" cellspacing="0">
@@ -1487,7 +1487,7 @@ var bm = new BookMark({site:'',storyid:9662253,sectionid:92014,url:'/democracyli
 
 
 <!-- 
-host:nolweb001.wtf.nolcontent.net
+host:nolweb327.lhc.nolcontent.net
 Site_To_Serve:democracylive
 Section_Path:(none) 
 blq_web_service:on

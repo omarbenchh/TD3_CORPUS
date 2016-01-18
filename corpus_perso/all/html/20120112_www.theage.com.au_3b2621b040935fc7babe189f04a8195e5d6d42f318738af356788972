@@ -11,7 +11,7 @@
 <!-- Digital Data Script -->
 <script>
     var titanEnabled = true;
-    var digitalData = {"page":{"pageInfo":{"pageID":"2889515","pageName":"Folate, B12 prevent memory loss","brand":"theage","generator":"CQ","author":"","effectiveDate":"","issueDate":"2012-01-12T10:05:02Z","sysEnv":"desktop","template":"twocolumn-rightrail","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"national","subCategory1":"","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"theage","adZone":"news/national","adKeyValues":{"cat1":"national","cat":"news","ctype":"article"},"adSlots":["adspot-300x70-pos1","adspot-300x1515-pos1","adspot-300x600_300x250-pos1","adspot-300x250-pos2","adspot-149x170-pos1","adspot-996x120_970x250_940x250_940x120-pos1","adspot-149x170-pos2","adspot-1x11-pos1","adspot-728x90-pos2","adspot-728x90-pos1","adspot-300x250-pos3"],"adRegistry":"536","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.theage.com.au","brandSite":"age","domain":"theage.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://theage.myfairfax.com.au","hagridChannelKey":"QeFV9eVnngJX9eFB2HyKgQ","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["National"],"assetId":"2889515","assetSources":["AAP"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-2"}}};
+    var digitalData = {"page":{"pageInfo":{"pageID":"2889515","pageName":"Folate, B12 prevent memory loss","brand":"theage","generator":"CQ","author":"","effectiveDate":"","issueDate":"2012-01-12T10:05:02Z","sysEnv":"desktop","template":"twocolumn-rightrail","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"national","subCategory1":"","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"theage","adZone":"news/national","adKeyValues":{"cat1":"national","cat":"news","ctype":"article"},"adSlots":["adspot-300x70-pos1","adspot-300x1515-pos1","adspot-300x600_300x250-pos1","adspot-300x250-pos2","adspot-149x170-pos1","adspot-996x120_970x250_940x250_940x120-pos1","adspot-149x170-pos2","adspot-1x11-pos1","adspot-728x90-pos2","adspot-728x90-pos1","adspot-300x250-pos3"],"adRegistry":"2759","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.theage.com.au","brandSite":"age","domain":"theage.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://theage.myfairfax.com.au","hagridChannelKey":"QeFV9eVnngJX9eFB2HyKgQ","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["National"],"assetId":"2889515","assetSources":["AAP"],"assetType":["article"]},"vendor":{"GoogleAnalytics":{"account":"UA-22700242-2"}}};
 
     var titan = window.titan || {};
     titan.requestAd = titan.requestAd || [];
@@ -162,7 +162,7 @@
 
 <ul class="alt">
         <li class="account todaysPaper">
-            <a class="btn trackingClick" href="/nsw/digitaleditionredirector" target="_blank" data-tracking-types="ga,sc" data-ga-action="TodaysPaper" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event50","events":"event50","eVar56":"mym_dock"}' data-sc-tl="todaysPaper" data-sub="http://www.theage.com.au/subscribe?channel_key=QeFV9eVnngJX9eFB2HyKgQ&callback_uri=http%3A%2F%2Fwww.theage.com.au%2F&plain_token=true&iid=other:webadv-14omn0065-prod-consumersubs:nnn-02/07/2014-todays_paper_redirection-all-dockbutton-nnn-age-u&campaign_code=14iaf201&promote_channel=webadvt" data-deu="http://theage.digitaleditions.com.au/olive/ode/ageweb/Login/Login.aspx?&Id=9682713e9d2195ec0679bf6138fa4b31db2cd6fb7ad9da0d363dc4dcbaec0385&d=2016-01-15&c=D3BE76A4899DEAE3B80A96C342FD4B7D">Today's Paper</a>
+            <a class="btn trackingClick" href="/nsw/digitaleditionredirector" target="_blank" data-tracking-types="ga,sc" data-ga-action="TodaysPaper" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event50","events":"event50","eVar56":"mym_dock"}' data-sc-tl="todaysPaper" data-sub="http://www.theage.com.au/subscribe?channel_key=QeFV9eVnngJX9eFB2HyKgQ&callback_uri=http%3A%2F%2Fwww.theage.com.au%2F&plain_token=true&iid=other:webadv-14omn0065-prod-consumersubs:nnn-02/07/2014-todays_paper_redirection-all-dockbutton-nnn-age-u&campaign_code=14iaf201&promote_channel=webadvt" data-deu="http://theage.digitaleditions.com.au/olive/ode/ageweb/Login/Login.aspx?&Id=9682713e9d2195ec0679bf6138fa4b31db2cd6fb7ad9da0d363dc4dcbaec0385&d=2016-01-17&c=AB55243EFD09E9EA74F50B69F9B2C4A6">Today's Paper</a>
         </li>
         <li class="account">
             <a class="btn alt trackingClick" href="http://www.theage.com.au/subscribe?channel_key=QeFV9eVnngJX9eFB2HyKgQ&callback_uri=http%3A%2F%2Fwww.theage.com.au%2F&plain_token=true&iid=houseinv:nnn-15omn0836-acq-consumersubs:nnn-eoys15-dom-eoys15_navlinka-nnn-age-u&campaign_code=eoys15&promote_channel=house_inventory" target="_blank" data-tracking-types="ga,sc" data-ga-action="Subscribe" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_Subscribe"}' data-sc-tl="subscribe">Subscribe</a>
@@ -207,8 +207,8 @@
     <div class="network-strip cf">
         <ul class="nav edition" role="menu">
             <li role="menuitem" id="whiteStrip-time">
-                Saturday Jan 16, 2016</li>
-            <li role="menuitem" id="whiteStrip-users" class="online">    3811<span class="collectorHidden" style="display:none">(0)</span> online now</li>
+                Monday Jan 18, 2016</li>
+            <li role="menuitem" id="whiteStrip-users" class="online">    16074<span class="collectorHidden" style="display:none">(0)</span> online now</li>
             <li role="menuitem">
                 <span>Do you know more about a story?</span>
                 <div class="dropdown-panel">
@@ -493,71 +493,71 @@
                     Most popular
                 </h3>
             </header>
-            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm6kyh" data-assettype="ARTICLE" data-asseturl="/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html">
-                    <a href="/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html" tabindex="0" sl-processed="1">
+            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm75lg" data-assettype="ARTICLE" data-asseturl="/national/health/potato-consumption-linked-to-greater-risk-of-gestational-diabetes-study-finds-20160115-gm75lg.html">
+                    <a href="/national/health/potato-consumption-linked-to-greater-risk-of-gestational-diabetes-study-finds-20160115-gm75lg.html" tabindex="0" sl-processed="1">
                         <span class="num">1</span>
                     </a>
-                    <a href="/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html" title="FebFast? Forget it. Expert says a month off the booze could do more harm than good  ">
-                        <img alt="Is a month off the booze good for you?" title="" src="/content/dam/images/g/l/e/j/3/r/image.related.thumbnail.90x60.gm6kyh.png/1452858568303.jpg"></a>
+                    <a href="/national/health/potato-consumption-linked-to-greater-risk-of-gestational-diabetes-study-finds-20160115-gm75lg.html" title="Potato consumption linked to greater risk of gestational diabetes, study finds">
+                        <img alt="Amanda Donney who is pregnant. Her family has a history of diabetes and a new study has shown a link between potato consumption and gestational diabetes in pregnant women. 15th January 2016, Photo: Wolter Peeters, The Sydney Morning Herald" title="" src="/content/dam/images/g/m/7/6/w/e/image.related.thumbnail.90x60.gm75lg.png/1453019186411.jpg"></a>
                     <h3>
-                        <a href="/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html">FebFast? Forget it. Expert says a month off the ...</a>
+                        <a href="/national/health/potato-consumption-linked-to-greater-risk-of-gestational-diabetes-study-finds-20160115-gm75lg.html">Potato consumption linked to greater risk of ...</a>
 
                     </h3>
                     <div class="article-meta">
                         <em class="access">Contains:</em>
                         </div>
                 </article>
-            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm5ydk" data-assettype="ARTICLE" data-asseturl="/national/education/conference-at-unsw-explores-what-ancient-philosophies-recommend-for-a-good-life-20160114-gm5ydk.html">
-                    <a href="/national/education/conference-at-unsw-explores-what-ancient-philosophies-recommend-for-a-good-life-20160114-gm5ydk.html" tabindex="0" sl-processed="1">
+            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm4n1y" data-assettype="ARTICLE" data-asseturl="/national/education/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html">
+                    <a href="/national/education/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html" tabindex="0" sl-processed="1">
                         <span class="num">2</span>
                     </a>
-                    <a href="/national/education/conference-at-unsw-explores-what-ancient-philosophies-recommend-for-a-good-life-20160114-gm5ydk.html" title="Conference at UNSW explores what ancient philosophies recommend for a good life">
-                        <img alt="Illustration: Simon Letch" title="" src="/content/dam/images/g/m/6/9/8/t/image.related.thumbnail.90x60.gm5ydk.png/1452813012685.jpg"></a>
+                    <a href="/national/education/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html" title="Target and Kmart sell $2 school uniforms, but at what cost? ">
+                        <img alt="Target's $2 back to school promotion." title="" src="/content/dam/images/g/m/6/t/1/o/image.related.thumbnail.90x60.gm4n1y.png/1452984774115.jpg"></a>
                     <h3>
-                        <a href="/national/education/conference-at-unsw-explores-what-ancient-philosophies-recommend-for-a-good-life-20160114-gm5ydk.html">Conference at UNSW explores what ancient ...</a>
+                        <a href="/national/education/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html">Target and Kmart sell $2 school uniforms, but at ...</a>
 
                     </h3>
                     <div class="article-meta">
                         <em class="access">Contains:</em>
-                        <a href="/national/education/conference-at-unsw-explores-what-ancient-philosophies-recommend-for-a-good-life-20160114-gm5ydk.html#comments"><span title="comments" class="icon comments">total comments</span>1</a>
+                        <a href="/national/education/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html#comments"><span title="comments" class="icon comments">total comments</span>251</a>
                         </div>
                 </article>
-            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm6zkl" data-assettype="ARTICLE" data-asseturl="/national/health/man-flu-is-real-study-finds-estrogen-protects-women-against-influenza-virus-20160115-gm6zkl.html">
-                    <a href="/national/health/man-flu-is-real-study-finds-estrogen-protects-women-against-influenza-virus-20160115-gm6zkl.html" tabindex="0" sl-processed="1">
+            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm77z1" data-assettype="ARTICLE" data-asseturl="/national/deported-us-pickup-artist-julien-blancs-mates-plan-australia-tour-20160116-gm77z1.html">
+                    <a href="/national/deported-us-pickup-artist-julien-blancs-mates-plan-australia-tour-20160116-gm77z1.html" tabindex="0" sl-processed="1">
                         <span class="num">3</span>
                     </a>
-                    <a href="/national/health/man-flu-is-real-study-finds-estrogen-protects-women-against-influenza-virus-20160115-gm6zkl.html" title="Man flu is real: Study finds estrogen protects women against influenza virus">
-                        <img alt="Man flu ... it's real." title="" src="/content/dam/images/g/m/7/2/1/9/image.related.thumbnail.90x60.gm6zkl.png/1452842495404.jpg"></a>
+                    <a href="/national/deported-us-pickup-artist-julien-blancs-mates-plan-australia-tour-20160116-gm77z1.html" title="Deported US pick-up artist Julien Blanc's mates plan Australia tour">
+                        <img alt="In 2014 pick up artist Julien Blanc was denied access to Australia and Britain for his courting techniques which include encouraging men to intimidate and emotionally abuse women." title="" src="/content/dam/images/1/1/r/g/r/q/image.related.thumbnail.90x60.gm77z1.png/1452999962465.jpg"></a>
                     <h3>
-                        <a href="/national/health/man-flu-is-real-study-finds-estrogen-protects-women-against-influenza-virus-20160115-gm6zkl.html">Man flu is real: Study finds estrogen protects ...</a>
+                        <a href="/national/deported-us-pickup-artist-julien-blancs-mates-plan-australia-tour-20160116-gm77z1.html">Deported US pick-up artist Julien Blanc's mates ...</a>
 
                     </h3>
                     <div class="article-meta">
                         <em class="access">Contains:</em>
                         </div>
                 </article>
-            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-13xzog" data-assettype="ARTICLE" data-asseturl="/national/senior-surgeon-gabrielle-mcmullin-stands-by-advice-for-female-doctors-to-stay-silent-on-sex-abuse-20150307-13xzog.html">
-                    <a href="/national/senior-surgeon-gabrielle-mcmullin-stands-by-advice-for-female-doctors-to-stay-silent-on-sex-abuse-20150307-13xzog.html" tabindex="0" sl-processed="1">
+            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm7mod" data-assettype="ARTICLE" data-asseturl="/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html">
+                    <a href="/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html" tabindex="0" sl-processed="1">
                         <span class="num">4</span>
                     </a>
-                    <a href="/national/senior-surgeon-gabrielle-mcmullin-stands-by-advice-for-female-doctors-to-stay-silent-on-sex-abuse-20150307-13xzog.html" title="Senior surgeon Gabrielle McMullin stands by advice for female doctors to stay silent on sex abuse">
-                        <img alt="Dr Gabrielle McMullin: &quot;I am so frustrated with what is going on.&quot;" title="" src="/content/dam/images/1/3/x/v/u/3/image.related.thumbnail.90x60.13xzog.png/1425928162279.jpg"></a>
+                    <a href="/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html" title="Thousands of older people exploring 'rational suicide': Nitschke">
+                        <img alt="Pat and Peter Shaw took their own lives together in their home when they were both aged 87." title="" src="/content/dam/images/g/m/6/l/o/y/image.related.thumbnail.90x60.gm7mod.png/1453018623875.jpg"></a>
                     <h3>
-                        <a href="/national/senior-surgeon-gabrielle-mcmullin-stands-by-advice-for-female-doctors-to-stay-silent-on-sex-abuse-20150307-13xzog.html">Senior surgeon Gabrielle McMullin stands by ...</a>
+                        <a href="/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html">Thousands of older people exploring 'rational ...</a>
 
                     </h3>
                     <div class="article-meta">
                         <em class="access">Contains:</em>
                         </div>
                 </article>
-            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm64k0" data-assettype="ARTICLE" data-asseturl="/national/seafarers-grossly-underpaid-on-ship-delivering-to-alcoa-20160114-gm64k0.html">
-                    <a href="/national/seafarers-grossly-underpaid-on-ship-delivering-to-alcoa-20160114-gm64k0.html" tabindex="0" sl-processed="1">
+            <article data-vr-contentbox="" class="article clippingArea clippingAction" data-assetid="d-gm74od" data-assettype="ARTICLE" data-asseturl="/national/bomber-drug-ban-a-setback-for-indigenous-progress-in-shepparton-20160115-gm74od.html">
+                    <a href="/national/bomber-drug-ban-a-setback-for-indigenous-progress-in-shepparton-20160115-gm74od.html" tabindex="0" sl-processed="1">
                         <span class="num">5</span>
                     </a>
-                    <a href="/national/seafarers-grossly-underpaid-on-ship-delivering-to-alcoa-20160114-gm64k0.html" title="Crew's wages 'withheld' on ship delivering to Alcoa: union">
-                        <img alt="MUA national secretary Paddy Crumlin has called Alcoa's late night raid an act of &quot;industrial thuggery&quot;." title="" src="/content/dam/images/g/i/z/x/h/f/image.related.thumbnail.90x60.gm64k0.png/1444971532874.jpg"></a>
+                    <a href="/national/bomber-drug-ban-a-setback-for-indigenous-progress-in-shepparton-20160115-gm74od.html" title="Bomber drug ban a setback for Indigenous progress in Shepparton">
+                        <img alt="Nathan Lovett-Murray identifies with his Indigenous heritage." title="" src="/content/dam/images/g/h/1/p/x/6/image.related.thumbnail.90x60.gm74od.png/1453010166918.jpg"></a>
                     <h3>
-                        <a href="/national/seafarers-grossly-underpaid-on-ship-delivering-to-alcoa-20160114-gm64k0.html">Crew's wages 'withheld' on ship delivering to ...</a>
+                        <a href="/national/bomber-drug-ban-a-setback-for-indigenous-progress-in-shepparton-20160115-gm74od.html">Bomber drug ban a setback for Indigenous progress ...</a>
 
                     </h3>
                     <div class="article-meta">
@@ -576,18 +576,18 @@
             <h3><span class="icon huffpost-logo"></span>HuffPost Australia</h3>
         </header>
         <article class="article">
-                <a target="_blank" data-id="8986654" data-title="Sydney Storm Clean-Up Continues As Thousands Of Homes Still Without Power" data-category="national" data-location="1" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/15/sydney-storm-clean-up-photos_n_8986654.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce21_XhtMgFo9J3WitGmObWNKqBynvWgLjh83-4LvC6L6KM=" width="90" height="60" alt="headline"></a>
-                <h3><a target="_blank" data-id="8986654" data-title="Sydney Storm Clean-Up Continues As Thousands Of Homes Still Without Power" data-category="national" data-location="1" href="http://www.huffingtonpost.com.au/2016/01/15/sydney-storm-clean-up-photos_n_8986654.html?ncid=edlinkauhpmg00000001">Sydney Storm Clean-Up Continues As Thousands Of Homes Still Without Power</a></h3>
+                <a target="_blank" data-id="8999668" data-title="Malcolm Turnbull Makes Surprise Visit To Iraq To Discuss Islamic State And Meet Aussie Troops" data-category="national" data-location="1" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/17/turnbull-iraq-visit_n_8999668.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce21u0lkbOx5eSqbIgrKIUnzJHCzbOFJod3a5WW_OJyiEIk=" width="90" height="60" alt="headline"></a>
+                <h3><a target="_blank" data-id="8999668" data-title="Malcolm Turnbull Makes Surprise Visit To Iraq To Discuss Islamic State And Meet Aussie Troops" data-category="national" data-location="1" href="http://www.huffingtonpost.com.au/2016/01/17/turnbull-iraq-visit_n_8999668.html?ncid=edlinkauhpmg00000001">Malcolm Turnbull Makes Surprise Visit To Iraq To Discuss Islamic State And Meet Aussie Troops</a></h3>
                 <span class="source">HuffPost Australia <span class="icon external"> external site</span></span>
             </article>
             <article class="article">
-                <a target="_blank" data-id="8986502" data-title="Fun Police Shutdown Australia Day Party In The Most Humorous Way" data-category="national" data-location="2" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/15/fun-police-shutdown-australia-day-party_n_8986502.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce218R30YsrkhFMoo8KVmsN77COQmnD_M0GGbZFiyeR07pQ=" width="90" height="60" alt="headline"></a>
-                <h3><a target="_blank" data-id="8986502" data-title="Fun Police Shutdown Australia Day Party In The Most Humorous Way" data-category="national" data-location="2" href="http://www.huffingtonpost.com.au/2016/01/15/fun-police-shutdown-australia-day-party_n_8986502.html?ncid=edlinkauhpmg00000001">Fun Police Shutdown Australia Day Party In The Most Humorous Way</a></h3>
+                <a target="_blank" data-id="8999534" data-title="Two Australian Citizens Kidnapped In Burkina Faso" data-category="national" data-location="2" tabindex="0" href="http://www.huffingtonpost.com.au/2016/01/17/two-australians-kidnapped_n_8999534.html?ncid=edlinkauhpmg00000001"><img src="http://grvaol-a.akamaihd.net/t/e/pAFhdfMS5xER_Jo34wgh1S5Wbtw_dTFJOaWznlk46YyOLawppFtS0cyLKjIDce21XoJq0MyYa6PdjH4L505EljWVBrk43H16VCb8yfmOa-A=" width="90" height="60" alt="headline"></a>
+                <h3><a target="_blank" data-id="8999534" data-title="Two Australian Citizens Kidnapped In Burkina Faso" data-category="national" data-location="2" href="http://www.huffingtonpost.com.au/2016/01/17/two-australians-kidnapped_n_8999534.html?ncid=edlinkauhpmg00000001">Two Australian Citizens Kidnapped In Burkina Faso</a></h3>
                 <span class="source">HuffPost Australia <span class="icon external"> external site</span></span>
             </article>
             <input type="hidden" class="w_brand" name="w_brand" value="HuffPost_au" />
-        <input type="hidden" class="w_ids" name="w_ids" value="8986654,8986502" />
-        <input type="hidden" class="w_title" name="w_title" value="Sydney Storm Clean-Up Continues As Thousands Of Homes Still Without Power,Fun Police Shutdown Australia Day Party In The Most Humorous Way" />
+        <input type="hidden" class="w_ids" name="w_ids" value="8999668,8999534" />
+        <input type="hidden" class="w_title" name="w_title" value="Malcolm Turnbull Makes Surprise Visit To Iraq To Discuss Islamic State And Meet Aussie Troops,Two Australian Citizens Kidnapped In Burkina Faso" />
         <input type="hidden" class="w_category" name="w_category" value="national,national" />
         <input type="hidden" class="w_location" name="w_location" value="1,2" />
         <input type="hidden" class="w_extraproperty" name="w_extraproperty" value="" />
@@ -694,23 +694,23 @@
                                         <li><a href="http://www.adzuna.com.au/blog/" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Jobs blog</a></li>
                                 </ul>
                         </div><!-- class:s2 cAdzuna -->
-                        <div class="s3 cfindababysitter">
-                            <!-- Campaign ID: 1262070 -->
-                            <h2><a title="Find A Babysitter" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.findababysitter.com.au">Find A Babysitter</a></h2>
+                        <div class="s3 cAge">
+                            <!-- Campaign ID: 1262071 -->
+                            <h2><a title="Executive Style" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.theage.com.au">Executive Style</a></h2>
                                         <div class="puff">
-                                                <a href="http://www.findababysitter.com.au#utm_source=network&utm_medium=rainbow&utm_campaign=summerbts-15" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
-    <img src="http://images.theage.com.au/2015/01/19/6176997/fab-bts-reading-172x115.jpg" width="172" alt="fab-bts-reading"/></a>
+                                                <a href="http://www.executivestyle.com.au/how-to-turn-your-greying-locks-into-a-silver-fox-gj4ekl?utm_source=FD&utm_medium=rainbow&utm_campaign=silverfox" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.theage.com.au/2015/11/20/7025188/Clooney_172-172x115.jpg" width="172" alt="George Clooney"/></a>
 
-                                            <h5><a href="http://www.findababysitter.com.au#utm_source=network&utm_medium=rainbow&utm_campaign=summerbts-15" rel="nofollow" title="getbeforeandafterschoolcareorganisednow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Get before and after school care organised now</a></h5>
+                                            <h5><a href="http://www.executivestyle.com.au/how-to-turn-your-greying-locks-into-a-silver-fox-gj4ekl?utm_source=FD&utm_medium=rainbow&utm_campaign=silverfox" rel="nofollow" title="50menwhoturngreyinglocksintosilverfox" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">50 men who turn greying locks into silver fox</a></h5>
                                         </div><!-- class:puff -->
-                                        <ul><li class="lfindababysitter"><a href="http://www.findababysitter.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Findababysitter.com.au</a></li>
-                                        <li><a href="http://www.findababysitter.com.au/Browse/Nanny/VIC/Melbourne#utm_source=FD&utm_medium=rainbow&utm_campaign=age" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Melbourne Child Care</a></li>
-                                        <li><a href="http://www.findababysitter.com.au/Browse/Nanny/VIC/geelong#utm_source=FD&utm_medium=rainbow&utm_campaign=age" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Geelong Child Care</a></li>
-                                        <li><a href="http://www.findababysitter.com.au/Browse/Nanny/VIC/shepparton#utm_source=FD&utm_medium=rainbow&utm_campaign=age" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Shepparton Child Care</a></li>
+                                        <ul><li class="lAge"><a href="http://www.theage.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Theage.com.au</a></li>
+                                        <li><a href="http://www.smh.com.au/executive-style/style/guides/style?utm_source=FD&utm_medium=rainbow&utm_campaign=styleguide" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">The ultimate mens style guide</a></li>
+                                        <li><a href="http://www.smh.com.au/executive-style/luxury?utm_source=FD&utm_medium=rainbow&utm_campaign=luxury" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Fashion trends and collections</a></li>
+                                        <li><a href="http://www.smh.com.au/executive-style/management?utm_source=FD&utm_medium=rainbow&utm_campaign=management" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Management secrets from the boardroom</a></li>
                                 </ul>
-                        </div><!-- class:s3 cfindababysitter -->
+                        </div><!-- class:s3 cAge -->
                         <div class="s4 cGoodFood">
-                            <!-- Campaign ID: 1262073 -->
+                            <!-- Campaign ID: 1262074 -->
                             <h2><a title="Good Food" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.goodfood.com.au">Good Food</a></h2>
                                         <div class="puff">
                                                 <a href="http://www.goodfood.com.au/good-food/cook/recipe/chicken-cacciatore-20140428-37dqo.html" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
@@ -724,21 +724,21 @@
                                         <li><a href="http://www.goodfood.com.au/good-food/cook/recipe/buffalo-mozzarella-lasagne-20111111-29u8h.html" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Neil Perry's lasagne</a></li>
                                 </ul>
                         </div><!-- class:s4 cGoodFood -->
-                        <div class="s5 cHuffPost">
-                            <!-- Campaign ID: 1262077 -->
-                            <h2><a title="HuffPost" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.huffingtonpost.com.au">HuffPost</a></h2>
+                        <div class="s5 cAge">
+                            <!-- Campaign ID: 1262076 -->
+                            <h2><a title="Horse Racing" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.theage.com.au">Horse Racing</a></h2>
                                         <div class="puff">
-                                                <a href="http://www.huffingtonpost.com.au/2015/10/10/truth-free-range-eggs_n_8266904.html?utm_hp_ref=australia" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
-    <img src="http://images.theage.com.au/2015/10/13/6926216/n-EGGS-large172x115-comp-172x115.png" width="172" alt="huffpost eggs rainbow strip"/></a>
+                                                <a href="/wizardofodds" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.theage.com.au/2014/12/24/6117543/WizardOfOdds_banner_172x115-172x115.jpg" width="172" alt="WizardOfOdds_banner_172x115"/></a>
 
-                                            <h5><a href="http://www.huffingtonpost.com.au/2015/10/10/truth-free-range-eggs_n_8266904.html?utm_hp_ref=australia" rel="nofollow" title="thelowdownonfreerangeeggs" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">The low down on free range eggs</a></h5>
+                                            <h5><a href="/wizardofodds" rel="nofollow" title="theultimatehorseracingformguide" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">The Ultimate Horse Racing Form Guide</a></h5>
                                         </div><!-- class:puff -->
-                                        <ul><li class="lHuffPost"><a href="http://www.huffingtonpost.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Huffingtonpost.com.au</a></li>
-                                        <li><a href="http://www.huffingtonpost.com.au/entry/easy-comfort-food-recipes_560bea84e4b0768126ffeb5b?utm_hp_ref=taste&section=australia&adsSiteOverride=au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">20 easy comfort food recipes</a></li>
-                                        <li><a href="http://www.huffingtonpost.com.au/2015/10/02/why-we-bite-our-fingernails_n_8224340.html?1443738830" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Why we bite our nails</a></li>
-                                        <li><a href="http://www.huffingtonpost.com/cheaptickets/5-cheap-european-destinat_b_8190742.html?utm_hp_ref=travel" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">5 cheap european destinations</a></li>
+                                        <ul><li class="lAge"><a href="http://www.theage.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Theage.com.au</a></li>
+                                        <li><a href="/sport/horseracing" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Horse Racing News</a></li>
+                                        <li><a href="/sport" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Latest Sport News</a></li>
+                                        <li><a href="/sport/cricket" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Cricket News</a></li>
                                 </ul>
-                        </div><!-- class:s5 cHuffPost -->
+                        </div><!-- class:s5 cAge -->
 </div><!-- class:c5 classifieds cfix -->
 
 </div>
@@ -785,18 +785,18 @@
         <p class="links"><a href="http://compare.theage.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_bt&mpp_tab=3" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="3" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Find Out More</a></p>
     </div>
 <div class="four">
-        <h3><a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPhone 6s</a></h3>
-        <a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/widget_160x70_0915-iPhone6S-3.jpg" width="60" height="50"/></a>
-        <p><a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Compare all the prices and plans from all carrliers</a></p>
+        <h3><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Samsung Galaxy S6</a></h3>
+        <a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/GS6-strip-Fairfax-left-160x70.jpg" width="60" height="50"/></a>
+        <p><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Samsung's best phone with Google's Android</a></p>
         <span></span>
-        <p class="links"><a href="http://mobile-phones.theage.com.au/MobilePhones/iPhone-Plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPhone_6s" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPhone 6s</a></p>
+        <p class="links"><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Samsung_Galaxy_S6" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Samsung GS6</a></p>
     </div>
 <div class="five">
-        <h3><a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPad Data Deals</a></h3>
-        <a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/iPad-strip-1-Fairfax-160x70.jpg" width="60" height="50"/></a>
-        <p><a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Data Deals for your tablet or modem</a></p>
+        <h3><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">With Big Data Plans</a></h3>
+        <a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/GS6-strip-Fairfax-right-160x70.jpg" width="60" height="50"/></a>
+        <p><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">GS6 phone plans with lots of data</a></p>
         <span></span>
-        <p class="links"><a href="http://broadband.theage.com.au/Broadband/Guides/best-mobile-broadband-plans?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=iPad_Data_Deals" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">iPad Data Deals</a></p>
+        <p class="links"><a href="http://mobile-phones.theage.com.au/MobilePhones/Guides/Galaxy-S6-plans-with-big-data-deals?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=With_Big_Data_Plans" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">With Big Data</a></p>
     </div>
 </div>
     <div id="tab-2" class="tab cfix" aria-live="polite">
@@ -825,19 +825,19 @@
             <a href="http://www.brisbanetimes.com.au">Most viewed articles on Brisbane Times</a><h5>Top 5 <a href="http://www.brisbanetimes.com.au/national">National</a> articles</h5>
             <ol>
                 <li>
-                        <a href="http://www.brisbanetimes.com.au/national/malcolm-turnbull-told-to-act-on-adf-drug-investigation-after-uk-apology-20160114-gm5lem.html" title="Malcolm Turnbull told to act on ADF drug investigation after UK apology" style="">Malcolm Turnbull told to act on ADF drug investigation after UK apology</a>
+                        <a href="http://www.brisbanetimes.com.au/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html" title="Thousands of older people exploring 'rational suicide': Nitschke" style="">Thousands of older people exploring 'rational suicide': Nitschke</a>
                     </li>
                 <li>
-                        <a href="http://www.brisbanetimes.com.au/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html" title="FebFast? Forget it. Expert says a month off the booze could do more harm than good  " style="">FebFast? Forget it. Expert says a month off the booze could do more harm than good  </a>
+                        <a href="http://www.brisbanetimes.com.au/national/reports-of-assaults-in-aged-care-up-10-per-cent-in-one-year-20160117-gm7lh3.html" title="Reports of assaults in aged care up 10 per cent in past year " style="">Reports of assaults in aged care up 10 per cent in past year </a>
                     </li>
                 <li>
-                        <a href="http://www.brisbanetimes.com.au/national/education/senate-inquiry-finds-disgraceful-treatment-of--schoolchildren-with-disabilities-in-australia-20160114-gm6gbr.html" title="Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia" style="">Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia</a>
+                        <a href="http://www.brisbanetimes.com.au/national/turnbullbacked-sports-venture-faces-wind-up-20160116-gm7amv.html" title="Turnbull-backed sports venture faces wind-up" style="">Turnbull-backed sports venture faces wind-up</a>
                     </li>
                 <li>
-                        <a href="http://www.brisbanetimes.com.au/national/health/labiaplasty-like-female-genital-mutilation-doctors-not-upselling-to-more-invasive-surgery-and-not-informing-patients-of-what-is-normal-20150828-gjacjt.html" title="Women being 'upsold' into labiaplasty by cosmetic clinics, say health experts" style="">Women being 'upsold' into labiaplasty by cosmetic clinics, say health experts</a>
+                        <a href="http://www.brisbanetimes.com.au/news-and-views/news-features/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html" title="Target and Kmart sell $2 school uniforms, but at what cost? " style="">Target and Kmart sell $2 school uniforms, but at what cost? </a>
                     </li>
                 <li>
-                        <a href="http://www.brisbanetimes.com.au/national/helicopter-pilot-david-wood-dies-after-falling-down-crevasse-in-antarctica-20160112-gm4j55.html" title="Helicopter pilot David Wood dies after falling down crevasse in Antarctica" style="">Helicopter pilot David Wood dies after falling down crevasse in Antarctica</a>
+                        <a href="http://www.brisbanetimes.com.au/national/public-service/retired-public-servants-on-120000-a-year-claiming-aged-pension-govt-20160113-gm4tnz.html" title="Retired public servants on $120,000 a year claiming aged pension: govt  " style="">Retired public servants on $120,000 a year claiming aged pension: govt  </a>
                     </li>
                 </ol>
         </div>
@@ -845,19 +845,19 @@
             <a href="http://www.watoday.com.au">Most viewed articles on WA Today</a><h5>Top 5 <a href="http://www.watoday.com.au/national">National</a> articles</h5>
             <ol>
                 <li>
-                        <a href="http://www.watoday.com.au/national/public-service/striking-public-servants-clip-raafs-wings-20160114-gm5kh3.html" title="Striking public servants clip RAAF's wings" style="">Striking public servants clip RAAF's wings</a>
+                        <a href="http://www.watoday.com.au/news-and-views/news-features/deported-us-pickup-artist-julien-blancs-mates-plan-australia-tour-20160116-gm77z1.html" title="Deported US pick-up artist Julien Blanc's mates plan Australia tour" style="">Deported US pick-up artist Julien Blanc's mates plan Australia tour</a>
                     </li>
                 <li>
-                        <a href="http://www.watoday.com.au/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html" title="FebFast? Forget it. Expert says a month off the booze could do more harm than good  " style="">FebFast? Forget it. Expert says a month off the booze could do more harm than good  </a>
+                        <a href="http://www.watoday.com.au/news-and-views/news-features/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html" title="Target and Kmart sell $2 school uniforms, but at what cost? " style="">Target and Kmart sell $2 school uniforms, but at what cost? </a>
+                    </li>
+                <li>
+                        <a href="http://www.watoday.com.au/national/health/potato-consumption-linked-to-greater-risk-of-gestational-diabetes-study-finds-20160115-gm75lg.html" title="Potato consumption linked to greater risk of gestational diabetes, study finds" style="">Potato consumption linked to greater risk of gestational diabetes, study finds</a>
+                    </li>
+                <li>
+                        <a href="http://www.watoday.com.au/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html" title="Thousands of older people exploring 'rational suicide': Nitschke" style="">Thousands of older people exploring 'rational suicide': Nitschke</a>
                     </li>
                 <li>
                         <a href="http://www.watoday.com.au/national/caught-on-camera-scorned-partner-spraypaints-message-on-ute-in-tasmania-20151215-glo7sv.html" title="Caught on camera: scorned partner spraypaints message on ute in Tasmania" style="">Caught on camera: scorned partner spraypaints message on ute in Tasmania</a>
-                    </li>
-                <li>
-                        <a href="http://www.watoday.com.au/national/best-man-allegedly-raped-by-stripper-at-bucks-night-20090729-e1xi.html" title="Best man allegedly raped by stripper at buck's night" style="">Best man allegedly raped by stripper at buck's night</a>
-                    </li>
-                <li>
-                        <a href="http://www.watoday.com.au/national/education/senate-inquiry-finds-disgraceful-treatment-of--schoolchildren-with-disabilities-in-australia-20160114-gm6gbr.html" title="Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia" style="">Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia</a>
                     </li>
                 </ol>
         </div>
@@ -865,19 +865,19 @@
             <a href="http://www.smh.com.au">Most viewed articles on The Sydney Morning Herald</a><h5>Top 5 <a href="http://www.smh.com.au/national">National</a> articles</h5>
             <ol>
                 <li>
-                        <a href="http://www.smh.com.au/national/education/senate-inquiry-finds-disgraceful-treatment-of--schoolchildren-with-disabilities-in-australia-20160114-gm6gbr.html" title="Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia" style="">Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia</a>
+                        <a href="http://www.smh.com.au/news-and-views/news-features/deported-us-pickup-artist-julien-blancs-mates-plan-australia-tour-20160116-gm77z1.html" title="Deported US pick-up artist Julien Blanc's mates plan Australia tour" style="">Deported US pick-up artist Julien Blanc's mates plan Australia tour</a>
                     </li>
                 <li>
-                        <a href="http://www.smh.com.au/national/david-bowie-took-fans-off-the-planet-20160113-gm4qrg.html" title="David Bowie took fans off the planet" style="">David Bowie took fans off the planet</a>
+                        <a href="http://www.smh.com.au/national/reports-of-assaults-in-aged-care-up-10-per-cent-in-one-year-20160117-gm7lh3.html" title="Reports of assaults in aged care up 10 per cent in past year " style="">Reports of assaults in aged care up 10 per cent in past year </a>
                     </li>
                 <li>
-                        <a href="http://www.smh.com.au/national/health/man-flu-is-real-study-finds-estrogen-protects-women-against-influenza-virus-20160115-gm6zkl.html" title="Man flu is real: Study finds estrogen protects women against influenza virus" style="">Man flu is real: Study finds estrogen protects women against influenza virus</a>
+                        <a href="http://www.smh.com.au/national/education/one-in-five-australian-children-starting-school-developmentally-vulnerable-20160115-gm6vm8.html" title="One in five Australian children starting school 'developmentally vulnerable' " style="">One in five Australian children starting school 'developmentally vulnerable' </a>
                     </li>
                 <li>
-                        <a href="http://www.smh.com.au/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html" title="FebFast? Forget it. Expert says a month off the booze could do more harm than good  " style="">FebFast? Forget it. Expert says a month off the booze could do more harm than good  </a>
+                        <a href="http://www.smh.com.au/news-and-views/news-features/target-and-kmart-sell-2-school-uniforms-but-at-what-cost-20160112-gm4n1y.html" title="Target and Kmart sell $2 school uniforms, but at what cost? " style="">Target and Kmart sell $2 school uniforms, but at what cost? </a>
                     </li>
                 <li>
-                        <a href="http://www.smh.com.au/national/david-bowie-and-the-sad-inspiring-history-of-making-art-while-dying-20160113-gm5gh0.html" title="David Bowie and the sad, inspiring history of making art while dying" style="">David Bowie and the sad, inspiring history of making art while dying</a>
+                        <a href="http://www.smh.com.au/national/education/trinity-grammar-says-facs-no-longer-looking-into-sexualised-behaviour-incident-20160117-gm7n2i.html" title="Trinity Grammar says FACS no longer looking into sexualised behaviour incident" style="">Trinity Grammar says FACS no longer looking into sexualised behaviour incident</a>
                     </li>
                 </ol>
         </div>
@@ -885,19 +885,19 @@
             <a href="http://www.canberratimes.com.au">Most viewed articles on Canberra Times</a><h5>Top 5 <a href="http://www.canberratimes.com.au/national">National</a> articles</h5>
             <ol>
                 <li>
-                        <a href="http://www.canberratimes.com.au/national/public-service/thinking-big-graduate-to-ses-in-just-5-years-20160114-gm5q26.html" title="Thinking big: public service graduate to SES in just 5 years" style="">Thinking big: public service graduate to SES in just 5 years</a>
+                        <a href="http://www.canberratimes.com.au/national/public-service/from-barton-to-bangalore-offshore-aps-comes-closer-20160114-gm6ep5.html" title="From Barton to Bangalore: offshore APS comes closer  " style="">From Barton to Bangalore: offshore APS comes closer  </a>
                     </li>
                 <li>
-                        <a href="http://www.canberratimes.com.au/national/public-service/striking-public-servants-clip-raafs-wings-20160114-gm5kh3.html" title="Striking public servants clip RAAF's wings" style="">Striking public servants clip RAAF's wings</a>
+                        <a href="http://www.canberratimes.com.au/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html" title="Thousands of older people exploring 'rational suicide': Nitschke" style="">Thousands of older people exploring 'rational suicide': Nitschke</a>
+                    </li>
+                <li>
+                        <a href="http://www.canberratimes.com.au/national/health/concerns-lung-cancer-screening-for-smokers-may-do-more-harm-than-good-20160117-gm7qoq.html" title="Concerns lung cancer screening for smokers may do more harm than good " style="">Concerns lung cancer screening for smokers may do more harm than good </a>
+                    </li>
+                <li>
+                        <a href="http://www.canberratimes.com.au/national/public-service/public-service-retirees-set-for-pension-shock-20160105-glzm6o.html" title="Public service retirees set for pension shock " style="">Public service retirees set for pension shock </a>
                     </li>
                 <li>
                         <a href="http://www.canberratimes.com.au/national/public-service/retired-public-servants-on-120000-a-year-claiming-aged-pension-govt-20160113-gm4tnz.html" title="Retired public servants on $120,000 a year claiming aged pension: govt  " style="">Retired public servants on $120,000 a year claiming aged pension: govt  </a>
-                    </li>
-                <li>
-                        <a href="http://www.canberratimes.com.au/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html" title="FebFast? Forget it. Expert says a month off the booze could do more harm than good  " style="">FebFast? Forget it. Expert says a month off the booze could do more harm than good  </a>
-                    </li>
-                <li>
-                        <a href="http://www.canberratimes.com.au/national/malcolm-turnbull-told-to-act-on-adf-drug-investigation-after-uk-apology-20160114-gm5lem.html" title="Malcolm Turnbull told to act on ADF drug investigation after UK apology" style="">Malcolm Turnbull told to act on ADF drug investigation after UK apology</a>
                     </li>
                 </ol>
         </div>
@@ -905,19 +905,19 @@
             <a href="http://www.theage.com.au">Most viewed articles on The Age</a><h5>Top 5 <a href="http://www.theage.com.au/national">National</a> articles</h5>
             <ol>
                 <li>
-                        <a href="http://www.theage.com.au/national/health/febfast-forget-it-expert-says-a-month-on-the-wagon-could-do-more-harm-than-good-20160115-gm6kyh.html" title="FebFast? Forget it. Expert says a month off the booze could do more harm than good  " style="">FebFast? Forget it. Expert says a month off the booze could do more harm than good  </a>
+                        <a href="http://www.theage.com.au/national/health/thousands-of-older-people-exploring-rational-suicide-nitschke-20160117-gm7mod.html" title="Thousands of older people exploring 'rational suicide': Nitschke" style="">Thousands of older people exploring 'rational suicide': Nitschke</a>
                     </li>
                 <li>
-                        <a href="http://www.theage.com.au/national/health/man-flu-is-real-study-finds-estrogen-protects-women-against-influenza-virus-20160115-gm6zkl.html" title="Man flu is real: Study finds estrogen protects women against influenza virus" style="">Man flu is real: Study finds estrogen protects women against influenza virus</a>
+                        <a href="http://www.theage.com.au/national/bomber-drug-ban-a-setback-for-indigenous-progress-in-shepparton-20160115-gm74od.html" title="Bomber drug ban a setback for Indigenous progress in Shepparton" style="">Bomber drug ban a setback for Indigenous progress in Shepparton</a>
                     </li>
                 <li>
-                        <a href="http://www.theage.com.au/national/education/senate-inquiry-finds-disgraceful-treatment-of--schoolchildren-with-disabilities-in-australia-20160114-gm6gbr.html" title="Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia" style="">Senate inquiry finds 'disgraceful' treatment of  schoolchildren with disabilities in Australia</a>
+                        <a href="http://www.theage.com.au/national/victoria-government-launches-wye-river-rebuild-20160117-gm7o0e.html" title="Victoria government launches Wye River rebuild" style="">Victoria government launches Wye River rebuild</a>
                     </li>
                 <li>
-                        <a href="http://www.theage.com.au/national/education/conference-at-unsw-explores-what-ancient-philosophies-recommend-for-a-good-life-20160114-gm5ydk.html" title="Conference at UNSW explores what ancient philosophies recommend for a good life" style="">Conference at UNSW explores what ancient philosophies recommend for a good life</a>
+                        <a href="http://www.theage.com.au/national/health/concerns-lung-cancer-screening-for-smokers-may-do-more-harm-than-good-20160117-gm7qoq.html" title="Concerns lung cancer screening for smokers may do more harm than good " style="">Concerns lung cancer screening for smokers may do more harm than good </a>
                     </li>
                 <li>
-                        <a href="http://www.theage.com.au/national/public-service/striking-public-servants-clip-raafs-wings-20160114-gm5kh3.html" title="Striking public servants clip RAAF's wings" style="">Striking public servants clip RAAF's wings</a>
+                        <a href="http://www.theage.com.au/news-and-views/news-features/deported-us-pickup-artist-julien-blancs-mates-plan-australia-tour-20160116-gm77z1.html" title="Deported US pick-up artist Julien Blanc's mates plan Australia tour" style="">Deported US pick-up artist Julien Blanc's mates plan Australia tour</a>
                     </li>
                 </ol>
         </div>

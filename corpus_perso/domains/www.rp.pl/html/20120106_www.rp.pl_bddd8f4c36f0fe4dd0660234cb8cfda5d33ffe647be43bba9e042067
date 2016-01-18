@@ -182,17 +182,17 @@
                             <li class="weekday">
                     <a href="/news/index/date/14.01.2016">14</a>
                 </li>
-                            <li class="weekday today">
+                            <li class="weekday">
                     <a href="/news/index/date/15.01.2016">15</a>
                 </li>
                             <li class="weekend">
-                    <a href="#_nolink">16</a>
+                    <a href="/news/index/date/16.01.2016">16</a>
                 </li>
                             <li class="weekend">
-                    <a href="#_nolink">17</a>
+                    <a href="/news/index/date/17.01.2016">17</a>
                 </li>
-                            <li class="weekday">
-                    <a href="#_nolink">18</a>
+                            <li class="weekday today">
+                    <a href="/news/index/date/18.01.2016">18</a>
                 </li>
                             <li class="weekday">
                     <a href="#_nolink">19</a>
@@ -237,8 +237,8 @@
         <div class="weather">
     <a href="#" class="title">погода в Саратове:</a>
     <div>
-        <div class="digits">-5&deg;...-7&deg;&nbsp;</div>
-        <i class="sun_clouds"></i>
+        <div class="digits">-1&deg;...-3&deg;&nbsp;</div>
+        <i class="clouds"></i>
     </div>
 </div>    </div>
 </div>                    </div>
@@ -321,7 +321,7 @@
                     <a href="/news/view/id/79234">
                         <span class="date">15.01.2016</span> Михаил Болтухин: "Брендовых крещенских морозов не будет"                    </a>
                     <a href="/news/view/id/79234#comments">
-                                            </a>
+                        (5)                    </a>
                 </div>
             
 
@@ -345,7 +345,7 @@
                     <a href="/news/view/id/79143">
                         <span class="date">13.01.2016</span> Дагестанской компании перечислили более 1,3 миллиарда рублей на строительство аэропорта в Сабуровке                    </a>
                     <a href="/news/view/id/79143#comments">
-                        (19)                    </a>
+                        (26)                    </a>
                 </div>
             
 
@@ -357,7 +357,7 @@
                     <a href="/news/view/id/79115">
                         <span class="date">13.01.2016</span> Власти Саратова задействовали в уборке снега всю имеющуюся технику                    </a>
                     <a href="/news/view/id/79115#comments">
-                        (2)                    </a>
+                        (3)                    </a>
                 </div>
                     </div>
     </div>
@@ -368,11 +368,11 @@
     <div class="left">
         <div class="title">НОВАЯ ПУБЛИКАЦИЯ</div>
         <div class="author">Тимофей Бутенко</div>
-        <a href="/rubric/view/id/8386" class="name">
-            Вам постучат                    </a>
+        <a href="/rubric/view/id/8391" class="name">
+            Дорожка в люк                    </a>
     </div>
     <div class="right">
-        <img src="/imgs/thumbs/1452868376_926263912.jpg" alt=""/>
+        <img src="/imgs/thumbs/1452873528_1936186117.jpg" alt=""/>
     </div>
 </div>    
             <div class="more-news-block">
@@ -380,27 +380,29 @@
     <div class="items">
                     <div class="item">
                 <div class="datetime">
-                    Cегодня | 17:37                </div>
-                <a href="/news/view/id/79283" class="name">
-                    Жильцы многоэтажного дома сидят без отопления с осени 2015 года                                    </a>
+                    Вчера | 14:09                </div>
+                <a href="/news/view/id/79316" class="name">
+                    Саратовчанка порезала сожителю щеку и шею                                    </a>
             </div>
                     <div class="item">
                 <div class="datetime">
-                    Cегодня | 17:25                </div>
-                <a href="/news/view/id/79282" class="name">
-                    Курс евро превысил отметку в 85 рублей                                    </a>
+                    Вчера | 13:56                </div>
+                <a href="/news/view/id/79315" class="name">
+                    Погибший при взрыве дома в Ртищево был спасателем                                            (2)
+                                    </a>
             </div>
                     <div class="item">
                 <div class="datetime">
-                    Cегодня | 17:06                </div>
-                <a href="/news/view/id/79281" class="name">
-                    Краснодар стал миллионником раньше Саратова                                    </a>
+                    Вчера | 13:54                </div>
+                <a href="/news/view/id/79314" class="name">
+                    В столкновении двух иномарок в Балаково пострадали три человека                                    </a>
             </div>
                     <div class="item">
                 <div class="datetime">
-                    Cегодня | 16:58                </div>
-                <a href="/news/view/id/79279" class="name">
-                    Сотрудник следственного управления рассказал, как устроиться к ним на работу                                    </a>
+                    Вчера | 13:44                </div>
+                <a href="/news/view/id/79313" class="name">
+                    Снегопад в Саратове перейдет в дождь                                            (5)
+                                    </a>
             </div>
             </div>
 
@@ -424,14 +426,14 @@
                             <li>
                     <div class="item">
                         <div class="image">
-                            <a href="https://www.youtube.com/embed/-Z0YGjhAeb0" class="image fancybox-video fancybox.iframe">
+                            <a href="https://www.youtube.com/embed/0duX2nsexKQ" class="image fancybox-video fancybox.iframe">
                                 <i></i>
-                                <img src="/imgs/thumbs_news/1452862462_1960663816.jpg" alt="" />                            </a>
+                                <img src="/imgs/thumbs_news/1453025346_742203313.png" alt="" />                            </a>
                         </div>
                         <div class="date">
-                            15:57 15 января 2016                        </div>
-                        <a href="/news/view/id/79274" class="name">
-                            Улица Черниговская стала непроходимой для транспорта                        </a>
+                            13:25 17 января 2016                        </div>
+                        <a href="/news/view/id/79310" class="name">
+                            В ГИБДД призвали автолюбителей не садиться за руль без крайней необходимости                         </a>
                     </div>
                 </li>
                     </ul>
@@ -481,12 +483,12 @@
         <ul class="photo-ul" >
                             <li>
                     <div class="item">
-                        <a href="/news/view/id/79283" class="image">
-                            <img class="l-t" src="/imgs/widget_gallery/1452868649_1334735690.jpg.jpg" alt="" />                            <img class="r-t" src="/imgs/widget_gallery/1452868650_770773833.jpg.jpg" alt="" />                            <img class="m" src="/imgs/widget_gallery/1452868650_1176731840.jpg.jpg" alt="" />                            <img class="l-b" src="/imgs/widget_gallery/1452868651_289546906.jpg.jpg" alt="" />                            <img class="r-b" src="/imgs/widget_gallery/1452868651_536797954.jpg.jpg" alt="" />                        </a>
+                        <a href="/news/view/id/79311" class="image">
+                            <img class="l-t" src="/imgs/widget_gallery/1453026016_974588171.jpg.jpg" alt="" />                            <img class="r-t" src="/imgs/widget_gallery/1453026020_1043122730.jpg.jpg" alt="" />                            <img class="m" src="/imgs/widget_gallery/1453026024_1597317231.jpg.jpg" alt="" />                            <img class="l-b" src="/imgs/widget_gallery/1453026034_516019683.jpg.jpg" alt="" />                            <img class="r-b" src="/imgs/widget_gallery/1453026041_506544031.jpg.jpg" alt="" />                        </a>
                         <div class="date">
-                            17:37 15 января 2016                        </div>
-                        <a href="/news/view/id/79283" class="name">
-                            Жильцы многоэтажного дома сидят без отопления с осени 2015 года                        </a>
+                            13:19 17 января 2016                        </div>
+                        <a href="/news/view/id/79311" class="name">
+                            Водитель "Нивы" припарковался на сугробе                        </a>
                     </div>
                 </li>
                     </ul>
@@ -592,10 +594,10 @@
             <div class="text">
                 <div class="banner-wrap has-flash" class="banner-wrap" id="banner_wrap_position_14">
     <div class="flash">
-        <embed src="/imgs/banners/1448627368_803390354.swf"  type="application/x-shockwave-flash" width="200" height="300" />
+        <embed src="/imgs/banners/1451379030_563377431.swf"  type="application/x-shockwave-flash" width="200" height="300" />
     </div>
-    <a href="http://nversia.ru/partners/page/view/caricynskij3" target="_blank" class="image">
-        <img src="/imgs/banners/1448627368_907166712.gif" width="200" height="300" alt="">
+    <a href="http://nversia.ru/partners/page/view/dubl" target="_blank" class="image">
+        <img src="/imgs/banners/1448627979_250396781.gif" width="200" height="300" alt="">
     </a>
 </div>  
 

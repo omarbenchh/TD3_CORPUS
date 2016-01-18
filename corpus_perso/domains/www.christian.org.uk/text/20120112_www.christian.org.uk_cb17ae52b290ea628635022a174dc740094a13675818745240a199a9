@@ -18,7 +18,7 @@
 		<!-- GENERAL -->
 			<!-- <link rel="stylesheet" href="" type="text/css" media="screen" /> -->
 			<!--<link href="http://www.christian.org.uk/wp-content/themes/christian_institute/style.css?v050815" rel="stylesheet" type="text/css" />-->
-			<link href="http://www.christian.org.uk/images/css/general.css?v050116" rel="stylesheet" type="text/css" />
+			<link href="http://www.christian.org.uk/images/css/general.css?v140116" rel="stylesheet" type="text/css" />
 			<link href="http://www.christian.org.uk/images/css/news.css?v140116" rel="stylesheet" type="text/css" />
 			<link href="http://www.christian.org.uk/images/css/print.css?v050815" rel="stylesheet" type="text/css" />
 			<link href="http://www.christian.org.uk/images/css/template.css?v050815" rel="stylesheet" type="text/css" />
@@ -208,13 +208,12 @@ jQuery.ajax({type:'GET',url:'http://www.christian.org.uk/wp-content/plugins/wp-p
 						<li>
 							<a href="http://www.christian.org.uk/press-releases">Press releases</a>
 							<ul>
-								<!--<li><a href="http://www.christian.org.uk/press-releases-2015">2016</a></li>-->
+								<li><a href="http://www.christian.org.uk/press-releases-2016">2016</a></li>
 								<li><a href="http://www.christian.org.uk/press-releases-2015">2015</a></li>
 								<li><a href="http://www.christian.org.uk/press-releases-2014">2014</a></li>
 								<li><a href="http://www.christian.org.uk/press-releases-2013">2013</a></li>
 		                    	<li><a href="http://www.christian.org.uk/press-releases-2012">2012</a></li>
 		                    	<li><a href="http://www.christian.org.uk/press-releases-2011">2011</a></li>
-								<li><a href="http://www.christian.org.uk/press-releases-2010">2010</a></li>
 								<li><a href="http://www.christian.org.uk/press-releases">Press release archive</a></li>
 
 							</ul>
@@ -294,7 +293,7 @@ jQuery.ajax({type:'GET',url:'http://www.christian.org.uk/wp-content/plugins/wp-p
 						<span id="hidevideo"><a href="#">Close (X)</a></span>
 					</div>
 					<div id="newsvideo">
-						<iframe id="videoframe" src="https://www.youtube.com/embed/FCSCiUh_U50?showinfo=0&rel=0" frameborder="0" width="514" height="289" allowfullscreen alt="Latest news video"></iframe>
+						<iframe id="videoframe" src="https://www.youtube.com/embed/izPWGMX3imY?showinfo=0&rel=0" frameborder="0" width="514" height="289" allowfullscreen alt="Latest news video"></iframe>
 											</div>
 
 
@@ -322,7 +321,7 @@ jQuery.ajax({type:'GET',url:'http://www.christian.org.uk/wp-content/plugins/wp-p
     <div class="sidebar">
     	<h1>Featured video</h1>
         <ul>
-			<li><iframe style="background-color:#000 !important; margin-bottom:-2px;" id="news-video" src="https://www.youtube.com/embed/FCSCiUh_U50?showinfo=0&rel=0" frameborder="0" width="162" height="93" allowfullscreen></iframe></li>
+			<li><iframe style="background-color:#000 !important; margin-bottom:-2px;" id="news-video" src="https://www.youtube.com/embed/izPWGMX3imY?showinfo=0&rel=0" frameborder="0" width="162" height="93" allowfullscreen></iframe></li>
         </ul>
     </div> 
                 <div class="sidebar">
@@ -348,11 +347,11 @@ jQuery.ajax({type:'GET',url:'http://www.christian.org.uk/wp-content/plugins/wp-p
     <div class="sidebar"><h1>Related articles</h1><ul><li><a href="http://www.christian.org.uk/news/thousands-missing-out-on-palliative-care-in-scotland/">&#8216;Thousands missing out on palliative care in Scotland&#8217;</a></li><li><a href="http://www.christian.org.uk/news/doctors-told-end-humiliating-life-of-ms-patient/">Doctors told: &#8216;End humiliating life of MS patient&#8217;</a></li><li><a href="http://www.christian.org.uk/news/sir-david-attenborough-backs-problem-free-assisted-suicide/">Sir David Attenborough backs &#8216;problem-free&#8217; assisted suicide</a></li><li><a href="http://www.christian.org.uk/news/report-uk-remains-worlds-best-at-end-of-life-care/">Report: UK remains world&#8217;s best at end-of-life care</a></li><li><a href="http://www.christian.org.uk/news/mps-parliament-must-invest-in-good-palliative-care/">MPs: &#8216;Parliament must invest in good palliative care&#8217;</a></li></ul></div>		<div class="sidebar">
             <h1>Top news now</h1>
             <ul>
+                            <li><a href="http://www.christian.org.uk/news/ofsted-church-youth-work-plans-in-confusion/">Ofsted church youth work plans in confusion</a></li>
+                            <li><a href="http://www.christian.org.uk/news/us-episcopal-church-suspended-for-backing-gay-marriage/">US Episcopal church suspended for backing gay marriage</a></li>
                             <li><a href="http://www.christian.org.uk/news/nyc-huge-fines-for-not-using-preferred-trans-pronouns/">NYC: Huge fines for not using preferred trans pronouns</a></li>
                             <li><a href="http://www.christian.org.uk/news/dups-christian-values-will-continue-says-new-leader/">&#8216;DUP&#8217;s Christian values will continue&#8217; says new leader</a></li>
                             <li><a href="http://www.christian.org.uk/news/comment-trans-people-need-kindness-not-endorsement/">Comment: Trans people need kindness, not endorsement</a></li>
-                            <li><a href="http://www.christian.org.uk/news/global-christian-persecution-worse-than-ever-before/">Global Christian persecution &#8216;worse than ever before&#8217;</a></li>
-                            <li><a href="http://www.christian.org.uk/news/msps-reject-bid-to-make-lgbt-teaching-statutory/">MSPs reject bid to make LGBT teaching statutory</a></li>
                         </ul> 
     	</div>        
             <div class="sidebar">
@@ -415,7 +414,7 @@ var load_cmc = function(){linktracker_init(6900492,5429,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>
-        <!-- 56 queries. 0.942 seconds. -->
+        <!-- 56 queries. 1.306 seconds. -->
 
 	<!-- JAVASCRIPT PART 2 - FOOTER -->
 					
@@ -451,7 +450,7 @@ else load_cmc();
 						$("#newsvideo").slideUp('slow');
 						$("#hidevideo").fadeOut('slow');
 						timeout = setTimeout(function () {$("#videoframe").attr('src','');}, 500);
-						timeout = setTimeout(function () {$("#videoframe").attr('src','https://www.youtube.com/embed/FCSCiUh_U50?showinfo=0&rel=0');}, 600);
+						timeout = setTimeout(function () {$("#videoframe").attr('src','https://www.youtube.com/embed/izPWGMX3imY?showinfo=0&rel=0');}, 600);
 						return false;
 					});
 

@@ -228,6 +228,7 @@ def get_html_file(listeOfTuples, tool):
             print str(ex) + ' ' + url
         i+=1
     html_eval+='</table></body></html>'
+    create_folder('./resultats/evaluation_extrinseque/')
     save_file('./resultats/evaluation_extrinseque/out.html', html_eval)
 
 # permet de faire l'evaluation de l'efficacite de l'outil
@@ -423,7 +424,7 @@ jsonFile = read_json('./corpus_daniel/daniel.json')
 listeOfTuples = create_listeOfTuple(jsonFile)
 
 # transformer en txt avec tri par langue + tri par nom de domaine
-# get_html_file(listeOfTuples, 'justText')
+#get_html_file(listeOfTuples, 'justText')
 # get_html_file(listeOfTuples, 'html2text')
 # get_html_file(listeOfTuples, 'boilerpipe')
 

@@ -39,9 +39,9 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/166267/p
 
 <table cellspacing=0 cellpadding=3 border=0 bgcolor="#B9B9B9" width="153">
 <tr>
-<td bgcolor="#B9B9B9" width=100%><a href=http://gtrk-orenburg.ru/ class=uhoheader><b><font color=red>Почта редакции::</b></a><br></td></tr>
+<td bgcolor="#B9B9B9" width=100%><a href=http://62.165.56.134:8000 class=uhoheader><b> «Маяк Оренбург»:</b></a><br></td></tr>
 <tr>
-<td width=152 height=35 valign=top bgcolor="#F2F1F3"><a href=http://gtrk-orenburg.ru/ class=uhotext><font color=red> vesti@inbox.ru </a><br></td>
+<td width=152 height=35 valign=top bgcolor="#F2F1F3"><a href=http://62.165.56.134:8000 class=uhotext>106,3 FM</a><br></td>
 </tr>
 </table>
 
@@ -52,20 +52,6 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/166267/p
 <td width=153 bgcolor="#F2F1F3">
 
 <table cellspacing=0 cellpadding=3 border=0 bgcolor="#F2F1F3" width="153">
-<tr>
-<td bgcolor="#B9B9B9"><a href=http://gtrk-orenburg.ru/programs/  class=uhoheader><b>ГТРК "Оренбург":</b></a><br></td></tr>
-<tr>
-<td width=152 height=35 valign=top bgcolor="#F2F1F3"><a href=http://gtrk-orenburg.ru/programs/  class=uhotext>Все программы на новом сайте </a><br></td>
-</tr>
-</table>
-
-</td>
-
-<td width="1" bgcolor="#B9B9B9"><img src="/i/b.gif" width="1" height="1" alt="" border="0"><br></td>
-
-<td width=153 bgcolor="#F2F1F3">
-
-<table cellspacing=0 cellpadding=3 border=0 bgcolor="#DADADA" width="153">
 <tr>
 <td bgcolor="#B9B9B9"><a href=http://gtrk-orenburg.ru/programs/ class=uhoheader><b>gtrk-orenburg.ru:</b></a><br></td></tr>
 <tr>
@@ -81,9 +67,23 @@ document.write('<scr' + 'ipt type="text/javascript" src="//ads.adfox.ru/166267/p
 
 <table cellspacing=0 cellpadding=3 border=0 bgcolor="#DADADA" width="153">
 <tr>
-<td bgcolor="#B9B9B9"><a href=http://62.165.56.134:8000 class=uhoheader><b> «Маяк Оренбург»:</b></a><br></td></tr>
+<td bgcolor="#B9B9B9"><a href=http://gtrk-orenburg.ru/ class=uhoheader><b><font color=red>Почта редакции::</b></a><br></td></tr>
 <tr>
-<td width=152 height=35 valign=top bgcolor="#F2F1F3"><a href=http://62.165.56.134:8000 class=uhotext>106,3 FM</a><br></td>
+<td width=152 height=35 valign=top bgcolor="#F2F1F3"><a href=http://gtrk-orenburg.ru/ class=uhotext><font color=red> vesti@inbox.ru </a><br></td>
+</tr>
+</table>
+
+</td>
+
+<td width="1" bgcolor="#B9B9B9"><img src="/i/b.gif" width="1" height="1" alt="" border="0"><br></td>
+
+<td width=153 bgcolor="#F2F1F3">
+
+<table cellspacing=0 cellpadding=3 border=0 bgcolor="#DADADA" width="153">
+<tr>
+<td bgcolor="#B9B9B9"><a href=http://gtrk-orenburg.ru/programs/  class=uhoheader><b>ГТРК "Оренбург":</b></a><br></td></tr>
+<tr>
+<td width=152 height=35 valign=top bgcolor="#F2F1F3"><a href=http://gtrk-orenburg.ru/programs/  class=uhotext>Все программы на новом сайте </a><br></td>
 </tr>
 </table>
 

@@ -158,9 +158,9 @@ escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
 
         <div class="weather">
             <div class="area">
-                <div class="t">-1&deg;</div>
+                <div class="t">+1&deg;</div>
                 <div class="img"
-                     style="background-image: url('/templates/modules/news_v2/images/weather_white/_0_sun.png')">
+                     style="background-image: url('/templates/modules/news_v2/images/weather_white/_2_cloudy.png')">
                     &nbsp;
                 </div>
                 <a class="button">&nbsp;</a>
@@ -177,7 +177,7 @@ escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
             USD</span>
                 &nbsp;
             <span class="r">
-            26.20</span>
+            26.30</span>
             </div>
         </div>
     </div>
@@ -600,70 +600,70 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
 
 <div class="news clearAfter ieClear">
 <div class="image">
-<a href="/ukraine/9876906.html">
-<img src="/modules/news/images/articles/changing/9877034-stali-izvestny-podrobnosti-vzryva-v-ukr.jpg" alt="Стали известны подробности взрыва в Украинске, где погибли двое детей"  title="Стали известны подробности взрыва в Украинске, где погибли двое детей"/></a>
+<a href="/world/9927029.html">
+<img src="/modules/news/images/articles/changing/9927045-protesty-v-kishineve-obschestvennost-kh.jpg" alt="Протесты в Кишиневе: Общественность хочет свергнуть проевропейскую власть"  title="Протесты в Кишиневе: Общественность хочет свергнуть проевропейскую власть"/></a>
 </div>
 <div class="title">
-<a class="news_title important" href="/ukraine/9876906.html">
+<a class="news_title important" href="/world/9927029.html">
 <img src='/templates/modules/news/images/exclusive.png' title='Эксклюзив' alt='Эксклюзив' class='exclusive'/> 
 
 
-Стали известны подробности взрыва в Украинске, где погибли двое детей</a>
+Протесты в Кишиневе: Общественность хочет свергнуть проевропейскую власть</a>
 
 
 </div>
-<div class="news_date">15.01.2016</div>
+<div class="news_date">16.01.2016</div>
 </div>
 
 <div class="news clearAfter ieClear">
 <div class="image">
-<a href="/ukraine/9870160.html">
-<img src="/modules/news/images/articles/changing/9872129-poyavilos-video-otkrytiya-novogo-tranzi.jpg" alt="Появилось видео открытия нового транзитного маршрута в Китай в обход России"  title="Появилось видео открытия нового транзитного маршрута в Китай в обход России"/></a>
+<a href="/proisshestviya/9917769.html">
+<img src="/modules/news/images/articles/changing/9917785-v-kieve-nalogovikvzyatochnik-vo-vremya-.jpg" alt="В столице налоговик-взяточник во время побега устроил тройное ДТП"  title="В столице налоговик-взяточник во время побега устроил тройное ДТП"/></a>
 </div>
 <div class="title">
-<a class="news_title important" href="/ukraine/9870160.html">
+<a class="news_title emergency" href="/proisshestviya/9917769.html">
 <img src='/templates/modules/news/images/exclusive.png' title='Эксклюзив' alt='Эксклюзив' class='exclusive'/> 
 
 
-Появилось видео открытия нового транзитного маршрута в Китай в обход России</a>
+В столице налоговик-взяточник во время побега устроил тройное ДТП</a>
 
  <img src='/templates/modules/news/images/video.png' title='Видеорепортаж' alt='Видеорепортаж'/>
 </div>
-<div class="news_date">15.01.2016</div>
+<div class="news_date">16.01.2016</div>
 </div>
 
 <div class="news clearAfter ieClear">
 <div class="image">
-<a href="/proisshestviya/9870128.html">
-<img src="/modules/news/images/articles/changing/9872121-v-khersone-zaminirovali-morskuyu-akadem.jpg" alt="В Херсоне заминировали Морскую академию"  title="В Херсоне заминировали Морскую академию"/></a>
+<a href="/proisshestviya/9914093.html">
+<img src="/modules/news/images/articles/changing/9914109-stali-izvestny-podrobnosti-incidenta-v-.jpg" alt="Стали известны подробности инцидента в киевском аэропорту"  title="Стали известны подробности инцидента в киевском аэропорту"/></a>
 </div>
 <div class="title">
-<a class="news_title important" href="/proisshestviya/9870128.html">
+<a class="news_title important" href="/proisshestviya/9914093.html">
 <img src='/templates/modules/news/images/exclusive.png' title='Эксклюзив' alt='Эксклюзив' class='exclusive'/> 
 
 
-В Херсоне заминировали Морскую академию</a>
+Стали известны подробности инцидента в киевском аэропорту</a>
 
- <img src='/templates/modules/news/images/video.png' title='Видеорепортаж' alt='Видеорепортаж'/>
+
 </div>
-<div class="news_date">15.01.2016</div>
+<div class="news_date">16.01.2016</div>
 </div>
 
 <div class="news clearAfter ieClear">
 <div class="image">
-<a href="/proisshestviya/9870026.html">
-<img src="/modules/news/images/articles/changing/9870044-vzryv-v-ukrainske-chetyrekhletnyaya-dev.jpg" alt="Взрыв в Украинске: четырехлетняя девочка умерла в больнице"  title="Взрыв в Украинске: четырехлетняя девочка умерла в больнице"/></a>
+<a href="/ukraine/9912230.html">
+<img src="/modules/news/images/articles/changing/9912246-vera-savchenko-ukrainskie-smi-dolzhny-p.jpg" alt="Вера Савченко: Украинские СМИ должны показать всю правду о российском суде"  title="Вера Савченко: Украинские СМИ должны показать всю правду о российском суде"/></a>
 </div>
 <div class="title">
-<a class="news_title important" href="/proisshestviya/9870026.html">
+<a class="news_title important" href="/ukraine/9912230.html">
 <img src='/templates/modules/news/images/exclusive.png' title='Эксклюзив' alt='Эксклюзив' class='exclusive'/> 
 
 
-Взрыв в Украинске: четырехлетняя девочка умерла в больнице</a>
- <img src='/templates/modules/news/images/photo.png' title='Фоторепортаж' alt='Фоторепортаж'/>
- <img src='/templates/modules/news/images/video.png' title='Видеорепортаж' alt='Видеорепортаж'/>
+Вера Савченко: Украинские СМИ должны показать всю правду о российском суде</a>
+
+
 </div>
-<div class="news_date">15.01.2016</div>
+<div class="news_date">16.01.2016</div>
 </div></div>
 <div class="columnTitle">
     <h4>
@@ -1190,7 +1190,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                         <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -2&deg;
+                        +1&deg;
                     </td>
                 </tr>
             </table>
@@ -1201,10 +1201,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Днепропетровск</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_1_sun_cl.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_5_rain.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -2&deg;
+                        +2&deg;
                     </td>
                 </tr>
             </table>
@@ -1232,7 +1232,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                         <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -1&deg;
+                        0&deg;
                     </td>
                 </tr>
             </table>
@@ -1243,10 +1243,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Запорожье</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_0_sun.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_5_rain.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -1&deg;
+                        +2&deg;
                     </td>
                 </tr>
             </table>
@@ -1257,10 +1257,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Ивано-Франковск</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -1&deg;
+                        0&deg;
                     </td>
                 </tr>
             </table>
@@ -1271,10 +1271,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Киев</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_0_sun.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -1&deg;
+                        +1&deg;
                     </td>
                 </tr>
             </table>
@@ -1285,10 +1285,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Кировоград</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_5_rain.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        +9&deg;
+                        +8&deg;
                     </td>
                 </tr>
             </table>
@@ -1299,10 +1299,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Луганск</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_1_sun_cl.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_0_sun.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        0&deg;
+                        +1&deg;
                     </td>
                 </tr>
             </table>
@@ -1319,7 +1319,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                         <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        0&deg;
+                        -8&deg;
                     </td>
                 </tr>
             </table>
@@ -1330,10 +1330,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Львов</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_9_snow.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -1&deg;
+                        -2&deg;
                     </td>
                 </tr>
             </table>
@@ -1347,7 +1347,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                         <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        +2&deg;
+                        +4&deg;
                     </td>
                 </tr>
             </table>
@@ -1358,10 +1358,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Одесса</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        +5&deg;
+                        +4&deg;
                     </td>
                 </tr>
             </table>
@@ -1372,10 +1372,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Полтава</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_1_sun_cl.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_8_rain_swon.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -1&deg;
+                        +1&deg;
                     </td>
                 </tr>
             </table>
@@ -1386,10 +1386,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Ровно</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        0&deg;
+                        -4&deg;
                     </td>
                 </tr>
             </table>
@@ -1400,10 +1400,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Севастополь</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_5_rain.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        +9&deg;
+                        +8&deg;
                     </td>
                 </tr>
             </table>
@@ -1414,7 +1414,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Сумы</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_9_snow.png" alt="Weather"/>
                     </td>
                     <td class="t">
                         -2&deg;
@@ -1428,7 +1428,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Тернополь</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_0_sun.png" alt="Weather"/>
                     </td>
                     <td class="t">
                         -2&deg;
@@ -1445,10 +1445,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Ужгород</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_9_snow.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        +1&deg;
+                        0&deg;
                     </td>
                 </tr>
             </table>
@@ -1459,7 +1459,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Харьков</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_1_sun_cl.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_9_snow.png" alt="Weather"/>
                     </td>
                     <td class="t">
                         -1&deg;
@@ -1473,10 +1473,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Херсон</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_5_rain.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        +3&deg;
+                        +6&deg;
                     </td>
                 </tr>
             </table>
@@ -1501,10 +1501,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Черкассы</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_2_cloudy.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_1_sun_cl.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        -1&deg;
+                        +2&deg;
                     </td>
                 </tr>
             </table>
@@ -1515,7 +1515,7 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Чернигов</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_1_sun_cl.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_3_pasmurno.png" alt="Weather"/>
                     </td>
                     <td class="t">
                         +1&deg;
@@ -1529,10 +1529,10 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
                     <td class="n">
                         Черновцы</td>
                     <td class="i">
-                        <img src="/templates/modules/news_v2/images/weather_box/_1_sun_cl.png" alt="Weather"/>
+                        <img src="/templates/modules/news_v2/images/weather_box/_0_sun.png" alt="Weather"/>
                     </td>
                     <td class="t">
-                        0&deg;
+                        +1&deg;
                     </td>
                 </tr>
             </table>
@@ -1557,23 +1557,23 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
             <td class="name">
                 USD</td>
             <td class="buy">
-                25.7000</td>
+                25.8000</td>
             <td class="sale">
-                26.2000</td>
+                26.3000</td>
         </tr>
         <tr>
             <td class="name">
                 EUR</td>
             <td class="buy">
-                28.0000</td>
+                28.1000</td>
             <td class="sale">
-                28.6000</td>
+                28.7000</td>
         </tr>
         <tr>
             <td class="name">
                 RUR</td>
             <td class="buy">
-                0.3200</td>
+                0.3100</td>
             <td class="sale">
                 0.3400</td>
         </tr>
@@ -1581,9 +1581,9 @@ nrvrscr.parentNode.insertBefore(traffim, nrvrscr);
             <td class="name">
                 BTC</td>
             <td class="buy">
-                368.1706</td>
+                366.5642</td>
             <td class="sale">
-                406.9254</td>
+                405.1499</td>
         </tr>
         </table>
 </div></div>

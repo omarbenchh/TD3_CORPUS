@@ -208,139 +208,109 @@
         <div id="leaderboard"><script type='text/javascript'>googletag.cmd.push(function() {googletag.display('leaderboard');})</script></div>
     </section>
     <article id="maincontent" class="vertebrae">
-        <style>#hotnewsbox{ background:url("http://twimg.edgesuite.net/appledaily/images/yellow_news.gif") no-repeat; height:36px; padding:14px 0 0 134px}</style>            <script type="text/javascript" src="http://twimg.edgesuite.net/appledaily/images/js/jquery.textslider.min.js"></script>            
-            <style>
-                .slideText { position: relative; overflow: hidden; height: 32px; }
-                .slideText ul, .slideText li {margin: 0;padding: 0;list-style: none;}
-                .slideText ul {position: absolute;}
-                .slideText li a {font-size:20px;color:#000000;display: block;overflow: hidden;height: 30px;line-height: 25px;text-decoration: none;}
-                .slideText li a:hover {text-decoration: underline;}
-                #hotnewsbox2 {background: url("http://twimg.edgesuite.net/appledaily/images/red_recommend.gif") no-repeat;height: 36px;padding: 14px 0 0 195px;}
-            </style>
-            <script type="text/javascript">
-              $(document).ready(function(){
-                  $('.slideText').textslider({
-                      direction : 'scrollUp',
-                      scrollNum : 1,
-                      scrollSpeed : 800,
-                      pause : 3200
-                  });
-              });
-            </script>
-            <div id="hotnewsbox">
-                <div class="slideText">
-                    <ul>
-                        <li><a  href="/realtimenews/article/entertainment/20160115/776077/" >周子瑜道歉！承認是中國人並反省</a></li><li><a  href="/realtimenews/article/politics/20160115/775073/" >法定競選結束　午夜0時起禁簡訊或LINE拉票</a></li><li><a  href="/realtimenews/article/entertainment/20160115/776121" >周子瑜念稿道歉　網友群起痛批JYP：欺人太甚</a></li>                    </ul>
-                </div>
-            </div>
-                 
+        <style>#hotnewsbox{ background:url("http://twimg.edgesuite.net/appledaily/images/yellow_news.gif") no-repeat; height:36px; padding:14px 0 0 134px}</style>        
         <div class="thoracis">
           <!-- 輪撥區塊 -->
           <section id="splash">
             <div id="carousel">
                                 <div class="item">
-                     <a href="/realtimenews/article/entertainment/20160115/776077/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/df935e984a9504063bd4332df587d9f2.jpg" alt="周子瑜道歉！承認是中國人並反省" tcode="周子瑜道歉！承認是中國人並反省" />
+                     <a href="/appledaily/article/headline/20160118/37017443" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/b1990e018f33554e34a26f7b21673661.jpg" alt="蘇嘉全：黨若交付願拚命" tcode="蘇嘉全：黨若交付願拚命" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/entertainment/20160115/776121/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/9e0ec947c15ac08d7326cea022186abf.jpg" alt="周子瑜念稿道歉　網友群起痛批JYP：欺人太甚" tcode="周子瑜念稿道歉　網友群起痛批JYP：欺人太甚" />
+                     <a href="/appledaily/article/entertainment/20160118/37017263" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/dbb0ac228e6628afb093e2e24a7a528a.jpg" alt="伊能靜 隔空哈林交接小哈利 按表挑食24年 拼姊姊臉" tcode="伊能靜 隔空哈林交接小哈利 按表挑食24年 拼姊姊臉" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="https://www.litv.tv/events/lottery/campaign01.do?utm_source=apple&utm_medium=all&utm_campaign=litv&utm_term=news&utm_content=A" target="_blank">
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/54e66dfdf3c18be0e59f1282ec1b3f2f.gif" alt="AD:7aae618463759d1cb1bfe3c2d11acfed" tcode="AD:7aae618463759d1cb1bfe3c2d11acfed" />
+                     <a href="http://maobao2.com.tw/sale/product/index.php?&utm_source=Nextmedia&utm_medium=Display&utm_content=160112_sale2_650x410&utm_campaign=1512sale" target="_blank">
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/f0146b309f80c02a56e7f845201f7f03.jpg" alt="AD:bbac0eeda8547df26b7a1b8fa645e4b8" tcode="AD:bbac0eeda8547df26b7a1b8fa645e4b8" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/entertainment/20160115/776124" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/fd63a7002d773a524d2df566590e9d6a.jpg" alt="超過份！子瑜道歉　中國網友嘲諷：跪在錢面前" tcode="超過份！子瑜道歉　中國網友嘲諷：跪在錢面前" />
+                     <a href="/appledaily/article/international/20160118/37017194" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/c2f67d034beabb06238e331c2829efad.jpg" alt="伊朗減核釋善意 歐美解凍3兆資產" tcode="伊朗減核釋善意 歐美解凍3兆資產" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/entertainment/20160115/776120" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/4aa8e240ee898187835c6585afa54e6d.jpg" alt="周子瑜道歉　黃安爽喊：爭取回認同祖國的好孩子" tcode="周子瑜道歉　黃安爽喊：爭取回認同祖國的好孩子" />
+                     <a href="/appledaily/article/sports/20160118/37017830" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/9c5a489d58c0f9857e02954cd718c080.jpg" alt="LamiGirls選秀複試 甜心林佩姍領銜16強" tcode="LamiGirls選秀複試 甜心林佩姍領銜16強" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="http://www.socie.com.tw/socie_2014/beauty_shareList.html?utm_source=Apple&utm_medium=650X410&utm_campaign=Blogger" target="_blank">
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/e6a9a29d3d8c0bcfa13f01964c728acd.jpg" alt="AD:89b9a78aa25aa2a88c9414829f2ecf96" tcode="AD:89b9a78aa25aa2a88c9414829f2ecf96" />
+                     <a href="/appledaily/article/supplement/20160118/37016714" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/18757dc0e83077a2b66dcece9ba0c94e.jpg" alt="2016春妝報到 繽紛光澤粗眉 3大關鍵字" tcode="2016春妝報到 繽紛光澤粗眉 3大關鍵字" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/life/20160115/776017/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/2dd9885c002ca2f3e8bf049481a6bf66.jpg" alt="最強返鄉！他轉機4次繞半個地球就為投票" tcode="最強返鄉！他轉機4次繞半個地球就為投票" />
+                     <a href="/appledaily/article/finance/20160118/37017665" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/efe7a2d35caac72797dfdf7826c1654f.jpg" alt="華碩機器人今年將現身" tcode="華碩機器人今年將現身" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/politics/20160115/775073/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/1d3a150b487a03cdf2913aea06e11274.jpg" alt="法定競選結束　午夜0時起禁簡訊或LINE拉票" tcode="法定競選結束　午夜0時起禁簡訊或LINE拉票" />
+                     <a href="http://home.appledaily.com.tw/article/index/20160118/37017785/news/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/3cb9b14e7381e3f437c28d4e14413653.jpg" alt="2.0版高雄厝 建商瘋改建" tcode="2.0版高雄厝 建商瘋改建" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="http://www.appledaily.com.tw/appledaily/article/headline/20160115/37008783/" target="_blank">
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/d41c2bb551b8757950c6883832cf7723.jpg" alt="AD:ce4e3c9df0a8a722d03c1f755700eeae" tcode="AD:ce4e3c9df0a8a722d03c1f755700eeae" />
+                     <a href="/realtimenews/article/local/20160118/777515/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/2627b273ddb15f6a1f08aa6c358b871c.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/politics/20160115/776064/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/e8fbd1e311b8328ff5d698d9badd4393.jpg" alt="【選前之夜】蔡英文：改變台灣1票不能少！　朱立倫：找回中道力量！" tcode="【選前之夜】蔡英文：改變台灣1票不能少！　朱立倫：找回中道力量！" />
+                     <a href="/realtimenews/article/local/20160118/777505/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/ebfd0ddef7edd7904cc9472e445bb44b.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/life/20160115/776104" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/8b31ec51e12b152a955f4fb4726f2957.jpg" alt="蔡英文哭了？　網友截圖稱她眼泛淚" tcode="蔡英文哭了？　網友截圖稱她眼泛淚" />
+                     <a href="/realtimenews/article/strange/20160118/777217/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/298c15a0f550e963a753e1461f63bfe1.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="http://www.appledaily.com.tw/appledaily/article/supplement/20160115/37011012/" target="_blank">
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/4f097117d541dfbbc3663510732cb775.jpg" alt="AD:8187c58020a23e4cc0b253dcaf71c5c8" tcode="AD:8187c58020a23e4cc0b253dcaf71c5c8" />
+                     <a href="/realtimenews/article/politics/20160118/777513/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/be4b637eb353197278ba898c0bedd110.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/life/20160115/776062/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/ccc00ca45c95c19c00c96904047878fe.jpg" alt="雞排妹又po這張裸照　要大家去投票" tcode="雞排妹又po這張裸照　要大家去投票" />
+                     <a href="/realtimenews/article/local/20160118/777483/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/1e969f1e9ff0228de26ec8895003206b.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/politics/20160115/776016/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/5b1398cc2248923e45b28aa4cb3a10a2.jpg" alt="【選前之夜】藍綠大尬場　選民不畏風雨擠爆造勢會場" tcode="【選前之夜】藍綠大尬場　選民不畏風雨擠爆造勢會場" />
+                     <a href="/realtimenews/article/local/20160118/777506/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/566d37d7820fe2fbedf3ecd67387df59.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="http://www.applelive.com.tw/livechannel/index/48" target="_blank">
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/779bca638871624cfe7ff19a0e98c18d.jpg" alt="AD:48fe8c171178ad0f86ad3c3316b51ea3" tcode="AD:48fe8c171178ad0f86ad3c3316b51ea3" />
+                     <a href="/realtimenews/article/life/20160118/777514/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/81c2c9002c0097d2d8bb45a33222bbbd.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/politics/20160115/775963/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/b1d977965210f24b37dd4db33227a0bb.jpg" alt="鐵藍崩潰　李豔秋：該給國民黨一記醒腦巴掌" tcode="鐵藍崩潰　李豔秋：該給國民黨一記醒腦巴掌" />
+                     <a href="/realtimenews/article/life/20160118/777479/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/df58a895c1dadbced9c150e37139abcb.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/local/20160115/776018/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/cb8090b693c8cf85b3dab23a0ef33684.jpg" alt="【獨家】前交長郭瑤琪貪污入獄1年　罹癌今保外就醫" tcode="【獨家】前交長郭瑤琪貪污入獄1年　罹癌今保外就醫" />
+                     <a href="/realtimenews/article/strange/20160118/777489/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/51820af7575d7432376a9c72756fec2e.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/international/20160115/776022/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/8481683046bcecca7f244f8e67ce24db.jpg" alt="夏威夷驚傳軍用直升機相撞　12人凶多吉少" tcode="夏威夷驚傳軍用直升機相撞　12人凶多吉少" />
+                     <a href="/realtimenews/article/strange/20160118/777481/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/4517b91ee1db4de9c696afbd2a37ac4d.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/politics/20160115/775582" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/4d35b532fab1d062c90f92e039b0c8f4.jpg" alt="選舉奧步？　花東火車上的異象讓她驚呆" tcode="選舉奧步？　花東火車上的異象讓她驚呆" />
+                     <a href="/realtimenews/article/life/20160118/777353/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/010ea32eebafd31324b1b69aeef59084.jpg" alt="" tcode="" />
                                           </a>
                 </div>
                                 <div class="item">
-                     <a href="/realtimenews/article/strange/20160115/775391/" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/b9319c50632932bc09fe0c5e3266d73f.jpg" alt="黃安真面目被識破？　中國網民開始攻擊他" tcode="黃安真面目被識破？　中國網民開始攻擊他" />
-                                          </a>
-                </div>
-                                <div class="item">
-                     <a href="/realtimenews/article/international/20160115/775271" >
-                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/85151aa304c9a163d1d96d3b0cc82256.jpg" alt="【國際為什麼】全美瘋威力球　啥心理在作怪?" tcode="【國際為什麼】全美瘋威力球　啥心理在作怪?" />
+                     <a href="/realtimenews/article/life/20160118/776824/" >
+                      <img class="owl-lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://twimg.edgesuite.net/images/thumbnail/other/8e28c6c943c06505612ff354d3865516.gif" alt="" tcode="" />
                                           </a>
                 </div>
                             </div>
@@ -360,7 +330,7 @@
       <div id="october">          
                           <div class="slidebox">            
                     <div class="pics">
-                      <a href="http://goo.gl/g9PPNt" target="_blank"><img src="http://twimg.edgesuite.net/appledaily/data/oct/a390ca49df16bc0f442661cf2d9d8d18.jpg" /></a>
+                      <a href="http://goo.gl/g9PPNt" target="_blank"><img src="http://twimg.edgesuite.net/appledaily/data/oct/362635209cd088ed14d85fb51036bb2a.jpg" /></a>
                     </div>				           
                 </div>
                                  
@@ -388,24 +358,24 @@ $(document).ready(function() {
           <section id="realtimenews" class="rts fillup clearmen">
             <header><h2>即時新聞&nbsp;</h2><a href="/realtimenews/section/new/" target="_blank">更多新聞</a></header>
             <article>
-              <figure class="rtcvr"><a href="/realtimenews/article/entertainment/20160115/776077/周子瑜道歉！承認是中國人並反省" target="_blank"><img src="http://twimg.edgesuite.net/appledaily/images/RnewsRecommend_1452867857.jpg" alt="周子瑜道歉！承認是中國人並反省" /><p>周子瑜道歉！承認是中國人並反省</p></a></figure>
+              <figure class="rtcvr"><a href="/realtimenews/article/politics/20160118/777544/陳為廷　凌晨宣布將退出時代力量" target="_blank"><img src="http://twimg.edgesuite.net/appledaily/images/RnewsRecommend_1453064090.jpg" alt="陳為廷　凌晨宣布將退出時代力量" /><p>陳為廷　凌晨宣布將退出時代力量</p></a></figure>
               <ul class="hls">
-                                            <li class="hsv"><a href="/realtimenews/article/entertainment/20160115/776121/子瑜道歉　網友群批JYP：欺人太甚" title="子瑜道歉　網友群批JYP：欺人太甚" target="_blank">子瑜道歉　網友群批JYP：欺人太甚</a></li>
-                                            <li ><a href="/realtimenews/article/entertainment/20160115/776120/子瑜道歉　黃安：認同祖國的好孩子" title="子瑜道歉　黃安：認同祖國的好孩子" target="_blank">子瑜道歉　黃安：認同祖國的好孩子</a></li>
-                                            <li class="hsv"><a href="/realtimenews/article/entertainment/20160115/776124/超過份！子瑜道歉　中國網友竟嘲諷" title="超過份！子瑜道歉　中國網友竟嘲諷" target="_blank">超過份！子瑜道歉　中國網友竟嘲諷</a></li>
-                                                          <li class="hsv last"><a href="/realtimenews/article/politics/20160115/775073/午夜0時起　禁簡訊或LINE拉票" title="午夜0時起　禁簡訊或LINE拉票" target="_blank">午夜0時起　禁簡訊或LINE拉票</a></li>
+                                            <li ><a href="/realtimenews/article/local/20160118/777505/忘了鎖門遭性侵　還被人PO上網" title="忘了鎖門遭性侵　還被人PO上網" target="_blank">忘了鎖門遭性侵　還被人PO上網</a></li>
+                                            <li class="hsv"><a href="/realtimenews/article/strange/20160118/777489/蟒蛇硬吞兩隻羊　被他狂擠吐出來" title="蟒蛇硬吞兩隻羊　被他狂擠吐出來 " target="_blank">蟒蛇硬吞兩隻羊　被他狂擠吐出來 </a></li>
+                                            <li class="hsv"><a href="/realtimenews/article/entertainment/20160117/777517/小豬「我們都是中國人」！引網路熱議" title="小豬「我們都是中國人」！引網路熱議" target="_blank">小豬「我們都是中國人」！引網路熱議</a></li>
+                                                          <li class="last"><a href="/realtimenews/article/local/20160118/777380/元大前董娘坐牢　進外役監負責掃地" title="元大前董娘坐牢　進外役監負責掃地" target="_blank">元大前董娘坐牢　進外役監負責掃地</a></li>
               </ul>
               </article>
               <aside>
               <ul class="mrt">
-                              <li ><time>23:51</time><a href="/realtimenews/article/local/20160115/776127/【更新】火車撞行人　男子當場死亡" title="【更新】火車撞行人　男子當場死亡" target="_blank">【更新】火車撞行人　男子當場死亡</a></li>
-                                                <li ><time>23:50</time><a href="/realtimenews/article/international/20160115/776132/半島記者被拒入境　移民署：不受歡迎人物" title="半島記者被拒入境　移民署：不受歡迎人物" target="_blank">半島記者被拒入境　移民署：不受歡迎...</a></li>
-                                                <li ><time>23:46</time><a href="/realtimenews/article/politics/20160115/776131/【民報】蕭美琴父親的溫柔：無論結果如何爸爸都支持你！" title="【民報】蕭美琴父親的溫柔：無論結果如何 爸爸都支持你！" target="_blank">【民報】蕭美琴父親的溫柔：無論結果...</a></li>
-                                                <li ><time>23:44</time><a href="/realtimenews/article/international/20160115/776142/【法廣RFI】台灣大選陸以5-20劃線“走着瞧”" title="【法廣RFI】台灣大選 陸以5-20劃線“走着瞧”" target="_blank">【法廣RFI】台灣大選 陸以5-2...</a></li>
-                                                <li ><time>23:43</time><a href="/realtimenews/article/politics/20160115/776141/【公庫】推動新國會否認「九二共識」、「一中原則」" title="【公庫】推動新國會否認「九二共識」、「一中原則」" target="_blank">【公庫】推動新國會否認「九二共識」...</a></li>
-                                                <li ><time>23:42</time><a href="/realtimenews/article/politics/20160115/776139/【公庫】「柯P文資SOP」暫擋下文資審議改革仍須努力" title="【公庫】「柯P文資SOP」暫擋下 文資審議改革仍須努力" target="_blank">【公庫】「柯P文資SOP」暫擋下 ...</a></li>
-                                                <li ><time>23:38</time><a href="/realtimenews/article/politics/20160115/776137/【公庫】2016「選後新國會分析」座談會" title="【公庫】2016「選後新國會分析」座談會" target="_blank">【公庫】2016「選後新國會分析」...</a></li>
-                                                <li class="last"><time>23:34</time><a href="/realtimenews/article/finance/20160115/776135/【法廣RFI】雷諾股價暴跌排放超標引猜測" title="【法廣RFI】雷諾股價暴跌 排放超標引猜測" target="_blank">【法廣RFI】雷諾股價暴跌 排放超...</a></li>
+                              <li ><time>04:35</time><a href="/realtimenews/article/politics/20160118/777544/太陽花學運領袖陳為廷　凌晨宣布將退出時代力量" title="太陽花學運領袖陳為廷　凌晨宣布將退出時代力量" target="_blank">太陽花學運領袖陳為廷　凌晨宣布將退...</a></li>
+                                                <li ><time>04:35</time><a href="/realtimenews/article/international/20160118/777545/3美民巴格達遭綁架　美方：搜尋中" title="3美民巴格達遭綁架　美方：搜尋中" target="_blank">3美民巴格達遭綁架　美方：搜尋中</a></li>
+                                                <li ><time>04:25</time><a href="/realtimenews/article/international/20160118/777543/義大利駐阿使館外爆炸　遭不明火箭彈攻擊" title="義大利駐阿使館外爆炸　遭不明火箭彈攻擊" target="_blank">義大利駐阿使館外爆炸　遭不明火箭彈...</a></li>
+                                                <li ><time>04:00</time><a href="/realtimenews/article/international/20160118/777542/太空探險海上回收火箭　任務宣告失敗" title="太空探險海上回收火箭　任務宣告失敗" target="_blank">太空探險海上回收火箭　任務宣告失敗</a></li>
+                                                <li class="hsv"><time>03:40</time><a href="/realtimenews/article/international/20160118/777541/上海山寨美國防部建築　名稱五角世貿大樓" title="上海山寨美國防部建築　名稱五角世貿大樓" target="_blank">上海山寨美國防部建築　名稱五角世貿...</a></li>
+                                                <li ><time>03:28</time><a href="/realtimenews/article/international/20160118/777540/世衛警告　空污成全球最大健康危機" title="世衛警告　空污成全球最大健康危機" target="_blank">世衛警告　空污成全球最大健康危機</a></li>
+                                                <li class="hsv"><time>03:19</time><a href="/realtimenews/article/local/20160118/777526/疑開車酒駕撞1汽19機　2傷1受困送醫" title="疑開車酒駕撞1汽19機　2傷1受困送醫" target="_blank">疑開車酒駕撞1汽19機　2傷1受困...</a></li>
+                                                <li class="last"><time>03:13</time><a href="/realtimenews/article/international/20160118/777539/陸童回應二孩政策　奉勸媽媽三思而後行" title="陸童回應二孩政策　 奉勸媽媽三思而後行" target="_blank">陸童回應二孩政策　 奉勸媽媽三思而...</a></li>
               </ul>
               </aside>
           </section>
@@ -420,7 +390,7 @@ $(document).ready(function() {
             <script type="text/javascript" src="http://twimg.edgesuite.net/appledaily/images/js/jquery.textslider.js"></script>		
             <section id="special_choice">
                 <ul>
-                  <li><figure></figure><a target="_blank" href="/column/index/232"><span>台獨剋星黃安亂掃 周子瑜中箭</span></a></li><li><figure></figure><a target="_blank" href="/column/index/165"><span>選戰倒數！2016總統大選特輯</span></a></li><li><figure></figure><a target="_blank" href="/column/index/171"><span>珍重謝幕！風光12年康熙走了</span></a></li><li><figure></figure><a target="_blank" href="/column/index/9"><span>41J 嚴選！跟女神呼吸一樣空氣</span></a></li><li><figure></figure><a target="_blank" href="/column/index/125"><span>靠北系列精選  比世姦情更精采</span></a></li><li><figure></figure><a target="_blank" href="/column/index/173"><span>歡迎來到《蘋果360》奇妙世界</span></a></li><li><figure></figure><a target="_blank" href="/column/index/175"><span>劇場開演囉~~ 這不是新聞</span></a></li><li><figure></figure><a target="_blank" href="/column/index/123"><span>蘋果好聲音　新聞用唱的</span></a></li><li><figure></figure><a target="_blank" href="/column/index/115"><span>暖蘋果新聞 讓世界更有力量❤</span></a></li><li><figure></figure><a target="_blank" href="/column/index/91"><span>蘋果圖解新聞</span></a></li><li><figure></figure><a target="_blank" href="/column/index/203"><span>國際好聞  拓展視野快遞好新聞</span></a></li><li><figure></figure><a target="_blank" href="/column/index/215"><span>國際為什麼  看蘋果長知識</span></a></li><li><figure></figure><a target="_blank" href="/column/index/229"><span>濫用愛心？布丁三姊弟引爭議</span></a></li>                </ul>
+                  <li><figure></figure><a target="_blank" href="/column/index/165"><span>選戰倒數！2016總統大選特輯</span></a></li><li><figure></figure><a target="_blank" href="/column/index/232"><span>子瑜憔悴道歉　台灣心疼力挺</span></a></li><li><figure></figure><a target="_blank" href="/column/index/9"><span>41J 嚴選！跟女神呼吸一樣空氣</span></a></li><li><figure></figure><a target="_blank" href="/column/index/125"><span>靠北系列精選  比世姦情更精采</span></a></li><li><figure></figure><a target="_blank" href="/column/index/173"><span>歡迎來到《蘋果360》奇妙世界</span></a></li><li><figure></figure><a target="_blank" href="/column/index/175"><span>劇場開演囉~~ 這不是新聞</span></a></li><li><figure></figure><a target="_blank" href="/column/index/123"><span>蘋果好聲音　新聞用唱的</span></a></li><li><figure></figure><a target="_blank" href="/column/index/115"><span>暖蘋果新聞 讓世界更有力量❤</span></a></li><li><figure></figure><a target="_blank" href="/column/index/91"><span>蘋果圖解新聞</span></a></li><li><figure></figure><a target="_blank" href="/column/index/203"><span>國際好聞  拓展視野快遞好新聞</span></a></li><li><figure></figure><a target="_blank" href="/column/index/215"><span>國際為什麼  看蘋果長知識</span></a></li>                </ul>
                 <div class="clearmen"></div>
             </section>
             <script>		  
@@ -470,16 +440,16 @@ $(document).ready(function() {
     <section id="selected" class="estd">
       <header><h3>【特選話題】&nbsp;</h3></header>
       <article class="fillup">
-        <figure><a href="http://goo.gl/QDwZRW" target="_blank"><img src="http://twimg.edgesuite.net/www/extfile/specialtopic/5553a8c37e6f7e4dda22f8356a87fb8c.jpg" /><p>韓JYP官網改周子瑜為「中国台湾」</p><span></span></a></figure>
+        <figure><a href="http://goo.gl/C4CMLJ" target="_blank"><img src="http://twimg.edgesuite.net/www/extfile/specialtopic/3382fae8baadfe734fc988f6ec54e853.jpg" /><p>首露面　蔡：三天後執政火車就要開動</p><span></span></a></figure>
         <ul class="estds">
-        <li><a href="http://goo.gl/C4CMLJ" target="_blank">【選前倒數】決戰雙北 今拚最後一夜</a></li><li><a href="http://goo.gl/Ku7VUG" target="_blank">【這不是新聞】超限制級韓舞　一次看個夠</a></li><li><a href="http://goo.gl/YUDxVn" target="_blank">【唱新聞】蘋果芭樂金曲榜</a></li><li><a href="http://goo.gl/CdLlq5" target="_blank">【41J嚴選】小蘿莉充氣娃娃誕生　滿足戀童癖慾望</a></li><li><a href="http://goo.gl/8eeapZ" target="_blank">【國際為什麼】全美瘋威力球　啥心理在作怪?</a></li>        </ul>
+        <li><a href="http://goo.gl/QDwZRW" target="_blank">【#StandByYu】周子瑜媽媽首開口 「盼事情快落幕」</a></li><li><a href="http://goo.gl/CdLlq5" target="_blank">【41J嚴選】SOD沒有騙人　葬禮、叢林都是破處地</a></li><li><a href="http://goo.gl/8eeapZ" target="_blank">【國際為什麼】先核爆再求和　北韓一貫伎倆</a></li><li><a href="http://goo.gl/XkYOXm" target="_blank">【蘋果360】視覺無死角　線上遊覽蔡英文祖厝</a></li><li><a href="http://goo.gl/PyFYtp" target="_blank">【暖蘋果】暖心！臺灣僑胞為敘難民募款</a></li>        </ul>
       </article>
     </section>
 
     <section id="selected" class="hts">
         <header><h3>即時開票看《蘋果》</h3></header>
         <article>
-            <a href="http://goo.gl/g9PPNt" target="_blank"><img src="http://twimg.edgesuite.net/appledaily/homeright/A260x280.jpg" width="260" height="280" /></a>
+            <a href="http://goo.gl/g9PPNt" target="_blank"><img src="http://twimg.edgesuite.net/appledaily/homeright/B260x280.jpg" width="260" height="280" /></a>
         </article>
     </section>   
     <!--crowdynews ad-->
@@ -507,20 +477,20 @@ $(document).ready(function() {
                                         <a href="http://www.applelive.com.tw/livechannel/index/48" target="_blank">
                             <div class="more" >
                                 <figure >
-                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1452830154.jpg" />
+                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1452954199.jpg" />
                                 </figure>
                                 <div class="more_text">
-                                    <span class="s1" style="background:#ca1918">蘋果Live</span><span class="s2">1/16 下午16:00三黨總部現場直播</span>
+                                    <span class="s1" style="background:#ca1918">蘋果Live</span><span class="s2">每周三12:30-蘋果掀房事直播</span>
                                 </div>
                             </div>
                         </a>                
-                                            <a href="http://www.applelive.com.tw/livechannel/subject/48/141" target="_blank">
+                                            <a href="http://www.applelive.com.tw/livechannel/subject/35/3" target="_blank">
                             <div class="more" >
                                 <figure >
-                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1452847579.jpg" />
+                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1452954413.jpg" />
                                 </figure>
                                 <div class="more_text">
-                                    <span class="s1" style="background:#ca1918">蘋果Live</span><span class="s2">選舉肥皂車1/16下午16:00準時開講</span>
+                                    <span class="s1" style="background:#ca1918">蘋果Live</span><span class="s2">每周五中午12:30 建案搶先看</span>
                                 </div>
                             </div>
                         </a>                
@@ -587,20 +557,20 @@ $(document).ready(function() {
                                             <a href="http://goo.gl/ZRJWmQ" target="_blank">
                             <div class="more" >
                                 <figure >
-                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1452823282.jpg" />
+                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1452938558.png" />
                                 </figure>
                                 <div class="more_text">
-                                    <span class="s1" style="background:#ca1918">每日一圓仔</span><span class="s2">圓仔遊樂傳</span>
+                                    <span class="s1" style="background:#ca1918">每日一圓仔</span><span class="s2">圓仔一鏡到底</span>
                                 </div>
                             </div>
                         </a>                
-                    </div><div class="col_a">                        <a href="http://goo.gl/IGwjeM" target="_blank">
+                    </div><div class="col_a">                        <a href="http://goo.gl/Nw4hYs" target="_blank">
                             <div class="more" >
                                 <figure >
-                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1452830202.jpg" />
+                                    <img src="http://twimg.edgesuite.net/appledaily/data/morechannel/1453023210.jpg" />
                                 </figure>
                                 <div class="more_text">
-                                    <span class="s1" style="background:#e13e7e">飲食男女</span><span class="s2">療癒藝術 高雄氣爆後的巷弄重生</span>
+                                    <span class="s1" style="background:#e13e7e">飲食男女</span><span class="s2">3款暖補瘦身湯 周瘦2kg超簡單</span>
                                 </div>
                             </div>
                         </a>                
@@ -855,7 +825,7 @@ $(document).ready(function() {
             shortDays:    '日,一,二,三,四,五,六'
         });
 
-        $("#DailyDate").dateinput({lang: 'tw',selectors: true,format: 'yyyymmdd',trigger: true ,min:'2003-05-02',max:'2016-01-15',offset: [0,-50],speed: 'fast',yearRange:[-20,1]});
+        $("#DailyDate").dateinput({lang: 'tw',selectors: true,format: 'yyyymmdd',trigger: true ,min:'2003-05-02',max:'2016-01-18',offset: [0,-50],speed: 'fast',yearRange:[-20,1]});
         $("#DailyDate").change(function() {location.href="/appledaily/archive/"+$("#DailyDate").val();});
         /*$(".nbtn a.caltrigger").append("昔日新聞");*/
         $(".nbtn a.caltrigger").append("<img src='http://twimg.edgesuite.net/appledaily/images/core/calendar_icon.png'/>");
@@ -999,7 +969,7 @@ $(document).ready(function() {
       function trackHomeMainImg(action, label) {
         if ( ga ) ga('send', 'event', 'HomeMainImg', action, label);
         $.ajax({
-                        url: 'http://weblogging.appledaily.com.tw/api/SetClick/o/v/1/0/0/20160115/'+label+'/'+Math.random(),
+                        url: 'http://weblogging.appledaily.com.tw/api/SetClick/o/v/1/0/0/20160118/'+label+'/'+Math.random(),
                         dataType: 'jsonp',
                         success: function(data) {}
                     });

@@ -279,26 +279,20 @@ var fwAdSystem = true;
 </h1>
 </li>
 <li>
-<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-1-14476486">
-<span class="link-text">NASA TV: ISS Expedition 46 Spacewalk Coverage</span>
-<span class="icon-play m-icon"></span>
-</a>
-</li>
-<li>
-<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-3-15048938">
-<span class="link-text">Pres. Candidate Jeb Bush Holds Joint News Conference with Sen. Lindsey Graham</span>
-<span class="icon-play m-icon"></span>
-</a>
-</li>
-<li>
 <a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-2-14519615">
-<span class="link-text">Robin Roberts’ Re-Boot Camp: DailyBurn Morning Workout</span>
+<span class="link-text">Presidential Candidate Chris Christie (R) Holds Town Hall in Iowa</span>
 <span class="icon-play m-icon"></span>
 </a>
 </li>
 <li>
 <a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-4-20969244">
-<span class="link-text">Dow Jones Industrial Average</span>
+<span class="link-text">RADAR: Rain and Snow Across the Mid-Atlantic</span>
+<span class="icon-play m-icon"></span>
+</a>
+</li>
+<li>
+<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-5-31962710">
+<span class="link-text">EXPLORE.org: Indoor Puppy Room Cam</span>
 <span class="icon-play m-icon"></span>
 </a>
 </li>
@@ -830,62 +824,63 @@ abcn_ui.Helpers.live_alerts_render.updateLiveAlerts(data.data);
 <div class='content-zone'>
 <div class="carousel-slider">
 <div class="carousel-content" data-vr-contentbox="1">
-<div class="_espn"><!--partner bug--></div>
-<a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-1]">
-<img src="http://a.abcnews.go.com/images/Sports/espnapi_r37769_576x324_16-9_wmain.jpg" border="0" width="684" height="336" alt="Aaron Rodgers" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r37769_576x324_16-9_wmain.jpg'" />
+<div class="null"><!--partner bug--></div>
+<a href="/Sports/wireStory/rodgers-hail-mary-forces-ot-fitz-arizona-win-36340749" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-1]">
+<img src="http://a.abcnews.go.com/images/Sports/AP_Larry_Fitzgerald_160117_DC_33x16_992.jpg" border="0" width="684" height="336" alt="PHOTO: Ariz. Cardinals wide receiver Larry Fitzgerald celebrates his catch in the red zone to set up a game winning touchdown against the Green Bay Packers during the second half of an NFL divisional playoff game, Jan. 16, 2016, in Glendale, Ariz." onerror="this.src='http://a.abcnews.com/images/Sports/AP_Larry_Fitzgerald_160117_DC_33x16_992.jpg'" />
 </a>
 <div class="hero_item_meta">
 <table cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td>
-<a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-1]">
-<h2 class="headline-hero">Biggest 2016 draft needs for every NFL team</h2>
+<a href="/Sports/wireStory/rodgers-hail-mary-forces-ot-fitz-arizona-win-36340749" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-1]">
+<h2 class="headline-hero">Cardinals' 'Hail Larry' Trumps Rodgers' Hail Mary</h2>
 </a>
 </td>
 </tr>
 </table>
 </div>
 <div class="hero_credit">
-AP Photo/Ben Margot
+Ross D. Franklin/AP PHOTO
 </div>
 </div>
 <div class="carousel-content" data-vr-contentbox="2">
-<div class="_espn"><!--partner bug--></div>
-<a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-2]">
-<img src="http://a.abcnews.go.com/images/Sports/espnapi_r44059_576x324_16-9_wmain.jpg" border="0" width="684" height="336" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r44059_576x324_16-9_wmain.jpg'" />
+<div class="null"><!--partner bug--></div>
+<a href="/Sports/wireStory/patriots-5th-straight-afc-title-game-beat-chiefs-36337732" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-2]">
+<img src="http://a.abcnews.go.com/images/Sports/WireAP_8d047a3a46104813ba322870b81c81f8_16x9_992.jpg" border="0" width="684" height="336" alt="Tom Brady" onerror="this.src='http://a.abcnews.com/images/Sports/WireAP_8d047a3a46104813ba322870b81c81f8_16x9_992.jpg'" />
 </a>
 <div class="hero_item_meta">
 <table cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td>
-<a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-2]">
-<h2 class="headline-hero">Ram-ifications: 10 questions about Stan Kroenke's L.A. coup</h2>
+<a href="/Sports/wireStory/patriots-5th-straight-afc-title-game-beat-chiefs-36337732" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-2]">
+<h2 class="headline-hero">Patriots to 5th Straight AFC Title Game, Beat Chiefs 27-20</h2>
 </a>
 </td>
 </tr>
 </table>
 </div>
 <div class="hero_credit">
-AP Photo/Billy Hurst
+The Associated Press
 </div>
 </div>
 <div class="carousel-content" data-vr-contentbox="3">
-<div class="_espn"><!--partner bug--></div>
-<a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-3]">
-<img src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wmain.jpg" border="0" width="684" height="336" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wmain.jpg'" />
+<div class="null"><!--partner bug--></div>
+<a href="/Sports/wireStory/pistons-rout-golden-state-113-95-currys-38-36339334" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[image-3]">
+<img src="http://a.abcnews.go.com/images/Sports/WireAP_b80b3958d0c2402190c0123153617725_16x9_992.jpg" border="0" width="684" height="336" alt="Reggie Jackson, Klay Thompson" onerror="this.src='http://a.abcnews.com/images/Sports/WireAP_b80b3958d0c2402190c0123153617725_16x9_992.jpg'" />
 </a>
 <div class="hero_item_meta">
 <table cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td>
-<a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-3]">
-<h2 class="headline-hero">Sources: O's discussed bid for Cespedes in range of $75M-$90M</h2>
+<a href="/Sports/wireStory/pistons-rout-golden-state-113-95-currys-38-36339334" name="lpos=widget[BCTop_2_hero_78_sectionindex]&lid=[link-3]">
+<h2 class="headline-hero">Pistons Rout Golden State 113-95 Despite Curry's 38 Points</h2>
 </a>
 </td>
 </tr>
 </table>
 </div>
 <div class="hero_credit">
+The Associated Press
 </div>
 </div>
 </div>
@@ -914,30 +909,30 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div id="_espn-sportscenter">
 <div class="midcontainer">
 <div class="ffl_wrapper">
-<div id="ihop_36310810" class="ffl_obj ffl_0" data-vr-contentbox>
+<div id="ihop_36346123" class="ffl_obj ffl_0" data-vr-contentbox>
 <div class="ihop">
-<div class="ihop_image"><a href="/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Image_1]"><img src="http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg" border="0" width="302" height="169" alt="PHOTO: ABC News" onerror="this.src='http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg'" /></a> </div> <div class="ihop_headline"> <div class="_espn"><!--partner bug--></div><a href="/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_1]">Detroit Lions keep Jim Caldwell as head coach</a><div class="tho_dek"> The Detroit Lions are staying with Jim Caldwell as their head coach, the team announced Friday. &quot;After...</div></div><div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
+<div class="ihop_image"><a href="/Sports/cam-newton-honors-son-pregame-shirt-cleats/story?id=36346123" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Image_1]"><img src="http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg" border="0" width="302" height="169" alt="PHOTO: ABC News" onerror="this.src='http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg'" /></a> </div> <div class="ihop_headline"> <div class="_espn"><!--partner bug--></div><a href="/Sports/cam-newton-honors-son-pregame-shirt-cleats/story?id=36346123" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_1]">Cam Newton honors his son with pregame shirt and cleats</a><div class="tho_dek"> Cam Newton is killing this whole &quot;being a dad&quot; thing. In pregame warm-ups, the Carolina quarterback came out...</div></div><div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
 <div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" title="Detroit Lions keep Jim Caldwell as head coach" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/detroit-lions-jim-caldwell-head-coach/story?id=36310810" title="Detroit Lions keep Jim Caldwell as head coach" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<a class="facebook" href="http://abcnews.go.com/Sports/cam-newton-honors-son-pregame-shirt-cleats/story?id=36346123" title="Cam Newton honors his son with pregame shirt and cleats" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/cam-newton-honors-son-pregame-shirt-cleats/story?id=36346123" title="Cam Newton honors his son with pregame shirt and cleats" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
 <div class="clearboth"><!--empty--></div>
 </div>
 <div class="clearboth"><!--empty--></div>
 </div><div class="clearboth"><!-- --></div>
 </div>
 </div>
-<div id="tho_36310534" class="ffl_obj ffl_1" data-vr-contentbox>
+<div id="tho_36346903" class="ffl_obj ffl_1" data-vr-contentbox>
 <div class="tho">
 <div class="tho_image">
-<a href="/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_2]"><img src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_SC_Schefter_On_Dirk_Koetter_wa.jpg" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_SC_Schefter_On_Dirk_Koetter_wa.jpg'" /></a>
+<a href="/Sports/ben-roethlisberger-shoulder-set-start-denver/story?id=36346903" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_2]"><img src="http://a.abcnews.go.com/images/Sports/espnapi_evc_NFL_20160117_1A_Postseason_NFL_Countdown_Presented_by_Snicker_bf12d5472b77408cbb8c078e30e020db_wa.jpg" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_evc_NFL_20160117_1A_Postseason_NFL_Countdown_Presented_by_Snicker_bf12d5472b77408cbb8c078e30e020db_wa.jpg'" /></a>
 </div>
 <div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_2]">Bucs turn to offensive coordinator Dirk Koetter as coach</a><div class="tho_dek"> The Tampa Bay Buccaneers have officially hired offensive coordinator Dirk Koetter as their new head coach,...</div>
+<div class="_espn"><!--partner bug--></div><a href="/Sports/ben-roethlisberger-shoulder-set-start-denver/story?id=36346903" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_2]">Ben Roethlisberger (shoulder) set to start in Denver</a><div class="tho_dek"> DENVER -- Ben Roethlisberger is set to start for the Pittsburgh Steelers despite his injured right...</div>
 </div>
 <div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
 <div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" title="Bucs turn to offensive coordinator Dirk Koetter as coach" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/bucs-turn-offensive-coordinator-dirk-koetter-coach/story?id=36310534" title="Bucs turn to offensive coordinator Dirk Koetter as coach" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<a class="facebook" href="http://abcnews.go.com/Sports/ben-roethlisberger-shoulder-set-start-denver/story?id=36346903" title="Ben Roethlisberger (shoulder) set to start in Denver" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/ben-roethlisberger-shoulder-set-start-denver/story?id=36346903" title="Ben Roethlisberger (shoulder) set to start in Denver" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
 <div class="clearboth"><!--empty--></div>
 </div>
 <div class="clearboth"><!--empty--></div>
@@ -945,18 +940,15 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div class="clearboth"><!-- --></div>
 </div>
 </div>
-<div id="tho_36305353" class="ffl_obj ffl_2" data-vr-contentbox>
+<div id="tho_36346209" class="ffl_obj ffl_2" data-vr-contentbox>
 <div class="tho">
-<div class="tho_image">
-<a href="/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_3]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160115_MM_Marshawn_Lynch_says_hes_ready_to_play_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160115_MM_Marshawn_Lynch_says_hes_ready_to_play_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160115_MM_Marshawn_Lynch_says_hes_ready_to_play_wa.jpg'" /></a>
-</div>
-<div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_3]">Seattle's Marshawn Lynch declares himself 'ready' for Panthers</a><div class="tho_dek"> Asked about his status for Sunday's divisional round playoff game against the Carolina Panthers, ...</div>
+<div class="tho_headline_extended">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/matt-barnes-fined-35k-comments-derek-fisher/story?id=36346209" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_3]">Matt Barnes fined $35K for comments about Derek Fisher</a><div class="tho_dek"> Memphis Grizzlies&nbsp;forward Matt Barnes was fined $35,000 by the NBA for his &quot;inappropriate&quot;...</div>
 </div>
 <div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
 <div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" title="Seattle's Marshawn Lynch declares himself 'ready' for Panthers" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/seattles-marshawn-lynch-declares-ready-panthers/story?id=36305353" title="Seattle's Marshawn Lynch declares himself 'ready' for Panthers" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<a class="facebook" href="http://abcnews.go.com/Sports/matt-barnes-fined-35k-comments-derek-fisher/story?id=36346209" title="Matt Barnes fined $35K for comments about Derek Fisher" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/matt-barnes-fined-35k-comments-derek-fisher/story?id=36346209" title="Matt Barnes fined $35K for comments about Derek Fisher" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
 <div class="clearboth"><!--empty--></div>
 </div>
 <div class="clearboth"><!--empty--></div>
@@ -964,18 +956,15 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div class="clearboth"><!-- --></div>
 </div>
 </div>
-<div id="tho_36303173" class="ffl_obj ffl_3" data-vr-contentbox>
+<div id="tho_36346169" class="ffl_obj ffl_3" data-vr-contentbox>
 <div class="tho">
-<div class="tho_image">
-<a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_4]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_orioles_cespedes_headline_wa.jpg'" /></a>
-</div>
-<div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_4]">Sources: O's discussed bid for Cespedes in range of $75M-$90M</a><div class="tho_dek"> The Baltimore Orioles have made a contract offer to free-agent outfielder Yoenis Cespedes,...</div>
+<div class="tho_headline_extended">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/kevin-durant-hate-media/story?id=36346169" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_4]">Kevin Durant says he doesn't hate the media</a><div class="tho_dek"> OKLAHOMA CITY -- After his shootaround availability Sunday morning,&nbsp; Oklahoma City Thunder&nbsp;star&nbsp; ...</div>
 </div>
 <div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
 <div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" title="Sources: O's discussed bid for Cespedes in range of $75M-$90M" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/sources-orioles-discussed-bid-cespedes-range-75m-90m/story?id=36303173" title="Sources: O's discussed bid for Cespedes in range of $75M-$90M" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<a class="facebook" href="http://abcnews.go.com/Sports/kevin-durant-hate-media/story?id=36346169" title="Kevin Durant says he doesn't hate the media" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/kevin-durant-hate-media/story?id=36346169" title="Kevin Durant says he doesn't hate the media" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
 <div class="clearboth"><!--empty--></div>
 </div>
 <div class="clearboth"><!--empty--></div>
@@ -983,18 +972,18 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div class="clearboth"><!-- --></div>
 </div>
 </div>
-<div id="tho_36302719" class="ffl_obj ffl_4" data-vr-contentbox>
+<div id="tho_36343802" class="ffl_obj ffl_4" data-vr-contentbox>
 <div class="tho">
 <div class="tho_image">
-<a href="/Sports/best-gameday-signs-2015/story?id=36302719" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_5]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r44114_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r44114_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="Oregon College GameDay sign" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r44114_576x324_16-9_wa.jpg'" /></a>
+<a href="/Sports/bruce-arians-aggressive-approach-pays-off-note-packers/story?id=36343802" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_5]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r35086_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r35086_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="Carson Palmer and head coach Bruce Arians" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r35086_576x324_16-9_wa.jpg'" /></a>
 </div>
 <div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/best-gameday-signs-2015/story?id=36302719" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_5]">Best GameDay signs: 2015</a><div class="tho_dek"> Fan signs were as strong as ever at College GameDay in the 2015 season. Now that the college football season has...</div>
+<div class="_espn"><!--partner bug--></div><a href="/Sports/bruce-arians-aggressive-approach-pays-off-note-packers/story?id=36343802" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_5]">Bruce Arians' aggressive approach pays off; take note, Packers</a><div class="tho_dek"> It didn't cost the Cardinals the game, but for a minute there, it sure looked like Bruce Arians...</div>
 </div>
 <div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
 <div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/best-gameday-signs-2015/story?id=36302719" title="Best GameDay signs: 2015" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/best-gameday-signs-2015/story?id=36302719" title="Best GameDay signs: 2015" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<a class="facebook" href="http://abcnews.go.com/Sports/bruce-arians-aggressive-approach-pays-off-note-packers/story?id=36343802" title="Bruce Arians' aggressive approach pays off; take note, Packers" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/bruce-arians-aggressive-approach-pays-off-note-packers/story?id=36343802" title="Bruce Arians' aggressive approach pays off; take note, Packers" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
 <div class="clearboth"><!--empty--></div>
 </div>
 <div class="clearboth"><!--empty--></div>
@@ -1002,18 +991,15 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div class="clearboth"><!-- --></div>
 </div>
 </div>
-<div id="tho_36301898" class="ffl_obj ffl_5" data-vr-contentbox>
+<div id="tho_36332508" class="ffl_obj ffl_5" data-vr-contentbox>
 <div class="tho">
-<div class="tho_image">
-<a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_6]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r44059_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r44059_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r44059_576x324_16-9_wa.jpg'" /></a>
-</div>
-<div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_6]">Ram-ifications: 10 questions about Stan Kroenke's L.A. coup</a><div class="tho_dek"> Franchise relocations in sports are always emotionally overheated affairs. The victorious city celebrates while...</div>
+<div class="tho_headline_extended">
+<div class="_espn"><!--partner bug--></div><a href="/Sports/phil-mickelson-asu-job/story?id=36332508" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_6]">Phil Mickelson out of ASU job</a><div class="tho_dek"> Well, that was fast.&nbsp; Less than three months after being hired as an &quot;interim assistant&quot; golf coach at...</div>
 </div>
 <div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
 <div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" title="Ram-ifications: 10 questions about Stan Kroenke's L.A. coup" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/ram-ifications-10-questions-stan-kroenkes-la-coup/story?id=36301898" title="Ram-ifications: 10 questions about Stan Kroenke's L.A. coup" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<a class="facebook" href="http://abcnews.go.com/Sports/phil-mickelson-asu-job/story?id=36332508" title="Phil Mickelson out of ASU job" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/phil-mickelson-asu-job/story?id=36332508" title="Phil Mickelson out of ASU job" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
 <div class="clearboth"><!--empty--></div>
 </div>
 <div class="clearboth"><!--empty--></div>
@@ -1021,56 +1007,18 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div class="clearboth"><!-- --></div>
 </div>
 </div>
-<div id="tho_36278177" class="ffl_obj ffl_6" data-vr-contentbox>
+<div id="tho_36323149" class="ffl_obj ffl_6 last" data-vr-contentbox>
 <div class="tho">
 <div class="tho_image">
-<a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_7]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r37769_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r37769_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="Aaron Rodgers" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r37769_576x324_16-9_wa.jpg'" /></a>
+<a href="/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36323149" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_7]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_r41213_576x324_16-9_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_r41213_576x324_16-9_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="Peyton Manning" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_r41213_576x324_16-9_wa.jpg'" /></a>
 </div>
 <div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/biggest-2016-draft-nfl-team/story?id=36278177" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_7]">Biggest 2016 draft needs for every NFL team</a><div class="tho_dek"> NFL Nation reporters look ahead to what each team's biggest need will be in the 2016 NFL draft. AFC EAST ...</div>
+<div class="_espn"><!--partner bug--></div><a href="/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36323149" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_7]">2016 NFL playoffs and Super Bowl coverage</a><div class="tho_dek"> Four teams -- the Texans, Bengals, Vikings and Redskins -- were eliminated in the wild-card...</div>
 </div>
 <div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
 <div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/biggest-2016-draft-nfl-team/story?id=36278177" title="Biggest 2016 draft needs for every NFL team" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/biggest-2016-draft-nfl-team/story?id=36278177" title="Biggest 2016 draft needs for every NFL team" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
-<div class="clearboth"><!--empty--></div>
-</div>
-<div class="clearboth"><!--empty--></div>
-</div>
-<div class="clearboth"><!-- --></div>
-</div>
-</div>
-<div id="tho_36285761" class="ffl_obj ffl_7" data-vr-contentbox>
-<div class="tho">
-<div class="tho_image">
-<a href="/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_8]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160113_Wooden_Award_Midseason_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160113_Wooden_Award_Midseason_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160113_Wooden_Award_Midseason_wa.jpg'" /></a>
-</div>
-<div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_8]">Ben Simmons, Jamal Murray only freshmen on Wooden watch list</a><div class="tho_dek"> Experience reigns on this year's Wooden Award midseason top 25 list, but one LSU&nbsp;freshman stands out. ...</div>
-</div>
-<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
-<div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" title="Ben Simmons, Jamal Murray only freshmen on Wooden watch list" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/ben-simmons-jamal-murray-freshmen-wooden-watch-list/story?id=36285761" title="Ben Simmons, Jamal Murray only freshmen on Wooden watch list" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
-<div class="clearboth"><!--empty--></div>
-</div>
-<div class="clearboth"><!--empty--></div>
-</div>
-<div class="clearboth"><!-- --></div>
-</div>
-</div>
-<div id="tho_36274785" class="ffl_obj ffl_8 last" data-vr-contentbox>
-<div class="tho">
-<div class="tho_image">
-<a href="/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Thumb_9]"><img data-original="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_nfl_will_big_ben_play_wa.jpg" data-src="http://a.abcnews.go.com/images/Sports/espnapi_dm_160114_nfl_will_big_ben_play_wa.jpg" src="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" class="abcn_lazy" border="0" width="169" height="96" alt="ESPNAPI_IMG_NO_ALTEXT_Value" onerror="this.src='http://a.abcnews.com/images/Sports/espnapi_dm_160114_nfl_will_big_ben_play_wa.jpg'" /></a>
-</div>
-<div class="tho_headline">
-<div class="_espn"><!--partner bug--></div><a href="/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" name="lpos=widget[B_1_freeformlite_78_sectionindex]&lid=link[Headline_9]">2016 NFL playoffs and Super Bowl coverage</a><div class="tho_dek"> Four teams -- the Texans, Bengals, Vikings and Redskins -- were eliminated in the wild-card...</div>
-</div>
-<div class="shareflyout"><a class="trigger" href="javascript:void(0);" name="lpos=widget[social_flyout]&lid=link[trigger]"><!--empty--></a>
-<div class="shareflyout-buttons">
-<a class="facebook" href="http://abcnews.go.com/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" title="2016 NFL playoffs and Super Bowl coverage" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
-<a class="twitter" href="http://abcnews.go.com/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36274785" title="2016 NFL playoffs and Super Bowl coverage" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
+<a class="facebook" href="http://abcnews.go.com/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36323149" title="2016 NFL playoffs and Super Bowl coverage" name="lpos=widget[social_flyout]&lid=link[fb]"><!--empty--></a>
+<a class="twitter" href="http://abcnews.go.com/Sports/2016-nfl-playoffs-super-bowl-coverage/story?id=36323149" title="2016 NFL playoffs and Super Bowl coverage" name="lpos=widget[social_flyout]&lid=link[twitter]"><!--empty--></a>
 <div class="clearboth"><!--empty--></div>
 </div>
 <div class="clearboth"><!--empty--></div>
@@ -1088,25 +1036,25 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div class="midcontainer">
 <ul>
 <li class="seo_header">HOT TOPICS:</li>
-<li><a href="http://abcnews.go.com/topics/sports/football/chip-kelly.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link1]>Chip Kelly</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/football/green-bay-packers.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link1]>Green Bay Packers</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/basketball/golden-state-warriors.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link2]>Golden State Warriors</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/football/carolina-panthers.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link2]>Carolina Panthers</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/football/san-francisco-49ers.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link3]>San Francisco 49ers</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/nba.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link3]>National Basketball Association (NBA)</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/football/new-england-patriots.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link4]>New England Patriots</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/nfl.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link4]>National Football League (NFL)</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/football/new-york-giants.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link5]>New York Giants</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/nhl.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link5]>National Hockey League (NHL)</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/nfl.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link6]>National Football League (NFL)</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/football/kansas-city-chiefs.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link6]>Kansas City Chiefs</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/nba.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link7]>National Basketball Association (NBA)</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/football/antonio-brown.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link7]>Antonio Brown</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/football/st.-louis-rams.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link8]>St. Louis Rams</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/football/roger-goodell.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link8]>Roger Goodell</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/nhl.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link9]>National Hockey League (NHL)</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/basketball/chicago-bulls.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link9]>Chicago Bulls</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/sports/ncaa-basketball.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link10]>NCAA College Basketball</a></li>
+<li><a href="http://abcnews.go.com/topics/sports/hockey/stanley-cup.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link10]>Stanley Cup</a></li>
 </ul>
 <div class="clearboth"><!-- --></div>
 </div>
@@ -1124,62 +1072,62 @@ window.heropause = 10000;//1000000; // ANIMATION PAUSE
 <div id="espn-highlight-wrapper">
 <div class="espn-highlight-item">
 <div class="highlight-thumb">
-<a href="http://espn.go.com/video/clip?id=14573989&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
-<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_nfl_steveyoung_coachingcarosel_svp/dm_160115_nfl_steveyoung_coachingcarosel_svp_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+<a href="http://espn.go.com/video/clip?id=14587647&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0117/dm_160117_nfl_ma_betting_picks/dm_160117_nfl_ma_betting_picks_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
 </a>
 </div>
 <div class="highlight-text">
 <div class="_espn"><!--partner bug--></div>
-<a href="http://espn.go.com/video/clip?id=14573989&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Coaching carousel: 49ers, Eagles, Buccaneers </a>
-<a href="http://espn.go.com/video/clip?id=14573989&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 5:53 AM</a>
+<a href="http://espn.go.com/video/clip?id=14587647&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Jeff Ma's NFL picks </a>
+<a href="http://espn.go.com/video/clip?id=14587647&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 2:17 PM</a>
 </div>
 </div>
 <div class="espn-highlight-item">
 <div class="highlight-thumb">
-<a href="http://espn.go.com/video/clip?id=14573960&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
-<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_Jay_Wright_on_SportsCenter/dm_160115_Jay_Wright_on_SportsCenter_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+<a href="http://espn.go.com/video/clip?id=14586497&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0116/dm_160116_nfl_larryfitzgerald_postgame/dm_160116_nfl_larryfitzgerald_postgame_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
 </a>
 </div>
 <div class="highlight-text">
 <div class="_espn"><!--partner bug--></div>
-<a href="http://espn.go.com/video/clip?id=14573960&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Villanova winning with teamwork </a>
-<a href="http://espn.go.com/video/clip?id=14573960&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 5:51 AM</a>
+<a href="http://espn.go.com/video/clip?id=14586497&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Fitzgerald: 'Just wanted to make a play' </a>
+<a href="http://espn.go.com/video/clip?id=14586497&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 4:51 AM</a>
 </div>
 </div>
 <div class="espn-highlight-item">
 <div class="highlight-thumb">
-<a href="http://espn.go.com/video/clip?id=14574121&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
-<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_svp_one_big_thing/dm_160115_svp_one_big_thing_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+<a href="http://espn.go.com/video/clip?id=14584578&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0116/dm_160116_SC_Chiefs_Patriots_Highlight/dm_160116_SC_Chiefs_Patriots_Highlight_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
 </a>
 </div>
 <div class="highlight-text">
 <div class="_espn"><!--partner bug--></div>
-<a href="http://espn.go.com/video/clip?id=14574121&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">SVP: 'Are you for real Wisconsin?' </a>
-<a href="http://espn.go.com/video/clip?id=14574121&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 6:19 AM</a>
+<a href="http://espn.go.com/video/clip?id=14584578&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Pats advance to fifth straight AFC title game </a>
+<a href="http://espn.go.com/video/clip?id=14584578&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 1:00 AM</a>
 </div>
 </div>
 <div class="espn-highlight-item">
 <div class="highlight-thumb">
-<a href="http://espn.go.com/video/clip?id=14573923&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
-<img src="http://media.video-cdn.espn.com/motion/2016/0115/dm_160115_ncb_dandakich_iowa_impressive/dm_160115_ncb_dandakich_iowa_impressive_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+<a href="http://espn.go.com/video/clip?id=14588301&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0117/dm_160117_nfl_latavius_murray_interview/dm_160117_nfl_latavius_murray_interview_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
 </a>
 </div>
 <div class="highlight-text">
 <div class="_espn"><!--partner bug--></div>
-<a href="http://espn.go.com/video/clip?id=14573923&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">The impressive run Iowa is on right now </a>
-<a href="http://espn.go.com/video/clip?id=14573923&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 5:25 AM</a>
+<a href="http://espn.go.com/video/clip?id=14588301&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Murray: 'We're excited to get back to work' </a>
+<a href="http://espn.go.com/video/clip?id=14588301&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">3 HOURS, 57 MINUTES AGO</a>
 </div>
 </div>
 <div class="espn-highlight-item">
 <div class="highlight-thumb">
-<a href="http://espn.go.com/video/clip?id=14572000&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
-<img src="http://media.video-cdn.espn.com/motion/2016/0114/dm_160114_schefter_on_pederson/dm_160114_schefter_on_pederson_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
+<a href="http://espn.go.com/video/clip?id=14588076&ex_cid=espnapi_internal" target="_blank" name="lpos=widget[C_1_ad_78_sectionindex]&lid=view[Image]">
+<img src="http://media.video-cdn.espn.com/motion/2016/0117/dm_160117_nfl_former_ref_coin_flip_pack_cards/dm_160117_nfl_former_ref_coin_flip_pack_cards_default.jpg" height="84" width="150" /><div class="play_icon"><!--bg --></div>
 </a>
 </div>
 <div class="highlight-text">
 <div class="_espn"><!--partner bug--></div>
-<a href="http://espn.go.com/video/clip?id=14572000&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Eagles expected to hire Doug Pederson </a>
-<a href="http://espn.go.com/video/clip?id=14572000&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">YESTERDAY, 11:16 PM</a>
+<a href="http://espn.go.com/video/clip?id=14588076&ex_cid=espnapi_internal" target="_blank" class="highlight-text-headline" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-headline]">Do Packers have right to be upset about coin toss? </a>
+<a href="http://espn.go.com/video/clip?id=14588076&ex_cid=espnapi_internal" target="_blank" class="highlight-text-date" name="lpos=widget[C_1_ad_78_sectionindex]&lid=link[espn-highlight-date]">TODAY, 4:06 PM</a>
 </div>
 </div>
 </div>
@@ -1216,54 +1164,49 @@ Sports News
 </h1>
 </div>
 <div class="ffl_wrapper">
-<div id="h_36310867" class="ffl_0" data-vr-contentbox>
+<div id="h_36344494" class="ffl_0" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/lions-coach-jim-caldwell-3rd-year-1st-gm-36310867" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_1]">Lions Keep Coach Jim Caldwell for 3rd Year, 1st With New GM<span class="metaH_timeDay">21 minutes ago</span></a>
+<a href="/Sports/wireStory/seahawks-rb-lynch-active-playoff-game-carolina-36344494" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_1]">Seahawks Dominating Action in 2nd Half, Cut Lead to 31-21<span class="metaH_timeDay">23 minutes ago</span></a>
 </div>
 </div>
-<div id="h_36310636" class="ffl_1 odd" data-vr-contentbox>
+<div id="h_36342201" class="ffl_1 odd" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/dirk-koetter-promoted-buccaneers-head-coach-36310636" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_2]">Dirk Koetter Promoted as Buccaneers New Head Coach<span class="metaH_timeDay">4 minutes ago</span></a>
+<a href="/Sports/wireStory/norways-kristoffersen-leads-1st-run-world-cup-slalom-36342201" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_2]">Kristoffersen Wins World Cup Slalom, Completes Norway Sweep<span class="metaH_timeDay">Jan 17, 2016, 10:02 AM</span></a>
 </div>
 </div>
-<div id="h_36293620" class="ffl_2" data-vr-contentbox>
+<div id="h_36340749" class="ffl_2" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/49ers-hire-chip-kelly-coach-36293620" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_3]">49ers Hire Chip Kelly as New Coach<span class="metaH_timeDay">Jan 14, 2016, 3:43 PM</span></a>
+<a href="/Sports/wireStory/rodgers-hail-mary-forces-ot-fitz-arizona-win-36340749" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_3]">Cardinals' 'Hail Larry' Trumps Rodgers' Hail Mary<span class="metaH_timeDay">Jan 17, 2016, 1:55 AM</span></a>
 </div>
 </div>
-<div id="h_36306989" class="ffl_3 odd" data-vr-contentbox>
+<div id="h_36337732" class="ffl_3 odd" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/injury-comeback-force-reboot-manning-story-line-36306989" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_4]">Injury, Comeback Force Reboot on Manning Story Line<span class="metaH_timeDay">2 hours, 29 minutes ago</span></a>
+<a href="/Sports/wireStory/patriots-5th-straight-afc-title-game-beat-chiefs-36337732" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_4]">Patriots to 5th Straight AFC Title Game, Beat Chiefs 27-20<span class="metaH_timeDay">Jan 16, 2016, 10:18 PM</span></a>
 </div>
 </div>
-<div id="h_36308717" class="ffl_4" data-vr-contentbox>
+<div id="h_36335565" class="ffl_4" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/ioc-asks-transcripts-suggesting-2020-olympic-bid-bribery-36308717" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_5]">IOC Asks for Transcripts Suggesting 2020 Olympic Bid Bribery<span class="metaH_timeDay">Jan 15, 2016, 6:30 AM</span></a>
+<a href="/Sports/wireStory/broncos-vow-make-mistake-overlook-steelers-36335565" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_5]">Broncos Vow Not to Make Same Mistake and Overlook Steelers<span class="metaH_timeDay">Jan 16, 2016, 5:02 PM</span></a>
 </div>
 </div>
-<div id="h_36306787" class="ffl_5 odd" data-vr-contentbox>
+<div id="h_36335564" class="ffl_5 odd" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/michael-phelps-discovers-true-happiness-arizona-desert-36306787" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_6]">Michael Phelps Discovers True Happiness in Arizona Desert<span class="metaH_timeDay">Jan 15, 2016, 2:34 AM</span></a>
+<a href="/Sports/wireStory/panthers-redemption-playoff-rematch-seahawks-36335564" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_6]">Panthers Look for Redemption in Playoff Rematch Vs. Seahawks<span class="metaH_timeDay">Jan 16, 2016, 5:00 PM</span></a>
 </div>
 </div>
-<div id="h_36304208" class="ffl_6" data-vr-contentbox>
+<div id="h_36347102" class="ffl_6" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/spurs-beat-cavaliers-99-95-32nd-straight-win-36304208" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_7]">Spurs Beat Cavaliers 99-95 for 32nd Straight Win at Home<span class="metaH_timeDay">Jan 15, 2016, 1:04 AM</span></a>
+<a href="/Sports/wireStory/sessions-foul-shot-lifts-south-carolina-59-58-36347102" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_7]">Sessions' Foul Shot Lifts No. 2 South Carolina to 59-58 Win<span class="metaH_timeDay">14 minutes ago</span></a>
 </div>
 </div>
-<div id="h_36306403" class="ffl_7 odd" data-vr-contentbox>
+<div id="h_36339903" class="ffl_7 odd" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/curry-warriors-spoil-kobes-farewell-oakland-116-98-36306403" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_8]">Curry, Warriors Spoil Kobe's Farewell in Oakland, 116-98<span class="metaH_timeDay">Jan 15, 2016, 2:15 AM</span></a>
+<a href="/Sports/wireStory/snedeker-blair-tied-lead-sony-open-36339903" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_8]">Snedeker, Blair Tied for Lead at Sony Open<span class="metaH_timeDay">Jan 16, 2016, 11:58 PM</span></a>
 </div>
 </div>
-<div id="h_36297375" class="ffl_8" data-vr-contentbox>
+<div id="h_36339970" class="ffl_8 last" data-vr-contentbox>
 <div class="h">
-<a href="/Sports/wireStory/japan-honors-hank-aaron-order-rising-sun-36297375" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_9]">Japan Honors Hank Aaron With Order of the Rising Sun<span class="metaH_timeDay">2 hours, 58 minutes ago</span></a>
-</div>
-</div>
-<div id="h_36302277" class="ffl_9 odd last" data-vr-contentbox>
-<div class="h">
-<a href="/Sports/wireStory/16-iowa-routs-michigan-state-76-59-sweeps-36302277" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_10]">No. 16 Iowa Routs No. 4 Michigan State 76-59, Sweeps Series<span class="metaH_timeDay">Jan 14, 2016, 10:11 PM</span></a>
+<a href="/Sports/wireStory/american-pharoah-unanimous-pick-horse-year-36339970" name="lpos=widget[A_1_freeformlite_78_sectionindex]&lid=link[Headline_9]">American Pharoah Unanimous Pick as Horse of the Year<span class="metaH_timeDay">Jan 16, 2016, 10:58 PM</span></a>
 </div>
 </div>
 <div class="clearboth"><!-- --></div></div>
@@ -1322,68 +1265,70 @@ More Coverage
 <div id="tweet-wrapper">
 <div class="tweet-item">
 <div class="twitter-avatar">
-<a href="http://twitter.com/NBA" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
-<img src="http://pbs.twimg.com/profile_images/664807873713725440/r8ZAg5lD_normal.jpg" height="48" width="48" />
+<a href="http://twitter.com/joshweinfuss" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/593569753769312256/NVsqXnbM_normal.jpg" height="48" width="48" />
 </a>
 </div>
 <div class="twitter-full-name">
-<a href="http://twitter.com/NBA" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
-NBA
+<a href="http://twitter.com/joshweinfuss" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+Josh Weinfuss
 </a>
 </div>
 <div class="twitter-text">
-Just how the <a href="http://twitter.com/MemGrizz" class="espn_twitter" target="_blank" name="lid=link[twitter]">@MemGrizz</a> drew it up... maybe not! <a href="https://t.co/qRflT2M7T4" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/qRflT2M7T4</a>
+<a href="http://twitter.com/search?q=%23AZCardinals" class="espn_twitter" target="_blank" name="lid=link[twitter]">#AZCardinals</a> will travel to the Carolina Panthers next Sunday for the NFC Championship Game at 6:40 p.m. ET.
 </div>
-<div class="twitter-time">4 minutes ago</div>
+<div class="twitter-time">1 minute ago</div>
 </div>
 <div class="tweet-item">
 <div class="twitter-avatar">
-<a href="http://twitter.com/ATPWorldTour" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
-<img src="http://pbs.twimg.com/profile_images/463326791331872768/oEpzYH97_normal.jpeg" height="48" width="48" />
+<a href="http://twitter.com/Kenny_Mayne" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/472009792375255041/lqqEfvYG_normal.jpeg" height="48" width="48" />
 </a>
 </div>
 <div class="twitter-full-name">
-<a href="http://twitter.com/ATPWorldTour" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
-ATP World Tour
+<a href="http://twitter.com/Kenny_Mayne" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+Kenny Mayne
 </a>
 </div>
 <div class="twitter-text">
-.<a href="http://twitter.com/milosraonic" class="espn_twitter" target="_blank" name="lid=link[twitter]">@milosraonic</a> will represent Team Canada in the <a href="http://twitter.com/NBA" class="espn_twitter" target="_blank" name="lid=link[twitter]">@NBA</a> All Star Celebrity Game. More: <a href="https://t.co/vnkvIRqtj0" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/vnkvIRqtj0</a> <a href="https://t.co/PIHFcI1gbP" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/PIHFcI1gbP</a>
+Good fight <a href="http://twitter.com/Seahawks" class="espn_twitter" target="_blank" name="lid=link[twitter]">@Seahawks</a>
+Good win <a href="http://twitter.com/Panthers" class="espn_twitter" target="_blank" name="lid=link[twitter]">@Panthers</a>
+IOU <a href="http://twitter.com/StephenCurry30" class="espn_twitter" target="_blank" name="lid=link[twitter]">@StephenCurry30</a>
 </div>
-<div class="twitter-time">4 minutes ago</div>
+<div class="twitter-time">1 minute ago</div>
 </div>
 <div class="tweet-item">
 <div class="twitter-avatar">
-<a href="http://twitter.com/AdamSchefter" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
-<img src="http://pbs.twimg.com/profile_images/661060211432669184/F_uJpo-9_normal.jpg" height="48" width="48" />
+<a href="http://twitter.com/RealSkipBayless" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/517277915344420865/dvLejCYR_normal.jpeg" height="48" width="48" />
 </a>
 </div>
 <div class="twitter-full-name">
-<a href="http://twitter.com/AdamSchefter" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
-Adam Schefter
+<a href="http://twitter.com/RealSkipBayless" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+Skip Bayless
 </a>
 </div>
 <div class="twitter-text">
-Adam "Pacman" Jones apology in 3...2...
+My respect only rises for Russell Wilson. Made one big early pick-six mistake. Then put on a comeback show.
 </div>
-<div class="twitter-time">5 minutes ago</div>
+<div class="twitter-time">2 minutes ago</div>
 </div>
 <div class="tweet-item">
 <div class="twitter-avatar">
-<a href="http://twitter.com/Giants" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
-<img src="http://pbs.twimg.com/profile_images/663792326158868481/QRMnemUy_normal.jpg" height="48" width="48" />
+<a href="http://twitter.com/espn" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=view[Image]">
+<img src="http://pbs.twimg.com/profile_images/629351437676511232/PnAYQDx8_normal.png" height="48" width="48" />
 </a>
 </div>
 <div class="twitter-full-name">
-<a href="http://twitter.com/Giants" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
-New York Giants
+<a href="http://twitter.com/espn" name="lpos=widget[A_2_freeformlite_78_sectionindex]&lid=link[twitterName]">
+ESPN
 </a>
 </div>
 <div class="twitter-text">
-Will the <a href="http://twitter.com/search?q=%23Giants" class="espn_twitter" target="_blank" name="lid=link[twitter]">#Giants</a> offense remain relatively the same following the Ben McAdoo hire?
-&<a href="http://twitter.com/search?q=%23127909" class="espn_twitter" target="_blank" name="lid=link[twitter]">#127909</a>; | <a href="https://t.co/r7VHqw1bYd" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/r7VHqw1bYd</a> <a href="https://t.co/vGhQw9eCpq" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/vGhQw9eCpq</a>
+Changing of the guard!
+Carolina upends 2-time defending NFC champ Seattle to advance to the conference title game. <a href="https://t.co/EzrPdcayVP" class="espn_twitter" target="_blank" name="lpos=&lid=link[twitter]">https://t.co/EzrPdcayVP</a>
 </div>
-<div class="twitter-time">4 minutes ago</div>
+<div class="twitter-time">2 minutes ago</div>
 </div>
 </div>
 </div>

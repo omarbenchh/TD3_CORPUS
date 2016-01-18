@@ -13,7 +13,7 @@
 <link href="/bitrix/templates/main/template_styles.css?144420797943667" type="text/css"  data-template-style="true"  rel="stylesheet" />
 <script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
 <script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
-<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'14400','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1452869835','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'04de6e4e2a5ea1c439c7dfe00fea676b'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'14400','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1453066788','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'2e14c5509f9ac708a0cf0dcf1e98a578'});</script>
 
 
 <script type="text/javascript" src="/bitrix/cache/js/s1/main/kernel_main/kernel_main.js?1441923253249032"></script>
@@ -142,14 +142,14 @@ var yaParams = {/*Здесь параметры визита*/};
 				<div class="day_news"> 
 	<div class="left_day_news"><div class="right_day_news"><div class="day_news_in">Новость дня</div></div></div> 
 <div class="work_field">
-    <p><a href="/news/news116010.html">Власти Швейцарии отбирают деньги у мигрантов</a></p>
+    <p><a href="/news/news116019.html">Лифтовые компании проверят в Ижевске</a></p>
 </div>
 
 				</div> 
 			</div>
 			<div class="date_first_menu_field">
 				<div class="date">
-                                15 Января 2016 г.				</div>
+                                18 Января 2016 г.				</div>
 				<div style="clear: both"></div>
 				<div class="second_menu" id="sadasd">
 
@@ -317,106 +317,106 @@ s.parentNode.insertBefore(hcc, s.nextSibling);
 	<tr>
 		<td>
 			<div class="cloud">
-	        <a href="/tag/tag85388.html" class="c4" id="bx_3218110189_35388">физкультура</a>
-	        <a href="/tag/tag24.html" class="c1" id="bx_3218110189_755">Удмуртия</a>
-	        <a href="/tag/tag17.html" class="c5" id="bx_3218110189_748">Голливуд</a>
-	        <a href="/tag/tag5.html" class="c1" id="bx_3218110189_736">Ижевск</a>
+	        <a href="/tag/tag172.html" class="c5" id="bx_3218110189_899">занятость</a>
+	        <a href="/tag/tag223.html" class="c3" id="bx_3218110189_949">полиция</a>
+	        <a href="/tag/tag122.html" class="c5" id="bx_3218110189_851">промышленность</a>
+	        <a href="/tag/tag182.html" class="c5" id="bx_3218110189_909">недвижимость</a>
+	        <a href="/tag/tag22.html" class="c3" id="bx_3218110189_753">Глазов</a>
+	        <a href="/tag/tag50.html" class="c4" id="bx_3218110189_781">депутат</a>
+	        <a href="/tag/tag161.html" class="c3" id="bx_3218110189_888">убийство</a>
+	        <a href="/tag/tag102.html" class="c3" id="bx_3218110189_834">алкоголь</a>
+	        <a href="/tag/tag42.html" class="c3" id="bx_3218110189_773">ГИБДД</a>
+	        <a href="/tag/tag90.html" class="c5" id="bx_3218110189_821">туризм</a>
+	        <a href="/tag/tag19.html" class="c3" id="bx_3218110189_750">финансы</a>
+	        <a href="/tag/tag103.html" class="c5" id="bx_3218110189_835">пенсия</a>
+	        <a href="/tag/tag208.html" class="c4" id="bx_3218110189_935">мода</a>
+	        <a href="/tag/tag87.html" class="c4" id="bx_3218110189_818">строительство</a>
+	        <a href="/tag/tag77.html" class="c5" id="bx_3218110189_808">ГЖД</a>
+	        <a href="/tag/tag196.html" class="c4" id="bx_3218110189_923">кино</a>
 	        <a href="/tag/tag74.html" class="c4" id="bx_3218110189_805">молодежь</a>
-	        <a href="/tag/tag86.html" class="c4" id="bx_3218110189_817">фестиваль</a>
+	        <a href="/tag/tag2.html" class="c5" id="bx_3218110189_4">траур</a>
+	        <a href="/tag/tag3.html" class="c5" id="bx_3218110189_734">Владимир Путин</a>
+	        <a href="/tag/tag15.html" class="c4" id="bx_3218110189_746">телевидение</a>
+	        <a href="/tag/tag66.html" class="c4" id="bx_3218110189_797">Малая Пурга</a>
+	        <a href="/tag/tag63.html" class="c5" id="bx_3218110189_794">Ува</a>
+	        <a href="/tag/tag4.html" class="c3" id="bx_3218110189_735">Александр Волков</a>
+	        <a href="/tag/tag105.html" class="c5" id="bx_3218110189_837">хоккей</a>
+	        <a href="/tag/tag100.html" class="c4" id="bx_3218110189_832">оружие</a>
+	        <a href="/tag/tag136.html" class="c3" id="bx_3218110189_864">музыка</a>
+	        <a href="/tag/tag38.html" class="c5" id="bx_3218110189_769">штраф</a>
+	        <a href="/tag/tag17.html" class="c5" id="bx_3218110189_748">Голливуд</a>
+	        <a href="/tag/tag29.html" class="c5" id="bx_3218110189_760">ИжГТУ</a>
+	        <a href="/tag/tag8.html" class="c5" id="bx_3218110189_739">правительство</a>
+	        <a href="/tag/tag39.html" class="c5" id="bx_3218110189_770">самолет</a>
+	        <a href="/tag/tag141.html" class="c5" id="bx_3218110189_869">технологии</a>
+	        <a href="/tag/tag121.html" class="c5" id="bx_3218110189_850">ветеран</a>
+	        <a href="/tag/tag7.html" class="c3" id="bx_3218110189_738">дороги</a>
+	        <a href="/tag/tag79.html" class="c3" id="bx_3218110189_810">конкурс</a>
+	        <a href="/tag/tag64.html" class="c4" id="bx_3218110189_795">Завьялово</a>
+	        <a href="/tag/tag40.html" class="c4" id="bx_3218110189_771">выборы</a>
+	        <a href="/tag/tag127.html" class="c5" id="bx_3218110189_855">биатлон</a>
+	        <a href="/tag/tag9.html" class="c2" id="bx_3218110189_740">праздник</a>
+	        <a href="/tag/tag10.html" class="c4" id="bx_3218110189_741">образование</a>
+	        <a href="/tag/tag13.html" class="c1" id="bx_3218110189_744">звезда</a>
+	        <a href="/tag/tag98.html" class="c5" id="bx_3218110189_830">долг</a>
+	        <a href="/tag/tag229.html" class="c3" id="bx_3218110189_955">медицина</a>
+	        <a href="/tag/tag44.html" class="c4" id="bx_3218110189_775">США</a>
+	        <a href="/tag/tag28.html" class="c3" id="bx_3218110189_759">Россия</a>
+	        <a href="/tag/tag89.html" class="c4" id="bx_3218110189_820">футбол</a>
+	        <a href="/tag/tag14.html" class="c3" id="bx_3218110189_745">Интернет</a>
+	        <a href="/tag/tag27.html" class="c3" id="bx_3218110189_758">прокуратура</a>
+	        <a href="/tag/tag128.html" class="c5" id="bx_3218110189_856">экология</a>
+	        <a href="/tag/tag16.html" class="c3" id="bx_3218110189_747">Москва</a>
+	        <a href="/tag/tag91.html" class="c4" id="bx_3218110189_822">религия</a>
+	        <a href="/tag/tag93.html" class="c4" id="bx_3218110189_824">видео</a>
+	        <a href="/tag/tag33.html" class="c4" id="bx_3218110189_764">торговля</a>
+	        <a href="/tag/tag94.html" class="c4" id="bx_3218110189_825">погода</a>
+	        <a href="/tag/tag5.html" class="c1" id="bx_3218110189_736">Ижевск</a>
+	        <a href="/tag/tag51.html" class="c3" id="bx_3218110189_782">Воткинск</a>
+	        <a href="/tag/tag83.html" class="c4" id="bx_3218110189_814">наркотики</a>
+	        <a href="/tag/tag25.html" class="c3" id="bx_3218110189_756">МЧС</a>
+	        <a href="/tag/tag137.html" class="c3" id="bx_3218110189_865">творчество</a>
+	        <a href="/tag/tag53.html" class="c5" id="bx_3218110189_784">Балезино</a>
+	        <a href="/tag/tag109.html" class="c5" id="bx_3218110189_840">банк</a>
+	        <a href="/tag/tag21.html" class="c1" id="bx_3218110189_752">дети</a>
+	        <a href="/tag/tag131.html" class="c5" id="bx_3218110189_859">природа</a>
 	        <a href="/tag/tag97.html" class="c4" id="bx_3218110189_829">ремонт</a>
 	        <a href="/tag/tag73.html" class="c3" id="bx_3218110189_804">Сарапул</a>
-	        <a href="/tag/tag27.html" class="c3" id="bx_3218110189_758">прокуратура</a>
-	        <a href="/tag/tag16.html" class="c3" id="bx_3218110189_747">Москва</a>
-	        <a href="/tag/tag94.html" class="c4" id="bx_3218110189_825">погода</a>
-	        <a href="/tag/tag39.html" class="c5" id="bx_3218110189_770">самолет</a>
-	        <a href="/tag/tag13.html" class="c1" id="bx_3218110189_744">звезда</a>
-	        <a href="/tag/tag3.html" class="c5" id="bx_3218110189_734">Владимир Путин</a>
-	        <a href="/tag/tag64.html" class="c4" id="bx_3218110189_795">Завьялово</a>
-	        <a href="/tag/tag28.html" class="c3" id="bx_3218110189_759">Россия</a>
-	        <a href="/tag/tag57.html" class="c5" id="bx_3218110189_788">Игра</a>
-	        <a href="/tag/tag172.html" class="c5" id="bx_3218110189_899">занятость</a>
-	        <a href="/tag/tag229.html" class="c3" id="bx_3218110189_955">медицина</a>
-	        <a href="/tag/tag48.html" class="c2" id="bx_3218110189_779">МВД</a>
-	        <a href="/tag/tag40.html" class="c4" id="bx_3218110189_771">выборы</a>
-	        <a href="/tag/tag77.html" class="c5" id="bx_3218110189_808">ГЖД</a>
-	        <a href="/tag/tag20.html" class="c4" id="bx_3218110189_751">СМИ</a>
-	        <a href="/tag/tag105.html" class="c5" id="bx_3218110189_837">хоккей</a>
-	        <a href="/tag/tag23.html" class="c2" id="bx_3218110189_754">транспорт</a>
-	        <a href="/tag/tag6.html" class="c5" id="bx_3218110189_737">Дмитрий Медведев</a>
-	        <a href="/tag/tag4.html" class="c3" id="bx_3218110189_735">Александр Волков</a>
-	        <a href="/tag/tag47.html" class="c5" id="bx_3218110189_778">Украина</a>
-	        <a href="/tag/tag93.html" class="c4" id="bx_3218110189_824">видео</a>
-	        <a href="/tag/tag100.html" class="c4" id="bx_3218110189_832">оружие</a>
-	        <a href="/tag/tag89.html" class="c4" id="bx_3218110189_820">футбол</a>
-	        <a href="/tag/tag98.html" class="c5" id="bx_3218110189_830">долг</a>
-	        <a href="/tag/tag45.html" class="c1" id="bx_3218110189_776">преступление</a>
-	        <a href="/tag/tag38.html" class="c5" id="bx_3218110189_769">штраф</a>
-	        <a href="/tag/tag21.html" class="c1" id="bx_3218110189_752">дети</a>
-	        <a href="/tag/tag79.html" class="c3" id="bx_3218110189_810">конкурс</a>
-	        <a href="/tag/tag63.html" class="c5" id="bx_3218110189_794">Ува</a>
-	        <a href="/tag/tag121.html" class="c5" id="bx_3218110189_850">ветеран</a>
-	        <a href="/tag/tag102.html" class="c3" id="bx_3218110189_834">алкоголь</a>
-	        <a href="/tag/tag49.html" class="c4" id="bx_3218110189_780">СКП</a>
-	        <a href="/tag/tag161.html" class="c3" id="bx_3218110189_888">убийство</a>
-	        <a href="/tag/tag87.html" class="c4" id="bx_3218110189_818">строительство</a>
 	        <a href="/tag/tag111.html" class="c5" id="bx_3218110189_841">лес</a>
-	        <a href="/tag/tag26.html" class="c2" id="bx_3218110189_757">пожар</a>
-	        <a href="/tag/tag127.html" class="c5" id="bx_3218110189_855">биатлон</a>
-	        <a href="/tag/tag15.html" class="c4" id="bx_3218110189_746">телевидение</a>
-	        <a href="/tag/tag103.html" class="c5" id="bx_3218110189_835">пенсия</a>
 	        <a href="/tag/tag41.html" class="c1" id="bx_3218110189_772">здоровье</a>
-	        <a href="/tag/tag42.html" class="c3" id="bx_3218110189_773">ГИБДД</a>
-	        <a href="/tag/tag33.html" class="c4" id="bx_3218110189_764">торговля</a>
-	        <a href="/tag/tag31.html" class="c5" id="bx_3218110189_762">армия</a>
-	        <a href="/tag/tag223.html" class="c3" id="bx_3218110189_949">полиция</a>
-	        <a href="/tag/tag90.html" class="c5" id="bx_3218110189_821">туризм</a>
-	        <a href="/tag/tag128.html" class="c5" id="bx_3218110189_856">экология</a>
+	        <a href="/tag/tag147.html" class="c3" id="bx_3218110189_874">суд</a>
+	        <a href="/tag/tag85388.html" class="c4" id="bx_3218110189_35388">физкультура</a>
+	        <a href="/tag/tag12.html" class="c4" id="bx_3218110189_743">Можга</a>
+	        <a href="/tag/tag26.html" class="c2" id="bx_3218110189_757">пожар</a>
 	        <a href="/tag/tag1.html" class="c1" id="bx_3218110189_733">ДТП</a>
-	        <a href="/tag/tag66.html" class="c4" id="bx_3218110189_797">Малая Пурга</a>
-	        <a href="/tag/tag14.html" class="c3" id="bx_3218110189_745">Интернет</a>
-	        <a href="/tag/tag178.html" class="c4" id="bx_3218110189_905">животные</a>
-	        <a href="/tag/tag131.html" class="c5" id="bx_3218110189_859">природа</a>
-	        <a href="/tag/tag137.html" class="c3" id="bx_3218110189_865">творчество</a>
-	        <a href="/tag/tag196.html" class="c4" id="bx_3218110189_923">кино</a>
-	        <a href="/tag/tag104.html" class="c5" id="bx_3218110189_836">сельское хозяйство</a>
-	        <a href="/tag/tag36.html" class="c4" id="bx_3218110189_767">ЖКХ</a>
-	        <a href="/tag/tag53.html" class="c5" id="bx_3218110189_784">Балезино</a>
-	        <a href="/tag/tag10.html" class="c4" id="bx_3218110189_741">образование</a>
-	        <a href="/tag/tag194.html" class="c4" id="bx_3218110189_921">вода</a>
-	        <a href="/tag/tag51.html" class="c3" id="bx_3218110189_782">Воткинск</a>
+	        <a href="/tag/tag45.html" class="c1" id="bx_3218110189_776">преступление</a>
 	        <a href="/tag/tag88.html" class="c2" id="bx_3218110189_819">семья</a>
-	        <a href="/tag/tag182.html" class="c5" id="bx_3218110189_909">недвижимость</a>
+	        <a href="/tag/tag18.html" class="c4" id="bx_3218110189_749">рейтинг</a>
+	        <a href="/tag/tag104.html" class="c5" id="bx_3218110189_836">сельское хозяйство</a>
+	        <a href="/tag/tag24.html" class="c1" id="bx_3218110189_755">Удмуртия</a>
+	        <a href="/tag/tag23.html" class="c2" id="bx_3218110189_754">транспорт</a>
+	        <a href="/tag/tag78.html" class="c3" id="bx_3218110189_809">безопасность</a>
 	        <a href="/tag/tag30.html" class="c4" id="bx_3218110189_761">выставка</a>
-	        <a href="/tag/tag8.html" class="c5" id="bx_3218110189_739">правительство</a>
-	        <a href="/tag/tag114.html" class="c3" id="bx_3218110189_843">школа</a>
-	        <a href="/tag/tag122.html" class="c5" id="bx_3218110189_851">промышленность</a>
-	        <a href="/tag/tag83.html" class="c4" id="bx_3218110189_814">наркотики</a>
-	        <a href="/tag/tag9.html" class="c2" id="bx_3218110189_740">праздник</a>
+	        <a href="/tag/tag49.html" class="c4" id="bx_3218110189_780">СКП</a>
+	        <a href="/tag/tag101.html" class="c4" id="bx_3218110189_833">бизнес</a>
+	        <a href="/tag/tag48.html" class="c2" id="bx_3218110189_779">МВД</a>
+	        <a href="/tag/tag178.html" class="c4" id="bx_3218110189_905">животные</a>
+	        <a href="/tag/tag6.html" class="c5" id="bx_3218110189_737">Дмитрий Медведев</a>
 	        <a href="/tag/tag76.html" class="c4" id="bx_3218110189_807">Госсовет УР</a>
-	        <a href="/tag/tag208.html" class="c4" id="bx_3218110189_935">мода</a>
-	        <a href="/tag/tag134.html" class="c5" id="bx_3218110189_862">Ижмаш</a>
+	        <a href="/tag/tag86.html" class="c4" id="bx_3218110189_817">фестиваль</a>
+	        <a href="/tag/tag201.html" class="c4" id="bx_3218110189_928">Новый год/Рождество</a>
+	        <a href="/tag/tag36.html" class="c4" id="bx_3218110189_767">ЖКХ</a>
+	        <a href="/tag/tag20.html" class="c4" id="bx_3218110189_751">СМИ</a>
 	        <a href="/tag/tag112.html" class="c4" id="bx_3218110189_842">свадьба</a>
 	        <a href="/tag/tag107.html" class="c5" id="bx_3218110189_838">инвалид</a>
-	        <a href="/tag/tag25.html" class="c3" id="bx_3218110189_756">МЧС</a>
-	        <a href="/tag/tag147.html" class="c3" id="bx_3218110189_874">суд</a>
-	        <a href="/tag/tag101.html" class="c4" id="bx_3218110189_833">бизнес</a>
-	        <a href="/tag/tag50.html" class="c4" id="bx_3218110189_781">депутат</a>
-	        <a href="/tag/tag91.html" class="c4" id="bx_3218110189_822">религия</a>
-	        <a href="/tag/tag19.html" class="c3" id="bx_3218110189_750">финансы</a>
 	        <a href="/tag/tag11.html" class="c5" id="bx_3218110189_742">зоопарк</a>
-	        <a href="/tag/tag29.html" class="c5" id="bx_3218110189_760">ИжГТУ</a>
-	        <a href="/tag/tag141.html" class="c5" id="bx_3218110189_869">технологии</a>
-	        <a href="/tag/tag7.html" class="c3" id="bx_3218110189_738">дороги</a>
-	        <a href="/tag/tag201.html" class="c4" id="bx_3218110189_928">Новый год/Рождество</a>
-	        <a href="/tag/tag22.html" class="c3" id="bx_3218110189_753">Глазов</a>
-	        <a href="/tag/tag136.html" class="c3" id="bx_3218110189_864">музыка</a>
-	        <a href="/tag/tag2.html" class="c5" id="bx_3218110189_4">траур</a>
-	        <a href="/tag/tag78.html" class="c3" id="bx_3218110189_809">безопасность</a>
-	        <a href="/tag/tag18.html" class="c4" id="bx_3218110189_749">рейтинг</a>
-	        <a href="/tag/tag12.html" class="c4" id="bx_3218110189_743">Можга</a>
-	        <a href="/tag/tag44.html" class="c4" id="bx_3218110189_775">США</a>
+	        <a href="/tag/tag31.html" class="c5" id="bx_3218110189_762">армия</a>
+	        <a href="/tag/tag194.html" class="c4" id="bx_3218110189_921">вода</a>
+	        <a href="/tag/tag57.html" class="c5" id="bx_3218110189_788">Игра</a>
+	        <a href="/tag/tag47.html" class="c5" id="bx_3218110189_778">Украина</a>
+	        <a href="/tag/tag134.html" class="c5" id="bx_3218110189_862">Ижмаш</a>
+	        <a href="/tag/tag114.html" class="c3" id="bx_3218110189_843">школа</a>
 	        <a href="/tag/tag108.html" class="c5" id="bx_3218110189_839">Ижавто</a>
-	        <a href="/tag/tag109.html" class="c5" id="bx_3218110189_840">банк</a>
 
 <!--254759508798-->
 						<br/>
@@ -480,12 +480,12 @@ s.parentNode.insertBefore(hcc, s.nextSibling);
                                                     </div>
                                                     <div id="newsRead" style="display:none;" class="discussion_block">
                                                         <div class="opis">
-	        <p id="bx_506359954_65990"><a href="/news/news115990.html">Полицейского стажера изнасиловали в борделе для мазохистов (8579)</a></p>
-	        <p id="bx_506359954_65982"><a href="/news/news115982.html">Девочке, потерявшей родителей в ДТП 31 декабря 2015, нужна помощь (3757)</a></p>
-	        <p id="bx_506359954_66009"><a href="/news/news116009.html">Ограбление на миллиард рублей произошло в Промсвязьбанке в Санкт-Петербурге (2459)</a></p>
-	        <p id="bx_506359954_66004"><a href="/news/news116004.html">В Ижевске замечена новейшая LADA X-Ray  (1695)</a></p>
-	        <p id="bx_506359954_65955"><a href="/news/news115955.html">ДТП с участием 4 машин произошло в Ижевске (1546)</a></p>
-	        <p id="bx_506359954_65953"><a href="/news/news115953.html">На Можгинском тракте перевернулся автомобиль (1461)</a></p>
+	        <p id="bx_506359954_65990"><a href="/news/news115990.html">Полицейского стажера изнасиловали в борделе для мазохистов (8901)</a></p>
+	        <p id="bx_506359954_65982"><a href="/news/news115982.html">Девочке, потерявшей родителей в ДТП 31 декабря 2015, нужна помощь (4932)</a></p>
+	        <p id="bx_506359954_66009"><a href="/news/news116009.html">Ограбление на миллиард рублей произошло в Промсвязьбанке в Санкт-Петербурге (3403)</a></p>
+	        <p id="bx_506359954_66004"><a href="/news/news116004.html">В Ижевске замечена новейшая LADA X-Ray  (2533)</a></p>
+	        <p id="bx_506359954_65955"><a href="/news/news115955.html">ДТП с участием 4 машин произошло в Ижевске (1835)</a></p>
+	        <p id="bx_506359954_65989"><a href="/news/news115989.html">32 человека пострадали в Удмуртии, катаясь на тюбингах (1534)</a></p>
                                                         </div>
                                                     </div>
                                                     <noindex><a href="http://clck.yandex.ru/redir/dtype=stred/pid=7/cid=1228/*http://pogoda.yandex.ru/izhevsk"><img src="http://info.weather.yandex.net/izhevsk/2.ru.png" border="0" alt="Яндекс.Погода"/><img width="1" height="1" src="http://clck.yandex.ru/click/dtype=stred/pid=7/cid=1227/*http://img.yandex.ru/i/pix.gif" alt="" border="0"/></a></noindex>

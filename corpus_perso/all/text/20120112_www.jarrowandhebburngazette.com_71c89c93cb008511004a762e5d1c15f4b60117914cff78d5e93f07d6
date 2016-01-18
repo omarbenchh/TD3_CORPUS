@@ -193,7 +193,7 @@
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="top" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -207,7 +207,7 @@
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="oop" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -907,7 +907,7 @@
 					
 				
 																<ul class="info cld flt-l fnt-13" aria-label="social links and weather">
-					<li class="flt-l first" title="Today's date" aria-haspopup="true">15/01/16</li>
+					<li class="flt-l first" title="Today's date" aria-haspopup="true">17/01/16</li>
 					
                   
     
@@ -917,8 +917,8 @@
 		    				
 
 <li class="flt-l">	
-	<span class='ico-weather ico-sunny'><a  class="show-weather-popup" href="#" title="5 day forecast">
-		-2&deg;C to 3&deg;C Sunny
+	<span class='ico-weather ico-sunny_spells'><a  class="show-weather-popup" href="#" title="5 day forecast">
+		0&deg;C to 1&deg;C Sunny spells
 	</a></span>
 </li>  
 <div id="weather-lightbox" class="whyregister-lightbox dis-n">
@@ -926,54 +926,6 @@
 			<h3>South Shields 5-day weather forecast</h3>
 			<a href="" class="close" title="close">Close<b>X</b></a>
 		</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Friday
-					<span class="day-month">15 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny</p>
-  <div class='wico-weather wico-sunny'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">3&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-2&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">West</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">18 mph</span>
-  </p>
-
-			</div>
-					<div class="weatherColLeft">
-				<p class="weekday weekDay flt-l">Saturday
-					<span class="day-month">16 Jan</span>
-				</p>
-				  <p class="weatherOutlookHeading">Sunny</p>
-  <div class='wico-weather wico-sunny'>
-  </div>
-  <p class="weekDay">Temp</p>
-  <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
-  </p> 
-  <p class="greycolor weatherParam">Low
-    <span class="day-month">-3&deg;c</span>
-  </p>
-
-  <p class="weekDay">Wind</p>
-  <p class="greycolor weatherParam">From
-    <span class="day-month">West</span>
-  </p>
-  <p class="greycolor weatherParam">Speed
-    <span class="day-month">7 mph</span>
-  </p>
-
-			</div>
 					<div class="weatherColLeft">
 				<p class="weekday weekDay flt-l">Sunday
 					<span class="day-month">17 Jan</span>
@@ -983,10 +935,10 @@
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">2&deg;c</span>
+    <span class="day-month">1&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">0&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
@@ -1002,15 +954,15 @@
 				<p class="weekday weekDay flt-l">Monday
 					<span class="day-month">18 Jan</span>
 				</p>
-				  <p class="weatherOutlookHeading">Sunny spells</p>
-  <div class='wico-weather wico-sunny_spells'>
+				  <p class="weatherOutlookHeading">Cloudy</p>
+  <div class='wico-weather wico-cloudy'>
   </div>
   <p class="weekDay">Temp</p>
   <p class="greycolor weatherParam">High
-    <span class="day-month">3&deg;c</span>
+    <span class="day-month">4&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
-    <span class="day-month">-1&deg;c</span>
+    <span class="day-month">0&deg;c</span>
   </p>
 
   <p class="weekDay">Wind</p>
@@ -1018,7 +970,7 @@
     <span class="day-month">South</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">6 mph</span>
+    <span class="day-month">5 mph</span>
   </p>
 
 			</div>
@@ -1034,6 +986,54 @@
     <span class="day-month">4&deg;c</span>
   </p> 
   <p class="greycolor weatherParam">Low
+    <span class="day-month">-4&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">North</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">3 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Wednesday
+					<span class="day-month">20 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">2&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
+    <span class="day-month">-4&deg;c</span>
+  </p>
+
+  <p class="weekDay">Wind</p>
+  <p class="greycolor weatherParam">From
+    <span class="day-month">South west</span>
+  </p>
+  <p class="greycolor weatherParam">Speed
+    <span class="day-month">1 mph</span>
+  </p>
+
+			</div>
+					<div class="weatherColLeft">
+				<p class="weekday weekDay flt-l">Thursday
+					<span class="day-month">21 Jan</span>
+				</p>
+				  <p class="weatherOutlookHeading">Sunny spells</p>
+  <div class='wico-weather wico-sunny_spells'>
+  </div>
+  <p class="weekDay">Temp</p>
+  <p class="greycolor weatherParam">High
+    <span class="day-month">2&deg;c</span>
+  </p> 
+  <p class="greycolor weatherParam">Low
     <span class="day-month">0&deg;c</span>
   </p>
 
@@ -1042,7 +1042,7 @@
     <span class="day-month">South</span>
   </p>
   <p class="greycolor weatherParam">Speed
-    <span class="day-month">2 mph</span>
+    <span class="day-month">8 mph</span>
   </p>
 
 			</div>
@@ -1433,7 +1433,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="mpu1,artmpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1445,7 +1445,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="2x1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1486,7 +1486,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="mpu4,artmpu4" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1498,7 +1498,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="mpu2,artmpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1510,7 +1510,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="mpu3,artmpu3" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1648,7 +1648,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="mpu1" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -1896,7 +1896,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="mpu2" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					
@@ -2001,40 +2001,26 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.shieldsgazette.com/news/crime/65-year-old-man-given-police-caution-after-sparking-armed-response-in-south-shields-1-7677919 title="A major police response was scrambled to Chichester Road on Wednesday morning" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677917!/image/1454575199.jpg_gen/derivatives/articleWidgetDeriv_140px/1454575199.jpg" alt="A major police response was scrambled to Chichester Road on Wednesday morning"></a>
+				<a href=http://www.shieldsgazette.com/news/football-fans-pay-tribute-to-loyal-newcastle-united-supporter-cliffy-ahmed-after-his-death-1-7679903 title="Newcastle United fan Cliffy Ahmed" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679902!/image/360782557.jpg_gen/derivatives/articleWidgetDeriv_140px/360782557.jpg" alt="Newcastle United fan Cliffy Ahmed"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.shieldsgazette.com/news/crime/65-year-old-man-given-police-caution-after-sparking-armed-response-in-south-shields-1-7677919 title="65-year-old man given police caution - after sparking armed response in South Shields">65-year-old man given police caution - after sparking armed response in South Shields</a>
+					<a href=http://www.shieldsgazette.com/news/football-fans-pay-tribute-to-loyal-newcastle-united-supporter-cliffy-ahmed-after-his-death-1-7679903 title="Football fans pay tribute to loyal Newcastle United supporter Cliffy Ahmed after his death">Football fans pay tribute to loyal Newcastle United supporter Cliffy Ahmed after his death</a>
 				</h3>
-				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news/crime" title="Crime">Crime</a></div>
+				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news" title="News">News</a></div>
 			</div>
 			</article>
 		</li>
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.shieldsgazette.com/news/local-news/road-ban-for-shandy-drinker-who-blamed-order-mix-up-after-being-caught-over-the-limit-1-7677148 title="." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677175!/image/3880364586.jpg_gen/derivatives/articleWidgetDeriv_140px/3880364586.jpg" alt="."></a>
+				<a href=http://www.shieldsgazette.com/news/local-news/sports-direct-owner-mike-ashley-to-give-away-2-4m-worth-of-jackets-after-nufc-beat-west-ham-1-7679897 title="Jonjo Shelvey is congratulated by Steve McClaren after the 2-1 victory over West Ham" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679896!/image/1154095986.jpg_gen/derivatives/articleWidgetDeriv_140px/1154095986.jpg" alt="Jonjo Shelvey is congratulated by Steve McClaren after the 2-1 victory over West Ham"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.shieldsgazette.com/news/local-news/road-ban-for-shandy-drinker-who-blamed-order-mix-up-after-being-caught-over-the-limit-1-7677148 title="Road ban for shandy drinker who blamed order mix up after being caught over the limit">Road ban for shandy drinker who blamed order mix up after being caught over the limit</a>
-				</h3>
-				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news/local-news" title="Local News">Local News</a></div>
-			</div>
-			</article>
-		</li>
-							<li class="top-stories__list-item" style="display: none">
-									<article class="teaser-card top-stories__card" role="article">
-			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.shieldsgazette.com/news/local-news/obesity-crisis-40-of-south-tyneside-children-become-overweight-by-the-age-of-11-1-7676996 title="The government has released new childhood obesity figures." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7676995!/image/3140037298.jpg_gen/derivatives/articleWidgetDeriv_140px/3140037298.jpg" alt="The government has released new childhood obesity figures."></a>
-			</div>
-						<div class="teaser-card__text teaser-card__text--">						
-				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.shieldsgazette.com/news/local-news/obesity-crisis-40-of-south-tyneside-children-become-overweight-by-the-age-of-11-1-7676996 title="Obesity crisis: 40% of South Tyneside children become overweight by the age of 11">Obesity crisis: 40% of South Tyneside children become overweight by the age of 11</a>
+					<a href=http://www.shieldsgazette.com/news/local-news/sports-direct-owner-mike-ashley-to-give-away-2-4m-worth-of-jackets-after-nufc-beat-west-ham-1-7679897 title="Sports Direct owner Mike Ashley to give away £2.4m worth of jackets after NUFC beat West Ham">Sports Direct owner Mike Ashley to give away £2.4m worth of jackets after NUFC beat West Ham</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -2043,12 +2029,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.shieldsgazette.com/news/local-news/big-freeze-continues-as-met-office-warns-of-ice-and-snow-for-north-east-1-7678244 title="A snowy Angel of the North. Photo by Gary Oliver." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7678241!/image/2199995105.jpg_gen/derivatives/articleWidgetDeriv_140px/2199995105.jpg" alt="A snowy Angel of the North. Photo by Gary Oliver."></a>
+				<a href=http://www.shieldsgazette.com/news/local-news/watch-family-say-sad-farewell-as-teen-swept-into-sea-off-pier-is-named-1-7680317 title="Cullercoats Bay in North Tyneside, where a 15-year-old girl named as Caitlin Ruddy was swept off the pier and later died," class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680315!/image/3481310325.jpg_gen/derivatives/articleWidgetDeriv_140px/3481310325.jpg" alt="Cullercoats Bay in North Tyneside, where a 15-year-old girl named as Caitlin Ruddy was swept off the pier and later died,"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.shieldsgazette.com/news/local-news/big-freeze-continues-as-met-office-warns-of-ice-and-snow-for-north-east-1-7678244 title="Big freeze continues as Met Office warns of ice and snow for North East">Big freeze continues as Met Office warns of ice and snow for North East</a>
+					<a href=http://www.shieldsgazette.com/news/local-news/watch-family-say-sad-farewell-as-teen-swept-into-sea-off-pier-is-named-1-7680317 title="WATCH: Family say sad farewell as teen swept into sea off pier is named">WATCH: Family say sad farewell as teen swept into sea off pier is named</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -2057,12 +2043,12 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.shieldsgazette.com/news/local-news/little-mix-up-for-two-brit-awards-after-casting-a-spell-with-black-magic-1-7677804 title="Little Mix's Black Magic music video." class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677800!/image/3508664017.jpg_gen/derivatives/articleWidgetDeriv_140px/3508664017.jpg" alt="Little Mix's Black Magic music video."></a>
+				<a href=http://www.shieldsgazette.com/news/local-news/dog-walker-tried-to-save-tragic-teen-who-spent-half-an-hour-in-freezing-sea-1-7680065 title="Emergency workers during the rescue operation at Cullercoats after a 15-year-old girl died after being swept into the sea by a big wave. Pic: Clare Guilding." class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680064!/image/570262377.jpg_gen/derivatives/articleWidgetDeriv_140px/570262377.jpg" alt="Emergency workers during the rescue operation at Cullercoats after a 15-year-old girl died after being swept into the sea by a big wave. Pic: Clare Guilding."></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.shieldsgazette.com/news/local-news/little-mix-up-for-two-brit-awards-after-casting-a-spell-with-black-magic-1-7677804 title="Little Mix up for two Brit Awards after casting a spell with Black Magic">Little Mix up for two Brit Awards after casting a spell with Black Magic</a>
+					<a href=http://www.shieldsgazette.com/news/local-news/dog-walker-tried-to-save-tragic-teen-who-spent-half-an-hour-in-freezing-sea-1-7680065 title="Dog walker tried to save tragic teen who spent half an hour in freezing sea">Dog walker tried to save tragic teen who spent half an hour in freezing sea</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -2071,12 +2057,26 @@ if(typeof(OX) !== "undefined"){
 							<li class="top-stories__list-item" style="display: none">
 									<article class="teaser-card top-stories__card" role="article">
 			<div class="teaser-card__image teaser-card__image--">
-				<a href=http://www.shieldsgazette.com/news/local-news/disabled-biker-threatens-sit-in-protest-over-plans-to-demolish-garage-1-7677259 title="Disabled Paul Kelly's garage he rents from the council is due to be demolished" class="responsive-img--3x2 teaser-card__image-link">							
-					<img class="img teaser-card__img " src="/webimage/1.7677255!/image/1369571354.jpg_gen/derivatives/articleWidgetDeriv_140px/1369571354.jpg" alt="Disabled Paul Kelly's garage he rents from the council is due to be demolished"></a>
+				<a href=http://www.shieldsgazette.com/news/local-news/a-great-fan-and-a-great-lad-more-tributes-for-south-shields-nufc-superfan-cliffy-ahmed-1-7680041 title="Cliffy Ahmed, pictured in his younger days" class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7680040!/image/829092295.jpg_gen/derivatives/articleWidgetDeriv_140px/829092295.jpg" alt="Cliffy Ahmed, pictured in his younger days"></a>
 			</div>
 						<div class="teaser-card__text teaser-card__text--">						
 				<h3 class="teaser-card__title js-ellipsize" role="heading">
-					<a href=http://www.shieldsgazette.com/news/local-news/disabled-biker-threatens-sit-in-protest-over-plans-to-demolish-garage-1-7677259 title="Disabled biker threatens sit-in protest over plans to demolish garage">Disabled biker threatens sit-in protest over plans to demolish garage</a>
+					<a href=http://www.shieldsgazette.com/news/local-news/a-great-fan-and-a-great-lad-more-tributes-for-south-shields-nufc-superfan-cliffy-ahmed-1-7680041 title=""A great fan and a great lad": More tributes for South Shields NUFC superfan Cliffy Ahmed">"A great fan and a great lad": More tributes for South Shields NUFC superfan Cliffy Ahmed</a>
+				</h3>
+				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news/local-news" title="Local News">Local News</a></div>
+			</div>
+			</article>
+		</li>
+							<li class="top-stories__list-item" style="display: none">
+									<article class="teaser-card top-stories__card" role="article">
+			<div class="teaser-card__image teaser-card__image--">
+				<a href=http://www.shieldsgazette.com/news/local-news/teenager-dies-after-being-swept-into-the-north-sea-1-7679848 title="The teenager was swept out to sea at Cullercoats." class="responsive-img--3x2 teaser-card__image-link">							
+					<img class="img teaser-card__img " src="/webimage/1.7679847!/image/370367167.jpg_gen/derivatives/articleWidgetDeriv_140px/370367167.jpg" alt="The teenager was swept out to sea at Cullercoats."></a>
+			</div>
+						<div class="teaser-card__text teaser-card__text--">						
+				<h3 class="teaser-card__title js-ellipsize" role="heading">
+					<a href=http://www.shieldsgazette.com/news/local-news/teenager-dies-after-being-swept-into-the-north-sea-1-7679848 title="Teenager dies after being swept into the North Sea">Teenager dies after being swept into the North Sea</a>
 				</h3>
 				<div class="teaser-card__cat"><a href="http://www.shieldsgazette.com/news/local-news" title="Local News">Local News</a></div>
 			</div>
@@ -2256,7 +2256,7 @@ if(typeof(OX) !== "undefined"){
 			data-meta-adtagId="3948/southtyneside.jp/health" 
 			data-adtag-pos="mpu5" 
 			data-has-pos="true" 
-			data-additional=";weathertoday=sunny;weathertomorrow=sunny" 
+			data-additional=";weathertoday=sunnyspells;weathertomorrow=cloudy" 
 			data-nav="news,health"
 			data-pgid="14135247" 
 			data-trigger-once="gpt:ready"></div>					

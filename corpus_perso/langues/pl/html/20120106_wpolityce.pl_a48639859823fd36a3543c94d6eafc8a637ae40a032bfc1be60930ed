@@ -2,7 +2,7 @@
 <html class="no-js">
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIOVVBWGwAGVlRXBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"130b0776b5","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"MQEDYUNZWUUDUBAMDQhLJ0BfW0NfDV1LBBIWShJAU1lHRhEdFxEQEwcVQENdGUALVhMWTAAWDltFXVlSWGMRBw4PBwBBWFdZYAtWE0sFAxA=","applicationID":"3625501","errorBeacon":"bam.nr-data.net","applicationTime":40}</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIOVVBWGwAGVlRXBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"130b0776b5","agent":"js-agent.newrelic.com/nr-768.min.js","transactionName":"MQEDYUNZWUUDUBAMDQhLJ0BfW0NfDV1LBBIWShJAU1lHRhEdFxEQEwcVQENdGUALVhMWTAAWDltFXVlSWGMRBw4PBwBBWFdZYAtWE0sFAxA=","applicationID":"3625501","errorBeacon":"bam.nr-data.net","applicationTime":29}</script>
 
 	<title>
 	Prognozy zaczynają się sprawdzać. &#34;To politycy i bankierzy  ludziom zgotowali ten los. Pamiętajcie o tym i nie zabijajcie posłańca&#34;
@@ -121,7 +121,7 @@
 	
 </head>
 
-<body class=" no-right-col js-url-scroller" data-static-url="http://static.wpolityce.pl/">
+<body class="  js-url-scroller" data-static-url="http://static.wpolityce.pl/">
 
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
@@ -310,6 +310,75 @@
 	
 		</div>
 
+	</div>
+
+	
+
+		
+	
+		<div class="adunit skyscraper wide presky ad" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+	
+					<script type="text/javascript" src="//static.clickonometrics.pl/_a4a.js"></script>
+					<script type="text/javascript">
+						_A4A.construct("//delivery.clickonometrics.pl");
+						_A4A.handle(_A4A.CODE_PLACEMENT_SYNC, [603740]);
+					</script>
+	
+				-->
+			</script>
+	
+		</div>
+
+
+		
+	
+	<div class="adunit skyscraper wide ad" data-lazyad>
+		<script type="text/lazyad">
+			<!--
+	
+
+			<script type="text/javascript">
+				sas_pageid='65648/506211';
+				sas_formatid=17461;
+				sas_target='';
+				SmartAdServer(sas_pageid,sas_formatid,sas_target);
+			</script>
+			<noscript>
+				<a href="http://www6.smartadserver.com/call/pubjumpi/65648/506211/17461/S/[timestamp]/?" target="_blank">
+				<img src="http://www6.smartadserver.com/call/pubi/65648/506211/17461/S/[timestamp]/?" border="0" alt="" /></a>
+			</noscript>
+
+	
+			-->
+		</script>
+	
+	</div>
+
+
+		
+	
+	<div class="adunit skyscraper wide ad second" data-lazyad>
+		<script type="text/lazyad">
+			<!--
+	
+
+			<script type="text/javascript">
+				sas_pageid='65648/506211';
+				sas_formatid=18794;
+				sas_target='';
+				SmartAdServer(sas_pageid,sas_formatid,sas_target);
+			</script>
+			<noscript>
+				<a href="http://www6.smartadserver.com/call/pubjumpi/65648/506211/18794/S/[timestamp]/?" target="_blank">
+				<img src="http://www6.smartadserver.com/call/pubi/65648/506211/18794/S/[timestamp]/?" border="0" alt="" /></a>
+			</noscript>
+
+	
+				-->
+			</script>
+	
 	</div>
 
 	
@@ -591,11 +660,11 @@ Pod adresem www.rybinski.eu prowadzi swój popularny blog.</p>
 		<span class="weather-day-when">dziś</span>
 		<span class="weather-day-temp">
 			
-				-1
+				-5
 			
 			<small>°C</small>
 		</span>
-		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg" class="weather-day-icon">
+		<img src="http://static.wpolityce.pl//img/weather/schl.png" alt="prawie bezchmurnie" class="weather-day-icon">
 	</div>
 	<div class="weather-day">
 		<span class="weather-day-when">jutro</span>
@@ -605,7 +674,7 @@ Pod adresem www.rybinski.eu prowadzi swój popularny blog.</p>
 			
 			<small>°C</small>
 		</span>
-		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg" class="weather-day-icon">
+		<img src="http://static.wpolityce.pl//img/weather/schms.png" alt="słaby śnieg" class="weather-day-icon">
 	</div>
 </a>
 
@@ -617,11 +686,11 @@ Pod adresem www.rybinski.eu prowadzi swój popularny blog.</p>
 		<h5>dziś</h5>
 		<strong>
 			
-				-1
+				-5
 			
 		</strong>
 		<small>°C</small>
-		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg">
+		<img src="http://static.wpolityce.pl//img/weather/schl.png" alt="prawie bezchmurnie">
 	</div>
 	<div>
 		<h5>jutro</h5>
@@ -631,7 +700,7 @@ Pod adresem www.rybinski.eu prowadzi swój popularny blog.</p>
 			
 		</strong>
 		<small>°C</small>
-		<img src="http://static.wpolityce.pl//img/weather/chms.png" alt="śnieg">
+		<img src="http://static.wpolityce.pl//img/weather/schms.png" alt="słaby śnieg">
 	</div>
 </aside>
 						</div>
@@ -690,7 +759,7 @@ Pod adresem www.rybinski.eu prowadzi swój popularny blog.</p>
 						<div class="js-article-comments article-comments">
 							
 								<header class="js-comments-form-header area-header"><h2>Dodaj komentarz</h2></header>
-								<input type="hidden" name="csrfmiddlewaretoken" value="AokQGOEWUpz41IVNmbLw4julPJ14xvNW">
+								<input type="hidden" name="csrfmiddlewaretoken" value="Bu0scsNkxrVvEFgKvDztLLgnUZgsCovK">
 								<div class="comment-form"></div>
 								<div class="loading js-load-comments-waypoint">
 									<img src="http://static.wpolityce.pl/img/loading.svg">
@@ -706,152 +775,152 @@ Pod adresem www.rybinski.eu prowadzi swój popularny blog.</p>
 <div id="article-comments-forum-mostactive">
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141216-i-czym-oni-sie-roznia-komorowski-ujawnia-kulisy-negocjacji-miala-byc-wspolna-lista-po-nowoczesnej-i-psl-bylo-bardzo-blisko-zaluje-bardzo-tego-komentarze-publikacji">
-				<h3>I czym oni się różnią?! Komorowski ujawnia kulisy negocjacji: miała być wspólna lista PO, Nowoczesnej i PSL! &#34;Było bardzo blisko, żałuję bardzo tego...&#34; - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141414-w-co-graja-w-brukseli-bienkowska-i-tusk-der-spiegel-tusk-zali-sie-w-pe-jestem-wrogiem-panstwowym-numer-jeden-komentarze-publikacji">
+				<h3>W co grają w Brukseli Bieńkowska i Tusk? &#34;Der Spiegel&#34;: Tusk żali się w PE: &#34;Jestem wrogiem państwowym numer jeden&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141208-po-doniesie-na-wlasny-kraj-w-pe-juz-nawet-nie-stwarzaja-pozorow-neumann-nie-bedziemy-szkalowac-polski-w-sposob-nieuprawniony-ale-nie-bedziemy-tez-mowic-ze-wszystko-jest-ok-komentarze-publikacji">
-				<h3>PO doniesie na własny kraj w PE? Już nawet nie stwarzają pozorów... Neumann: &#34;Nie będziemy szkalować Polski w sposób nieuprawniony, ale nie będziemy też mówić, że wszystko jest OK&#34; - komentarze publikacji</h3>
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141434-nie-tylko-polska-moze-miec-problemy-roza-thun-zapowiada-sa-wyrazne-przeslanki-ze-stan-demokracji-na-wegrzech-powinien-zostac-poddany-przegladowi-komentarze-publikacji">
+				<h3>Nie tylko Polska może mieć problemy. Róża Thun zapowiada: &#34;Są wyraźne przesłanki, że stan demokracji na Węgrzech powinien zostać poddany przeglądowi&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141218-przezabawne-kijowski-u-mazurka-nie-protestowalem-piec-lat-temu-bo-nie-wpadlem-na-taki-pomysl-to-jak-pytac-czemu-nie-pilem-herbaty-najlepszym-prezydentem-byl-komorowski-komentarze-publikacji">
-				<h3>Przezabawne! Kijowski u Mazurka: Nie protestowałem pięć lat temu, bo nie wpadłem na taki pomysł. &#34;To jak pytać, czemu nie piłem herbaty. (...) Najlepszym prezydentem był Komorowski&#34; - komentarze publikacji</h3>
+			<a href="/forum/lifestyle/32-dyskusje-pod-publikacjami-dzialu-lifestyle/tematy/141420-czy-z-powodu-uporu-tuska-zostanie-zorganizowany-specjalny-szczyt-rady-europejskiej-ws-sytuacji-w-polsce-przeklamanie-czy-prawdziwe-intencje-ex-premiera-rp-komentarze-publikacji">
+				<h3>Czy z powodu uporu Tuska zostanie zorganizowany specjalny szczyt Rady Europejskiej ws. sytuacji w Polsce?! Przekłamanie, czy prawdziwe intencje ex-premiera RP? - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141245-bienkowska-boi-sie-przyjechac-do-polski-fakt-obawia-sie-pytan-o-debate-w-brukseli-komentarze-publikacji">
-				<h3>Bieńkowska boi się przyjechać do Polski? „Fakt”: Obawia się pytań o debatę w Brukseli - komentarze publikacji</h3>
+			<a href="/forum/media/70-dyskusje-pod-publikacjami-dzialu-media/tematy/141410-hanna-lis-udowadnia-swoja-rzekoma-niezaleznosc-dziennikarska-moge-to-zeznac-na-wariografie-komentarze-publikacji">
+				<h3>Hanna Lis udowadnia swoją rzekomą niezależność dziennikarską. „Mogę to zeznać na wariografie” - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/media/70-dyskusje-pod-publikacjami-dzialu-media/tematy/141222-czy-oni-mysla-ze-polacy-maja-az-tak-krotka-pamiec-hanna-lis-telewizja-propagandowa-ruszyla-pelna-para-komentarze-publikacji">
-				<h3>Czy oni myślą, że Polacy mają aż tak krótką pamięć? Hanna Lis: „Telewizja Propagandowa ruszyła pełną parą” - komentarze publikacji</h3>
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141403-przed-debata-w-pe-pojsc-na-ostro-nauczyciele-demokracji-uczcie-sie-jej-sami-czy-cierpliwie-tlumaczyc-demokracja-w-polsce-dziekujemy-zdrowa-komentarze-publikacji">
+				<h3>Przed debatą w PE... Pójść na ostro - nauczyciele demokracji, uczcie się jej sami, czy cierpliwie tłumaczyć - demokracja w Polsce? Dziękujemy, zdrowa! - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141198-histeria-opozycji-nie-zmienia-ukladu-sil-pis-nadal-liderem-sondazu-blisko-nowoczesna-platforma-daleko-z-tylu-komentarze-publikacji">
-				<h3>Histeria opozycji nie zmienia układu sił. PiS nadal liderem sondażu. Blisko Nowoczesna. Platforma daleko z tyłu - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141436-kontrofensywa-polski-artykul-prezydenta-andrzeja-dudy-w-financial-times-duze-miasta-sa-w-rozkwicie-jednak-wielu-polakow-nie-skorzystalo-na-transformacji-komunistycznej-gospodarki-komentarze-publikacji">
+				<h3>Kontrofensywa Polski. Artykuł prezydenta Andrzeja Dudy w &#34;Financial Times&#34;: &#34;Duże miasta są w rozkwicie, jednak wielu Polaków nie skorzystało na transformacji komunistycznej gospodarki&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141177-zyczenie-walesy-spelnione-ipn-zorganizuje-debate-o-przeszlosci-bylego-prezydenta-i-sprawie-bolka-komentarze-publikacji">
-				<h3>Życzenie Wałęsy spełnione. IPN zorganizuje debatę o przeszłości byłego prezydenta i sprawie &#34;Bolka&#34; - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141398-kaczynski-jestesmy-atakowani-za-nic-nie-ugniemy-sie-trzeba-odpowiadac-i-mowic-prawde-jesli-ktos-powinien-sie-troszczyc-dzis-w-europie-o-swoja-wolnosc-to-raczej-obywatele-na-zachodzie-komentarze-publikacji">
+				<h3>Kaczyński: Jesteśmy atakowani za nic. Nie ugniemy się, trzeba odpowiadać i mówić prawdę. &#34;Jeśli ktoś powinien się troszczyć dziś w Europie o swoją wolność, to raczej obywatele na Zachodzie&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/spoleczenstwo/22-dyskusje-pod-publikacjami-dzialu-spoleczenstwo/tematy/141165-najnowoczesniejszy-na-wiejskiej-najwyrazniej-posel-mieszkowski-niektorych-polaczen-nie-moze-ignorowac-internauci-zartuja-z-polityka-nowoczesnej-zobacz-wideo-i-memy-komentarze-publikacji">
-				<h3>Najnowocześniejszy na Wiejskiej. Najwyraźniej poseł Mieszkowski niektórych połączeń nie może ignorować - internauci żartują z polityka Nowoczesnej. ZOBACZ WIDEO i MEMY - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141456-trzaskowski-po-gotowa-zaglosowac-za-rezolucja-ws-polski-o-ile-bedzie-wywazona-komentarze-publikacji">
+				<h3>Trzaskowski: PO gotowa zagłosować za rezolucją ws. Polski. O ile &#34;będzie wyważona&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141167-majatek-mateusza-morawieckiego-czyli-klopot-wizerunkowy-i-systemowy-rzadu-pis-czy-wicepremier-moze-byc-gieldowym-graczem-komentarze-publikacji">
-				<h3>Majątek Mateusza Morawieckiego, czyli kłopot – wizerunkowy i systemowy – rządu PiS. Czy wicepremier może być giełdowym graczem? - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141411-premier-szydlo-w-pe-bez-prawa-glosu-komentarze-publikacji">
+				<h3>Premier Szydło w PE bez prawa głosu? - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141186-prof-wolniewicz-targowica-wraz-z-miedzynarodowym-lewactwem-probuje-zorganizowac-w-polsce-interwencje-nasz-wywiad-komentarze-publikacji">
-				<h3>Prof. Wolniewicz: Targowica, wraz z międzynarodowym lewactwem, próbuje zorganizować w Polsce interwencję. NASZ WYWIAD - komentarze publikacji</h3>
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141407-szokujaca-relacja-z-niemiec-imigranci-probowali-ukamienowac-dwie-transseksualistki-to-barbarzyncy-i-kto-tu-ma-problem-z-wolnoscia-wideo-komentarze-publikacji">
+				<h3>Szokująca relacja z Niemiec! Imigranci próbowali... ukamienować dwie transseksualistki! &#34;To barbarzyńcy!&#34; I kto tu ma problem z wolnością? [WIDEO] - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141237-szef-komisji-europejskiej-nie-chce-by-polacy-mieli-wrazenie-ze-europa-jest-przeciwko-nim-komentarze-publikacji">
-				<h3>Szef Komisji Europejskiej: nie chcę, by Polacy mieli wrażenie, że Europa jest przeciwko nim - komentarze publikacji</h3>
+			<a href="/forum/media/70-dyskusje-pod-publikacjami-dzialu-media/tematy/141426-ziemiec-nie-uznaje-ani-lizusostwa-wobec-rzadzacych-ani-tez-bezpodstawnego-nawalania-w-kogokolwiek-komentarze-publikacji">
+				<h3>Ziemiec: Nie uznaję ani lizusostwa wobec rządzących, ani też bezpodstawnego „nawalania” w kogokolwiek - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/kultura/18-dyskusje-pod-publikacjami-dzialu-kultura/tematy/141158-wina-wlasna-bylem-przekonany-ze-mnie-to-nie-dotyczy-ze-mnie-to-nie-dotknie-komentarze-publikacji">
-				<h3>Wina własna. Byłem przekonany, że mnie to nie dotyczy, że mnie to nie dotknie - komentarze publikacji</h3>
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141446-sklaniam-sie-by-w-trakcie-debaty-w-pe-zadac-trzy-pytania-szefowi-komisji-europejskiej-o-prawo-luksemburg-i-analizy-komentarze-publikacji">
+				<h3>Skłaniam się, by w trakcie debaty w PE zadać TRZY PYTANIA... szefowi Komisji Europejskiej. O prawo, Luksemburg i analizy... - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141188-kownacki-powinnismy-budowac-dobra-atmosfere-wokol-polski-tymczasem-politycy-po-realizuja-scenariusz-ktorym-sa-zainteresowani-niemcy-i-ue-nasz-wywiad-komentarze-publikacji">
-				<h3>Kownacki: Powinniśmy budować dobrą atmosferę wokół Polski. Tymczasem politycy PO realizują scenariusz, którym są zainteresowani Niemcy i UE. NASZ WYWIAD - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141452-zbigniew-ziobro-komisja-europejska-dziala-wobec-polski-dlatego-ze-nasz-rzad-narusza-interesy-bankow-i-korporacji-timmermans-napisal-do-mnie-drugi-list-napisany-juz-grzecznym-dyplomatycznym-jezykiem-komentarze-publikacji">
+				<h3>Zbigniew Ziobro: Komisja Europejska działa wobec Polski dlatego, że nasz rząd narusza interesy banków i korporacji. &#34;Timmermans napisał do mnie drugi list - napisany już grzecznym, dyplomatycznym językiem...&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141154-jakubiak-polska-gospodarka-pracuje-na-rzecz-niemiec-my-nie-mozemy-byc-bogatym-krajem-bogate-sa-niemcy-i-to-wystarczy-nasz-wywiad-komentarze-publikacji">
-				<h3>Jakubiak: Polska gospodarka pracuje na rzecz Niemiec. My nie możemy być bogatym krajem. Bogate są Niemcy. I to  wystarczy... NASZ WYWIAD - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141424-wycinac-puszcze-to-jak-burzyc-wawel-w-obronie-puszczy-bialowieskiej-zorganizowano-w-warszawie-marsz-entow-minister-szyszko-odpowiada-nie-wiem-skad-protestujacy-maja-informacje-o-zwiekszonej-wycince-drzew-komentarze-publikacji">
+				<h3>„Wycinać Puszczę to jak burzyć Wawel!” - w obronie Puszczy Białowieskiej zorganizowano w  Warszawie marsz entów. Minister Szyszko odpowiada: „Nie wiem skąd protestujący mają informację o zwiększonej wycince drzew” - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141236-co-naprawde-dzieje-sie-w-niemczech-marek-cichocki-o-kulisach-medialnej-cenzury-ws-imigrantow-poruszenie-tematu-uchodzcow-prowadzaca-stwierdzila-ze-w-takim-razie-rozmowa-sie-nie-odbedzie-komentarze-publikacji">
-				<h3>Co naprawdę dzieje się w Niemczech? Marek Cichocki o kulisach medialnej cenzury ws. imigrantów: &#34;Poruszenie tematu uchodźców? Prowadząca stwierdziła, że w takim razie rozmowa się nie odbędzie...&#34; - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141449-mocna-rozmowa-andrzej-duda-w-niemieckiej-fas-trybunal-uzurpuje-sobie-kompetencje-ktore-wykraczaja-poza-konstytucje-calosc-wywiadu-komentarze-publikacji">
+				<h3>Mocna rozmowa! Andrzej Duda w niemieckiej &#34;FAS&#34;: Trybunał uzurpuje sobie kompetencje, które wykraczają poza konstytucję. [CAŁOŚĆ WYWIADU] - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141262-skad-mu-sie-biora-takie-porownania-lis-porownuje-pis-do-meza-bijacego-zone-pan-henio-chce-zafundowac-malzonce-kolejne-manto-a-jak-bedzie-dostep-do-zbioru-zastrzezonego-komentarze-publikacji">
-				<h3>Skąd mu się biorą takie porównania? Lis porównuje PiS do... męża bijącego żonę. &#34;Pan Henio chce zafundować małżonce kolejne manto, a jak będzie dostęp do zbioru zastrzeżonego...&#34; - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141457-nasz-wywiad-marian-kowalski-o-debacie-w-pe-chodzi-im-o-to-by-w-europie-mowiono-zle-o-polsce-bo-platforma-przegrala-wybory-to-nawiazanie-do-niechlubnych-tradycji-targowicy-i-komuny-komentarze-publikacji">
+				<h3>NASZ WYWIAD. Marian Kowalski o debacie w PE: &#34;Chodzi im o to, by w Europie mówiono źle o Polsce, bo Platforma przegrała wybory. To nawiązanie do niechlubnych tradycji Targowicy i komuny!&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141162-angela-merkel-zlamala-konstytucje-byli-sedziowie-trybunalu-konstytucyjnego-ostro-krytykuja-kanclerz-niemiec-fiasko-panstwa-prawa-ciekawe-czy-komisja-europejska-sie-tym-zajmie-komentarze-publikacji">
-				<h3>Angela Merkel złamała konstytucję? Byli sędziowie Trybunału Konstytucyjnego ostro krytykują kanclerz Niemiec. „Fiasko państwa prawa”. Ciekawe czy Komisja Europejska się tym zajmie.. - komentarze publikacji</h3>
+			<a href="/forum/media/70-dyskusje-pod-publikacjami-dzialu-media/tematy/141422-poezja-klamliwej-histerii-zobacz-kuriozalny-wiersz-adama-zagajewskiego-ktorym-napawa-sie-wyborcza-komentarze-publikacji">
+				<h3>&#34;Poezja&#34; kłamliwej histerii. Zobacz kuriozalny wiersz Adama Zagajewskiego, którym napawa się &#34;Wyborcza&#34;! - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141187-premier-szydlo-nie-pozostawia-zludzen-opozycji-polskie-sprawy-powinnismy-rozwiazywac-w-polskim-domu-komentarze-publikacji">
-				<h3>Premier Szydło nie pozostawia złudzeń opozycji: &#34;Polskie sprawy powinniśmy rozwiązywać w polskim domu&#34; - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141412-kuriozalne-tlumaczenie-sienkiewicza-argument-nielegalnego-podsluchiwania-dziennikarzy-przez-rzad-po-psl-ma-posluzyc-obecnej-wladzy-usprawiedliwieniu-tworzenia-inwigilacyjnego-prawa-komentarze-publikacji">
+				<h3>Kuriozalne tłumaczenie Sienkiewicza: „Argument nielegalnego podsłuchiwania dziennikarzy przez rząd PO-PSL, ma posłużyć obecnej władzy usprawiedliwieniu tworzenia inwigilacyjnego prawa” - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141239-doczekalismy-sie-komorowski-zainicjowal-dzialalnosc-swego-instytutu-to-jest-chec-przeciwstawienia-sie-skrajnie-niemadrej-tezie-o-polsce-w-ruinie-komentarze-publikacji">
-				<h3>Doczekaliśmy się… Komorowski zainicjował działalność swego instytutu: „To jest chęć przeciwstawienia się skrajnie niemądrej tezie o Polsce w ruinie” - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141387-prof-nalaskowski-we-wsieci-zapraszanie-europarlamentu-a-w-szczegolnosci-niemcow-do-oceniania-sytuacji-w-polsce-jest-jak-prosba-o-wymierzenie-nam-siarczystego-policzka-komentarze-publikacji">
+				<h3>Prof. Nalaskowski we „wSieci”: „Zapraszanie europarlamentu, a w szczególności Niemców, do oceniania sytuacji w Polsce jest jak prośba o wymierzenie nam siarczystego policzka” - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141200-zaskakujace-tlumaczenie-jana-dworaka-prezydent-byl-tylko-swiadkiem-a-nie-podejrzanym-w-mojej-ocenie-proces-nie-byl-istotny-z-punktu-widzenia-politycznego-komentarze-publikacji">
-				<h3>Zaskakujące tłumaczenie Jana Dworaka: Prezydent był tylko świadkiem, a nie podejrzanym. W mojej ocenie proces nie był istotny z punktu widzenia politycznego - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141417-szczerski-prezydent-duda-powie-w-brukseli-ze-europy-nie-stac-na-sztuczny-konflikt-z-polska-wylot-glowy-panstwa-juz-w-niedziele-komentarze-publikacji">
+				<h3>Szczerski: prezydent Duda powie w Brukseli, że Europy nie stać na sztuczny konflikt z Polską. Wylot głowy państwa już w niedzielę - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141175-doigrala-sie-starosta-z-bawarii-wyslal-autokar-z-uchodzcami-do-siedziby-merkel-komentarze-publikacji">
-				<h3>Doigrała się. Starosta z Bawarii wysłał autokar z uchodźcami do siedziby Merkel - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141409-warto-to-przypomniec-zwlaszcza-dzis-lech-kaczynski-w-ostatnim-wywiadzie-niby-z-jakiego-powodu-mielibysmy-prowadzic-taka-polityke-zeby-niemcy-nas-chwalili-komentarze-publikacji">
+				<h3>Warto to przypomnieć zwłaszcza dziś! Lech Kaczyński w &#34;Ostatnim wywiadzie&#34;: &#34;Niby z jakiego powodu mielibyśmy prowadzić taką politykę, żeby Niemcy nas chwalili?&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141206-jaki-swietny-wizerunek-polski-w-ostatnim-26-leciu-jesli-juz-to-wizerunek-naiwniaka-i-popychadla-komentarze-publikacji">
-				<h3>Jaki świetny wizerunek Polski w ostatnim 26-leciu? Jeśli już, to wizerunek naiwniaka i popychadła - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141442-zurawski-vel-grajewski-wygaszanie-debaty-wokol-rzekomego-zagrozenia-demokracji-w-polsce-byloby-korzystne-zarowno-dla-polski-jak-i-unii-nasz-wywiad-komentarze-publikacji">
+				<h3>Żurawski vel Grajewski: &#34;Wygaszanie debaty wokół rzekomego zagrożenia demokracji w Polsce byłoby korzystne zarówno dla Polski jak i Unii&#34;. NASZ WYWIAD - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141170-wiceszef-mswia-ujawnia-bizancjum-panujace-w-kgp-pod-rzadami-po-psl-nie-jestesmy-za-panstwem-bizantyjskim-ale-europejskim-komentarze-publikacji">
-				<h3>Wiceszef MSWiA ujawnia &#34;Bizancjum&#34; panujące w KGP pod rządami PO-PSL. &#34;Nie jesteśmy za państwem bizantyjskim, ale europejskim!&#34; - komentarze publikacji</h3>
+			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141428-kolejne-niepokoje-w-niemczech-oblawa-policji-w-duesseldorfie-zatrzymano-az-40-imigrantow-z-afryki-komentarze-publikacji">
+				<h3>Kolejne niepokoje w Niemczech. Obława policji w Duesseldorfie: zatrzymano aż 40 imigrantów z Afryki! - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/swiat/4-dyskusje-pod-publikacjami-dzialu-swiat/tematy/141223-poruszajaca-relacja-holenderskiego-urzednika-co-dali-nam-imigranci-wzbogacili-kraj-o-nowe-przestepstwa-wiekszosc-muzulmanow-gardzi-europejskim-sposobem-zycia-komentarze-publikacji">
-				<h3>Poruszająca relacja holenderskiego urzędnika: &#34;Co dali nam imigranci? Wzbogacili kraj o nowe przestępstwa. (...) Większość muzułmanów gardzi europejskim sposobem życia&#34; - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141433-prof-nowak-w-radiu-maryja-salony-europejskie-przyzwyczaily-sie-ze-polska-jest-od-potakiwania-i-przyjmowania-polecen-dzis-rzad-zmienia-ten-stan-komentarze-publikacji">
+				<h3>Prof. Nowak w Radiu Maryja: &#34;Salony europejskie przyzwyczaiły się, że Polska jest od potakiwania i przyjmowania poleceń. Dziś rząd zmienia ten stan&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	
 		<article class="forum-mostactive-topic">
-			<a href="/forum/gospodarka/16-dyskusje-pod-publikacjami-dzialu-gospodarka/tematy/141243-prezydencki-projekt-dla-frankowiczow-przewalutowanie-po-kursie-sprawiedliwym-raty-nizsze-nawet-o-kilkaset-zlotych-komentarze-publikacji">
-				<h3>Prezydencki projekt dla frankowiczów: przewalutowanie po „kursie sprawiedliwym”, raty niższe nawet o kilkaset złotych! - komentarze publikacji</h3>
+			<a href="/forum/polityka/28-dyskusje-pod-publikacjami-dzialu-polityka/tematy/141397-kukiz-za-powolaniem-komisji-sledczej-ws-afery-tasmowej-i-ujawnia-mialem-spotkanie-z-policjantami-z-jednego-powiatu-czy-funkcjonariusze-bsw-oslaniali-handlarzy-narkotykow-komentarze-publikacji">
+				<h3>Kukiz za powołaniem komisji śledczej ws. afery taśmowej. I ujawnia: &#34;Miałem spotkanie z policjantami z jednego powiatu. Czy funkcjonariusze BSW osłaniali handlarzy narkotyków?&#34; - komentarze publikacji</h3>
 			</a>
 		</article>
 	

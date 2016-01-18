@@ -53,7 +53,7 @@
             
             
             <div id="date_area" class="col"> 
-<p style="text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold;"><span style="color:#FFFFFF; padding:0;margin:0">Friday&nbsp;&nbsp;January 15th 2016</span></p>
+<p style="text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold;"><span style="color:#FFFFFF; padding:0;margin:0">Sunday&nbsp;&nbsp;January 17th 2016</span></p>
 
  </div>
         </div>
@@ -83,13 +83,15 @@ $(" #nav li").hover(function(){
 <div>
 <ul id="nav">
         <li><a href="/">Home</li></a>
-   <li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=48">
-		  News</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=49">
-		  Features</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=50">
-		  Sports</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=51">
-		  Business</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=52">
-		  Opinion</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=55">
-		  Editorial</a></li>        <!-- <li><a href="">Image Gallery</a></li>-->
+   <li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=67">
+		  News</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=68">
+		  Business</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=69">
+		  Editorial</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=70">
+		  Features</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=71">
+		  Sports</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=72">
+		  Leisure</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=74">
+		  Obituaries</a></li><li>		<a href= "http://www.island.lk/index.php?page_cat=news-section&page=news-section&code_title=75">
+		  Politics</a></li>        <!-- <li><a href="">Image Gallery</a></li>-->
      
 
 
@@ -211,7 +213,7 @@ $(" #nav li").hover(function(){
 <div class="row">&nbsp;</div>
 <div class="row">
     <div class="article_info_col" style="width:40%; float:right;" >
-    	<img alt="" src="http://www.island.lk/images/icons/chart_bar.gif"/>&nbsp;Hits: 420&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.island.lk/images/icons/email.png"/>&nbsp;<a href="javascript:emailArticle(43276);">Send to Friend</a>
+    	<img alt="" src="http://www.island.lk/images/icons/chart_bar.gif"/>&nbsp;Hits: 425&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://www.island.lk/images/icons/email.png"/>&nbsp;<a href="javascript:emailArticle(43276);">Send to Friend</a>
    
     </div>
 </div>
@@ -416,7 +418,7 @@ $(" #nav li").hover(function(){
 
         </div>
 	
-	<span style="font-size:10px; float:left;">Total : 2614 Votes.</span>
+	<span style="font-size:10px; float:left;">Total : 2682 Votes.</span>
         
 		<span style="font-size:10px; float:right;"><a href="http://www.island.lk/index.php?page_cat=poll-resutls&page=poll-resutls&code_title=22">Results</a></span>
 	<div class="row" style="border-bottom:0px dashed #555555;">&nbsp;</div>
@@ -511,7 +513,31 @@ position:relative;
                           </div>
 
 
-<p>No breaking news available.</p>
+<!--<div id ="newsticker-jcarousellite"><ul>-->
+
+
+     <!--   <li>-->
+                          <div id="right_breaking_news_items">
+
+
+
+<br />
+	<h2>
+
+     <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138673">Await Breaking News</a>
+
+    </h2>
+
+
+
+
+<p class="small">Last Updated Jan 17 2016 | 09:56 am</p>
+<p>... </p>
+
+
+		                  </div>
+<!--</li>-->
+                          <!--</ul></div>-->
 
                          <!-- <p>More on <a href="#" >Breaking News</a></p> -->
                     </div>
@@ -535,12 +561,12 @@ $(document).ready(function(){
         <div class="col" style="width:99%;"
 >
             <div class="boxgrid caption">
-                        <img src="http://www.island.lk/image_crop.php/1385926863good.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1385926863good.jpg"  alt="" />
+                        <img src="http://www.island.lk/image_crop.php/1387044744air3.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1387044744air3.jpg"  alt="" />
 
-<!-- <img src="/image.php/image.php?width=150&height=200&image=1385926863good.jpg"  alt=""> -->
-             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138592" target="_BLANK">     <div class="cover boxcaption">
-                  <h3> Good Samaritans</h3>
-                    <p>2016-01-15<br/>
+<!-- <img src="/image.php/image.php?width=150&height=200&image=1387044744air3.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138704" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> National Carrier&rsquo;s Airbus...</h3>
+                    <p>2016-01-17<br/>
                         <u>Read More</u></p>
                 </div></a>
             </div>
@@ -549,12 +575,68 @@ $(document).ready(function(){
                 <div class="col" style="width:99%;"
 >
             <div class="boxgrid caption">
-                        <img src="http://www.island.lk/image_crop.php/1385951756pre.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1385951756pre.jpg"  alt="" />
+                        <img src="http://www.island.lk/image_crop.php/1387158506SI-P08-17-01-(P)-DMP-2.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1387158506SI-P08-17-01-(P)-DMP-2.jpg"  alt="" />
 
-<!-- <img src="/image.php/image.php?width=150&height=200&image=1385951756pre.jpg"  alt=""> -->
-             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138595" target="_BLANK">     <div class="cover boxcaption">
-                  <h3> President\'s...</h3>
-                    <p>2016-01-15<br/>
+<!-- <img src="/image.php/image.php?width=150&height=200&image=1387158506SI-P08-17-01-(P)-DMP-2.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138715" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Mr Gopalkrishna Gandhi, your slip...</h3>
+                    <p>2016-01-17<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/1387168004SI-P09-17-01-(P)-KSN.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1387168004SI-P09-17-01-(P)-KSN.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=1387168004SI-P09-17-01-(P)-KSN.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138716" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Reflections on &lsquo;Founding...</h3>
+                    <p>2016-01-17<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/1387175214SI-P10-17-1-(P)-hgw.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1387175214SI-P10-17-1-(P)-hgw.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=1387175214SI-P10-17-1-(P)-hgw.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138717" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> Free-will and good governance</h3>
+                    <p>2016-01-17<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/1387189120SI-P10-17-1-(P)-hgw-g.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1387189120SI-P10-17-1-(P)-hgw-g.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=1387189120SI-P10-17-1-(P)-hgw-g.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138718" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> America&rsquo;s long liaison with...</h3>
+                    <p>2016-01-17<br/>
+                        <u>Read More</u></p>
+                </div></a>
+            </div>
+        </div>
+<div class="col" style="line-height:10px; width:99%;">&nbsp;</div>
+                <div class="col" style="width:99%;"
+>
+            <div class="boxgrid caption">
+                        <img src="http://www.island.lk/image_crop.php/1387216190SI-P13-17-01-(P)-DMP-1.jpg?width=150&cropratio=1:1&image=http://www.island.lk/modules/modPublication/article_title_images/1387216190SI-P13-17-01-(P)-DMP-1.jpg"  alt="" />
+
+<!-- <img src="/image.php/image.php?width=150&height=200&image=1387216190SI-P13-17-01-(P)-DMP-1.jpg"  alt=""> -->
+             <a href="http://www.island.lk/index.php?page_cat=article-details&page=article-details&code_title=138721" target="_BLANK">     <div class="cover boxcaption">
+                  <h3> History of St.Sebastian Shrine...</h3>
+                    <p>2016-01-17<br/>
                         <u>Read More</u></p>
                 </div></a>
             </div>
@@ -678,13 +760,13 @@ border:0px;
                  <!-- <a href="" class="album_link"></a> - <i>Created By:  | </i>
  -->
 
-            <a href="http://www.island.lk/modules/modpicturegallery/gallery_pictures/1452832555cartoon.jpg" >
+            <a href="http://www.island.lk/modules/modpicturegallery/gallery_pictures/1453004591cartoon.jpg" >
             
                <!-- <img alt="cartoon" style="float:left; position:relative; top:8px;padding:0px;" src="/image_crop.php/?width=140&cropratio=1:1&image="/>
 -->
 
 
-  <img alt="cartoon" style="float:left; position:relative; top:8px;padding:0px;" src="/image_crop.php/1452832555cartoon.jpg?width=140&cropratio=1:1&image=http://www.island.lk/modules/modpicturegallery/gallery_pictures/1452832555cartoon.jpg"/>
+  <img alt="cartoon" style="float:left; position:relative; top:8px;padding:0px;" src="/image_crop.php/1453004591cartoon.jpg?width=140&cropratio=1:1&image=http://www.island.lk/modules/modpicturegallery/gallery_pictures/1453004591cartoon.jpg"/>
 
     
 
@@ -695,6 +777,24 @@ border:0px;
 </div>
 
 <br><br>
+<!--<a href="">Cartoon Front</a>-->
+<!--
+<a href=""><img src="" alt="Watchout" style="border:0px;"/></a>
+<a href=""><img src="" alt="Trademart" style="border:0px;"/></a>
+-->
+
+
+<img src="http://www.island.lk/images/icons/watchout.jpg" alt="Watchout" style="border:0px;width:140px;padding-bottom:3px;margin-bottom:0;"/>
+<a href="http://www.island.lk/index.php?page_cat=watchout">
+     <img alt="watchout" style="float:left; position:relative; top:0px;padding:0px;margin-top:0;top:-1;width:140px;" src="http://www.island.lk/modules/modpicturegallery/gallery_pictures/1453004605th.jpg"/>
+
+    </a>
+<a href="http://www.island.lk/index.php?page_cat=trademart">
+<img src="http://www.island.lk/images/icons/trademart.jpg" alt="Trademart" style="border:0px;width:140px;"/>
+
+</a>
+
+
 <br /><br />
                             
                             <!-- added by olga on 19-12-2015 -->
@@ -758,7 +858,11 @@ $(document).ready(function(){
    <div>
               <ul>
             
-           <li><a href="javascript:loadIssue('2061')">Friday, 15th January 2016 [Current Issue]</a></li>
+           <li><a href="javascript:loadIssue('2063')">Sunday, 17th January 2016 [Current Issue]</a></li>
+             
+           <li><a href="javascript:loadIssue('2062')">Saturday, 16th January 2016 </a></li>
+             
+           <li><a href="javascript:loadIssue('2061')">Friday, 15th January 2016 </a></li>
              
            <li><a href="javascript:loadIssue('2060')">Thursday, 14th January 2016 </a></li>
              
@@ -767,10 +871,6 @@ $(document).ready(function(){
            <li><a href="javascript:loadIssue('2058')">Tuesday, 12th January 2016 </a></li>
              
            <li><a href="javascript:loadIssue('2057')">Monday, 11th January 2016 </a></li>
-             
-           <li><a href="javascript:loadIssue('2056')">Sunday, 10th January 2016 </a></li>
-             
-           <li><a href="javascript:loadIssue('2055')">Saturday, 9th January 2016 </a></li>
                           <!-- <li><a href="#">View more</a></li> -->
          <li> <a href="http://www.island.lk/index.php?page_cat=island-archives" >More Archives</a></li>
          
@@ -894,4 +994,4 @@ $(document).ready(function(){
     Processing Request<br/>
     Please Wait... </div>
 <!-- End of AJAX Pre Loader Code -->
-<script language="javascript" type="text/javascript">//__FOOTER_SCRIPT__//</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e0e2e66186","applicationID":"2756541","transactionName":"YQQDY0JTChZRURBRXlhONEVZHQ0LVFccFkFeEQ==","queueTime":0,"applicationTime":210,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body></html>
+<script language="javascript" type="text/javascript">//__FOOTER_SCRIPT__//</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e0e2e66186","applicationID":"2756541","transactionName":"YQQDY0JTChZRURBRXlhONEVZHQ0LVFccFkFeEQ==","queueTime":0,"applicationTime":209,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body></html>

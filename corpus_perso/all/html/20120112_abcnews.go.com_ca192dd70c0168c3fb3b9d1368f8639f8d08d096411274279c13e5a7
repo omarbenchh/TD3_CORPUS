@@ -286,31 +286,25 @@ font-family:Arial, sans-serif;
 </li>
 <li>
 <a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-1-14476486">
-<span class="link-text">NASA TV: ISS Expedition 46 Spacewalk Coverage</span>
-<span class="icon-play m-icon"></span>
-</a>
-</li>
-<li>
-<a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-3-15048938">
-<span class="link-text">Pres. Candidate Jeb Bush Holds Joint News Conference with Sen. Lindsey Graham</span>
+<span class="link-text">Presidential Candidate Ted Cruz (R) Campaigns in Milford, NH</span>
 <span class="icon-play m-icon"></span>
 </a>
 </li>
 <li>
 <a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-2-14519615">
-<span class="link-text">Pres. Candidate Dr. Ben Carson Holds Meet and Greet Event in Charleston, SC</span>
+<span class="link-text">Now on ABC News</span>
 <span class="icon-play m-icon"></span>
 </a>
 </li>
 <li>
 <a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-4-20969244">
-<span class="link-text">Coming Up: Pres. Candidate Donald Trump Campaigns in Uniondale, IA</span>
+<span class="link-text">RADAR: Rain and Snow Across the Mid-Atlantic</span>
 <span class="icon-play m-icon"></span>
 </a>
 </li>
 <li>
 <a class="m-live" data-mobile="true" name="lpos=nav[header_live_desktop_sectionindex]&lid=[link]" href="/Live/video/special-live-5-31962710">
-<span class="link-text">Dow Jones Industrial Average Drops 300+ Points Following Market's Open</span>
+<span class="link-text">EXPLORE.org: Indoor Puppy Room Cam</span>
 <span class="icon-play m-icon"></span>
 </a>
 </li>
@@ -975,8 +969,8 @@ blockLoadFrame = false;
 <div id="mediaContainer">
 <div class="mainMeta" id="mainMeta">
 <div class="spev8-Media" id="spev8-Media">
-<a name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=view[Image]" href="/Health/health-officials-investigate-legionnaires-outbreak-flint-michigan-linked/story?id=36294088"><div id="s8-image-container"><img src="http://a.abcnews.go.com/images/Health/RT_flint_michigan_water_jt_160114_16x9_992.jpg" border="0" width="640" height="360" alt="PHOTO: Michigan National Guard Staff Sergeant William Phillips, right, assists a Flint resident with bottled water at a fire station in Flint, Mich., Jan. 13, 2016. " onerror="this.src='http://a.abcnews.com/images/Health/RT_flint_michigan_water_jt_160114_16x9_992.jpg'" /><div class="s8-image-credit-bg"><!-- bg --></div>
-<div class="photo-credit">Rebecca Cook/Reuters</div>
+<a name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=view[Image]" href="/Health/mosquito-borne-zika-virus-linked-rise-birth-defects/story?id=36317101"><div id="s8-image-container"><img src="http://a.abcnews.go.com/images/Health/AP_Aedes_Mosquito_MEM_160115_16x9_992.jpg" border="0" width="640" height="360" alt="PHOTO: The Zika virus is spread through the Aedes species of mosquito and officials are confirmed it has caused birth defects in children." onerror="this.src='http://a.abcnews.com/images/Health/AP_Aedes_Mosquito_MEM_160115_16x9_992.jpg'" /><div class="s8-image-credit-bg"><!-- bg --></div>
+<div class="photo-credit">James Gathany/AP Photo</div>
 </div></a>
 </div>
 <script type="text/javascript">
@@ -986,7 +980,7 @@ $('.s8-image-credit-bg').css({'width': s8_credit_w, 'height': s8_credit_h});
 </script>
 <div id="s8meta" class="s8meta">
 <div class="headline spev8-medium">
-<a name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Headline]" href="/Health/health-officials-investigate-legionnaires-outbreak-flint-michigan-linked/story?id=36294088">Officials Investigate If Legionnaires Outbreak...</a>
+<a name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Headline]" href="/Health/mosquito-borne-zika-virus-linked-rise-birth-defects/story?id=36317101">Rise in Birth Defects Possibly Linked to...</a>
 </div>
 </div>
 <div class="clearboth"><!--empty--></div>
@@ -998,15 +992,15 @@ $('.s8-image-credit-bg').css({'width': s8_credit_w, 'height': s8_credit_h});
 <div id="videoAdOverlay"><!--empty--></div>
 <ul>
 <li>
-<div id="video-36294088" class="wi-container wi-container-1 active">
-<a id="s8thlink-36294088" name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Thumb]" class="no_overlay" onclick="spev8.loadFrame(36294088, 36294088, false); return false;" href="/Health/health-officials-investigate-legionnaires-outbreak-flint-michigan-linked/story?id=36294088">
+<div id="video-36317101" class="wi-container wi-container-1 active">
+<a id="s8thlink-36317101" name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Thumb]" class="no_overlay" onclick="spev8.loadFrame(36317101, 36317101, false); return false;" href="/Health/mosquito-borne-zika-virus-linked-rise-birth-defects/story?id=36317101">
 <div>
 <div class="wi-img">
-<img src="http://a.abcnews.go.com/images/Health/RT_flint_michigan_water_jt_160114_4x3t_144.jpg" border="0" width="100" height="75" alt="PHOTO: Michigan National Guard Staff Sergeant William Phillips, right, assists a Flint resident with bottled water at a fire station in Flint, Mich., Jan. 13, 2016. " onerror="this.src='http://a.abcnews.com/images/Health/RT_flint_michigan_water_jt_160114_4x3t_144.jpg'" />
+<img src="http://a.abcnews.go.com/images/Health/AP_Aedes_Mosquito_MEM_160115_4x3t_144.jpg" border="0" width="100" height="75" alt="PHOTO: The Zika virus is spread through the Aedes species of mosquito and officials are confirmed it has caused birth defects in children." onerror="this.src='http://a.abcnews.com/images/Health/AP_Aedes_Mosquito_MEM_160115_4x3t_144.jpg'" />
 </div>
 <div class="itemHead-wrapper">
 <div class="viewH">
-Officials Investigate If Legionnaires...
+Rise in Birth Defects Possibly Linked to...
 </div>
 </div>
 <div class="clearboth"><!-- clear --></div>
@@ -1015,15 +1009,15 @@ Officials Investigate If Legionnaires...
 </div>
 </li>
 <li>
-<div id="video-36268680" class="wi-container wi-container-2">
-<a id="s8thlink-36268680" name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Thumb]" class="no_overlay" onclick="spev8.loadFrame(36268680, 36268680, false); return false;" href="/Health/president-obamas-cancer-moon-shot-scientists-cure-disease/story?id=36268680">
+<div id="video-36313612" class="wi-container wi-container-2">
+<a id="s8thlink-36313612" name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Thumb]" class="no_overlay" onclick="spev8.loadFrame(36313612, 36313612, false); return false;" href="/Health/michigan-governor-asks-federal-disaster-declaration-flint-water/story?id=36313612">
 <div>
 <div class="wi-img">
-<img src="http://a.abcnews.go.com/images/Health/gty_joe_biden_speaks_jc_160113_2_4x3t_144.jpg" border="0" width="100" height="75" alt="PHOTO: Joe Biden speaks during a climate summit event at the Eisenhower Executive Office Building in Washington, D.C., Oct. 19, 2015." onerror="this.src='http://a.abcnews.com/images/Health/gty_joe_biden_speaks_jc_160113_2_4x3t_144.jpg'" />
+<img src="http://a.abcnews.go.com/images/Health/GTY_flint_water_02_jef_160115_4x3t_144.jpg" border="0" width="100" height="75" alt="PHOTO: The Flint Water Plant tower is shown, Jan. 13, 2016, in Flint, Michigan." onerror="this.src='http://a.abcnews.com/images/Health/GTY_flint_water_02_jef_160115_4x3t_144.jpg'" />
 </div>
 <div class="itemHead-wrapper">
 <div class="viewH">
-How Obama's Cancer 'Moon Shot' Could...
+Michigan Gov. Asks for Federal Disaster...
 </div>
 </div>
 <div class="clearboth"><!-- clear --></div>
@@ -1032,15 +1026,15 @@ How Obama's Cancer 'Moon Shot' Could...
 </div>
 </li>
 <li>
-<div id="video-36267665" class="wi-container wi-container-3 last">
-<a id="s8thlink-36267665" name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Thumb]" class="no_overlay" onclick="spev8.loadFrame(36267665, 36267665, false); return false;" href="/Health/national-guard-feds-called-water-flint-michigan-residents/story?id=36267665">
+<div id="video-36308614" class="wi-container wi-container-3 last">
+<a id="s8thlink-36308614" name="lpos=widget[ABTop_1_spev8_26_sectionindex]&amp;lid=[Thumb]" class="no_overlay" onclick="spev8.loadFrame(36308614, 36308614, false); return false;" href="/International/people-hospitalized-france-clinical-drug-trial/story?id=36308614">
 <div>
 <div class="wi-img">
-<img src="http://a.abcnews.go.com/images/Health/GTY_Flint_Michigan_Water_1_ER_160113_4x3t_144.jpg" border="0" width="100" height="75" alt="PHOTO: Michigan National Guard Staff Sergeant William Phillips (right), helps a worker unload bottled water in Flint, Michigan, Jan. 13, 2016." onerror="this.src='http://a.abcnews.com/images/Health/GTY_Flint_Michigan_Water_1_ER_160113_4x3t_144.jpg'" />
+<img src="http://a.abcnews.go.com/images/International/HT_Biotrial_Rennes_France_MEM_160115_4x3t_144.jpg" border="0" width="100" height="75" alt="PHOTO: The exterior of the Biotrial clinic in Rennes, France is seen in this undated photo." onerror="this.src='http://a.abcnews.com/images/International/HT_Biotrial_Rennes_France_MEM_160115_4x3t_144.jpg'" />
 </div>
 <div class="itemHead-wrapper">
 <div class="viewH">
-National Guard, Feds Called to Help Get...
+1 Man Is Brain-Dead, 5 Others Are...
 </div>
 </div>
 <div class="clearboth"><!-- clear --></div>
@@ -1073,11 +1067,11 @@ p.getHostDimensions();
 metaPlaylist = new Playlist('metaPlaylist');
 metaMan = new UrlPlaylistManager(metaPlaylist);
 metaMan.pane = window.infoPane;
-metaMan.addItem("spev8-36294088","/widgets/spev8/meta?id=36294088&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
-metaMan.addItem("spev8-36268680","/widgets/spev8/meta?id=36268680&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
-metaMan.addItem("spev8-36267665","/widgets/spev8/meta?id=36267665&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
-metaMan.pane.scrape("/widgets/spev8/meta?id=36294088&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
-metaPlaylist.gotoItem("spev8-36294088");
+metaMan.addItem("spev8-36317101","/widgets/spev8/meta?id=36317101&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
+metaMan.addItem("spev8-36313612","/widgets/spev8/meta?id=36313612&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
+metaMan.addItem("spev8-36308614","/widgets/spev8/meta?id=36308614&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
+metaMan.pane.scrape("/widgets/spev8/meta?id=36317101&pid=null&lpos=ABTop_1_spev8_26_sectionindex&");
+metaPlaylist.gotoItem("spev8-36317101");
 // ]]>
 </script>
 <script type="text/javascript">
@@ -1191,49 +1185,49 @@ Health Headlines
 </div>
 </div>
 <div class="ffl_wrapper squeeze">
-<div id="h_36235889" class="ffl_obj ffl_0 even">
+<div id="h_36311235" class="ffl_obj ffl_0 even">
 <div class="h" id="h_default">
-<a href="/Health/leah-beat-cancer-final-scheduled-treatment-dad/story?id=36235889" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_1]">Leah Still 'Beat Cancer' After Final Scheduled Treatment, Dad Says </a><div class="metaH_timeDay">1/12/16 <span>|</span> 11:52 AM ET</div>
+<a href="/Health/chipotle-restaurants-temporarily-close-safety-meeting/story?id=36311235" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_1]">Chipotle Restaurants to Temporarily Close for Safety Meeting</a><div class="metaH_timeDay">1/15/16 <span>|</span> 10:44 AM ET</div>
 </div>
 </div>
-<div id="h_36239679" class="ffl_obj ffl_1 odd">
+<div id="h_36294088" class="ffl_obj ffl_1 odd">
 <div class="h" id="h_default">
-<a href="/Health/childrens-cough-syrup-recall-parents/story?id=36239679" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_2]"><span class="content-label">Children's Cough Syrup Recall:</span> What Parents Should Know</a><div class="metaH_timeDay">1/12/16 <span>|</span> 1:31 PM ET</div>
+<a href="/Health/health-officials-investigate-legionnaires-outbreak-flint-michigan-linked/story?id=36294088" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_2]">Officials Investigate If Legionnaires Outbreak in Flint Linked to Water Crisis</a><div class="metaH_timeDay">1/14/16 <span>|</span> 9:16 PM ET</div>
 </div>
 </div>
-<div id="h_36244428" class="ffl_obj ffl_2 even">
+<div id="h_36287232" class="ffl_obj ffl_2 even">
 <div class="h" id="h_default">
-<a href="/Health/michigan-police-delivering-water-door-door-amid-contamination/story?id=36244428" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_3]">Police Delivering Water Door-to-Door Amid Contamination Crisis</a><div class="metaH_timeDay">1/12/16 <span>|</span> 3:54 PM ET</div>
+<a href="/Health/flint-water-crisis-prompts-girl-scout-troop-write/story?id=36287232" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_3]">Girl Scout Troop Pleads With Michigan Governor to Fix Flint Water Crisis</a><div class="metaH_timeDay">1/14/16 <span>|</span> 1:26 PM ET</div>
 </div>
 </div>
-<div id="h_36175330" class="ffl_obj ffl_3 odd">
+<div id="h_36268680" class="ffl_obj ffl_3 odd">
 <div class="h" id="h_default">
-<a href="/Health/toddlers-best-friends-recovering-kidney-transplants/story?id=36175330" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_4]">Toddlers Become Best Friends After Kidney Transplants</a><div class="metaH_timeDay">1/8/16 <span>|</span> 5:58 PM ET</div>
+<a href="/Health/president-obamas-cancer-moon-shot-scientists-cure-disease/story?id=36268680" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_4]">How Obama's Cancer 'Moon Shot' Could Help Scientists Cure the Disease</a><div class="metaH_timeDay">1/13/16 <span>|</span> 4:59 PM ET</div>
 </div>
 </div>
-<div id="h_36099975" class="ffl_obj ffl_4 even">
+<div id="h_36267665" class="ffl_obj ffl_4 even">
 <div class="h" id="h_default">
-<a href="/Health/obamas-executive-action-means-mental-health-funding/story?id=36099975" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_5]">What Obama's Executive Action Means for Mental Health Funding</a><div class="metaH_timeDay">1/5/16 <span>|</span> 1:20 PM ET</div>
+<a href="/Health/national-guard-feds-called-water-flint-michigan-residents/story?id=36267665" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_5]">National Guard, Feds Called to Help Get Water to Flint Residents</a><div class="metaH_timeDay">1/13/16 <span>|</span> 12:51 PM ET</div>
 </div>
 </div>
-<div id="h_36104590" class="ffl_obj ffl_5 odd">
+<div id="h_36235889" class="ffl_obj ffl_5 odd">
 <div class="h" id="h_default">
-<a href="/Health/baby-rare-identical-triplets-home-kick-off-year/story?id=36104590" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_6]">Oh, Baby! Rare Identical Triplets Go Home to Kick Off New Year</a><div class="metaH_timeDay">1/5/16 <span>|</span> 4:05 PM ET</div>
+<a href="/Health/leah-beat-cancer-final-scheduled-treatment-dad/story?id=36235889" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_6]">Leah Still 'Beat Cancer' After Final Scheduled Treatment, Dad Says </a><div class="metaH_timeDay">1/12/16 <span>|</span> 11:52 AM ET</div>
 </div>
 </div>
-<div id="h_36103605" class="ffl_obj ffl_6 even">
+<div id="h_36239679" class="ffl_obj ffl_6 even">
 <div class="h" id="h_default">
-<a href="/Health/dash-mind-tlc-diets-top-ranked-2016/story?id=36103605" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_7]">Here Are the Top Ranked Diets for 2016 </a><div class="metaH_timeDay">1/5/16 <span>|</span> 3:49 PM ET</div>
+<a href="/Health/childrens-cough-syrup-recall-parents/story?id=36239679" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_7]"><span class="content-label">Children's Cough Syrup Recall:</span> What Parents Should Know</a><div class="metaH_timeDay">1/12/16 <span>|</span> 1:31 PM ET</div>
 </div>
 </div>
-<div id="h_36105825" class="ffl_obj ffl_7 odd">
+<div id="h_36244428" class="ffl_obj ffl_7 odd">
 <div class="h" id="h_default">
-<a href="/Health/90000-pounds-meat-recalled-contamination/story?id=36105825" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_8]">Nearly 90,000 Pounds of Meat Recalled Because of Possible Contamination</a><div class="metaH_timeDay">1/5/16 <span>|</span> 7:06 PM ET</div>
+<a href="/Health/michigan-police-delivering-water-door-door-amid-contamination/story?id=36244428" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_8]">Police Delivering Water Door-to-Door Amid Contamination Crisis</a><div class="metaH_timeDay">1/12/16 <span>|</span> 3:54 PM ET</div>
 </div>
 </div>
-<div id="h_36031516" class="ffl_obj ffl_8 even last">
+<div id="h_36175330" class="ffl_obj ffl_8 even last">
 <div class="h" id="h_default">
-<a href="/Health/tales-emergency-room-years-eve/story?id=36031516" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_9]">Tales From the ER on New Year's Eve</a><div class="metaH_timeDay">12/31/15 <span>|</span> 3:14 PM ET</div>
+<a href="/Health/toddlers-best-friends-recovering-kidney-transplants/story?id=36175330" name="lpos=widget[B_1_freeformlite_26_sectionindex]&lid=link[Headline_9]">Toddlers Become Best Friends After Kidney Transplants</a><div class="metaH_timeDay">1/8/16 <span>|</span> 5:58 PM ET</div>
 </div>
 </div>
 <div class="clearboth"><!--empty--></div></div>
@@ -1743,23 +1737,23 @@ Connect with Us
 <li class="seo_header">HOT TOPICS:</li>
 <li><a href="http://abcnews.go.com/topics/lifestyle/health/infectious-diseases.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link1]>Infectious Diseases</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/medicare.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link2]>Medicare</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/lung-diseases.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link2]>Lung Diseases</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/prescription-drugs.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link3]>Prescription Drugs</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/marijuana.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link3]>Marijuana</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/drug-abuse.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link4]>Drug Abuse</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/ebola-virus.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link4]>Ebola Virus</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/breast-cancer.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link5]>Breast Cancer</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/cardio-health.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link5]>Cardio Health</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/abortion.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link6]>Ending Pregnancy</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/flu.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link6]>Influenza</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/national-institutes-of-health.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link7]>National Institutes of Health</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/center-for-disease-control.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link7]>Center For Disease Control</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/alcohol-abuse.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link8]>Substance Abuse/Addiction</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/abortion.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link8]>Ending Pregnancy</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/mental-health.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link9]>Mental Health</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/medicare.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link9]>Medicare</a></li>
 <li class="seo_bullet">&#149;</li>
-<li><a href="http://abcnews.go.com/topics/lifestyle/health/opioids.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link10]>Opioids</a></li>
+<li><a href="http://abcnews.go.com/topics/lifestyle/health/prostate-health.htm" name=lpos=widget[hottopics]&lid=link[Topic_Link10]>Prostate Health</a></li>
 </ul>
 <div class="clearboth"><!-- --></div>
 </div>

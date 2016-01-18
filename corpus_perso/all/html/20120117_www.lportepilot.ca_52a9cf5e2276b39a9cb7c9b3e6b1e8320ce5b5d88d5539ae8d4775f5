@@ -232,15 +232,15 @@ _comscore.push({
                 
         <div class="inner">
             <div class="content">
-                <span class="date">January 15, 2016</span>
+                <span class="date">January 17, 2016</span>
                 <a href="http://www.lportepilot.ca/Weather-Forecast" title="Lewisporte Temperature">
                     <p>Lewisporte</p>        
-                    <span><strong>-4°C</strong></span>            
+                    <span><strong>-2°C</strong></span>            
                     <span class="more">Complete weather forecast</span>
                 </a>
             </div>      
             <div class="figure">
-                <img src="http://www.lportepilot.ca//images/meteo/o.png" alt="Conditions actuelles">
+                <img src="http://www.lportepilot.ca//images/meteo/on.png" alt="Conditions actuelles">
             </div>            
         </div>
             <div class="ad-small">
@@ -883,7 +883,12 @@ if(ss != '' && ss != type){
     if(ss != '') ss=';' + ss;
             printAdTag('300x250,300x600','tc.pilotnl',type,crtg_content+'pos=but2;' + ss);
     </script>            </div>
+<div>
+   <h2>Poll</h2>   <a href="http://tcmedia2016.polldaddy.com/s/are-you-a-quitter" rel="external" target="_blank"><img src="/media/flying/1233/poll2.jpg" width="300" height="100"/></a>
+<p></p>
 
+<img src="/media/flying/1003/spacer.jpg" width="300" height="5"/</a>
+</div>
 
 <div>
       <a href="http://www.thetelegram.com/Living/Atlantic-Nights/2015-06-12/article-4180420/Atlantic-Nights/1">
@@ -935,33 +940,29 @@ if(ss != '' && ss != type){
     </ul>    
     <div id="tab10" class="tab obituaries" style="display: none;">
         <p class="title">This week</p>
-        <span>Powered by<br><a href="http://www.InMemoriam.ca/" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-obituary','Propulse-par-Inmemoriam']);">InMemoriam.ca</a></span>            
+        <span>Powered by<br><a href="http://www.InMemoriam.ca/" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-obituary','Propulse-par-Inmemoriam']);">InMemoriam.ca</a></span>            
                          
         <div class="footer">
-            <p class="all"><a href="/Obituaries" title="All obituaries" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-obituary','Toutes-les-annonces']);">All obituaries</a></p>
-            <a class="btn" title="Submit an obituary" href="http://www.inmemoriam.ca/place-announcement.html" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-obituary','Soumettre-annonce']);">Submit an obituary</a>
+            <p class="all"><a href="/Obituaries" title="All obituaries" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-obituary','Toutes-les-annonces']);">All obituaries</a></p>
+            <a class="btn" title="Submit an obituary" href="http://www.inmemoriam.ca/place-announcement.html" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-obituary','Soumettre-annonce']);">Submit an obituary</a>
         </div>
     </div>                            
    
                              
     <div id="tab11" class="tab jobs"  style="display: block;">
         <p class="title">This week<span></span></p>
-        <span>Powered by<br><a href="http://www.careerbeacon.com/index.html" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-emploi','Propulse-par-Jobgo']);">CareerBeacon.com</a></span>            
+        <span>Powered by<br><a href="http://www.careerbeacon.com/index.html" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-emploi','Propulse-par-Jobgo']);">CareerBeacon.com</a></span>            
         <ul class="list">
              
                       
                                                     
-            <li><a href="http://www.careerbeacon.com/search/en/0/4/62/484/0/-1/-1/-1/-1/0/3/MB1601135583" title="Senior Financial Advisor" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-emploi','Job1']);">Senior Financial Advisor</a></li>
-             
-                      
-                                                    
-            <li><a href="http://www.careerbeacon.com/search/en/0/4/62/484/0/-1/-1/-1/-1/0/3/MB1512181833" title="Sales Associate - Gander" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-emploi','Job2']);">Sales Associate - Gander</a></li>
+            <li><a href="http://www.careerbeacon.com/search/en/0/4/62/484/0/-1/-1/-1/-1/0/3/MB1601135583" title="Senior Financial Advisor" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-emploi','Job1']);">Senior Financial Advisor</a></li>
             
         </ul>
             
         <div class="footer">
-                    <p class="all"><a href="http://www.lportepilot.ca/PageVolante/6538/emplois?siteId=19" title="All job offers" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-emploi','Toutes-les-offres-d-emploi']);">All job offers</a></p>
-                <a class="btn" title="Create your profile" href="https://www.careerbeacon.com/user_create.html" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-emploi','CrÃ©er-votre profil']);">Create your profile</a>
+                    <p class="all"><a href="http://www.lportepilot.ca/PageVolante/6538/emplois?siteId=19" title="All job offers" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-emploi','Toutes-les-offres-d-emploi']);">All job offers</a></p>
+                <a class="btn" title="Create your profile" href="https://www.careerbeacon.com/user_create.html" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-emploi','CrÃ©er-votre profil']);">Create your profile</a>
         </div>
     </div>
     
@@ -974,12 +975,12 @@ if(ss != '' && ss != type){
         
         <span>
             Powered by 
-            <a href="http://www.autogo.ca/en/" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-auto','Propulse-par-Autogo']);_gaq.push(['autogo._trackEvent', 'WidgetUnis', 'Click', 'PoweredByAutoGO']);">
+            <a href="http://www.autogo.ca/en/" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-auto','Propulse-par-Autogo']);_gaq.push(['autogo._trackEvent', 'WidgetUnis', 'Click', 'PoweredByAutoGO']);">
                 AutoGo.ca
             </a>
         </span>            
                 <p class="all">
-            <a href="http://www.autogo.ca/en/by-make/all-make/used?postal-code=a0g3a0" title="All deals" target="_blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-10','Ads-feed-Auto','All-auto-deals']);_gaq.push(['autogo._trackEvent', 'WidgetUnis', 'Click', 'ViewAllVehicles']);">
+            <a href="http://www.autogo.ca/en/by-make/all-make/used?postal-code=a0g3a0" title="All deals" target="_blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Ads-feed-Auto','All-auto-deals']);_gaq.push(['autogo._trackEvent', 'WidgetUnis', 'Click', 'ViewAllVehicles']);">
                 All ads
             </a>
         </p>
@@ -1003,7 +1004,7 @@ if(ss != '' && ss != type){
                                         
                     <figure class="small img"><img src="/ugc/photos/biz/webusers//pilot-pic_e302778b6936387f7475f7f06942958f.jpg" alt="Blogger"></figure>
                                                        
-                    <p class="article-link">Blog: <a href="/Blog-Article/b/27123/May-1974" title="Pages From The Past" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Expert-bloggers-opinion','Blog-article-1']);">May 1974</a></p>
+                    <p class="article-link">Blog: <a href="/Blog-Article/b/27123/May-1974" title="Pages From The Past" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-12','Expert-bloggers-opinion','Blog-article-1']);">May 1974</a></p>
                   </li>
                                                           
           
@@ -1016,11 +1017,11 @@ if(ss != '' && ss != type){
                                         
                     <figure class="small img"><img src="/ugc/photos/biz/webusers//Blog_e67908ddc79d4f006a4c6e9b54d81ef0.jpg" alt="Blogger"></figure>
                                                        
-                    <p class="article-link">Blog: <a href="/Blog-Article/b/25898/Sharing-South-Africa-Robben-Island" title="Sharing South Africa" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Expert-bloggers-opinion','Blog-article-2']);">Sharing South Africa — Robben Island</a></p>
+                    <p class="article-link">Blog: <a href="/Blog-Article/b/25898/Sharing-South-Africa-Robben-Island" title="Sharing South Africa" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-12','Expert-bloggers-opinion','Blog-article-2']);">Sharing South Africa — Robben Island</a></p>
                   </li>
                                                                                                           
         </ul>
-            <p class="all"><a title="More bloggers here" href="/bloglist-1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-11','Expert-bloggers-opinion','More-bloggers-here']);">More bloggers here</a></p>
+            <p class="all"><a title="More bloggers here" href="/bloglist-1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-12','Expert-bloggers-opinion','More-bloggers-here']);">More bloggers here</a></p>
       </div>
  
 <div class="newsletter">
@@ -1030,18 +1031,18 @@ if(ss != '' && ss != type){
           <legend>Subscribe to our newsletter</legend>
           <label>Type in your email address</label>
           <input id="newsletter_mail" type="text" onblur="if(this.value=='')this.value='Type in your email address';" onclick="if(this.value=='Type in your email address')this.value='';" value="Type in your email address" name="newsletter_mail">              
-          <button type="submit" name="newsletter-search-submit" value="OK" title="Send" class="btn" id="newsletter-submit" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-12','Newsletter','Subscription']);">OK</button>       
+          <button type="submit" name="newsletter-search-submit" value="OK" title="Send" class="btn" id="newsletter-submit" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-13','Newsletter','Subscription']);">OK</button>       
         </fieldset>
     </form>
 </div>  
      <div>    
-        <h2>Ad Finder <span>January 15, 2016</span></h2>
+        <h2>Ad Finder <span>January 17, 2016</span></h2>
 
                  
 
                     <ul class="aside list">
                             </ul>
-                <a href='http://www.lportepilot.ca/Advertisers/19' class="btn aside" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-13','Ad-finder','View-our-Newspaper-Ads']);">View our Newspaper ads</a>        
+                <a href='http://www.lportepilot.ca/Advertisers/19' class="btn aside" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Ad-finder','View-our-Newspaper-Ads']);">View our Newspaper ads</a>        
     </div>
            
  
@@ -1054,7 +1055,7 @@ if(ss != '' && ss != type){
 
 
 <script>
-   var random1 = "#tab"+ 3
+   var random1 = "#tab"+ 4
 </script>
 
 
@@ -1062,43 +1063,23 @@ if(ss != '' && ss != type){
 <div class="tabs-box promotion">
     <h2>Promotions</h2>    
     <ul class="tabs">
-                    <li><a href="#tab3" title="Flyers" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Flyers-tab']);">Flyers</a></li>
+                    <li><a href="#tab3" title="Flyers" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Flyers-tab']);">Flyers</a></li>
          
-                            <li><a href="#tab4" title="Deals" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Deals-tab']);">Deals</a></li>
+                            <li><a href="#tab4" title="Deals" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Deals-tab']);">Deals</a></li>
         
 
     </ul> 
     
                    
-    <div id="tab3" class="tab circulaires"  style="display: block;">
+    <div id="tab3" class="tab circulaires"  style="display: none;">
         <span>Powered by 
-                    <a href="http://www.dealstreet.ca" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feed-circulaire','Propulse-par-Publisac']);">Dealstreet.ca</a></span>         
+                    <a href="http://www.dealstreet.ca" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feed-circulaire','Propulse-par-Publisac']);">Dealstreet.ca</a></span>         
                                                     
             <article>
                 <div class="inner">            
                     <div class="dek">
                         <p class="title">
-                           <a title="Shoppers Drug Mart" href="http://www.publisac.ca/summerford/flyers/retailer/shoppers-drug-mart/SDM/SDM/2f9a717f-7aa5-4bf8-9757-216f90ef7111?external=true&store_id=ffd0c833-3da6-424a-9e6f-d6f7ad10adce" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Flyers-lien-Shoppers-Drug-Mart']);">Shoppers Drug Mart</a> 
-                        </p>                    
-                                                    <p>Our Store Flyer </p>
-                               
-                        <p>
-                                                                            till  January 15, 2016
-                            
-                        </p>    
-                    </div>
-                </div>
-                <figure><a title="Shoppers Drug Mart" target="blank" href="http://www.publisac.ca/summerford/flyers/retailer/shoppers-drug-mart/SDM/SDM/2f9a717f-7aa5-4bf8-9757-216f90ef7111?external=true&store_id=ffd0c833-3da6-424a-9e6f-d6f7ad10adce" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Flyers-lien-Shoppers-Drug-Mart']);">
-                                    <img src="http://shoppersdrugmart.flyerservices.com/cached_images/pages/SDM_7f56c120-e439-463d-8f64-61f68efa0cdc_111_01_flap_nat_jan09.jpg" alt="">                   
-                                    
-                </a></figure>
-            </article>
-                                            
-            <article>
-                <div class="inner">            
-                    <div class="dek">
-                        <p class="title">
-                           <a title="Shoppers Drug Mart" href="http://www.publisac.ca/summerford/flyers/retailer/shoppers-drug-mart/SDM/SDM/3d698544-3ca8-4121-8bce-c69146d46bea?external=true&store_id=ffd0c833-3da6-424a-9e6f-d6f7ad10adce" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Flyers-lien-Shoppers-Drug-Mart']);">Shoppers Drug Mart</a> 
+                           <a title="Shoppers Drug Mart" href="http://www.publisac.ca/summerford/flyers/retailer/shoppers-drug-mart/SDM/SDM/3d698544-3ca8-4121-8bce-c69146d46bea?external=true&store_id=ffd0c833-3da6-424a-9e6f-d6f7ad10adce" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Flyers-lien-Shoppers-Drug-Mart']);">Shoppers Drug Mart</a> 
                         </p>                    
                                                     <p>Our Store Flyer </p>
                                
@@ -1108,8 +1089,28 @@ if(ss != '' && ss != type){
                         </p>    
                     </div>
                 </div>
-                <figure><a title="Shoppers Drug Mart" target="blank" href="http://www.publisac.ca/summerford/flyers/retailer/shoppers-drug-mart/SDM/SDM/3d698544-3ca8-4121-8bce-c69146d46bea?external=true&store_id=ffd0c833-3da6-424a-9e6f-d6f7ad10adce" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Flyers-lien-Shoppers-Drug-Mart']);">
+                <figure><a title="Shoppers Drug Mart" target="blank" href="http://www.publisac.ca/summerford/flyers/retailer/shoppers-drug-mart/SDM/SDM/3d698544-3ca8-4121-8bce-c69146d46bea?external=true&store_id=ffd0c833-3da6-424a-9e6f-d6f7ad10adce" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Flyers-lien-Shoppers-Drug-Mart']);">
                                     <img src="http://shoppersdrugmart.flyerservices.com/cached_images/pages/SDM_278ecf4a-9d2d-4aa3-bab9-2487c15ad775_111_01_flap_atl_jan16.jpg" alt="">                   
+                                    
+                </a></figure>
+            </article>
+                                            
+            <article>
+                <div class="inner">            
+                    <div class="dek">
+                        <p class="title">
+                           <a title="Home Hardware" href="http://www.publisac.ca/summerford/flyers/retailer/home-hardware/HHW/HHW/08295f5f-59bb-4b16-81ff-24fab91ae7dd?external=true&store_id=ddb5c5e3-24f4-4d54-8d06-604f984f57b9" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Flyers-lien-Home-Hardware']);">Home Hardware</a> 
+                        </p>                    
+                                                    <p>Bath & Kitchen Planner </p>
+                               
+                        <p>
+                                                                            till  December 31, 2016
+                            
+                        </p>    
+                    </div>
+                </div>
+                <figure><a title="Home Hardware" target="blank" href="http://www.publisac.ca/summerford/flyers/retailer/home-hardware/HHW/HHW/08295f5f-59bb-4b16-81ff-24fab91ae7dd?external=true&store_id=ddb5c5e3-24f4-4d54-8d06-604f984f57b9" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Flyers-lien-Home-Hardware']);">
+                                    <img src="http://homehardware.flyerservices.com/cached_images/pages/HHW_35df374a-de24-424c-8e11-2d76473787c6_111_OFC_OBC_9504_0001.jpg" alt="">                   
                                     
                 </a></figure>
             </article>
@@ -1122,19 +1123,19 @@ if(ss != '' && ss != type){
                                 <button id="rechercher-circulaire" class="btn small" title="Trouver" value="OK" name="rechercher-circulaire" type="button" onclick='javascript: publisac_search("flyers");'>Find</button>
             </fieldset>
         </form>    
-        <p class="all"><a href="http://www.publisac.ca/flyers/?pc=A0G3A0" title="All flyers" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','All-flyers']);">All flyers</a></p>
+        <p class="all"><a href="http://www.publisac.ca/flyers/?pc=A0G3A0" title="All flyers" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','All-flyers']);">All flyers</a></p>
     </div>  
         
      
-    <div id="tab4" class="tab local"  style="display: none;">
+    <div id="tab4" class="tab local"  style="display: block;">
         <span>Powered by 
-                    <a href="http://www.dealstreet.ca" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feed-deals','Propulse-par-Publisac']);">Dealstreet.ca</a></span>         
+                    <a href="http://www.dealstreet.ca" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feed-deals','Propulse-par-Publisac']);">Dealstreet.ca</a></span>         
                                              
             <article>
                 <div class="inner">            
                     <div class="dek">
                         <p class="title">
-                         <a title="1/2" PEX PIPE" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/1-2-pex-pipe/id/78cdf35f-97cf-425c-9f5d-9af252769485/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Deals-lien-Home-Hardware']);">
+                         <a title="1/2" PEX PIPE" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/1-2-pex-pipe/id/78cdf35f-97cf-425c-9f5d-9af252769485/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Deals-lien-Home-Hardware']);">
                                                             1/2" PEX PIPE
                                 
                           </a>  
@@ -1150,7 +1151,7 @@ if(ss != '' && ss != type){
                          
                     </div>
                 </div>
-                <figure><a title="title" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/1-2-pex-pipe/id/78cdf35f-97cf-425c-9f5d-9af252769485/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Deals-lien-Home-Hardware']);">
+                <figure><a title="title" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/1-2-pex-pipe/id/78cdf35f-97cf-425c-9f5d-9af252769485/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Deals-lien-Home-Hardware']);">
                                     <img src="http://homehardware.flyerservices.com/cached_images/products/thumbnail/HHDW_114_32980780.jpg" alt="1/2" PEX PIPE">                     
                                       
                 </a></figure>
@@ -1160,7 +1161,7 @@ if(ss != '' && ss != type){
                 <div class="inner">            
                     <div class="dek">
                         <p class="title">
-                         <a title="14/2 NMD 90 WIRE - 10 Metres" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/14-2-nmd-90-wire-10-metres/id/a838a62b-5280-4f90-87dd-1ca8f5ccfc25/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Deals-lien-Home-Hardware']);">
+                         <a title="14/2 NMD 90 WIRE - 10 Metres" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/14-2-nmd-90-wire-10-metres/id/a838a62b-5280-4f90-87dd-1ca8f5ccfc25/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Deals-lien-Home-Hardware']);">
                                                             14/2 NMD 90 WIRE - 10 Metres
                                 
                           </a>  
@@ -1176,7 +1177,7 @@ if(ss != '' && ss != type){
                          
                     </div>
                 </div>
-                <figure><a title="title" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/14-2-nmd-90-wire-10-metres/id/a838a62b-5280-4f90-87dd-1ca8f5ccfc25/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','Deals-lien-Home-Hardware']);">
+                <figure><a title="title" href="http://www.publisac.ca/summerford/deals/retailer/home-hardware/14-2-nmd-90-wire-10-metres/id/a838a62b-5280-4f90-87dd-1ca8f5ccfc25/HHW/HHW/00000000-0000-0000-0000-000000000000" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','Deals-lien-Home-Hardware']);">
                                     <img src="http://homehardware.flyerservices.com/cached_images/products/thumbnail/HHDW_114_36860780.jpg" alt="14/2 NMD 90 WIRE - 10 Metres">                     
                                       
                 </a></figure>
@@ -1191,13 +1192,13 @@ if(ss != '' && ss != type){
                                 <button id="rechercher-circulaire" class="btn small" title="Trouver" value="OK" name="rechercher-circulaire" type="button" onclick='javascript: publisac_search("deals");'>Find</button>
             </fieldset>
         </form>  
-        <p class="all"><a href="http://www.publisac.ca/deals/?pc=A0G3A0" target="blank" title="All deals" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','All-deals']);">All deals</a></p>
+        <p class="all"><a href="http://www.publisac.ca/deals/?pc=A0G3A0" target="blank" title="All deals" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','All-deals']);">All deals</a></p>
     </div> 
                     
                
     <div id="tab5" class="tab coupon"  style="display: none;">
         <span>Powered by 
-                    <a href="http://www.dealstreet.ca" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feed-coupon','Propulse-par-Publisac']);">Dealstreet.ca</a></span>         
+                    <a href="http://www.dealstreet.ca" target="blank" rel="nofollow" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feed-coupon','Propulse-par-Publisac']);">Dealstreet.ca</a></span>         
                         <form method="GET" action="#">
             <fieldset>
                 <legend class="title">Find coupons</legend>
@@ -1207,7 +1208,7 @@ if(ss != '' && ss != type){
                                 <button id="rechercher-circulaire" class="btn small" title="Trouver" value="OK" name="rechercher-circulaire" type="button" onclick='javascript: publisac_search("coupon");'>Find</button>
             </fieldset>
         </form>  
-        <p class="all"><a href="http://www.publisac.ca/coupons/?pc=A0G3A0" target="blank" title="All coupons" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-14','Promotions-feeds','All-coupons']);">All coupons</a></p>
+        <p class="all"><a href="http://www.publisac.ca/coupons/?pc=A0G3A0" target="blank" title="All coupons" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Promotions-feeds','All-coupons']);">All coupons</a></p>
     </div>  
                          
 </div>    
@@ -1220,8 +1221,8 @@ if(ss != '' && ss != type){
 <div class="tabs-box most-popular">
         <h2>Most popular</h2>    
         <ul class="tabs">
-                     <li><a href="#tab20" title="Most read" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-tab']);">Most read</a></li>
-            <li><a href="#tab21" title="Most commented" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-commented-tab']);">Most commented</a></li>
+                     <li><a href="#tab20" title="Most read" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-tab']);">Most read</a></li>
+            <li><a href="#tab21" title="Most commented" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-commented-tab']);">Most commented</a></li>
         
         </ul>  
         <div id="tab20" class="tab" >    
@@ -1229,43 +1230,43 @@ if(ss != '' && ss != type){
                     
                                         <article > 
                             <div class="dek">
-                                <a href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4404040/RCMP-issue-warning-to-motorists-in-Notre-Dame-Junction-area/1" title="RCMP issue warning to motorists in Notre Dame Junction area" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-1']);">RCMP issue warning to motorists in Notre Dame Junction area</a>
+                                <a href="http://www.lportepilot.ca/News/Local/2016-01-12/article-4401731/Gillett-pleads-not-guilty-to-assault-charges%3B-Moyles-matters-set-over-to-Feb.-9/1" title="Gillett pleads not guilty to assault charges; Moyles matters set over to Feb. 9" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-1']);">Gillett pleads not guilty to assault charges; Moyles matters set over to Feb. 9</a>
                             </div>
-                                                    <figure><a title="RCMP issue warning to motorists in Notre Dame Junction area" href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4404040/RCMP-issue-warning-to-motorists-in-Notre-Dame-Junction-area/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-1']);"><img src="/media/photos/unis/2016/01/14/2016-01-14-09-58-11-roads_update_2-vignette.jpg" alt="Roads update"></a></figure>
+                                                    <figure><a title="Gillett pleads not guilty to assault charges; Moyles matters set over to Feb. 9" href="http://www.lportepilot.ca/News/Local/2016-01-12/article-4401731/Gillett-pleads-not-guilty-to-assault-charges%3B-Moyles-matters-set-over-to-Feb.-9/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-1']);"><img src="/media/photos/unis/2015/10/07/2015-10-07-08-43-18-Gillett web final-vignette.jpg" alt="Richard Gillett web"></a></figure>
                                             </article>                    
                                                                     
                     
                                         <article > 
                             <div class="dek">
-                                <a href="http://www.lportepilot.ca/News/Local/2016-01-12/article-4401731/Gillett-pleads-not-guilty-to-assault-charges%3B-Moyles-matters-set-over-to-Feb.-9/1" title="Gillett pleads not guilty to assault charges; Moyles matters set over to Feb. 9" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-2']);">Gillett pleads not guilty to assault charges; Moyles matters set over to Feb. 9</a>
+                                <a href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4404040/RCMP-issue-warning-to-motorists-in-Notre-Dame-Junction-area/1" title="RCMP issue warning to motorists in Notre Dame Junction area" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-2']);">RCMP issue warning to motorists in Notre Dame Junction area</a>
                             </div>
-                                                    <figure><a title="Gillett pleads not guilty to assault charges; Moyles matters set over to Feb. 9" href="http://www.lportepilot.ca/News/Local/2016-01-12/article-4401731/Gillett-pleads-not-guilty-to-assault-charges%3B-Moyles-matters-set-over-to-Feb.-9/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-2']);"><img src="/media/photos/unis/2015/10/07/2015-10-07-08-43-18-Gillett web final-vignette.jpg" alt="Richard Gillett web"></a></figure>
+                                                    <figure><a title="RCMP issue warning to motorists in Notre Dame Junction area" href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4404040/RCMP-issue-warning-to-motorists-in-Notre-Dame-Junction-area/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-2']);"><img src="/media/photos/unis/2016/01/14/2016-01-14-09-58-11-roads_update_2-vignette.jpg" alt="Roads update"></a></figure>
                                             </article>                    
                                                                     
                     
                                         <article > 
                             <div class="dek">
-                                <a href="http://www.lportepilot.ca/News/Local/2016-01-11/article-4400285/Fogo-Island-codfish-making-its-way-to-Toronto-restaurant-plates/1" title="Fogo Island codfish making its way to Toronto restaurant plates" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-3']);">Fogo Island codfish making its way to Toronto restaurant plates</a>
+                                <a href="http://www.lportepilot.ca/News/Local/2016-01-11/article-4400285/Fogo-Island-codfish-making-its-way-to-Toronto-restaurant-plates/1" title="Fogo Island codfish making its way to Toronto restaurant plates" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-3']);">Fogo Island codfish making its way to Toronto restaurant plates</a>
                             </div>
-                                                    <figure><a title="Fogo Island codfish making its way to Toronto restaurant plates" href="http://www.lportepilot.ca/News/Local/2016-01-11/article-4400285/Fogo-Island-codfish-making-its-way-to-Toronto-restaurant-plates/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-3']);"><img src="/media/photos/unis/2016/01/11/2016-01-11-09-21-32-PIL A00 13012016 fogofish SUB1web-vignette.jpg" alt="PIL A00 13062016 fogofish SUB1.jpg"></a></figure>
+                                                    <figure><a title="Fogo Island codfish making its way to Toronto restaurant plates" href="http://www.lportepilot.ca/News/Local/2016-01-11/article-4400285/Fogo-Island-codfish-making-its-way-to-Toronto-restaurant-plates/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-3']);"><img src="/media/photos/unis/2016/01/11/2016-01-11-09-21-32-PIL A00 13012016 fogofish SUB1web-vignette.jpg" alt="PIL A00 13062016 fogofish SUB1.jpg"></a></figure>
                                             </article>                    
                                                                     
                     
                                         <article > 
                             <div class="dek">
-                                <a href="http://www.lportepilot.ca/Sports/2016-01-13/article-4402965/Central-Newfoundland-Hockey-League-%26mdash%3B-Twillingate-Combines-sitting-in-top-spot/1" title="Central Newfoundland Hockey League — Twillingate Combines sitting in top spot" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-4']);">Central Newfoundland Hockey League — Twillingate Combines sitting in top spot</a>
+                                <a href="http://www.lportepilot.ca/Sports/2016-01-13/article-4402965/Central-Newfoundland-Hockey-League-%26mdash%3B-Twillingate-Combines-sitting-in-top-spot/1" title="Central Newfoundland Hockey League — Twillingate Combines sitting in top spot" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-4']);">Central Newfoundland Hockey League — Twillingate Combines sitting in top spot</a>
                             </div>
-                                                    <figure><a title="Central Newfoundland Hockey League — Twillingate Combines sitting in top spot" href="http://www.lportepilot.ca/Sports/2016-01-13/article-4402965/Central-Newfoundland-Hockey-League-%26mdash%3B-Twillingate-Combines-sitting-in-top-spot/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-4']);"><img src="/media/photos/unis/2016/01/13/2016-01-13-01-39-27-IMG_7309web-vignette.jpg" alt="Combines 1"></a></figure>
+                                                    <figure><a title="Central Newfoundland Hockey League — Twillingate Combines sitting in top spot" href="http://www.lportepilot.ca/Sports/2016-01-13/article-4402965/Central-Newfoundland-Hockey-League-%26mdash%3B-Twillingate-Combines-sitting-in-top-spot/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-4']);"><img src="/media/photos/unis/2016/01/13/2016-01-13-01-39-27-IMG_7309web-vignette.jpg" alt="Combines 1"></a></figure>
                                             </article>                    
                                                                     
                     
                                         <article > 
                             <div class="dek">
-                                <a href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4403966/Lewisporte-RCMP-warning-motorists-to-obey-stop-signs/1" title="Lewisporte RCMP warning motorists to obey stop signs" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-5']);">Lewisporte RCMP warning motorists to obey stop signs</a>
+                                <a href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4403966/Lewisporte-RCMP-warning-motorists-to-obey-stop-signs/1" title="Lewisporte RCMP warning motorists to obey stop signs" rel="bookmark" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-5']);">Lewisporte RCMP warning motorists to obey stop signs</a>
                             </div>
-                                                    <figure><a title="Lewisporte RCMP warning motorists to obey stop signs" href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4403966/Lewisporte-RCMP-warning-motorists-to-obey-stop-signs/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-15','Most-popular','Most-read-5']);"><img src="/media/photos/unis/2016/01/14/2016-01-14-08-21-39-PIL A00 20012016 rcmpstop CJweb-vignette.jpg" alt="PIL A00 20012016 rcmpstop CJ.jpg"></a></figure>
+                                                    <figure><a title="Lewisporte RCMP warning motorists to obey stop signs" href="http://www.lportepilot.ca/News/Local/2016-01-14/article-4403966/Lewisporte-RCMP-warning-motorists-to-obey-stop-signs/1" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','Most-popular','Most-read-5']);"><img src="/media/photos/unis/2016/01/14/2016-01-14-08-21-39-PIL A00 20012016 rcmpstop CJweb-vignette.jpg" alt="PIL A00 20012016 rcmpstop CJ.jpg"></a></figure>
                                             </article>                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
         </div>          
         
         <div id="tab21" class="tab" style="display: none;">
@@ -1280,25 +1281,25 @@ if(ss != '' && ss != type){
   <h2>More</h2>
   <ul class="list">
         
-      <li><a href="http://www.lportepilot.ca/FlyingPage/385/Smart-Edition-Signup" title="DIGITAL SMART EDITION SIGNUP - Pilot" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-1']);">DIGITAL SMART EDITION SIGNUP - Pilot</a></li>
+      <li><a href="http://www.lportepilot.ca/FlyingPage/385/Smart-Edition-Signup" title="DIGITAL SMART EDITION SIGNUP - Pilot" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-1']);">DIGITAL SMART EDITION SIGNUP - Pilot</a></li>
         
-      <li><a href="/FlyingPage/4195/Editorial-Information" title="Pilot Editorial deadlines/submission guidelines/coverage requests" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-2']);">Pilot Editorial deadlines/submission guidelines/coverage requests</a></li>
+      <li><a href="/FlyingPage/4195/Editorial-Information" title="Pilot Editorial deadlines/submission guidelines/coverage requests" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-2']);">Pilot Editorial deadlines/submission guidelines/coverage requests</a></li>
         
-      <li><a href="http://www.lportepilot.ca/FlyingPage/300" title="NIE - Newspaper in Education" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-3']);">NIE - Newspaper in Education</a></li>
+      <li><a href="http://www.lportepilot.ca/FlyingPage/300" title="NIE - Newspaper in Education" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-3']);">NIE - Newspaper in Education</a></li>
         
-      <li><a href="http://archives.cedrom-sni.com/default.aspx?UN=newsnet_Friend&httpref=newsnet_Friend&LoginType=6" title="CEDROM Newspaper Archives" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-4']);">CEDROM Newspaper Archives</a></li>
+      <li><a href="http://archives.cedrom-sni.com/default.aspx?UN=newsnet_Friend&httpref=newsnet_Friend&LoginType=6" title="CEDROM Newspaper Archives" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-4']);">CEDROM Newspaper Archives</a></li>
         
-      <li><a href="http://www.lportepilot.ca/FlyingPage/555" title="Subscribe to The Pilot" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-5']);">Subscribe to The Pilot</a></li>
+      <li><a href="http://www.lportepilot.ca/FlyingPage/555" title="Subscribe to The Pilot" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-5']);">Subscribe to The Pilot</a></li>
         
-      <li><a href="http://tctranscontinental.com/en/9-careers/cvmanager_frameset.html" title="TC Job Opportunities" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-6']);">TC Job Opportunities</a></li>
+      <li><a href="http://tctranscontinental.com/en/9-careers/cvmanager_frameset.html" title="TC Job Opportunities" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-6']);">TC Job Opportunities</a></li>
         
-      <li><a href="/PageVolante/2612/emplois?siteId=19" title="Jobs" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-7']);">Jobs</a></li>
+      <li><a href="/PageVolante/2612/emplois?siteId=19" title="Jobs" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-7']);">Jobs</a></li>
         
-      <li><a href="/FlyingPage/3743/To-place-a-classifieds-ad-18666375236" title="To place a classifieds ad: 1-866-637-5236" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-8']);">To place a classifieds ad: 1-866-637-5236</a></li>
+      <li><a href="/FlyingPage/3743/To-place-a-classifieds-ad-18666375236" title="To place a classifieds ad: 1-866-637-5236" rel="nofollow" target="blank" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-8']);">To place a classifieds ad: 1-866-637-5236</a></li>
         
-      <li><a href="FlyingPage/4818/Cooking-for-Life" title="Cooking for life" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-9']);">Cooking for life</a></li>
+      <li><a href="FlyingPage/4818/Cooking-for-Life" title="Cooking for life" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-9']);">Cooking for life</a></li>
         
-      <li><a href="http://www.lportepilot.ca/Our-Team" title="Contact Us / Our Team" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-16','More','More-information-10']);">Contact Us / Our Team</a></li>
+      <li><a href="http://www.lportepilot.ca/Our-Team" title="Contact Us / Our Team" onClick="_gaq.push(['_trackEvent', 'Widgets-colonne-droite-Position-17','More','More-information-10']);">Contact Us / Our Team</a></li>
     </ul>
 </div>  <div>
    <h2>Facebook</h2>   <iframe src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/pages/The-Lewisporte-Pilot/110105542347855&amp;width=300&amp;colorscheme=light&amp;show_faces=false&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:427px;" allowTransparency="true"></iframe>

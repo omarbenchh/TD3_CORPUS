@@ -253,17 +253,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1429702959388-0');
 <li class="header-menu header-menu-9" value="9"><a href="http://prenumerata.wprost.pl/" class="accesskey" accesskey="P" target="prenumerata.wprost.pl" rel="nofollow" title="Prenumerata" ><u>P</u>renumerata</a></li>
 <li class="header-menu header-menu-10" value="10"><a href="http://www.wprost.pl/" rel="nofollow" title="Nasze serwisy" >Nasze serwisy</a></li>
 </ul></div><div id="header-menu2"><ul class="sm1"><li class="header-menu header-menu-163 header-menu-first" value="163"><a href="http://www.wprost.pl/kryzys-imigracyjny/" rel="nofollow" title="Kryzys imigracyjny" >Kryzys imigracyjny</a></li>
-<li class="header-menu header-menu-162" value="162"><a href="http://www.wprost.pl/zloty-pociag/" rel="nofollow" title="Z³oty poci±g" >Z³oty poci±g</a></li>
 <li class="header-menu header-menu-11" value="11"><a href="http://www.wprost.pl/tylko-u-nas/" rel="nofollow" title="Tylko u nas" >Tylko u nas</a></li>
 <li class="header-menu header-menu-12" value="12"><a href="http://www.wprost.pl/kraj/" rel="nofollow" title="Wiadomo¶ci z kraju">Kraj</a></li>
 <li class="header-menu header-menu-14" value="14"><a href="http://www.wprost.pl/swiat/" rel="nofollow" title="Wiadomo¶ci ze ¶wiata">¦wiat</a></li>
 <li class="header-menu header-menu-19" value="19"><a href="http://www.wprost.pl/blogi/" rel="nofollow" title="Blogi" >Blogi</a></li>
 <li class="header-menu header-menu-109 header-menu-disabled" value="109"><a href="http://www.wprost.pl/top-7-wprost/" rel="nofollow" title="TOP 7 Wprost" >TOP 7 Wprost</a></li>
 <li class="header-menu header-menu-83 header-menu-disabled" value="83"><a href="http://www.wprost.pl/wideo/" rel="nofollow" title="Wideo" >Wideo</a></li>
-<li class="header-menu header-menu-94 header-menu-disabled" value="94"><a href="http://www.wprost.pl/wybuduj-z-nami-dom/" rel="nofollow" title="Wybuduj z nami dom" >Wybuduj z nami dom</a></li>
+<li class="header-menu header-menu-104" value="104"><a href="http://www.wprost.pl/newsletter/" rel="nofollow" title="Newsletter" >Newsletter</a></li>
 <li class="header-menu header-menu-16 header-menu-disabled" value="16"><a href="http://ludzie.wprost.pl/" target="ludzie.wprost.pl" rel="nofollow" title="Ludzie Wprost" >Ludzie Wprost</a></li>
 <li class="header-menu header-menu-15 header-menu-disabled" value="15"><a href="http://www.wprost.pl/prasa/" rel="nofollow" title="Przegl±d prasy" >Przegl±d prasy</a></li>
-<li class="header-menu header-menu-104 header-menu-disabled" value="104"><a href="http://www.wprost.pl/newsletter/" rel="nofollow" title="Newsletter" >Newsletter</a></li>
+<li class="header-menu header-menu-94 header-menu-disabled" value="94"><a href="http://www.wprost.pl/wybuduj-z-nami-dom/" rel="nofollow" title="Wybuduj z nami dom" >Wybuduj z nami dom</a></li>
 <li class="header-menu header-menu-105 header-menu-disabled" value="105"><a href="http://www.wprost.pl/newsletter-podglad/" rel="nofollow" title="Newsletter - Podgl±d" >Newsletter - Podgl±d</a></li>
 <li class="header-menu header-menu-107 header-menu-disabled" value="107"><a href="http://www.wprost.pl/kryminalny/" rel="nofollow" title="Kryminalny" >Kryminalny</a></li>
 <li class="header-menu header-menu-112 header-menu-disabled" value="112"><a href="http://100najbogatszych.wprost.pl/" target="rankingi.wprost.pl" rel="nofollow" title="Lista 100 Najbogatszych Polaków">100 Najbogatszych</a></li>
@@ -273,6 +272,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1429702959388-0');
 <li class="header-menu header-menu-157 header-menu-disabled" value="157"><a href="http://www.wprost.pl/wybory-parlamentarne-2015/" rel="nofollow" title="Wybory parlamentarne 2015" >Wybory parlamentarne 2015</a></li>
 <li class="header-menu header-menu-158 header-menu-disabled" value="158"><a href="http://www.wprost.pl/referendum-2015/" rel="nofollow" title="Referendum: 6 wrze¶nia 2015">Referendum 2015</a></li>
 <li class="header-menu header-menu-161" value="161"><a href="http://www.wprost.pl/najnowsze/" rel="nofollow" title="Najnowsze" >Najnowsze</a></li>
+<li class="header-menu header-menu-162 header-menu-disabled" value="162"><a href="http://www.wprost.pl/zloty-pociag/" rel="nofollow" title="Z³oty poci±g" >Z³oty poci±g</a></li>
 <li class="header-menu header-menu-165 header-menu-disabled" value="165"><a href="http://www.wprost.pl/miss-world-poland-2015/" rel="nofollow" title="Miss World Poland 2015" >Miss World Poland 2015</a></li>
 </ul><ul class="sm2"><li class="header-menu header-menu-17 header-menu-first" value="17"><a href="http://www.wprost.pl/felietonisci/" rel="nofollow" title="Felietony" >Felietony</a></li>
 <li class="header-menu header-menu-18" value="18"><a href="http://www.wprost.pl/komentarze/" rel="nofollow" title="Komentarze" >Komentarze</a></li>
@@ -1183,19 +1183,19 @@ jQuery.ajax({
  <div class="cover fl_left"> 
  <span>Wydanie:</span> 
  <br /> 
- <a class="cover-issue" title="Tygodnik WPROST - Spis tre¶ci 1/2016 (1718)" href="http://www.wprost.pl/tygodnik/"><strong>1/2016</strong> (1718)</a> 
+ <a class="cover-issue" title="Tygodnik WPROST - Spis tre¶ci 2/2016 (1719)" href="http://www.wprost.pl/tygodnik/"><strong>2/2016</strong> (1719)</a> 
  <ul class="list-items"> 
- <li class="list-item list-arrow arrow-red item-index"><a title="Tygodnik WPROST - Spis tre¶ci 1/2016 (1718)" href="/tygodnik/">Spis tre¶ci numeru</a></li> 
+ <li class="list-item list-arrow arrow-red item-index"><a title="Tygodnik WPROST - Spis tre¶ci 2/2016 (1719)" href="/tygodnik/">Spis tre¶ci numeru</a></li> 
  <li class="list-item list-arrow arrow-red item-archive"><a title="Tygodnik WPROST - Archiwum wydañ" href="/archiwum/">Archiwum wydañ</a></li> 
  <li class="list-item list-arrow arrow-red item-mprasa"><a title="E-wydanie tygodnika Wprost" rel="nofollow" target="ewydanie.wprost.pl" href="http://e.wprost.pl/">E-wydanie</a></li> 
  <li class="list-item list-arrow arrow-red item-ditrib"><a title="Prenumerata tygodnika Wprost" rel="nofollow" target="prenumerata.wprost.pl" href="http://prenumerata.wprost.pl/">Prenumerata</a></li> 
- <li class="list-item list-arrow arrow-red item-cover"><a title="Tygodnik WPROST - Ok³adka numeru Numer: 1/2016 (1718)" rel="lightbox" href="http://www.wprost.pl/G/wprost_covers/a/1718_a.jpg">Powiêksz ok³adkê</a></li> 
+ <li class="list-item list-arrow arrow-red item-cover"><a title="Tygodnik WPROST - Ok³adka numeru Numer: 2/2016 (1719)" rel="lightbox" href="http://www.wprost.pl/G/wprost_covers/a/1719_a.jpg">Powiêksz ok³adkê</a></li> 
  </ul> 
  </div> 
  <div class="cover-image fl_right"> 
- <a href="http://www.wprost.pl/tygodnik/?I=1718"><img 
- height="220" alt="Numer: 1/2016 (1718)" 
- src="http://www.wprost.pl/G/wprost_covers/a/1718_a.jpg" 
+ <a href="http://www.wprost.pl/tygodnik/?I=1719"><img 
+ height="220" alt="Numer: 2/2016 (1719)" 
+ src="http://www.wprost.pl/G/wprost_covers/a/1719_a.jpg" 
  class="wprost-cover" /></a> 
  </div> 
 </div><div class="clear"></div></div><hr /><div class="clear"></div><div id="box168" class="box box-static p-relative mbottom35 box-scheme-red"><div style="background: #FFF;"> 
@@ -1243,83 +1243,83 @@ function checkNewsletterEmail()
 </thead> 
 <tbody> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-03 07:03:59"> 
- 07:03 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 16:02:38"> 
+ 16:02 
 </td> 
 <td valign="top"> 
- <a title="Ambasada Arabii Saudyjskiej w Teheranie podpalona. Protesty po egzekucji szyickiego duchownego" href="/ar/528654/Ambasada-Arabii-Saudyjskiej-w-Teheranie-podpalona-Protesty-po-egzekucji-szyickiego-duchownego/">Ambasada Arabii Saudyjskiej w&nbsp;Teheranie podpalona. Protesty po&nbsp;egzekucji szyickiego duchownego</a> 
+ <a title="Rosjanie bêd± rozwijaæ broñ j±drow± do ochrony przed asteroidami" href="/ar/529600/Rosjanie-beda-rozwijac-bron-jadrowa-do-ochrony-przed-asteroidami/">Rosjanie bêd± rozwijaæ broñ j±drow± do&nbsp;ochrony przed asteroidami</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-03 06:38:11"> 
- 06:38 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 15:19:48"> 
+ 15:19 
 </td> 
 <td valign="top"> 
- <a title="Prezydent Estonii o¿eni³ siê z pracownic± ministerstwa obrony £otwy" href="/ar/528653/Prezydent-Estonii-ozenil-sie-z-pracownica-ministerstwa-obrony-Lotwy/">Prezydent Estonii o¿eni³ siê z&nbsp;pracownic± ministerstwa obrony £otwy</a> 
+ <a title="S&P obni¿a rating Polski. &quot;Wiarygodno¶æ tej agencji to wró¿enie z fusów&quot;" href="/ar/529595/SP-obniza-rating-Polski-Wiarygodnosc-tej-agencji-to-wrozenie-z-fusow/">S&P obni¿a rating Polski. "Wiarygodno¶æ tej agencji to&nbsp;wró¿enie z&nbsp;fusów"</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 22:09:53"> 
- 22:09 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 14:50:45"> 
+ 14:50 
 </td> 
 <td valign="top"> 
- <a title="Apel TOPR: Sprzêt nie gwarantuje bezpieczeñstwa. Prosimy o rezygnacjê z wyj¶æ w wy¿sze partie Tatr" href="/ar/528651/Apel-TOPR-Sprzet-nie-gwarantuje-bezpieczenstwa-Prosimy-o-rezygnacje-z-wyjsc-w-wyzsze-partie-Tatr/">Apel TOPR: Sprzêt nie&nbsp;gwarantuje bezpieczeñstwa. Prosimy o&nbsp;rezygnacjê z&nbsp;wyj¶æ w&nbsp;wy¿sze partie Tatr</a> 
+ <a title="Atak w Burkina Faso: Terrory¶ci szukali bia³ych ludzi. W¶ród ofiar dziecko" href="/ar/529591/Atak-w-Burkina-Faso-Terrorysci-szukali-bialych-ludzi-Wsrod-ofiar-dziecko/">Atak w&nbsp;Burkina Faso: Terrory¶ci szukali bia³ych ludzi. W¶ród ofiar dziecko</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 21:40:29"> 
- 21:40 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 13:56:22"> 
+ 13:56 
 </td> 
 <td valign="top"> 
- <a title="Macierewicz odtajni zbiór zastrze¿ony IPN na prze³omie stycznia i lutego&quot;" href="/ar/528650/Macierewicz-odtajni-zbior-zastrzezony-IPN-na-przelomie-stycznia-i-lutego/">Macierewicz odtajni zbiór zastrze¿ony IPN na&nbsp;prze³omie stycznia i&nbsp;lutego?</a> 
+ <a title="Spotkanie Tusk-Duda. &quot;Przewodnicz±cy Tusk doskonale wie co i jak&quot;" href="/ar/529590/Spotkanie-Tusk-Duda-Przewodniczacy-Tusk-doskonale-wie-co-i-jak/">Spotkanie Tusk-Duda. "Przewodnicz±cy Tusk doskonale wie co i&nbsp;jak"</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 21:13:04"> 
- 21:13 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 13:37:08"> 
+ 13:37 
 </td> 
 <td valign="top"> 
- <a title="Wojciechowski: Autorytety milcza³y, gdy PO ³ama³a konstytucjê, a¿ trzeszcza³o w ko¶ciach" href="/ar/528649/Wojciechowski-Autorytety-milczaly-gdy-PO-lamala-konstytucje-az-trzeszczalo-w-kosciach/">Wojciechowski: Autorytety milcza³y, gdy PO ³ama³a konstytucjê, a¿&nbsp;trzeszcza³o w&nbsp;ko¶ciach</a> 
+ <a title="Duda leci do Brukseli z &quot;rêk± wyci±gniêt± na zgodê&quot;" href="/ar/529589/Duda-leci-do-Brukseli-z-reka-wyciagnieta-na-zgode/">Duda leci do&nbsp;Brukseli z&nbsp;"rêk± wyci±gniêt± na&nbsp;zgodê"</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 20:37:13"> 
- 20:37 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 12:41:49"> 
+ 12:41 
 </td> 
 <td valign="top"> 
- <a title="Od pijackiej sceny do dzie³a sztuki. Wyobra¼nia internautów nie zna granic" href="/ar/528648/Od-pijackiej-sceny-do-dziela-sztuki-Wyobraznia-internautow-nie-zna-granic/">Od pijackiej sceny do&nbsp;dzie³a sztuki. Wyobra¼nia internautów nie&nbsp;zna granic</a> 
+ <a title="Pañstwo Islamskie dokona³o masakry wioski. Nawet 280 ofiar" href="/ar/529584/Panstwo-Islamskie-dokonalo-masakry-wioski-Nawet-280-ofiar/">Pañstwo Islamskie dokona³o masakry wioski. Nawet 280 ofiar</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 20:11:18"> 
- 20:11 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 12:10:18"> 
+ 12:10 
 </td> 
 <td valign="top"> 
- <a title="IMGW ostrzega przed silnym mrozem. W nocy nawet -20 stopni" href="/ar/528647/IMGW-ostrzega-przed-silnym-mrozem-W-nocy-nawet-20-stopni/">IMGW ostrzega przed silnym mrozem. W&nbsp;nocy nawet -20 stopni</a> 
+ <a title="Wróblewski: Brudna gra ratingami" href="/ar/529579/Wroblewski-Brudna-gra-ratingami/">Wróblewski: Brudna gra ratingami</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 19:51:08"> 
- 19:51 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 11:44:27"> 
+ 11:44 
 </td> 
 <td valign="top"> 
- <a title="By³y pi³karz Premier League znaleziony martwy w rzece" href="/ar/528646/Byly-pilkarz-Premier-League-znaleziony-martwy-w-rzece/">By³y pi³karz Premier League znaleziony martwy w&nbsp;rzece</a> 
+ <a title="Austria zawiesza Schengen i przywraca kontrole na granicach" href="/ar/529576/Austria-zawiesza-Schengen-i-przywraca-kontrole-na-granicach/">Austria zawiesza Schengen i&nbsp;przywraca kontrole na&nbsp;granicach</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 19:32:11"> 
- 19:32 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 10:59:11"> 
+ 10:59 
 </td> 
 <td valign="top"> 
- <a title="Z pochodniami ku czci Bandery. Wielotysiêczny marsz w Kijowie" href="/ar/528645/Z-pochodniami-ku-czci-Bandery-Wielotysieczny-marsz-w-Kijowie/">Z pochodniami ku czci Bandery. Wielotysiêczny marsz w&nbsp;Kijowie</a> 
+ <a title="Duda: Budowa Nord Stream 2 to kwestia solidarno¶ci" href="/ar/529574/Duda-Budowa-Nord-Stream-2-to-kwestia-solidarnosci/">Duda: Budowa Nord Stream 2 to&nbsp;kwestia solidarno¶ci</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="20" valign="top" align="right" class="clBlue" title="2016-01-02 19:04:07"> 
- 19:04 
+<td width="20" valign="top" align="right" class="clBlue" title="2016-01-17 10:58:09"> 
+ 10:58 
 </td> 
 <td valign="top"> 
- <a title="Winny krwawej pacyfikacji wsi na Lubelszczy¼nie w 1944 roku zostanie os±dzony&quot;" href="/ar/528644/Winny-krwawej-pacyfikacji-wsi-na-Lubelszczyznie-w-1944-roku-zostanie-osadzony/">Winny krwawej pacyfikacji wsi na&nbsp;Lubelszczy¼nie w&nbsp;1944 roku zostanie os±dzony?</a> 
+ <a title="Kukiz: PO i PiS maj± takie same zas³ugi w informowaniu Brukseli" href="/ar/529573/Kukiz-PO-i-PiS-maja-takie-same-zaslugi-w-informowaniu-Brukseli/">Kukiz: PO i&nbsp;PiS maj± takie same zas³ugi w&nbsp;informowaniu Brukseli</a> 
 </td> 
 </tr> 
 </tbody> 
@@ -1343,79 +1343,79 @@ googletag.display('div-gpt-ad-1403772281588-0');
  <span class="progress-hits progress-hits-blue" style="width:100.00%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Od pijackiej sceny do dzie³a sztuki. Wyobra¼nia internautów nie zna granic" href="/ar/528648/Od-pijackiej-sceny-do-dziela-sztuki-Wyobraznia-internautow-nie-zna-granic/">Od pijackiej sceny do&nbsp;dzie³a sztuki. Wyobra¼nia internautów nie&nbsp;zna granic</a> 
+ <a title="Rozbawiony Kaczyñski w Sejmie. Powodem... ciekawostka historyczna o je¿u" href="/ar/529558/Rozbawiony-Kaczynski-w-Sejmie-Powodem-ciekawostka-historyczna-o-jezu/">Rozbawiony Kaczyñski w&nbsp;Sejmie. Powodem... ciekawostka historyczna o&nbsp;je¿u</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="82.40%"> 
- <span class="progress-hits progress-hits-blue" style="width:82.40%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="46.66%"> 
+ <span class="progress-hits progress-hits-blue" style="width:46.66%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Przepowiednie Nostradamusa na 2016 rok" href="/ar/528593/Przepowiednie-Nostradamusa-na-2016-rok/">Przepowiednie Nostradamusa na&nbsp;2016 rok</a> 
+ <a title="Wa³êsa: Trzeba doprowadziæ do referendum ws. skrócenia kadencji prezydenta i rz±du" href="/ar/527415/Walesa-Trzeba-doprowadzic-do-referendum-ws-skrocenia-kadencji-prezydenta-i-rzadu/">Wa³êsa: Trzeba doprowadziæ do&nbsp;referendum ws. skrócenia kadencji prezydenta i&nbsp;rz±du</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="76.56%"> 
- <span class="progress-hits progress-hits-blue" style="width:76.56%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="43.80%"> 
+ <span class="progress-hits progress-hits-blue" style="width:43.80%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Poszukiwania Ewy Tylman wznowione. Nurkowie przeszukaj± 200 km Warty" href="/ar/528635/Poszukiwania-Ewy-Tylman-wznowione-Nurkowie-przeszukaja-200-km-Warty/">Poszukiwania Ewy Tylman wznowione. Nurkowie przeszukaj± 200 km Warty</a> 
+ <a title="Gest polskiego milionera - 400 mln z³ na edukacjê m³odych" href="/ar/380620/Gest-polskiego-milionera-400-mln-zl-na-edukacje-mlodych/">Gest polskiego milionera -&nbsp;400 mln z³ na&nbsp;edukacjê m³odych</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="46.63%"> 
- <span class="progress-hits progress-hits-blue" style="width:46.63%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="25.40%"> 
+ <span class="progress-hits progress-hits-blue" style="width:25.40%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Z pochodniami ku czci Bandery. Wielotysiêczny marsz w Kijowie" href="/ar/528645/Z-pochodniami-ku-czci-Bandery-Wielotysieczny-marsz-w-Kijowie/">Z pochodniami ku czci Bandery. Wielotysiêczny marsz w&nbsp;Kijowie</a> 
+ <a title="Polska marka z sukcesem w Katarze. Szejk chcia³ mieæ jej butik w swojej galerii" href="/ar/529568/Polska-marka-z-sukcesem-w-Katarze-Szejk-chcial-miec-jej-butik-w-swojej-galerii/">Polska marka z&nbsp;sukcesem w&nbsp;Katarze. Szejk chcia³ mieæ jej butik w&nbsp;swojej galerii</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="44.39%"> 
- <span class="progress-hits progress-hits-blue" style="width:44.39%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="23.94%"> 
+ <span class="progress-hits progress-hits-blue" style="width:23.94%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Agata Duda - jak± jest pierwsz± dam±&quot;" href="/ar/528568/Agata-Duda-jaka-jest-pierwsza-dama/">Agata Duda -&nbsp;jak± jest pierwsz± dam±?</a> 
+ <a title="Piotr Duda: Ci, którzy obiecywali, ¿e wyjad± z kraju, gdy PiS wygra, niech spe³ni± swoje obietnice" href="/ar/529438/Piotr-Duda-Ci-ktorzy-obiecywali-ze-wyjada-z-kraju-gdy-PiS-wygra-niech-spelnia-swoje-obietnice/">Piotr Duda: Ci, którzy obiecywali, ¿e&nbsp;wyjad± z&nbsp;kraju, gdy PiS wygra, niech spe³ni± swoje obietnice</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="40.08%"> 
- <span class="progress-hits progress-hits-blue" style="width:40.08%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="20.99%"> 
+ <span class="progress-hits progress-hits-blue" style="width:20.99%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Najgorêtsze premiery filmowe 2016 roku. Na co warto pój¶æ do kina&quot;" href="/ar/528625/Najgoretsze-premiery-filmowe-2016-roku-Na-co-warto-pojsc-do-kina/">Najgorêtsze premiery filmowe 2016 roku. Na&nbsp;co warto pój¶æ do&nbsp;kina?</a> 
+ <a title="&quot;Zachowanie pana Donalda Tuska i komisarz Bieñkowskiej jest skandaliczne&quot;" href="/ar/529555/Zachowanie-pana-Donalda-Tuska-i-komisarz-Bienkowskiej-jest-skandaliczne/">"Zachowanie pana Donalda Tuska i&nbsp;komisarz Bieñkowskiej jest skandaliczne"</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="37.82%"> 
- <span class="progress-hits progress-hits-blue" style="width:37.82%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="17.85%"> 
+ <span class="progress-hits progress-hits-blue" style="width:17.85%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Prezydent Duda spêdzi³ Nowy Rok na nartach" href="/ar/528610/Prezydent-Duda-spedzil-Nowy-Rok-na-nartach/">Prezydent Duda spêdzi³ Nowy Rok na&nbsp;nartach</a> 
+ <a title="Premier Bawarii grozi kanclerz Merkel pozwem do Trybuna³u Konstytucyjnego" href="/ar/529561/Premier-Bawarii-grozi-kanclerz-Merkel-pozwem-do-Trybunalu-Konstytucyjnego/">Premier Bawarii grozi kanclerz Merkel pozwem do&nbsp;Trybuna³u Konstytucyjnego</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="35.65%"> 
- <span class="progress-hits progress-hits-blue" style="width:35.65%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="17.58%"> 
+ <span class="progress-hits progress-hits-blue" style="width:17.58%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Kijów odpowiedzia³ na rosyjskie sankcje. Embargo na czê¶æ produktów" href="/ar/528616/Kijow-odpowiedzial-na-rosyjskie-sankcje-Embargo-na-czesc-produktow/">Kijów odpowiedzia³ na&nbsp;rosyjskie sankcje. Embargo na&nbsp;czê¶æ produktów</a> 
+ <a title="Austria zawiesza Schengen i przywraca kontrole na granicach" href="/ar/529576/Austria-zawiesza-Schengen-i-przywraca-kontrole-na-granicach/">Austria zawiesza Schengen i&nbsp;przywraca kontrole na&nbsp;granicach</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="30.91%"> 
- <span class="progress-hits progress-hits-blue" style="width:30.91%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="15.59%"> 
+ <span class="progress-hits progress-hits-blue" style="width:15.59%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Sensacyjne odkrycie w Gnie¼nie. Znaleziono setki dokumentów sprzed pó³ tysi±ca lat" href="/ar/528640/Sensacyjne-odkrycie-w-Gnieznie-Znaleziono-setki-dokumentow-sprzed-pol-tysiaca-lat/">Sensacyjne odkrycie w&nbsp;Gnie¼nie. Znaleziono setki dokumentów sprzed pó³ tysi±ca lat</a> 
+ <a title="German Gref: Rosja przegra³a. Jest pañstwem nieudacznikiem" href="/ar/529556/German-Gref-Rosja-przegrala-Jest-panstwem-nieudacznikiem/">German Gref: Rosja przegra³a. Jest pañstwem nieudacznikiem</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="30.21%"> 
- <span class="progress-hits progress-hits-blue" style="width:30.21%;"></span> 
+<td width="30" valign="top" align="right" class="clBlue" title="15.48%"> 
+ <span class="progress-hits progress-hits-blue" style="width:15.48%;"></span> 
 </td> 
 <td valign="top"> 
- <a title="Apel TOPR: Sprzêt nie gwarantuje bezpieczeñstwa. Prosimy o rezygnacjê z wyj¶æ w wy¿sze partie Tatr" href="/ar/528651/Apel-TOPR-Sprzet-nie-gwarantuje-bezpieczenstwa-Prosimy-o-rezygnacje-z-wyjsc-w-wyzsze-partie-Tatr/">Apel TOPR: Sprzêt nie&nbsp;gwarantuje bezpieczeñstwa. Prosimy o&nbsp;rezygnacjê z&nbsp;wyj¶æ w&nbsp;wy¿sze partie Tatr</a> 
+ <a title="Terrory¶ci zaatakowali hotel w Burkina Faso. Co najmniej 20 ofiar" href="/ar/529538/Terrorysci-zaatakowali-hotel-w-Burkina-Faso-Co-najmniej-20-ofiar/">Terrory¶ci zaatakowali hotel w&nbsp;Burkina Faso. Co najmniej 20 ofiar</a> 
 </td> 
 </tr> 
 </tbody> 
@@ -1434,67 +1434,67 @@ googletag.display('div-gpt-ad-1403772281588-0');
 </thead> 
 <tbody> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="111 komentarzy z ostatnich 24 godzin, 3773 wszystkich komentarzy"> 
- 111 
+<td width="30" valign="top" align="right" class="clBlue" title="186 komentarzy z ostatnich 24 godzin, 5227 wszystkich komentarzy"> 
+ 186 
 </td> 
 <td valign="top"> 
  <a title="Rzecznik rz±du: Od Bugu po Odrê, od Tatr po Morze Ba³tyckie, bêdzie rz±dzi³ Kaczyñski" href="/ar/516102/Rzecznik-rzadu-OdBugu-poOdre-odTatr-poMorze-Baltyckie-bedzie-rzadzil-Kaczynski/">Rzecznik rz±du: Od&nbsp;Bugu po&nbsp;Odrê, od&nbsp;Tatr po&nbsp;Morze Ba³tyckie, bêdzie rz±dzi³ Kaczyñski</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="39 komentarzy z ostatnich 24 godzin, 1101 wszystkich komentarzy"> 
- 39 
+<td width="30" valign="top" align="right" class="clBlue" title="109 komentarzy z ostatnich 24 godzin, 709 wszystkich komentarzy"> 
+ 109 
 </td> 
 <td valign="top"> 
- <a title="Manifestacja KOD. &quot;Musimy zatrzymaæ marsz szaleñców&quot;" href="/ar/527291/Manifestacja-KOD-Musimy-zatrzymac-marsz-szalencow/">Manifestacja KOD. "Musimy zatrzymaæ marsz szaleñców"</a> 
+ <a title="Wa³êsa: Trzeba doprowadziæ do referendum ws. skrócenia kadencji prezydenta i rz±du" href="/ar/527415/Walesa-Trzeba-doprowadzic-doreferendum-ws-skrocenia-kadencji-prezydenta-irzadu/">Wa³êsa: Trzeba doprowadziæ do&nbsp;referendum ws. skrócenia kadencji prezydenta i&nbsp;rz±du</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="10 komentarzy z ostatnich 24 godzin, 1549 wszystkich komentarzy"> 
- 10 
+<td width="30" valign="top" align="right" class="clBlue" title="7 komentarzy z ostatnich 24 godzin, 1637 wszystkich komentarzy"> 
+ 7 
 </td> 
 <td valign="top"> 
  <a title="Szokuj±ce s³owa rabina. &quot;Goje jak zwierzêta poci±gowe - maj± s³u¿yæ ¯ydom&quot;" href="/ar/214629/Szokujace-slowa-rabina-Goje-jak-zwierzeta-pociagowe-maja-sluzyc-Zydom/">Szokuj±ce s³owa rabina. "Goje jak zwierzêta poci±gowe -&nbsp;maj± s³u¿yæ ¯ydom"</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="8 komentarzy z ostatnich 24 godzin, 760 wszystkich komentarzy"> 
- 8 
+<td width="30" valign="top" align="right" class="clBlue" title="6 komentarzy z ostatnich 24 godzin, 811 wszystkich komentarzy"> 
+ 6 
 </td> 
 <td valign="top"> 
  <a title="Sonda¿ IBRIS: Nowoczesna wyprzedzi³a Prawo i Sprawiedliwo¶æ" href="/ar/527537/Sondaz-IBRIS-Nowoczesna-wyprzedzila-Prawo-iSprawiedliwosc/">Sonda¿ IBRIS: Nowoczesna wyprzedzi³a Prawo i&nbsp;Sprawiedliwo¶æ</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="7 komentarzy z ostatnich 24 godzin, 630 wszystkich komentarzy"> 
- 7 
-</td> 
-<td valign="top"> 
- <a title="Ryszard Kukliñski - Najwa¿niejszy szpieg Ameryki" href="/ar/397633/Ryszard-Kuklinski-Najwazniejszy-szpieg-Ameryki/">Ryszard Kukliñski -&nbsp;Najwa¿niejszy szpieg Ameryki</a> 
-</td> 
-</tr> 
-<tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="6 komentarzy z ostatnich 24 godzin, 688 wszystkich komentarzy"> 
- 6 
-</td> 
-<td valign="top"> 
- <a title="Niesio³owski o Dudzie: Z jego szpary oralnej wyp³ywaj± pok³ady chamstwa" href="/ar/505378/Niesiolowski-oDudzie-Zjego-szpary-oralnej-wyplywaja-poklady-chamstwa/">Niesio³owski o&nbsp;Dudzie: Z&nbsp;jego szpary oralnej wyp³ywaj± pok³ady chamstwa</a> 
-</td> 
-</tr> 
-<tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="4 komentarzy z ostatnich 24 godzin, 2128 wszystkich komentarzy"> 
- 4 
-</td> 
-<td valign="top"> 
- <a title="&quot;Wiêcej ¯ydów zginê³o z r±k Polaków ni¿ zosta³o przez nich uratowanych&quot;" href="/ar/411393/Wiecej-Zydow-zginelo-zrak-Polakow-niz-zostalo-przez-nich-uratowanych/">"Wiêcej ¯ydów zginê³o z&nbsp;r±k Polaków ni¿ zosta³o przez nich uratowanych"</a> 
-</td> 
-</tr> 
-<tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="2 komentarzy z ostatnich 24 godzin, 1380 wszystkich komentarzy"> 
+<td width="30" valign="top" align="right" class="clBlue" title="2 komentarzy z ostatnich 24 godzin, 2446 wszystkich komentarzy"> 
  2 
 </td> 
 <td valign="top"> 
- <a title="Ko¶ció³ pope³nia³ zbrodnie przeciwko ludzko¶ci&quot; " href="/ar/381289/Kosciol-popelnial-zbrodnie-przeciwko-ludzkosci/">Ko¶ció³ pope³nia³ zbrodnie przeciwko ludzko¶ci?</a> 
+ <a title="Episkopat domaga siê, by religia w szkole by³a obowi±zkowa" href="/ar/310958/Episkopat-domaga-sie-byreligia-wszkole-byla-obowiazkowa/">Episkopat domaga siê, by&nbsp;religia w&nbsp;szkole by³a obowi±zkowa</a> 
+</td> 
+</tr> 
+<tr> 
+<td width="30" valign="top" align="right" class="clBlue" title="2 komentarzy z ostatnich 24 godzin, 1230 wszystkich komentarzy"> 
+ 2 
+</td> 
+<td valign="top"> 
+ <a title="Manifestacja KOD. &quot;Musimy zatrzymaæ marsz szaleñców&quot;" href="/ar/527291/Manifestacja-KOD-Musimy-zatrzymac-marsz-szalencow/">Manifestacja KOD. "Musimy zatrzymaæ marsz szaleñców"</a> 
+</td> 
+</tr> 
+<tr> 
+<td width="30" valign="top" align="right" class="clBlue" title="2 komentarzy z ostatnich 24 godzin, 764 wszystkich komentarzy"> 
+ 2 
+</td> 
+<td valign="top"> 
+ <a title="Z czego ¿yje Jerzy Owsiak&quot; Co finansuje Wielka Orkiestra ¦wi±tecznej Pomocy&quot;" href="/ar/393097/Z-czego-zyje-Jerzy-Owsiak-Co-finansuje-Wielka-Orkiestra-Swiatecznej-Pomocy/">Z czego ¿yje Jerzy Owsiak? Co finansuje Wielka Orkiestra ¦wi±tecznej Pomocy?</a> 
+</td> 
+</tr> 
+<tr> 
+<td width="30" valign="top" align="right" class="clBlue" title="2 komentarzy z ostatnich 24 godzin, 544 wszystkich komentarzy"> 
+ 2 
+</td> 
+<td valign="top"> 
+ <a title="Tusk: pieni±dze w OFE i ZUS nie s± w³asno¶ci± Polaków" href="/ar/418351/Tusk-pieniadze-wOFE-iZUS-niesa-wlasnoscia-Polakow/">Tusk: pieni±dze w&nbsp;OFE i&nbsp;ZUS nie&nbsp;s± w³asno¶ci± Polaków</a> 
 </td> 
 </tr> 
 </tbody> 
@@ -1510,67 +1510,67 @@ googletag.display('div-gpt-ad-1403772281588-0');
 </thead> 
 <tbody> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="420 komentarzy z ostatnich 7 dni, 3773 wszystkich komentarzy"> 
- 420 
+<td width="30" valign="top" align="right" class="clBlue" title="885 komentarzy z ostatnich 7 dni, 5227 wszystkich komentarzy"> 
+ 885 
 </td> 
 <td valign="top"> 
  <a title="Rzecznik rz±du: Od Bugu po Odrê, od Tatr po Morze Ba³tyckie, bêdzie rz±dzi³ Kaczyñski" href="/ar/516102/Rzecznik-rzadu-OdBugu-poOdre-odTatr-poMorze-Baltyckie-bedzie-rzadzil-Kaczynski/">Rzecznik rz±du: Od&nbsp;Bugu po&nbsp;Odrê, od&nbsp;Tatr po&nbsp;Morze Ba³tyckie, bêdzie rz±dzi³ Kaczyñski</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="179 komentarzy z ostatnich 7 dni, 1101 wszystkich komentarzy"> 
- 179 
+<td width="30" valign="top" align="right" class="clBlue" title="177 komentarzy z ostatnich 7 dni, 709 wszystkich komentarzy"> 
+ 177 
+</td> 
+<td valign="top"> 
+ <a title="Wa³êsa: Trzeba doprowadziæ do referendum ws. skrócenia kadencji prezydenta i rz±du" href="/ar/527415/Walesa-Trzeba-doprowadzic-doreferendum-ws-skrocenia-kadencji-prezydenta-irzadu/">Wa³êsa: Trzeba doprowadziæ do&nbsp;referendum ws. skrócenia kadencji prezydenta i&nbsp;rz±du</a> 
+</td> 
+</tr> 
+<tr> 
+<td width="30" valign="top" align="right" class="clBlue" title="66 komentarzy z ostatnich 7 dni, 1230 wszystkich komentarzy"> 
+ 66 
 </td> 
 <td valign="top"> 
  <a title="Manifestacja KOD. &quot;Musimy zatrzymaæ marsz szaleñców&quot;" href="/ar/527291/Manifestacja-KOD-Musimy-zatrzymac-marsz-szalencow/">Manifestacja KOD. "Musimy zatrzymaæ marsz szaleñców"</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="64 komentarzy z ostatnich 7 dni, 1380 wszystkich komentarzy"> 
- 64 
+<td width="30" valign="top" align="right" class="clBlue" title="58 komentarzy z ostatnich 7 dni, 2446 wszystkich komentarzy"> 
+ 58 
 </td> 
 <td valign="top"> 
- <a title="Ko¶ció³ pope³nia³ zbrodnie przeciwko ludzko¶ci&quot; " href="/ar/381289/Kosciol-popelnial-zbrodnie-przeciwko-ludzkosci/">Ko¶ció³ pope³nia³ zbrodnie przeciwko ludzko¶ci?</a> 
+ <a title="Episkopat domaga siê, by religia w szkole by³a obowi±zkowa" href="/ar/310958/Episkopat-domaga-sie-byreligia-wszkole-byla-obowiazkowa/">Episkopat domaga siê, by&nbsp;religia w&nbsp;szkole by³a obowi±zkowa</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="44 komentarzy z ostatnich 7 dni, 1549 wszystkich komentarzy"> 
- 44 
+<td width="30" valign="top" align="right" class="clBlue" title="39 komentarzy z ostatnich 7 dni, 1637 wszystkich komentarzy"> 
+ 39 
 </td> 
 <td valign="top"> 
  <a title="Szokuj±ce s³owa rabina. &quot;Goje jak zwierzêta poci±gowe - maj± s³u¿yæ ¯ydom&quot;" href="/ar/214629/Szokujace-slowa-rabina-Goje-jak-zwierzeta-pociagowe-maja-sluzyc-Zydom/">Szokuj±ce s³owa rabina. "Goje jak zwierzêta poci±gowe -&nbsp;maj± s³u¿yæ ¯ydom"</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="43 komentarzy z ostatnich 7 dni, 688 wszystkich komentarzy"> 
- 43 
+<td width="30" valign="top" align="right" class="clBlue" title="36 komentarzy z ostatnich 7 dni, 764 wszystkich komentarzy"> 
+ 36 
 </td> 
 <td valign="top"> 
- <a title="Niesio³owski o Dudzie: Z jego szpary oralnej wyp³ywaj± pok³ady chamstwa" href="/ar/505378/Niesiolowski-oDudzie-Zjego-szpary-oralnej-wyplywaja-poklady-chamstwa/">Niesio³owski o&nbsp;Dudzie: Z&nbsp;jego szpary oralnej wyp³ywaj± pok³ady chamstwa</a> 
+ <a title="Z czego ¿yje Jerzy Owsiak&quot; Co finansuje Wielka Orkiestra ¦wi±tecznej Pomocy&quot;" href="/ar/393097/Z-czego-zyje-Jerzy-Owsiak-Co-finansuje-Wielka-Orkiestra-Swiatecznej-Pomocy/">Z czego ¿yje Jerzy Owsiak? Co finansuje Wielka Orkiestra ¦wi±tecznej Pomocy?</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="35 komentarzy z ostatnich 7 dni, 760 wszystkich komentarzy"> 
- 35 
+<td width="30" valign="top" align="right" class="clBlue" title="18 komentarzy z ostatnich 7 dni, 811 wszystkich komentarzy"> 
+ 18 
 </td> 
 <td valign="top"> 
  <a title="Sonda¿ IBRIS: Nowoczesna wyprzedzi³a Prawo i Sprawiedliwo¶æ" href="/ar/527537/Sondaz-IBRIS-Nowoczesna-wyprzedzila-Prawo-iSprawiedliwosc/">Sonda¿ IBRIS: Nowoczesna wyprzedzi³a Prawo i&nbsp;Sprawiedliwo¶æ</a> 
 </td> 
 </tr> 
 <tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="25 komentarzy z ostatnich 7 dni, 2128 wszystkich komentarzy"> 
- 25 
+<td width="30" valign="top" align="right" class="clBlue" title="13 komentarzy z ostatnich 7 dni, 544 wszystkich komentarzy"> 
+ 13 
 </td> 
 <td valign="top"> 
- <a title="&quot;Wiêcej ¯ydów zginê³o z r±k Polaków ni¿ zosta³o przez nich uratowanych&quot;" href="/ar/411393/Wiecej-Zydow-zginelo-zrak-Polakow-niz-zostalo-przez-nich-uratowanych/">"Wiêcej ¯ydów zginê³o z&nbsp;r±k Polaków ni¿ zosta³o przez nich uratowanych"</a> 
-</td> 
-</tr> 
-<tr> 
-<td width="30" valign="top" align="right" class="clBlue" title="12 komentarzy z ostatnich 7 dni, 10786 wszystkich komentarzy"> 
- 12 
-</td> 
-<td valign="top"> 
- <a title="¦mieræ za odmowê ko¶cielnej przysiêgi" href="/ar/431753/Smierc-zaodmowe-koscielnej-przysiegi/">¦mieræ za&nbsp;odmowê ko¶cielnej przysiêgi</a> 
+ <a title="Tusk: pieni±dze w OFE i ZUS nie s± w³asno¶ci± Polaków" href="/ar/418351/Tusk-pieniadze-wOFE-iZUS-niesa-wlasnoscia-Polakow/">Tusk: pieni±dze w&nbsp;OFE i&nbsp;ZUS nie&nbsp;s± w³asno¶ci± Polaków</a> 
 </td> 
 </tr> 
 </tbody> 
@@ -1752,7 +1752,7 @@ googletag.display('div-gpt-ad-1403772238564-0');
  
  <ul id="footer-bottom-right-links"> 
  <li><a id="guUp" href="#top" title="Powrót na pocz±tek">Powrót na pocz±tek</a></li> 
- <li><a id="sendAlert" href="http://www.wprost.pl/kontakt/?errorurl=http://www.wprost.pl//ar/286106/Iran-zablokowal-Ciesnine-Ormuz-Probnie/" title="Zg³o¶ b³±d na stronie">Zg³o¶ b³±d na stronie</a></li> 
+ <li><a id="sendAlert" href="http://www.wprost.pl/kontakt/?errorurl=http://www.wprost.pl//ar/286106/Iran-zablokowal-Ciesnine-Ormuz-Probnie/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed:%20wprost-wydarzenia%20%28Wydarzenia%20Wprost%2024%29" title="Zg³o¶ b³±d na stronie">Zg³o¶ b³±d na stronie</a></li> 
  <li><a id="addToFavorites">Do zak³adek</a></li> 
  </ul> 
  <div class="copyright"> 

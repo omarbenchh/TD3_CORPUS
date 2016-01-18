@@ -11,7 +11,7 @@
 <html class="no-js"> <!--<![endif]-->
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
     <meta http-equiv="Pragma" content="no-cache"/>
     <meta http-equiv="Expires" content="0"/>
@@ -385,7 +385,7 @@ googletag.enableServices();
         $('head').append(font);
     }
 </script>
-<div class="banner " data-banner-id="news_spec"><!--BEGIN Medialand FullScreen F=1 (Fullscreen)-->
+<div class="banner " data-banner-id="news_spec"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand FullScreen F=1 (Fullscreen)-->
 <a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=news_spec&_b=Media2/news_spec" empty="true" style="display:none"></a>
 <script language="JavaScript">
 <!--
@@ -447,7 +447,7 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medial
                 <div class="l-row l-row_compensate">
                     <div class="l-col-25p">
                         <div class="l-col-25p__inner">
-                            <div class="banner " data-banner-id="firstpage_advt_text3"><!--BEGIN Medialand Раздел Новости партнеров Анонс 3 на главной странице РБК - блок Анонсы copy (inline)-->
+                            <div class="banner " data-banner-id="firstpage_advt_text3"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Раздел Новости партнеров Анонс 3 на главной странице РБК - блок Анонсы copy (inline)-->
 <a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_advt_text3&_b=Media2/firstpage_advt_text3" empty="true" style="display:none"></a><script language="JavaScript">
 <!--
 var random = Math.floor(Math.random() * 1000000000);
@@ -461,7 +461,7 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medial
                     </div>
                     <div class="l-col-25p">
                         <div class="l-col-25p__inner">
-                            <div class="banner " data-banner-id="firstpage_advt_text4"><!--BEGIN Medialand Раздел Новости партнеров Анонс 4 на главной странице РБК - блок Анонсы copy copy (inline)-->
+                            <div class="banner " data-banner-id="firstpage_advt_text4"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Раздел Новости партнеров Анонс 4 на главной странице РБК - блок Анонсы copy copy (inline)-->
 <a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_advt_text4&_b=Media2/firstpage_advt_text4" empty="true" style="display:none"></a><script language="JavaScript">
 <!--
 var random = Math.floor(Math.random() * 1000000000);
@@ -476,7 +476,7 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medial
                     </div>
                     <div class="l-col-25p">
                         <div class="l-col-25p__inner">
-                            <div class="banner " data-banner-id="firstpage_advt_text5"><!--BEGIN Medialand Раздел Новости партнеров Анонс 5 на главной странице РБК - блок Анонсы copy copy (inline)-->
+                            <div class="banner " data-banner-id="firstpage_advt_text5"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Раздел Новости партнеров Анонс 5 на главной странице РБК - блок Анонсы copy copy (inline)-->
 <a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_advt_text5&_b=Media2/firstpage_advt_text5" empty="true" style="display:none"></a><script language="JavaScript"><!--
 var random = Math.floor(Math.random() * 1000000000);
 var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {}
@@ -490,7 +490,7 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medial
                     </div>
                     <div class="l-col-25p">
                         <div class="l-col-25p__inner">
-                            <div class="banner " data-banner-id="firstpage_advt_text6"><!--BEGIN Medialand Раздел Новости партнеров Анонс 6 на главной странице РБК - блок Анонсы copy copy (inline)-->
+                            <div class="banner " data-banner-id="firstpage_advt_text6"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Раздел Новости партнеров Анонс 6 на главной странице РБК - блок Анонсы copy copy (inline)-->
 <a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_advt_text6&_b=Media2/firstpage_advt_text6" empty="true" style="display:none"></a><script language="JavaScript"><!--
 var random = Math.floor(Math.random() * 1000000000);
 var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {}
@@ -532,7 +532,7 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medial
             
 <a class="live-tv__trigger js-live-tv__button">Прямой эфир телеканала&nbsp;<span>&#9658;</span></a>
 <div class="live-tv">
-    <div class="live-tv__video-container js-live-tv" data-region="united_states">
+    <div class="live-tv__video-container js-live-tv" data-region="china">
         <span class="live-tv__control live-tv__control-close js-live-tv__control js-live-tv__button-close"></span>
         <span class="live-tv__control live-tv__control-mute js-live-tv__control js-live-tv__mute live-tv__control-mute_off"></span>
         <span class="live-tv__control live-tv__control-open-close js-live-tv__control js-live-tv__big-open"></span>
@@ -570,35 +570,60 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://engine.rbc.medial
                     <span class="news-feed__header__text" data-ati-item="title" data-ati-title="" data-ati-id="" data-ati-url="" data-pub="false">Лента новостей</span>
                     <span class="news-feed__header__meta">
                         <span class="js-news-feed-time-current"
-                              data-time="Fri, 15 Jan 2016 18:34:43 +0300">18:34</span>
+                              data-time="Mon, 18 Jan 2016 01:22:11 +0300">1:22</span>
                         МСК
                     </span>
                 </div>
                                 <div class="news-feed__wrapper">
-                    <div class="news-feed__list" data-newest-date="Fri, 15 Jan 2016 18:31:58 +0300"
-                                                 data-oldest-date="Fri, 15 Jan 2016 15:28:41 +0300">
-                                                                <a href="http://www.rbc.ru/finances/15/01/2016/5697a2729a7947082d236d77"
+                    <div class="news-feed__list" data-newest-date="Mon, 18 Jan 2016 01:00:00 +0300"
+                                                 data-oldest-date="Sun, 17 Jan 2016 17:16:54 +0300">
+                                                            <a class="news-feed__item news-feed__item_cash"
+data-ati-item="kurs" data-ati-title="" data-ati-id="" data-ati-url=""
+data-pub="false"
+href="http://quote.rbc.ru/cash/#!/?sortf=DT_LAST_PUBLICATE&sortd=DESC&city=1&currency=3&summa=1"
+style="display:none;">
+    <span class="news-feed__item__title">Лучшие предложения рынка наличной валюты:</span>
+
+    <span class="news-feed__item__cash">
+        <span class="news-feed__item__cash__name">Продать USD</span>
+        <span class="news-feed__item__cash__price">78,81</span>
+    </span>
+    <span class="news-feed__item__cash">
+        <span class="news-feed__item__cash__name">Купить USD</span>
+        <span class="news-feed__item__cash__price">79,35</span>
+    </span>
+</a>
+        <a class="news-feed__item news-feed__item_cash"
+data-ati-item="kurs" data-ati-title="" data-ati-id="" data-ati-url=""
+data-pub="false"
+href="http://quote.rbc.ru/cash/#!/?sortf=DT_LAST_PUBLICATE&sortd=DESC&city=1&currency=2&summa=1"
+style="display:none;">
+    <span class="news-feed__item__title">Лучшие предложения рынка наличной валюты:</span>
+
+    <span class="news-feed__item__cash">
+        <span class="news-feed__item__cash__name">Продать EUR</span>
+        <span class="news-feed__item__cash__price">85,11</span>
+    </span>
+    <span class="news-feed__item__cash">
+        <span class="news-feed__item__cash__name">Купить EUR</span>
+        <span class="news-feed__item__cash__price">85,50</span>
+    </span>
+</a>
+                                                                                                                        <a href="http://www.rbc.ru/politics/18/01/2016/569bc6099a7947d5a7f65e2e"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 style="display:none;">
-    <span class="news-feed__item__date">18:31</span>
-    <span class="news-feed__item__title">Более 10 млн россиян заявили о переводе накоплений в частные фонды</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/56990df39a7947f561347431"
+    <span class="news-feed__item__date">00:16</span>
+    <span class="news-feed__item__title">Тегеран на свободе: какие санкции сняты с Ирана</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bfec99a79470d96b4dbdd"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 style="display:none;">
-    <span class="news-feed__item__date">18:20</span>
-    <span class="news-feed__item__title">США рассказали о жертвах среди мирного населения от их авиадуаров по ИГИЛ</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5699098a9a7947ed1698c67e"
-    class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
-data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
-data-pub="false"
-style="display:none;">
-    <span class="news-feed__item__date">18:10</span>
-    <span class="news-feed__item__title">«Аэрофлот» отменил свыше 20 рейсов на 16 и 17 января из-за непогоды</span>
-    </a>                                                            <div class="banner g-banner__newsfeed" data-banner-id="firstpage_left2"><!-- RBCMain_240x400_LEFT 1101 firstpage_left2 -->
+    <span class="news-feed__item__date">00:05</span>
+    <span class="news-feed__item__title">Белый дом осудил теракт в Буркина-Фасо</span>
+    </a>                                                            <div class="banner g-banner__newsfeed" data-banner-id="firstpage_left2"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!-- RBCMain_240x400_LEFT 1101 firstpage_left2 -->
 <a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_left2&_b=Media2/firstpage_left2_DFP" empty="true" style="display:none"></a>
 <div id='div-gpt-ad-1431616921735-0'>
 <script type='text/javascript'>
@@ -612,220 +637,195 @@ googletag.cmd.push(function() { rbc_dfp.display('div-gpt-ad-1431616921735-0'); }
 <script type='text/javascript'>
 googletag.cmd.push(function() {  rbc_dfp.display('div-gpt-ad-1436366263460-0'); });
 </script>
-</div></div>                                                                <a href="http://www.rbc.ru/politics/15/01/2016/5698ff2c9a7947db94bb3789"
+</div></div>                                                                <a href="http://www.rbc.ru/politics/18/01/2016/569bab069a7947c22fa2e55e"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">18:08</span>
-    <span class="news-feed__item__title">Экспертиза гильз из дома Заура Дадаева дала положительный результат</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569908429a7947ed1b24051f"
+    <span class="news-feed__item__date">00:00</span>
+    <span class="news-feed__item__title">Россия отказалась от участия в зимней сессии ПАСЕ</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/18/01/2016/569bb1189a7947c80e31464b"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">18:06</span>
-    <span class="news-feed__item__title">ЛУКОЙЛ откажется от разведки на шельфе Кот-д'Ивуара</span>
-    </a>                                                                                                                        <a class="news-feed__item news-feed__item_cash"
-data-ati-item="kurs" data-ati-title="" data-ati-id="" data-ati-url=""
-data-pub="false"
-href="http://quote.rbc.ru/cash/#!/?sortf=DT_LAST_PUBLICATE&sortd=DESC&city=1&currency=3&summa=1"
->
-    <span class="news-feed__item__title">Лучшие предложения рынка наличной валюты:</span>
-
-    <span class="news-feed__item__cash">
-        <span class="news-feed__item__cash__name">Продать USD</span>
-        <span class="news-feed__item__cash__price">77,51</span>
-    </span>
-    <span class="news-feed__item__cash">
-        <span class="news-feed__item__cash__name">Купить USD</span>
-        <span class="news-feed__item__cash__price">77,62</span>
-    </span>
-</a>
-        <a class="news-feed__item news-feed__item_cash"
-data-ati-item="kurs" data-ati-title="" data-ati-id="" data-ati-url=""
-data-pub="false"
-href="http://quote.rbc.ru/cash/#!/?sortf=DT_LAST_PUBLICATE&sortd=DESC&city=1&currency=2&summa=1"
->
-    <span class="news-feed__item__title">Лучшие предложения рынка наличной валюты:</span>
-
-    <span class="news-feed__item__cash">
-        <span class="news-feed__item__cash__name">Продать EUR</span>
-        <span class="news-feed__item__cash__price">84,71</span>
-    </span>
-    <span class="news-feed__item__cash">
-        <span class="news-feed__item__cash__name">Купить EUR</span>
-        <span class="news-feed__item__cash__price">84,60</span>
-    </span>
-</a>
-                                                                                                                        <a href="http://www.rbc.ru/finances/15/01/2016/569906609a7947e2f9734fa5"
+    <span class="news-feed__item__date">00:00</span>
+    <span class="news-feed__item__title">Адвокат по делу Немцова рассказал о поездке «убийцы» политика на Украину</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/business/17/01/2016/569934439a79472502e3084e"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:59</span>
-    <span class="news-feed__item__title">Индекс РТС упал до минимума с 2009 года</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/15/01/2016/5698f90a9a7947cca4bbb832"
+    <span class="news-feed__item__date">вчера, 23:42</span>
+    <span class="news-feed__item__title">Пять миллиардов до границы: помогут ли автопрому новые субсидии</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bf9739a7947092944a4f5"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:55</span>
-    <span class="news-feed__item__title">МВД на треть сократит центральный аппарат</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569904fd9a7947e293030c08"
+    <span class="news-feed__item__date">вчера, 23:40</span>
+    <span class="news-feed__item__title">В Багдаде неизвестные похитили трех американцев</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/business/17/01/2016/569ba9569a7947bceecc0262"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:47</span>
-    <span class="news-feed__item__title">Ощадбанк подал в суд на «дочку» Сбербанка из-за торговой марки</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569901609a7947de9128db77"
+    <span class="news-feed__item__date">вчера, 23:23</span>
+    <span class="news-feed__item__title">Владимир Евтушенков займется выращиванием огурцов и помидоров</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/technology_and_media/17/01/2016/569bf3729a7947027f962559"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:41</span>
-    <span class="news-feed__item__title">В Нальчике силовики начали операцию против боевиков</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/economics/15/01/2016/5698f90d9a7947cf26cff2f4"
+    <span class="news-feed__item__date">вчера, 23:16</span>
+    <span class="news-feed__item__title">SpaceX сообщила о неудачной посадке ступени Falcon на платформу в океане</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/finances/17/01/2016/569b84d19a7947a34277f8a8"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:27</span>
-    <span class="news-feed__item__title">Путин объединил таможенные и налоговые платежи в единую систему</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698fc539a7947d5535ded96"
+    <span class="news-feed__item__date">вчера, 23:13</span>
+    <span class="news-feed__item__title">Владелец «Уралсиба» начал переговоры с «Ростехом» о Новикомбанке</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bf3629a794704e32a4dbb"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:13</span>
-    <span class="news-feed__item__title">Чайку попросили проверить информацию об отдыхе Касьянова в Швейцарии</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698fc239a7947b5dd8d7129"
+    <span class="news-feed__item__date">вчера, 23:06</span>
+    <span class="news-feed__item__title">На северо-востоке Москвы произошло ДТП с участием трех автомобилей</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/17/01/2016/569ba8999a7947bce3311191"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:10</span>
-    <span class="news-feed__item__title">Кадыров принял извинения красноярского депутата</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/technology_and_media/15/01/2016/5698e0579a7947ab0f090bfd"
+    <span class="news-feed__item__date">вчера, 22:53</span>
+    <span class="news-feed__item__title">Друзья народа: почему из Грозного зазвучали угрозы оппозиции</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/economics/17/01/2016/5698f6639a7947cc90ea4d34"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:04</span>
-    <span class="news-feed__item__title">Крупнейший онлайн-ретейлер Китая начнет продавать товары из России</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/technology_and_media/15/01/2016/5698fa679a7947d2bb3b226b"
+    <span class="news-feed__item__date">вчера, 22:31</span>
+    <span class="news-feed__item__title">Минфин вернулся к идее изъятия у нефтяников «девальвационных» доходов</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569beb719a7947ff9fea5d64"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">17:04</span>
-    <span class="news-feed__item__title">«Газпром» продолжил называть себя национальным достоянием</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698ecc59a7947c036ec5e82"
+    <span class="news-feed__item__date">вчера, 22:28</span>
+    <span class="news-feed__item__title">NASA запустило ракету Falcon 9 с погодным спутником</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569be6c39a7947ff9fea5d60"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">16:53</span>
-    <span class="news-feed__item__title">В керченской больнице до смерти избили пациента</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698f66a9a7947cc8b318275"
+    <span class="news-feed__item__date">вчера, 22:09</span>
+    <span class="news-feed__item__title">СМИ узнали причины взрыва в столице Афганистана</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/17/01/2016/569bdb649a7947ef8623cd81"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">16:51</span>
-    <span class="news-feed__item__title">Протоирея Чаплина исключили из президентского совета по религии</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/finances/15/01/2016/5698f75c9a7947cc0dcc04a7"
+    <span class="news-feed__item__date">вчера, 22:03</span>
+    <span class="news-feed__item__title">США передали Украине военное оборудование на $21 млн</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569be0d29a7947f221c184fa"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">16:44</span>
-    <span class="news-feed__item__title">Биржевой курс евро превысил 85 руб.</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/15/01/2016/5698eeeb9a7947c329e224b5"
+    <span class="news-feed__item__date">вчера, 21:44</span>
+    <span class="news-feed__item__title">Президент Чехии заявил о невозможности интегрировать мусульман в Европе</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/society/17/01/2016/569bd2729a7947e56d31df1a"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">16:43</span>
-    <span class="news-feed__item__title">ЮНЕСКО допустило утрату Кремлем статуса объекта всемирного наследия</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698f3c39a7947c667688bc5"
+    <span class="news-feed__item__date">вчера, 21:08</span>
+    <span class="news-feed__item__title">Москва предупредила Тегеран о недопустимости транзита турецких продуктов</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/17/01/2016/569b8cf29a7947ae5dbfca65"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">16:38</span>
-    <span class="news-feed__item__title">В переводчике «Яндекса» появился язык эльфов</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/15/01/2016/5698f2cc9a7947c5fabd430d"
+    <span class="news-feed__item__date">вчера, 21:06</span>
+    <span class="news-feed__item__title">Шаг к отмене санкций: как сближаются позиции переговорщиков по Донбассу</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bd7209a7947e5855cddfd"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">16:23</span>
-    <span class="news-feed__item__title">Украинский суд приговорил воевавшего в ЛНР россиянина к 13 годам</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698ef119a7947c10d471e25"
+    <span class="news-feed__item__date">вчера, 21:02</span>
+    <span class="news-feed__item__title">Почти 90 тысяч человек остались без света в Чечне</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bd1a49a7947e56d31df18"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">16:15</span>
-    <span class="news-feed__item__title">Над Гавайями столкнулись два военных вертолета США</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/society/15/01/2016/5698e1c29a7947ac863218b3"
+    <span class="news-feed__item__date">вчера, 20:38</span>
+    <span class="news-feed__item__title">Египетский парламент принял антитеррористический закон</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bce919a7947e11a570750"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:46</span>
-    <span class="news-feed__item__title">Вертолет Ми-8 сел на федеральную трассу в Алтайском крае</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/15/01/2016/5698d9199a79479d029b4298"
+    <span class="news-feed__item__date">вчера, 20:25</span>
+    <span class="news-feed__item__title">Reuters сообщил о взрыве в столице Афганистана</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bc5f89a7947d5a7f65e2b"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:46</span>
-    <span class="news-feed__item__title">В Госдуме решили не наказывать геев за демонстрацию чувств</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698e87e9a7947ba807d7d77"
+    <span class="news-feed__item__date">вчера, 19:49</span>
+    <span class="news-feed__item__title">Москвич с ребенком заперся в погруженном на эвакуатор автомобиле</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bc22c9a7947d22f2ff0d5"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:45</span>
-    <span class="news-feed__item__title">Reuters узнал о намерении Саудовской Аравии инвестировать нефтяные доходы</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/15/01/2016/5698e2e79a7947ac863218c0"
+    <span class="news-feed__item__date">вчера, 19:33</span>
+    <span class="news-feed__item__title">Власти сообщили о предотвращении обрушения балкона в центре Москвы</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569bc0689a7947d20fc30bd2"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:40</span>
-    <span class="news-feed__item__title">Звонок заставил красноярского депутата признать авторитет Кадырова</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698e7609a7947b5e9f07063"
+    <span class="news-feed__item__date">вчера, 19:25</span>
+    <span class="news-feed__item__title">Обама сообщил о давлении на президента Ирана для освобождения американцев</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/17/01/2016/569bb15d9a7947c9a832955a"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:37</span>
-    <span class="news-feed__item__title">Сурков и Нуланд начали переговоры в Калининградской области</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/finances/15/01/2016/5698e2b99a7947ac3df1457d"
+    <span class="news-feed__item__date">вчера, 18:38</span>
+    <span class="news-feed__item__title">США ввели новые санкции против Ирана</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/society/17/01/2016/569bb2749a7947c878486cda"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:35</span>
-    <span class="news-feed__item__title">Разработчик биткоина признал провал эксперимента с криптовалютой</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/15/01/2016/5698d40c9a794795ab0d68d4"
+    <span class="news-feed__item__date">вчера, 18:25</span>
+    <span class="news-feed__item__title">МВД начало проверку из-за видео с не пропустившим «скорую» полицейским</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/politics/17/01/2016/569ba2029a7947b7de1c6153"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:29</span>
-    <span class="news-feed__item__title">Статистика СКР о раскрытии преступлений сильно разошлась с данными МВД</span>
-    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/5698e0979a7947a9c4221109"
+    <span class="news-feed__item__date">вчера, 17:51</span>
+    <span class="news-feed__item__title">Руководство Чечни обнаружило «пятую колонну» в российских СМИ</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569ba5e29a7947bb30e288ad"
     class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
 data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
 data-pub="false"
 >
-    <span class="news-feed__item__date">15:28</span>
-    <span class="news-feed__item__title">Медведев назвал драматическим падение цен на нефть</span>
+    <span class="news-feed__item__date">вчера, 17:36</span>
+    <span class="news-feed__item__title">Сайт посольства России в Израиле возобновил работу после взлома</span>
+    </a>                                                                                                                            <a href="http://www.rbc.ru/rbcfreenews/569ba2549a7947b7c9a8f483"
+    class="news-feed__item chrome news-feed__item_visited-color news-feed__item_important_false"
+data-ati-item="news" data-ati-title="" data-ati-id="" data-ati-url=""
+data-pub="false"
+>
+    <span class="news-feed__item__date">вчера, 17:16</span>
+    <span class="news-feed__item__title">В центре Москвы на проезжую часть обрушился балкон</span>
     </a>                                                                                                        </div>
                 </div>
             </div>
@@ -838,7 +838,7 @@ data-pub="false"
                 <script async src="http://v6.top.rbk.ru/rbc_static/version-1.26.3/scripts/build/_layout-main-live-tv.js"></script>
                 <div class="l-col-210px-main js-sticky-block__news-feed__fallback">
             <div class="l-col-210px-main__inner g-print-full-width js-main__inner">
-                <div class="banner g-overflow" data-banner-id="new_news_shapka"><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_shapka&_b=Media2/new_news_shapka_DFP" empty="true" style="display:none"></a>
+                <div class="banner g-overflow" data-banner-id="new_news_shapka"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_shapka&_b=Media2/new_news_shapka_DFP" empty="true" style="display:none"></a>
 
 <!-- /52237517/blillboard_all_test -->
 <div id='div-gpt-ad-1449648123736-0'></div>
@@ -974,7 +974,7 @@ try {
 </div>                                    </div>
                 <div class="g-border g-advertisement-block js-check-banners">
                     <span class="g-title-border">Реклама</span>
-                    <div class="banner " data-banner-id="top_informers"><br><script type="text/javascript" src="http://pics.rbc.ru/js/swf/insertSWF.js?3.0"></script><script type="text/javascript">
+                    <div class="banner " data-banner-id="top_informers"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><br><script type="text/javascript" src="http://pics.rbc.ru/js/swf/insertSWF.js?3.0"></script><script type="text/javascript">
 // <![CDATA[
 Bbody.next(".6de0c3b1000");
 if ( Cookie && typeof(Cookie) == 'object') {
@@ -1089,54 +1089,54 @@ if (d) {
             <div class="g-border">
                 <a href="http://www.rbc.ru/main/" class="news-topics__title g-title-border" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">ГЛАВНЫЕ НОВОСТИ</a>
 
-        <a href="http://www.rbc.ru/finances/15/01/2016/569906609a7947e2f9734fa5" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
+        <a href="http://www.rbc.ru/politics/18/01/2016/569bb1189a7947c80e31464b" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
         <span class="news-item__body">
                         <span class="news-item__image">
-                <img class="news-item__img g-image-responsive" src="http://pics.v6.top.rbk.ru/v6_top_pics/resized/140xH/media/img/4/10/754528702319104.jpg">
+                <img class="news-item__img g-image-responsive" src="http://pics.v6.top.rbk.ru/v6_top_pics/resized/140xH/media/img/6/84/754530543404846.jpg">
             </span>
                         <span class="news-item__title">
-                                <span class="news-item__title__text  news-item__title__text_block"> Индекс РТС упал до минимума с 2009 года
-                                    <span class="news-item__meta">17:59</span>
+                                <span class="news-item__title__text  news-item__title__text_block"> Адвокат по делу Немцова рассказал о поездке «убийцы» политика на Украину
+                                    <span class="news-item__meta">00:00</span>
                                 </span>
             </span>
         </span>
     </a>
-            <a href="http://www.rbc.ru/politics/15/01/2016/5698e2e79a7947ac863218c0" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
+            <a href="http://www.rbc.ru/politics/18/01/2016/569bab069a7947c22fa2e55e" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
         <span class="news-item__body">
                         <span class="news-item__title">
-                <span class="news-item__meta news-item__meta_float">15:40</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Звонок заставил красноярского депутата признать авторитет Кадырова
+                <span class="news-item__meta news-item__meta_float">00:00</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Россия отказалась от участия в зимней сессии ПАСЕ
                                 </span>
             </span>
         </span>
     </a>
-            <a href="http://www.rbc.ru/finances/15/01/2016/5698ce9d9a794791cf2c1748" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
+            <a href="http://www.rbc.ru/economics/17/01/2016/5698f6639a7947cc90ea4d34" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
         <span class="news-item__body">
                         <span class="news-item__title">
-                <span class="news-item__meta news-item__meta_float">14:19</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Греф признал устаревшей новую IT-систему Сбербанка за миллиарды рублей
+                <span class="news-item__meta news-item__meta_float">22:31</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Минфин вернулся к идее изъятия у нефтяников «девальвационных» доходов
                                 </span>
             </span>
         </span>
     </a>
-            <a href="http://www.rbc.ru/economics/15/01/2016/5698f90d9a7947cf26cff2f4" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
+            <a href="http://www.rbc.ru/politics/17/01/2016/569bb15d9a7947c9a832955a" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
         <span class="news-item__body">
                         <span class="news-item__title">
-                <span class="news-item__meta news-item__meta_float">17:27</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Путин объединил таможенные и налоговые платежи в единую систему
+                <span class="news-item__meta news-item__meta_float">18:38</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> США ввели новые санкции против Ирана
                                 </span>
             </span>
         </span>
     </a>
-            <a href="http://www.rbc.ru/politics/15/01/2016/5698eeeb9a7947c329e224b5" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
+            <a href="http://www.rbc.ru/politics/18/01/2016/569bc6099a7947d5a7f65e2e" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
         <span class="news-item__body">
                         <span class="news-item__title">
-                <span class="news-item__meta news-item__meta_float">16:43</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> ЮНЕСКО допустило утрату Кремлем статуса объекта всемирного наследия
+                <span class="news-item__meta news-item__meta_float">00:16</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Тегеран на свободе: какие санкции сняты с Ирана
                                 </span>
             </span>
         </span>
     </a>
-            <a href="http://www.rbc.ru/finances/15/01/2016/5698e2b99a7947ac3df1457d" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
+            <a href="http://www.rbc.ru/politics/17/01/2016/569ba8999a7947bce3311191" class="news-item news-item_tiny-list chrome" data-ati-item="main_body" data-ati-title="" data-ati-id="" data-ati-url="">
         <span class="news-item__body">
                         <span class="news-item__title">
-                <span class="news-item__meta news-item__meta_float">15:35</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Разработчик биткоина признал провал эксперимента с криптовалютой
+                <span class="news-item__meta news-item__meta_float">22:53</span>                <span class="news-item__title__text news-item__title__text_small news-item__title__text_block"> Друзья народа: почему из Грозного зазвучали угрозы оппозиции
                                 </span>
             </span>
         </span>
@@ -1147,7 +1147,7 @@ if (d) {
     </div>
     <div class="l-col-50p g-float-right">
         <div class="l-col-50p__inner">
-            <div class="banner " data-banner-id="new_news_project_block"><!--BEGIN Medialand Совместные проекты (ТОП РБК) (Анонсы)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_project_block&_b=Media2/new_news_project_block" empty="true" style="display:none"></a>
+            <div class="banner " data-banner-id="new_news_project_block"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Совместные проекты (ТОП РБК) (Анонсы)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_project_block&_b=Media2/new_news_project_block" empty="true" style="display:none"></a>
 
 <div id="mlph2030"></div>
 <script language="JavaScript">
@@ -1166,7 +1166,7 @@ if (d) {
 // -->
 </script>
 <!--END Medialand --></div>
-            <div class="banner " data-banner-id="new_news_partner_block"><!--BEGIN Medialand Новости партнеров (Новости партнеров)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_partner_block&_b=Media2/new_news_partner_block" empty="true" style="display:none"></a>
+            <div class="banner " data-banner-id="new_news_partner_block"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Новости партнеров (Новости партнеров)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_partner_block&_b=Media2/new_news_partner_block" empty="true" style="display:none"></a>
 <div id="mlph1943"></div>
 <script language="JavaScript">
 <!--
@@ -1191,7 +1191,7 @@ if (d) {
     </div>
     <div class="l-col-240px-secondary g-noprint">
         <div class="js-sticky-block__banner-top banners__sticky">
-    <div class="banner " data-banner-id="new_top_left"><!-- RBCNews_240*400_1st_right  1146 new_top_left --><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_top_left&_b=Media2/new_top_left_DFP" empty="true" style="display:none"></a>
+    <div class="banner " data-banner-id="new_top_left"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!-- RBCNews_240*400_1st_right  1146 new_top_left --><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_top_left&_b=Media2/new_top_left_DFP" empty="true" style="display:none"></a>
 <div id='div-gpt-ad-1436366531196-0'>
 <script type='text/javascript'>
 googletag.cmd.push(function() {
@@ -1203,68 +1203,7 @@ googletag.cmd.push(function() {
     <div class="special-offers js-check-banners">
         <div class="special-offers__inner">
             <div class="special-offers__title">Специальные предложения</div>
-            <div class="banner " data-banner-id="fp_new_realty_teaser1"><!--BEGIN Medialand недвижимость тизер 1 (fp_new_realty_teaser1) (Информеры Главная страница Realty.rbc.ru и Главная страница rbc.ru в блоке "Недвижимость")--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=fp_new_realty_teaser1&_b=Media2/fp_new_realty_teaser1" empty="true" style="display:none"></a>
-
-
-<div id="mlph1116"></div>
-<script language="JavaScript">
-<!--
-var random = Math.floor(Math.random() * 1000000000);
-var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {}
-try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" }
-var d = document.getElementById('mlph1116');
-if (d) {
-  d.id += '_' + random;
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.src = 'http://engine.rbc.medialand.ru/code?pid=1116&gid=32&oin=1&cnt=2&rid=' + random +'&dreferer='+escape(dreferrer);
-  d.parentNode.insertBefore(s, d);
-}
-
-// -->
-</script>
-<!--END Medialand -->
-</div>
-            
-        </div>
-    </div>
-</div>    <div class="banners__interest__wrap">
-        <div class="banner " data-banner-id="new_news_int_block"><!--BEGIN Medialand Интересное (Интересное)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_int_block&_b=Media2/new_news_int_block" empty="true" style="display:none"></a>
-
-<div id="mlph1942"></div>
-<script language="JavaScript">
-<!--
-var random = Math.floor(Math.random() * 1000000000);
-var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {}
-try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" }
-var d = document.getElementById('mlph1942');
-if (d) {
-  d.id += '_' + random;
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.src = 'http://engine.rbc.medialand.ru/code?pid=1942&gid=41&oin=1&cnt=8&rid=' + random +'&dreferer='+escape(dreferrer);
-  d.parentNode.insertBefore(s, d);
-}
-// -->
-</script>
-<!--END Medialand --></div>
-    </div>
-</div>
-<div class="g-banner__space"></div>
-<div class="js-sticky-block__banner-middle js-sticky-block-stop">
-    <div class="banner " data-banner-id="new_banner_right"><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_banner_right&_b=Media2/new_banner_right_DFP" empty="true" style="display:none"></a><!-- RBCNews_240*400_2nd_right  1935 new_banner_right) -->
-<div id='div-gpt-ad-1436366619557-0'>
-<script type='text/javascript'>
-googletag.cmd.push(function() {
-  rbc_dfp.display('div-gpt-ad-1436366619557-0');
-});
-</script>
-</div></div>
-    <div class="special-offers__wrapper">
-    <div class="special-offers js-check-banners">
-        <div class="special-offers__inner">
-            <div class="special-offers__title">Специальные предложения</div>
-            <div class="banner " data-banner-id="fp_new_auto_teaser1"><!--BEGIN Medialand автомобильный тизер 1 (fp_new_auto_teaser1) (inline)-->
+            <div class="banner " data-banner-id="fp_new_auto_teaser1"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand автомобильный тизер 1 (fp_new_auto_teaser1) (inline)-->
 <a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=fp_new_auto_teaser1&_b=Media2/fp_new_auto_teaser1" empty="true" style="display:none"></a><!--END Medialand -->
 
 <div id="new_rbc_inf_1"></div>
@@ -1314,7 +1253,68 @@ try {
             
         </div>
     </div>
-</div>    <div class="banner " data-banner-id="new_news_read_block"><!--BEGIN Medialand Читайте также (Читайте также)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_read_block&_b=Media2/new_news_read_block" empty="true" style="display:none"></a>
+</div>    <div class="banners__interest__wrap">
+        <div class="banner " data-banner-id="new_news_int_block"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Интересное (Интересное)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_int_block&_b=Media2/new_news_int_block" empty="true" style="display:none"></a>
+
+<div id="mlph1942"></div>
+<script language="JavaScript">
+<!--
+var random = Math.floor(Math.random() * 1000000000);
+var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {}
+try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" }
+var d = document.getElementById('mlph1942');
+if (d) {
+  d.id += '_' + random;
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.src = 'http://engine.rbc.medialand.ru/code?pid=1942&gid=41&oin=1&cnt=8&rid=' + random +'&dreferer='+escape(dreferrer);
+  d.parentNode.insertBefore(s, d);
+}
+// -->
+</script>
+<!--END Medialand --></div>
+    </div>
+</div>
+<div class="g-banner__space"></div>
+<div class="js-sticky-block__banner-middle js-sticky-block-stop">
+    <div class="banner " data-banner-id="new_banner_right"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_banner_right&_b=Media2/new_banner_right_DFP" empty="true" style="display:none"></a><!-- RBCNews_240*400_2nd_right  1935 new_banner_right) -->
+<div id='div-gpt-ad-1436366619557-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+  rbc_dfp.display('div-gpt-ad-1436366619557-0');
+});
+</script>
+</div></div>
+    <div class="special-offers__wrapper">
+    <div class="special-offers js-check-banners">
+        <div class="special-offers__inner">
+            <div class="special-offers__title">Специальные предложения</div>
+            <div class="banner " data-banner-id="fp_new_realty_teaser1"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand недвижимость тизер 1 (fp_new_realty_teaser1) (Информеры Главная страница Realty.rbc.ru и Главная страница rbc.ru в блоке "Недвижимость")--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=fp_new_realty_teaser1&_b=Media2/fp_new_realty_teaser1" empty="true" style="display:none"></a>
+
+
+<div id="mlph1116"></div>
+<script language="JavaScript">
+<!--
+var random = Math.floor(Math.random() * 1000000000);
+var dreferrer = document.referrer; try { dreferrer = window.parent.document.referrer } catch(e) {}
+try { dreferrer = dreferrer.substr(0, 256) } catch(e) { dreferrer = "" }
+var d = document.getElementById('mlph1116');
+if (d) {
+  d.id += '_' + random;
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.src = 'http://engine.rbc.medialand.ru/code?pid=1116&gid=32&oin=1&cnt=2&rid=' + random +'&dreferer='+escape(dreferrer);
+  d.parentNode.insertBefore(s, d);
+}
+
+// -->
+</script>
+<!--END Medialand -->
+</div>
+            
+        </div>
+    </div>
+</div>    <div class="banner " data-banner-id="new_news_read_block"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--BEGIN Medialand Читайте также (Читайте также)--><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_read_block&_b=Media2/new_news_read_block" empty="true" style="display:none"></a>
 
 <div id="mlph1933"></div>
 <script language="JavaScript">
@@ -1335,7 +1335,7 @@ if (d) {
 <!--END Medialand --></div>
 </div>    </div>
 </div>
-                <div class="banner js-sticky-block-stop2 g-overflow" data-banner-id="new_news_bot_2"><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_bot_2&_b=Media2/new_news_bot_2_DFP" empty="true" style="display:none"></a><!-- RBCNews_Filmstrip 1937 (new_news_bot_2) -->
+                <div class="banner js-sticky-block-stop2 g-overflow" data-banner-id="new_news_bot_2"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=new_news_bot_2&_b=Media2/new_news_bot_2_DFP" empty="true" style="display:none"></a><!-- RBCNews_Filmstrip 1937 (new_news_bot_2) -->
 <div id='div-gpt-ad-1436366028349-0'>
 <script type='text/javascript'>
 googletag.cmd.push(function() {
@@ -1661,6 +1661,6 @@ var bannersConfig = [{"nick":"firstpage_left2","refresh_timeout":3,"max_refresh_
     <script type="text/javascript" src="//scan.botscanner.com?dspId=15" async="true" ></script>
     <noscript><img src="//scan.botscanner.com/noscript?dspId=15"/></noscript>
 
-<IMG SRC="http://pics.rbc.ru/rbcmill/img/err/err.gif" WIDTH="1" HEIGHT="1" ALT="http://www.rbc.ru/" style="border:0;">
-</body>
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><IMG SRC="http://pics.rbc.ru/rbcmill/img/err/err.gif" WIDTH="1" HEIGHT="1" ALT="http://www.rbc.ru/" style="border:0;">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8bff0dff29","applicationID":"7449989,7449990","transactionName":"YgcDNUIEDxYHUEVbXFtNIAJEDA4LSX1URUB2DQ8VQgoNCQNBHltHUA8=","queueTime":0,"applicationTime":114,"atts":"TkAAQwoeHBg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body>
 </html>

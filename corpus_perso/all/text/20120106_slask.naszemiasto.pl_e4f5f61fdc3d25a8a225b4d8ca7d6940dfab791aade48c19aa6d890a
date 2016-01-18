@@ -278,7 +278,7 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                   </div>
                 </form>
                                   <div>
-                    <a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=235398489840878&amp;state=7592d78e98655119661b6b3901e86010&amp;response_type=code&amp;sdk=php-sdk-5.0.0&amp;redirect_uri=http%3A%2F%2Fslaskie.naszemiasto.pl%2Flogowanie%2Fautoryzacja%2F&amp;scope=email" class="button small expand logowanieFacebook facebook-zaloguj" data-track='{ "name":"logowanieFacebook"}'><span class="icon-facebook2"></span> Zaloguj się przez facebook</a>
+                    <a href="https://www.facebook.com/v2.2/dialog/oauth?client_id=235398489840878&amp;state=052f5f4f2241c4d7f477275f1d12a16d&amp;response_type=code&amp;sdk=php-sdk-5.0.0&amp;redirect_uri=http%3A%2F%2Fslaskie.naszemiasto.pl%2Flogowanie%2Fautoryzacja%2F&amp;scope=email" class="button small expand logowanieFacebook facebook-zaloguj" data-track='{ "name":"logowanieFacebook"}'><span class="icon-facebook2"></span> Zaloguj się przez facebook</a>
                   </div>
                               </div>
               <div class="warstwaKontent warstwaRejestracja">
@@ -827,47 +827,9 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
   <h2 class="boxBelka">Wydarzenia dnia</h2>
   <ul class="listaZeZdjeciem">
         <li>
-      <a href="/artykul/moderat-w-polsce-2016-grupa-wystapi-w-kwietniu-na-trzech,3624606,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
+      <a href="/artykul/w-grze-o-tron-wygladala-jak-chlopak-ale-zobaczcie-jaka-jest,3624290,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
         <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/ed/6c/5698f4ad6d4f1_o,size,125x90,q,70,h,b9ff72.jpg" class="lazy " alt="Moderat w Polsce 2016. Grupa wystąpi w kwietniu na trzech koncertach" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/ed/6c/5698f4ad6d4f1_o,size,125x90,q,70,h,b9ff72.jpg" class="" alt="Moderat w Polsce 2016. Grupa wystąpi w kwietniu na trzech koncertach" width="125" height="90"></noscript>
-                                <span class="apla icon-camera" title="Zdjęcia"></span>
-                  </div>
-        <div class="kontent">
-                              <p class="tytul">
-                          Moderat w Polsce 2016. Grupa wystąpi w kwietniu na trzech koncertach
-                      </p>
-        </div>
-      </a>
-    </li>
-        <li>
-      <a href="/artykul/euro-2016-pilkarzy-recznych-w-katowicach-zdjecia-terminarz,3624960,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/1d/dc/5698f5d1cf70b_o,size,125x90,q,70,h,58f665.jpg" class="lazy " alt="Euro 2016 piłkarzy ręcznych w Katowicach [ZDJĘCIA, TERMINARZ]. Spodek wypełni się po brzegi" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/1d/dc/5698f5d1cf70b_o,size,125x90,q,70,h,58f665.jpg" class="" alt="Euro 2016 piłkarzy ręcznych w Katowicach [ZDJĘCIA, TERMINARZ]. Spodek wypełni się po brzegi" width="125" height="90"></noscript>
-                                <span class="apla icon-camera" title="Zdjęcia"></span>
-                  </div>
-        <div class="kontent">
-                              <p class="tytul">
-                          Euro 2016 piłkarzy ręcznych w Spodku
-                      </p>
-        </div>
-      </a>
-    </li>
-        <li>
-      <a href="/artykul/tak-sie-powinno-promowac-sport-zobaczcie-swietny-film-o,3624888,art,t,id,tm.html#62030132941bafa1,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="lazy " alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="" alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"></noscript>
-                            </div>
-        <div class="kontent">
-                              <p class="tytul">
-                          Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]
-                      </p>
-        </div>
-      </a>
-    </li>
-        <li>
-      <a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class="lazy " alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class="" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90"></noscript>
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"></noscript>
                                 <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
         <div class="kontent">
@@ -875,33 +837,81 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                                             <li class="komentarze"><i class="icon-bubble"></i>1</li>
                                         </ul>
                     <p class="tytul">
-                          QUIZ: Czego powinieneś nauczyć się w 2016 roku? 
-                      </p>
-        </div>
-      </a>
-    </li>
-        <li>
-      <a href="/artykul/w-grze-o-tron-wygladala-jak-chlopak-ale-zobaczcie-jaka-jest,3624290,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
-        <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"></noscript>
-                                <span class="apla icon-camera" title="Zdjęcia"></span>
-                  </div>
-        <div class="kontent">
-                              <p class="tytul">
                           W "Grze o tron" wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]
                       </p>
         </div>
       </a>
     </li>
         <li>
-      <a href="/artykul/studniowka-2016-najlepsze-zdjecia-ze-studniowek-w-woj,3619897,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
+      <a href="/artykul/wszystkie-przypadki-artura-szpilki-kim-jest-czlowiek-ktory,3624810,galop,t,id,tm.html#62030132941bafa1,1,3,6">
         <div class="img">
-                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/fa/43/5698a8c8cf5a8_o,size,125x90,crop,0.2100x0.1283x0.6927x0.7555,q,70,h,9c6c73.jpg" class="lazy " alt="Studniówka 2016: Najlepsze zdjęcia ze studniówek w woj. śląskim. Tak się bawią maturzyści [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/fa/43/5698a8c8cf5a8_o,size,125x90,crop,0.2100x0.1283x0.6927x0.7555,q,70,h,9c6c73.jpg" class="" alt="Studniówka 2016: Najlepsze zdjęcia ze studniówek w woj. śląskim. Tak się bawią maturzyści [ZDJĘCIA]" width="125" height="90"></noscript>
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,125x90,q,70,h,99a0d2.jpg" class="lazy " alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,125x90,q,70,h,99a0d2.jpg" class="" alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="125" height="90"></noscript>
                                 <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
         <div class="kontent">
                               <p class="tytul">
-                          Najlepsze zdjęcia ze studniówek! Zobacz FOTO
+                          Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
+      <a href="/artykul/mecz-polska-serbia-bialo-czerwoni-wygrywaja-po-horrorze,3625516,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,125x90,q,70,h,f90ef3.jpg" class="lazy " alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,125x90,q,70,h,f90ef3.jpg" class="" alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="125" height="90"></noscript>
+                                <span class="apla icon-camera" title="Zdjęcia"></span>
+                  </div>
+        <div class="kontent">
+                                <ul class="linkiPoziome clearfix">
+                                            <li class="komentarze"><i class="icon-bubble"></i>1</li>
+                                        </ul>
+                    <p class="tytul">
+                          Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
+      <a href="/artykul/zdjecia-psow-autorstwa-20-letniej-studentki-z-rudy-slaskiej,3625506,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/dd/eb/569a2abf0b2df_o,size,125x90,crop,0.3473x0.2110x0.4627x0.5080,q,70,h,0efa39.jpg" class="lazy " alt="Zdjęcia psów autorstwa 20-letniej studentki z Rudy Śląskiej podbijają świat!" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/dd/eb/569a2abf0b2df_o,size,125x90,crop,0.3473x0.2110x0.4627x0.5080,q,70,h,0efa39.jpg" class="" alt="Zdjęcia psów autorstwa 20-letniej studentki z Rudy Śląskiej podbijają świat!" width="125" height="90"></noscript>
+                                <span class="apla icon-camera" title="Zdjęcia"></span>
+                  </div>
+        <div class="kontent">
+                                <ul class="linkiPoziome clearfix">
+                                            <li class="komentarze"><i class="icon-bubble"></i>6</li>
+                                        </ul>
+                    <p class="tytul">
+                          Zdjęcia psów autorstwa 20-latki z Rudy Śl.
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
+      <a href="/artykul/monika-ordowska-prezenterka-nago-w-ckm-zdjecia-18-sexy-sesja,3622940,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/6d/f1/569a1754ae3a4_o,size,125x90,crop,0.0127x0.0654x0.3753x0.4178,q,70,h,c6b5eb.jpg" class="lazy " alt="Monika Ordowska - prezenterka NAGO w CKM [ZDJĘCIA +18]. Sexy sesja" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/6d/f1/569a1754ae3a4_o,size,125x90,crop,0.0127x0.0654x0.3753x0.4178,q,70,h,c6b5eb.jpg" class="" alt="Monika Ordowska - prezenterka NAGO w CKM [ZDJĘCIA +18]. Sexy sesja" width="125" height="90"></noscript>
+                                <span class="apla icon-camera" title="Zdjęcia"></span>
+                  </div>
+        <div class="kontent">
+                              <p class="tytul">
+                          Piękna prezenterka NAGO w CKM
+                      </p>
+        </div>
+      </a>
+    </li>
+        <li>
+      <a href="/artykul/lod-na-drogach-jest-bardzo-slisko-od-rana-kilkadziesiat,3625440,artgal,t,id,tm.html#62030132941bafa1,1,3,6">
+        <div class="img">
+                      <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/9a/65/569a4379dcbe0_o,size,125x90,q,70,h,9fb612.jpg" class="lazy " alt="Lód na drogach - jest bardzo ślisko. Od rana kilkadziesiąt kolizji" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/9a/65/569a4379dcbe0_o,size,125x90,q,70,h,9fb612.jpg" class="" alt="Lód na drogach - jest bardzo ślisko. Od rana kilkadziesiąt kolizji" width="125" height="90"></noscript>
+                                <span class="apla icon-camera" title="Zdjęcia"></span>
+                  </div>
+        <div class="kontent">
+                                <ul class="linkiPoziome clearfix">
+                                            <li class="komentarze"><i class="icon-bubble"></i>4</li>
+                                        </ul>
+                    <p class="tytul">
+                          Lód na drogach. Od rana kilkadziesiąt kolizji
                       </p>
         </div>
       </a>
@@ -940,9 +950,9 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
     t.push({elements: $('#polecane a'), href: '/material_karta/boks_polecane', licznik: true});
   } (GR.DOM, oG_OSA.tracking));
   </script>
-  <div class="zajawkaHallo lazy" data-original="http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,370x210,q,70,h,25717f.jpg}" style="background-image: url('http://s-nm.ppstatic.pl//g/_blan.gif')">
+  <div class="zajawkaHallo lazy" data-original="http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,370x210,q,70,h,8340cb.jpg}" style="background-image: url('http://s-nm.ppstatic.pl//g/_blan.gif')">
   <a href="/hallo">
-    <p>Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]</p>
+    <p>Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]</p>
   </a>
 </div>
 <script type="text/javascript">
@@ -973,15 +983,15 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
     <h2 class="boxBelka">Polecamy</h2>
                   <ul class="listaZeZdjeciem">
           <li>
-                        <a href="http://slaskie.naszemiasto.pl/artykul/praca-w-slaskiej-policji-w-tym-roku-przyjetych-bedzie-ponad,3624910,artgal,t,id,tm.html" title="Praca w śląskiej policji. W tym roku przyjętych będzie ponad 550 osób!">
+                        <a href="http://slaskie.naszemiasto.pl/artykul/beskidy-opady-sniegu-i-mroz-to-oznacza-bajkowa-scenerie,3626058,artgal,t,id,tm.html" title="Beskidy: Opady śniegu i mróz. To oznacza bajkową scenerię [ZDJĘCIA]">
               <div class="img">
-                <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/ec/2b/5698edb98aa14_o,size,125x90,q,70,h,3ded82.jpg" class="lazy " alt="Praca w śląskiej policji. W tym roku przyjętych będzie ponad 550 osób!" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/ec/2b/5698edb98aa14_o,size,125x90,q,70,h,3ded82.jpg" class="" alt="Praca w śląskiej policji. W tym roku przyjętych będzie ponad 550 osób!" width="125" height="90"></noscript>
+                <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/91/81/569ba6d0bbb40_o,size,125x90,q,70,h,6a88c2.jpg" class="lazy " alt="Beskidy: Opady śniegu i mróz. To oznacza bajkową scenerię [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/91/81/569ba6d0bbb40_o,size,125x90,q,70,h,6a88c2.jpg" class="" alt="Beskidy: Opady śniegu i mróz. To oznacza bajkową scenerię [ZDJĘCIA]" width="125" height="90"></noscript>
               </div>
               <div class="kontent">
                 <ul class="linkiPoziome clearfix">
                   <li class="artSpons"></li>
                 </ul>
-                <p class="tytul">Praca w śląskiej policji. W tym roku przyjętych będzie ponad 550 osób!</p>
+                <p class="tytul">Beskidy: Opady śniegu i mróz. To oznacza bajkową scenerię [ZDJĘCIA]</p>
               </div>
             </a>
           </li>
@@ -989,12 +999,28 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
          <ul class="listaMaterialow">
                            <li >
           <div class="oznMale">
+                        <a href="http://slaskie.naszemiasto.pl/artykul/lod-na-drogach-jest-bardzo-slisko-od-rana-kilkadziesiat,3625440,artgal,t,id,tm.html">
+                              Lód na drogach. Od rana kilkadziesiąt kolizji
+                          </a>
+          </div>
+                                      <span class="ikonaFoto icon-camera"></span>
+                                <span class="ikonaOpinie icon-bubble">4</span>
+                                          <li >
+          <div class="oznMale">
+                        <a href="http://slaskie.naszemiasto.pl/artykul/praca-w-slaskiej-policji-w-tym-roku-przyjetych-bedzie-ponad,3624910,artgal,t,id,tm.html">
+                              Praca w śląskiej policji
+                          </a>
+          </div>
+                                      <span class="ikonaFoto icon-camera"></span>
+                                <span class="ikonaOpinie icon-bubble">9</span>
+                                          <li >
+          <div class="oznMale">
                         <a href="http://slaskie.naszemiasto.pl/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html">
                               QUIZ: Czego powinieneś nauczyć się w 2016 roku? 
                           </a>
           </div>
                                       <span class="ikonaFoto icon-camera"></span>
-                                <span class="ikonaOpinie icon-bubble">1</span>
+                                <span class="ikonaOpinie icon-bubble">5</span>
                                           <li >
           <div class="oznMale">
                         <a href="http://slaskie.naszemiasto.pl/artykul/bazylika-w-panewnikach-piekne-zdjecia-z-drona,3623480,artgal,t,id,tm.html">
@@ -1002,23 +1028,7 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                           </a>
           </div>
                                       <span class="ikonaFoto icon-camera"></span>
-                                                    <li >
-          <div class="oznMale">
-                        <a href="http://slaskie.naszemiasto.pl/artykul/ranking-technikow-2016-woj-slaskiego-perspektywy,3623288,artgal,t,id,tm.html">
-                              Ranking Techników 2016 woj. śląskiego [LISTA]
-                          </a>
-          </div>
-                                      <span class="ikonaFoto icon-camera"></span>
-                                <span class="ikonaOpinie icon-bubble">1</span>
-                                          <li >
-          <div class="oznMale">
-                        <a href="http://slaskie.naszemiasto.pl/artykul/ranking-liceow-2016-woj-slaskiego-perspektywy,3623194,artgal,t,id,tm.html">
-                              Ranking Liceów 2016 woj. śląskiego
-                          </a>
-          </div>
-                                      <span class="ikonaFoto icon-camera"></span>
-                                <span class="ikonaOpinie icon-bubble">6</span>
-                                </ul>
+                                          </ul>
   </section>
   
   <script type="text/javascript">
@@ -1057,38 +1067,41 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
           </a> 
         </li>
               <li>
-          <a href="/artykul/top-10-imprezy-na-weekend-w-woj-slaskim-15-17-stycznia,3622362,galop,t,id,tm.html" title="TOP 10 imprezy na weekend! [LISTA]">
+          <a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html" title="QUIZ: Czego powinieneś nauczyć się w 2016 roku? ">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/c0/8a/56963b5187175_o,size,125x90,q,70,h,6694b0.jpg" class="lazy left" alt="TOP 10 imprezy na weekend! [LISTA]" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/c0/8a/56963b5187175_o,size,125x90,q,70,h,6694b0.jpg" class=" left" alt="TOP 10 imprezy na weekend! [LISTA]" width="125" height="90" name="zdjecie"></noscript>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class="lazy left" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class=" left" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90" name="zdjecie"></noscript>
                           </div>
             <div class="kontent">
-                                          <p class="tytul">TOP 10: Imprezy na weekend w woj. śląskim [15 - 17 stycznia]</p>
+                                            <ul class="linkiPoziome clearfix">
+                                                        <li class="komentarze"><i class="icon-bubble"></i>5</li>
+                                                    </ul>
+                            <p class="tytul">QUIZ: Czego powinieneś nauczyć się w 2016 roku? </p>
             </div>
           </a> 
         </li>
               <li>
-          <a href="/artykul/drogi-zamienily-sie-w-lodowiska-wypadek-karambol-stluczki,3622322,artgal,t,id,tm.html" title="Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]">
+          <a href="/artykul/lod-na-drogach-jest-bardzo-slisko-od-rana-kilkadziesiat,3625440,artgal,t,id,tm.html" title="Lód na drogach. Od rana kilkadziesiąt kolizji">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/d0/dc/5695fd6de780a_o,size,125x90,q,70,h,24cb24.jpg" class="lazy left" alt="Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/d0/dc/5695fd6de780a_o,size,125x90,q,70,h,24cb24.jpg" class=" left" alt="Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]" width="125" height="90" name="zdjecie"></noscript>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/9a/65/569a4379dcbe0_o,size,125x90,q,70,h,9fb612.jpg" class="lazy left" alt="Lód na drogach. Od rana kilkadziesiąt kolizji" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/9a/65/569a4379dcbe0_o,size,125x90,q,70,h,9fb612.jpg" class=" left" alt="Lód na drogach. Od rana kilkadziesiąt kolizji" width="125" height="90" name="zdjecie"></noscript>
                           </div>
             <div class="kontent">
                                             <ul class="linkiPoziome clearfix">
-                                                        <li class="komentarze"><i class="icon-bubble"></i>13</li>
+                                                        <li class="komentarze"><i class="icon-bubble"></i>4</li>
                                                     </ul>
-                            <p class="tytul">Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]</p>
+                            <p class="tytul">Lód na drogach - jest bardzo ślisko. Od rana kilkadziesiąt kolizji</p>
             </div>
           </a> 
         </li>
               <li>
-          <a href="/artykul/probny-sprawdzian-szostoklasisty-2016-operon-odpowiedzi,3621280,artgal,t,id,tm.html" title="Próbny sprawdzian szóstoklasisty z Operonem">
+          <a href="/artykul/praca-w-slaskiej-policji-w-tym-roku-przyjetych-bedzie-ponad,3624910,artgal,t,id,tm.html" title="Praca w śląskiej policji">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/8d/ef/5694dd50b25a5_o,size,125x90,q,70,h,f0b9ab.jpg" class="lazy left" alt="Próbny sprawdzian szóstoklasisty z Operonem" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/8d/ef/5694dd50b25a5_o,size,125x90,q,70,h,f0b9ab.jpg" class=" left" alt="Próbny sprawdzian szóstoklasisty z Operonem" width="125" height="90" name="zdjecie"></noscript>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/ec/2b/5698edb98aa14_o,size,125x90,q,70,h,3ded82.jpg" class="lazy left" alt="Praca w śląskiej policji" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/ec/2b/5698edb98aa14_o,size,125x90,q,70,h,3ded82.jpg" class=" left" alt="Praca w śląskiej policji" width="125" height="90" name="zdjecie"></noscript>
                           </div>
             <div class="kontent">
                                             <ul class="linkiPoziome clearfix">
-                                                        <li class="komentarze"><i class="icon-bubble"></i>8</li>
+                                                        <li class="komentarze"><i class="icon-bubble"></i>9</li>
                                                     </ul>
-                            <p class="tytul">Próbny sprawdzian szóstoklasisty 2016 OPERON: odpowiedzi, arkusze, testy</p>
+                            <p class="tytul">Praca w śląskiej policji. W tym roku przyjętych będzie ponad 550 osób!</p>
             </div>
           </a> 
         </li>
@@ -1098,41 +1111,25 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
     <h2 class="boxBelka">Komentowane</h2>
     <ul class="listaZeZdjeciem">
               <li>
-          <a href="/artykul/drogi-zamienily-sie-w-lodowiska-wypadek-karambol-stluczki,3622322,artgal,t,id,tm.html" title="Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]">
+          <a href="/artykul/praca-w-slaskiej-policji-w-tym-roku-przyjetych-bedzie-ponad,3624910,artgal,t,id,tm.html" title="Praca w śląskiej policji">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/d0/dc/5695fd6de780a_o,size,125x90,q,70,h,24cb24.jpg" class="lazy left" alt="Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/d0/dc/5695fd6de780a_o,size,125x90,q,70,h,24cb24.jpg" class=" left" alt="Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]" width="125" height="90" name="zdjecie"></noscript>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/ec/2b/5698edb98aa14_o,size,125x90,q,70,h,3ded82.jpg" class="lazy left" alt="Praca w śląskiej policji" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/ec/2b/5698edb98aa14_o,size,125x90,q,70,h,3ded82.jpg" class=" left" alt="Praca w śląskiej policji" width="125" height="90" name="zdjecie"></noscript>
                                             <span class="apla icon-camera" title="Zdjęcia"></span>
                           </div>
             <div class="kontent">
                                             <ul class="linkiPoziome clearfix">
-                                                        <li class="komentarze"><i class="icon-bubble"></i>13</li>
+                                                        <li class="komentarze"><i class="icon-bubble"></i>9</li>
                                                     </ul>
                             <p class="tytul">
-                                  Drogi zamieniły się w lodowiska. Wypadek, karambol, stłuczki... [RAPORT DROGOWY]
+                                  Praca w śląskiej policji
                               </p>
             </div>
           </a> 
         </li>
               <li>
-          <a href="/artykul/the-winery-dogs-w-warszawie-wygraj-bilety-na-pierwszy,3622560,artgal,t,id,tm.html" title="The Winery Dogs w Warszawie. Wygraj bilety na pierwszy koncert supergrupy w Polsce!">
+          <a href="/artykul/zdjecia-psow-autorstwa-20-letniej-studentki-z-rudy-slaskiej,3625506,artgal,t,id,tm.html" title="Zdjęcia psów autorstwa 20-latki z Rudy Śl.">
             <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/60/d0/5696368b93636_o,size,125x90,q,70,h,d5ea06.jpg" class="lazy left" alt="The Winery Dogs w Warszawie. Wygraj bilety na pierwszy koncert supergrupy w Polsce!" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/60/d0/5696368b93636_o,size,125x90,q,70,h,d5ea06.jpg" class=" left" alt="The Winery Dogs w Warszawie. Wygraj bilety na pierwszy koncert supergrupy w Polsce!" width="125" height="90" name="zdjecie"></noscript>
-                                            <span class="apla icon-camera" title="Zdjęcia"></span>
-                          </div>
-            <div class="kontent">
-                                            <ul class="linkiPoziome clearfix">
-                                                        <li class="komentarze"><i class="icon-bubble"></i>8</li>
-                                                    </ul>
-                            <p class="tytul">
-                                  The Winery Dogs w Warszawie. Wygraj bilety na pierwszy koncert supergrupy w Polsce!
-                              </p>
-            </div>
-          </a> 
-        </li>
-              <li>
-          <a href="/artykul/ranking-liceow-2016-woj-slaskiego-perspektywy,3623194,artgal,t,id,tm.html" title="Ranking Liceów 2016 woj. śląskiego">
-            <div class="img">
-                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/95/cd/56974db0450ed_o,size,125x90,crop,0.0000x0.0000x0.6773x0.6909,q,70,h,b5c28f.jpg" class="lazy left" alt="Ranking Liceów 2016 woj. śląskiego" width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/95/cd/56974db0450ed_o,size,125x90,crop,0.0000x0.0000x0.6773x0.6909,q,70,h,b5c28f.jpg" class=" left" alt="Ranking Liceów 2016 woj. śląskiego" width="125" height="90" name="zdjecie"></noscript>
+                              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/dd/eb/569a2abf0b2df_o,size,125x90,crop,0.3473x0.2110x0.4627x0.5080,q,70,h,0efa39.jpg" class="lazy left" alt="Zdjęcia psów autorstwa 20-latki z Rudy Śl." width="125" height="90" name="zdjecie"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/dd/eb/569a2abf0b2df_o,size,125x90,crop,0.3473x0.2110x0.4627x0.5080,q,70,h,0efa39.jpg" class=" left" alt="Zdjęcia psów autorstwa 20-latki z Rudy Śl." width="125" height="90" name="zdjecie"></noscript>
                                             <span class="apla icon-camera" title="Zdjęcia"></span>
                           </div>
             <div class="kontent">
@@ -1140,7 +1137,7 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                                                         <li class="komentarze"><i class="icon-bubble"></i>6</li>
                                                     </ul>
                             <p class="tytul">
-                                  Ranking Liceów 2016 woj. śląskiego
+                                  Zdjęcia psów autorstwa 20-latki z Rudy Śl.
                               </p>
             </div>
           </a> 
@@ -1234,64 +1231,65 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
   <div class="kafleWiersz row">
     <div class="columns medium-6">
       <article class="kafel kafelDuzy">
-        <a href="/artykul/tak-sie-powinno-promowac-sport-zobaczcie-swietny-film-o,3624888,art,t,id,tm.html">
+        <a href="/artykul/dla-takiego-widoku-warto-wstac-wczesnie-rano-zdjecie-dnia,3611717,galop,t,id,tm.html">
           <div class="img">
             <span class="hide-for-small-only">
-             <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,577x487,q,70,h,c8da8a.jpg" class="lazy " alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="577" height="487"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,577x487,q,70,h,c8da8a.jpg" class="" alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="577" height="487"></noscript>
+             <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,577x487,q,70,h,5a232c.jpg" class="lazy " alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="577" height="487"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,577x487,q,70,h,5a232c.jpg" class="" alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="577" height="487"></noscript>
             </span>
             <span class="show-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="lazy " alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5c/ec/5698e9b2e714e_o,size,125x90,q,70,h,5ffe20.jpg" class="" alt="Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]" width="125" height="90"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,125x90,q,70,h,f28f6e.jpg" class="lazy " alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/4b/bf/569b8641212f3_o,size,125x90,q,70,h,f28f6e.jpg" class="" alt="Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]" width="125" height="90"></noscript>
             </span>
+                          <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                       </div>
-          <h3 class="kafelTytul">Tak się powinno promować sport! Zobaczcie świetny film o Lowlanders Białystok [WIDEO]</h3>
+          <h3 class="kafelTytul">Dla takiego widoku warto wstać wcześnie rano [ZDJĘCIE DNIA]</h3>
         </a>
               </article>
     </div>
     <div class="columns medium-6">
       <article class="kafel kafelPoziomy kafelOdstep">
-        <a href="/artykul/w-grze-o-tron-wygladala-jak-chlopak-ale-zobaczcie-jaka-jest,3624290,artgal,t,id,tm.html">
+        <a href="/artykul/wszystkie-przypadki-artura-szpilki-kim-jest-czlowiek-ktory,3624810,galop,t,id,tm.html">
           <div class="img">
             <span class="hide-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,577x236,crop,0.0000x0.0213x0.9920x0.2713,q,70,h,445ca3.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,577x236,crop,0.0000x0.0213x0.9920x0.2713,q,70,h,445ca3.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="577" height="236"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,577x236,q,70,h,ab2e74.jpg" class="lazy " alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,577x236,q,70,h,ab2e74.jpg" class="" alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="577" height="236"></noscript>
             </span>
             <span class="show-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,125x90,q,70,h,99a0d2.jpg" class="lazy " alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/8f/cf/5698e0113c140_o,size,125x90,q,70,h,99a0d2.jpg" class="" alt="Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?" width="125" height="90"></noscript>
             </span>
                           <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                       </div>
-          <h3 class="kafelTytul">W "Grze o tron" wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]</h3>
+          <h3 class="kafelTytul">Wszystkie przypadki Artura Szpilki. Kim jest człowiek, który walczył o tytuł mistrza świata?</h3>
         </a>
               </article>
       <div class="row">
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/najdrozsze-rzeczy-swiata-na-co-wydac-1-5-miliarda-dolarow-z,3623658,galop,t,id,tm.html">
+            <a href="/artykul/w-grze-o-tron-wygladala-jak-chlopak-ale-zobaczcie-jaka-jest,3624290,artgal,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,281x236,q,70,h,c93384.jpg" class="lazy " alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,281x236,q,70,h,c93384.jpg" class="" alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,281x236,crop,0.0000x0.0367x0.9920x0.5580,q,70,h,8daef5.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,281x236,crop,0.0000x0.0367x0.9920x0.5580,q,70,h,8daef5.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,125x90,q,70,h,c8d6b7.jpg" class="lazy " alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/54/b5/56978bf45c769_o,size,125x90,q,70,h,c8d6b7.jpg" class="" alt="Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]" width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="lazy " alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/0e/5b/569813f2b69b1_o,size,125x90,crop,0.0000x0.0367x0.9920x0.4740,q,70,h,2327f2.jpg" class="" alt="W &quot;Grze o tron&quot; wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]" width="125" height="90"></noscript>
                 </span>
                                   <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">Najdroższe rzeczy świata. Na co wydać 1,5 miliarda dolarów z loterii Powerball? [GALERIA]</h3>
+              <h3 class="kafelTytul">W "Grze o tron" wyglądała jak chłopak, ale zobaczcie, jaka jest seksowna [ZDJĘCIA]</h3>
             </a>
                       </article>
         </div>
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/swietlisty-stwor-pojawil-sie-nad-londynem-zdjecie-dnia,3611717,galop,t,id,tm.html">
+            <a href="/artykul/mecz-polska-serbia-bialo-czerwoni-wygrywaja-po-horrorze,3625516,artgal,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,281x236,q,70,h,b62425.jpg" class="lazy " alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,281x236,q,70,h,b62425.jpg" class="" alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,281x236,q,70,h,b86478.jpg" class="lazy " alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,281x236,q,70,h,b86478.jpg" class="" alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,125x90,q,70,h,762a32.jpg" class="lazy " alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/5b/b5/56981c3c51d18_o,size,125x90,q,70,h,762a32.jpg" class="" alt="Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]" width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,125x90,q,70,h,f90ef3.jpg" class="lazy " alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/b0/569a318cba0e1_o,size,125x90,q,70,h,f90ef3.jpg" class="" alt="Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]" width="125" height="90"></noscript>
                 </span>
                                   <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">Świetlisty stwór pojawił się nad Londynem [ZDJĘCIE DNIA]</h3>
+              <h3 class="kafelTytul">Mecz Polska - Serbia. Biało-czerwoni wygrywają po horrorze! [ZDJĘCIA]</h3>
             </a>
                       </article>
         </div>
@@ -1303,33 +1301,33 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
       <div class="row">
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html">
+            <a href="/artykul/holowczyc-debski-a-moze-kammel-oni-maja-najlepszy-styl-top,3623646,galop,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,281x236,q,70,h,7a4fb3.jpg" class="lazy " alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,281x236,q,70,h,7a4fb3.jpg" class="" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,281x236,crop,0.0000x0.0260x0.9920x0.5553,q,70,h,ce3183.jpg" class="lazy " alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,281x236,crop,0.0000x0.0260x0.9920x0.5553,q,70,h,ce3183.jpg" class="" alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class="lazy " alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,125x90,q,70,h,c40ada.jpg" class="" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,125x90,crop,0.0000x0.0313x0.9920x0.4740,q,70,h,82528b.jpg" class="lazy " alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/58/60/56978a846628a_o,size,125x90,crop,0.0000x0.0313x0.9920x0.4740,q,70,h,82528b.jpg" class="" alt="Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]" width="125" height="90"></noscript>
                 </span>
                                   <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">QUIZ: Czego powinieneś nauczyć się w 2016 roku? </h3>
+              <h3 class="kafelTytul">Hołowczyc, Dębski, a może Kammel? Oni mają najlepszy styl [TOP 10]</h3>
             </a>
                       </article>
         </div>
         <div class="columns medium-6">
           <article class="kafel kafelMaly">
-            <a href="/artykul/najbardziej-zadluzone-polskie-imiona-zobacz-jak-nie-nazywac,3623814,artgal,t,id,tm.html">
+            <a href="/artykul/nikt-z-nas-nie-zobaczy-w-zyciu-tylu-pieniedzy-rekordowa,3623166,artgal,t,id,tm.html">
               <div class="img">
                 <span class="hide-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,281x236,q,70,h,520245.jpg" class="lazy " alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,281x236,q,70,h,520245.jpg" class="" alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="281" height="236"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,281x236,q,70,h,6a99f2.jpg" class="lazy " alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="281" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,281x236,q,70,h,6a99f2.jpg" class="" alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="281" height="236"></noscript>
                 </span>
                 <span class="show-for-small-only">
-                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,125x90,q,70,h,389858.jpg" class="lazy " alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/43/8a/5697a0977dd83_o,size,125x90,q,70,h,389858.jpg" class="" alt="Najbardziej &quot;zadłużone&quot; polskie imiona - zobacz, jak nie nazywać dziecka" width="125" height="90"></noscript>
+                  <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,125x90,q,70,h,e7648c.jpg" class="lazy " alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/76/eb/56974571370a9_o,size,125x90,q,70,h,e7648c.jpg" class="" alt="Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii" width="125" height="90"></noscript>
                 </span>
                                   <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                               </div>
-              <h3 class="kafelTytul">Najbardziej "zadłużone" polskie imiona - zobacz, jak nie nazywać dziecka</h3>
+              <h3 class="kafelTytul">Nikt z nas nie zobaczy w życiu tylu pieniędzy! Rekordowa wygrana Powerball padła w Kalifornii</h3>
             </a>
                       </article>
         </div>
@@ -1337,17 +1335,17 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
     </div>
     <div class="columns medium-6">
       <article class="kafel kafelPoziomy">
-        <a href="/artykul/oscary-2016-gdzie-ogladac-na-zywo-kiedy-rozdanie-zlotych,3622690,artgal,t,id,tm.html">
+        <a href="/artykul/pamietacie-te-telefony-juz-ich-nie-kupicie,3621272,artgal,t,id,tm.html">
           <div class="img">
             <span class="hide-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/52/25/56963daf20363_o,size,577x236,q,70,h,6dc3b8.jpg" class="lazy " alt="Oscary 2016 - gdzie oglądać na żywo? Kiedy rozdanie złotych statuetek?" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/52/25/56963daf20363_o,size,577x236,q,70,h,6dc3b8.jpg" class="" alt="Oscary 2016 - gdzie oglądać na żywo? Kiedy rozdanie złotych statuetek?" width="577" height="236"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/22/6c/5694a2210f550_o,size,577x236,q,70,h,d208f3.jpg" class="lazy " alt="Pamiętacie te telefony? Już ich nie kupicie!" width="577" height="236"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/22/6c/5694a2210f550_o,size,577x236,q,70,h,d208f3.jpg" class="" alt="Pamiętacie te telefony? Już ich nie kupicie!" width="577" height="236"></noscript>
             </span>
             <span class="show-for-small-only">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/52/25/56963daf20363_o,size,125x90,q,70,h,e28275.jpg" class="lazy " alt="Oscary 2016 - gdzie oglądać na żywo? Kiedy rozdanie złotych statuetek?" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/52/25/56963daf20363_o,size,125x90,q,70,h,e28275.jpg" class="" alt="Oscary 2016 - gdzie oglądać na żywo? Kiedy rozdanie złotych statuetek?" width="125" height="90"></noscript>
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/22/6c/5694a2210f550_o,size,125x90,q,70,h,1a6235.jpg" class="lazy " alt="Pamiętacie te telefony? Już ich nie kupicie!" width="125" height="90"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/22/6c/5694a2210f550_o,size,125x90,q,70,h,1a6235.jpg" class="" alt="Pamiętacie te telefony? Już ich nie kupicie!" width="125" height="90"></noscript>
             </span>
                           <span class="apla aplaGora icon-camera" title="Zdjęcia"></span>
                       </div>
-          <h3 class="kafelTytul">Oscary 2016 - gdzie oglądać na żywo? Kiedy rozdanie złotych statuetek?</h3>
+          <h3 class="kafelTytul">Pamiętacie te telefony? Już ich nie kupicie!</h3>
         </a>
               </article>
     </div>
@@ -1696,20 +1694,21 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                 Nauka
               </a>
                       </span>
-          <a href="/artykul/egzamin-zawodowy-2016-klucz-odpowiedzi,3624648,artgal,t,id,tm.html">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/e1/33/5698cd37b8bc4_o,size,370x210,q,70,h,b424ac.jpg" class="lazy " alt="Egzamin zawodowy 2016 - klucz ODPOWIEDZI" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/e1/33/5698cd37b8bc4_o,size,370x210,q,70,h,b424ac.jpg" class="" alt="Egzamin zawodowy 2016 - klucz ODPOWIEDZI" width="380" height="215"></noscript>
+          <a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html">
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,370x210,q,70,h,867668.jpg" class="lazy " alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/81/d1/5698d69211f16_o,size,370x210,q,70,h,867668.jpg" class="" alt="QUIZ: Czego powinieneś nauczyć się w 2016 roku? " width="380" height="215"></noscript>
           </a>
                       <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
-        <h4 class="ellipsis"><a href="/artykul/egzamin-zawodowy-2016-klucz-odpowiedzi,3624648,artgal,t,id,tm.html"> Egzamin zawodowy 2016 - klucz ODPOWIEDZI</a></h4>
+        <h4 class="ellipsis"><a href="/artykul/quiz-czego-powinienes-nauczyc-sie-w-2016-roku,3624718,artgal,t,id,tm.html"> QUIZ: Czego powinieneś nauczyć się w 2016 roku? </a></h4>
         <ul class="linkiPoziome clearfix">
-                    <li class="typ"><a href="/nauka/">Nauka</a></li>
+                    <li class="typ"><a href="/hallo/">Hallo</a></li>
           <li class="data">
              
-            <time datetime="2016-01-15 13:47:35">
-              Dzisiaj 13:47
+            <time datetime="2016-01-15 12:26:47">
+              15/01/2016
             </time>
           </li>
+                      <li class="komentarze"><i class="icon-bubble"></i>5</li>
                             </ul>
               </article>
     </li>
@@ -1721,18 +1720,18 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                 Turystyka
               </a>
                       </span>
-          <a href="/artykul/beskidy-zima-wrocila-na-stokach-bialo-zdjecia,3624744,artgal,t,id,tm.html">
-            <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/00/bb/5698e0fd7d02d_o,size,370x210,q,70,h,f30156.jpg" class="lazy " alt="Zima wróciła! Na stokach biało [ZDJĘCIA]" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/00/bb/5698e0fd7d02d_o,size,370x210,q,70,h,f30156.jpg" class="" alt="Zima wróciła! Na stokach biało [ZDJĘCIA]" width="380" height="215"></noscript>
+          <a href="/artykul/beskidy-opady-sniegu-i-mroz-to-oznacza-bajkowa-scenerie,3626058,artgal,t,id,tm.html">
+            <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/91/81/569ba6d0bbb40_o,size,370x210,q,70,h,c53867.jpg" class="lazy " alt="Beskidy: Opady śniegu i mróz. To w końcu zima" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/91/81/569ba6d0bbb40_o,size,370x210,q,70,h,c53867.jpg" class="" alt="Beskidy: Opady śniegu i mróz. To w końcu zima" width="380" height="215"></noscript>
           </a>
                       <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
-        <h4 class="ellipsis"><a href="/artykul/beskidy-zima-wrocila-na-stokach-bialo-zdjecia,3624744,artgal,t,id,tm.html"> Beskidy: Zima wróciła! Na stokach biało [ZDJĘCIA]</a></h4>
+        <h4 class="ellipsis"><a href="/artykul/beskidy-opady-sniegu-i-mroz-to-oznacza-bajkowa-scenerie,3626058,artgal,t,id,tm.html"> Beskidy: Opady śniegu i mróz. To oznacza bajkową scenerię [ZDJĘCIA]</a></h4>
         <ul class="linkiPoziome clearfix">
                     <li class="typ"><a href="/turystyka/">Turystyka</a></li>
           <li class="data">
              
-            <time datetime="2016-01-15 13:08:53">
-              Dzisiaj 13:08
+            <time datetime="2016-01-17 15:35:52">
+              Dzisiaj 15:35
             </time>
           </li>
                             </ul>
@@ -1746,21 +1745,20 @@ window.fbAsyncInit=function(){FB.init({appId:fb_AppID,cookie:true,xfbml:true,ver
                 Życie i styl
               </a>
                       </span>
-          <a href="/artykul/studniowka-2016-zs-im-o-langego-w-zawierciu-zdjecia,3619301,artgal,t,id,tm.html">
-              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/e6/52/56915fa7010a6_o,size,370x210,q,70,h,f32eb9.jpg" class="lazy " alt="Studniówka 2016 ZS im. O. Langego w Zawierciu" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/e6/52/56915fa7010a6_o,size,370x210,q,70,h,f32eb9.jpg" class="" alt="Studniówka 2016 ZS im. O. Langego w Zawierciu" width="380" height="215"></noscript>
+          <a href="/artykul/prezent-dla-babci-i-dziadka-co-kupic-dzien-babci-i-dziadka,3625652,artgal,t,id,tm.html">
+              <img src="http://s-nm.ppstatic.pl//o/_blank.png" data-original="http://d-nm.ppstatic.pl/kadr/k/r/9c/e1/569a799dbd8e2_o,size,370x210,q,70,h,587609.jpg" class="lazy " alt="Dzień babci i dziadka - jaki prezent?" width="380" height="215"><noscript><img src=" http://d-nm.ppstatic.pl/kadr/k/r/9c/e1/569a799dbd8e2_o,size,370x210,q,70,h,587609.jpg" class="" alt="Dzień babci i dziadka - jaki prezent?" width="380" height="215"></noscript>
           </a>
                       <span class="apla icon-camera" title="Zdjęcia"></span>
                   </div>
-          <h4 class="ellipsis"><a href="/artykul/studniowka-2016-zs-im-o-langego-w-zawierciu-zdjecia,3619301,artgal,t,id,tm.html"> Studniówka 2016 ZS im. O. Langego w Zawierciu [ZDJĘCIA]</a></h4>
+          <h4 class="ellipsis"><a href="/artykul/prezent-dla-babci-i-dziadka-co-kupic-dzien-babci-i-dziadka,3625652,artgal,t,id,tm.html"> Prezent dla babci i dziadka - co kupić? [Dzień babci i dziadka 2016]</a></h4>
           <ul class="linkiPoziome clearfix">
-                        <li class="typ"><a href="/wydarzenia/regionalne/">Regionalne</a></li>
+                        <li class="typ"><a href="/zycieistyl/">Życie i styl</a></li>
             <li class="data">
                
-              <time datetime="2016-01-09 20:36:04">
-                09/01/2016
+              <time datetime="2016-01-16 21:29:49">
+                Wczoraj 21:29
               </time>
             </li>
-                          <li class="komentarze"><i class="icon-bubble"></i>16</li>
                                   </ul>
               </article>
     </li>

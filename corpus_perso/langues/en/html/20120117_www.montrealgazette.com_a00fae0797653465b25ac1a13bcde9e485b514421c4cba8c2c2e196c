@@ -3,7 +3,7 @@
 <html lang="he"   id="htmlHead" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
 	<head id="ctl00_ctl00_Head1">
 		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-		<!-- OutputCache at:15/01/2016 16:42:50 template: /en/templates/Master_Article_2013_EN.master // --><title>
+		<!-- OutputCache at:1/17/2016 11:26:17 PM template: /en/templates/Master_Article_2013_EN.master // --><title>
 	Globes English - Hong Kong health department recalls Teva drug
 </title><meta charset="utf-8" /><meta name="publisher" content="http://www.globes.co.il/" /><script type='text/javascript'>
 var googletag = googletag || {};
@@ -129,7 +129,7 @@ else
     
 	<div id="wrap">
 		<form name="aspnetForm" method="post" action="article-1000716239" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFRGN0bDAwJGN0bDAwJENQSF9NYWluJHVjQXJ0aWNsZV92ZXIzX0VOJHVjX2FkZFJlc3BvbnNlMSRjaGtHZXRVcGRhdGVzwjc0Fg1XyFgtAgXhxRyVusfS33kBbmbGnDODUsgzkDE=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFRGN0bDAwJGN0bDAwJENQSF9NYWluJHVjQXJ0aWNsZV92ZXIzX0VOJHVjX2FkZFJlc3BvbnNlMSRjaGtHZXRVcGRhdGVzFpHR7jv7gyNSRIIS+f2kAT9wj8wpU2Q5xc5S12+Aoac=" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6E6C1665" />
 
@@ -425,12 +425,12 @@ _taboola.push({article: 'auto'});
         
     
     
-        <a class="next" onmousedown="javascript:ruleriGeneralArticleEvent('next','Main text_nextarticle_box_click')"  href="/en/article-icl-buys-15-stake-in-chinese-chemicals-co-for-250m-1001095584"> <i class="fa fa-angle-right"></i> 
-            <span class="nextArticle">ICL buys 15% stake in Chinese chemicals co for $250m</span>
+        <a class="next" onmousedown="javascript:ruleriGeneralArticleEvent('next','Main text_nextarticle_box_click')"  href="/en/article-el-als-sun-dor-unveils-new-summer-destinations-1001095939"> <i class="fa fa-angle-right"></i> 
+            <span class="nextArticle">El Al's Sun D'Or unveils new summer destinations</span>
         </a> 
     
-        <a class="prev" onmousedown="javascript:ruleriGeneralArticleEvent('prev','Main text_nextarticle_box_click')"  href="/en/article-icl-buys-15-stake-in-chinese-chemicals-co-for-250m-1001095584"> <i class="fa fa-angle-left"></i> 
-            <span class="prevArticle">ICL buys 15% stake in Chinese chemicals co for $250m</span>
+        <a class="prev" onmousedown="javascript:ruleriGeneralArticleEvent('prev','Main text_nextarticle_box_click')"  href="/en/article-el-als-sun-dor-unveils-new-summer-destinations-1001095939"> <i class="fa fa-angle-left"></i> 
+            <span class="prevArticle">El Al's Sun D'Or unveils new summer destinations</span>
         </a>
     
 
@@ -689,7 +689,7 @@ Globes encourages lively and frank debate, but posts that the editors consider m
     var objHidHash = document.getElementById('ctl00_ctl00_CPH_Main_ucArticle_ver3_EN_uc_addResponse1_hidHash');
     var objHidNick = document.getElementById('ctl00_ctl00_CPH_Main_ucArticle_ver3_EN_uc_addResponse1_hidNickName');
 
-    var ipForResponses = '193.49.229.71';
+    var ipForResponses = '82.245.7.247';
     var sHashForResponses = ipForResponses + "_" + bo_time.getDay() + bo_time.getHours() + bo_time.getMinutes() + bo_time.getSeconds() + bo_time.getMilliseconds();
    
     var objHidDocID = document.getElementById("hidDocID");

@@ -7,7 +7,7 @@
 <meta charset="UTF-8" />
 <meta property="og:title" content="Ядерный узел Ближнего Востока">
 <meta name="viewport" content="width=device-width">
-<link href="/d/expert13/css/index.css?1.11.0" rel="stylesheet" />
+<link href="/d/expert13/css/index.css?1.11.2" rel="stylesheet" />
 <link rel="stylesheet" href="/d/expert13/css/print.css?1" media="print" /> 
 <meta name="description" content='Еще никогда Запад и Иран не были так близки к войне' lang="ru" />
 <meta name="keywords" content="Ядерное досье Ирана,Иран,Израиль,США,Политические кризисы,Ближний Восток " lang="ru" />
@@ -251,7 +251,7 @@ new adriver("adriver_banner_464849251", {sid:180535, bt:52, bn:2, custom:{"1":ad
 
 
   <!--инфо-панель-->
-  <section class="panel-info">Москва, 15 янв, пятница
+  <section class="panel-info">Москва, 18 янв, понедельник
     <!--<span class="weather">+31 °С</span>-->
     <!--    <form action="" method="get">
       <div class="search">
@@ -263,7 +263,7 @@ new adriver("adriver_banner_464849251", {sid:180535, bt:52, bn:2, custom:{"1":ad
     <form class="search-bgd" method="GET" action="/search/" enctype="multipart/form-data" id="srchFrm">
       <div class="search">
         <input name="search_text" type="text" class="search-text" id="searchInput" autocomplete="off" placeholder="Поиск"/>
-        <input type="submit" class="search-button" id="searchSubm" value="" disabled="disabled"/>
+        <input type="submit" class="search-button" id="searchSubm" value=""/>
       </div>
     </form>
     <!--<div id="tagsNavigation" class="sub-nav-panel clearfix" style="display:none"></div>
@@ -1051,14 +1051,14 @@ addEvent(window,'scroll',this.sfunc);t.scroll()}}};addEvent(window, 'load', func
         
             <ol class="list-num">
             
-                <li><a class="li-title" href="/2016/01/9/aramko/">Приватизация Saudi Aramco: инвесторы изумлены и озадачены</a><br>
-                Разговоры о возможной приватизации через IPO саудовской государственной компании Saudi Aramco, крупнейшего в мире экспортера нефти, вызвали шок на рынке</li>
+                <li><a class="li-title" href="/2016/01/16/novaya-zhizn-novyij-fond/">Новая жизнь, новый фонд</a><br>
+                Жители Королевства Саудовская Аравия проснулись фактически в новой стране </li>
             
                 <li><a class="li-title" href="/2016/01/14/hemm/">Американский миллиардер: саудиты сделали ошибку на триллион долларов</a><br>
                 </li>
             
-                <li><a class="li-title" href="/2016/01/8/ig/">Вице-премьер Крыма: боевики ИГ находят пристанище на юге Украины</a><br>
-                </li>
+                <li><a class="li-title" href="/2016/01/15/utrom---vyiboryi-vecherom---granitsa/">Утром - выборы, вечером - граница</a><br>
+                Не имея возможности отказаться от выполнения Минских соглашений, Петр Порошенко пытается интерпретировать их по-своему. Однако его действия не находят понимания ни в России, ни в Европе</li>
             
             </ol>
         
@@ -1068,20 +1068,20 @@ addEvent(window,'scroll',this.sfunc);t.scroll()}}};addEvent(window, 'load', func
         
             <ol class="list-num">
             
-                <li><a class="li-title" href="/2016/01/10/iran/">Иран намерен построить газопровод в Европу</a><br>
-                Иран намерен построить газопровод в Европу</li>
+                <li><a class="li-title" href="/2016/01/14/poroshenko/">Порошенко рассказал, куда передал свою долю в компании Roshen</a><br>
+                Порошенко рассказал, куда передал свою долю в компании Roshen</li>
             
-                <li><a class="li-title" href="/2016/01/8/sinoptiki/">Синоптики прогнозируют аномальную погоду в Москве и Центральной России</a><br>
-                Синоптики прогнозируют аномальную погоду в Москве и Центральной России</li>
+                <li><a class="li-title" href="/2016/01/13/dolg-ukrainyi/">Украина выразила готовность к переговорам с Россией по долгу</a><br>
+                Украина выразила готовность к переговорам с Россией по долгу</li>
             
-                <li><a class="li-title" href="/2016/01/12/neft-prodolzhila-padenie-vo-vtornik/">Нефть продолжила падение во вторник</a><br>
-                Нефть продолжила падение во вторник</li>
+                <li><a class="li-title" href="/2016/01/15/preimuschestva-sotrudnichestva-so-shvejnoj-fabrikoj/">Преимущества сотрудничества со швейной фабрикой</a><br>
+                Если вам требуется индивидуальный пошив специализированной одежды для ваших сотрудников, снабдить промоутеров, проводящих акцию фирменными банданами и футболками, оснастить команду спортсменов спортивными толстовками и костюмами, а может, даже обеспечить пуховиками, то потребуются услуги швейной фабрики</li>
             
-                <li><a class="li-title" href="/2016/01/15/v-turtsii-nachalis-arestyi-uchenyih-simpatiziruyuschih-rpk/">В Турции начались аресты ученых симпатизирующих РПК</a><br>
-                В Турции начались аресты ученых симпатизирующих РПК</li>
+                <li><a class="li-title" href="/2016/01/13/iran_1/">Эксперт дал прогноз нефтяных цен в случае ирано-саудовского военного конфликта</a><br>
+                Эксперт дал прогноз нефтяных цен в случае ирано-саудовского военного конфликта</li>
             
-                <li><a class="li-title" href="/2016/01/14/ofitsialnyij-kurs-evro-vyiros-do-83_15-rublya-dollara---do-76_52-rublya/">Официальный курс евро вырос до 83,15 рубля, доллара - до 76,52 рубля</a><br>
-                Официальный курс евро вырос до 83,15 рубля, доллара - до 76,52 рубля</li>
+                <li><a class="li-title" href="/expert/2016/03/tajna-spokojnogo-sna/">Тайна спокойного сна</a><br>
+                Успешно испытав целую серию новых гиперзвуковых средств поражения, Россия вырвалась вперед в технологической оружейной гонке, навязанной нам США. Уже через пять лет мы сможем не только полностью защитить страну от мгновенного глобального удара неядерным высокоточным оружием, но и при необходимости нанести свой собственный</li>
             
             </ol>
         
@@ -1159,7 +1159,7 @@ addEvent(window,'scroll',this.sfunc);t.scroll()}}};addEvent(window, 'load', func
 
     
 
-        <h1  class="top-ico" ><a href="/2016/01/10/vezhlivaya-rossiya/">Вежливая Россия</a></h1>
+        <h1 ><a href="/2016/01/10/vezhlivaya-rossiya/">Вежливая Россия</a></h1>
  <!-- <span class="author">Анна Королева</span> -->
           <p>В российской внешней политике минувшего года есть и успехи, и неудачи, хотя первых больше.</p>
     

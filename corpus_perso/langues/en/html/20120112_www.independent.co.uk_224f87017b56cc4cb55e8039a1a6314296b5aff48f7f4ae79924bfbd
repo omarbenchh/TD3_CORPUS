@@ -58,26 +58,26 @@
 <link rel="apple-touch-icon" href="/sites/all/themes/ines_themes/independent_theme/img/apple-icon-180x180.png" sizes="180x180" />
     <!-- STYLES -->
     <style type="text/css" media="all">
-@import url("//www.independent.co.uk/modules/system/system.base.css?o0ppmq");
-@import url("//www.independent.co.uk/modules/system/system.menus.css?o0ppmq");
-@import url("//www.independent.co.uk/modules/system/system.messages.css?o0ppmq");
-@import url("//www.independent.co.uk/modules/system/system.theme.css?o0ppmq");
+@import url("//www.independent.co.uk/modules/system/system.base.css?o0y4fh");
+@import url("//www.independent.co.uk/modules/system/system.menus.css?o0y4fh");
+@import url("//www.independent.co.uk/modules/system/system.messages.css?o0y4fh");
+@import url("//www.independent.co.uk/modules/system/system.theme.css?o0y4fh");
 </style>
 <style type="text/css" media="all">
-@import url("//www.independent.co.uk/sites/all/modules/contrib/date/date_api/date.css?o0ppmq");
-@import url("//www.independent.co.uk/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o0ppmq");
-@import url("//www.independent.co.uk/sites/all/modules/contrib/scald/modules/library/dnd/css/editor-global.css?o0ppmq");
-@import url("//www.independent.co.uk/modules/field/theme/field.css?o0ppmq");
-@import url("//www.independent.co.uk/profiles/ines/modules/ines_archive_calendar/ines_archive_calendar.css?o0ppmq");
-@import url("//www.independent.co.uk/modules/node/node.css?o0ppmq");
-@import url("//www.independent.co.uk/sites/all/modules/contrib/scald_file/scald_file.css?o0ppmq");
-@import url("//www.independent.co.uk/modules/user/user.css?o0ppmq");
-@import url("//www.independent.co.uk/sites/all/modules/contrib/views/css/views.css?o0ppmq");
-@import url("//www.independent.co.uk/sites/all/modules/contrib/ckeditor/css/ckeditor.css?o0ppmq");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/date/date_api/date.css?o0y4fh");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?o0y4fh");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/scald/modules/library/dnd/css/editor-global.css?o0y4fh");
+@import url("//www.independent.co.uk/modules/field/theme/field.css?o0y4fh");
+@import url("//www.independent.co.uk/profiles/ines/modules/ines_archive_calendar/ines_archive_calendar.css?o0y4fh");
+@import url("//www.independent.co.uk/modules/node/node.css?o0y4fh");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/scald_file/scald_file.css?o0y4fh");
+@import url("//www.independent.co.uk/modules/user/user.css?o0y4fh");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/views/css/views.css?o0y4fh");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/ckeditor/css/ckeditor.css?o0y4fh");
 </style>
 <style type="text/css" media="all">
-@import url("//www.independent.co.uk/sites/all/modules/contrib/ctools/css/ctools.css?o0ppmq");
-@import url("//www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/css/style.css?o0ppmq");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/ctools/css/ctools.css?o0y4fh");
+@import url("//www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/css/style.css?o0y4fh");
 </style>
     
         <!-- HARDCODED -->
@@ -100,13 +100,17 @@ var s_account = "indepdev";
 ;
 </script>    <!-- SCRIPTS -->
     <script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__4YKB5DRtOH4CbUQCmVN3wfyj3i8lTiSHQPZai0vhqeI__lLE4j2nGPpAW_MzaJYlCIJou9iUxilp2PQvVyhPDYZI__3-tH0DQ1bJjCj2rAHhC4wM30BWyCG7AtOdqJ5-QW9cM.js"></script>
+<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__4YKB5DRtOH4CbUQCmVN3wfyj3i8lTiSHQPZai0vhqeI__QizG_b-LnqB3_u9JKXNtWFXMSrzBX-G6m9KXp5vTa9A__mEt_2ZgFlVhmhcekns2tHdYkezQi3GXke851AjQJk1g.js"></script>
 <script type="text/javascript" src="//cdn.gigya.com/JS/gigya.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4"></script>
-<script type="text/javascript" src="//www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/js/adunit_node.js?o0ppmq"></script>
-<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__YwfqoQ0q528Zcy0XRiOdKenVHAuN34Tdw2AyraegtlM__FO5X3nAvNrsXRh2YUMCE9HNYbdng2CJz5a-Nj1F1uHs__3-tH0DQ1bJjCj2rAHhC4wM30BWyCG7AtOdqJ5-QW9cM.js"></script>
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/js/adunit_node.js?o0y4fh"></script>
+<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__hSpQ3yTrtR8fXIbCC3abxuOIKYRMh91Wu7kKvOkuHTE__LR_lbbr0fk18401NM_fFUEZa6KDh_wKMg655nVJEj5A__mEt_2ZgFlVhmhcekns2tHdYkezQi3GXke851AjQJk1g.js"></script>
+<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__u5nz5qCjyayMlbgqdd_hwIoG7u8XBVN7KS9JBQfsNyo__tJJ38piQ3hX5LbBAdwcObpX2qLF3jw1LwkZPnfDcnjs__mEt_2ZgFlVhmhcekns2tHdYkezQi3GXke851AjQJk1g.js" defer="defer"></script>
+<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__1wIMEAzKLJpgEO5jNKH9sw3WRHCSMPVJfI09-yDohpw__VHZ4Jo365HLB-MgCO5YW8WFH4FiZAG1B5yILb3wqt1A__mEt_2ZgFlVhmhcekns2tHdYkezQi3GXke851AjQJk1g.js"></script>
+<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__PVm1EoyMrjRHtTK9C3s9cP3X9JTc7W5EE963_sN-dLo__U4ck3McnlLYQzaCF2YJhhzTALmez9dARJOpePblovXM__mEt_2ZgFlVhmhcekns2tHdYkezQi3GXke851AjQJk1g.js" defer="defer"></script>
+<script type="text/javascript" src="//static.independent.co.uk/s3fs-public/advagg_js/js__qIcjFeptuMx57nUGmSL7N_urhPtRgr-eRao03hXfJTk__1ysY9x23gQbnGSUQ7-Gl5nv15qTGZuw4z4WBwkxI-Go__mEt_2ZgFlVhmhcekns2tHdYkezQi3GXke851AjQJk1g.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"independent_theme","theme_token":"-vTgp_ykuYBsiJXJlE8lKxlA_VyhKYOdVQGVn4criMg","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/scald\/modules\/library\/dnd\/css\/editor-global.css":1,"modules\/field\/theme\/field.css":1,"profiles\/ines\/modules\/ines_archive_calendar\/ines_archive_calendar.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/ines_themes\/ines_theme\/css\/style.css":1,"sites\/all\/themes\/ines_themes\/independent_theme\/css\/style.css":1},"js":{"\/\/s.skimresources.com\/js\/44681X1528610.skimlinks.js":1,"http:\/\/cdn.georiot.com\/snippet.js":1,"https:\/\/www.dwin2.com\/pub.201309.min.js":1,"\/\/code.jquery.com\/jquery-2.1.4.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/main.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ads.js":1,"\/\/cdn.gigya.com\/JS\/gigya.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/adunit_node.js":1,"sites\/all\/libraries\/hammerjs\/hammer.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"profiles\/ines\/modules\/ines_scald_videos_external\/ines_scald_videos_external.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/adunit.js":1,"profiles\/ines\/modules\/ines_device\/js\/ines_device.js":1,"profiles\/ines\/modules\/ines_gigya\/js\/gigya.login.js":1,"profiles\/ines\/modules\/ines_layout_config\/js\/layout_grid.feeds.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/vendor\/jquery.lazyload.min.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ines-lazy-load.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/gigya.session.js":1,"profiles\/ines\/modules\/ines_js\/js\/all\/node--article.tpl.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/html.tpl.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/page.tpl.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/ads.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/sailthru.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/node--article.tpl.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/ines_masthead_tracking.js":1,"profiles\/ines\/modules\/ines_js\/js\/all\/sidebar_mpus_mobile.js":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/life-style\/health-and-families\/health-news\/private-clinic-refuses-free-breast-implant-removal-6288346.html":true},"layoutgridfeeds":[{"url":"http:\/\/i100.independent.co.uk\/feed","root":"articles","title":"headline","image":"thumbnailImage:url","link":"displayURL"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/api-mmm","root":"articles","title":"title","image":"image","link":"link"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/sidebar-videos","root":"articles","title":"title","image":"image","link":"link","type":"video"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/sponsored-features","root":"articles","title":"title","image":"image","link":"link"}]});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"independent_theme","theme_token":"--o938-hnbmKDCYzs06t6xUm8-tnugiLdkY5YNFtIdc","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/scald\/modules\/library\/dnd\/css\/editor-global.css":1,"modules\/field\/theme\/field.css":1,"profiles\/ines\/modules\/ines_archive_calendar\/ines_archive_calendar.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/ines_themes\/ines_theme\/css\/style.css":1,"sites\/all\/themes\/ines_themes\/independent_theme\/css\/style.css":1},"js":{"\/\/s.skimresources.com\/js\/44681X1528610.skimlinks.js":1,"http:\/\/cdn.georiot.com\/snippet.js":1,"https:\/\/www.dwin2.com\/pub.201309.min.js":1,"\/\/code.jquery.com\/jquery-2.1.4.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/main.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ads.js":1,"\/\/cdn.gigya.com\/JS\/gigya.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/adunit_node.js":1,"sites\/all\/libraries\/hammerjs\/hammer.min.js":1,"sites\/all\/modules\/custom\/pugpig\/core\/js\/pugpig.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"profiles\/ines\/modules\/ines_scald_videos_external\/ines_scald_videos_external.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/adunit.js":1,"profiles\/ines\/modules\/ines_device\/js\/ines_device.js":1,"profiles\/ines\/modules\/ines_layout_config\/js\/layout_grid.feeds.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/gigya.session.js":1,"profiles\/ines\/modules\/ines_gigya\/js\/gigya.login.js":1,"profiles\/ines\/modules\/ines_js\/js\/all\/node--article.tpl.js":1,"profiles\/ines\/modules\/ines_js\/js\/all\/sidebar_mpus.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/html.tpl.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/page.tpl.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/ads.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/sailthru.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/node--article.tpl.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/vendor\/jquery.lazyload.min.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ines-lazy-load.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/ines_masthead_tracking.js":1,"profiles\/ines\/modules\/ines_gigya\/js\/bug-comments-blank-when-user-is-logged-in.js":1,"profiles\/ines\/modules\/ines_js\/js\/all\/sidebar_mpus_mobile.js":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/life-style\/health-and-families\/health-news\/private-clinic-refuses-free-breast-implant-removal-6288346.html":true},"layoutgridfeeds":[{"url":"http:\/\/i100.independent.co.uk\/feed","root":"articles","title":"headline","image":"thumbnailImage:url","link":"displayURL"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/api-mmm","root":"articles","title":"title","image":"image","link":"link"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/sidebar-videos","root":"articles","title":"title","image":"image","link":"link","type":"video"},{"url":"http:\/\/www.independent.co.uk\/layout_component\/sponsored-features","root":"articles","title":"title","image":"image","link":"link"}]});
 //--><!]]>
 </script>
     <!-- POST HEAD INLINE -->
@@ -134,8 +138,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     </li>
   </ul>
   <nav>
-    <ol><li><a href="/news" title="">News</a><ul><li class="topic"><a href="/topic/DavidBowie" title="">David Bowie</a></li>
-<li><a href="/news/uk" title="">UK</a></li>
+    <ol><li><a href="/news" title="">News</a><ul><li><a href="/news/uk" title="">UK</a></li>
 <li><a href="http://www.independent.co.uk/news/world/americas" title="">US</a></li>
 <li><a href="/news/world" title="">World</a></li>
 <li><a href="http://www.independent.co.uk/news/people" title="">People</a></li>
@@ -190,7 +193,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
  <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
 </div>
 <input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="[]" />
-</div><input type="hidden" name="form_build_id" value="form-ic_416kFYrlMS16W5jGIyQo4ta8YA_6tKDpV88K0mPI" />
+</div><input type="hidden" name="form_build_id" value="form-zmqW6PfQXgrNCa-v_wUW5XiZKRHGVkfjr7smBRqDmPE" />
 <input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
 </div></form>  </li>
   <!--  <li class="edition">
@@ -221,10 +224,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
  <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
 </div>
 <input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="[]" />
-</div><input type="hidden" name="form_build_id" value="form-ic_416kFYrlMS16W5jGIyQo4ta8YA_6tKDpV88K0mPI" />
+</div><input type="hidden" name="form_build_id" value="form-zmqW6PfQXgrNCa-v_wUW5XiZKRHGVkfjr7smBRqDmPE" />
 <input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
 </div></form>  <ul class="topics"><li><a href="/news" title="">News</a><span class="toggle"><span class="icon-arrow-right"></span></span><ul><li class="hot_topic"><a href="/topic/uk-weather" title="">UK weather</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
-<li class="hot_topic"><a href="/topic/labour-reshuffle" title="">Labour reshuffle</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
 <li><a href="/news/uk" title="">UK</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
 <li><a href="/news/world/americas" title="">US</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
 <li><a href="/news/world" title="">World</a><span class="toggle"><span class="icon-arrow-right"></span></span></li>
@@ -351,7 +353,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     <div class="article-wrapper clearfix">
       <div class="main-content-column">
       <div class="text-wrapper" itemprop="articleBody">
-        <p>The blame game in the breast implant scandal intensified yesterday as one of Britain's largest private surgery clinics defied the Government by declaring it would not replace the defective implants free of charge.</p><p>The announcement by the Harley Medical Group came as Andrew Lansley launched three separate inquiries into the debacle which has left at least 40,000 women in the UK at risk from the industrial grade silicone contained in the Poly Implant Prothese implants.</p><p>In the Commons, Mr Lansley reiterated the Government's view that private clinics had a moral duty to look after their patients.</p><p>But Mel Graham, chairman of the Harley Medical Group, said the Government had a moral responsibility to replace the PIP implants, because of a regulatory failure.</p><p>"We're only sitting here today because the Medicines and Healthcare products Regulatory Agency [MHRA], their own regulatory authority, has approved these implants and obviously hasn't done [the] proper checking. We're an innocent victim like everyone else, we're attempting to do our best for our patients."</p><p>Mr Lansley blamed PIP, the French manufacturer of the implants, which fooled regulators by hiding the cheap industrial silicone when inspectors came to visit.</p><p>But he announced further investigations into the the EU approval of the devices which resulted in them receiving a CE mark, the actions of the MHRA and reviews by NHS medical director Sir Bruce Keogh and the Care Quality Commission of the regulation of the cosmetic surgery industry.</p><p>Sources said Mr Lansley was dismayed at the response of the private clinics – Transform, a second private chain, has also refused to replace the implants at its own cost – and warned NHS waiting lists could rise as a result. Worried women who cannot get help from their private clinic have been told they can have the implants removed on the NHS.</p><p>A source said: "The private clinics have a duty of care to their patients, they have made a lot of money and to leave women on their own is not good enough."</p>                  <meta itemprop="datePublished" content="2012-01-12T09:57:48+00:00"/>
+        <p>The blame game in the breast implant scandal intensified yesterday as one of Britain's largest private surgery clinics defied the Government by declaring it would not replace the defective implants free of charge.</p><p>The announcement by the Harley Medical Group came as Andrew Lansley launched three separate inquiries into the debacle which has left at least 40,000 women in the UK at risk from the industrial grade silicone contained in the Poly Implant Prothese implants.</p><p>In the Commons, Mr Lansley reiterated the Government's view that private clinics had a moral duty to look after their patients.</p><p>But Mel Graham, chairman of the Harley Medical Group, said the Government had a moral responsibility to replace the PIP implants, because of a regulatory failure.</p><p>"We're only sitting here today because the Medicines and Healthcare products Regulatory Agency [MHRA], their own regulatory authority, has approved these implants and obviously hasn't done [the] proper checking. We're an innocent victim like everyone else, we're attempting to do our best for our patients."</p><p>Mr Lansley blamed PIP, the French manufacturer of the implants, which fooled regulators by hiding the cheap industrial silicone when inspectors came to visit.</p><p>But he announced further investigations into the the EU approval of the devices which resulted in them receiving a CE mark, the actions of the MHRA and reviews by NHS medical director Sir Bruce Keogh and the Care Quality Commission of the regulation of the cosmetic surgery industry.</p><p>Sources said Mr Lansley was dismayed at the response of the private clinics – Transform, a second private chain, has also refused to replace the implants at its own cost – and warned NHS waiting lists could rise as a result. Worried women who cannot get help from their private clinic have been told they can have the implants removed on the NHS.</p><p>A source said: "The private clinics have a duty of care to their patients, they have made a lot of money and to leave women on their own is not good enough."</p>                  <meta itemprop="datePublished" content="2012-01-12T00:00:01+00:00"/>
                                   <ul class="inline-pipes-list">
             <li>
               More about:
@@ -478,7 +480,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       <div class="region region-page-bottom">
     <!-- SiteCatalyst code version: h.27.5.
 Copyright 1996-2016 Adobe, Inc. -->
-<script type="text/javascript" src="http://www.independent.co.uk/sites/all/libraries/sitecatalyst/ind_s_code.js?o0ppmq"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/sites/all/libraries/sitecatalyst/ind_s_code.js?o0y4fh"></script>
 <script type="text/javascript"><!--
 
 s.events="event7";
@@ -505,7 +507,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script>
-<noscript><img src="http://independent.122.2o7.net/b/ss/indepdev/1/H.27.5--NS/0?[AQB]&amp;cdp=3&amp;[AQE]/2294964" height="1" width="1" alt=""></noscript>
+<noscript><img src="http://independent.122.2o7.net/b/ss/indepdev/1/H.27.5--NS/0?[AQB]&amp;cdp=3&amp;[AQE]/9687532" height="1" width="1" alt=""></noscript>
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: h.27.5. -->
   </div>
@@ -523,35 +525,35 @@ var $ = jQuery;
 
 ;
   jQuery(document).ready(function($) {
-function onSiteLoginHandler(event) {
-        var currentUrl = window.location.href;
-        sessionStorage.setItem('indes_SourceURL', currentUrl);
-        sessionStorage.setItem('indes_Type', 'comment');
-        document.location = "/login";
+    function onSiteLoginHandler(event) {
+      var currentUrl = window.location.href;
+      sessionStorage.setItem('indes_SourceURL', currentUrl);
+      sessionStorage.setItem('indes_Type', 'comment');
+      document.location = "/login";
+    }
+    function getLoggedIn(response) {
+      if (response.user.UID === '') {
+        jQuery(window).load(function() {
+          jQuery('.gig-composebox-editor').css('display', 'none');
+          jQuery('.gig-composebox-site-login').text('Log in or register to comment');
+        });
       }
-      function getLoggedIn(response) {
-        if (response.user.UID === '') {
-          jQuery(window).load(function() {
-            jQuery('.gig-composebox-editor').css('display', 'none');
-            jQuery('.gig-composebox-site-login').text('Log in or register to comment');
-          });
-        }
-      }
-      var params = {
-        categoryID: 'ArticleComments',
-        streamID: 'a2099026',
-        version: 2,
-        containerID: 'commentsDiv',
-        cid:'',
-        enabledShareProviders: 'facebook,twitter,yahoo,linkedin',
-        useSiteLogin: true,
-        onSiteLoginClicked: onSiteLoginHandler // registering to the onSiteLoginClicked event
-      }
-      gigya.comments.showCommentsUI(params);
-      gigya.socialize.getUserInfo({
-        callback: getLoggedIn
-      });
-      });
+    }
+    var params = {
+      categoryID: 'ArticleComments',
+      streamID: 'a2099026',
+      version: 2,
+      containerID: 'commentsDiv',
+      cid:'',
+      enabledShareProviders: 'facebook,twitter,yahoo,linkedin',
+      useSiteLogin: true,
+      onSiteLoginClicked: onSiteLoginHandler // registering to the onSiteLoginClicked event
+    }
+    gigya.comments.showCommentsUI(params);
+    gigya.socialize.getUserInfo({
+      callback: getLoggedIn
+    });
+  });
 
 
 ;
@@ -709,5 +711,33 @@ googletag.cmd.push(function () {
     }()); </script>
     <!-- END Krux Controltag -->
 
+    <!-- Sailthru Horizon -->
+    <script type="text/javascript">
+        (function() 
+        {
+            function loadHorizon() 
+            {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+                }
+            loadHorizon();
+            var oldOnLoad = window.onload;
+            window.onload = function() 
+            {
+                    if (typeof oldOnLoad === 'function') 
+                {
+                        oldOnLoad();
+                    }
+                    Sailthru.setup({
+                        domain: 'horizon.e.independent.co.uk',
+                            useStoredTags: false
+                        });
+                };
+            })();
+    </script>
   </body>
 </html>

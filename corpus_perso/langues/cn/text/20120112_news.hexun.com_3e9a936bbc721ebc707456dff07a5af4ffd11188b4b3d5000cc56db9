@@ -229,7 +229,7 @@ catch (e){}
 
 
 <!-- 微博头像推荐 b-->
-
+ 
 <!-- 微博头像推荐 e-->
 <div class=tuba>
 <div class=title><a href="http://fblog.hexun.com/" target=_blank>财经名博</a></div>
@@ -979,7 +979,7 @@ reuters_glos_parseDom('artibody','GlossaryWidget');
 <script type="text/javascript" src="http://img.hexun.com/comment/comment0908.js?var=0917"></script>
 <script type="text/javascript" src="http://img.hexun.com/stock/stockpop/stock_v6.js"></script>
 <script type="text/javascript" src="http://img.hexun.com/share/tipblog.js"></script>
-
+ 
 <script type="text/javascript">
 var zero = 0;
 var cmtNum = "0";
@@ -1028,8 +1028,8 @@ else  document.getElementById("cmtspan").innerHTML = "已有<span id='commentCount
 	       resizeImage();
 	       //resizeImage 结束
 </script>
-
-
+ 
+ 
 <script language="javascript" src="http://sfocus.tool.hexun.com/js/att_count.js"></script>
 
 
