@@ -14,6 +14,7 @@ get_html_file(listeOfTuples, 'html2text')
 ```
 ##### Récupération du corpus et nettoyage en utilisant boilerpipe
 > Pour utiliser BoilerPipe il faut installer Java SE6 
+
 ```python
 get_html_file(listeOfTuples, 'boilerpipe')
 ```
