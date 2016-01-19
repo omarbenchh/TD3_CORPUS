@@ -21,19 +21,31 @@ get_html_file(listeOfTuples, 'boilerpipe')
 
 ###III . L'évaluation intrinsèque du corpus
 ##### Evaluation intrinsèque du corpus
+
+>Les fichier de sortie sont dans ./resultats/
+
 ```python
 evaluation()
 ```
 ##### Evaluation intrinsèque du corpus par langues
+
+>Les fichier de sortie sont dans ./resultats/langues 
+
 ```python
 evaluation_par_langue_global()
 ```
 ##### Evaluation intrinsèque du corpus par domaines
+
+>Les fichier de sortie sont dans ./resultats/domains 
+
 ```python
 evaluation_domaines()
 ```
 
 ###IV . L'évaluation extrinsèque du corpus
+
+>Pour l'évaluation extrinsèque dans le fichier out.html contenu dans le répertoire ./resultats/evaluation_extriseque on compare jusText et BoilerPipe
+
 ```python
 evaluation_extrinseque()
 ```
