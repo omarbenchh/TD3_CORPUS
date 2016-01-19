@@ -19,8 +19,8 @@ from pprint import pprint
 import random
 from urlparse import urlparse
 
-#import boilerpipe
-#from boilerpipe.extract import Extractor
+import boilerpipe
+from boilerpipe.extract import Extractor
 
 # chaines de caracteres frequements utilisees
 exception_url = 'La page demande n\'est pas accessible pour le moment : '
@@ -82,10 +82,10 @@ def toJustText(webContent):
 
 # transforme un contenu web en txt en utilisant BoilerPipe
 # retourne le text
-#def toBoilerPipe(myURL):
-#    extractor = Extractor(extractor='ArticleExtractor', url=myURL)
-#    txt = extractor.getText().encode('utf-8')
-#    return txt
+def toBoilerPipe(myURL):
+    extractor = Extractor(extractor='ArticleExtractor', url=myURL)
+    txt = extractor.getText().encode('utf-8')
+    return txt
 
 
 # Permet d'appeler la fonction qui transforme le contenu web en fonction de l'outil desire
@@ -94,8 +94,8 @@ def webContentToText(webContent, tool, url):
         txt = toHtml2text(webContent)
     if tool == "justText":
         txt = toJustText(webContent)
-   # if tool == "boilerpipe":
-    #    txt = toBoilerPipe(url)
+    if tool == "boilerpipe":
+        txt = toBoilerPipe(url)
     return txt
 
 
@@ -198,9 +198,11 @@ def get_html_file(listeOfTuples, tool):
             response = requests.get(url)
             if response.status_code == 200:
                 webContent = response.content
+                webContent = webContentToText(webContent,tool,url)
             else:
                 print exception_url + url
 
+            webContentBoilerPipe = webContentToText(webContent,'boilerpipe',url)
 
             # on sauvegarde tous les fichers au bon endroit (dans all + tri par langue + tri par domaine)
             save_file(htmlfilepath,webContent)
@@ -220,9 +222,10 @@ def get_html_file(listeOfTuples, tool):
             f.close()
 
             res = evaluation_extrinseque(gold, webContent)
+            res2 = evaluation_extrinseque(gold,webContentBoilerPipe)
 
             html_eval += '<tr><td>' + path + '</td><td>' + lang + '</td><td>' + domain + '</td><td>' + res[0]
-            html_eval += '</td><td>' + res[1] + '</td><td>Outils3 Res</td></tr>'
+            html_eval += '</td><td>' + res[1] + '</td><td>'+res[1]+'</td></tr>'
 
         except Exception as ex:
             print str(ex) + ' ' + url
@@ -424,16 +427,16 @@ jsonFile = read_json('./corpus_daniel/daniel.json')
 listeOfTuples = create_listeOfTuple(jsonFile)
 
 # transformer en txt avec tri par langue + tri par nom de domaine
-#get_html_file(listeOfTuples, 'justText')
+get_html_file(listeOfTuples, 'justText')
 # get_html_file(listeOfTuples, 'html2text')
 # get_html_file(listeOfTuples, 'boilerpipe')
 
 
 # lance l'evaluation globale
-#evaluation()
-#evaluation_par_langue_global()
-#from_text_to_html_tab()
+evaluation()
+evaluation_par_langue_global()
+from_text_to_html_tab()
 
 #evaluation par nom de domaine
+sort_vt_by_domain(listeOfTuples)
 evaluation_domaines()
-#sort_vt_by_domain(listeOfTuples)
